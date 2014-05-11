@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>WSJT</b>'
+Comment='<span size="xx-large">Amateur radio weak signal communications</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

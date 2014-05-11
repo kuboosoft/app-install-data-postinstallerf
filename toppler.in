@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Tower Toppler</b>'
+Comment='<span size="xx-large">A clone of the  Nebulus  game on old 8 and 16 bit machines.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

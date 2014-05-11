@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>bookletimposer</b>'
+Comment='<span size="xx-large">Impose PDF documents to create booklets</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

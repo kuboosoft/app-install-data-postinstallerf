@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>Lazarus (0.9.30.4)</b>'
+Comment='<span size="xx-large">Lazarus IDE (0.9.30.4)</span>'
+StartupWMClass=Lazarus (0.9.30.4)
+Value=.pas
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

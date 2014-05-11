@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">A free environment for rapid engineering and scientific prototyping and data processing</span>'
+Name='<b>FreeMat</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

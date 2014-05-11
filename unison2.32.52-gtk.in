@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Unison</b>'
+Comment='<span size="xx-large">GTK interface for the unison file synchronization tool 2.32.52</span>'
+StartupWMClass=Unison-gtk
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

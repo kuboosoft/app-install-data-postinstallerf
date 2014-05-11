@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Enna</b>'
+Comment='<span size="xx-large">EFL Multimedia Center</span>'
+StartupWMClass=enna
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

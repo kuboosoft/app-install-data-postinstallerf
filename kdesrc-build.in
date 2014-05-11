@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>KDE Source Builder</b>'
+Comment='<span size="xx-large">Builds the KDE Platform and associated software from its source code. A command-line only program.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

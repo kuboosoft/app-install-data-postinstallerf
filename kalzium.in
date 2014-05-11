@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">KDE Periodic Table of Elements</span>'
+Name='<b>Kalzium</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

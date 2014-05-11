@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Klipper</b>'
+Comment='<span size="xx-large">A cut & paste history utility</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

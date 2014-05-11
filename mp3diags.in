@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">MP3 Diags - diagnosis and repair tool</span>'
+Name='<b>MP3 Diags</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

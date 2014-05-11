@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>3D Chess</b>'
+Comment='<span size="xx-large">3D chess for X11</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

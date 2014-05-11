@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Flumotion Streaming Server Administration</b>'
+Comment='<span size="xx-large">Manage the Flumotion Streaming Server</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

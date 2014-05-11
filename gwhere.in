@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Removable media catalog managment</b>'
+Comment='<span size="xx-large">GWhere allows to manage a database of yours CDs and others removable media (hard disks, floppy drive, Zip drive, CD-ROM, etc...). With GWhere it s easy to browse yours CDs or to make quick search without need to insert yours CDs in the drive at each once.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

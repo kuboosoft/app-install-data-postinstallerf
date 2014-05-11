@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Xfce 4 Printing System Settings</b>'
+Comment='<span size="xx-large">Allow you to select the printing system backend that xfprint will use</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

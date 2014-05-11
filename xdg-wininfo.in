@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">A window information utility for X</span>'
+Name='<b>X Window Information</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

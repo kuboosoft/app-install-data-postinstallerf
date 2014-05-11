@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">IRC Client</span>'
+Name='<b>Konversation</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

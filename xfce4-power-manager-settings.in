@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Power Manager</b>'
+Comment='<span size="xx-large">Settings for the Xfce Power Manager</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

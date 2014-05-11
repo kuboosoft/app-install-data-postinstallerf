@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>JClic Report Server</b>'
+Comment='<span size="xx-large">Management of a database in which the results obtained by the students when carrying out the activities of the JClic projects are compiled</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

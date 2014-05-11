@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Qt 4 Linguist</b>'
+Comment='<span size="xx-large">Translation Tool</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

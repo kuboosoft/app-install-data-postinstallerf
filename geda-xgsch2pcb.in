@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>gEDA Schematic -> PCB Project</b>'
+Comment='<span size="xx-large">Create and edit electronics projects with xgsch2pcb</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>UIMA CPE Gui</b>'
+Comment='<span size="xx-large">Graphical interface to build UIMA CPE</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

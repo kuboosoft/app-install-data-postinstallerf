@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Ghextris</b>'
+Comment='<span size="xx-large">Fit falling blocks together on a hexagonal grid</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

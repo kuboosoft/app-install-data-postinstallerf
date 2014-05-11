@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>gmusicbrowser</b>'
+Comment='<span size="xx-large">Jukebox for large collections of mp3/ogg/flac/mpc</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

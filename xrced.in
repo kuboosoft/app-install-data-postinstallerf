@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>XRCed</b>'
+Comment='<span size="xx-large">wxPython XRC resource editor and UI designer</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Ristretto Image Viewer</b>'
+Comment='<span size="xx-large">Look at your images easily</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

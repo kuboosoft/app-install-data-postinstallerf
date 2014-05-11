@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>ScolaSync</b>'
+Comment='<span size="xx-large">Interactive tool to copy files to or from USB storage media</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

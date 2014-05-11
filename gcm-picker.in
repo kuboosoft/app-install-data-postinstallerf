@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Color Picker</b>'
+Comment='<span size="xx-large">Use the color sensor to sample spot colors</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

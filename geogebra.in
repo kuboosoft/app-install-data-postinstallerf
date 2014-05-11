@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>GeoGebra</b>'
+Comment='<span size="xx-large">Create interactive mathematical constructions and applets.</span>'
+StartupWMClass=geogebra-GeoGebra
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

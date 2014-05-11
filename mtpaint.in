@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>mtPaint graphic editor</b>'
+Comment='<span size="xx-large">painting program to create pixel art and manipulate digital photos</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Ardour Digital Audio Workstation</b>'
+Comment='<span size="xx-large">Record, mix and master multi-track audio</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

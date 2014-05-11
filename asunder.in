@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Asunder CD Ripper</b>'
+Comment='<span size="xx-large">An application to save tracks from an Audio CD as WAV, MP3, OGG, FLAC, and/or Wavpack</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

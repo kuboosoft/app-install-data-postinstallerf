@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Esperanza</b>'
+Comment='<span size="xx-large">XMMS2 client which aims to be as feature-full and easy-to-use as possible</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Blob Wars : Blob And Conquer</b>'
+Comment='<span size="xx-large">Mission and Objective based 3D Action Game</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

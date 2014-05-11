@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>Shutter</b>'
+Comment='<span size="xx-large">Capture, edit and share screenshots</span>'
+Name='<b>Capture an area of the screen</b>'
+Name='<b>Capture the entire screen</b>'
+Name='<b>Select a window to capture</b>'
+Name='<b>Capture the current active window</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

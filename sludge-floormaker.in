@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>SLUDGE Floor Maker</b>'
+Comment='<span size="xx-large">Edit SLUDGE floor plans</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

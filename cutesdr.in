@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>CuteSDR</b>'
+Comment='<span size="xx-large">Spectrum display and demodulator of IQ radio data</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

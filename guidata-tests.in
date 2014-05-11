@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>guidata-tests</b>'
+Comment='<span size="xx-large">you can use this applications to test all guidata features.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

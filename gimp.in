@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>GNU Image Manipulation Program</b>'
+Comment='<span size="xx-large">Create images and edit photographs</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

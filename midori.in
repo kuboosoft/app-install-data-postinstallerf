@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>Midori</b>'
+Comment='<span size="xx-large">Lightweight web browser</span>'
+Name='<b>New _Tab</b>'
+Name='<b>New _Window</b>'
+Name='<b>New P_rivate Browsing Window</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

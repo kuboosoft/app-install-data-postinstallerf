@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Reactivate HP LaserJet 1018/1020 after reloading paper</b>'
+Comment='<span size="xx-large">Click the button in this program when your printer ran out of paper and you have refilled the paper</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

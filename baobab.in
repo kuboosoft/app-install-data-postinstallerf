@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Disk Usage Analyzer</b>'
+Comment='<span size="xx-large">Check folder sizes and available disk space</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

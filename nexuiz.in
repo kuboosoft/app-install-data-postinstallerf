@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Nexuiz</b>'
+Comment='<span size="xx-large">A networked 3D first person shooter game with high-quality graphic effects</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

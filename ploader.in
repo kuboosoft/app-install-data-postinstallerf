@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>pLoader</b>'
+Comment='<span size="xx-large">application to upload your pictures to your Piwigo gallery</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

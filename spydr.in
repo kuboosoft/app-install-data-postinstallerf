@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">FITS image display and simple analysis</span>'
+Name='<b>Spydr</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

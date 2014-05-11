@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Inkscape</b>'
+Comment='<span size="xx-large">Create and edit Scalable Vector Graphics images</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

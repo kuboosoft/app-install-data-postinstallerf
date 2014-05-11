@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Alleyoop Memory Checker</b>'
+Comment='<span size="xx-large">Find memory-management problems in your programs using the valgrind tool</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

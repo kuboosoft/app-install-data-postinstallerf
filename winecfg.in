@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Wine configuration</b>'
+Comment='<span size="xx-large">Setup the compatibility layer for Windows programs</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

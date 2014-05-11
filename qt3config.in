@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Qt3 Configuration</b>'
+Comment='<span size="xx-large">A graphical configuration tool for programs using Qt 3</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

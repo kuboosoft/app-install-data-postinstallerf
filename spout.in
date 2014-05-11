@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Spout</b>'
+Comment='<span size="xx-large"></span>'
+Categories:Application:Game:ArcadeGame
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

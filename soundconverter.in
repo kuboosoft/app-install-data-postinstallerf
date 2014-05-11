@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Sound Converter</b>'
+Comment='<span size="xx-large">Convert audio files into other formats</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

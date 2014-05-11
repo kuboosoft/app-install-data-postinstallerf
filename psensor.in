@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Psensor</b>'
+Comment='<span size="xx-large">Psensor is a graphical temperature monitor for Linux</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

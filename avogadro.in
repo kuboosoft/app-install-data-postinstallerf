@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Avogadro</b>'
+Comment='<span size="xx-large">Advanced molecular editor</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>OVITO</b>'
+Comment='<span size="xx-large">Scientific visualization and analysis software for atomistic simulation data.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

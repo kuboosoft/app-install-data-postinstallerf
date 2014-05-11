@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Avahi Zeroconf Browser</b>'
+Comment='<span size="xx-large">Browse for Zeroconf services available on your network</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

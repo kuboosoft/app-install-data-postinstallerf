@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>zsnes</b>'
+Comment='<span size="xx-large">A Super Nintendo Entertainment System (TM) emulator</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

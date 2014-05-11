@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>TreeView X</b>'
+Comment='<span size="xx-large">Displays, modifies, prints and exports in SVG format phylogenetic trees</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

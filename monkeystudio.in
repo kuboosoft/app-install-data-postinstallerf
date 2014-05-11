@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Monkey Studio IDE</b>'
+Comment='<span size="xx-large">The best cross platform IDE available!</span>'
+Name='<b>Open With MkS</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

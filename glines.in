@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Five or More</b>'
+Comment='<span size="xx-large">Remove colored balls from the board by forming lines</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Nvtv TV Out</b>'
+Comment='<span size="xx-large">Control the TV output of NVidia video cards</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

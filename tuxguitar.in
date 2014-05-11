@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>tuxguitar</b>'
+Comment='<span size="xx-large">Edit, playback guitar tablatures</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

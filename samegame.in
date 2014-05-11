@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Same Game</b>'
+Comment='<span size="xx-large">Clear the grid of coloured squares by highlighting contiguous regions of more than one coloured square</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

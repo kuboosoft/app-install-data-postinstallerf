@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Alsaplayer</b>'
+Comment='<span size="xx-large">Versatile audio player for the Audio Linux Sound Architecture</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

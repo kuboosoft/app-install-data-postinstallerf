@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Block Attack - Rise of the Blocks</b>'
+Comment='<span size="xx-large">Switch blocks so they match</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

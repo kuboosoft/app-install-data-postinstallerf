@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Reportbug-NG</b>'
+Comment='<span size="xx-large">Report bugs to Debian s BTS</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

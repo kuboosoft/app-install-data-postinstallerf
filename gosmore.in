@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Gosmore Map Viewer</b>'
+Comment='<span size="xx-large">View, search and route with OpenStreetMap</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

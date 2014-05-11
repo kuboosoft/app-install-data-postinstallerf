@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Ngraph</b>'
+Comment='<span size="xx-large">create scientific 2-dimensional graphs</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

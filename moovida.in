@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Moovida Media Center</b>'
+Comment='<span size="xx-large">Play movies and songs on TV with remote</span>'
+StartupWMClass=moovida
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

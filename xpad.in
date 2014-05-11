@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Xpad</b>'
+Comment='<span size="xx-large">Jot down notes for later</span>'
+StartupWMClass=xpad
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

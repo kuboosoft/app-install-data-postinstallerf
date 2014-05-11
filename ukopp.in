@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>ukopp</b>'
+Comment='<span size="xx-large">Full and incremental backup with media verification</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

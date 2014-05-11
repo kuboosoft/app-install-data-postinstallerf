@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>Screenshot</b>'
+Comment='<span size="xx-large">Save images of your desktop or individual windows</span>'
+Name='<b>Take a screenshot of the whole screen</b>'
+Name='<b>Take a screenshot of the current window</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

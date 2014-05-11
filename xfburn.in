@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Xfburn</b>'
+Comment='<span size="xx-large">CD and DVD burning application</span>'
+Name='<b>Burn Image (xfburn)</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

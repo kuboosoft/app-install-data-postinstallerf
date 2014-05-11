@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Notification Daemon</b>'
+Comment='<span size="xx-large">Display notifications</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

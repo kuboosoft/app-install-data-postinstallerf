@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Childsplay</b>'
+Comment='<span size="xx-large">Suite of educational games for young children</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

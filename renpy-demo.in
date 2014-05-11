@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Ren Py Demo</b>'
+Comment='<span size="xx-large">visual-novel game demo with Ren Py</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

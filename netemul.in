@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>NetEmul</b>'
+Comment='<span size="xx-large">The LAN network simulator</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

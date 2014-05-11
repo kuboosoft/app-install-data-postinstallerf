@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Seq24</b>'
+Comment='<span size="xx-large">MIDI Sequencer</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

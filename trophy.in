@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Trophy</b>'
+Comment='<span size="xx-large">2D car racing game with power-ups</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

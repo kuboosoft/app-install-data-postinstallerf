@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Figaro s Password Manager 2</b>'
+Comment='<span size="xx-large">Manage passwords</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

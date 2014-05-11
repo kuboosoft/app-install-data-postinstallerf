@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>StarPlot Star Chart Viewer</b>'
+Comment='<span size="xx-large">View detailed star charts in 3D</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

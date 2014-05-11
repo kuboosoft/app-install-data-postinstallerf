@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Bug Squish</b>'
+Comment='<span size="xx-large">Squash the bugs before they suck up your blood</span>'
+Hidden=false
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

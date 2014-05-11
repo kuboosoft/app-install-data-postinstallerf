@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>HomeBank</b>'
+Comment='<span size="xx-large">Free, easy, personal accounting for everyone.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

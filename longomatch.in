@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>LongoMatch</b>'
+Comment='<span size="xx-large">Sports video analysis tool for coaches</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

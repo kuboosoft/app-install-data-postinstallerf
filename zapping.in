@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Zapping TV Viewer</b>'
+Comment='<span size="xx-large">Lets you watch TV in a window</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

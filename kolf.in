@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Kolf</b>'
+Comment='<span size="xx-large">Miniature Golf</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

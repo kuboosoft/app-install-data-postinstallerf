@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>UIMA Document Analyzer</b>'
+Comment='<span size="xx-large">Simple UIMA analysis engine runner</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

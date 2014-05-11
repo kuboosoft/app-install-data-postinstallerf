@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Create Launcher on the panel</b>'
+Comment='<span size="xx-large">Add a new launcher to the panel based on the information of this desktop file</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

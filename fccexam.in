@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>fccexam</b>'
+Comment='<span size="xx-large">FCC Radio Examination trainer</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

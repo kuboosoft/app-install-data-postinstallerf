@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Pioneers Editor</b>'
+Comment='<span size="xx-large">Create your own game for Pioneers</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

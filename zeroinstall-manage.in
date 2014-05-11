@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Manage Programs</b>'
+Comment='<span size="xx-large">Update or Remove Zero Install programs on your Applications menu</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

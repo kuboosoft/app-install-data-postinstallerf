@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>VolView 3.4</b>'
+Comment='<span size="xx-large">VolView allows volume viewing of image data sets</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

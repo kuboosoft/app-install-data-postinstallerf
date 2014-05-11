@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Tali</b>'
+Comment='<span size="xx-large">Beat the odds in a poker-style dice game</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

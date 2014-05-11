@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>BSOD</b>'
+Comment='<span size="xx-large">BSOD stands for "Blue Screen of Death". The finest in personal computer emulation, BSOD simulates popular screen savers from a number of less robust operating systems. Written by Jamie Zawinski.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,14 @@
+#!/bin/sh
+Comment='<span size="xx-large">Create your live radio show or podcast</span>'
+Name='<b>Internet DJ Console</b>'
+TerminalOptions=
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

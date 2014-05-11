@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>usbview</b>'
+Comment='<span size="xx-large">View USB devices attached to system</span>'
+MultipleArgs=false
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

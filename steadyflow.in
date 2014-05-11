@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Steadyflow</b>'
+Comment='<span size="xx-large">Download Manager</span>'
+Name='<b>_Add download...</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

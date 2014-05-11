@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>KMess</b>'
+Comment='<span size="xx-large">Live Messenger Client for KDE</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>SimpleAgenda</b>'
+Comment='<span size="xx-large">Simple agenda and calendar application for GNUstep</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

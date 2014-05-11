@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Guayadeque Music Player</b>'
+Comment='<span size="xx-large">Play music songs</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

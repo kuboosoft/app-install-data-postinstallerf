@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">Snake-like Game</span>'
+Name='<b>KSnake</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

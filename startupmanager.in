@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">Change settings for the bootloader and splash screen</span>'
+Name=' '
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

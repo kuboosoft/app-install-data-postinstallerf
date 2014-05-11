@@ -1,0 +1,14 @@
+#!/bin/sh
+Comment='<span size="xx-large">Edit text files "wiki style"</span>'
+Name='<b>Quick Note</b>'
+Name='<b>Quick Note from Clipboard</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

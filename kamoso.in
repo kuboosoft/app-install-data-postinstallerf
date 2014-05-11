@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Kamoso</b>'
+Comment='<span size="xx-large">Take any picture with your web cam</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

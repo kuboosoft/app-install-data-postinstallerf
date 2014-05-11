@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Phlipple</b>'
+Comment='<span size="xx-large">Phlipping squares will never be the same again</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

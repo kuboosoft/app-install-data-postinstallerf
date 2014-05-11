@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Me TV</b>'
+Comment='<span size="xx-large">A digital television (DVB) viewer for GNOME</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

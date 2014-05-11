@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>SLUDGE Translation Editor</b>'
+Comment='<span size="xx-large">Edit SLUDGE translation files</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

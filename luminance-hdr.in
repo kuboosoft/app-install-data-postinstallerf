@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>Luminance HDR</b>'
+Comment='<span size="xx-large">Create and tonemap HDR images</span>'
+StartupWMClass=luminance-hdr
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

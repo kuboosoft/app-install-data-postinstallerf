@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>MusicBrainz Picard</b>'
+Comment='<span size="xx-large">Tag your music with the next generation MusicBrainz tagger</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

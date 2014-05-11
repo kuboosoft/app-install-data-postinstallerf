@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Mumble</b>'
+Comment='<span size="xx-large">A low-latency, high quality voice chat program for gaming</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Midori Private Browsing</b>'
+Comment='<span size="xx-large">Open a new private browsing window</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

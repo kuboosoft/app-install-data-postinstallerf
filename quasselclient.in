@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Quassel IRC (Client only)</b>'
+Comment='<span size="xx-large">Distributed IRC client with central core component</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

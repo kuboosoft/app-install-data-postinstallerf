@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>BaseX XML Database</b>'
+Comment='<span size="xx-large">Visually query and analyse your XML data</span>'
+StartupWMClass=org-basex-BaseXGUI
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

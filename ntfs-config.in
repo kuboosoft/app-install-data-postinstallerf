@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>NTFS Configuration Tool</b>'
+Comment='<span size="xx-large">Enable/disable write support for NTFS with a simple click.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

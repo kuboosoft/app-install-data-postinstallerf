@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>SvxEdit Cave Survey Data Editor</b>'
+Comment='<span size="xx-large">Enter cave survey data for Survex</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

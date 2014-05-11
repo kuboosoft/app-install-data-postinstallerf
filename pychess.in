@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>PyChess</b>'
+Comment='<span size="xx-large">PyChess is a fully featured, nice looking, easy to use chess client for the Gnome desktop</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

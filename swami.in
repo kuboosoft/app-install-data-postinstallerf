@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Swami Instrument Editor</b>'
+Comment='<span size="xx-large">Create, play and organize MIDI instruments and sounds</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

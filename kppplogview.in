@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>KPPPLogview</b>'
+Comment='<span size="xx-large">Internet Dial-Up Tool Log Viewer</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

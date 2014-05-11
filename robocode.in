@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Robocode</b>'
+Comment='<span size="xx-large">Java programming game based on battle tanks</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

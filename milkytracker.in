@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>MilkyTracker</b>'
+Comment='<span size="xx-large">Fasttracker 2 Clone</span>'
+Name='<b>MilkyTracker (play song)</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

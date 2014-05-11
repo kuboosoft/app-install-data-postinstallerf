@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">Graphical IDE for MCS-51 based microcontrollers</span>'
+Name='<b>MCU 8051 IDE</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

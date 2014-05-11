@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Game Conqueror</b>'
+Comment='<span size="xx-large">A game hacking tool. A GUI front-end for scanmem.</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

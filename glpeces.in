@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">Play with 39 tangram and more 18,000 figures</span>'
+Name='<b>GLPeces</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

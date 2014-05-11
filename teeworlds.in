@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Teeworlds</b>'
+Comment='<span size="xx-large">An online multi-player platform 2D shooter</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

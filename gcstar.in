@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>GCstar Collections Manager</b>'
+Comment='<span size="xx-large">Manage your collections of movies, games, books, music and more</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

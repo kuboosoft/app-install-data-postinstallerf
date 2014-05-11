@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Clamz MP3 Downloader (command-line)</b>'
+Comment='<span size="xx-large">Download MP3 files from AmazonMP3.com</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

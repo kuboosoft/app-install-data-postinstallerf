@@ -1,0 +1,13 @@
+#!/bin/sh
+Comment='<span size="xx-large">Cycle</span>'
+Name='<b>Cycle</b>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

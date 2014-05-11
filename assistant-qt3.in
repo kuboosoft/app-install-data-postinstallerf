@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Qt3 Assistant</b>'
+Comment='<span size="xx-large">Qt3 Helpcenter</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

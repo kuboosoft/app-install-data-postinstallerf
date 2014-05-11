@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Exaile</b>'
+Comment='<span size="xx-large">Listen to, explore, or manage your audio collection</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

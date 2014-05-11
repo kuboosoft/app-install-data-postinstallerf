@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>GPRename</b>'
+Comment='<span size="xx-large">To rename files and directories in batch</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

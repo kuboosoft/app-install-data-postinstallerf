@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Envy24 control</b>'
+Comment='<span size="xx-large">Control Envy24 (ice1712) based soundcards</span>'
+Comment3=''
+License=''
+Screenshot=''
+Url=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url
