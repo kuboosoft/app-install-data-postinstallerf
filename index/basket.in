@@ -1,10 +1,16 @@
 #!/bin/sh
-Name='<b>BasKet Note Pads</b>'
-Comment='<span size="xx-large">Taking care of your ideas.</span>'
-Comment3=''
-License=''
-Screenshot=''
-Url=''
+Name='<b>BasKet</b>'
+Comment='<span size="xx-large">Take Notes It is easy to write down your ideas as you think</span>'
+Comment3='Easily take all sort of notes
+    Collect research results and share them
+    Centralize your project data and reuse it
+    Quickly organize your thoughts in idea boxes
+    Keep track of your information in a smart way
+    Make intelligent To Do lists
+    And a lot more...'
+License='GPLv3'
+Screenshot='http://basket.kde.org/screenshots/basket-note-pads.png'
+Url='http://basket.kde.org/'
 export Comment
 export Name
 export Comment3

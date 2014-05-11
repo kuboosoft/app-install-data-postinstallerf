@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Alien</b>'
+Comment='<span size="xx-large">Converts between the rpm, dpkg and more</span>'
+Comment3='Alien is a program that converts between the rpm, dpkg, stampede slp, and slackware tgz file formats. If you want to use a package from another distribution than the one you have installed on your system, you can use alien to convert it to your preferred package format and install it. Alien should not be used to replace important system packages, like sysvinit, shared libraries, or other things that are essential for the functioning of your system. Many of these packages are set up differently by Debian and Red Hat, and packages from the different distributions cannot be used interchangably. In general, if you cant uninstall the package without breaking your system, dont try to replace it with an alien version.'
+License='GPLv2'
+Screenshot=''
+Url='http://joeyh.name/code/alien/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

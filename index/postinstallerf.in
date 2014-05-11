@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>PostInstallerF</b>'
+Comment='<span size="xx-large">A post installation tool</span>'
+Comment3='PostInstallerF will install all the software that Fedora does not include by default, after running Fedora for the first time. Its easy for a new user. PostInstallerF contains everything that you need for your daily computing.'
+License='GPLv3'
+Screenshot='http://a.fsdn.com/con/app/proj/postinstaller/screenshots/Screenshot%20from%202013-01-17%2021:57:47.png'
+Url='http://sourceforge.net/projects/postinstaller/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

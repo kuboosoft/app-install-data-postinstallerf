@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>plasma-wallpaper-dreamdesktop</b>'
+Comment='<span size="xx-large">An innovative animated desktop wallpaper for KDE</span>'
+Comment3='DreamDesktop is an animated wallpaper designed for KDE 4 uses FFMPEG library. The project was tested under KDE 4.9.3. But it should work fine on all versions of KDE 4.8.x series / 4.9.x'
+License='GPLv3'
+Screenshot=''
+Url='http://www.jarzebski.pl/projekty/dreamdesktop.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Variety</b>'
+Comment='<span size="xx-large">Variety changes the wallpaper on a regular interval</span>'
+Comment3='Variety changes the desktop wallpaper on a regular basis, using user-specified or automatically downloaded images.'
+License='GPLv3'
+Screenshot='http://peterlevi.com/variety/wp-content/uploads/2012/10/01-all-1024x576.jpg'
+Url='http://peterlevi.com/variety/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

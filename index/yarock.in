@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>Yarock</b>'
+Comment='<span size="xx-large">Music Player in c++/Qt</span>'
+Comment3='Yarock is written in C++ using Qt and Phonon multimedia framework, only for
+linux platform.
+
+Feel free to download, test it and tell me what you think about it.
+
+Features include:
+* Music collection database (SQLite 3)
+* Smart playlist generator
+* Support mp3,Ogg Vorbis,flac music files (depending on phonon backend)
+* Support load/save playlist file (m3u, pls, xspf)
+* Play radio stream (tunin, shoutcast, dirble, ...)
+* Mp3Gain tag support for volume normalization
+* No GNOME or KDE dependancies'
+License='GPLv3'
+Screenshot='http://sourceforge.net/projects/postinstaller/files/screenshots/yarock.png'
+Url='https://launchpad.net/yarock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

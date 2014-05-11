@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Spotify-Client</b>'
+Comment='<span size="xx-large">A commercial music streaming service</span>'
+Comment3='Spotify is a commercial music streaming service providing digital rights management-restricted content from record labels including Sony, EMI, Warner Music Group and Universal.'
+License='Propietary'
+Screenshot='http://sourceforge.net/projects/postinstaller/files/screenshots/spotify-client.png'
+Url='http://www.spotify.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Wink</b>'
+Comment='<span size="xx-large">Wink is a Tutorial and Presentation creation software</span>'
+Comment3='Wink is a Tutorial and Presentation creation software, primarily aimed at creating tutorials on how to use software (like a tutor for MS-Word/Excel etc). Using Wink you can capture screenshots, add explanations boxes, buttons, titles etc and generate a highly effective tutorial for your users.'
+License='Propietary Free'
+Screenshot=''
+Url='http://www.debugmode.com/wink/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

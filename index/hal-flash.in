@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>hybrid-encoder</b>'
+Comment='<span size="xx-large">Play your flash drm streams</span>'
+Comment3='A libhal stub library forwarding to UDisks specifically to satisfy the libflashplayer.so / libadobecp requirements'
+License='GPLv2'
+Screenshot=' '
+Url='https://github.com/cshorler/hal-flash'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

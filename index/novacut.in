@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Novacut</b>'
+Comment='<span size="xx-large">A collaborative video editor</span>'
+Comment3='Novacut is a collaborative video editor that aims to bring the agile, distributed workflow pioneered by free software to professional movie and TV production'
+License='GPLv3'
+Screenshot='http://sourceforge.net/projects/postinstaller/files/screenshots/novacut.png'
+Url='https://launchpad.net/novacut/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

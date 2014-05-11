@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Winetricks</b>'
+Comment='<span size="xx-large">Winetricks is an easy way to work around problems in Wine</span>'
+Comment3='Winetricks is a helper script to download and install various redistributable runtime libraries needed to run some programs in Wine. These may include replacements for components of Wine using closed source libraries.'
+License='GPLv3'
+Screenshot=''
+Url='https://code.google.com/p/winetricks/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

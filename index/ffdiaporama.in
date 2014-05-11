@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ffDiaporama</b>'
+Comment='<span size="xx-large">Movie creator from photos and video clips</span>'
+Comment3='ffDiaporama is an application for creating video sequences consisting of
+   - titles, fixed or animated.
+   - images or photos, fixed or animated.
+   - movie clips
+   - music
+'
+License='GPLv3'
+Screenshot=''
+Url='http://ffdiaporama.tuxfamily.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

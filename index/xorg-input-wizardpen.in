@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>WizardPen</b>'
+Comment='<span size="xx-large">driver for most non-Wacom graphics pads</span>'
+Comment3='A Linux/HAL/udev/X11 driver for most non-Wacom graphics pads,
+for the Genius WizardPen, MousePen tablets and others.
+Supported tablets: Acecad Flair II GT-504, DigiPro 5.5 Graphics Tablet, Digital Ink Pad (A4 format), G-pen, Genius Wizardpen, Genius Mousepen, Genius Easypen i405, Genius, iBall, Manhattan, Pentagram, QWare, Trust TB-3100, Trust TB-5300, Trust TB-6300, UC-LOGIC, iBall Tablet PF8060, AIPTEK HyperPen 10000 U, AIPTEK Slim Tablet U600 Premium II'
+License='GPLv2'
+Screenshot=''
+Url='https://launchpad.net/~doctormo/+archive/xorg-wizardpen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

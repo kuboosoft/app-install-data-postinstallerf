@@ -1,11 +1,10 @@
 #!/bin/sh
-Name='<b>jEdit</b>'
-Comment='<span size="xx-large">Edit text files</span>'
-StartupWMClass=org-gjt-sp-jedit-jEdit
-Comment3=''
-License=''
-Screenshot=''
-Url=''
+Name='<b>jedit</b>'
+Comment='<span size="xx-large">Programmer text editor</span>'
+Comment3='jEdit is a mature programmer text editor with hundreds (counting the time developing plugins) of person-years of development behind it.'
+License='GPLv2'
+Screenshot='http://www.jedit.org/jedit-snap-30.png'
+Url='http://www.jedit.org/'
 export Comment
 export Name
 export Comment3
