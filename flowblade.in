@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>Flowblade</b>'
+Comment='<span size="xx-large">Nonlinear video editor for Linux</span>'
+Comment3='Flowblade is designed to provide a fast, precise and robust editing experience.
+
+In Flowblade clips are usually automatically placed tightly after or between clips when they are inserted on the timeline. Edits are fine tuned by trimming in and out points of clips, or by cutting and deleting parts of clips.
+
+Flowblade provides powerful tools to mix and filter video and audio. '
+License='GPLv3'
+Screenshot='https://fa017c3b-a-62cb3a1a-s-sites.googlegroups.com/site/phantom2dsite/screenimages/flowblade_screenshot_2.png'
+Url='https://code.google.com/p/flowblade/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

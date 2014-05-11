@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>App Inventor </b>'
+Comment='<span size="xx-large">Design and program your own apps using MIT App Inventor</span>'
+Comment3='App Inventor for Android is an open-source web application originally provided by Google, and now maintained by the Massachusetts Institute of Technology (MIT).'
+License='MIT'
+Screenshot='http://sourceforge.net/projects/postinstaller/files/screenshots/appinventor.png'
+Url='http://appinventor.mit.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

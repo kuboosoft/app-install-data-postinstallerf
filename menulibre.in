@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>MenuLibre</b>'
+Comment='<span size="xx-large">Advanced menu editor</span>'
+Comment3='An advanced menu editor that provides modern features in a clean, easy-to-use interface. All without GNOME dependencies, so even lightweight systems can benefit from the sanity that MenuLibre offers. MenuLibre is your one-stop shop for menus in Linux, whether you use Gnome, LXDE, XFCE, or Unity.'
+License='GPLv3'
+Screenshot='http://i1.wp.com/smdavis.us/wp-content/uploads/2012/07/Screenshot-from-2012-07-10-101132.png'
+Url='http://smdavis.us/projects/menulibre/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>MiroVideoConverter</b>'
+Comment='<span size="xx-large">A beatiful, simple way to convert almost any video</span>'
+Comment3='Miro Video Converter has presets that will convert video to the correct sizes and formats for popular phones, iPods, and other media players. Just convert your video and copy it to your device.'
+License='GPLv3'
+Screenshot='http://sourceforge.net/projects/postinstaller/files/screenshots/mvc.png'
+Url='http://www.mirovideoconverter.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

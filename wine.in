@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Wine</b>'
+Comment='<span size="xx-large">A compatibility layer for running Windows programs</span>'
+Comment3='Wine is a free and open source software application that aims to allow applications designed for Microsoft Windows to run on Unix-like operating systems.'
+License='GPLv2'
+Screenshot=''
+Url='http://www.winehq.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

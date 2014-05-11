@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>db4o</b>'
+Comment='<span size="xx-large">Open source object database</span>'
+Comment3='db4o helps innovators around the globe to build their next generation of data-rich, smart products.'
+License='GPLv2'
+Screenshot=''
+Url='http://www.db4o.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

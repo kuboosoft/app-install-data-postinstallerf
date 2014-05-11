@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Ubuntu One Client</b>'
+Comment='<span size="xx-large">Sync and share files between your computers</span>'
+Comment3='Ubuntu One helps you store, sync and share files. Sync your files, share your work with others or work remotely, all with your Ubuntu computer.'
+License='GPL; CCPL:cc-by-sa'
+Screenshot='http://sourceforge.net/projects/postinstaller/files/screenshots/ubuntuone-client.jpeg'
+Url='https://launchpad.net/ubuntuone-client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

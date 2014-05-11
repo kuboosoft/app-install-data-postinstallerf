@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>i-nex</b>'
+Comment='<span size="xx-large">System information tool like hardinfo, sysinfo</span>'
+Comment3='I-Nex is an application that gathers information for hardware components available on your system and displays it using an user interface similar to the popular Windows tool CPU-Z.'
+License='GPLv3'
+Screenshot='http://i-nex.linux.pl/wp-content/uploads/02202014003011573.png'
+Url='http://i-nex.linux.pl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

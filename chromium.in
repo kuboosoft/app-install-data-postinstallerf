@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Chromium</b>'
+Comment='<span size="xx-large">The open-source project behind Google Chrome</span>'
+Comment3='Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.'
+License='BSD'
+Screenshot='http://sourceforge.net/projects/postinstaller/files/screenshots/chromium.png'
+Url='http://www.chromium.org/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

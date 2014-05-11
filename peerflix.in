@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>peerflix</b>'
+Comment='<span size="xx-large">Streaming torrent client for Node.js</span>'
+Comment3='Peerflix is an experimental streaming video client using bittorrent through torrent-stream.
+
+It is not under active development'
+License='MIT'
+Screenshot='https://raw.github.com/mafintosh/peerflix/master/screenshot.png'
+Url='https://github.com/mafintosh/peerflix'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

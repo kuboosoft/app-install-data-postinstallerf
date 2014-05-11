@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>hybrid-encoder</b>'
+Comment='<span size="xx-large">A a multi platform media converter</span>'
+Comment3='Hybrid is a multi platform (Linux/Mac OS X/Windows) Qt based frontend for a bunch of other tools which can convert nearly every input to x264/Xvid/VP8 + ac3/ogg/mp3/aac/flac inside an mp4/m2ts/mkv/webm/mov/avi container, a Blu-ray or an AVCHD structure.'
+License='Propietary Free'
+Screenshot=' '
+Url='http://www.selur.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

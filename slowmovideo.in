@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Mobile Media Converter</b>'
+Comment='<span size="xx-large">creates slow-motion videos from your footage</span>'
+Comment3='SlowmoVideo is an OpenSource program that creates slow-motion videos from your footage. But it does not simply make your videos play at 0.01× speed. You can smoothly slow down and speed up your footage, optionally with motion blur. How does slow motion work? slowmoVideo tries to find out where pixels move in the video (this information is called Optical Flow), and then uses this information to calculate the additional frames between the ones recorded by your camera.'
+License='GPLv3'
+Screenshot=''
+Url='http://slowmovideo.granjow.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

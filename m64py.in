@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>M64Py</b>'
+Comment='<span size="xx-large">A frontend for Mupen64Plus</span>'
+Comment3='M64Py is a Qt4 front-end (GUI) for Mupen64Plus 2.0, a cross-platform plugin-based Nintendo 64 emulator. Front-end is written in Python and it provides a user-friendly interface over Mupen64Plus shared library.'
+License='GPLv3'
+Screenshot='http://a.fsdn.com/con/app/proj/m64py/screenshots/ss01.png'
+Url='http://m64py.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,13 @@
+#!/bin/sh
+Name='<b>Dropbox</b>'
+Comment='<span size="xx-large">A free service that lets you bring your dates</span>'
+Comment3='Dropbox is a file hosting service operated by Dropbox, Inc. Dropbox allows users to create a special folder on each of their computers, which Dropbox then synchronizes so that it appears to be the same folder (with the same contents) regardless of which computer is used to view it. Files placed in this folder also are accessible through a website and mobile phone applications.'
+License='Custom:Dropbox'
+Screenshot='http://sourceforge.net/projects/postinstaller/files/screenshots/dropbox.png'
+Url='http://www.dropbox.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url
