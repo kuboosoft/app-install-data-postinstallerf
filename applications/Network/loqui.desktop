@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n loqui
+Name=Loqui
+Name[ja]=Loqui
+Comment=IRC client
+Comment[ja]=IRCクライアント
+Icon=/usr/share/app-install-data-postinstallerf/icons/loqui.png
+Terminal=false
+Type=Application
+Categories=GTK;Network;IRCClient;

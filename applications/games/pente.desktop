@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n pente
+Name=Pente
+Comment=Five in a row game for X
+Icon=/usr/share/app-install-data-postinstallerf/icons/pente.png
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;

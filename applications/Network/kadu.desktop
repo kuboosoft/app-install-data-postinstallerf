@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n kadu
+Version=1.0
+Name=Kadu
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/kadu.png
+Categories=Network;InstantMessaging;Qt;
+Terminal=false
+StartupNotify=true
+GenericName=Gadu-Gadu/XMPP Client
+GenericName[pl]=Klient Gadu-Gadu i XMPP
+Comment=Gadu-Gadu/XMPP protocol client
+Comment[pl]=Klient protokołu Gadu-Gadu i XMPP

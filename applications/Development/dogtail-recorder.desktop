@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n python-dogtail
+Name=Dogtail Script Recorder
+Name[en_CA]=Dogtail Script Recorder
+Name[en_GB]=Dogtail Script Recorder
+Comment=Automate your desktop using Dogtail
+Comment[en_CA]=Automate your desktop using Dogtail
+Comment[en_GB]=Automate your desktop using Dogtail
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/dogtail-head.svg.png
+StartupNotify=true
+Categories=Application;Development;

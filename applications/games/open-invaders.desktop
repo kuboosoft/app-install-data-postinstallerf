@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n open-invaders
+Type=Application
+Name=Open Invaders
+GenericName=Space Invaders clone
+Comment=Play a Space Invaders clone
+Comment[ca]=Jugueu a un clon del Space Invaders
+Comment[de]=Spiele ein Space Invaders Klon
+Comment[en]=Play a Space Invaders clone
+Comment[es]=Juega a un clon de Space Invaders
+Icon=/usr/share/app-install-data-postinstallerf/icons/open-invaders.png
+Terminal=false
+Categories=Game;ActionGame;

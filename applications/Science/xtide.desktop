@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n xtide
+Version=1.0
+Name=XTide Tide Predictor
+GenericName=Tide Predictor
+Comment=View tide and current predictions
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/xtide.png
+Categories=Education;Science;

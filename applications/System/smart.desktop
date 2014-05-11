@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n smartpm
+Name=Smart Package Manager
+Icon=/usr/share/app-install-data-postinstallerf/icons/smart.png
+Type=Application
+Categories=System;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n tora
+Version=1.0
+Name=TOra
+Icon=/usr/share/app-install-data-postinstallerf/icons/tora.png
+Type=Application
+Comment=A graphical toolkit for database administration and development
+Comment[fr]=Une boite à outil graphique pour l administration et le développement de base de données
+Comment[de]=Grafisches Toolkit zur Administration und Entwicklung von Datenbanken
+Terminal=false
+Categories=Database;Office;Development;KDE;Qt

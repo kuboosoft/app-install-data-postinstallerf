@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gmerlin
+Name=Gmerlin recorder
+Name[de]=Gmerlin recorder
+Comment=Audio/video recorder
+Comment[de]=Audio/video recorder
+Icon=/usr/share/app-install-data-postinstallerf/icons/gmerlin-recorder.png
+Type=Application
+Categories=Application;AudioVideo;

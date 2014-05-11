@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n xlog
+Name=Xlog
+Comment=Amateur Radio logging program
+Comment[nl]=Log programma voor zendamateurs
+Comment[pl]=Dziennik łączności dla radioamatorów
+Icon=/usr/share/app-install-data-postinstallerf/icons/xlog-icon.png.png
+Terminal=false
+Type=Application
+Categories=Utility;Database;HamRadio;GTK

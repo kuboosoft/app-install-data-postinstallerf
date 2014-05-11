@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n plopfolio.app
+Name=PlopFolio
+Name[bg]=PlopFolio
+Comment=Personal dashboard for GNUstep
+Comment[bg]=Преглед на емисии новини и събития
+Type=Application
+Version=1.0
+Categories=Network;News;
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/PlopFolio.app/Resources/PlopFolio.tiff.png

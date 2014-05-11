@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n foo-yc20
+Name=Foo YC20
+GenericName=YC20
+Version=1.0
+Comment=Organ synthesizer
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_foo-yc20_graphics_icon.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio

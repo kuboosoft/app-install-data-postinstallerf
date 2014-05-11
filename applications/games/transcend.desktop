@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n transcend
+Type=Application
+Name=Transcend
+GenericName=shooter game
+Comment=retro-style, abstract 2D shooter
+Icon=/usr/share/app-install-data-postinstallerf/icons/transcend.png
+Terminal=false
+Categories=Game;ActionGame;

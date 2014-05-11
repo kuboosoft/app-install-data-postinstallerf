@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n babiloo
+Version=1.0
+Name=Babiloo
+Comment=Application to view dictionaries
+Comment[en_US]=Application to view dictionaries
+Comment[pt_PT]=Aplicação para ver dicionários
+Icon=/usr/share/app-install-data-postinstallerf/icons/babiloo.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Qt;KDE;Office;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n supercollider-emacs
+Version=1.0
+Name=SuperCollider Emacs (scel)
+Comment=Emacs environment for SuperCollider
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/supercollider.png
+#cats as in menu-spec-1.0:
+Categories=Audio;AudioVideo;Music;

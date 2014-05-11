@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n xpra
+Name=Xpra Launcher
+Comment=Connect to an Xpra session
+Icon=/usr/share/app-install-data-postinstallerf/icons/xpra.png
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Network

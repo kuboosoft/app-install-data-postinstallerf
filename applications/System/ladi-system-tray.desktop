@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n laditools
+Name=LADI System Tray
+Type=Application
+Comment=Manage and configure JACK and ladish
+Comment[it]=Amministra e configura JACK e ladish
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/laditools.png
+Categories=GNOME;GTK;AudioVideo;
+GenericName=LADI tray icon

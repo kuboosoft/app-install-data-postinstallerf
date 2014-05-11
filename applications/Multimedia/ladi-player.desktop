@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n laditools
+Name=LADI Player
+Name[es]=Reproductor de LADI
+Type=Application
+Comment=Control LADI system
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/ladi-player.png
+Categories=GTK;AudioVideo;Audio;
+GenericName=LADI system controller
+GenericName[it]=Controller del sistema LADI

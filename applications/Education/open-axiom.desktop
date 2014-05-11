@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n open-axiom
+Name=OpenAxiom
+Type=Application
+Comment=Open scientific computation platform
+Comment[ru]=Универсальная система компьютерной алгебры
+Icon=/usr/share/app-install-data-postinstallerf/icons/open-axiom.png
+Categories=Science;Education;Math;
+Terminal=true

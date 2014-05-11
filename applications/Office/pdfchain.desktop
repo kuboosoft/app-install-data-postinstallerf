@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n pdfchain
+Name=PDF Chain
+GenericName=pdfchain
+Comment=GUI for the PDFTK - A graphical tool for manipulating PDF
+Icon=/usr/share/app-install-data-postinstallerf/icons/pdfchain.png.png
+Type=Application
+StartupNotify=false
+Categories=Office;
+Terminal=false

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n nautilus-compare
+Name=Nautilus Compare Extension Preferences
+Type=Application
+GenericName=Preferences for Nautilus Compare Extension
+Icon=/usr/share/app-install-data-postinstallerf/icons/gtk-preferences.png
+Categories=Settings;

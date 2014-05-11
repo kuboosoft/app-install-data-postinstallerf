@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n tickr
+Version=1.0
+Type=Application
+Terminal=false
+Name=Tickr - Feed Reader
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_tickr_pixmaps_tickr-icon.png
+Comment=GTK-based highly graphically-customizable Feed Ticker
+Categories=GNOME;GTK;Network;News
+Name[en_US]=Tickr - Feed Reader

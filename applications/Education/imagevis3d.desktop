@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n imagevis3d
+Type=Application
+Terminal=false
+Version=2.0.1
+Name=ImageVis3D
+GenericName=Data Viewer
+Comment=Desktop volume rendering application for large data
+Categories=Education;Science;DataVisualization;ImageProcessing;MedicalSoftware
+Icon=/usr/share/app-install-data-postinstallerf/icons/imagevis3d.png

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n writetype
+Name=Writetype
+GenericName=WriteType
+Comment=A word processor to make typing easier
+Comment[es]=Un procesador de textos que hace más fácil escribir
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_writetype_res_key120x120.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Application;Utility;TextEditor;Education;Qt

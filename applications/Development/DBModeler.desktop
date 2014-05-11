@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gnustep-dl2
+Type=Application
+Version=1.0
+Categories=Database;Development;
+Name=DBModeler
+Comment=Database Access Modeler
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_GNUstep_DBModeler.app_DBModeler.png

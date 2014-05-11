@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n xcrysden
+Version=1.0
+Name=XCrySDen
+Comment=Crystalline and Molecular Structure Visualisation Program
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/xcrysden/images/xcrysden.png.png
+Terminal=false
+Type=Application
+Categories=Science;Chemistry;Physics;Education;

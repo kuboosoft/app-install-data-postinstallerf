@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n yoshimi
+Type=Application
+Name=Yoshimi
+GenericName=Software Synthesizer
+Comment=Software Synthesizer based on ZynAddSubFX
+Icon=/usr/share/app-install-data-postinstallerf/icons/yoshimi.png
+Terminal=false
+StartupNotify=true
+Categories=AudioVideo;Audio;

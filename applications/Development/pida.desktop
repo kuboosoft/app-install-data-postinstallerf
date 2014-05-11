@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n pida
+Version=1.0
+Type=Application
+Name=PIDA
+Comment=Python Integrated Development Application
+Comment[de]=Integrierte Entwicklungsumgebung für Python
+Icon=/usr/share/app-install-data-postinstallerf/icons/pida-icon.png
+Categories=Development;IDE;GTK;

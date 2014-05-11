@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n python-lunch
+Type=Application
+Terminal=false
+Categories=System;RemoteAccess;Network;
+Name=Lunch
+Comment=Distributed Process Launcher
+Comment[fr]=Launceur de processus distribué
+Icon=/usr/share/app-install-data-postinstallerf/icons/lunch.png.png

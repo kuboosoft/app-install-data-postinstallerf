@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n volti
+Name=Volti
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/multimedia-volume-control.png
+Comment=Tray Audio Volume Control
+Categories=Audio;AudioVideo;

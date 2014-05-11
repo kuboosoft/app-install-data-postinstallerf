@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n gnome-btdownload
+Name=BitTorrent Download Client
+Comment=Download files with BitTorrent
+Comment[de]=Dateien mit BitTorrent herunterladen
+Comment[fr]=Télécharger des fichiers avec BitTorrent
+Comment[sv]=Ladda ner filer med BitTorrent
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/download.png
+Categories=Network;FileTransfer;P2P;

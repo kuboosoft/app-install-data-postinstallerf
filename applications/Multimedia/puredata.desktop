@@ -1,0 +1,15 @@
+[Desktop Entry]
+Exec=postinstaller -n puredata-gui
+Type=Application
+Name=Pure Data
+GenericName=Pd
+Comment=Visual dataflow programming platform for multimedia
+Comment[ca]=Plataforma de programació visual per aplicacions multimèdia
+Comment[de]=Grafische Datenflussprogrammierung für Multimedia
+Comment[es]=Plataforma de programación visual para aplicaciones multimedia
+Comment[fr]=Plateforme de programmation visuelle pour applications multimédia
+Comment[it]=Piattaforma di programmazione visuale per applicazioni multimedia
+Comment[pt]=Plataforma de programação visuais para multimedia
+Icon=/usr/share/app-install-data-postinstallerf/icons/puredata.xpm.png
+Terminal=false
+Categories=AudioVideo;Audio;

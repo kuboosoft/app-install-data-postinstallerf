@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n xournal
+Type=Application
+Name=Xournal
+Comment=Take handwritten notes
+Name[fr]=Xournal
+Comment[fr]=Prise de notes manuscrites
+Name[ca]=Xournal
+Comment[ca]=Preneu notes a mà
+Terminal=false
+StartupNotify=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/xournal.png
+Categories=GNOME;GTK;Utility;TextEditor;

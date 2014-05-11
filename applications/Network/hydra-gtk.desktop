@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n hydra-gtk
+Type=Application
+Version=1.0
+Name=XHydra
+GenericName[en_GB]=Network security auditor
+Comment=A fast network logon cracker
+Icon=/usr/share/app-install-data-postinstallerf/icons/xhydra.png
+Categories=Network;Security;
+Terminal=false
+StartupNotify=true

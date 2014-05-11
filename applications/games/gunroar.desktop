@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gunroar
+Type=Application
+Name=Gunroar
+GenericName=
+Comment=Kenta Cho s Gunroar
+Icon=/usr/share/app-install-data-postinstallerf/icons/gunroar.png
+Terminal=false
+Categories=Game;ArcadeGame;

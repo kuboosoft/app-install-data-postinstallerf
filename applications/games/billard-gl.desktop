@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n billard-gl
+Type=Application
+Name=Billard-GL
+GenericName=billard-gl
+Comment=Play Billard Game
+Icon=/usr/share/app-install-data-postinstallerf/icons/billard-gl.png
+Terminal=false
+Categories=Game;Simulation;

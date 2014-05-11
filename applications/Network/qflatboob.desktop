@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n weboob-qt
+Name=QFlatBoob
+Comment=Search housings
+Icon=/usr/share/app-install-data-postinstallerf/icons/qflatboob.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;Qt;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n torus-trooper-pure
+Type=Application
+Name=Torus Trooper Pure
+GenericName=
+Comment=HIZ s version of Torus Trooper
+Icon=/usr/share/app-install-data-postinstallerf/icons/torus-trooper-pure.png
+Terminal=false
+Categories=Game;ArcadeGame;

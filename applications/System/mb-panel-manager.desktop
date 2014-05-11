@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n matchbox-panel-manager
+Name=Panel Manager
+Comment=Manage panel configuration 
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/mbpanelmgr.png.png
+Categories=Application;SystemSettings;MB
+StartupNotify=True
+SingleInstance=True

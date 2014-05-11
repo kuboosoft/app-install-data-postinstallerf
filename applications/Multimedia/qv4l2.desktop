@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n qv4l2
+Name=QT V4L2 test Utility
+Name[pt]=Utilitário de teste V4L2
+Comment=Allow testing Video4Linux devices
+Comment[pt]=Permite testar dispositivos Video4Linux
+Icon=/usr/share/app-install-data-postinstallerf/icons/qv4l2.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;

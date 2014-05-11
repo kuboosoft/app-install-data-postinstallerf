@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n luola
+Name=Luola
+Type=Application
+Categories=Application;ArcadeGame;Game;
+Icon=/usr/share/app-install-data-postinstallerf/icons/luola-icon.png
+Terminal=false

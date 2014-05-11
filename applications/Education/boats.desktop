@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n boats
+Type=Application
+Name=Boat Scenario
+Comment=Race scenario drawing tool
+Icon=/usr/share/app-install-data-postinstallerf/icons/boats.png.png
+Categories=Education;Qt;

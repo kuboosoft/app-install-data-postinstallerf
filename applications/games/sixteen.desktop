@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n sgt-puzzles
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/sixteen.png
+Type=Application
+Categories=Game;LogicGame;
+Name=Sixteen
+Comment=Game similar to Fifteen, but with a different type of move
+Comment[fr]=Jeu similaire à Fifteen, mais avec un type de déplacement différent
+Comment[de]=Spiel ähnlich Fifteen aber mit einer anderen Art von Spielzügen

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n grass
+Type=Application
+Name=GRASS GIS
+Comment=
+Categories=Application;Education;Geography;
+Icon=/usr/share/app-install-data-postinstallerf/icons/grass64.png
+Terminal=true

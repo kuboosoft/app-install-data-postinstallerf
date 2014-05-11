@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gespeaker
+Version=1.0
+Name=Gespeaker
+Comment=A frontend for espeak
+Type=Application
+Comment[it_IT]=Un frontend per espeak
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_gespeaker_data_icons_gespeaker.png
+Terminal=false
+Categories=AudioVideo;Audio;Player;GTK;

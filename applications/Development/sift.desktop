@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n python-guiqwt
+Version=1.0
+Type=Application
+Name=Sift
+GenericName=Sift
+Comment=Signal and Image Filtering Tool (demo software based on guidata and guiqwt)
+Categories=Development;Science;Physics;

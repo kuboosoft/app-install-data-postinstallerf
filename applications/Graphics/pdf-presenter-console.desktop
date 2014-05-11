@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n pdf-presenter-console
+Name=PDF Presenter Console
+Comment=Presentation program for PDF files
+Type=Application
+Categories=Graphics;Viewer;

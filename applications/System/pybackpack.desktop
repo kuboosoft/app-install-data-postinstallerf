@@ -1,0 +1,17 @@
+[Desktop Entry]
+Exec=postinstaller -n pybackpack
+Name=File Backup Manager
+Name[cs]=Správce zálohování souborů
+Name[ja]=ファイルバックアップ管理
+Name[ru]=Резервное копирование файлов
+Name[de]=Dateisicherungs-Manager
+Comment=Back up important files
+Comment[cs]=Zálohujte důležité soubory
+Comment[ja]=重要なファイルをバックアップ
+Comment[ru]=Создание резервных копий важных файлов
+Comment[de]=Wichtige Dateien sichern
+Categories=Application;System;Settings
+Icon=/usr/share/app-install-data-postinstallerf/icons/file-roller.png.png
+StartupNotify=true
+Terminal=false
+Type=Application

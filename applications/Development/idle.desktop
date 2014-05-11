@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n idle
+Name=IDLE
+Comment=Integrated Development Environment for Python
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/pixmaps/idle.xpm.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true

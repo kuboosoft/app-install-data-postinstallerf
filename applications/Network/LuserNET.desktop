@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n lusernet.app
+Name=LuserNET News Reader
+Name[bg]=Четец на новини (LuserNET)
+Comment=News Reader for GNUstep
+Comment[bg]=Четец на новини за GNUstep
+Version=1.0
+Type=Application
+Categories=Network;News;
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_GNUstep_LuserNET.app_News.app.png

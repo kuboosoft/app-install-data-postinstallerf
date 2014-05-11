@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n pavumeter
+Name=PulseAudio Volume Meter (Capture)
+GenericName=Capture Volume Meter
+Comment=Monitor the input volume
+Icon=/usr/share/app-install-data-postinstallerf/icons/audio-input-microphone.png
+StartupNotify=true
+Type=Application
+Categories=AudioVideo;Audio;

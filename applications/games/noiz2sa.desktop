@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n noiz2sa
+Type=Application
+Name=Noiz2sa
+Comment=An Abstract Shooter by Kenta Cho
+Icon=/usr/share/app-install-data-postinstallerf/icons/noiz2sa.png
+Terminal=false
+Categories=Game;ArcadeGame;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n composite
+Type=Application
+Name=Composite
+GenericName=Composite
+Comment=Live performance sequencer
+Icon=/usr/share/app-install-data-postinstallerf/icons/composite32x32.png
+Terminal=false
+Categories=AudioVideo;Audio;Qt;Music;

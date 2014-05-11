@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n gmchess
+Name=Chinese chess
+Name[zh_CN]=天书棋谈
+Comment=Play the popular chinese chess game
+Comment[zh_CN]=玩流行的中国象棋游戏
+Icon=/usr/share/app-install-data-postinstallerf/icons/gmchess.png
+Terminal=false
+Type=Application
+Categories=GTK;Game;
+StartupNotify=true

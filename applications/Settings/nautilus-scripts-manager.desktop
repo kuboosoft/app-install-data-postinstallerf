@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n nautilus-scripts-manager
+Name=Nautilus scripts manager
+Name[it]=Gestore di script per Nautilus
+Comment=Enable or disable Nautilus scripts
+Comment[it]=Abilita e disabilita gli script per Nautilus
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/nautilus-scripts-manager.svg.png
+Categories=Settings;

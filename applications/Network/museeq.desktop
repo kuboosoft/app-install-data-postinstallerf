@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n museeq
+Name=Museeq
+Icon=/usr/share/app-install-data-postinstallerf/icons/museeq.png
+Type=Application
+Terminal=false
+Comment=C++/QT3 Museek client
+Categories=Qt;Network;

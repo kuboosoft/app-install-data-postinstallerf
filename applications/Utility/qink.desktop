@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n qink
+Name=QInk
+Icon=/usr/share/app-install-data-postinstallerf/icons/qink.png
+Type=Application
+Terminal=false
+Comment=QInk ink level monitor
+Categories=Qt;Utility

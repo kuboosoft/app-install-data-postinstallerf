@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n sgt-puzzles
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/samegame.png
+Type=Application
+Categories=Game;LogicGame;
+Name=Same Game
+Comment=Clear the grid of coloured squares by highlighting contiguous regions of more than one coloured square
+Comment[fr]=Supprimer la grille de couleur en éclairant les régions adjacentes composées de plus d un carré coloré
+Comment[de]=Bereinige das Gitter von gefärbten Qudraten durch Hervorheben zusammenhängender Gebiete von mehr als einem gefärbten Quadrat

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n merkaartor
+Type=Application
+Version=1.0
+Name=Merkaartor
+GenericName=OpenStreetMap Editor
+GenericName[fr]=Un éditeur pour OpenStreetMap
+GenericName[tr]=Açık Sokak Haritası Düzenleyicisi
+Icon=/usr/share/app-install-data-postinstallerf/icons/merkaartor.png
+Terminal=false
+StartupNotify=false
+Categories=Geography;Network;Qt;

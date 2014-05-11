@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n fprint-demo
+Name=fprint-demo
+GenericName=Fingerprint demo program
+GenericName[fr]=Logiciel de démonstration de reconnaissances des empreintes digitales
+Comment=Fingerprint scanning demonstration
+Comment[ca]=Programari de demostració de reconeixement d emprentes digitals
+Comment[es]=Programa de demostración de reconocimiento de huellas digitales
+Comment[fr]=Logiciel de démonstration pour le programme de reconnaissance d empreinte digitale fprint
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_fprint-demo.png
+Terminal=false
+Type=Application
+Categories=Utility;ComputerScience;ImageProcessing;

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n searchandrescue
+Name=Search and rescue
+Terminal=False
+Type=Application
+Categories=Game

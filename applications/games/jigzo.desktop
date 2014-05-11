@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n jigzo
+Version=1.0
+Type=Application
+Name=jigzo
+Comment=Photo puzzle game for children
+Categories=Application;Game;LogicGame;
+Icon=/usr/share/app-install-data-postinstallerf/icons/jigzo.xpm.png

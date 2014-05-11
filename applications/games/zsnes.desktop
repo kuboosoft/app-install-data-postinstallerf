@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n zsnes
+Name=zsnes
+Comment=A Super Nintendo Entertainment System (TM) emulator
+Icon=/usr/share/app-install-data-postinstallerf/icons/zsnes.xpm.png
+Terminal=false
+Type=Application
+Categories=Application;Game;2DGraphics;Emulator

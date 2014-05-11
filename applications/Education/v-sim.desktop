@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n v-sim
+Name=V_Sim
+Name[fr]=V_Sim
+GenericName=Atomic visualisation
+GenericName[fr]=Visualisation atomique
+Icon=/usr/share/app-install-data-postinstallerf/icons/v_sim.png
+Terminal=false
+Type=Application
+Categories=Education;Science;Physics;Chemistry

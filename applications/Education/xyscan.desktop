@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n xyscan
+Type=Application
+Version=1.0
+Name=XYscan
+Comment=grabbing data from printed plots
+Comment[fr_FR]=récupération de données depuis des graphiques imprimés
+GenericName=unplotter
+GenericName[fr_FR]=dégrapheur
+Icon=/usr/share/app-install-data-postinstallerf/icons/xyscanIcon.png.png
+Terminal=false
+StartupNotify=true
+Categories=Science;Education

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n amoebax
+Categories=Game;LogicGame;
+Comment=Defeat your opponent by filling up their grid up with garbage.
+GenericName=Computer Puzzle Game
+GenericName[tr]=Bulmaca Oyunu
+Icon=/usr/share/app-install-data-postinstallerf/icons/amoebax.svg.png
+Name=Amoebax
+Terminal=false
+Type=Application

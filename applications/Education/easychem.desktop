@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n easychem
+Name=EasyChem Chemical Structures Editor
+Comment=Create high-quality chemical formulas
+Name[de]=EasyChem Strukturformeleditor
+Comment[de]=Strukturformeln mit hoher Qualtät erstellen
+Icon=/usr/share/app-install-data-postinstallerf/icons/easychem.png
+Terminal=false
+Type=Application
+Categories=GTK;Education;Science;Chemistry;

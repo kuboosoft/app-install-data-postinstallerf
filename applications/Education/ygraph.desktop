@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n ygraph
+Version=1.0
+Name=ygraph Scientific Data Plotter
+GenericName=Scientific Data Plotter
+Comment=Produce simple xy-plots of scientific data
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/ygraph.png
+Categories=Education;Science;

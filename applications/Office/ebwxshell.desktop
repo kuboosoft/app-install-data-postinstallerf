@@ -1,0 +1,14 @@
+[Desktop Entry]
+Exec=postinstaller -n eekboek-gui
+Version=1.0
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/ebicon.png
+StartupNotify=true
+Terminal=false
+Categories=Office;Finance;
+Name=EekBoek
+Comment=Bookkeeping program for small to medium sized companies
+GenericName=Bookkeeping
+Name[nl]=EekBoek
+Comment[nl]=Eigenzinnig boekhouden voor kleine en middelgrote bedrijven
+GenericName[nl]=Boekhouden

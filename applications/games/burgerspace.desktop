@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n burgerspace
+Name=BurgerSpace
+Categories=Game;ArcadeGame;
+Comment=A hamburger-smashing video game
+Comment[fr]=Un jeu de hamburgers qu on écrase
+Icon=/usr/share/app-install-data-postinstallerf/icons/burgerspace.png.png
+Terminal=0
+Type=Application

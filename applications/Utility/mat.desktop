@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n mat
+Name=Metadata Anonymisation Toolkit
+GenericName=Metadata Anonymisation Toolkit
+Version=1.0
+Type=Application
+Terminal=false
+Categories=Application;Utility;Security
+Icon=/usr/share/app-install-data-postinstallerf/icons/logo.png.png

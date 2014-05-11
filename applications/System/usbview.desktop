@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n usbview
+Name=usbview
+Comment=View USB devices attached to system
+Terminal=false
+MultipleArgs=false
+Type=Applications/System/Hardware

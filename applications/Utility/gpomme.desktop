@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gpomme
+Version=1.0
+Name=pommed GTK client
+Comment=A graphical client for pommed
+Icon=/usr/share/app-install-data-postinstallerf/icons/gpomme.png
+StartupNotify=true
+Type=Application
+Categories=Utility

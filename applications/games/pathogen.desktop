@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n pathogen
+Name=Pathogen
+GenericName=pathogen
+Comment=Destroy the pathogens
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/pathogen.png
+Terminal=false
+Categories=Game;LogicGame;

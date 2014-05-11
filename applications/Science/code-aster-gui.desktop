@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n code-aster-gui
+Version=1.0
+Name=code-aster-gui
+GenericName=Graphical command editor for Code_Aster
+Comment=Graphical command editor for Code_Aster.
+Icon=/usr/share/app-install-data-postinstallerf/icons/astk.png
+Type=Application
+Terminal=false
+Categories=Education;Math;Science;
+StartupNotify=true

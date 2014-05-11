@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n fotoxx
+Name=fotoxx
+GenericName=Photo Editor
+Comment=Edit photos and manage collections
+Categories=Graphics;Photography;
+Type=Application
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_fotoxx_icons_fotoxx.png

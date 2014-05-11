@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n pterm
+Version=1.0
+Name=PuTTY Terminal Emulator
+GenericName=Pterm
+Comment=Start a PuTTY terminal session
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/pterm.png
+Categories=GTK;Utility;TerminalEmulator;

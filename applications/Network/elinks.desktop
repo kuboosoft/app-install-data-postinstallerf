@@ -1,0 +1,18 @@
+[Desktop Entry]
+Exec=postinstaller -n elinks
+Version=1.0
+Type=Application
+Name=ELinks Web Browser
+Name[ca]=Navegador web ELinks
+Name[de]=ELinks Webbrowser
+Name[es]=Navegador web ELinks
+Categories=Network;WebBrowser;
+GenericName=Web Browser
+GenericName[ca]=Navegador web
+GenericName[de]=Webbrowser
+GenericName[es]=Navegador web
+Comment=Browse the web in text mode
+Comment[ca]=Navegeu per el web en mode text
+Comment[es]=Navega por el web en modo texto
+Terminal=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/html.png

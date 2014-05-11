@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gkrellm
+Name=GKrellM System Monitor
+Comment=Monitor for CPU, memory, disks, network, mail
+Icon=/usr/share/app-install-data-postinstallerf/icons/gkrellm.png
+Terminal=false
+Type=Application
+Categories=System;

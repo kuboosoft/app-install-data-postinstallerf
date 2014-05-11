@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n aqualung
+Name=Aqualung
+Comment=Gapless audio player
+Icon=/usr/share/app-install-data-postinstallerf/icons/aqualung.xpm.png
+Categories=GTK;AudioVideo;Audio;Player;
+Terminal=false
+Type=Application

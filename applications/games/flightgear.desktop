@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n flightgear
+Type=Application
+Version=1.4
+Name=FlightGear
+Terminal=false
+Categories=Game;Simulation;
+Comment=A flight simulator
+Comment[pt]=Simulação de Vôo
+Icon=/usr/share/app-install-data-postinstallerf/icons/.png

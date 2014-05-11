@@ -1,0 +1,11 @@
+# Forwarded to http://developer.berlios.de/patch/?func=detailpatch&patch_id=3143&group_id=1625
+[Desktop Entry]
+Exec=postinstaller -n dreamchess
+Version=1.0
+Type=Application
+Name=Dreamchess
+GenericName=Chess game
+GenericName[fr]=Jeu d échec
+Comment=a 3D chess game
+Icon=/usr/share/app-install-data-postinstallerf/icons/dreamchess.png
+Categories=Game;BoardGame;

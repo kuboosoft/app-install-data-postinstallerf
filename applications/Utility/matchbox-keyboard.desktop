@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n matchbox-keyboard
+Name=Keyboard
+Comment=Virtual Keyboard
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/matchbox-keyboard.png.png
+Categories=Panel;Utility;MB

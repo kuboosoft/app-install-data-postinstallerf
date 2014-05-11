@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n visualboyadvance-gtk
+Version=1.0
+Name= VisualBoy Advance
+Comment=Game Boy Advance emulator
+Icon=/usr/share/app-install-data-postinstallerf/icons/VisualBoyAdvance-gtk-32x32.png
+Terminal=false
+Type=Application
+Categories=GTK;Game;ArcadeGame;
+StartupNotify=true

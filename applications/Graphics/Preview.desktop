@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n preview.app
+Type=Application
+Version=1.0
+Categories=Graphics;Viewer;
+Name=Preview
+Comment=Image viewer
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Preview.app/Resources/Preview.tiff.png

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n laevateinn
+Name=laevateinn
+Comment=bsnes debugger
+Icon=/usr/share/app-install-data-postinstallerf/icons/laevateinn.png
+Terminal=false
+Type=Application
+Categories=Game;Debugger;

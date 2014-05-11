@@ -1,0 +1,11 @@
+# forwarded to dfo@antex.ru
+[Desktop Entry]
+Exec=postinstaller -n gtkballs
+Name=GtkBalls
+GenericName=GtkBalls
+Icon=/usr/share/app-install-data-postinstallerf/icons/gtkballs_16x16.png
+Comment=Puzzle game
+Terminal=false
+StartupNotify=false
+Type=Application
+Categories=Game;LogicGame;

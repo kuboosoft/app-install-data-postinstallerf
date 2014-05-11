@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n pymca
+Version=1.0
+Name=PyMCA ROI tool
+Name[en_GB]=PyMCA ROI tool
+GenericName=Region of Interest imaging tool for XRF analysis
+GenericName[en_GB]=Region Of Interest imaging tool for XRF analysis
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_pymca.png
+Terminal=false
+Categories=Science;Education;Physics;

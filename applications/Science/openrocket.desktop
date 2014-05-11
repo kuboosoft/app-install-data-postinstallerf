@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n openrocket
+Type=Application
+Name=OpenRocket
+GenericName=Rocket Design and Simulation
+Comment=Design and simulate model rockets
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_openrocket.png
+Terminal=false
+Categories=Development;Science;

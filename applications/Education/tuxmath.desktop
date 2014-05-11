@@ -1,0 +1,16 @@
+[Desktop Entry]
+Exec=postinstaller -n tuxmath
+Name=Tux Math 
+GenericName=Educational math game
+GenericName[de]=Mathe Spiel
+GenericName[ru]=Образовательная игра
+GenericName[fr]=Jeu mathématique
+Comment=Tux Math - Learn math with Tux!
+Comment[pl]=Tux Math - Ucz siê matematyki z Tuxem!
+Comment[de]=Tux Math - Lerne Mathe mit Tux!
+Comment[ru]=Обучение арифметике с пингвином в главной роли
+Comment[fr]=Tux Math - Apprenez les mathématiques avec Tux!
+Icon=/usr/share/app-install-data-postinstallerf/icons/tuxmath.png
+Type=Application
+Terminal=false
+Categories=Education;Math;

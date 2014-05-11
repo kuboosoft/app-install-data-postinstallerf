@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n transgui
+Version=1.0
+Name=Transmission remote GUI
+Comment=GUI to remotely control a Transmission daemon
+Icon=/usr/share/app-install-data-postinstallerf/icons/transgui-2.png
+Terminal=false
+Type=Application
+Categories=GTK;Network;FileTransfer;
+StartupNotify=true

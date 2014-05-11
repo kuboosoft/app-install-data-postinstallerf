@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n heroes-common
+Type=Application
+Name=Heroes
+Comment=Collect powerups and avoid your opponents  trails
+Icon=/usr/share/app-install-data-postinstallerf/icons/heroes.png
+Terminal=false
+Categories=Application;Game;
+StartupNotify=false

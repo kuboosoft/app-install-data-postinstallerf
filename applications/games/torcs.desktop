@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n torcs
+Version=1.0
+Type=Application
+Name=TORCS
+GenericName=TORCS
+Comment=3D racing cars simulator game
+Comment[es]=Juego de simulación 3D de carrera de autos
+Icon=/usr/share/app-install-data-postinstallerf/icons/torcs.png
+Terminal=false
+StartupNotify=false
+Categories=Game;Simulation;

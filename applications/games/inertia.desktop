@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n sgt-puzzles
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/inertia.png
+Type=Application
+Categories=Game;LogicGame;
+Name=Inertia
+Comment=Collect all the gems without running into any mines
+Comment[fr]=Collecter tous les gèmes sans toucher une seule mine
+Comment[de]=Sammle alle Edelsteine ohne in Minen zu geraten

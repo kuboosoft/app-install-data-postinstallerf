@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n pykaraoke-bin
+Type=Application
+Name=PyKaraoke Mini
+GenericName=Karaoke player
+Comment=Minimum-interface PyKaraoke
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pykaraoke_icons_pykaraoke.png
+Terminal=false
+Categories=AudioVideo;Player;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n kluppe
+Name=Kluppe
+Comment=audio loop-player and recorder
+Icon=/usr/share/app-install-data-postinstallerf/icons/kluppe.png.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Recorder;

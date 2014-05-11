@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n qmidiroute
+Type=Application
+Name=qmidiroute
+GenericName=qmidiroute
+Comment=Midi Router
+Icon=/usr/share/app-install-data-postinstallerf/icons/qmidiroute_32x32.png
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;Music;

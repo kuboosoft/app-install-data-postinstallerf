@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n adun.app
+Type=Application
+Name=Adun
+Comment=Biomoleculal Simulator
+Version=1.0
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/UL.app/Resources/icon.tiff.png
+Categories=Education;Science;Biology;

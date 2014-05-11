@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n weboob-qt
+Name=QWebContentEdit
+Comment=Edit website contents
+Icon=/usr/share/app-install-data-postinstallerf/icons/qwebcontentedit.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;Qt;

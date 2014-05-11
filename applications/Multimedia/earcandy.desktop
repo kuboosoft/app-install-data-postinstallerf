@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n earcandy
+Name=Earcandy
+Comment=Earcandy application
+Categories=GNOME;AudioVideo;
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_earcandy_media_icon.png
+Terminal=false
+Type=Application

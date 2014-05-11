@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n drawxtl
+Name=DRAWxtl
+GenericName=Crystal Structure Viewer
+Comment=Display crystal structures
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/drawxtl.png
+Categories=Science;Chemistry;Education;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n pyneighborhood
+Version=1.0
+Type=Application
+Name=pyNeighborhood
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pyneighborhood_icons_pyneighborhood.png
+Categories=Application;Network;System;Utility

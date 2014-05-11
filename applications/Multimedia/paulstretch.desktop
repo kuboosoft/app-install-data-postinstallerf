@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n paulstretch
+Version=1.0
+Name=paulstretch
+GenericName=Extreme Sound Time-Stretch
+Comment=suitable for extreme sound stretching of audio (like 50x)
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n bloboats
+Name=Bloboats
+Comment=An arcade-like boat racing game
+Icon=/usr/share/app-install-data-postinstallerf/icons/bloboats.png
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
+StartupNotify=false

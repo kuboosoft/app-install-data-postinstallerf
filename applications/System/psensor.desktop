@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n psensor
+Type=Application
+Version=1.0
+Name=Psensor
+GenericName=Psensor
+Comment=Psensor is a graphical temperature monitor for Linux
+Icon=/usr/share/app-install-data-postinstallerf/icons/psensor.png
+Categories=Application;System;
+StartupNotify=true

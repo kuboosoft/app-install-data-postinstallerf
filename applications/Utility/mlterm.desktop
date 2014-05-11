@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n mlterm
+Type=Application
+Name=Multilingual Terminal
+GenericName=
+Comment=Use Multi-Lingual Command Line
+Comment[ja]=国際化対応端末
+Icon=/usr/share/app-install-data-postinstallerf/icons/mlterm-icon-24colors-1.xpm.png
+Terminal=false
+Categories=Application;Utility;TerminalEmulator;

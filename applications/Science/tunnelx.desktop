@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n tunnelx
+Version=1.0
+Name=Tunnel Cave Drawing Software
+GenericName=Cave Drawing Tool
+Comment=Draw cave surveys
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/tunnelx.png
+Categories=Education;Geology;Science;

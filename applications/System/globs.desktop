@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n globs
+Name=Globs
+Comment=GL Open Benchmark Suite
+Icon=/usr/share/app-install-data-postinstallerf/icons/globs.png.png
+Terminal=false
+Type=Application
+Categories=Application;System;3DGraphics;

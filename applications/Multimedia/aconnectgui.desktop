@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n aconnectgui
+Name=Aconnectgui
+Comment=Midi connections manager 
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_aconnectgui.png
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;

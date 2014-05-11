@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n cameleon
+Version=1.0
+Type=Application
+Name=Cameleon
+GenericName=OCaml Integrated Development Environment
+GenericName[fr]=Environnement de développement logiciel OCaml 
+Comment=Visual environment to develop OCaml application
+Comment[fr]=Environnement visuel pour le développement d application OCaml
+Categories=Development;IDE;GTK;

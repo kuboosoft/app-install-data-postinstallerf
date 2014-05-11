@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n tvtime
+Comment=High quality video deinterlacer
+Icon=/usr/share/app-install-data-postinstallerf/icons/tvtime.png.png
+Name=TVtime Television Viewer
+GenericName=Television Viewer
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;

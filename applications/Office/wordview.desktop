@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n catdoc
+Name=Wordview Microsoft doc Viewer
+Comment=Microsoft doc document file viewer
+Icon=/usr/share/app-install-data-postinstallerf/icons/wordview.xpm.png
+Terminal=false
+Categories=Office;GNOME;
+Type=Application
+StartupNotify=false

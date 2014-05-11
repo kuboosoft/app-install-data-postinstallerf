@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n jackeq
+Name=JackEQ
+Comment=routes and manipulates audio from/to multiple sources
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_jackeq_thai-gold.png
+Type=Application
+Categories=AudioVideo;

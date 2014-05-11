@@ -1,0 +1,14 @@
+#====================================================
+# GNUmed client desktop entry specification
+#
+# license: GPL v2 or later
+#====================================================
+[Desktop Entry]
+Exec=postinstaller -n gnumed-client
+Type=Application
+Name=GNUmed
+GenericName=Electronic Medical Record
+Comment=Paperless Medical Record and Practice Management
+Icon=/usr/share/app-install-data-postinstallerf/icons/gm_icon-serpent_and_gnu.png
+Terminal=false
+Categories=Office;MedicalSoftware;

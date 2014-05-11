@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n xmabacus
+Name=Xabacus
+Version=7.5.5
+GenericName=Abacus ancient calculator
+Comment=simulation of the ancient calculator (Motif version)
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_xabacus.m.png
+Terminal=false
+Type=Application
+Categories=Utility;Education;Math;Calculator;Motif
+StartupNotify=true

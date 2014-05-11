@@ -1,0 +1,14 @@
+[Desktop Entry]
+Exec=postinstaller -n photoprint
+Version=1.0
+Name=PhotoPrint
+Name[ru]=Пакетная печать фотографий в PhotoPrint
+GenericName=Photo Printing
+GenericName[ru]=Печать фотографий
+Comment=Color managed printing of multiple photos on single page
+Comment[ru]=Цветоуправляемая пакетная печать фотографий
+Icon=/usr/share/app-install-data-postinstallerf/icons/fotoprint.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Graphics;Photography;GNOME;GTK;

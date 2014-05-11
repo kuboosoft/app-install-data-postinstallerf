@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n emacs23
+Version=1.0
+Name=GNU Emacs 23
+GenericName=Text Editor
+Comment=View and edit files
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_icons_hicolor_scalable_apps_emacs23.png
+Type=Application
+Terminal=false
+Categories=Utility;Development;TextEditor;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n sgt-puzzles
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/twiddle.png
+Type=Application
+Categories=Game;LogicGame;
+Name=Twiddle
+Comment=Arrange the numbers into ascending order 
+Comment[fr]=Placer les nombres dans ordre ascendant
+Comment[de]=Sortiere die Zahlen in absteigende Reihenfolge

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n springlobby
+Name=SpringLobby
+Comment=Play real-time strategy games using the Spring engine
+Icon=/usr/share/app-install-data-postinstallerf/icons/springlobby.svg.png
+Terminal=false
+Type=Application
+Categories=Application;Game;StrategyGame;

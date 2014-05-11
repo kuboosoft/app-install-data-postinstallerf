@@ -1,0 +1,21 @@
+[Desktop Entry]
+Exec=postinstaller -n gadmin-samba
+Name=GADMIN-SAMBA
+Name[de]=GADMIN-SAMBA
+Name[es]=GADMIN-SAMBA
+Name[fi]=GADMIN-SAMBA
+Name[fr]=GADMIN-SAMBA
+Name[ko]=GADMIN-SAMBA
+Name[no]=GADMIN-SAMBA
+Name[pt_BR]=GADMIN-SAMBA
+Name[sl]=GADMIN-SAMBA
+Name[sv]=GADMIN-SAMBA
+Name[uk]=GADMIN-SAMBA
+Name[ro]=GADMIN-SAMBA
+Name[zh_TW]=GADMIN-SAMBA
+GenericName=GADMIN-SAMBA
+Comment=SAMBA file, print and domain server administration
+Icon=/usr/share/app-install-data-postinstallerf/icons/gadmin-samba.png
+Terminal=false
+Type=Application
+Categories=GTK;System;

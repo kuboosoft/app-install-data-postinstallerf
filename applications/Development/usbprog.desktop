@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n usbprog-gui
+Version=1.0
+Categories=Development;Building;
+Type=Application
+Name=USBprog
+Comment=USBprog firmware programmer
+Icon=/usr/share/app-install-data-postinstallerf/icons/usbprog_icon.png

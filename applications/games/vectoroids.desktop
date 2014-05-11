@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n vectoroids
+Name=Vectoroids
+Comment=A clone of the classic arcade game "Asteroids"
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_vectoroids-icon.png
+Terminal=false
+Type=Application
+Categories=Application;Game;ArcadeGame;

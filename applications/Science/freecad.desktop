@@ -1,0 +1,16 @@
+[Desktop Entry]
+Exec=postinstaller -n freecad
+Version=1.0
+Name=FreeCAD
+Name[de]=FreeCAD
+Comment=Feature based Parametric Modeler
+Comment[de]=Feature-basierter parametrischer Modellierer
+GenericName=CAD Application
+GenericName[de]=CAD-Anwendung
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_freecad_freecad.png
+Categories=Graphics;Science;Engineering
+StartupNotify=true
+GenericName[de_DE]=Feature-basierter parametrischer Modellierer
+Comment[de_DE]=Feature-basierter parametrischer Modellierer

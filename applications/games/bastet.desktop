@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n bastet
+Type=Application
+Version=1.0
+Name=Bastard Tetris
+GenericName=bastet
+Comment=Go mad with this Tetris clone
+Icon=/usr/share/app-install-data-postinstallerf/icons/bastet.png
+Terminal=true
+Categories=Game;BlocksGame;

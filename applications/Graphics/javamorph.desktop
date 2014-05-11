@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n javamorph
+Version=0.0
+Name=JavaMorph
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_JavaMorph.png
+Type=Application
+Categories=Graphics;
+GenericName=JavaMorph
+Comment=Merge two human-face-JPEGs!

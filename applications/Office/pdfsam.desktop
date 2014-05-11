@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n pdfsam
+Name=pdfsam
+GenericName=PDF split and merge
+GenericName[de]=PDF teilen und zusammenführen
+Comment=A tool to split and merge pdf documents
+Comment[de]=Ein Werkzeug zur Trennung oder Zusammenführung von PDF-Dokumenten
+Terminal=false
+Categories=Office;
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pdfsam_pdf.png
+Type=Application

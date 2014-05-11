@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n mricron
+GenericName=Non-parametric MRI Analysis
+Name=NPM
+Type=Application
+Terminal=false
+Categories=Education;Graphics;Science;MedicalSoftware;GTK;
+Icon=/usr/share/app-install-data-postinstallerf/icons/mricron.xpm.png

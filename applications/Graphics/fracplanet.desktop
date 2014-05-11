@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n fracplanet
+Type=Application
+Version=0.4.0
+Name=Fracplanet
+Terminal=false
+Categories=Graphics;2DGraphics;
+Comment=Interactive fractal planet generator

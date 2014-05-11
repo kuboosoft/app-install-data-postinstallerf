@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n pauker
+Name=Pauker
+GenericName=Pauker
+Comment=Generic card based learning program
+Icon=/usr/share/app-install-data-postinstallerf/icons/pauker.png
+Terminal=false
+Type=Application
+Categories=Education;
+StartupNotify=false

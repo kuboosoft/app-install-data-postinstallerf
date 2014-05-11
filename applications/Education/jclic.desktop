@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n jclic
+Name=JClic
+Comment=Multimedia educational activities: puzzles, associations, text exercises, crosswords, scrambled letters, etc.
+Comment[ca]=Activitats educatives multimèdia: puzzles, associacions, exercicis de text, mots encreuats, sopes de lletres i altres.
+Comment[es]=Actividades educativas multimedia: puzzles, asociaciones, ejercicios de texto, crucigramas, sopas de letras, etc.
+Comment[valencia]=Activitats educatives multimèdia: puzzles, associacions, exercicis de text, mots encreuats, sopes de lletres i altres.
+Icon=/usr/share/app-install-data-postinstallerf/icons/jclic.png.png
+Terminal=false
+Type=Application
+Categories=Application;Education
+StartupNotify=false

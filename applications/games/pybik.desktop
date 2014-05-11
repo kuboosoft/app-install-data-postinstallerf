@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n pybik
+Name=Pybik
+Name[de]=Pybik
+Comment=The magic cube
+Comment[de]=Der Zauberwürfel
+Icon=/usr/share/app-install-data-postinstallerf/icons/pybik.png
+Type=Application
+Categories=GNOME;GTK;Game;
+StartupNotify=true

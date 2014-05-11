@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n rakarrack
+Type=Application
+Categories=AudioVideo;Audio;
+Name=Rakarrack
+Comment=Guitar Effects Processor
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/icono_rakarrack_128x128.png

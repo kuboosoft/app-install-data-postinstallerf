@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n japa
+Version=1.0
+Name=Japa (with JACK support)
+Comment=Analyse an Audio signal through JACK
+Icon=/usr/share/app-install-data-postinstallerf/icons/japa.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;

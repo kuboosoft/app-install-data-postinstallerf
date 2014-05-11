@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n pytrainer
+Version=1.9.0
+Type=Application
+Name=pytrainer
+Comment=The Free Sport Training Center
+Icon=/usr/share/app-install-data-postinstallerf/icons/pytrainer.png
+Categories=Office;

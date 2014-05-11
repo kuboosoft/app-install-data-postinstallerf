@@ -1,0 +1,14 @@
+[Desktop Entry]
+Exec=postinstaller -n jamin
+Name=JAMin
+Name[fr]=JAMin
+Name[ru]=JAMin
+GenericName=
+Comment=JACK Audio Mastering interface
+Comment[fr]=Interface de masterisation JACK Audio
+Comment[ru]=JAMin -- приложение для мастеринга звука
+Categories=AudioVideo;Audio;
+Icon=/usr/share/app-install-data-postinstallerf/icons/jamin.svg.png
+StartupNotify=true
+Terminal=false
+Type=Application

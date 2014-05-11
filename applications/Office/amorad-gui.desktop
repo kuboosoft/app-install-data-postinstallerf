@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n amora-applet
+Name=Amora Daemon
+Comment=Remote control your desktop from your Bluetooth enabled mobile phone 
+Comment[de]=Steuere den Arbeitsplatz mit einem Bluetooth-Mobiltelefon fern
+GenericName=Bluetooth remote control
+GenericName[de]=Bluetooth-Fernsteuerung
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/amora.png
+Categories=Office;Presentation;Utility;RemoteAccess
+StartupWMClass=amorad
+StartupNotify=true

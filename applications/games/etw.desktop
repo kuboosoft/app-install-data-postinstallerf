@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n etw
+Type=Application
+Name=Eat The Whistle
+GenericName=Soccer Game
+GenericName[fr]=Jeu de football
+GenericName[ro]=Joc de fotbal
+Comment=Arcade Soccer Game
+Comment[ro]=Fotbal, joc de arcadă
+Icon=/usr/share/app-install-data-postinstallerf/icons/etw.png
+Terminal=false
+Categories=Game;SportsGame;

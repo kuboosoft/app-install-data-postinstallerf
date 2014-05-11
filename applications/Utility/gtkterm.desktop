@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gtkterm
+Name=serial port terminal
+Name[fr]=Terminal pour port série
+Comment=Communicate with the serial port
+Comment[fr]=Communique avec le port série
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Utility;

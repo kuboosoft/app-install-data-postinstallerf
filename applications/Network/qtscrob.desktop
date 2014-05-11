@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n qtscrob
+Version=1.0
+Name=QTScrobbler
+Type=Application
+Comment=QTScrobbler is tool for submitting .scrobbler.log from portable players to Last.fm
+Icon=/usr/share/app-install-data-postinstallerf/icons/qtscrob.png.png
+Terminal=false
+Categories=Network;Qt;

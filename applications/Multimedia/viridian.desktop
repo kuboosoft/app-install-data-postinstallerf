@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n viridian
+Version=1.0
+Name=viridian
+Comment=Stand alone front end for Ampache.
+Icon=/usr/share/app-install-data-postinstallerf/icons/ViridianApp.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;

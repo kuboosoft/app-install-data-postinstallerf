@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n saods9
+Version=1.0
+Name=SAOImage DS9 
+GenericName=Image Viewer
+GenericName[en_GB]=Image Viewer
+Comment=Astronomical Data Visualization Application
+Comment[en_GB]=Astronomical Data Visualization Application
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/ds9.png
+Categories=Education;Science;Astronomy;

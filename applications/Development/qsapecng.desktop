@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n qsapecng
+Type=Application
+Name=QSapecNG
+Comment=Symbolic analyzer of linear analog circuits
+Comment[it]=Analizzatore simbolico di circuiti analogici lineari
+GenericName=QSapecNG
+Icon=/usr/share/app-install-data-postinstallerf/icons/qsapecng.png
+StartupNotify=true
+Terminal=false
+Categories=Electronics;Development;

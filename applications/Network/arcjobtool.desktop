@@ -1,0 +1,18 @@
+[Desktop Entry]
+Exec=postinstaller -n arcjobtool
+Name=ARC Job Submission Tool
+Name[de]=ARC Jobhochladungswerkzeug
+Name[ru]=ARC инструмент запуска задачи
+Name[sv]=ARC jobbinsändningsverktyg
+GenericName=Grid Client
+GenericName[de]=Gridklient
+GenericName[ru]=Клиент грида
+GenericName[sv]=Gridklient
+Comment=Grid Job Management Tool
+Comment[de]=Gridjobbearbeitungswerkzeug
+Comment[ru]=Инструмент обращания гридових задачи
+Comment[sv]=Gridjobbhanteringsverktyg
+Icon=/usr/share/app-install-data-postinstallerf/icons/arcjobtool.png
+Terminal=false
+Type=Application
+Categories=Network;

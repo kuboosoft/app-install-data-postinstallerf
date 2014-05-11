@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n mp3diags
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/mp3diags.png
+Comment=MP3 Diags - diagnosis and repair tool
+Name=MP3 Diags
+Categories=Audio;AudioVideo;AudioVideoEditing;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n gnunet-gtk
+Version=1.0
+Name=GNUnet Setup
+GenericName=GNUnet Setup
+Comment=Configure GNUnet
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnunet-setup.png
+Terminal=false
+Categories=GTK;Network;P2P;FileTransfer;
+StartupNotify=true
+StartupWMClass=gnunet-setup

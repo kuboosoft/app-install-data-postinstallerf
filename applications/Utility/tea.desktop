@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n tea
+Name=TEA Text Editor
+Version=1.0
+GenericName=TEA Editor
+Comment=Text editor with hundreds of functions
+Icon=/usr/share/app-install-data-postinstallerf/icons/tea.png
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;

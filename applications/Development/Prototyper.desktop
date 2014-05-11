@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n clam-networkeditor
+Name=CLAM Prototyper
+GenericName=Prototype runner
+Comment=Runs an audio processing core under a QT designer interface
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/pixmaps/clam-prototyper.xpm.png
+Type=Application
+Categories=Application;AudioVideo;Audio;Development;GUIDesigner;Qt;
+Terminal=false
+[Desktop Action Run]
+Name=Run with Prototyper

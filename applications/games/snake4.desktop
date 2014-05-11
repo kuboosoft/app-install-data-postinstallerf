@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n snake4
+Version=1.0
+Type=Application
+Terminal=0
+Name=Snake4
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_snake4.png
+GenericName=Snake4 Game
+Categories=Game;ActionGame
+Comment=Fruit-eating snake game

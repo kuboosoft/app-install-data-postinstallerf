@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n codeblocks
+Version=1.0
+Type=Application
+Name=Code::Blocks IDE
+Comment=Configurable and extensible IDE
+Icon=/usr/share/app-install-data-postinstallerf/icons/codeblocks.png
+Terminal=false
+Categories=Development;IDE;GTK;
+StartupNotify=true

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n patchage
+Name=Patchage
+Comment=Connect audio and MIDI applications together and manage audio sessions
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/patchage.png
+Type=Application
+Categories=AudioVideo;Audio;

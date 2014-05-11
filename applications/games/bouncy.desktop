@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n bouncy
+Type=Application
+Name=Bouncy the Hungry Rabbit
+GenericName=bouncy
+Comment=Eat the yummy veggies in the garden (game for small kids)
+Icon=/usr/share/app-install-data-postinstallerf/icons/bouncy.png
+Terminal=false
+Categories=Game;ArcadeGame;KidsGame;

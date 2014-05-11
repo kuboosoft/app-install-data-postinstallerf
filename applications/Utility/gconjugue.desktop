@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n gconjugue
+Name=GConjugue
+Name[pt_BR]=GConjugue
+Comment=Conjugates Portuguese verbs
+Comment[pt_BR]=Conjuga verbos em português
+Terminal=0
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gconjugue.png.png
+StartupNotify=true
+Categories=Utility;

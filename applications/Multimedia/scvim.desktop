@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n supercollider-vim
+Version=1.0
+Name=SuperCollider Vim
+Comment=Vim environment for SuperCollider
+Terminal=true
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/supercollider.png
+#cats as in menu-spec-1.0:
+Categories=Audio;AudioVideo;Music;

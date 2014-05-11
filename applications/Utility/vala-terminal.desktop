@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n vala-terminal
+Name=Terminal
+Comment=Command Line Interface
+Icon=/usr/share/app-install-data-postinstallerf/icons/vala-terminal.png
+Terminal=false
+Type=Application
+Categories=GTK;Utility;
+StartupNotify=true

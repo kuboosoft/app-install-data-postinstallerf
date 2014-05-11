@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n geomview
+Version=1.0
+Name=Geomview
+Comment=Interactive geometry viewing program
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_geomview.png
+Type=Application
+Terminal=false
+Categories=Math;Science;Education;

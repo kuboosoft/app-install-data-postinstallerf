@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n renpy-demo
+Type=Application
+Name=Ren Py Demo
+GenericName=renpy-demo
+Comment=visual-novel game demo with Ren Py
+Comment[es]=demo de juego de novela grafica con Ren Py
+Icon=/usr/share/app-install-data-postinstallerf/icons/renpy-demo.png
+Terminal=false
+Categories=Game;

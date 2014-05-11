@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n freemat
+Comment=A free environment for rapid engineering and scientific prototyping and data processing
+GenericName=Scientific Software Package
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_freemat_freemat.png
+Name=FreeMat
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Education;Science;Math;Engineering;

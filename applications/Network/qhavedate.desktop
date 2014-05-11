@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n weboob-qt
+Name=QHaveDate
+Comment=Optimize your probabilities to have sex on dating websites
+Icon=/usr/share/app-install-data-postinstallerf/icons/qhavedate.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;Chat;ContactManagement;Qt;

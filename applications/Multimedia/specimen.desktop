@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n specimen
+Type=Application
+Name=Specimen
+GenericName=Specimen
+Comment=Sound Sampler
+Icon=/usr/share/app-install-data-postinstallerf/icons/specimen_32x32.png
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;Music;

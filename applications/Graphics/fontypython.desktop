@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n fontypython
+Name=Fonty Python Font Manager
+GenericName=Font Manager
+Comment=View and temporarily install all kinds of fonts.
+Comment[fr]=Fonty Python est aussi appropriÃ© pour visionner vos fichiers TTF oÃ¹ qu ils soient sur votre ordinateur
+Comment[it]=Vedi e installa temporaneamente tutti i tipi di font
+Type=Application
+Categories=Graphics;
+Terminal=false
+StartupNotify=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/fontypython.png

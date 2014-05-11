@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n ri-li
+Name=Ri-li
+Comment=a toy simulator game
+Comment[fr]=un jeu de petit train
+Comment[ro_RO]=un joc cu un tren de jucărie
+Icon=/usr/share/app-install-data-postinstallerf/icons/ri-li.png
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

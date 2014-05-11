@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n kabikaboo
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_kabikaboo_kabikaboo.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Office;
+StartupNotify=false
+Name=Kabikaboo
+GenericName=Writing Assistant
+Comment=Manage large collections of notes

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n ripperx
+Version=1.0
+Name=Ripper X
+GenericName=Ripper X
+Comment=Rip Cds
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/ripperx.png
+Categories=AudioVideo;Audio;

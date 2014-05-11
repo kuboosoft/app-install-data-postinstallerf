@@ -1,0 +1,17 @@
+[Desktop Entry]
+Exec=postinstaller -n k9copy
+Type=Application
+Name=k9copy assistant
+Comment=DVD9 to DVD5 backup tool
+Comment[fr]=Backup de DVD9 en DVD5
+Comment[tr]=DVD9 DVD5 yedekleme aracı
+Comment[ru]=Инструмент для копирования с DVD9 на DVD5
+Comment[uk]=Інструмент резервного копіювання DVD
+GenericName=Video DVD Backup
+GenericName[fr]=Backup de DVD Video
+GenericName[tr]=DVD Vidyo Yedekleme Aracı
+GenericName[ru]=Копирование с видео-DVD
+GenericName[uk]=Копіювання відео-DVD
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/k9copy.png
+Categories=Qt;KDE;AudioVideo;DiscBurning;

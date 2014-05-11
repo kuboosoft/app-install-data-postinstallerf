@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n nzb
+Name=Nzb
+Comment=Grab nzb files
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/nzb.png
+Terminal=false
+Categories=Network;

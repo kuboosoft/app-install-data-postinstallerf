@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n xscorch
+Name=Xscorch
+Comment=Clone of Scorched Earth
+Icon=/usr/share/app-install-data-postinstallerf/icons/xscorch.png
+Type=Application
+Categories=Application;Game;ArcadeGame;

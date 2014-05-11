@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n xjump
+Version=1.0
+Type=Application
+Name=XJump
+Comment=A jumping game
+Comment[fr]=Un jeu de saut
+Icon=/usr/share/app-install-data-postinstallerf/icons/xjump-icon.xpm.png
+Categories=Application;Game;

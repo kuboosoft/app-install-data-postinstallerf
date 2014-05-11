@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n eficas
+Version=1.0
+Name=Eficas
+GenericName=Graphical command editor for Code_Aster
+Comment=Graphical command editor for Code_Aster.
+Icon=/usr/share/app-install-data-postinstallerf/icons/eficas.png
+Type=Application
+Terminal=false
+Categories=Education;Math;Science;
+StartupNotify=true

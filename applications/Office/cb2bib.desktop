@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n cb2bib
+Comment=Bibliographic Reference Extracting Tool
+Comment[ca]=Eina per extreure referències bibliogràfiques
+GenericName=Reference Extracting Tool
+GenericName[ca]=Eina per extreure referències
+Icon=/usr/share/app-install-data-postinstallerf/icons/cb2bib.png
+Name=cb2Bib
+StartupNotify=true
+Terminal=false
+Categories=Office;
+Type=Application

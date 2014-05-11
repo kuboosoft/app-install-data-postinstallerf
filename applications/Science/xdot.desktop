@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n xdot
+Name=XDot
+Comment=Interactive viewer for Graphviz dot files
+Terminal=false
+Type=Application
+Categories=GTK;DataVisualization;Science;Graphics;

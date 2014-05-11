@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n warzone2100
+Version=1.0
+Type=Application
+Name=Warzone 2100
+Name[de]=Warzone 2100
+GenericName=Strategy Game
+GenericName[de]=Strategiespiel
+Comment=Postnuclear realtime strategy
+Comment[de]=Postnukleare Echtzeit Strategie
+Icon=/usr/share/app-install-data-postinstallerf/icons/warzone2100.png
+Categories=Game;StrategyGame;

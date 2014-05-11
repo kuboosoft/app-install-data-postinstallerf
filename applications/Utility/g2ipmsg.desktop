@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n g2ipmsg
+Terminal=false
+Name=GNOME2 IP Messenger
+Name[ja]=GNOME2 IPメッセンジャー
+Name[zh_CN]=GNOME2飞鸽
+Comment=IP Messenger for the GNOME2
+Comment[ja]=GNOME2 版 IPメッセンジャー
+Comment[zh_CN]=GNOME2 版 飞鸽
+Icon=/usr/share/app-install-data-postinstallerf/icons/ipmsg.png.png
+Type=Application
+Categories=GTK;Application;Utility;

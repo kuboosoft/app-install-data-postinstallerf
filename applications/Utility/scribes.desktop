@@ -1,0 +1,21 @@
+[Desktop Entry]
+Exec=postinstaller -n scribes
+Name=Scribes Text Editor
+Name[de]=Scribes Texteditor
+Name[fr]=Scribes Editeur de Texte
+Name[it]=Scribes - Editor di testo
+Name[nl]=Scribes tekst-editor
+Name[pt_BR]=Editor de Texto Scribes
+Name[sv]=Textredigeraren Scribes
+Comment=Edit text files
+Comment[de]=Textdateien bearbeiten
+Comment[fr]=Edite les fichiers textes
+Comment[it]=Modifica file di testo
+Comment[nl]=Tekstbestanden bewerken
+Comment[pt_BR]=Edite documentos de texto
+Comment[sv]=Redigera textfiler
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/scribes.png
+Categories=Utility;TextEditor;GNOME;GTK;

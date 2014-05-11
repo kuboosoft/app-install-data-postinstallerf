@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n mcrl2
+Name=mCRL2
+Comment=Graphical front end for mCRL2 toolset
+Type=Application
+Categories=Education;Science;

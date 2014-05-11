@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n dossizola
+Name=Do SSi Zo la
+GenericName=dossizola
+Comment=Isola game with nice graphics
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/dossizola.png
+Terminal=false
+Categories=Game;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n timemachine
+Name=JACK Timemachine
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_timemachine_pixmaps_timemachine-icon.png
+Type=Application
+Categories=AudioVideo;Audio;

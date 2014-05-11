@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n dkopp
+Name=dkopp
+GenericName=Copy files to DVD
+Comment=Full and incremental backup to DVD with verify
+Categories=System;Utility;Archiving;
+Type=Application
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_dkopp_icons_dkopp.png

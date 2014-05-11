@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n fatrat
+Categories=Application;Network;
+Comment=Qt-based download/upload manager
+Name=FatRat
+GenericName=Download/upload manager
+Icon=/usr/share/app-install-data-postinstallerf/icons/fatrat.png.png
+StartupNotify=true
+Terminal=false
+Type=Application

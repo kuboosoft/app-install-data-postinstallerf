@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n fwbuilder
+# This is the spec version, *not* the application version
+Version=1.0
+Type=Application
+Name=Firewall Builder
+GenericName=Firewall administration tool
+Comment=Firewall administration tool GUI
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_fwbuilder_firewall_64.png
+Terminal=false
+Categories=Network

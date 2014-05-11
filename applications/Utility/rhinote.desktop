@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n rhinote
+Name=Rhinote
+Comment=Virtual sticky-notes
+Comment[it]=Note di testo virtuali
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/rhinote.png
+Categories=Utility;TextEditor;

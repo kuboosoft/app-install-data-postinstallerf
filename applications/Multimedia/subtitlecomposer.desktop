@@ -1,0 +1,15 @@
+[Desktop Entry]
+Exec=postinstaller -n subtitlecomposer
+Type=Application
+Name=Subtitle Composer
+Name[es]=Subtitle Composer
+Name[fr]=Subtitle Composer
+GenericName=Subtitle Editor
+GenericName[es]=Editor de subtítulos
+GenericName[fr]=Éditeur de sous-titres
+Comment=KDE subtitle editor
+Comment[es]=Editor de subtítulos para KDE
+Comment[fr]=Éditeur de sous-titres pour KDE
+Icon=/usr/share/app-install-data-postinstallerf/icons/subtitlecomposer.png
+Terminal=false
+Categories=Qt;KDE;AudioVideo;

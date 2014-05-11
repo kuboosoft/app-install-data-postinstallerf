@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n cameleon
+Version=1.0
+Type=Application
+Name=OCamlCVS
+GenericName=Handle CVS
+GenericName[fr]=Gestion de CVS
+Comment=Visual utility to manage CVS files
+Comment[fr]=Utilitaire visuel pour gérer les fichiers sous CVS
+Categories=Development;RevisionControl;GTK;

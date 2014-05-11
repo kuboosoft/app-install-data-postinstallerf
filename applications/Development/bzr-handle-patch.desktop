@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n bzr-gtk
+Name=Bazaar
+Comment=Apply Bazaar Bundle
+Icon=/usr/share/app-install-data-postinstallerf/icons/bzr-icon-64.png
+Terminal=false
+Type=Application
+Categories=Application;Development;RevisionControl;
+Ignore=true

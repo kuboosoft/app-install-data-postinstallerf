@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n cb2bib
+Comment=Bibliographic Reference Citation Tool
+Comment[ca]=Eina bibliogràfica per escriure citacions
+GenericName=Reference Citation Tool
+GenericName[ca]=Eina per citacions bibliogràfiques
+Icon=/usr/share/app-install-data-postinstallerf/icons/cb2bib.png
+Name=c2bCiter
+StartupNotify=false
+Terminal=false
+Categories=Office;
+Type=Application

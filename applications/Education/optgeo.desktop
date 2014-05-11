@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n optgeo
+Version=1.0
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_optgeo-48.png
+Terminal=false
+Name=OptGeo
+GenericName=Simulator for geometrical optics
+GenericName[fr_FR]=Simulateur d optique géométrique
+Comment=Interactive tool to study and simulate optic assemblies
+Comment[fr_FR]=Outil interactif pour étudier et simuler des montages d optique
+Categories=GNOME;Application;Video;Education;Science;

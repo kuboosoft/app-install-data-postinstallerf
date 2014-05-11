@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n survex-svxedit
+Version=1.0
+Name=SvxEdit Cave Survey Data Editor
+GenericName=Cave Survey Data Editor
+Comment=Enter cave survey data for Survex
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/svxedit.png
+Categories=Education;Geology;Science;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n uima-utils
+Type=Application
+Name=UIMA Annotation Viewer
+Name[fr]=Visionneur d annotations UIMA
+Comment=Viewer for UIMA annotations
+Comment[fr]=Visionneur d annotations UIMA
+Categories=Education;Science;Java;
+Icon=/usr/share/app-install-data-postinstallerf/icons/UIMA.png

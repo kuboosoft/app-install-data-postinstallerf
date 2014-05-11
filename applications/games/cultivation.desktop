@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n cultivation
+Type=Application
+Name=Cultivation
+GenericName=Gardening game
+Comment=Game about the interactions within a gardening community
+Icon=/usr/share/app-install-data-postinstallerf/icons/cultivation.png
+Terminal=false
+Categories=Game;ArcadeGame;

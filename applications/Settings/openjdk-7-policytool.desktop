@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n openjdk-7-jre
+Name=OpenJDK Java 7 Policy Tool
+Name[fi]=OpenJDK Java 7 - käytäntötyökalu
+Comment=OpenJDK Java 7 Policy Tool
+Comment[fi]=OpenJDK Java 7 - käytäntötyökalu
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/openjdk-7.png
+Categories=Settings;

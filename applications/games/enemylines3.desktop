@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n enemylines3
+Name=Enemylines3
+Comment=semi-abstract first person 3d-shooter game
+Comment[fr]=Un jeu de tir à la première personne
+Icon=/usr/share/app-install-data-postinstallerf/icons/enemylines3.png
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

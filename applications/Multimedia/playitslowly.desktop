@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n playitslowly
+Version=1.0
+Comment=A tool to play back a piece of music at a different speed or pitch
+Icon=/usr/share/app-install-data-postinstallerf/icons/playitslowly.png
+Type=Application
+Categories=Application;AudioVideo;
+Terminal=false

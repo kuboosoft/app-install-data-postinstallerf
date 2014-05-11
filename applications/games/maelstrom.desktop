@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n maelstrom
+Type=Application
+Name=Maelstrom
+GenericName=Ambrosia Maelstrom
+Comment=Play an Asteroids like game
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_lib_games_maelstrom_icon32.png
+Terminal=false
+Categories=Game;ArcadeGame;

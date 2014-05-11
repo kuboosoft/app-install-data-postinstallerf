@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n poe.app
+Type=Application
+Version=1.0
+Categories=AudioVideo;Audio;AudioVideoEditing;
+Name=Poe
+Comment=Vorbis comment editor
+Comment[bg]=Редактор на коментари на файлове във формат Ogg Vorbis
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Poe.app/Resources/Poe.tiff.png

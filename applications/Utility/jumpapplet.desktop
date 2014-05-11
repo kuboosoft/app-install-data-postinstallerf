@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n jumpapplet
+Version=1.0
+Name=Autojump applet
+Comment=Quickly jump to frequently used directories
+Comment[fr]=Aller rapidement dans les répertoires souvent utilisés
+Icon=/usr/share/app-install-data-postinstallerf/icons/jumpapplet.png
+Type=Application
+Terminal=false
+Categories=Utility;Filesystem;

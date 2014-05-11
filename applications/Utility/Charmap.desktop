@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n charmap.app
+Type=Application
+Version=1.0
+Categories=Utility;
+Name=Charmap
+Name[bg]=Таблица със знаци (Charmap)
+Comment=Character map for GNUstep
+Comment[bg]=Таблица със знаци за GNUstep
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Charmap.app/Resources/Charmap.png.png

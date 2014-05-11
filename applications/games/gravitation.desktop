@@ -1,0 +1,9 @@
+# Forwarded to http://sf.net/support/tracker.php?aid=2672143
+[Desktop Entry]
+Exec=postinstaller -n gravitation
+Type=Application
+Name=Gravitation
+Comment=game about mania, melancholia, and the creative process
+Icon=/usr/share/app-install-data-postinstallerf/icons/gravitation.png
+Terminal=false
+Categories=Game;AdventureGame;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n jemboss
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/jemboss.png
+Name=Jemboss
+GenericName=GUI for EMBOSS
+Comment=Graphical user interface for the European Molecular Biology Open Software Suite.
+Type=Application
+Categories=Biology;Science;Education;

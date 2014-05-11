@@ -1,0 +1,20 @@
+[Desktop Entry]
+Exec=postinstaller -n vagalume
+Version=1.0
+Type=Application
+Categories=Audio;AudioVideo;GNOME;GTK;Application;Player;
+Name=Vagalume
+GenericName=Last.fm Client
+GenericName[ca]=Client de Last.fm
+GenericName[de]=Last.fm Client
+GenericName[es]=Cliente de Last.fm
+GenericName[fi]=Last.fm Asiakasohjelma
+GenericName[fr]=Client pour Last.fm
+GenericName[gl]=Cliente de Last.fm
+GenericName[it]=Client Last.fm
+GenericName[lv]=Last.fm klients
+GenericName[pl]=Klient Last.fm
+GenericName[pt]=Cliente do Last.fm
+GenericName[pt_BR]=Cliente do Last.fm
+GenericName[ru]=Last.fm клиент
+Icon=/usr/share/app-install-data-postinstallerf/icons/vagalume.png

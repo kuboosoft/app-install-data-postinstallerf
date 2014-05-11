@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n trophy
+Version=1.0
+Type=Application
+Name=Trophy
+GenericName=Racing Game
+Comment=2D car racing game with power-ups
+Icon=/usr/share/app-install-data-postinstallerf/icons/trophy.png
+Categories=Game;ArcadeGame;

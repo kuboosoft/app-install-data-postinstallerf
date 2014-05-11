@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gtkam
+Name=Gtkam Digital Camera Browser
+Comment=Browse and download images from an attached digital camera
+Icon=/usr/share/app-install-data-postinstallerf/icons/gtkam-camera.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Photography;Graphics;RasterGraphics;Viewer;
+StartupNotify=true

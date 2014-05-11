@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n poedit
+Name=Poedit
+Comment=Gettext catalogs editor
+Comment[fr]=Outil de traduction
+Icon=/usr/share/app-install-data-postinstallerf/icons/poedit.png.png
+Terminal=false
+Type=Application
+Categories=Development;Translation;
+StartupNotify=true

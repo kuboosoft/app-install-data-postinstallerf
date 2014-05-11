@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n verbiste-gnome
+Name=Verbiste
+Name[fr]=Verbiste
+Categories=Office;
+Comment=French conjugation system
+Comment[fr]=Système de conjugaison française
+Icon=/usr/share/app-install-data-postinstallerf/icons/verbiste.png
+Terminal=false
+Type=Application

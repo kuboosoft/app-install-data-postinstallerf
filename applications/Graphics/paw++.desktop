@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n paw++
+Version=1.0
+Name=Paw++ (Physics Analysis Workstation)
+GenericName=Experimental Data Analysis
+Comment=Analyze and graphically present experimental data
+Comment[en_GB]=Analyse and graphically present experimental data
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/paw.png
+Categories=Physics;Science;Graphics;

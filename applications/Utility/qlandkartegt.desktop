@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n qlandkartegt
+Version=1.0
+Name=QLandkarteGT
+Icon=/usr/share/app-install-data-postinstallerf/icons/qlandkartegt.png
+Terminal=false
+Type=Application
+Categories=Qt;Utility;Geography;
+GenericName=GPS device mapping utility

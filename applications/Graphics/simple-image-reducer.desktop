@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n simple-image-reducer
+Name=Simple Image Reducer
+Name[ru]=Простой преобразователь изображений
+Name[uk]=Простий перетворювач зображень
+Comment=Reduce and rotate images in three-four clicks.
+Comment[ru]=Уменьшает и поворачивает изображения в три-четыре клика.
+Comment[uk]=Зменшення і обертання зображень в три-чотири клацання.
+Icon=/usr/share/app-install-data-postinstallerf/icons/simple-image-reducer.png.png
+Terminal=false
+Type=Application
+Categories=Graphics;2DGraphics;RasterGraphics;GTK;

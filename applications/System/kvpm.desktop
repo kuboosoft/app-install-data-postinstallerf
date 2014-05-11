@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n kvpm
+GenericName=LVM Frontend
+Name=KVPM
+Comment=KDE Volume Partition Manager
+Type=Application
+Categories=Qt;KDE;System;
+Icon=/usr/share/app-install-data-postinstallerf/icons/kvpm.png

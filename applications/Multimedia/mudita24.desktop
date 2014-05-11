@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n mudita24
+Type=Application
+Name=Mudita24
+GenericName=ALSA GUI control tool for Envy24 (ice1712) soundcards
+Icon=/usr/share/app-install-data-postinstallerf/icons/mudita24.png
+Categories=AudioVideo;Audio;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n einstein
+Version=1.0
+Name=Einstein
+Comment="Puzzle game inspired on Einstein s puzzle"
+Comment[de]="Puzzle-Spiel, inspiriert von Einsteins Puzzle"
+Icon=/usr/share/app-install-data-postinstallerf/icons/einstein.png.png
+Terminal=false
+Type=Application
+Categories=Game;LogicGame;
+StartupNotify=false

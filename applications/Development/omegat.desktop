@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n omegat
+Version=1.0
+Name=OmegaT
+Comment=Computer-Assisted Translation tool
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_omegat_images_OmegaT.png
+Type=Application
+Categories=Office;Development;Translation;Java;
+Exec=postinstaller -n omegat

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gdis
+Version=1.0
+Name=GDIS Molecule Modeller
+GenericName=Molecule Modeller
+Comment=Model and manipulate molecules, and create high-quality renderings of them
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gdis.png
+Categories=GTK;Science;Chemistry;Education;

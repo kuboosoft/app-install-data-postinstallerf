@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n abraca
+Name=Abraca XMMS2 Client
+Comment=Manage Music
+Comment[de]=Musik verwalten
+Categories=GNOME;Application;AudioVideo;
+Icon=/usr/share/app-install-data-postinstallerf/icons/abraca-192.png
+Terminal=false
+Type=Application

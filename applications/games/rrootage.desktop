@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n rrootage
+Type=Application
+Name=rRootage
+GenericName=rrootage
+Comment=Destroy autocreated battleships
+Icon=/usr/share/app-install-data-postinstallerf/icons/rrootage.xpm.png
+Terminal=false
+Categories=Game;ArcadeGame;

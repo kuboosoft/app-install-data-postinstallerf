@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n pyragua
+Type=Application
+Version=1.0
+Name=Pyragua
+GenericName[en_GB]=Integrated Development Environment
+GenericName[es]=Entorno Integrado de Desarrollo
+Comment=A fast and lightweight IDE using wxPython
+Icon=/usr/share/app-install-data-postinstallerf/icons/pyragua.png
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n fofix
+Name=FoFiX
+Icon=/usr/share/app-install-data-postinstallerf/icons/fofix.png
+Terminal=false
+Type=Application
+Categories=Game;

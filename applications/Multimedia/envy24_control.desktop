@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n alsa-tools-gui
+Type=Application
+Name=Envy24 control
+GenericName=
+Comment=Control Envy24 (ice1712) based soundcards
+Icon=/usr/share/app-install-data-postinstallerf/icons/alsa-tools.png
+Terminal=false
+Categories=AudioVideo;Audio;

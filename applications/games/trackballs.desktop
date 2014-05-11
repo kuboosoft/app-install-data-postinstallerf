@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n trackballs
+GenericName=Marble Madness type game
+Name=Trackballs
+Icon=/usr/share/app-install-data-postinstallerf/icons/trackballs.png
+Type=Application
+Terminal=false
+Categories=Game;ArcadeGame;

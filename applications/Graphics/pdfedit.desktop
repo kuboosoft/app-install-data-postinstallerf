@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n pdfedit
+Name=PDF Editor
+Comment=PDF Editor
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pdfedit_icon_pdfedit_logo.png
+Type=Application
+StartupNotify=false
+Terminal=false
+Categories=TextTools;Viewer;Graphics;Qt;

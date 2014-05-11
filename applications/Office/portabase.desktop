@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n portabase
+Version=1.0
+Type=Application
+Terminal=false
+Name=PortaBase
+Comment=An easy-to-use personal database application
+Icon=/usr/share/app-install-data-postinstallerf/icons/portabase.png
+Categories=Office;Database;

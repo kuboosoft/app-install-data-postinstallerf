@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n hannah
+Version=1.0
+Type=Application
+Name=Help Hannah s Horse
+Comment=A pacman-like game
+Comment[es]=Un juego similar al pacman
+Icon=/usr/share/app-install-data-postinstallerf/icons/hannah.xpm.png
+Categories=Application;Game;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n mrtrix
+GenericName=MRI Tractography View
+Name=MRview
+Type=Application
+Terminal=false
+Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;GTK;Viewer;
+Icon=/usr/share/app-install-data-postinstallerf/icons/mrtrix.xpm.png

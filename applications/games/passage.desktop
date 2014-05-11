@@ -1,0 +1,10 @@
+# Forwarded to http://sf.net/support/tracker.php?aid=2672143
+[Desktop Entry]
+Exec=postinstaller -n passage
+Type=Application
+Name=Passage
+GenericName=Life game
+Comment=game about the passage through life
+Icon=/usr/share/app-install-data-postinstallerf/icons/passage.png
+Terminal=false
+Categories=Game;AdventureGame;

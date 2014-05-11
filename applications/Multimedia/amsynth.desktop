@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n amsynth
+Name=amSynth
+GenericName=Soft Synth
+Comment=Two oscillator software synthesizer
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_amsynth.png
+Type=Application
+Categories=AudioVideo;Audio;
+Terminal=false

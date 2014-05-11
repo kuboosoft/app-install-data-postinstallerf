@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n minetest
+Name=Minetest
+GenericName=Minetest
+Comment=InfiniMiner/Minecraft-inspired open game world
+Icon=/usr/share/app-install-data-postinstallerf/icons/minetest.png
+Terminal=false
+Type=Application
+Categories=Game;

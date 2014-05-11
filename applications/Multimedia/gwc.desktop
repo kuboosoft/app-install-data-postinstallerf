@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gwc
+Version=1.0
+Type=Application
+Terminal=false
+Name=Gnome Wave Cleaner
+Comment=Sound File Noise Reduction
+Icon=/usr/share/app-install-data-postinstallerf/icons/gwc.xpm.png
+Categories=GNOME;Application;AudioVideo;

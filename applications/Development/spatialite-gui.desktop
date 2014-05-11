@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n spatialite-gui
+Name=Spatialite GUI
+Terminal=false
+Type=Application
+Categories=Development;Database;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n torus-trooper
+Type=Application
+Name=Torus Trooper
+GenericName=
+Comment=Kenta Cho s Torus Trooper
+Icon=/usr/share/app-install-data-postinstallerf/icons/torus-trooper.png
+Terminal=false
+Categories=Game;ArcadeGame;

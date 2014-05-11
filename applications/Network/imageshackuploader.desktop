@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n imageshack-uploader
+Name=ImageShack Uploader
+Name[ru]=Загрузчик ImageShack
+Comment=Upload your images and videos to ImageShack
+Comment[ru]=Загрузите свои изображения и видео на ImageShack
+Icon=/usr/share/app-install-data-postinstallerf/icons/imageshack.png
+Terminal=false
+Type=Application
+Categories=Network;Qt;FileTransfer;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n val-and-rick
+Type=Application
+Name=Val & Rick
+GenericName=
+Comment=Kenta Cho s Val & Rick
+Icon=/usr/share/app-install-data-postinstallerf/icons/val-and-rick.png
+Terminal=false
+Categories=Game;ArcadeGame;

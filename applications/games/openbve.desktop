@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n openbve
+Version=1.0
+Type=Application
+Name=OpenBVE
+GenericName=Train simulator
+GenericName[de]=Zugsimulation
+Categories=Game;Simulation;
+Comment=Train/railway simulator compatible with  BVE Trainsim  routes
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/openbve.png
+StartupNotify=false

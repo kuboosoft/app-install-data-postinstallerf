@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n debian-installer-launcher
+Version=1.0
+Name=Install Debian sid
+Comment=Install this system permanently to your hard disk
+Icon=/usr/share/app-install-data-postinstallerf/icons/debian-installer-launcher.png
+Type=Application
+Categories=Application;System;
+StartupNotify=true
+Terminal=false

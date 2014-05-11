@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n pipewalker
+Version=1.0
+Type=Application
+Name=PipeWalker
+Comment=Connect all hosts to network!
+Comment[ru]=Объедините все компьютеры в сеть!
+Comment[fr]=Connectez tous les ordinateurs au réseau!
+Categories=Game;LogicGame;
+Icon=/usr/share/app-install-data-postinstallerf/icons/pipewalker.xpm.png

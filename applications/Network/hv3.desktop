@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n hv3
+Version=1.0
+Name=Hv3 Web Browser
+GenericName=Web Browser
+Comment=Browse the World Wide Web
+Type=Application
+Categories=Network;WebBrowser;

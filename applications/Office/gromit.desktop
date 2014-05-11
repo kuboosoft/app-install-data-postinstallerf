@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gromit
+Type=Application
+Name=gromit
+GenericName=gromit
+Comment=draw freehand screen annotations
+Icon=/usr/share/app-install-data-postinstallerf/icons/gromit.png
+Terminal=false
+Categories=GTK;Office;Graphics;

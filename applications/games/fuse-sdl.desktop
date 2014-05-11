@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n fuse-emulator-sdl
+Version=1.0
+Type=Application
+Categories=Game;Emulator;Application;
+Name=Fuse Spectrum Emulator (SDL version)
+Icon=/usr/share/app-install-data-postinstallerf/icons/fuse.png

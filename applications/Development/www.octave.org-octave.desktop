@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n octave
+Name=GNU Octave
+Comment=Scientific Computing using GNU Octave
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_octave_3.6.2_imagelib_octave-logo.png
+Terminal=true
+Type=Application
+Categories=Development;Math;Science;
+StartupNotify=false

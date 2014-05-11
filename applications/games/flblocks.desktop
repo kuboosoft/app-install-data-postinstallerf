@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n fltk1.1-games
+Name=FLTK Block Attack!
+Comment=Block Attack! Game
+Icon=/usr/share/app-install-data-postinstallerf/icons/flblocks.png
+Terminal=false
+Type=Application
+Categories=Game;BlocksGame;

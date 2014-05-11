@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n uima-utils
+Type=Application
+Name=UIMA Document Analyzer
+Name[fr]=Analyseur de documents pour UIMA
+Comment=Simple UIMA analysis engine runner
+Comment[fr]=Lanceur simplifié de composants UIMA
+Categories=Education;Science;Java;
+Icon=/usr/share/app-install-data-postinstallerf/icons/UIMA.png

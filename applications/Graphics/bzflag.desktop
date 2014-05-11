@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n bzflag
+Name=BZFlag
+GenericName=Tank Battle Game
+Comment=Battle enemy tanks
+Icon=/usr/share/app-install-data-postinstallerf/icons/bzflag-48x48.png
+Type=Application
+Categories=Game;ActionGame;3DGraphics;

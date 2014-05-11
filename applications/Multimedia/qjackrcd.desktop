@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n qjackrcd
+Name=QJackRcd
+Comment=A simple Jack recorder
+Icon=/usr/share/app-install-data-postinstallerf/icons/qjackrcd.png
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;Audio;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n scolasync
+Version=1.0
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_scolasync_images_scolasync.png
+Terminal=false
+Name=ScolaSync
+GenericName=ScolaSync
+GenericName[fr_FR]=ScolaSync
+Comment=Interactive tool to copy files to or from USB storage media
+Comment[fr_FR]=Outil interactif pour copier des fichiers depuis ou vers des disques USB
+Categories=GNOME;Application;Education;

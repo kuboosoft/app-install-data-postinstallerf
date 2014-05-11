@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n system-config-cluster
+Name=Cluster Management
+GenericName=system-config-cluster
+Comment=Configure and manage clusters in a graphical setting
+StartupNotify=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_system-config-cluster_pixmaps_node.png
+Type=Application
+Terminal=false
+Categories=System

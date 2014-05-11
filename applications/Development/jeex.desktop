@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n jeex
+Exec=postinstaller -n jeex
+Version=1.0
+Name=Jeex
+Icon=/usr/share/app-install-data-postinstallerf/icons/jeex.png
+Categories=GTK;Development;
+Comment=Hexadecimal Editor for Linux
+Comment[it]=Un editor esadecimale per Linux
+Terminal=false
+Type=Application
+StartupNotify=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n xoo
+Name=Xoo
+Comment=Handheld Device Simulator
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/xoo.png.png
+Type=Application
+Categories=GTK;Development;
+StartupNotify=true

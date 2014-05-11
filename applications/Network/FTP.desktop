@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n ftp.app
+Type=Application
+Version=1.0
+Name=FTP
+Categories=FileTransfer;Network;
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_FTP.png

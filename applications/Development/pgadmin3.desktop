@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n pgadmin3
+Name=pgAdmin III
+Comment=PostgreSQL Administration Tool
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/pgadmin3.png
+Categories=Development;Database;

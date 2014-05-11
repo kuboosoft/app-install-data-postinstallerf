@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n psychopy
+GenericName=Psychology Stimuli IDE
+GenericName[ru]=IDE для психологических стимулов
+Name=PsychoPy
+Type=Application
+Terminal=false
+Categories=Graphics;Science;MedicalSoftware;Development;IDE;
+Icon=/usr/share/app-install-data-postinstallerf/icons/psychopy.xpm.png

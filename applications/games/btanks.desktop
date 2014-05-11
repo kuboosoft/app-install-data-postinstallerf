@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n btanks
+Name=Battle Tanks
+Comment=fast 2D tank arcade game with multiplayer and split-screen modes
+Icon=/usr/share/app-install-data-postinstallerf/icons/btanks.png
+Terminal=false
+Type=Application
+Categories=Game;ActionGame;ArcadeGame;

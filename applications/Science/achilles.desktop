@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n achilles
+Version=1.0
+Name=Achilles Life Simulator
+GenericName=Life Simulator
+Comment=Watch a simulation of artificial life and evolution
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/achilles.png
+Categories=Application;Education;Science;Biology;Simulation;

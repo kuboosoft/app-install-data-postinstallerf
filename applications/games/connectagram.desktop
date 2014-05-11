@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n connectagram
+Name=Connectagram
+Icon=/usr/share/app-install-data-postinstallerf/icons/connectagram.png
+Terminal=false
+Type=Application
+Categories=Qt;Game;

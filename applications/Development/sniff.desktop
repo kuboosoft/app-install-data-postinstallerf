@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n python-dogtail
+Name=AT-SPI Browser
+Name[en_CA]=AT-SPI Browser
+Name[en_GB]=AT-SPI Browser
+Comment=Browse your Assistive Technology-enabled desktop
+Comment[en_CA]=Browse your Assistive Technology-enabled desktop
+Comment[en_GB]=Browse your Assistive Technology-enabled desktop
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/dogtail-head.svg.png
+StartupNotify=true
+Categories=Application;Development;

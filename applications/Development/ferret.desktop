@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n ferret
+Version=1.0
+Name=ferret
+Comment=Design E-R databases
+Terminal=false
+Type=Application
+Categories=Application;Development;
+Name[pt_BR]=ferret

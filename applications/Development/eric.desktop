@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n eric
+Name=Eric python IDE
+Name[es]=IDE para python Eric
+Comment=Full featured Python IDE
+Comment[es]=Completo entorno de programaci贸n para Python
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/eric.png
+Categories=Development;IDE;
+StartupNotify=true

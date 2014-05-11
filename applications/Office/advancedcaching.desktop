@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n agtl
+Name=AGTL Geocaching Tool
+Comment=Advanced Geocaching Tool For Linux
+Version=0.0
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/advancedcaching.png
+Terminal=false
+Categories=Office;Geography;
+StartupNotify=true
+Comment[de_DE.UTF-8]=Ein Geocaching-Werkzeug
+Name[de_DE]=AGTL Geocaching-Werkzeug

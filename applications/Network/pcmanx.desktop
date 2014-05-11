@@ -1,0 +1,16 @@
+[Desktop Entry]
+Exec=postinstaller -n pcmanx-gtk2
+Categories=GTK;Network;News;Chat;InstantMessaging
+Name=PCManX BBS Client
+Name[zh_TW]=PCManX BBS 連線軟體
+Name[zh_CN]=PCManX BBS 连线软件
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_pcmanx.png
+Type=Application
+Terminal=false
+GenericName=PCManX BBS Client
+GenericName[zh_TW]=PCManX BBS 連線軟體
+GenericName[zh_CN]=PCManX BBS 连线软件
+Comment=PCManX BBS Client
+Comment[zh_TW]=PCManX BBS 用 GTK+ 2.x 開發的自由 BBS 連線軟體
+Comment[zh_CN]=PCManX BBS 用 GTK+ 2.x 开发的自由 BBS 连接软件
+StartupNotify=true

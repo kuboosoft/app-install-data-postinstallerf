@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n freebirth
+Name=Freebirth
+GenericName=Freebirth
+Comment=Bass synthesizer/sample player/sequencer
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_freebirth.png
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;Audio;

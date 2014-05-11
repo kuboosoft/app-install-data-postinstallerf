@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gprename
+Version=2.6
+Name=GPRename
+Comment=To rename files and directories in batch
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_gprename_gprename.png
+Terminal=false
+Type=Application
+Categories=Utility;FileManager;

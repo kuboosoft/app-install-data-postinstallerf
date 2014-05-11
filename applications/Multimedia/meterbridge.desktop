@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n meterbridge
+Type=Application
+Name=Meterbridge
+GenericName=Audio Level Meter
+Comment=Audio level meter for JACK
+Icon=/usr/share/app-install-data-postinstallerf/icons/meterbridge32x32.xpm.png
+Terminal=false
+Categories=AudioVideo;Audio;

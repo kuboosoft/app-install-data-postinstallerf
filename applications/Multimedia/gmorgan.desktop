@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gmorgan
+Name=gmorgan
+Comment=MIDI rhythm station for ALSA
+#Icon=/usr/share/icons/gmorgan.png
+Terminal=false
+Type=Application
+Categories=Audio;Midi

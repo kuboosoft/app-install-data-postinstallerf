@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n pcsc-tools
+Name=Gscriptor
+Comment=Send commands to smart cards
+Terminal=false
+Type=Application
+Categories=Utility;GTK;

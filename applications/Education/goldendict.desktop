@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n goldendict
+Type=Application
+Terminal=false
+Categories=Office;Dictionary;Education;Qt
+Name=GoldenDict
+GenericName=Multiformat Dictionary
+Comment=GoldenDict
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_goldendict.png

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n weboob-qt
+Name=QBoobmsg
+Comment=Send and receive messages from various websites
+Icon=/usr/share/app-install-data-postinstallerf/icons/qboobmsg.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;Qt;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n virtualbricks
+Version=0.5
+Name=Virtualbricks
+Comment=Manage your virtual network and virtual machines
+Icon=/usr/share/app-install-data-postinstallerf/icons/virtualbricks.png
+Terminal=true
+Type=Application
+Categories=GNOME;Application;Emulator;Utility;

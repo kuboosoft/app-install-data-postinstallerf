@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n freealchemist
+Name=FreeAlchemist
+Comment=A simpler figure block game
+Icon=/usr/share/app-install-data-postinstallerf/icons/freealchemist.png
+Terminal=false
+Type=Application
+Categories=Game;BlocksGame;

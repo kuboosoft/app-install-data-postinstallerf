@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n curtain
+Version=0.2
+Type=Application
+Name=Curtain
+GenericName=Show and move a curtain
+Comment=Show and move a curtain on the desktop
+Comment[it]=Mostra e sposta una tendina sulla scrivania
+Comment[es]=Muestra y mueve una cortina sobre el escritorio
+Icon=/usr/share/app-install-data-postinstallerf/icons/curtain.xpm.png
+Terminal=false
+Categories=GNOME;GTK;Utility;
+StartupNotify=true

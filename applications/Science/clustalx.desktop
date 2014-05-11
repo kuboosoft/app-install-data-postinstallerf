@@ -1,0 +1,18 @@
+[Desktop Entry]
+Exec=postinstaller -n clustalx
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/clustalx.png
+Name=Clustal X
+GenericName=Alignment and phylogeny
+GenericName[de]=Alignment und Phylogenie
+GenericName[en]=Alignment and phylogeny
+GenericName[fr]=Alignement et phylogénèse
+GenericName[pt_BR]=Alinhamento e filogenia
+Comment=Global multiple nucleotide or peptide sequence alignment and phylogenetic analysis
+Comment[de]=Globales multiples Nucleotid- oder Peptid-Sequenzalignment and phylogenetische Analyse
+Comment[en]=Global multiple nucleotide or peptide sequence alignment and phylogenetic analysis
+Comment[fr]=Alignement global de séquences peptidiques ou nucléotidiques et analyse phylogénétique
+Comment[pt_BR]=Alinhamento global de sequências peptídicas ou nucleotídeos e análise filogenética
+Type=Application
+Categories=Biology;Science;Education;

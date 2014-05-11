@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n xenwatch
+Name=vnc-client
+Terminal=false
+Type=Application
+Categories=GTK;System;Network;Utility;

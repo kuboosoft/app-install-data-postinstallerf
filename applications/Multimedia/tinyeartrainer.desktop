@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n tinyeartrainer
+Version=1.0
+Name=Tiny Ear Trainer
+GenericName=Ear Training Tools
+Comment=A tool to train your ears to hear relative pitch
+Icon=/usr/share/app-install-data-postinstallerf/icons/tinyeartrainer.png
+Type=Application
+Categories=Application;AudioVideo;
+Terminal=false
+Name[en_US]=Tiny Ear Trainer

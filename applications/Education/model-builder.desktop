@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n model-builder
+Name=Model Builder
+Comment=Graphical ODE simulator
+GenericName=Graphical ODE simulator
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_MB.png
+Type=Application
+StartupNotify=false
+Terminal=false
+Categories=Education;Science;Math;Engineering;

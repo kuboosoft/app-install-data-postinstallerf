@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gpaco
+Type=Application
+Name=Package Organizer
+GenericName=Package Organizer
+Comment=Manages software installed from source code
+Icon=/usr/share/app-install-data-postinstallerf/icons/gpaco.png.png
+StartupNotify=false
+Terminal=false
+Categories=Application;System;PackageManager;GTK

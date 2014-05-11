@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n xmpuzzles
+Name=xmskewb
+GenericName=skewb game
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_xskewb.m.png
+Terminal=false
+Type=Application
+Categories=Game;

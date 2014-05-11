@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n freeciv-client-extras
+Name=Freeciv modpack installer
+Comment=Download and install add-ons for Freeciv
+Icon=/usr/share/app-install-data-postinstallerf/icons/freeciv-modpack.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GTK;Game;StrategyGame;

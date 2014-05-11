@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n zatacka
+Version=1.0
+Name=Zatacka
+Comment=Arcade multiplayer game for 2-6 players
+Type=Application
+Categories=Game;ArcadeGame;

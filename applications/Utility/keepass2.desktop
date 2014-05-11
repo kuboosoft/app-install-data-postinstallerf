@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n keepass2
+Name=KeePass2
+GenericName=Password manager
+Icon=/usr/share/app-install-data-postinstallerf/icons/keepass2.png
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Utility;

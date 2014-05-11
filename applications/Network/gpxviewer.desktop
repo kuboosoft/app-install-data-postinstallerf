@@ -1,0 +1,26 @@
+[Desktop Entry]
+Exec=postinstaller -n gpxviewer
+Name=GPX Viewer
+Name[cs]=Prohlížeč GPX
+Name[de]=GPX Viewer
+Name[el]=Απεικονιστής GPX
+Name[en_GB]=GPX Viewer
+Name[es]=Visor GPX
+Name[fr]=GPX Viewer
+Name[hr]=GPX Viewer
+Name[hu]=GPX Viewer
+Name[it]=GPX Viewer
+Name[ja]=GPXビューア
+Name[nl]=GPX Viewer
+Name[pl]=GPX Viewer
+Name[pt]=GPX Viewer
+Name[ru]=GPX Viewer
+Name[sl]=Pregledovalnik datotek GPX
+Name[sv]=GPX Viewer
+Name[th]=GPX Viewer
+Name[uk]=GPX Viewer
+Name[zh_CN]=GPX 查看器
+Type=Application
+Comment=GPS Trace Viewer
+Icon=/usr/share/app-install-data-postinstallerf/icons/gpxviewer.png
+Categories=Network

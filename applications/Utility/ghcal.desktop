@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n hdate-applet
+Version=1.0
+Name=Hdate
+Name[he]=לוח שנה עברי
+Comment=Hebrew desktop calendar
+Comment[he]=לוח שנה המציג את התאריך העברי
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnome-calendar.png
+Categories=GNOME;GTK;Utility;Calendar;
+StartupNotify=false
+GenericName[en_US]=

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n xpuzzles
+Name=xpanex
+GenericName=panex game
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_xpanex.m.png
+Terminal=false
+Type=Application
+Categories=Game;

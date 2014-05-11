@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n tetraproc
+Name=Tetraproc
+GenericName=TetraProc
+Comment=Tetrahedral Microphone Processor for Ambisonic Recording
+Icon=/usr/share/app-install-data-postinstallerf/icons/.png
+Categories=AudioVideo;Audio;
+Terminal=false

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n textedit.app
+Type=Application
+Version=0.94
+Categories=Utility;TextEditor;
+Name=TextEdit
+Comment=an OpenStep text editor
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_lib_GNUstep_Applications_TextEdit.app_Resources_Edit.png

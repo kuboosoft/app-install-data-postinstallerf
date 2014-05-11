@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n python2.7
+Name=Python (v2.7)
+Comment=Python Interpreter (v2.7)
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_python2.7.png
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=true

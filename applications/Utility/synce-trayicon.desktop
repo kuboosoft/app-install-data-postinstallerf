@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n synce-trayicon
+Version=1.0
+Type=Application
+Terminal=false
+Name=SynCE Tray Icon
+Name[sv]=SynCE Notifierings Ikon
+GenericName=SynCE Tray Icon
+GenericName[sv]=SynCE Notifierings Ikon
+Comment=SynCE PDA control for GNOME
+Icon=/usr/share/app-install-data-postinstallerf/icons/synce-color.png
+Categories=GNOME;GTK;Utility;

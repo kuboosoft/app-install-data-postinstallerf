@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n slimevolley
+Name=Slime Volley
+Comment=Unrealistic 2D volleyball simulation
+Comment[fr]=Simulation non réaliste de volley en 2D
+Icon=/usr/share/app-install-data-postinstallerf/icons/slimevolley.png
+Terminal=false
+Type=Application
+Categories=Game;SportsGame;

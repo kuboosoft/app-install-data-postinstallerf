@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n openmcdf
+Name=Structured Storage Explorer
+Comment=Structured Storage Explorer
+GenericName=StructuredStorageExplorer
+Icon=/usr/share/app-install-data-postinstallerf/icons/structuredstorageexplorer.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Office;

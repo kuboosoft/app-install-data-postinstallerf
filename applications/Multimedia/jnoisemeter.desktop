@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n jnoisemeter
+Type=Application
+Name=Jnoisemeter
+GenericName=Audio test signals meter
+Comment=Audio test signals meter for JACK
+Icon=/usr/share/app-install-data-postinstallerf/icons/jnoisemeter_32x32.png
+Terminal=false
+Categories=AudioVideo;Audio;

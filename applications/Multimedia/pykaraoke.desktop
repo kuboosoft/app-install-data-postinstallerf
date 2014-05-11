@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n pykaraoke
+Type=Application
+Name=PyKaraoke
+Name[lt]=PyKaraoke
+GenericName=Karaoke player
+Comment=Universal karaoke songs and movies player
+Comment[lt]=Universalus karaoke muzikos bei video grotuvas
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pykaraoke_icons_pykaraoke.png
+Terminal=false
+Categories=AudioVideo;Player;

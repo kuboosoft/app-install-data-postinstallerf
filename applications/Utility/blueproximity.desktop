@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n blueproximity
+Version=1.0
+Type=Application
+Terminal=false
+Name=BlueProximity
+Icon=/usr/share/app-install-data-postinstallerf/icons/blueproximity.png
+Categories=Application;Utility;
+StartupNotify=false

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n mandelbulber
+Categories=Graphics;3DGraphics;Math;Science;
+Comment=Visit 3D Fractal World
+GenericName=Mandelbulber - Advanced 3D fractal generator
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_mandelbulber_icons_mandelbulber.png
+Name=Mandelbulber
+StartupNotify=true
+Terminal=false
+Type=Application

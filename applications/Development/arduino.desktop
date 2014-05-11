@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n arduino
+Type=Application
+Name=Arduino IDE
+GenericName=Create physical computing projects
+Icon=/usr/share/app-install-data-postinstallerf/icons/arduino.png
+Terminal=false
+Categories=Development;Engineering;Electronics;

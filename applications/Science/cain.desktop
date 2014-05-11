@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n cain
+Name=Cain
+Comment=simulations of chemical reactions
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_cain_gui_icons_cain.png
+Terminal=false
+Type=Application
+Categories=Development;Science;Biology;
+StartupNotify=true

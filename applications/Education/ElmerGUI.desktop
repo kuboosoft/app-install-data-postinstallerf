@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n elmer
+Name=Elmer
+Comment=Elmer FEA software
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_ElmerGUI_icons_Mesh3D.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Education;Math;Science

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n qemu-launcher
+Name=Qemu Launcher
+Name[lt]=Qemu Paleidėjas
+Comment=Manage virtual machine configurations
+Comment[lt]=Tvarkykite virtualaus kompiuterio konfigūracijas
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/qemu-launcher.svg.png
+StartupNotify=true
+Categories=Application;Emulator;Utility

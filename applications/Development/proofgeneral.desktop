@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n proofgeneral
+Type=Application
+Version=1.0
+Name=Proof General
+GenericName=Theorem proving environment
+Comment=Organise your proofs!
+Icon=/usr/share/app-install-data-postinstallerf/icons/proofgeneral.png.png
+Terminal=false
+Categories=Application;IDE;Development;TextEditor;Math
+StartupWMClass=Emacs

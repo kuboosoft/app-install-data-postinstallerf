@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n fyre
+Version=1.0
+Type=Application
+Name=Fyre
+Comment=Render Peter de Jong maps
+Comment[de]=Peter de Jong-Grafiken berechnen
+Categories=Application;Graphics;2DGraphics;
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_fyre.png

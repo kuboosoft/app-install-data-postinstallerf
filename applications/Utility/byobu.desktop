@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n byobu
+Name=Byobu Terminal
+Comment=Advanced Command Line and Text Window Manager
+Icon=/usr/share/app-install-data-postinstallerf/icons/byobu.png
+Type=Application
+Terminal=true
+Categories=GNOME;GTK;Utility;

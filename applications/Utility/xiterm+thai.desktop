@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n xiterm+thai
+Version=1.0
+Name=Thai X terminal
+Comment=X Terminal that supports Thai (TIS-620 encoding)
+Icon=/usr/share/app-install-data-postinstallerf/icons/xiterm+thai.png
+Type=Application
+Categories=System;Utility;TerminalEmulator;

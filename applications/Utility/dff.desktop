@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n dff
+Type=Application
+Name=DFF
+GenericName=Digital Forensics Framework
+Icon=/usr/share/app-install-data-postinstallerf/icons/dff.png
+Terminal=false
+Categories=Qt;Utility;

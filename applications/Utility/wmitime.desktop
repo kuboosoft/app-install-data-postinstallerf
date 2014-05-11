@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n wmitime
+Type=Application
+Name=Wmitime
+GenericName=
+Comment=
+Icon=/usr/share/app-install-data-postinstallerf/icons/.png
+Terminal=false
+Categories=Utility;Clock

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n epigrass
+Name=Epigrass
+Comment=Epidemics Simulator
+GenericName=Epidemics Simulator
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_egigrass.png
+Type=Application
+StartupNotify=false
+Terminal=false
+Categories=Education;Science;

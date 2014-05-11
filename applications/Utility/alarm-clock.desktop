@@ -1,0 +1,18 @@
+[Desktop Entry]
+Exec=postinstaller -n alarm-clock
+Version=1.0
+Name=Alarm Clock
+Name[pl]=Budzik
+Name[pt]=Relógio Despertador
+Comment=Schedule your tasks
+Comment[pl]=Budzik dla środowiska GNOME
+Comment[pt]=Agende as suas tarefas
+Name[sr]=Будилник
+Name[sr@latin]=Budilnik
+Comment[sr]=Организујте Ваше време
+Comment[sr@latin]=Organizujte Vaše vreme
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;
+Icon=/usr/share/app-install-data-postinstallerf/icons/alarm-clock.png
+StartupNotify=false

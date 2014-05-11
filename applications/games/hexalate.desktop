@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n hexalate
+Name=Hexalate
+Icon=/usr/share/app-install-data-postinstallerf/icons/hexalate.png
+Terminal=false
+Type=Application
+Categories=Qt;Game;

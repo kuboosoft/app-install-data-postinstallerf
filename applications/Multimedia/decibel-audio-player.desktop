@@ -1,0 +1,18 @@
+[Desktop Entry]
+Exec=postinstaller -n decibel-audio-player
+Name=Decibel Audio Player
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/decibel-audio-player.png
+StartupNotify=true
+GenericName=Audio Player
+GenericName[fr]=Lecteur audio
+GenericName[de]=Musikwiedergabe
+GenericName[nn]=Musikkavspelar
+GenericName[no]=Musikkavspille
+Comment=A simple audio player
+Comment[fr]=Un lecteur audio simple d utilisation
+Comment[de]=Ein einfacher Audio Player
+Comment[nn]=Ein enkel ljudavspelar
+Comment[no]=En enkel lydavspiller
+Categories=AudioVideo;Audio;Player;GTK;

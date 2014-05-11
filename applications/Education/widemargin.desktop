@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n widemargin
+Type=Application
+Comment=Simple Bible Application
+Comment[en_US]=Simple Bible Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/widemargin.png
+StartupNotify=true
+Terminal=false
+Name=Wide Margin
+Name[en_US]=Wide Margin
+Categories=Education;

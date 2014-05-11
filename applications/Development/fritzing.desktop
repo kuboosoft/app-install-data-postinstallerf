@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n fritzing
+Name=Fritzing
+Icon=/usr/share/app-install-data-postinstallerf/icons/fritzing_icon.png.png
+Categories=Development;Engineering;Electronics
+Type=Application
+Terminal=false
+Comment=PCB-Suite
+GenericName[en]=Easy-to-use electronic design software
+GenericName[es]=Software de diseño electrónico de fácil uso

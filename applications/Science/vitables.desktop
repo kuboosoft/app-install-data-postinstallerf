@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n vitables
+Type=Application
+Version=1.0
+Name=ViTables
+GenericName=PyTables & HDF5 Files Visualizer
+GenericName[ca]=Visualitzador de fitxers PyTables i HDF5
+GenericName[es]=Visualizador de ficheros PyTables y HDF5
+Icon=/usr/share/app-install-data-postinstallerf/icons/vitables.png
+#There is not mime-type yet for HDF5
+#Set this to the vitables documentation files
+Terminal=false
+Categories=Qt;Database;DataVisualization;Science;Education

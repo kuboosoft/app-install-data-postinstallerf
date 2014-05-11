@@ -1,0 +1,27 @@
+[Desktop Entry]
+Exec=postinstaller -n gcu-bin
+Version=1.0
+Name=Periodic table of the elements
+Name[de]=Periodensystem der Elemente
+Name[el]=Περιοδικός πίνακας των στοιχείων
+Name[es]=Tabla periódica de los elementos
+Name[fr]=Tableau périodique des éléments
+Name[it]=Tavola periodica degli elementi
+Name[pl]=Układ okresowy pierwiastków
+Name[pt_BR]=Tabela periódica dos elementos
+Name[ru]=Периодическая таблица элементов
+Name[zh_CN]=元素周期表
+Name[zh_TW]=週期表上的元素
+Comment=A Mendeleiev table of the chemical elements
+Comment[de]=Mendelejew s Periodensystem der Elemente
+Comment[el]=Ένας πίνακας Μεντελέγιεφ των χημικών στοιχείων
+Comment[fr]=Tableau de Mendeleiev des éléments chimiques
+Comment[it]=U tavola di Mendeleiev di elementi chimici
+Comment[pl]=Układ okresowy pierwiastków Mendelejewa
+Comment[pt_BR]=Tabela de Mendeleiev dos elementos químicos
+Comment[ru]=Периодическая таблица химических элементов Д.И.Менделеева
+Comment[zh_TW]=門得列夫週期表
+Icon=/usr/share/app-install-data-postinstallerf/icons/gchemtable.png
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Education;Science;Chemistry;

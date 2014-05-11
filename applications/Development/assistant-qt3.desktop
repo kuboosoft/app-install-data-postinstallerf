@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n qt3-assistant
+Name=Qt3 Assistant
+Name[de]=Qt3 Assistent
+Comment=Qt3 Helpcenter
+Comment[de]= Qt3 Hilfezentrum
+Icon=/usr/share/app-install-data-postinstallerf/icons/assistant.png
+Terminal=false
+Type=Application
+Categories=Qt;Development;

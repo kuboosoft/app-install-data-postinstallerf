@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n sweep
+Name=Sweep
+GenericName=Sound Editor
+Comment=Sweep Sound Editor
+Categories=Application;AudioVideo;
+Icon=/usr/share/app-install-data-postinstallerf/icons/sweep.svg.png
+Terminal=false
+Type=Application

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n twpsk
+Name=twpsk
+Name[en_US]=twpsk
+Comment=PSK31 for Linux with a openMotif GUI
+Comment[en_US]=PSK31 for Linux with a openMotif GUI
+Icon=/usr/share/app-install-data-postinstallerf/icons/twpsk.png.png
+Terminal=false
+Type=Application
+Categories=Network;HamRadio

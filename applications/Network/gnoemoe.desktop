@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gnoemoe
+Name=GnoeMoe
+GenericName=MOO Client
+Comment=GnoeMoe Gnome MOO Client
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnoemoe-logo.svg.png
+Terminal=0
+Type=Application
+Categories=GNOME;GTK;Network

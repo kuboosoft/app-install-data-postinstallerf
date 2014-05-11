@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n secpanel
+Type=Application
+Name=SecPanel
+Icon=/usr/share/app-install-data-postinstallerf/icons/secpanel.png
+Terminal=false
+Categories=Network;
+Comment=A graphical user interface for SSH and SCP

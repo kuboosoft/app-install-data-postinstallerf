@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n eboard
+Version=1.0
+Type=Application
+Name=eboard
+Comment=A graphical chessboard program
+Categories=GTK;Game;BoardGame;
+Icon=/usr/share/app-install-data-postinstallerf/icons/eboard.png

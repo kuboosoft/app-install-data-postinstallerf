@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n avogadro
+Version=1.0
+Name=Avogadro
+Comment=Advanced molecular editor
+Icon=/usr/share/app-install-data-postinstallerf/icons/avogadro-icon.png
+Terminal=false
+Type=Application
+Categories=Qt;Science;Chemistry;Physics;Education;
+StartupNotify=true

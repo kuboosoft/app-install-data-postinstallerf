@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n ho22bus
+Type=Application
+Name=Ho22bus
+Comment=Recite word easily
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/ho22bus.png.png
+StartupNotify=true
+Categories=Education;Languages;

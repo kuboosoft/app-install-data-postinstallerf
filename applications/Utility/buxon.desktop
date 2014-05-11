@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n buxon
+Type=Application
+Terminal=false
+Name=Buxon
+Comment=sioc:Forum browser
+Icon=/usr/share/app-install-data-postinstallerf/icons/buxon.png
+Categories=Utility;Viewer;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n ho22bus
+Type=Application
+Name=HoDict
+Comment=Ho22bus s Dict
+Comment[zh_CN]=Ho22bus 的辞典
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/hodict.png.png
+StartupNotify=true
+Categories=Utility;Dictionary;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n freedink-engine
+Version=1.0
+Type=Application
+Name=FreeDinkedit
+Comment=Portable Dink Smallwood game editor
+Icon=/usr/share/app-install-data-postinstallerf/icons/freedink.png
+Categories=Game;AdventureGame;

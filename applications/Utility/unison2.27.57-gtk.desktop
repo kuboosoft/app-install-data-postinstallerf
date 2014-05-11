@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n unison2.27.57-gtk
+Name=Unison
+Comment=GTK interface for the unison file synchronization tool 2.27.57
+GenericName=File synchronization tool
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_unison2.27.57-gtk.png
+Categories=Utility;FileTools;GTK;
+StartupWMClass=Unison-gtk
+StartupNotify=true

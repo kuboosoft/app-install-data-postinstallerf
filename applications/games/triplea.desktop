@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n triplea
+Version=1.0
+Type=Application
+Name=TripleA
+Comment=Turn based strategy game
+Icon=/usr/share/app-install-data-postinstallerf/icons/triplea.png
+Categories=Game;StrategyGame;BoardGame;

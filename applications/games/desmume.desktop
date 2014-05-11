@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n desmume
+Version=1.0
+Type=Application
+Name=DeSmuME (Gtk)
+Comment=Nintento DS emulator
+Icon=/usr/share/app-install-data-postinstallerf/icons/DeSmuME.png
+Categories=GNOME;GTK;Game;Emulator;

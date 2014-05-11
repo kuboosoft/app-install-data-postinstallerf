@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n sgt-puzzles
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/pegs.png
+Type=Application
+Categories=Game;LogicGame;
+Name=Pegs
+Comment=Remove all but one of the pegs by jumping an adjacent peg over it
+Comment[fr]=Supprimer tous les jetons en sautant par dessus les jetons adjacents
+Comment[de]=Entferne alle bis auf einen Stift durch Überspringen benachbarter Stifte

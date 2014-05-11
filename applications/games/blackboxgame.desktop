@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n sgt-puzzles
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/blackboxgame.png
+Type=Application
+Categories=Game;LogicGame;
+Name=Black Box
+Comment=Deduce the positions of the balls by firing lasers
+Comment[fr]=Déduire la position des balles en tirant un laser
+Comment[de]=Leite die Positionen von Bällen durch Feuern von Lasern her

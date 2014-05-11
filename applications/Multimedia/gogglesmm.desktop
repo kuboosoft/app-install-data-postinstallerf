@@ -1,0 +1,22 @@
+[Desktop Entry]
+Exec=postinstaller -n gogglesmm
+Name=Goggles Music Manager
+Name[en_CA]=Goggles Music Manager
+Name[en_GB]=Goggles Music Manager
+Name[nl]=Goggles muziekspeler
+Name[pt]= Goggles - Reprodutor de músicas
+GenericName=Music Player
+GenericName[en_CA]=Music Player
+GenericName[en_GB]=Music Player
+GenericName[nl]=Muziekspeler
+GenericName[pt]=Reprodutor de músicas
+Comment=Play and organize your music collection
+Comment[en_CA]=Play and organize your music collection
+Comment[en_GB]=Play and organise your music collection
+Comment[nl]=Luister and beheer uw muziekcollectie
+Comment[pt]=Reprodução e organização de músicas
+Terminal=false
+Hidden=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gogglesmm.png
+Categories=Application;AudioVideo;Audio;Player;

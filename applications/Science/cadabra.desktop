@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n cadabra
+Name=Cadabra
+GenericName=Cadabra computer algebra system
+Comment=Computer algebra system for field theory problems
+Icon=/usr/share/app-install-data-postinstallerf/icons/cadabra.png
+Type=Application
+Categories=Math;Science;Education;
+Terminal=false

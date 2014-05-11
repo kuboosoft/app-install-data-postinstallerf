@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n funnyboat
+Version=1.0
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/funnyboat.png
+Terminal=false
+Name=Funny Boat
+Comment=a side scrolling arcade shooter game on a steamboat
+Comment[fr_FR]=un étrange bateau a vapeur dans un jeu de tire amusant
+Categories=Game;ArcadeGame;
+StartupNotify=true

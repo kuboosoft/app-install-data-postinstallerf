@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n alex4
+Type=Application
+Name=Alex the Allegator 4
+Comment=Retro platform game
+Icon=/usr/share/app-install-data-postinstallerf/icons/alex4.png
+Terminal=false
+Categories=Game;ActionGame;
+StartupNotify=false

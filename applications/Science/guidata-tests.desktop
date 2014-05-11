@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n python-guidata
+Version=1.0
+Type=Application
+Name=guidata-tests
+GenericName=guidata test application
+Comment=you can use this applications to test all guidata features.
+Categories=Education;Science;Physics;

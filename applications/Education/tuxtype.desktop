@@ -1,0 +1,17 @@
+[Desktop Entry]
+Exec=postinstaller -n tuxtype
+Name=Tux Typing
+GenericName=Educational typing game
+GenericName[ru]=Игра для детей
+GenericName[tr]=Daktilo Öğretmeni
+GenericName[fr]=Jeu de dactylographie
+Comment=Educational typing tutor game starring Tux
+Comment[de]=Tastatur-Lernspielprogramm mit Tux
+Comment[ru]=Kлавиатурный тренажер с пингвином в главной роли
+Comment[tr]=Daktilo Öğretmeni
+Comment[fr]=Apprenez à taper au clavier avec Tux
+Icon=/usr/share/app-install-data-postinstallerf/icons/tuxtype.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;

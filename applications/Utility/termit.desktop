@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n termit
+Name=Termit
+Name[ru]=Termit
+Type=Application
+Categories=Utility;TerminalEmulator;GTK
+Comment=Lightweight terminal emulator
+Comment[ru]=Эмулятор терминала
+GenericName=Terminal emulator
+GenericName[ru]=Эмулятор терминала
+Terminal=false

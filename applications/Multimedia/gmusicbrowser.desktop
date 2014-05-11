@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gmusicbrowser
+Name=gmusicbrowser
+Comment=Jukebox for large collections of mp3/ogg/flac/mpc
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gmusicbrowser.png
+Categories=Audio;AudioVideo;
+StartupNotify=true
+Comment[fr]=Jukebox pour de grandes collections de mp3/ogg/flac/mpc

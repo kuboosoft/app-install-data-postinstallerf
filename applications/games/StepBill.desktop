@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n stepbill.app
+Type=Application
+Version=0.94
+Categories=Game;ActionGame;
+Name=StepBill
+Comment=StepBill - XBill for GNUstep (based on MacBill)
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Gomoku.app/Resources/icon.tiff.png

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n osmo
+Version=1.0
+Type=Application
+Name=Osmo
+Name[tr]=Osmo
+Comment=Personal Organizer
+Comment[pl]=Organizer osobisty
+Comment[tr]=Kişisel Düzenleyici
+GenericName=Osmo
+Icon=/usr/share/app-install-data-postinstallerf/icons/osmo.png
+Categories=GTK;Office;Calendar;ContactManagement;
+Terminal=false

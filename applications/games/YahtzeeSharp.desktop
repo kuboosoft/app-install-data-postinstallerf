@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n yahtzeesharp
+Version=1.0
+Type=Application
+Name=YahtzeeSharp
+GenericName=YahtzeeSharp
+Icon=/usr/share/app-install-data-postinstallerf/icons/yahtzeesharp.png
+Terminal=false
+Comment=An open source Yahtzee like game written in C#
+Categories=Game;BoardGame;

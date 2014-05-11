@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n laditools
+Name=LADI Log File Viewer
+Name[it]=Visualizzatore di registri LADI
+Type=Application
+Comment=View or monitor LADI log files
+Comment[it]=Visualizza o monitora i file di registro LADI
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/ladi-system-log.png
+Categories=GNOME;GTK;Settings;
+GenericName=Log file viewer
+GenericName[it]=Visualizzatore di file di registro

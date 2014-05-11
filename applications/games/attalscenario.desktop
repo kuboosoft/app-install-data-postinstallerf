@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n attal
+Name=Attal scenario editor
+Icon=/usr/share/app-install-data-postinstallerf/icons/.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Game;StrategyGame;

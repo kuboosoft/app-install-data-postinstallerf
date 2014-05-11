@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n uima-utils
+Type=Application
+Name=UIMA CPE Gui
+Name[fr]=UIMA CPE Gui
+Comment=Graphical interface to build UIMA CPE
+Comment[fr]=Interface graphique pour construire des chaînes UIMA
+Categories=Education;Science;Java;
+Icon=/usr/share/app-install-data-postinstallerf/icons/UIMA.png

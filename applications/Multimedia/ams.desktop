@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n ams
+Name=Alsa Modular Synth
+Comment=Modular Software Synth
+Icon=/usr/share/app-install-data-postinstallerf/icons/ams_32.png
+Terminal=false
+Type=Application
+Categories=GNOME;AudioVideo;Audio;

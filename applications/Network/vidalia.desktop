@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n vidalia
+Type=Application
+Name=Vidalia
+Icon=/usr/share/app-install-data-postinstallerf/icons/vidalia.png
+GenericName=Tor GUI
+Terminal=false
+Categories=Qt;Network;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n yabause-gtk
+Type=Application
+Name=Yabause (Gtk port)
+Comment=Sega Saturn emulator
+Icon=/usr/share/app-install-data-postinstallerf/icons/yabause.png
+Categories=GNOME;GTK;Game;

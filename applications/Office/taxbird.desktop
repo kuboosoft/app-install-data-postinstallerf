@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n taxbird
+Categories=Finance;Office
+Name=Taxbird
+GenericName=Taxbird
+Comment=freier Elster-Client für Linux
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/taxbird.xpm.png
+Terminal=false

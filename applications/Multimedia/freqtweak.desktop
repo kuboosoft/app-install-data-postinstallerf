@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n freqtweak
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/freqtweak_logo32x18.xpm.png
+Name=Freqtweak
+Comment=Realtime audio processor based on frequency spectral manipulation
+Categories=AudioVideo;Audio;Midi;

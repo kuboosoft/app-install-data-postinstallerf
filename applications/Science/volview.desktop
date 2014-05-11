@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n volview
+Version=3.4.0
+Name=VolView 3.4
+GenericName=Advanced Volume Visualization Tool
+Comment=VolView allows volume viewing of image data sets
+Type=Application
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/volview.png
+Categories=Education;Math;Science;

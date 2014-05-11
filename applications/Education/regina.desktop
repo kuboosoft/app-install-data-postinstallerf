@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n regina-normal
+Version=1.0
+Type=Application
+Name=Regina
+GenericName=3-Manifold Topology
+Comment=Software for 3-manifold topology and normal surface theory
+Icon=/usr/share/app-install-data-postinstallerf/icons/regina.png
+Categories=Math;Education;Science;Qt;

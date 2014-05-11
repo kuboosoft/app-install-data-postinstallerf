@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n mtink
+Version=1.0
+Type=Application
+Name=Mtink
+GenericName=Status monitor for printer
+GenericName[fr]=Moniteur d état d imprimante
+Comment=Status monitor for Epson inkjet printers
+Comment[fr]=Moniteur d état pour les imprimante jets d encre Epson
+Categories=Motif;Utility;HardwareSettings;Monitor;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n goattracker
+Name=GoatTracker
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/goattrk2.xpm.png
+Categories=AudioVideo;AudioVideoEditing

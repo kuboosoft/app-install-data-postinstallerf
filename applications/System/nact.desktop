@@ -1,0 +1,20 @@
+[Desktop Entry]
+Exec=postinstaller -n nautilus-actions
+Version=1.0
+Type=Application
+Name[cs]=Nástroj nastavení Akce-Nautilus
+Name[de]=Einstellungen für Nautilus-Aktionen
+Name[es]=Herramienta de configuración de las acciones de Nautilus
+Name[it]=Strumento di configurazione delle azioni di Nautilus
+Name[sl]=Orodje nastavitev dejanj Nautilusa
+Name[sv]=Konfigurationsverktyg för Nautilus-åtgärder
+Comment=Configure items to be added to the Nautilus context menus
+Comment[cs]=Přidat položky, které budou přidány do kontextové nabídky aplikace Nautilus
+Comment[de]=Einträge konfigurieren, um sie zum Kontextmenü von Nautilus hinzuzufügen
+Comment[es]=Configure los elementos que van a ser añadidos a los menús contextuales de Nautilus
+Comment[fr]=Configurer les éléments à ajouter aux menus contextuels de Nautilus
+Comment[it]=Configura gli oggetti per aggiungerli al menù contestuale di Nautilus
+Comment[sl]=Nastavi predmete za dodajanje v vsebinski meni Nautilusa
+Icon=/usr/share/app-install-data-postinstallerf/icons/nautilus-actions.png
+Categories=System;FileTools;FileManager;
+StartupNotify=true

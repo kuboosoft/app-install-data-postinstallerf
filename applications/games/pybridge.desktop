@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n pybridge
+Name=PyBridge
+Comment[en]=An online contract bridge game
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pybridge_pixmaps_pybridge.png
+Terminal=false
+Type=Application
+Categories=Application;Game;CardGame

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n bittornado-gui
+Version=0.3.10
+Name=Bittornado Client
+GenericName=Bittorrent Client
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/bittornado.png
+Categories=GNOME;Network;FileTransfer;P2P;
+Terminal=false

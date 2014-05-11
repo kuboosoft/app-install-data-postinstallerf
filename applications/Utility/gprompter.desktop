@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gprompter
+Name=gprompter
+GenericName=Predictive text editor
+Comment=Predictive text editor powered by presage
+Icon=/usr/share/app-install-data-postinstallerf/icons/gprompter.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;Accessibility;

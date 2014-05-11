@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n sflphone-gnome
+Name=SFLphone
+GenericName=VoIP Client
+Comment=Call and receive calls with SIP or IAX protocols
+Icon=/usr/share/app-install-data-postinstallerf/icons/sflphone.svg.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;Telephony;

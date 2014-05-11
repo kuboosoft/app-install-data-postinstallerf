@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n kanadic
+Name=Hira+ Drill
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_kdrill.png
+Categories=Game;LogicGame;

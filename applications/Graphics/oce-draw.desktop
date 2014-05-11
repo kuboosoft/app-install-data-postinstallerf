@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n oce-draw
+Name=OpenCASCADE
+Comment=OpenCASCADE DRAWEXE test harness
+Icon=/usr/share/app-install-data-postinstallerf/icons/occ-icon-32.xpm.png
+Terminal=true
+Type=Application
+Version=1.0
+Categories=ConsoleOnly;Application;Graphics;3DGraphics;DataVisualization;
+StartupNotify=false

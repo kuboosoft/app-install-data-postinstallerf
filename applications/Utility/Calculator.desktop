@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gnustep-examples
+Name=GNUstep Calculator
+Name[bg]=Калкулатор за GNUstep
+Comment=Example calculator for GNUstep
+Comment[bg]=Примерен калкулатор за GNUstep
+Type=Application
+Categories=Utility;Calculator;
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Calculator.app/Resources/Calculator.app.tiff.png

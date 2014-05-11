@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n netemul
+Name=NetEmul
+Name[ru]=NetEmul
+Comment=The LAN network simulator
+Comment[es]=Simulador de redes de computadoras
+Comment[ru]=Симулятор работы локольной сети
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/netemul/pixmap/NetEmul.png.png
+Terminal=false
+Categories=Education;
+StartupNotify=true

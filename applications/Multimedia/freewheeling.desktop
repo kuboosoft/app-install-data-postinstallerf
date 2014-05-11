@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n freewheeling
+Name=FreeWheeling
+Comment=live looping instrument
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_freewheeling.png
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;

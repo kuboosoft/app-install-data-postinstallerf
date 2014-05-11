@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n qgo
+Type=Application
+Name=qGo
+GenericName=Go Client
+Comment=Play Go online and against computer, view and edit SGF files
+Icon=/usr/share/app-install-data-postinstallerf/icons/qgo.png
+Terminal=false
+Categories=Qt;KDE;Game;BoardGame;

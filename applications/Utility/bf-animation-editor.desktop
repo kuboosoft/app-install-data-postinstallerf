@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n bear-factory
+Version=1.0
+Name=Bear Factory — Animation Editor
+Comment=Animation editor for the Bear Engine
+Comment[en]=Animation editor for the Bear Engine
+Comment[fr]=Éditeur d animation pour le moteur « Bear »
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/bear-factory.png
+StartupNotify=true
+Type=Application
+Categories=Utility;

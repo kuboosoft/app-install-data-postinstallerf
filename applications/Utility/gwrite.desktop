@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gwrite
+Name=GWrite
+Name[zh_CN]=写字板
+Comment=Simple text editor
+Comment[zh_CN]=HTML 写字板
+Icon=/usr/share/app-install-data-postinstallerf/icons/gwrite.png
+Terminal=false
+Type=Application
+Categories=GTK;Utility;TextEditor;

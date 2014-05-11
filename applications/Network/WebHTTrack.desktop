@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n webhttrack
+Version=1.0
+Type=Application
+Categories=Network;
+Terminal=false
+Name=WebHTTrack Website Copier
+Comment=Copy websites to your computer
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_httrack_icons_webhttrack.png

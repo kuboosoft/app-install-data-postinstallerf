@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gmerlin
+Name=Gmerlin KBD
+Name[de]=Gmerlin KBD
+Comment=Configure the Gmerlin keyboard daemon
+Comment[de]=Gmerlin keyboard daemon konfigurieren
+Icon=/usr/share/app-install-data-postinstallerf/icons/gmerlin-kbd.png
+Type=Application
+Categories=AudioVideo;AudioVideoEditing;

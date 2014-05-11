@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n peg-e
+Name=Peg-E
+Comment=Peg elimination game
+Icon=/usr/share/app-install-data-postinstallerf/icons/peg-e.png
+Terminal=false
+Type=Application
+Categories=Qt;Game;

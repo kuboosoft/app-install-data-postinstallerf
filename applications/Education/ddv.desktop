@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n ncbi-tools-x11
+Version=1.0
+Name=DDV Sequence Alignment Viewer
+GenericName=Sequence Alignment Viewer
+Comment=View multiple sequence alignment for GenBank
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/ncbilogo.png
+Categories=Education;Science;Biology;

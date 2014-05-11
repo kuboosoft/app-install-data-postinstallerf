@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n coqide
+Name=CoqIDE Proof Assistant
+Comment=Graphical interface for the Coq proof assistant
+Type=Application
+Categories=Development;Science;Math;IDE;GTK;
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/coq.png

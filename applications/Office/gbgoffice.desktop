@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gbgoffice
+Name=GbgOffice
+Name[bg]=БГ Офис помощник
+Comment=GTK2 Bulgarian-English Dictionary
+Comment[bg]=Двупосочен българо-английски речник
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_gbgoffice-icon.png
+Terminal=false
+Type=Application
+Categories=Dictionary;Office;

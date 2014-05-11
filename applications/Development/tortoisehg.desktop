@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n tortoisehg
+Type=Application
+Name=TortoiseHG Workbench
+Icon=/usr/share/app-install-data-postinstallerf/icons/tortoisehg.png
+Categories=Development;RevisionControl

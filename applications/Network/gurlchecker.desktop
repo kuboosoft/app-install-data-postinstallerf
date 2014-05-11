@@ -1,0 +1,24 @@
+[Desktop Entry]
+Exec=postinstaller -n gurlchecker
+Name=gurlchecker
+Name[cs]=gurlchecker
+Name[da]=gurlchecker
+Name[de]=gURLChecker
+Name[es]=gurlchecker
+Name[fr]=gurlchecker
+Name[it]=gurlchecker
+Name[pt]=gurlchecker
+Name[sk]=gurlchecker
+Comment=Graphical Web Links checker
+Comment[cs]=Grafický kontrolor webových odkazů
+Comment[da]=Grafisk tjek af internethenvisninger
+Comment[de]=Ein grafischer Linkprüfer
+Comment[fr]=Vérificateur de liens graphique
+Comment[it]=Controllore grafico di collegamenti web
+Comment[pt]=Verificador Gráfico de Links Web
+Comment[sk]=Grafický Web Kontrolór Web Odkazov
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Application;Network;
+Icon=/usr/share/app-install-data-postinstallerf/icons/gurlchecker.png
+StartupNotify=true

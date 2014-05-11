@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n balazarbrothers
+Name=Balazar Brothers
+GenericName=Action / Adventure Game
+Type=Application
+Categories=Application;Game;AdventureGame;ArcadeGame;RolePlaying;
+Terminal=0
+Comment=3D adventure and roleplaying game

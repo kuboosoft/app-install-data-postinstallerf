@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n xmille
+Type=Application
+Name=Xmille
+GenericName=
+Comment=
+Icon=/usr/share/app-install-data-postinstallerf/icons/.png
+Terminal=false
+Categories=Application;Game;CardGame;

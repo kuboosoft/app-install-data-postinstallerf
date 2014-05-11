@@ -1,0 +1,27 @@
+[Desktop Entry]
+Exec=postinstaller -n gnac
+Name=Gnac
+Comment=Audio converter for GNOME
+Comment[cs]=Převodník zvukových formátů pro GNOME
+Comment[da]=Lydomdannelse til GNOME
+Comment[de]=Audio-Umwandler für GNOME
+Comment[en_GB]=Audio converter for GNOME
+Comment[es]=Conversor de sonido para GNOME
+Comment[fr]=Convertisseur audio pour GNOME
+Comment[gl]=Un conversor multimedia para o Escritorio GNOME
+Comment[hu]=Hangátalakító a GNOME asztali környezethez
+Comment[it]=Un convertitore audio per GNOME
+Comment[lt]=GNOME garso konvertavimo įrankis
+Comment[pl]=Konwerter plików dźwiękowych dla GNOME
+Comment[pt_BR]=Conversor de áudio para o GNOME
+Comment[ro]=Convertor de fișiere audio pentru GNOME
+Comment[ru]=Аудиоконвертер для GNOME
+Comment[sl]=Pretvornik zvoka za GNOME
+Comment[sv]=Ljudkonverterare för GNOME
+Comment[te]=గ్నోమ్ కొరకు ఆడియో పరివర్తకం
+Comment[tr]=GNOME ses dönüştürücüsü
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnac.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;AudioVideo;Audio;AudioVideoEditing;

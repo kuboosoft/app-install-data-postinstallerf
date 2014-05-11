@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n font-manager
+Version=1.0
+Name=Font Sampler
+Name[en_US]=Font Sampler
+Comment=Create a PDF sample sheet from a directory of fonts
+Type=Application
+Terminal=false
+StartupNotify=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/application-pdf.png
+Categories=Graphics;Viewer;GNOME;GTK;Publishing;

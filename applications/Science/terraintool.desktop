@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n terraintool
+Version=1.0
+Name=Terraintool surface mesh generator
+GenericName=Cave Terrain generator/converter
+Comment=Generate surface mesh in survex format
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/terraintool.png
+Categories=Education;Geology;Science;

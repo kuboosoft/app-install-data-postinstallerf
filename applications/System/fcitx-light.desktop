@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n fcitx-ui-light
+Name=Fcitx Light UI
+Name[zh_CN]=Fcitx (使用轻量界面)
+Comment=Chinese Input Method (Use Light weight UI)
+Comment[zh_CN]=中文输入法 (使用轻量界面)
+Icon=/usr/share/app-install-data-postinstallerf/icons/fcitx.png
+Terminal=false
+Type=Application
+Categories=System;Utility;
+StartupNotify=false

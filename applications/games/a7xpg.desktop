@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n a7xpg
+Type=Application
+Name=A7Xpg
+GenericName=
+Comment=Kenta Cho s A7Xpg
+Icon=/usr/share/app-install-data-postinstallerf/icons/a7xpg.png
+Terminal=false
+Categories=Game;ArcadeGame;

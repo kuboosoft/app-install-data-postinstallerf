@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n terminal.app
+Type=Application
+Version=0.94
+Categories=System;TerminalEmulator;
+Name=Terminal
+Comment=A terminal emulator
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_lib_GNUstep_Applications_Terminal.app_Resources_Terminal.png

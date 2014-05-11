@@ -1,0 +1,12 @@
+#====================================================
+# license: GPL v2 or later
+#====================================================
+[Desktop Entry]
+Exec=postinstaller -n ginkgocadx
+Type=Application
+Name=Ginkgo CADx
+GenericName=DICOM Viewer
+Comment=Medical Image (DICOM) Viewer
+Icon=/usr/share/app-install-data-postinstallerf/icons/ginkgocadx.png
+Terminal=false
+Categories=Office;MedicalSoftware;

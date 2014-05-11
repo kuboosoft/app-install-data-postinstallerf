@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n ebview
+Name=EBView
+Name[ja]=EBView 辞書ブラウザ
+Comment=EPWING CD-ROM dictionary viewer
+Comment[ja]=EPWING形式のCD-ROM辞書を検索します
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_ebview.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Application;GTK;Utility;Dictionary;

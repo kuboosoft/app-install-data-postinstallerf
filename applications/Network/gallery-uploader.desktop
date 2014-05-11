@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n gallery-uploader
+Categories=Network;FileTransfer;GNOME;GTK;
+Comment=Upload pictures and videos to Gallery
+Comment[fr]=Charge photos e videos sur Gallery
+Comment[it]=Carica foto e video su Gallery
+Icon=/usr/share/app-install-data-postinstallerf/icons/gallery.svg.png
+Name=Gallery Uploader
+Name[fr]=Chargeur Gallery
+Name[it]=Carica su Gallery
+Terminal=false
+Type=Application

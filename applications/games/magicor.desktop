@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n magicor
+Name=Magicor
+Categories=Game
+Comment=Puzzle game in the spirit of solomon s key
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_magicor.png

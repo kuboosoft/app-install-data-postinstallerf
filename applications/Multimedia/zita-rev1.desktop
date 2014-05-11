@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n zita-rev1
+Version=1.0
+Name=Zita-Rev1
+GenericName=standalone JACK reverb
+Comment=amazing reverb by kokkinizita - more bang per byte
+Icon=/usr/share/app-install-data-postinstallerf/icons/zita-rev1.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;

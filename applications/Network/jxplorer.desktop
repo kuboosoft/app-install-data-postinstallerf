@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n jxplorer
+Name=JXplorer
+GenericName=LDAP Browser
+Comment=Java LDAP Browser
+Icon=/usr/share/app-install-data-postinstallerf/icons/jxplorer.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;Development;

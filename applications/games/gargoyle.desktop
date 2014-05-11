@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gargoyle-free
+Version=1.0
+Type=Application
+Name=Gargoyle
+GenericName=Interactive Fiction interpreter
+Comment=Interactive Fiction multi-interpreter that supports all major IF formats
+Icon=/usr/share/app-install-data-postinstallerf/icons/gargoyle-house.png.png
+Categories=Game;

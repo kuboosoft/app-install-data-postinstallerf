@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n wings3d
+Name=Wings3D polygon mesh modeller
+Comment=Create and edit 3D models of objects
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_icons_wings3d.png
+Categories=Graphics;3DGraphics;
+StartupNotify=false

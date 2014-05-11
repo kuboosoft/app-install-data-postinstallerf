@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n auto-multiple-choice
+Name=Auto Multiple Choice
+Name[fr]=QCM automatique
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_auto-multiple-choice_icons_auto-multiple-choice.png
+Terminal=false
+Categories=Education;
+GenericName=Auto Multiple Choice
+GenericName[fr]=QCM automatique
+Comment=Manage multiple choice questionnaires, with automatic marking from papers  scans
+Comment[fr]=Conception et correction automatique de QCM en LaTeX

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n pype
+Version=1.0
+Type=Application
+Terminal=false
+Name=PyPE
+Comment=Python Programmers Editor
+Icon=/usr/share/app-install-data-postinstallerf/icons/pype.png
+Categories=GTK;GNOME;Development;
+StartupNotify=true

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n openstereogram
+Version=0.1
+Type=Application
+Name=OpenSterogram
+Comment=Create 3D autostereograms
+Icon=/usr/share/app-install-data-postinstallerf/icons/openstereogram.png
+Categories=Education;Art;Science;

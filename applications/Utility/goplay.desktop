@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n goplay
+Type=Application
+Name=GoPlay!
+GenericName=goplay
+Comment=Gaming packages browser
+Icon=/usr/share/app-install-data-postinstallerf/icons/goplay.png
+Terminal=false
+Categories=Utility;

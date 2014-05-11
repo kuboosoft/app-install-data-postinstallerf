@@ -1,0 +1,15 @@
+[Desktop Entry]
+Exec=postinstaller -n buzztard
+Version=0.5.0
+Type=Application
+Name=Buzztard Music Editor
+Name[de]=Buzztard Musik Editor
+Name[id]=Editor Musik Buzztard
+Name[nn]=Buzztard musikkredigering
+Comment=Edit buzztard song files
+Comment[de]=Buzzztard Musikstücke bearbeiten
+Comment[id]=Edit berkas lagu buzztard
+Comment[nn]=Redigerer buzztard-songfiler
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/buzztard/pixmaps/buzztard.png
+Categories=GNOME;GTK;AudioVideo;Audio;Sequencer

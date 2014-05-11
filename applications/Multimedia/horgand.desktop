@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n horgand
+Name=Horgand
+GenericName=Soft Synth
+Comment=Organd Soft Synth
+Type=Application
+Categories=AudioVideo;Audio;
+Terminal=false

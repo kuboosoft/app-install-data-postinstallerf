@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n tkgate
+Version=1.0
+Name=tkgate Circuit Simulator
+GenericName=Circuit Simulator
+Comment=Event driven digital circuit simulator with Tcl/Tk
+Icon=/usr/share/app-install-data-postinstallerf/icons/tkgate.png
+Type=Application
+Categories=Education;Electronics;Engineering;

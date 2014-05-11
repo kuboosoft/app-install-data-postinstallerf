@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n dlume
+Name=Dlume
+Comment=Simple and easy to use addressbook
+Type=Application
+Categories=Application;Office;ContactManagement
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/dlume.xpm.png
+StartupNotify=false

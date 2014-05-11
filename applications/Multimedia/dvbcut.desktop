@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n dvbcut
+Type=Application
+Version=1.0
+Name=DVBcut
+GenericName=DVB Cutting Program
+Comment=Cut DVB streams
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_dvbcut_icons_dvbcut.png
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;Qt;
+StartupWMClass=Dvbcut

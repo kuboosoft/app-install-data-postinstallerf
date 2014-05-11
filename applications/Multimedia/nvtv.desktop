@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n nvtv
+Version=1.0
+Icon=/usr/share/app-install-data-postinstallerf/icons/nvtv.png
+Name=Nvtv TV Out
+Comment=Control the TV output of NVidia video cards
+Comment[es]=Controle la salida de TV de tarjetas de video NVidia
+Type=Application
+Categories=AudioVideo;TV

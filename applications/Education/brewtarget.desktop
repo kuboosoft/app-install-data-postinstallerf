@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n brewtarget
+Categories=Qt;KDE;Education;Utility;Engineering
+Name=Brewtarget
+GenericName=Beer calculator
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_icons_brewtarget_BrewtargetIcon.png
+Terminal=false
+Type=Application

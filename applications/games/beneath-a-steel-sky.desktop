@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n beneath-a-steel-sky
+Version=1.0
+Name=Beneath A Steel Sky
+GenericName=Game
+Comment=A science-fiction adventure game set in a bleak post-apocalyptic vision of the future
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/beneath-a-steel-sky.png
+Categories=AdventureGame;Game;RolePlaying;

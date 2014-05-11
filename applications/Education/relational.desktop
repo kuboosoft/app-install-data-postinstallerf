@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n relational
+Name=Relational
+GenericName=Relational Algebra
+GenericName[it]=Algebra Relazionale
+Comment=Learn and experiment relational algebra
+Comment[it]=Impara l algebra relazionale
+Icon=/usr/share/app-install-data-postinstallerf/icons/kexi.png
+Terminal=0
+Type=Application
+Categories=Education;

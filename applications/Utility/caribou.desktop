@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n caribou
+Name=Caribou
+GenericName=Virtual on-screen keyboard
+Comment=Enter text with a virtual keyboard
+Icon=/usr/share/app-install-data-postinstallerf/icons/caribou.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;Accessibility;

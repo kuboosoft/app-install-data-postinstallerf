@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n qwbfsmanager
+Categories=Game;Qt;
+Name=QWBFS Manager
+GenericName=QWBFS Manager
+Comment=QWBFS Manager is a graphical user interface (GUI) for working with WBFS filesystem formatted hard disk drive.
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/qwbfsmanager.png

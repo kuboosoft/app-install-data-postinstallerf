@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n jscribble
+Type=Application
+Name=jscribble
+GenericName=Infinite Notepad
+Icon=/usr/share/app-install-data-postinstallerf/icons/jscribble.png
+Terminal=false
+Categories=Utility

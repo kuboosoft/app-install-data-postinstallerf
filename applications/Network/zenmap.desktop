@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n zenmap
+Name=Zenmap
+GenericName=GUI Port Scanner
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_zenmap_pixmaps_zenmap.png
+Type=Application
+Categories=Application;Network;Security
+Comment=A cross-platform GUI for the Nmap Security Scanner.

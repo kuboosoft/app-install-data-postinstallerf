@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n wine-bin
+Name=Wine configuration
+Comment=Setup the compatibility layer for Windows programs
+Comment[ca]=Configura la capa de compatibilitat per a programes de Windows
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/pixmaps/wine.xpm.png
+Terminal=false
+Type=Application
+Categories=Application;System;

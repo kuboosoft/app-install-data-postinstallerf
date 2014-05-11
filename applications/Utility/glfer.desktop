@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n glfer
+Name=glfer
+Comment=slow CW (QRSS) / dual-frequency CW (DFCW)
+Icon=/usr/share/app-install-data-postinstallerf/icons/.png
+Terminal=false
+Type=Application
+Categories=Utility;HamRadio

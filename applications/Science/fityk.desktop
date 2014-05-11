@@ -1,0 +1,15 @@
+[Desktop Entry]
+Exec=postinstaller -n fityk
+Type=Application
+Name=fityk
+Comment=Peak fitting and data analysis
+GenericName=Curve Fitter
+Icon=/usr/share/app-install-data-postinstallerf/icons/fityk.png
+Terminal=false
+StartupNotify=true
+# according to: http://standards.freedesktop.org/menu-spec/latest/apa.html
+# we need one category from Main Categories list. Two reasonable choices are
+# Office and Education. Education is not the best category for fityk, but
+# Science is a subcategory of Education and that s were scientific software
+# is usually put.
+Categories=Education;Science;DataVisualization;GTK;

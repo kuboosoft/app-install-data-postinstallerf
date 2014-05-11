@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n icedtea-netx
+Name=IcedTea Web Control Panel
+Comment=Configure IcedTea Web (javaws and plugin)
+Icon=/usr/share/app-install-data-postinstallerf/icons/javaws.png
+Terminal=false
+Type=Application
+Categories=Settings;

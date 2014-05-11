@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n xmoto
+Type=Application
+Version=1.0
+Name=Xmoto
+GenericName=Motocross game
+GenericName[de]=Motocross-Spiel
+GenericName[fr_FR]=Jeu de moto
+Icon=/usr/share/app-install-data-postinstallerf/icons/xmoto.xpm.png
+Categories=Game;SportsGame;ArcadeGame;

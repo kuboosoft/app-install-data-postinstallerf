@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n mricron
+GenericName=DICOM to NIfTI Conversion
+GenericName[ru]=Конвертор из DICOM в NIfTI
+Name=dcm2nii
+Type=Application
+Terminal=false
+Categories=Education;Graphics;Science;MedicalSoftware;GTK;
+Icon=/usr/share/app-install-data-postinstallerf/icons/mricron.xpm.png

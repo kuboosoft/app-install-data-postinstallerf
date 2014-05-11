@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gabedit
+Name=Gabedit QC-GUI
+Comment=graphical user interface to computational chemistry packages
+Icon=/usr/share/app-install-data-postinstallerf/icons/gabedit.png
+Terminal=false
+Type=Application
+Categories=GTK;Education;Science;Chemistry;
+StartupNotify=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n netbeans
+Name=NetBeans IDE 7.0.1
+Comment=Integrated Development Environment
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_netbeans_7.0.1_nb_netbeans.png
+Categories=Development;IDE;Java;
+Terminal=false
+Type=Application
+StartupNotify=true

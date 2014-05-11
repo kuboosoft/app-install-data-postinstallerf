@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n shisen.app
+Type=Application
+Version=0.94
+Categories=Game;LogicGame;
+Name=Shisen
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Shisen.app/Resources/GShisen.tiff.png

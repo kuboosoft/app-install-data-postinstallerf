@@ -1,0 +1,14 @@
+[Desktop Entry]
+Exec=postinstaller -n mcu8051ide
+Categories=Development;
+Comment=Graphical IDE for MCS-51 based microcontrollers
+Comment[en_US]=Graphical IDE for MCS-51 based microcontrollers
+GenericName=MCU 8051 IDE
+GenericName[en_US]=MCU 8051 IDE
+Icon=/usr/share/app-install-data-postinstallerf/icons/mcu8051ide.png
+Name=MCU 8051 IDE
+Name[en_US]=MCU 8051 IDE
+StartupNotify=false
+Terminal=false
+Type=Application
+Version=1.0

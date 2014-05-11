@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n grafx2
+Name=GrafX2
+Comment=Deluxe Paint Clone
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/grafx2.png
+Categories=Application;Graphics;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n openjdk-6-jre
+Name=OpenJDK Java 6 Runtime
+Name[fi]=OpenJDK Java 6 - ajonaikainen ympäristö
+Comment=OpenJDK Java 6 Runtime
+Comment[fi]=OpenJDK Java 6 - ajonaikainen ympäristö
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/openjdk-6.png
+Categories=Application;Network

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Exec=postinstaller -n mediathekview
+Name=MediathekView
+Name[de]=MediathekView
+GenericName=
+GenericName[de]=
+Categories=AudioVideo;TV;
+Comment=View streams from public German TV stations
+Comment[de]=Mediatheken verschiedener TV Sender nutzen
+Icon=/usr/share/app-install-data-postinstallerf/icons/mediathekview.png
+StartupNotify=true
+StartupWMClass=MediathekView
+Terminal=false
+Type=Application
+Version=1.0

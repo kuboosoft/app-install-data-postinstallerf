@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n dvcs-autosync
+Name=DVCS-Autosync
+GenericName=File Synchronizer based on Distributed Version Control
+Comment=Synchronize and version your files across multiple computers with distributed version control (by default with Git)
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/dvcs-autosync.png
+Categories=Network;FileTransfer;
+StartupNotify=false

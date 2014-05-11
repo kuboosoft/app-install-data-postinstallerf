@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n oggconvert
+Version=1.0
+Name=OggConvert
+Comment=Convert media files to Free formats
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/oggconvert.png
+Categories=AudioVideo;
+Terminal=false
+StartupNotify=true

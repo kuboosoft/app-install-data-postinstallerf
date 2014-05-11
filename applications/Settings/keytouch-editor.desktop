@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n keytouch-editor
+Name=KeyTouch Editor
+Version=1.0
+Comment=Edit keyboard maps for keytouch
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_keytouch-editor_pixmaps_icon.png
+Terminal=false
+Type=Application
+Categories=Settings;HardwareSettings;GTK
+StartupNotify=true

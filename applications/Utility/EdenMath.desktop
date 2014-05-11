@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n edenmath.app
+Type=Application
+Version=0.94
+Categories=Utility;Calculator;
+Name=EdenMath
+Comment=A Scientific Calculator
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_lib_GNUstep_Applications_EdenMath.app_Resources_EdenMath.png

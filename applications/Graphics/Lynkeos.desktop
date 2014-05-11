@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n lynkeos.app
+Name=Lynkeos Image Processor
+Name[bg]=Обработка на изображения (Lynkeos)
+Comment=Filtering of astronomical images
+Comment[bg]=Обработване на астрономически изображения
+Type=Application
+Version=1.0
+Categories=Graphics;Photography;Astronomy;
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Lynkeos.app/Resources/Lynkeos.png.png

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n itksnap
+GenericName=3D Structure Segmentation
+Name=ITK-SNAP
+Type=Application
+Terminal=false
+Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;Viewer;
+Icon=/usr/share/app-install-data-postinstallerf/icons/itksnap.xpm.png

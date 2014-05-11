@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=postinstaller -n greenwich
+Type=Application
+Name=Greenwich
+Icon=/usr/share/app-install-data-postinstallerf/icons/greenwich.png
+Categories=Network;Utility;GTK

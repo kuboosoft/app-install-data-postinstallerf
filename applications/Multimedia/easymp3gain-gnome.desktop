@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n easymp3gain-gtk
+Type=Application
+Name=easyMP3Gain
+GenericName=MP3Gain Frontend
+Comment=A GUI for mp3gain, vorbisgain and aacgain
+Comment[de]=Eine GUI für mp3gain, vorbisgain und aacgain
+Comment[it]=Una GUI per mp3gain, vorbisgain e aacgain
+Comment[fr]=Une GUI pour mp3gain, vorbisgain et aacgain
+Icon=/usr/share/app-install-data-postinstallerf/icons/easymp3gain.png
+Categories=Audio;AudioVideo;GNOME;

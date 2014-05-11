@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n screenie-qt
+Type=Application
+Version=1.0
+Name=Screenie
+GenericName=Screenshot Composer
+Categories=Qt;Graphics;

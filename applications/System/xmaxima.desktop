@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n xmaxima
+Version=1.0
+Name=Maxima Algebra System
+GenericName=Computer Algebra System
+Comment=An interface to the Maxima Computer Algebra System
+Icon=/usr/share/app-install-data-postinstallerf/icons/maxima-icon.png
+Type=Application
+Terminal=false
+Categories=Education;Math;

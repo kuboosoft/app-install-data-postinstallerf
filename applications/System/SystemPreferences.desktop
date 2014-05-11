@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n systempreferences.app
+Type=Application
+Version=1.0
+Categories=Settings;DesktopSettings;
+Name=System Preferences
+Name[bg]=Настройки на системата
+Comment=GNUstep preferences application
+Comment[bg]=Настройки на GNUstep
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/SystemPreferences.app/Resources/SystemPreferences.tiff.png

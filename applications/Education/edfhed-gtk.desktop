@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n aghermann
+Type=Application
+Version=0.6.0.1
+Name=Edfhed
+GenericName=EDF file header editor
+Comment=EDF file header editor
+Terminal=false
+Categories=Education;Science;MedicalSoftware;GTK

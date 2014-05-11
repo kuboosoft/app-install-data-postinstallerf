@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n amide
+GenericName=Medical Image Examiner
+GenericName[zh_CN]=医学图像察看器
+Name=Amide
+Name[zh_CN]=高级医学图像察看器
+Comment=A Medical Image Data Examiner
+Comment[zh_CN]=高级医学图像察看器
+Icon=/usr/share/app-install-data-postinstallerf/icons/amide_logo.png.png
+Terminal=false
+Type=Application
+Categories=Graphics;MedicalSoftware;

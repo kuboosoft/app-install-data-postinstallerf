@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n drumstick-tools
+Name=Drumstick Drum Grid
+Icon=/usr/share/app-install-data-postinstallerf/icons/drumstick.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Midi;Education;Music;
+Comment=Drumstick Drum Grid
+Comment[es]=Caja de Ritmos de Drumstick 

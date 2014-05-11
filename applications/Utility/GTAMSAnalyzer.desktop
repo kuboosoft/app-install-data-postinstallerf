@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gtamsanalyzer.app
+Name=GTAMSAnalyzer
+Name[bg]=GTAMSAnalyzer
+Comment=Qualitative Research Software for GNUstep
+Comment[bg]=Софтуер за изследване на текст за GNUstep
+Version=1.0
+Type=Application
+Categories=Utility;TextTools;
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/GTAMSAnalyzer.app/Resources/largeApp.tif.png

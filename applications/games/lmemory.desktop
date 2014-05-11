@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n lmemory
+Type=Application
+Name=LMemory
+GenericName=Memory Game
+Icon=/usr/share/app-install-data-postinstallerf/icons/lmemory.png
+Terminal=false
+Categories=Game;KidsGame;

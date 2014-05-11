@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n openyahtzee
+Type=Application
+Name=Open Yahtzee
+GenericName=Yahtzee
+Comment=The classic dice game Yahtzee
+Icon=/usr/share/app-install-data-postinstallerf/icons/openyahtzee.png
+Terminal=false
+Categories=Game;BoardGame;

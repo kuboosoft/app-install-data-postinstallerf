@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gpa
+Name=GNU Privacy Assistant
+Name[en_US.ISO8859-1]=GNU Privacy Assistant
+Icon=/usr/share/app-install-data-postinstallerf/icons/gpa.png.png
+Terminal=false
+Type=Application
+Categories=GTK;Application;Security;Utility;

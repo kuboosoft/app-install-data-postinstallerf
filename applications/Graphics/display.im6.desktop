@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n imagemagick
+Version=1.0
+Name=ImageMagick (display)
+Comment=Display and edit image files
+Comment[fr]=Affiche et édite des fichiers images
+Comment[pt]=Exiba e edite arquivos de imagem
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_display.im6.png
+Type=Application
+Categories=Graphics;

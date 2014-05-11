@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n bugsquish
+Version=0.9.4
+Name=Bug Squish
+Type=Application
+GenericName=Game
+Comment=Squash the bugs before they suck up your blood
+Icon=/usr/share/app-install-data-postinstallerf/icons/bugsquish-icon.png
+Terminal=false
+Hidden=false
+Categories=Application;Game;2DGraphics;ActionGame;

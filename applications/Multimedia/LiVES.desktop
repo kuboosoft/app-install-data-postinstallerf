@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n lives
+Name=LiVES 
+Comment=Video Editor/VJ tool
+Categories=AudioVideo;AudioVideoEditing;
+Icon=/usr/share/app-install-data-postinstallerf/icons/lives.png
+Type=Application

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Exec=postinstaller -n lletters
+Version=1.0
+Type=Application
+Name=Linux Letters and Numbers
+Name[es]=Linux Letras y Números
+Name[fr]=Linux Lettres et Nombres
+Name[nl]=Linux Letters en Nummers
+GenericName=lletters
+Comment=GTK letters-learning game for small children
+Comment[es]=Juego de aprendizaje de letras para niños
+Icon=/usr/share/app-install-data-postinstallerf/icons/lletters.xpm.png
+FilePattern=lletters
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;Education;KidsGame;2DGraphics;

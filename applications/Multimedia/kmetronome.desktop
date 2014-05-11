@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n kmetronome
+Name=KMetronome
+Icon=/usr/share/app-install-data-postinstallerf/icons/kmetronome.png
+Type=Application
+Comment=KDE MIDI Metronome Using ALSA Sequencer
+Comment[es]=Metrónomo MIDI de KDE utilizando el secuenciador ALSA
+Categories=AudioVideo;Audio;Midi;Education;Music;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n projectm-jack
+Name=projectM Jack Audio Visualization
+GenericName=JACK Audio Stream Visualization
+Comment=A milkdrop based music visualizer visualizing JackAudio streams on a Qt4 GUI
+Icon=/usr/share/app-install-data-postinstallerf/icons/prjm16-transparent.svg.png
+Type=Application
+Categories=AudioVideo;Audio;
+Terminal=false

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n dwww
+Name=Debian Documentation Browser
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnome-touristinfo.png
+Categories=Application;Utility;
+StartupNotify=true

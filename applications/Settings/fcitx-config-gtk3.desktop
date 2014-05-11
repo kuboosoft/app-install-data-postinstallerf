@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n fcitx-config-gtk
+Name=Fcitx Config Tool
+Comment=Fcitx GUI Config Tool
+Icon=/usr/share/app-install-data-postinstallerf/icons/fcitx.png
+Type=Application
+Categories=Settings;
+StartupNotify=false

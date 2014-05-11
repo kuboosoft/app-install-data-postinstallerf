@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gmerlin
+Name=Gmerlin transcoder
+Name[de]=Gmerlin transcoder
+Comment=Gmerlin multimedia transcoder
+Comment[de]=Gmerlin multimedia transcoder
+Icon=/usr/share/app-install-data-postinstallerf/icons/gmerlin-transcoder.png
+Type=Application
+Categories=Application;AudioVideo;

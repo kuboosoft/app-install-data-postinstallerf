@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n qsampler
+Name=Qsampler
+GenericName=LinuxSampler GUI
+Comment=Qsampler is a LinuxSampler Qt GUI Interface
+Icon=/usr/share/app-install-data-postinstallerf/icons/qsampler.png
+Categories=Audio;AudioVideo;Qt;
+Terminal=false
+Type=Application

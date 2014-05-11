@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n multiget
+Name=MultiGet
+Comment=MultiGet Downloader
+Comment[zh_CN]=MultiGet 下载器
+Type=Application
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_multiget_48.png
+Categories=Network;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n socnetv
+Name=SocNetV
+GenericName=Social Networks Analysis and Visualisation
+Comment=Social Networks Visualisation and Analysis.
+Icon=/usr/share/app-install-data-postinstallerf/icons/socnetv.png
+Categories=Education;Science;Math;Qt;
+Terminal=false
+Type=Application

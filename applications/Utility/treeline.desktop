@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n treeline
+Name=TreeLine
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/treeline.png
+Comment=Tree-like structured custom data manager
+Comment[es]=Gestor configurable de datos estructurados en forma de árbol
+Terminal=false
+Categories=Application;Utility;Database;Qt;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gcdmaster
+Name=Gnome CD Master
+Comment=Gnome Audio CD editor and burner
+Icon=/usr/share/app-install-data-postinstallerf/icons/gcdmaster.png.png
+Terminal=false
+Type=Application
+StartupNotify=true

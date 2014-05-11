@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n mirrormagic
+Type=Application
+Name=MirrorMagic
+GenericName=
+Comment=
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/games/mirrormagic/graphics/mirrormagic.xpm.png
+Terminal=false
+Categories=Application;Game;LogicGame;

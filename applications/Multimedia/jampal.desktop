@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n jampal
+Name=Jampal
+GenericName=mp3 song library
+Comment=Organize and play mp3 songs
+Icon=/usr/share/app-install-data-postinstallerf/icons/jampal.png
+Terminal=false
+Type=Application
+Categories=Audio;Database;AudioVideo;
+StartupNotify=true
+StartupWMClass=pgbennett-jampal-Jampal

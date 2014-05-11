@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n jstest-gtk
+Name=jstest-gtk
+Comment=Joystick testing and configuration tool
+Comment[es]=Herramienta de comprobación y configuración de joysticks
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/jstest-gtk.png.png
+Categories=GTK;System;

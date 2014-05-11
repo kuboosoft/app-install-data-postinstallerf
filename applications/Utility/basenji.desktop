@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n basenji
+Type=Application
+Name=Basenji
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_basenji_basenji.png
+Categories=Utility;
+Comment=A portable volume indexer.
+Comment[de]=Ein portierbares Datenträger-Indizierungswerkzeug.

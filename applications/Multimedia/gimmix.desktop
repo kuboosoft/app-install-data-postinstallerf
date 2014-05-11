@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gimmix
+Name=Gimmix
+Comment=Gimmix is a graphical music player daemon (MPD) client written in C.
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/gimmix.png.png
+Categories=Application;GTK;AudioVideo;

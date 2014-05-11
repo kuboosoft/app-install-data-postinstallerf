@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gworldclock
+Comment=See the time in other timezones
+Name=World Clock (gworldclock)
+Comment[fr]=Voir l heure dans d autres fuseaux horaires
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gworldclock.png
+Categories=Application;GNOME;Utility;Clock;

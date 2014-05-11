@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n xboing
+Name=XBoing II
+GenericName=XBoing II
+Comment=Destroy some blocks
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/xboing.png
+Terminal=false
+Categories=Game;ArcadeGame;

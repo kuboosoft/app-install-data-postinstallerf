@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n qmidinet
+Name=QmidiNet
+Version=1.0
+GenericName=MIDI Network
+Comment=QmidiNet is a MIDI Network Gateway via UDP/IP Multicast
+Icon=/usr/share/app-install-data-postinstallerf/icons/qmidinet.png
+Terminal=false
+Type=Application

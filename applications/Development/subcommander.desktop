@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n subcommander
+Version=1.0
+Name=Subcommander
+GenericName=Subversion Client
+Comment=A GUI Client for Subversion
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_subcommander.png
+Categories=Development;

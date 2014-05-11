@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n ukopp
+Name=ukopp
+GenericName=Copy Files to Removable Media
+Comment=Full and incremental backup with media verification
+Categories=System;Utility;Archiving;
+Type=Application
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_ukopp_icons_ukopp.png

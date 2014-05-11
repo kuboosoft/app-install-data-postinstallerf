@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gpsprune
+Version=1.0
+Name=GpsPrune
+Comment=Visualize, edit and prune GPS tracks
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_gpsprune.png
+Categories=Education;Science;Geoscience;
+StartupNotify=false
+Terminal=false
+Type=Application

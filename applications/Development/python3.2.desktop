@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n python3.2
+Name=Python (v3.2)
+Comment=Python Interpreter (v3.2)
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_python3.2.png
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=true

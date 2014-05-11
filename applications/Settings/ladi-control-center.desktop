@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n laditools
+Name=LADI Control Center
+Name[es]=Centro de control de LADI
+Type=Application
+Comment=Configure the LADI system
+Comment[es]=Configurar el sistema LADI
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/preferences-system.png
+Categories=GNOME;GTK;Settings;
+GenericName=LADI configuration
+GenericName[es]=Configuración de LADI
+GenericName[it]=Configurazione LADI

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n emu8051
+Version=1.0
+Name=emu8051
+Name[en_GB]=Emu8051
+GenericName=intel 8051 emulator
+GenericName[en_GB]=intel 8051 emulator
+Type=Application
+Terminal=false
+Categories=Science;Education;Electronics;

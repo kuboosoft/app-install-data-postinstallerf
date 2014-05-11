@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n bubbros
+Type=Application
+Name=The Bub s Brothers
+GenericName=Bubble Bobble
+Comment=Kill evil enemies by catching them into bubbles and smashing those
+Comment[ca]=Mateu els enemics atrapant-los dins de bombolles i petant aquestes
+Comment[es]=Atrapa los enemigos en burbujas y petalas en este fantastico juego multijugador
+Icon=/usr/share/app-install-data-postinstallerf/icons/bubbros.png
+Categories=Game;ActionGame;

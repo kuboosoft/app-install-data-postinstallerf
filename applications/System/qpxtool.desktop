@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n qpxtool
+Name=QPxTool
+GenericName=CD/DVD media quality checker
+GenericName[ru]=Проверка качества носителей CD/DVD
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/qpxtool.png
+Comment=CD/DVD media quality checker
+Comment[ru]=Проверка качества носителей CD/DVD
+Categories=System;
+StartupNotify=true
+Terminal=false

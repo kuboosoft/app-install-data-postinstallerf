@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n sgt-puzzles
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/guess.png
+Type=Application
+Categories=Game;LogicGame;
+Name=Guess
+Comment=Game similar to the famous  Mastermind 
+Comment[fr]=Jeu similaire au  Mastermind 
+Comment[de]=Spiel ähnlich zum berühmten »Mastermind«

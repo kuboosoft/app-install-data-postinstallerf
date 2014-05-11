@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n slimrat
+Name=Slimrat
+Comment=Download files from various hosters
+GenericName=File Downloader
+Categories=GNOME;GTK;Network;
+Icon=/usr/share/app-install-data-postinstallerf/icons/slimrat.png
+Terminal=false
+Type=Application
+StartupNotify=true

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n jftp
+Version=1.0
+Name=JFTP
+GenericName=JFTP
+Comment=Java GUI client for FTP, SMB, SFTP and NFS
+Icon=/usr/share/app-install-data-postinstallerf/icons/jftp.xpm.png
+Terminal=0
+Type=Application
+Categories=Java;Network;FileTransfer;

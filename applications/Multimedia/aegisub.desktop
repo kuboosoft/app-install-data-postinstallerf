@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n aegisub
+Version=1.0
+Type=Application
+Name=Aegisub
+GenericName=Subtitle Editor
+Comment=Create and edit subtitles for film and videos.
+Icon=/usr/share/app-install-data-postinstallerf/icons/aegisub.png
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;
+StartupNotify=true

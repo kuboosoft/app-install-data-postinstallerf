@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n stopwatch
+Version=1.0
+Type=Application
+Comment=A virtual stopwatch
+Categories=Application;Utility
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_stopwatch.png

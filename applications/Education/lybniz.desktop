@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n lybniz
+Name=Lybniz Graph Plotter
+Comment=Plot graphs and functions
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Education;
+Icon=/usr/share/app-install-data-postinstallerf/icons/lybniz.png

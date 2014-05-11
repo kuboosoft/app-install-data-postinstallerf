@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n ace-of-penguins
+Type=Application
+Name=Penguin Pegged
+GenericName=
+Comment=
+Icon=/usr/share/app-install-data-postinstallerf/icons/penguin-pegged.png
+Terminal=false
+Categories=Game;LogicGame;

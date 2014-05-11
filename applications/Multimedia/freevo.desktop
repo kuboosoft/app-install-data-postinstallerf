@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n freevo
+Version=1.0
+Name=Freevo
+GenericName=Freevo
+Comment=Playing various multimedia formats, like pictures, audio or video
+Comment[de]=Wiedergabe verschiedenster Multimediaformate, wie z.B. Fotos, Musik oder Videos
+Comment[it]=Riproduce vari formati multimediali come foto, audio o video
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_freevo.png

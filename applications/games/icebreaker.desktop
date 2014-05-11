@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n icebreaker
+Version=1.0
+Name=IceBreaker
+GenericName=IceBreaker
+Type=Application
+Comment=Melt an iceberg into small pieces, in order to trap the penguins
+Icon=/usr/share/app-install-data-postinstallerf/icons/icebreaker_48.png
+Terminal=false
+Categories=Game;ArcadeGame;

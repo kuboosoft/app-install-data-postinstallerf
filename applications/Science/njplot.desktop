@@ -1,0 +1,16 @@
+[Desktop Entry]
+Exec=postinstaller -n njplot
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/njplot.png
+Name=NJplot
+GenericName=Tree Plotter
+GenericName[en]=Tree Plotter
+GenericName[fr]=Traceur d arbres
+GenericName[pt_BR]=Plotador de árvores
+Comment=Displays, modifies and exports in PostScript format phylogenetic trees
+Comment[en]=Displays, modifies and exports in PostScript format phylogenetic trees
+Comment[fr]=Affiche, modifie et exporte au format PostScript des arbres phyolgénétiques
+Comment[pt_BR]=Exibe, modifica e exporta em formato PostScript árvores filogenéticas
+Type=Application
+Categories=Biology;Science;Education;

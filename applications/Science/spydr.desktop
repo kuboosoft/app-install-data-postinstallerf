@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n yorick-spydr
+Categories=Education;Science;Astronomy;
+Type=Application
+Comment=FITS image display and simple analysis
+Icon=/usr/share/app-install-data-postinstallerf/icons/spydr48.png
+Name=Spydr
+GenericName=FITS Image Viewer
+Terminal=false

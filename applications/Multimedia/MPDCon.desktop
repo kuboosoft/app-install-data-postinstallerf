@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n mpdcon.app
+Name=MPDCon
+Name[bg]=Клиент за MPD (MPDCon)
+Comment=GNUstep client for MPD
+Comment[bg]=MPD клиент за GNUstep
+Type=Application
+Version=1.0
+Categories=AudioVideo;Audio;Player;
+Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/MPDCon.app/Resources/MPDCon.tiff.png

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n visolate
+Name=Visolate
+GenericName=PCB CNC converter
+Terminal=false
+Type=Application
+Categories=Graphics;Electronics;Engineering
+Icon=/usr/share/app-install-data-postinstallerf/icons/visolate.png

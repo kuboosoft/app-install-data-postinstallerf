@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n monodoc-http
+Name=Monodoc (http)
+GenericName=Documentation Browser
+Comment=Monodoc Documentation Browser
+Icon=/usr/share/app-install-data-postinstallerf/icons/monodoc.png.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=Application;Development;

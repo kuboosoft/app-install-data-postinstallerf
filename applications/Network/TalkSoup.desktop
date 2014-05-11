@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n talksoup.app
+Type=Application
+Version=0.94
+Categories=Network;IRCClient;
+Name=TalkSoup
+Comment=An IRC Client for GNUstep and Mac OS X
+Icon=/usr/share/app-install-data-postinstallerf/icons/TalkSoup.tiff.png

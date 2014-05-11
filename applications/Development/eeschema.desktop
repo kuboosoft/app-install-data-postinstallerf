@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n kicad
+Categories=Development;Electronics
+Comment=Design an electronic schematic
+Comment[fr]=Dessiner des schémas électroniques
+GenericName=Electronic schematic design
+GenericName[fr]=Saisie de schéma électronique
+Icon=/usr/share/app-install-data-postinstallerf/icons/eeschema.png
+Name=Eeschema
+Type=Application

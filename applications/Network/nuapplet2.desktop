@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n nuapplet
+Version=2.0
+Type=Application
+Name=NuApplet
+GenericName=NuFW Client
+Comment=QT NuFW Client
+Icon=/usr/share/app-install-data-postinstallerf/icons/nuapplet2-running.png.png
+Terminal=false
+StartupNotify=false
+Categories=Network;

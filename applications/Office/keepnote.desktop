@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n keepnote
+Type=Application
+Name=KeepNote
+GenericName=Note-taking Application
+GenericName[sk]=Program na správu poznámok
+Comment=Note-taking Application
+Comment[sk]=Program na správu poznámok
+Icon=/usr/share/app-install-data-postinstallerf/icons/keepnote.png
+Categories=Office
+Terminal=false
+StartupNotify=false

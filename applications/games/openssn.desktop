@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n openssn
+Name=OpenSSN
+GenericName=Tactical submarine simulator
+Comment=Command a submarine in a deep ocean environment
+Icon=/usr/share/app-install-data-postinstallerf/icons/openssn.png
+Terminal=false
+Type=Application
+Categories=Game;

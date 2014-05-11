@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n g3dviewer
+Name=G3DViewer
+GenericName=G3DViewer
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_g3dviewer_glade_g3d48.png
+Comment=3D model viewer
+Comment[de_DE]=3D-Modell-Betrachter
+Terminal=false
+StartupNotify=false
+Type=Application
+Categories=GTK;3DGraphics;Application;Graphics;

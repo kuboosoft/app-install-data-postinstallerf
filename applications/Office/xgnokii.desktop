@@ -1,0 +1,20 @@
+[Desktop Entry]
+Exec=postinstaller -n xgnokii
+Name=Xgnokii
+Name[de]=Xgnokii
+Name[it]=Xgnokii
+Name[pl]=Xgnokii
+GenericName=Mobile Phone Suite
+GenericName[de]=Suite für Mobiltelefone
+GenericName[fi]=Kännykkäohjelmisto
+GenericName[fr]=Numéros composés
+GenericName[it]=Suite per telefoni cellulari
+GenericName[pl]=Zestaw do obsługi telefonu komórkowego
+Comment=Manage your mobile phone
+Comment[de]=Verwalten Sie Ihr Mobiltelefon
+Comment[it]=Gestisce il proprio cellulare
+Comment[pl]=Zarządzaj swoim telefonem komórkowym
+Icon=/usr/share/app-install-data-postinstallerf/icons/phone.png
+Terminal=false
+Type=Application
+Categories=Utility;TelephonyTools;Calendar;ContactManagement;Office;GTK;

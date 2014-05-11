@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n pangzero
+Name=Pang Zero
+GenericName=pangzero
+Comment=Pop balloons with your harpoon
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/pangzero.png
+Terminal=false
+Categories=Game;ArcadeGame;

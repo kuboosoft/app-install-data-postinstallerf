@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n posterazor
+Version=1.0
+Type=Application
+Name=PosteRazor
+Comment=Splits an image across multiple pages for assembly into a poster
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/PosteRazor.png
+Categories=Graphics;

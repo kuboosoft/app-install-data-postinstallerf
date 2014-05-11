@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n blockout2
+Type=Application
+Name=BlockOut II
+Comment=Play a 3D Tetris game
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_games_blockout2_icon.png
+Terminal=false
+Categories=Game;BlocksGame;

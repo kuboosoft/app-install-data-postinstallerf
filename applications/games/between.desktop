@@ -1,0 +1,10 @@
+# Forwarded to http://sf.net/support/tracker.php?aid=2672143
+[Desktop Entry]
+Exec=postinstaller -n between
+Type=Application
+Name=Between
+GenericName=Consciousness and isolation game
+Comment=game about consciousness and isolation
+Icon=/usr/share/app-install-data-postinstallerf/icons/between.png
+Terminal=false
+Categories=Game;AdventureGame;

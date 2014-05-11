@@ -1,0 +1,18 @@
+[Desktop Entry]
+Exec=postinstaller -n auralquiz
+Type=Application
+Name=Auralquiz
+GenericName=Music Quiz Game
+GenericName[ca]=Joc de preguntes musicals
+GenericName[es]=Juego de preguntas musicales
+GenericName[it]=Gioco Quiz Musicale
+GenericName[fr]=Jeu de Quiz musical
+Comment=A simple music quiz game for GNU/Linux
+Comment[ca]=Un joc senzill de preguntes musicals per GNU/Linux
+Comment[es]=Un sencillo juego de preguntas musicales para GNU/Linux
+Comment[it]=Semplice quiz musicale per GNU/Linux
+Comment[fr]=Un simple jeu de quiz musical pour GNU/Linux
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_auralquiz.png
+Terminal=false
+StartupNotify=true
+Categories=Qt;Game;

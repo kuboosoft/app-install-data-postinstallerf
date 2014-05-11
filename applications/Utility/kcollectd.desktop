@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n kcollectd
+Icon=/usr/share/app-install-data-postinstallerf/icons/kcollectd.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Categories=Qt;KDE;Utility;
+Name=KDE collectd database-viewer
+Name[de]=KDE collectd Datenbankbetrachter
+GenericName=Collectd viewer
+GenericName[de]=Collectd Datenbankbetrachter
+Comment=Viewer for collectd-databases
+Comment[de]=Betrachter für collectd-Datenbanken

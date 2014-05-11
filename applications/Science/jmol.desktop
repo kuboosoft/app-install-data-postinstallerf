@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n jmol
+Version=1.0
+Name=Jmol
+Comment=Molecular Viewer
+Icon=/usr/share/app-install-data-postinstallerf/icons/jmol-icon.png
+Terminal=false
+Type=Application
+Categories=Java;Science;Chemistry;Physics;Education;
+StartupNotify=true

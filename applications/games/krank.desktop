@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n krank
+Name=Krank
+Categories=Game;LogicGame;ArcadeGame
+Comment=a little casual game
+Comment[ru]=небольшая казуальная игрушка
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_games_krank_krank.png
+Terminal=false
+Type=Application
+StartupNotify=false

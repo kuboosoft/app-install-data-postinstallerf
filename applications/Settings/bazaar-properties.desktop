@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n bzr-gtk
+Name=Bazaar Preferences
+Comment=Configure Bazaar settings
+Icon=/usr/share/app-install-data-postinstallerf/icons/bzr-icon-64.png
+Terminal=false
+Type=Application
+Categories=Settings;

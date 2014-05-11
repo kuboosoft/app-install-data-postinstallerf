@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gmerlin
+Name=Gmerlin mixer
+Name[de]=Gmerlin mixer
+Comment=Alsa mixer
+Comment[de]=Alsa mixer
+Icon=/usr/share/app-install-data-postinstallerf/icons/gmerlin-alsamixer.png
+Type=Application
+Categories=AudioVideo;Audio;Mixer;

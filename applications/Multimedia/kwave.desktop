@@ -1,0 +1,16 @@
+[Desktop Entry]
+Exec=postinstaller -n kwave
+Version=1.0
+Type=Application
+GenericName=Sound Editor
+GenericName[de]=Sound-Editor
+GenericName[fr]=éditeur de sons
+Name=Kwave Sound Editor
+Name[de]=Kwave Sound-Editor
+Name[fr]=Kwave éditeur de sons
+Comment=A sound editor for KDE
+Comment[de]=Ein Sound-Editor für KDE
+Comment[fr]=Un éditeur de sons pour KDE
+Icon=/usr/share/app-install-data-postinstallerf/icons/kwave.png
+Terminal=false
+Categories=Qt;KDE;AudioVideo;Audio;Player;Recorder;AudioVideoEditing;

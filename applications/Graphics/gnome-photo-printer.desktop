@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gnome-photo-printer
+Name=GNOME Photo Printer
+Name[fr]=GNOME Photo Printer
+Comment=Print several photos on one page
+Comment[fr]=Imprime plusieurs photos sur une page
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnome-photo-printer.png.png
+Terminal=0
+Type=Application
+Categories=Graphics

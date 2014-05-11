@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gnudoq
+Name=GNUDoQ
+GenericName=Board Game
+Type=Application
+Categories=Application;Game;BoardGame;
+Terminal=0
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_gnudoq-icon.png
+Comment=GNUDoQ, Su Doku generator and solver.

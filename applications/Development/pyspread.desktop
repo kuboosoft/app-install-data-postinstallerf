@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n pyspread
+Version=1.0
+Type=Application
+Terminal=false
+Name=Pyspread
+Comment=Python spreadsheet application
+Icon=/usr/share/app-install-data-postinstallerf/icons/pyspread.png
+Categories=GTK;GNOME;Development;
+StartupNotify=true

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gentoo
+Name=Gentoo
+Comment=Fully GUI-configurable, two-pane X file manager
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_icon_gentoo_small.png
+Terminal=false
+Type=Application
+Categories=Utility;FileManager;

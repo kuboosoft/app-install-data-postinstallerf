@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n shelxle
+Name=ShelXle
+Comment=A Qt GUI for SHELX
+GenericName=ShelXle
+Icon=/usr/share/app-install-data-postinstallerf/icons/shelxle.png
+Terminal=false
+Categories=Qt;Science;Chemistry;Physics;Education
+Type=Application

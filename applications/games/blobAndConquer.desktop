@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n blobandconquer
+Version=0.7
+Name=Blob Wars : Blob And Conquer
+GenericName=Game
+Comment=Mission and Objective based 3D Action Game
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/blobAndConquer.png
+Categories=Game;ArcadeGame;

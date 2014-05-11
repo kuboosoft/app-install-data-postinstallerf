@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n acetoneiso
+Categories=Qt;KDE;AudioVideo;DiscBurning;
+Icon=/usr/share/app-install-data-postinstallerf/icons/Acetino2.png
+Name=AcetoneISO
+GenericName=CD/DVD image manipulator
+GenericName[it]=Strumenti per immagini CD/DVD
+GenericName[de]=CD/DVD-Abbildmanager
+GenericName[ru]=Манипулятор CD/DVD образов
+StartupNotify=true
+Terminal=false
+Type=Application

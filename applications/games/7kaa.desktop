@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n 7kaa
+Version=1.0
+Name=Seven Kingdoms
+GenericName=Game
+Comment=Seven Kingdoms: Ancient Adversaries
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/7kaa.png
+Categories=Game;StrategyGame;

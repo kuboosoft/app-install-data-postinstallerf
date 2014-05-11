@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n gbatnav
+Name=Gnome Batalla Naval client
+Name[es]=Cliente Gnome del Batalla Naval
+Name[ja]=GNOME 海戦ゲーム (クライアント)
+Comment=Gnome Batalla Naval client
+Comment[es]=Cliente Gnome del Batalla Naval
+Comment[ja]=GNOME 海戦ゲーム (クライアント)
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnome-gbatnav.png.png
+Terminal=0
+Type=Application
+Categories=GNOME;Game;StrategyGame;

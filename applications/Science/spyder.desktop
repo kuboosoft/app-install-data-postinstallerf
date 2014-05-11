@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n spyder
+Version=1.0
+Type=Application
+Name=Spyder
+GenericName=Spyder
+Comment=Scientific PYthon Development EnviRonment
+Categories=Development;Science;IDE;Qt;
+Icon=/usr/share/app-install-data-postinstallerf/icons/spyder.png

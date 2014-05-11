@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n sakura
+Name=Sakura
+Comment=Use the command line
+Icon=/usr/share/app-install-data-postinstallerf/icons/terminal-tango.png
+Type=Application
+Categories=GTK;Utility;TerminalEmulator;System;
+StartupNotify=true

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Exec=postinstaller -n retext
+Version=1.0
+Name=ReText
+Comment=Simple text editor for Markdown and reStructuredText
+Comment[cs]=Jednoduchý editor pro Markdown a reStructuredText
+Comment[da]=Enkel editor til Markdown og reStructuredText
+Comment[de]=Einfacher Texteditor für Markdown and reStructuredText
+Comment[es]=Editor básico de texto para Markdown y reStructuredText
+Comment[pl]=Prosty edytor Markdown i reStructuredText
+Comment[ru]=Простой редактор для Markdown и reStructuredText
+Comment[zh_CN]=支持 Markdown 和 reStructuredText 语法的简易文本编辑器
+Categories=Office;TextEditor;
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/retext.png

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n rlplot
+Version=1.1.2
+Name=Rlplot Graph Generator
+Comment=Generate publication quality graphs
+Icon=/usr/share/app-install-data-postinstallerf/icons/RLPlot.xpm.png
+Type=Application
+Terminal=false
+Categories=Education;Math

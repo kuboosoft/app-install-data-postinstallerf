@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n numptyphysics
+Version=1.0
+Type=Application
+Name=Numpty Physics
+Categories=Game;LogicGame;
+StartupWMClass=NPhysics
+Icon=/usr/share/app-install-data-postinstallerf/icons/numptyphysics.png
+Method=mime_open
+Name=uri_link_play
+TranslationDomain=osso-uri

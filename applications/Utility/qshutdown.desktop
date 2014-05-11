@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n qshutdown
+Name=qshutdown
+Name[de_DE]=qshutdown
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/red_glasses.png
+Categories=Utility;

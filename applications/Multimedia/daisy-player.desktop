@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n daisy-player
+Version=1.0
+Name=Daisy player
+Comment=Player for DAISY Books
+Icon=/usr/share/app-install-data-postinstallerf/icons/daisy-player.png
+Terminal=true
+Type=Application
+Categories=AudioVideo;Audio;Accessibility;ConsoleOnly;
+GenericName[en]=Player for DAISY Books
+GenericName[de]=Spieler für DAISY Bücher
+GenericName[nl]=Speler voor DAISY boeken

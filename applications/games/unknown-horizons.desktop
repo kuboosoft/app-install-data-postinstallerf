@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n unknown-horizons
+Type=Application
+Name=Unknown Horizons
+Comment=A 2D real time strategy simulation with an emphasis on economy and city building
+Icon=/usr/share/app-install-data-postinstallerf/icons/unknown-horizons.png
+Terminal=false
+Categories=Game;StrategyGame;Simulation;

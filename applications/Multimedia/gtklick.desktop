@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gtklick
+Name=gtklick
+Comment=A Simple Metronome
+Icon=/usr/share/app-install-data-postinstallerf/icons/gtklick.png
+Type=Application
+Terminal=false
+Categories=AudioVideo;Audio;Music;GTK;

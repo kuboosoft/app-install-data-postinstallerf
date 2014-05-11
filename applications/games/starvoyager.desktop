@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n starvoyager
+Type=Application
+Name=Star Voyager
+GenericName=
+Comment=
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_starvoyager.png
+Terminal=false
+Categories=Application;Game;ArcadeGame;

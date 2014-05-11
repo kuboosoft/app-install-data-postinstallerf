@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n kball
+Name=KBall
+GenericName=kball
+Comment=Find the exit
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/kball.png
+Terminal=false
+Categories=Game;ActionGame;

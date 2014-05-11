@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n gperiodic
+Categories=Education;Science;Chemistry;Physics;
+Comment=A program for looking up data of elements from the periodic table.
+Comment[da]=Et program til at vise data om grundstofferne i det priodiske system.
+Comment[pl]=Program do wyszukiwania danych pierwiastków z tablicy okresowej.
+Comment[sv]=En lathund för information om grundämnena i den periodiska tabellen.
+Icon=/usr/share/app-install-data-postinstallerf/icons/gperiodic.png
+Name=GPeriodic
+Terminal=false
+Type=Application

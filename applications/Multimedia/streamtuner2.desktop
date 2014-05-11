@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n streamtuner2
+# Value=1.0
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/streamtuner2.png.png
+Name=streamtuner2
+Name[en]=streamtuner2
+GenericName=Internet radio browser
+Comment=Listen to shoutcast/xiph/live365 music stations
+Categories=AudioVideo

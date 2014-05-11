@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n webissues
+Type=Application
+Name=WebIssues
+GenericName=Issue Tracker
+Comment=Desktop Client for the WebIssues team collaboration system
+Icon=/usr/share/app-install-data-postinstallerf/icons/webissues.png
+Categories=Qt;Office;ProjectManagement;

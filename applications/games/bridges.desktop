@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n sgt-puzzles
+Version=1.0
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/bridges.png
+Type=Application
+Categories=Game;LogicGame;
+Name=Bridges
+Comment=Connect the islands together with bridges
+Comment[fr]=Relier des îles ensembles suivant certaines règles
+Comment[de]=Verbinde die Inseln durch Brücken

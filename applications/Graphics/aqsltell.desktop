@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n aqsis
+Version=1.0
+Type=Application
+Name=Aqsis Shader Inspector
+GenericName=RenderMan Shader Inspector
+Comment=Inspect compiled RenderMan Shading Language (RSL) files
+Icon=/usr/share/app-install-data-postinstallerf/icons/aqsis.png
+Terminal=true
+Categories=Graphics;3DGraphics;ConsoleOnly;

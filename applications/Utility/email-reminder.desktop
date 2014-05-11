@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n email-reminder
+Name=Email-Reminder
+Comment=Set/modify your personal email reminders
+Comment[fr]=Ajouter et modifier vos rappels par courriel
+Terminal=false
+Type=Application
+Categories=Utility;Calendar
+StartupNotify=true

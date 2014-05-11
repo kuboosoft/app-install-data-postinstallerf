@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n gl-117
+Version=0.9.4
+Name=gl-117
+Type=Application
+GenericName=Game
+Comment=Play a flight simulator
+Terminal=false
+Hidden=false
+Categories=Game;3DGraphics;ActionGame;Simulation;
+Icon=/usr/share/app-install-data-postinstallerf/icons/gl-117.png

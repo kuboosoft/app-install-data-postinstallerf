@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n asciijump
+Name=asciijump
+Comment=A clone of the dsj game
+Comment[pl]=Klon gry dsj
+Icon=/usr/share/app-install-data-postinstallerf/icons/asciijump.xpm.png
+Terminal=true
+Type=Application
+Categories=GNOME;Application;Game;BoardGame;
+StartupNotify=true

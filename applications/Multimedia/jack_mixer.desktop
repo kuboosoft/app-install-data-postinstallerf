@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n jack-mixer
+Name=Jack Mixer
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;GNOME;AudioVideo;Player;Audio;
+Icon=/usr/share/app-install-data-postinstallerf/icons/jack_mixer.png

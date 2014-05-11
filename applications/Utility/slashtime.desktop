@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n slashtime
+Version=1.0
+Type=Application
+Name=Slashtime
+GenericName="Time Zones"
+Comment=View the time at locations around the world
+Categories=GNOME;GTK;Utility;
+Icon=/usr/share/app-install-data-postinstallerf/icons/slashtime.png

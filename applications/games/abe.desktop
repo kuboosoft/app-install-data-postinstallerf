@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n abe
+Version=1.0
+Type=Application
+Name=Abe s Amazing Adventure
+Comment=Side-scrolling game
+Categories=Game;AdventureGame;
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_abe.png

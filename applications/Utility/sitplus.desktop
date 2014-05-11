@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n sitplus
+Name=Sitplus
+GenericName=Sitplus ludic-therapeutic software
+Comment=Framework for ludic-therapeutic activities
+Name[es]=Sitplus
+GenericName[es]=Software lúdico-terapéutico Sitplus
+Comment[es]=Entorno de trabajo para actividades lúdico-terapéuticas
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;Accessibility;
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_sitplus-32x32.png

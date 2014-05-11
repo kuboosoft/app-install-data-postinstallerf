@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n jack-rack
+Name=JACK Rack
+Comment=Stereo LADSPA effects rack
+Comment[ru]=Стойка эффектов LADSPA
+Icon=/usr/share/app-install-data-postinstallerf/icons/jack-rack-icon.png.png
+Terminal=false
+Type=Application
+Categories=GNOME;Application;AudioVideo;
