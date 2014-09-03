@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>kde-baseapps</b>'
+Comment='<span size="xx-large">KDE Core Applications</span>'
+Comment3='
+Metapackage for Core applications of KDE 4, including
+dolphin  File manager
+kdepasswd  Changes a UNIX password
+kdialog  Nice dialog boxes from shell scripts
+keditbookmarks  Bookmark organizer and editor
+kfind  File find utility
+konqueror  Web browser, file manager and document viewer
+plasma_applet_folderview  folderview plasma applet
+'
+License='GPLv2 and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-baseapps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

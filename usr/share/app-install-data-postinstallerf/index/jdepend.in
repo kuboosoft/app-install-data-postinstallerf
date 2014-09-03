@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>jdepend</b>'
+Comment='<span size="xx-large">Java Design Quality Metrics</span>'
+Comment3='
+JDepend traverses a set of Java class and source file directories and
+generates design quality metrics for each Java package. JDepend allows
+you to automatically measure the quality of a design in terms of its
+extensibility, reusability, and maintainability to effectively manage
+and control package dependencies.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.clarkware.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

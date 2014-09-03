@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Text-ParseWords</b>'
+Comment='<span size="xx-large">Parse text into an array of tokens or array of arrays</span>'
+Comment3='
+The nested_quotewords() and quotewords() functions accept a delimiter (which
+can be a regular expression) and a list of lines and then breaks those lines
+up into a list of words ignoring delimiters that appear inside quotes.
+quotewords() returns all of the tokens in a single long list, while
+nested_quotewords() returns a list of token lists corresponding to the
+elements of @lines. parse_line() does tokenizing on a single string. The
+quotewords() functions simply call &parse_line(), so if youre only splitting
+one line you can call parse_line() directly and save a function call.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-ParseWords/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

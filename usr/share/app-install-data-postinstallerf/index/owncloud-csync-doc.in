@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>owncloud-csync-doc</b>'
+Comment='<span size="xx-large">User documentation for ocsync</span>'
+Comment3='
+The ocsync-doc package provides user documentation for ocsync.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://owncloud.org/sync-clients/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

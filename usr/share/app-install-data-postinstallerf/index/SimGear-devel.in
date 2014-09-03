@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>SimGear-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for SimGear</span>'
+Comment3='
+Development headers and libraries for building applications against
+SimGear.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://simgear.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

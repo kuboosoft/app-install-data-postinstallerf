@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>backintime-common</b>'
+Comment='<span size="xx-large">Common files for the backintime, a simple backup tool</span>'
+Comment3='
+Back In Time is a simple backup system for Linux inspired from
+?flyback project? and ?TimeVault?. The backup is done by taking
+snapshots of a specified set of directories.
+
+This package contains non GUI files used by different GUI frontends.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://backintime.le-web.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

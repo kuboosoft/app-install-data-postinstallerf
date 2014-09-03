@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>DevIL</b>'
+Comment='<span size="xx-large">A cross-platform image library</span>'
+Comment3='
+Developers Image Library (DevIL) is a programmers library to develop
+applications with very powerful image loading capabilities, yet is easy for a
+developer to learn and use. Ultimate control of images is left to the
+developer, so unnecessary conversions, etc. are not performed. DevIL utilizes
+a simple, yet powerful, syntax. DevIL can load, save, convert, manipulate,
+filter and display a wide variety of image formats.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://openil.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

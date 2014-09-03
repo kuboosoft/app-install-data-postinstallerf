@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>grfcodec</b>'
+Comment='<span size="xx-large">A suite of programs to modify Transport Tycoon Deluxes GRF files</span>'
+Comment3='
+A suite of programs to modify Transport Tycoon Deluxes GRF files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dev.openttdcoop.org/projects/grfcodec'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

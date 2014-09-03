@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>simplevalidation-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for simplevalidation</span>'
+Comment3='
+This package contains the API documentation for simplevalidation
+'
+License='GPLv2 or CDDL'
+Screenshot=''
+Url='http://kenai.com/projects/simplevalidation'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

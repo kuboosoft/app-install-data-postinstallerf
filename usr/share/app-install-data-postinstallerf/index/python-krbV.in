@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-krbV</b>'
+Comment='<span size="xx-large">Python extension module for Kerberos 5</span>'
+Comment3='
+python-krbV allows python programs to use Kerberos 5 authentication and security.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/python-krbV/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tabish-eeyek-fonts</b>'
+Comment='<span size="xx-large">Font for Meetei Mayek script</span>'
+Comment3='
+A TrueType Font, which allows you to read and write in Meetei Mayek script.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tabish.freeshell.org/eeyek/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

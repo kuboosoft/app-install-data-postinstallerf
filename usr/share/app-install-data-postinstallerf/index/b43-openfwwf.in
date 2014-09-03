@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>b43-openfwwf</b>'
+Comment='<span size="xx-large">Open firmware for some Broadcom 43xx series WLAN chips</span>'
+Comment3='
+Open firmware for some Broadcom 43xx series WLAN chips.
+Currently supported models are 4306, 4311(rev1), 4318 and 4320.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.ing.unibs.it/openfwwf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

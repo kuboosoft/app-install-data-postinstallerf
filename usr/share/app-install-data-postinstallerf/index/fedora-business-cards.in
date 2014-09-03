@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fedora-business-cards</b>'
+Comment='<span size="xx-large">The Fedora business card generator</span>'
+Comment3='
+fedora-business-cards is a tool written in Python to generate business cards
+for Fedora Project contributors.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/Business_cards'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-vatnumber</b>'
+Comment='<span size="xx-large">Python module to validate VAT numbers</span>'
+Comment3='
+Python module to validate VAT numbers.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/vatnumber/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

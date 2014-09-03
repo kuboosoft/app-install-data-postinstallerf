@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>skychart-data-dso</b>'
+Comment='<span size="xx-large">Additional Deep Sky Object catalogs for Skychart</span>'
+Comment3='
+Additional DSO catalogs for Skychart. This package install all the standard
+nebulae catalogs New General Catalogue; Principal Galaxies Catalogue;
+Lynds Bright Nebulae; Open Cluster Data; Globular Clusters in the Milky Way;
+Galactic Planetary Nebulae.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.ap-i.net/skychart/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

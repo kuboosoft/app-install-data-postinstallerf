@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>cntlm</b>'
+Comment='<span size="xx-large">Fast NTLM authentication proxy with tunneling</span>'
+Comment3='
+Cntlm is a fast and efficient NTLM proxy, with support for TCP/IP tunneling,
+authenticated connection caching, ACLs, proper daemon logging and behavior
+and much more. It has up to ten times faster responses than similar NTLM
+proxies, while using by orders or magnitude less RAM and CPU. Manual page
+contains detailed information.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cntlm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

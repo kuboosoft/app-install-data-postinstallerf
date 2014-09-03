@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>device-mapper-persistent-data</b>'
+Comment='<span size="xx-large">Device-mapper thin provisioning tools</span>'
+Comment3='
+ BuildRequires autoconf, expat-devel, libstdc++-devel, boost-devel
+ Requires expat
+
+ %description
+thin-provisioning-tools contains check,dump,restore,repair,rmap
+and metadata_size tools to manage device-mapper thin provisioning
+target metadata devices; cache check,dump,restore and repair tools
+to manage device-mapper cache metadata devices are included.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/jthornber/thin-provisioning-tools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bullet-devel</b>'
+Comment='<span size="xx-large">Development files for bullet</span>'
+Comment3='
+Development headers and libraries for bullet.
+
+URL          http//www.bulletphysics.com
+'
+License='zlib and MIT and BSD'
+Screenshot=''
+Url='http://www.bulletphysics.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

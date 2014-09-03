@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>p11-kit-devel</b>'
+Comment='<span size="xx-large">Development files for p11-kit</span>'
+Comment3='
+The p11-kit-devel package contains libraries and header files for
+developing applications that use p11-kit.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://p11-glue.freedesktop.org/p11-kit.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

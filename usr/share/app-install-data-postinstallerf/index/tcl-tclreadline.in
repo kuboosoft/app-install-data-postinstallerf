@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>tcl-tclreadline</b>'
+Comment='<span size="xx-large">GNU Readline extension for Tcl/Tk</span>'
+Comment3='
+The tclreadline package makes the GNU Readline library available
+for interactive tcl shells. This includes history expansion and
+file/command completion. Command completion for all tcl/tk commands
+is provided and command completion for user defined commands can
+be easily added. Tclreadline can also be used for tcl scripts which
+want to use a shell like input interface.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://tclreadline.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

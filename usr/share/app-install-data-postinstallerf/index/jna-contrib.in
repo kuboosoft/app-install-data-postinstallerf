@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jna-contrib</b>'
+Comment='<span size="xx-large">Contrib for jna</span>'
+Comment3='
+This package contains the contributed examples for jna.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://jna.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

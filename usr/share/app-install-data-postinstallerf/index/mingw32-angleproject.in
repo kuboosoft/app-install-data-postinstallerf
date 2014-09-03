@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mingw32-angleproject</b>'
+Comment='<span size="xx-large">Almost Native Graphics Layer Engine for Win32</span>'
+Comment3='
+ANGLE is a conformant implementation of the OpenGL ES 2.0 specification that
+is hardware?accelerated via Direct3D. ANGLE v1.0.772 was certified compliant
+by passing the ES 2.0.3 conformance tests in October 2011. ANGLE also provides
+an implementation of the EGL 1.4 specification.
+
+ANGLE is used as the default WebGL backend for both Google Chrome and
+Mozilla Firefox on Windows platforms. Chrome uses ANGLE for all graphics
+rendering on Windows, including the accelerated Canvas2D implementation
+and the Native Client sandbox environment.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/angleproject/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

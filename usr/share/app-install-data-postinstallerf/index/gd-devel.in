@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gd-devel</b>'
+Comment='<span size="xx-large">The development libraries and header files for gd</span>'
+Comment3='
+The gd-devel package contains the development libraries and header
+files for gd, a graphics library for creating PNG and JPEG graphics.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://libgd.bitbucket.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

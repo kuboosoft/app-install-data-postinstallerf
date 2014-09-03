@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ardour</b>'
+Comment='<span size="xx-large">Multichannel Digital Audio Workstation</span>'
+Comment3='
+Ardour is a multichannel hard disk recorder (HDR) and digital audio workstation
+(DAW). It is capable of simultaneous recording 24 or more channels of 32 bit
+audio at 48kHz. Ardour is intended to function as a "professional" HDR system,
+replacing dedicated hardware solutions such as the Mackie HDR, the Tascam 2424
+and more traditional tape systems like the Alesis ADAT series. It is also
+intended to provide the same or better functionality as software systems such
+as ProTools, Samplitude, Logic Audio, Nuendo and Cubase VST (we acknowledge
+these and all other names as trademarks of their respective owners). It
+supports MIDI Machine Control, and so can be controlled from any MMC
+controller, such as the Mackie Digital 8 Bus mixer and many other modern
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ardour.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

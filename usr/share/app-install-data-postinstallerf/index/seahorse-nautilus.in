@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>seahorse-nautilus</b>'
+Comment='<span size="xx-large">PGP encryption and signing for nautilus</span>'
+Comment3='
+Seahorse nautilus is an extension for nautilus which allows encryption
+and decryption of OpenPGP files using GnuPG.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://live.gnome.org/Seahorse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

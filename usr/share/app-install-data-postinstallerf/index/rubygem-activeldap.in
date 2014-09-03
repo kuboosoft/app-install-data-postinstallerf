@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-activeldap</b>'
+Comment='<span size="xx-large">Ruby/ActiveLdap is a object-oriented API to LDAP</span>'
+Comment3='
+Ruby/ActiveLdap is a ruby extension library which provides a clean objected
+oriented interface to the Ruby/LDAP library.  It was inspired by ActiveRecord.
+This is not nearly as clean or as flexible as ActiveRecord, but it is still
+trivial to define new objects and manipulate them with minimal difficulty.
+'
+License='(GPLv2+ or Ruby) and (GPLv2 or Ruby)'
+Screenshot=''
+Url='http://rubyforge.org/projects/ruby-activeldap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

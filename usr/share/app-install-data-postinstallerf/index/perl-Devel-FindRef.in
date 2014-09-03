@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Devel-FindRef</b>'
+Comment='<span size="xx-large">Where is that reference to my variable hiding?</span>'
+Comment3='
+Tracking down reference problems (e.g. you expect some object to be
+destroyed, but there are still references to it that keep it alive) can be
+very hard. Fortunately, perl keeps track of all its values, so tracking
+references "backwards" is usually possible.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-FindRef/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

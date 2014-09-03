@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>bind-utils</b>'
+Comment='<span size="xx-large">Utilities for querying DNS name servers</span>'
+Comment3='
+Bind-utils contains a collection of utilities for querying DNS (Domain
+hosts. These tools will provide you with the IP addresses for given
+host names, as well as other information about registered domains and
+network addresses.
+
+You should install bind-utils if you need to get information from DNS name
+servers.
+'
+License='ISC'
+Screenshot=''
+Url='http://www.isc.org/products/BIND/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

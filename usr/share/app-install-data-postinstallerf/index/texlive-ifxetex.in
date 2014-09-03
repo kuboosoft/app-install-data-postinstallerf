@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-ifxetex</b>'
+Comment='<span size="xx-large">Am I running under XeTeX?</span>'
+Comment3='
+A simple package which provides an \ifxetex conditional, so
+that other code can determine that it is running under XeTeX.
+The package requires the e-TeX extensions to the TeX primitive
+set.
+
+date 2009-01-27 083055 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>the_silver_searcher</b>'
+Comment='<span size="xx-large">Super-fast text searching tool</span>'
+Comment3='
+The Silver Searcher is a code searching tool similar to ack,
+with a focus on speed.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='https://github.com/ggreer/the_silver_searcher'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

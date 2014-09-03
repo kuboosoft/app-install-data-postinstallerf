@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>rubygem-recaptcha</b>'
+Comment='<span size="xx-large">Helpers for the reCAPTCHA API</span>'
+Comment3='
+This plug-in adds helpers for the reCAPTCHA API.
+In your views you can use the recaptcha_tags method
+to embed the needed JavaScript, and you can validate
+in your controllers with verify_recaptcha.
+
+Beforehand you need to configure Recaptcha with your
+custom private and public key. You may find detailed
+examples below.
+Exceptions will be raised if you call these methods
+and the keys can?t be found.
+'
+License='MIT'
+Screenshot=''
+Url='http://rubygems.org/gems/recaptcha'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

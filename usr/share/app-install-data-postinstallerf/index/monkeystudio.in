@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>monkeystudio</b>'
+Comment='<span size="xx-large">Free cross-platform Qt 4 IDE</span>'
+Comment3='
+MonkeyStudio is a cross-platform Integrated Development Environment ( IDE )
+aiming to become a Rapid Application Development ( RAD ) environment.
+MonkeyStudio runs everywhere Qt 4.4.0 ( minimum required to build it )
+is available as a shared library. It is extensible via a great and powerful
+plug-in system which help make it do nearly anything you want and support
+virtually any kind of project type for which a plug-in exists or is created.
+The primary goal of MonkeyStudio was to manage Qt4 projects as best
+as possible, it directly uses .pro files and does not create intrusive or
+unsightly configuration files. MonkyStudio is also a multi language
+code editor too ( JavaScript, XML, ... ).
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.monkeystudio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

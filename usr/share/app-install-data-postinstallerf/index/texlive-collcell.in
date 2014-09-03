@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-collcell</b>'
+Comment='<span size="xx-large">Collect contents of a tabular cell as argument to a macro</span>'
+Comment3='
+The package provides macros that collect the content of a
+tabular cell, and offer them as an argument to a macro. Special
+care is taken to remove all aligning macros inserted by tabular
+from the cell content. The macros also work in the last column
+of a table, but do not support verbatim material inside the
+cells.
+
+date 2011-02-27 215429 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

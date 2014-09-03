@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libabw-devel</b>'
+Comment='<span size="xx-large">Development files for libabw</span>'
+Comment3='
+The libabw-devel package contains libraries and header files for
+developing applications that use libabw.
+
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/libabw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

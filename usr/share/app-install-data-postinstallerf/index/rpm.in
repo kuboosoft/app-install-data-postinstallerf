@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rpm</b>'
+Comment='<span size="xx-large">The RPM package management system</span>'
+Comment3='
+The RPM Package Manager (RPM) is a powerful command line driven
+package management system capable of installing, uninstalling,
+verifying, querying, and updating software packages. Each software
+package consists of an archive of files along with information about
+the package like its version, a description, etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rpm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

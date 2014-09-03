@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PyQuante-libint</b>'
+Comment='<span size="xx-large">Libint integration to PyQuante</span>'
+Comment3='
+This package contains integration of PyQuante with the libint library
+for computing two-electron integrals. It is much faster than the
+normal routines in PyQuante.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pyquante.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mate-control-center-filesystem</b>'
+Comment='<span size="xx-large">MATE Control Center directories</span>'
+Comment3='
+The MATE control-center provides a number of extension points
+for applications. This package contains directories where applications
+can install configuration files that are picked up by the control-center
+utilities.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

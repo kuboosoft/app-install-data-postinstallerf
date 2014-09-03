@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>atool</b>'
+Comment='<span size="xx-large">A perl script for managing file archives of various types</span>'
+Comment3='
+atool is a script for managing file archives of various types.
+
+It includes aunpack (to extract archives), apack (to create archives),
+als (to list files), acat (to extract files to the standard output),
+etc.
+atool relies on external programs to handle the archives.
+It determines the archive types using file extensions whenever possible,
+with a fallback on file.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/atool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

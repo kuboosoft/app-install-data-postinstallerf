@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gecode-examples</b>'
+Comment='<span size="xx-large">Example code for gecode</span>'
+Comment3='
+The gecode-examples package contains example code for gecode.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gecode.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

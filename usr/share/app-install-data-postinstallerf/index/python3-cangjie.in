@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-cangjie</b>'
+Comment='<span size="xx-large">Python bindings to libcangjie</span>'
+Comment3='
+Python bindings to libcangjie, the library implementing Cangjie and Quick
+input methods.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://cangjians.github.io/projects/pycangjie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

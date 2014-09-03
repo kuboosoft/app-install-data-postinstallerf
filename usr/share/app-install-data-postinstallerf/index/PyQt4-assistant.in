@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>PyQt4-assistant</b>'
+Comment='<span size="xx-large">Python bindings for QtAssistant</span>'
+Comment3='
+Python bindings for QtAssistant.
+'
+License='(GPLv3 or GPLv2 with exceptions) and BSD'
+Screenshot=''
+Url='http://www.riverbankcomputing.com/software/pyqt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

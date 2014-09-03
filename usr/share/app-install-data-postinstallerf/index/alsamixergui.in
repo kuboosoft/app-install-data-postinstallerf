@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>alsamixergui</b>'
+Comment='<span size="xx-large">GUI mixer for ALSA sound devices</span>'
+Comment3='
+alsamixergui is a FLTK based frontend for alsamixer. It is written
+directly on top of the alsamixer source, leaving the original source
+intact, only adding a couple of ifdefs, and some calls to the gui
+part, so it provides exactly the same functionality, but with a
+graphical userinterface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='ftp://www.iua.upf.es/pub/mdeboer/projects/alsamixergui'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

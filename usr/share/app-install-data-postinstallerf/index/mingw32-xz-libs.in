@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-xz-libs</b>'
+Comment='<span size="xx-large">Libraries for decoding LZMA compression</span>'
+Comment3='
+Libraries for decoding files compressed with LZMA or XZ utils.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tukaani.org/xz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pl-odbc</b>'
+Comment='<span size="xx-large">SWI-Prolog ODBC interface</span>'
+Comment3='
+The value of RDMS for Prolog is often over-estimated, as Prolog itself can
+manage substantial amounts of data. Nevertheless a Prolog/RDMS interface
+provides advantages if data is already provided in an RDMS, data must be
+shared with other applications, there are strong persistency requirements
+or there is too much data to fit in memory.
+
+The popularity of ODBC makes it possible to design a single
+foreign-language module that provides RDMS access for a wide variety of
+databases on a wide variety of platforms. The SWI-Prolog RDMS interface is
+closely modeled after the ODBC API. This API is rather low-level, but
+'
+License='(GPLv2+ with exceptions or Artistic 2.0) and (GPLv2+ with exceptions) and LGPLv2+ and LGPLv2 and UCD and Public Domain and GPLv3+'
+Screenshot=''
+Url='http://www.swi-prolog.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

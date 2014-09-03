@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wine-filesystem</b>'
+Comment='<span size="xx-large">Filesystem directories for wine</span>'
+Comment3='
+Filesystem directories and basic configuration for wine.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

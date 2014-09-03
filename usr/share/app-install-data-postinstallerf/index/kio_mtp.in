@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kio_mtp</b>'
+Comment='<span size="xx-large">An MTP KIO slave for KDE</span>'
+Comment3='
+Provides KIO Access to MTP devices using the mtp/// protocol.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/base/kio-mtp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

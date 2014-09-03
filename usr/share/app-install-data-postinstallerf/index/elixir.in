@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>elixir</b>'
+Comment='<span size="xx-large">A modern approach to programming for the Erlang VM</span>'
+Comment3='
+Elixir is a programming language built on top of the Erlang VM.
+As Erlang, it is a functional language built to support distributed,
+fault-tolerant, non-stop applications with hot code swapping.
+'
+License='ASL 2.0 and ERPL'
+Screenshot=''
+Url='http://elixir-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

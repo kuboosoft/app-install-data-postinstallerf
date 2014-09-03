@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pakchois-devel</b>'
+Comment='<span size="xx-large">Development library and C header files for the pakchois library</span>'
+Comment3='
+The development library for the pakchois PKCS#11 wrapper library.
+
+URL          http//www.manyfish.co.uk/pakchois/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.manyfish.co.uk/pakchois/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

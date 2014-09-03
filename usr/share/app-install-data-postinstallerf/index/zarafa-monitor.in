@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zarafa-monitor</b>'
+Comment='<span size="xx-large">Quota Monitor for the Zarafa Collaboration Platform</span>'
+Comment3='
+The zarafa-monitor package includes the Zarafa Monitoring service which
+is responsible for checking the users store (mailbox) size, and sending
+them (and administrators) a warning e-mail when limits are exceeded.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

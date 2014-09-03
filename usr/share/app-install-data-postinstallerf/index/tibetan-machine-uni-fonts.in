@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tibetan-machine-uni-fonts</b>'
+Comment='<span size="xx-large">Tibetan Machine Uni font for Tibetan, Dzongkha and Ladakhi</span>'
+Comment3='
+Tibetan Machine Uni is an TrueType OpenType, Unicode font released by THDL
+project. The font supports Tibetan, Dzongkha and Ladakhi in dbu-can script
+with full support for the Sanskrit combinations found in chos skad text.
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.thlib.org/tools/#wiki=/access/wiki/site/26a34146-33a6-48ce-001e-f16ce7908a6a/tibetan%20machine%20uni.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

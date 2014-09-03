@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ucl</b>'
+Comment='<span size="xx-large">Portable lossless data compression library</span>'
+Comment3='
+UCL is a portable lossless data compression library written in ANSI C.
+UCL implements a number of compression algorithms that achieve an
+excellent compression ratio while allowing *very* fast decompression.
+Decompression requires no additional memory.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.oberhumer.com/opensource/ucl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

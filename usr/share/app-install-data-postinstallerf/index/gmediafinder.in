@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gmediafinder</b>'
+Comment='<span size="xx-large">A program to stream an/or download files</span>'
+Comment3='
+Gmediafinder is a GTK application to stream or download videos and music
+from various YouTube-like sites without having flash installed.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://gnomefiles.org/content/show.php/Gmediafinder?content=138588'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

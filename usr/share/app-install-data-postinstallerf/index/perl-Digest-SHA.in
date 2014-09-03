@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Digest-SHA</b>'
+Comment='<span size="xx-large">Perl extension for SHA-1/224/256/384/512</span>'
+Comment3='
+DigestSHA is a complete implementation of the NIST Secure Hash Standard. It
+gives Perl programmers a convenient way to calculate SHA-1, SHA-224, SHA-256,
+SHA-384, SHA-512, SHA-512/224, and SHA-512/256 message digests. The module can
+handle all types of input, including partial-byte data.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Digest-SHA/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

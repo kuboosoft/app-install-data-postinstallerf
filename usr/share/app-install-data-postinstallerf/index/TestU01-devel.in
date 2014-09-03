@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>TestU01-devel</b>'
+Comment='<span size="xx-large">Headers and shared object symbolic links for the TestU01</span>'
+Comment3='
+Headers and shared object symbolic links for the TestU01.
+
+URL          http//www.iro.umontreal.ca/~simardr/testu01/tu01.html
+'
+License='Custom (Non-Commercial Use Only)'
+Screenshot=''
+Url='http://www.iro.umontreal.ca/~simardr/testu01/tu01.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

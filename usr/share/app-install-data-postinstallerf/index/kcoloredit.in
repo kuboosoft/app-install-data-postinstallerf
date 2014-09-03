@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kcoloredit</b>'
+Comment='<span size="xx-large">A color palette Editor</span>'
+Comment3='
+KColorEdit is a palette files editor. It can be used for editing
+color palettes and for color choosing and naming.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

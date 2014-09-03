@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-metalogo</b>'
+Comment='<span size="xx-large">Extended TeX logo macros</span>'
+Comment3='
+This package exposes spacing parameters for various TeX logos
+to the end user, to optimise the logos for different fonts.
+Written especially for XeLaTeX users.
+
+date 2010-05-29 174959 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

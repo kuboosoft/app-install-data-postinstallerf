@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kcbench</b>'
+Comment='<span size="xx-large">Kernel compile benchmark</span>'
+Comment3='
+Compiles a linux kernel to benchmark a system or test its stability.
+'
+License='MIT'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/Packages/kcbench'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

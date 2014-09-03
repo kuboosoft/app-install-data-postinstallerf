@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gmp-static</b>'
+Comment='<span size="xx-large">Development tools for the GNU MP arbitrary precision library</span>'
+Comment3='
+The static libraries for using the GNU MP arbitrary precision library
+in applications.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://gmplib.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

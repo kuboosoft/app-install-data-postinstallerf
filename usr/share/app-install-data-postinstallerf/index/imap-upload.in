@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>imap-upload</b>'
+Comment='<span size="xx-large">A tool for uploading a local mbox file to IMAP4 server</span>'
+Comment3='
+IMAP Upload is a tool for uploading a local mbox file to IMAP4 server. The
+most stable way to migrate to Google Mail. The features include support for
+the mbox format, preserving the delivery time of the messages, automatic
+retry when the connection is aborted, keep a log of failed messages in mbox
+format, etc.
+'
+License='MIT'
+Screenshot=''
+Url='http://imap-upload.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

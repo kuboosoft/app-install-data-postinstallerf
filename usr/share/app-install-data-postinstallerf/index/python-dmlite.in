@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-dmlite</b>'
+Comment='<span size="xx-large">Python wrapper for dmlite</span>'
+Comment3='
+This package provides a python wrapper for dmlite.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm/wiki/Dpm/Dev/Dmlite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

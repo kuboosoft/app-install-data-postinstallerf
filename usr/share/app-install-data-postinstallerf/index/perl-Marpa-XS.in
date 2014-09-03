@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Marpa-XS</b>'
+Comment='<span size="xx-large">Language grammar parser module for Perl</span>'
+Comment3='
+MarpaXS is a XS version of Marpa.
+
+Marpa parses any language whose grammar can be written in BNF. That
+includes recursive grammars, ambiguous grammars, infinitely ambiguous
+grammars and grammars with useless or empty productions.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Marpa-XS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>orsa-devel</b>'
+Comment='<span size="xx-large">Development files for orsa</span>'
+Comment3='
+This package contains development files for orsa.
+
+URL          http//orsa.sourceforge.net
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://orsa.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

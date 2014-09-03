@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>acoustid-fingerprinter</b>'
+Comment='<span size="xx-large">Music AcoustID fingerprinting application</span>'
+Comment3='
+
+Acoustid fingerprinter is a cross-platform GUI application that uses
+Chromaprint to submit audio fingerprints from your music collection
+to the Acoustid database. Only tagged audio files are submitted.
+Files tagged by MusicBrainz applications such as Picard are preferred,
+but it will submit fingerprints for any files that have tags such as
+track title, artist name, album name, etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://acoustid.org/fingerprinter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

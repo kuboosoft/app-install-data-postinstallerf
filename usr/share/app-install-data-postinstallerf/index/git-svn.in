@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>git-svn</b>'
+Comment='<span size="xx-large">Git tools for importing Subversion repositories</span>'
+Comment3='
+Git tools for importing Subversion repositories.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://git-scm.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

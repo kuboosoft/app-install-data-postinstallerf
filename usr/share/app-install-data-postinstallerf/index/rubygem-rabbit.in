@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rabbit</b>'
+Comment='<span size="xx-large">RD-document-based presentation application</span>'
+Comment3='
+Rabbit is an RD-document-based presentation application.
+'
+License='GPLv2+ and CC-BY'
+Screenshot=''
+Url='http://rabbit-shocker.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

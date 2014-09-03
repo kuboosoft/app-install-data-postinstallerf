@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-newt-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-newt</span>'
+Comment3='
+The ocaml-newt-devel package contains libraries and signature files for
+developing applications that use ocaml-newt.
+
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://et.redhat.com/~rjones/ocaml-newt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

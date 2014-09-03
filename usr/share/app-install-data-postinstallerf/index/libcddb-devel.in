@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libcddb-devel</b>'
+Comment='<span size="xx-large">Development files for libcddb</span>'
+Comment3='
+Libcddb is a library that implements the different protocols (CDDBP,
+HTTP, SMTP) to access data on a CDDB server (e.g http//freedb.org/).
+This package contains development files (static libraries, headers)
+for libcddb.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libcddb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

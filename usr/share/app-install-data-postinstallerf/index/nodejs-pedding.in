@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-pedding</b>'
+Comment='<span size="xx-large">Just pedding for callback</span>'
+Comment3='
+Just pedding for callback
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/fengmk2/pedding'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

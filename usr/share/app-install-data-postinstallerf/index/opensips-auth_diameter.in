@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>opensips-auth_diameter</b>'
+Comment='<span size="xx-large">Performs authentication using a Diameter server</span>'
+Comment3='
+This module implements SIP authentication and authorization with DIAMETER
+server, namely DIameter Server Client (DISC).
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

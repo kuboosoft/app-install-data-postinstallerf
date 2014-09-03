@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freefem++-mpich</b>'
+Comment='<span size="xx-large">PDE solving tool - MPICH version</span>'
+Comment3='
+This package contains the MPICH version of FreeFem++.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freefem.org/ff++/index.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

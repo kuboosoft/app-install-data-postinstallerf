@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-proboscis</b>'
+Comment='<span size="xx-large">A test framework that extends Pythons built-in unit test</span>'
+Comment3='
+A test framework that extends Python?s built-in unit test module and Nose
+with features from TestNG, such as
+
+- Uses decorators instead of naming conventions.
+- Allows for TestNG style test methods, in which a class is initialized once
+  as an alternative to using class fields (see the example below).
+- Allows for explicit test dependencies and skipping of dependent tests
+  on failures.
+- Runs xUnit style classes if desired or needed for backwards compatibility.
+- Uses Nose if available (but doesnt require it), and works with many of
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/rackerlabs/python-proboscis'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

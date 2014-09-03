@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tzdata</b>'
+Comment='<span size="xx-large">Timezone data</span>'
+Comment3='
+This package contains data files with rules for various timezones around
+the world.
+'
+License='Public Domain'
+Screenshot=''
+Url='https://www.iana.org/time-zones'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

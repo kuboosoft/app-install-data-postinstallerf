@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>am-utils</b>'
+Comment='<span size="xx-large">Automount utilities including an updated version of Amd</span>'
+Comment3='
+Am-utils includes an updated version of Amd, the popular BSD
+automounter.  An automounter is a program which maintains a cache
+of mounted filesystems.  Filesystems are mounted when they are
+first referenced by the user and unmounted after a certain period of
+inactivity. Amd supports a variety of filesystems, including NFS, UFS,
+CD-ROMS and local drives.
+
+You should install am-utils if you need a program for automatically
+mounting and unmounting filesystems.
+'
+License='BSD'
+Screenshot=''
+Url='http://am-utils.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

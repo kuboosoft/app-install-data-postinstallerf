@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>sharutils</b>'
+Comment='<span size="xx-large">The GNU shar utilities for packaging and unpackaging shell archives</span>'
+Comment3='
+The sharutils package contains the GNU shar utilities, a set of tools for
+encoding and decoding packages of files (in binary or text format) in
+a special plain text format called shell archives (shar).  This format can be
+sent through e-mail (which can be problematic for regular binary files).  The
+shar utility supports a wide range of capabilities (compressing, uuencoding,
+splitting long files for multi-part mailings, providing check-sums), which
+make it very flexible at creating shar files.  After the files have been sent,
+the unshar tool scans mail messages looking for shar files.  Unshar
+automatically strips off mail headers and introductory text and then unpacks
+the shar files.
+'
+License='GPLv3+ and LGPLv3+ and (LGPLv3+ or BSD) and LGPLv2+ and Public Domain and GFDL'
+Screenshot=''
+Url='http://www.gnu.org/software/sharutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

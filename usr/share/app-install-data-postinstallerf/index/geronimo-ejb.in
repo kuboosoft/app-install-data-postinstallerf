@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>geronimo-ejb</b>'
+Comment='<span size="xx-large">Java EE: EJB API v3.1</span>'
+Comment3='
+Contains the Enterprise JavaBeans classes and interfaces that define the
+contracts between the enterprise bean and its clients and between the
+enterprise bean and the EJB container.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://geronimo.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

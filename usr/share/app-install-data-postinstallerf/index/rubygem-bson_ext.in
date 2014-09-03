@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-bson_ext</b>'
+Comment='<span size="xx-large">C extensions for Ruby BSON</span>'
+Comment3='
+C extensions to accelerate the Ruby BSON serialization. For more information
+about BSON, see http//bsonspec.org.  For information about MongoDB, see
+http//www.mongodb.org.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.mongodb.org/display/DOCS/BSON'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

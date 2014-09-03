@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>system-config-keyboard-base</b>'
+Comment='<span size="xx-large">system-config-keyboard base components</span>'
+Comment3='
+Base components of system-config-keyboard.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/system-config-keyboard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

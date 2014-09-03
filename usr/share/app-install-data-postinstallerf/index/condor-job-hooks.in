@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>condor-job-hooks</b>'
+Comment='<span size="xx-large">Condor Job Hooks</span>'
+Comment3='
+This package provides Condor job hooks that communicate with a translation
+daemon which interfaces with job delivery protocols outside of condors
+native job delivery protocol.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/grid/job_hooks.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

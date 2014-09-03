@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-rpm-editor</b>'
+Comment='<span size="xx-large">RPM Spec file editor for Eclipse</span>'
+Comment3='
+The Eclipse Spec file Editor package contains Eclipse plugins that are
+useful for maintenance of RPM spec files within the Eclipse IDE.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/linuxtools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

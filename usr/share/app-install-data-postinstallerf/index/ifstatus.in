@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ifstatus</b>'
+Comment='<span size="xx-large">Command line real time interface graphs using ncurses</span>'
+Comment3='
+IFStatus was developed for Linux users that are usually in console mode.
+It is a simple, easy to use program for displaying commonly needed / wanted
+statistics in real time about ingoing and outgoing traffic of multiple
+network interfaces that is usually hard to find, with a simple and
+effecient view. It is the substitute for PPPStatus and EthStatus projects.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ifstatus.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

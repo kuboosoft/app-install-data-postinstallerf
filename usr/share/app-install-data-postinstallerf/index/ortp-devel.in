@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ortp-devel</b>'
+Comment='<span size="xx-large">Development libraries for ortp</span>'
+Comment3='
+Libraries and headers required to develop software with ortp.
+
+URL          http//www.linphone.org/eng/documentation/dev/ortp.html
+'
+License='LGPLv2+ and VSL'
+Screenshot=''
+Url='http://www.linphone.org/eng/documentation/dev/ortp.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

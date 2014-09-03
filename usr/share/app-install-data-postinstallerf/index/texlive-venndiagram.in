@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-venndiagram</b>'
+Comment='<span size="xx-large">Creating Venn diagrams with TikZ</span>'
+Comment3='
+The package assists generation of simple two- and three-set
+Venn diagrams for lectures or assignment sheets. The package
+requires the TikZ package.
+
+date 2012-10-24 153613 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

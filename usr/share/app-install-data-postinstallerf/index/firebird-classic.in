@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>firebird-classic</b>'
+Comment='<span size="xx-large">Classic server for Firebird SQL RDBMS</span>'
+Comment3='
+This is the Classic server Firebird SQL RDBMS.
+It can also be used as an embedded server, when paired with the
+client-embedded package.
+'
+License='Interbase'
+Screenshot=''
+Url='http://www.firebirdsql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

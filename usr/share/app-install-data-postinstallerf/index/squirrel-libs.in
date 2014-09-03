@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>squirrel-libs</b>'
+Comment='<span size="xx-large">Libraries needed to run Squirrel scripts</span>'
+Comment3='
+Libraries needed to run Squirrel scripts.
+
+URL          http//squirrel-lang.org/
+'
+License='zlib'
+Screenshot=''
+Url='http://squirrel-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

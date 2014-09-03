@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>trackballs-music</b>'
+Comment='<span size="xx-large">In-game music for Trackballs</span>'
+Comment3='
+Some great music to listen to while playing Trackballs.
+'
+License='GPLv2+ and EFML'
+Screenshot=''
+Url='http://sourceforge.net/projects/trackballs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

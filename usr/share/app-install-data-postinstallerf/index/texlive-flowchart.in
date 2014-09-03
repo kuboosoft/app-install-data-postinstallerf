@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-flowchart</b>'
+Comment='<span size="xx-large">Shapes for drawing flowcharts, using TikZ</span>'
+Comment3='
+The package provides a set of traditional flowchart element
+shapes; the documentation shows how to build a flowchart from
+these elements, using pgf/TikZ. The package also requires the
+makeshape package.
+
+date 2013-02-18 181735 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

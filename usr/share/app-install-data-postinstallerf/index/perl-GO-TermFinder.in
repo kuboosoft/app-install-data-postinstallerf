@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-GO-TermFinder</b>'
+Comment='<span size="xx-large">Identify GO nodes that annotate a group of genes with a significant p-value</span>'
+Comment3='
+This package is intended to provide a method whereby the P-values of a set
+of GO annotations can be determined for a set of genes, based on the number
+of genes that exist in the particular genome (or in a selected background
+distribution from the genome), and their annotation, and the frequency with
+which the GO nodes are annotated across the provided set of genes. The
+P-value is simply calculated using the hypergeometric distribution as the
+probability of x or more out of n genes having a given annotation, given
+that G of N have that annotation in the genome in general. We chose the
+hypergeometric distribution (sampling without replacement) since it is more
+accurate, though slower to calculate, than the binomial distribution
+'
+License='MIT'
+Screenshot=''
+Url='http://search.cpan.org/dist/Go-TermFinder/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

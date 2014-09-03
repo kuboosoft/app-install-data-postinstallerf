@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>redet</b>'
+Comment='<span size="xx-large">Regular expression development and execution tool</span>'
+Comment3='
+Redet is a tool for developing and executing regular expressions using any of
+more than 50 search programs, editors, and programming languages, intended
+both for developing regular expressions for use elsewhere and as a search tool
+in its own right.
+
+Additional features include persistent history, extensive help, a variety of
+character entry tools, and the ability to change locale while running.
+The documentation for this package is in redet-doc.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.billposer.org/Software/redet.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

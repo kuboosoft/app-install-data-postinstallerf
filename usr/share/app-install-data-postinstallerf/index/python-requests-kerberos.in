@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-requests-kerberos</b>'
+Comment='<span size="xx-large">A Kerberos authentication handler for python-requests</span>'
+Comment3='
+Requests is an HTTP library, written in Python, for human beings. This library
+adds optional Kerberos/GSSAPI authentication support and supports mutual
+authentication.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/requests/requests-kerberos'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

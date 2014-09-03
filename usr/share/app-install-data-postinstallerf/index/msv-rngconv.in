@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>msv-rngconv</b>'
+Comment='<span size="xx-large">Multi-Schema Validator RNG Converter</span>'
+Comment3='
+Multi-Schema Validator RNG Converter.
+'
+License='BSD and ASL 1.1'
+Screenshot=''
+Url='http://msv.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

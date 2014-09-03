@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>cdrdao</b>'
+Comment='<span size="xx-large">Writes audio CD-Rs in disk-at-once (DAO) mode</span>'
+Comment3='
+Cdrdao records audio CD-Rs in disk-at-once (DAO) mode, based on a
+textual description of the CD contents. Recording in DAO mode writes
+the complete disc (lead-in, one or more tracks, and lead-out) in a
+single step. DAO allows full control over the length and the contents
+of pre-gaps, the pause areas between tracks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cdrdao.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-showtags</b>'
+Comment='<span size="xx-large">Print the tags of bibliography entries</span>'
+Comment3='
+Prints the tag right-aligned on each line of the bibliography.
+
+date 2010-11-05 084820 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

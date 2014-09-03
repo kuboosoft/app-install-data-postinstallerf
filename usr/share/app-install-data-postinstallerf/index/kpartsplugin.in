@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>kpartsplugin</b>'
+Comment='<span size="xx-large">KParts technology to embed file viewers into non-KDE browsers</span>'
+Comment3='
+This software implements a plug-in for Netscape-compatible browsers in a Unix
+environment. This plug-in uses KDEs KParts technology to embed file viewers
+(e.g. for PDF files) into non-KDE browsers. Tested browsers include both
+Mozilla Firefox and Opera.
+With this plug-in, you can e.g. view PDF files in Firefox using Okular as an
+embedded plug-in.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://kde-apps.org/content/show.php?content=125066'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

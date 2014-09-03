@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hunspell-devel</b>'
+Comment='<span size="xx-large">Files for developing with hunspell</span>'
+Comment3='
+Includes and definitions for developing with hunspell
+
+URL          http//hunspell.sourceforge.net/
+'
+License='LGPLv2+ or GPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://hunspell.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

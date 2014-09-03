@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>archlinux-keyring</b>'
+Comment='<span size="xx-large">GPG keys used by Arch distribution to sign packages</span>'
+Comment3='
+A set of GPG keys used to sign packages in the Arch distribution,
+which can be used to verify that downloaded Arch packages are
+valid.
+'
+License='Public Domain'
+Screenshot=''
+Url='https://projects.archlinux.org/archlinux-keyring.git/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

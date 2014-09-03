@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bsf</b>'
+Comment='<span size="xx-large">Bean Scripting Framework</span>'
+Comment3='
+Bean Scripting Framework (BSF) is a set of Java classes which provides
+scripting language support within Java applications, and access to Java
+objects and methods from scripting languages. BSF allows one to write
+JSPs in languages other than Java while providing access to the Java
+class library. In addition, BSF permits any Java application to be
+implemented in part (or dynamically extended) by a language that is
+embedded within it. This is achieved by providing an API that permits
+calling scripting language engines from within Java, as well as an
+object registry that exposes Java objects to these scripting language
+engines.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/bsf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

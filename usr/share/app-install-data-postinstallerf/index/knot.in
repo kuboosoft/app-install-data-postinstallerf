@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>knot</b>'
+Comment='<span size="xx-large">An authoritative DNS daemon</span>'
+Comment3='
+Knot DNS is a high-performance authoritative DNS server implementation.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.knot-dns.cz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pam-kwallet</b>'
+Comment='<span size="xx-large">PAM module for KWallet</span>'
+Comment3='
+PAM module for KWallet.
+
+URL          http//www.kde.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

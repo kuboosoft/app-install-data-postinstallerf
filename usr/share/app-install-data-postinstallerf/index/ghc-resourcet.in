@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-resourcet</b>'
+Comment='<span size="xx-large">Deterministic allocation and freeing of scarce resources</span>'
+Comment3='
+Allocate resources which are guaranteed to be released.
+All register cleanup actions live in the IO monad, not the main monad.
+This allows both more efficient code, and for monads to be transformed.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/resourcet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

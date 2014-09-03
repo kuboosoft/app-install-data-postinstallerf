@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dbus</b>'
+Comment='<span size="xx-large">D-BUS message bus</span>'
+Comment3='
+D-BUS is a system for sending messages between applications. It is
+used both for the system-wide message bus service, and as a
+per-user-login-session messaging facility.
+'
+License='GPLv2+ or AFL'
+Screenshot=''
+Url='http://www.freedesktop.org/software/dbus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

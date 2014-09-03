@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-kotex-oblivoir</b>'
+Comment='<span size="xx-large">A LaTeX document class for typesetting Korean documents</span>'
+Comment3='
+The class is based on memoir, and is adapted to typesetting
+Korean documents. The bundle (of class and associated packages)
+belongs to the ko.TeX bundle.
+
+date 2013-11-03 100542 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

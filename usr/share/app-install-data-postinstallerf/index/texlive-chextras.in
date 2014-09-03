@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-chextras</b>'
+Comment='<span size="xx-large">A companion package for the Swiss typesetter</span>'
+Comment3='
+The package simplifies the preparation of Swiss documents and
+letters by setting up linguistic and common packages. While it
+is a useful addition to the chletter document class, it is not
+tied to it and may be used as a general purpose package.
+
+date 2012-07-20 193958 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

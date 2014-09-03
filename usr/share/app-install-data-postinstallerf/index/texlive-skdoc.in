@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-skdoc</b>'
+Comment='<span size="xx-large">Documentation and extraction for packages and document classes</span>'
+Comment3='
+The class provides the functionality and implementation of
+packages and document classes. It is loosely based on the ydoc
+and ltxdoc classes, but has a number of incompatible
+differences. The class defines a MacroCode environment which
+offers an alternative to the the usual docstrip method of
+installing packages. It has the ability to generate both
+documentation and code in a single run of a single file.
+
+date 2013-11-28 235630 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

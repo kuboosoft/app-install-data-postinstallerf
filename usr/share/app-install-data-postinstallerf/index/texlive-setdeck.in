@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-setdeck</b>'
+Comment='<span size="xx-large">Typeset cards for Set</span>'
+Comment3='
+The package will typeset cards for use in a game of Set.
+
+date 2012-10-17 150715 +0200
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

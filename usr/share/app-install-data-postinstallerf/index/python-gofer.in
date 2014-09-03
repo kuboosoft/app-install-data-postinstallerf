@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-gofer</b>'
+Comment='<span size="xx-large">Gofer python lib modules</span>'
+Comment3='
+Contains gofer python lib modules.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/gofer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

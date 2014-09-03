@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-astropy</b>'
+Comment='<span size="xx-large">A Community Python Library for Astronomy</span>'
+Comment3='
+The Astropy project is a common effort to develop a single core package
+for Astronomy.  Major packages such as PyFITS, PyWCS, vo, and asciitable
+already merged in, and many more components being worked on. In
+particular, we are developing imaging, photometric, and spectroscopic
+functionality, as well as frameworks for cosmology, unit handling, and
+coordinate transformations.
+'
+License='BSD'
+Screenshot=''
+Url='http://astropy.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

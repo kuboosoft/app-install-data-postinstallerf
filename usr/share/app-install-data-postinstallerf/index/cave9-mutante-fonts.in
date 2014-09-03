@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cave9-mutante-fonts</b>'
+Comment='<span size="xx-large">Mutante font used by the HUD in cave9 game</span>'
+Comment3='
+Fantasy/display font used by the cave9 game, this font has only the basic
+characters used in the Portuguese language was made as an experiment by the
+designer Jonas K?hner (http//www.criatipos.com/) the font was altered by
+the game developer to also include numbers.
+'
+License='CC-BY'
+Screenshot=''
+Url='http://code.google.com/p/cave9'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

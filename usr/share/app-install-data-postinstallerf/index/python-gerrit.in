@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-gerrit</b>'
+Comment='<span size="xx-large">Python interface to Gerrit</span>'
+Comment3='
+python-gerrit is a Python interface to Gerrit, a code review system
+for Git.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/bcwaldon/python-gerrit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

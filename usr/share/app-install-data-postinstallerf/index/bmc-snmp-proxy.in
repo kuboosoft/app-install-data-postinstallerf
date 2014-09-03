@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bmc-snmp-proxy</b>'
+Comment='<span size="xx-large">Reconfigure SNMP to include host SNMP agent within BMC</span>'
+Comment3='
+Given a host with BMC, this package would extend system configuration
+of net-snmp to include redirections to BMC based SNMP.
+'
+License='BSD'
+Screenshot=''
+Url='http://ipmitool.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

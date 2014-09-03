@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>irssi-xmpp</b>'
+Comment='<span size="xx-large">XMPP plugin into irssi</span>'
+Comment3='
+Irssi-xmpp is an irssi plugin to connect to the Jabber network.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://cybione.org/~irssi-xmpp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

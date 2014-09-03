@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>system-autodeath</b>'
+Comment='<span size="xx-large">Automatically disable system default route on a specific date</span>'
+Comment3='
+system-autodeath is a cron job that runs daily, checking the current
+time versus a configured death date for the machine. Within one week
+of this date the system will emit log notices to syslog.alert notifying
+that the system will remove its default network route on a specific date.
+On the date the system will have its default route deleted. It
+will continue to do this every day until someone does something about it.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://skvidal.fedorapeople.org/system-autodeath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

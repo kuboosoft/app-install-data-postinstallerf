@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rsyslog</b>'
+Comment='<span size="xx-large">Enhanced system logging and kernel message trapping daemon</span>'
+Comment3='
+Rsyslog is an enhanced, multi-threaded syslog daemon. It supports MySQL,
+syslog/TCP, RFC 3195, permitted sender lists, filtering on any message part,
+and fine grain output format control. It is compatible with stock sysklogd
+and can be used as a drop-in replacement. Rsyslog is simple to set up, with
+advanced features suitable for enterprise-class, encryption-protected syslog
+relay chains.
+'
+License='(GPLv3+ and ASL 2.0)'
+Screenshot=''
+Url='http://www.rsyslog.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-dpkt</b>'
+Comment='<span size="xx-large">Simple packet creation/parsing library</span>'
+Comment3='
+Fast, simple packet creation and parsing library
+with definitions for the basic TCP/IP protocols.
+'
+License='BSD'
+Screenshot=''
+Url='http://dpkt.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

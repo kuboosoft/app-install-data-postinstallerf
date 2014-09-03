@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>iax</b>'
+Comment='<span size="xx-large">Implementation of Inter-Asterisk eXchange protocol</span>'
+Comment3='
+Inter Asterisk eXchange, lovingly called IAX (pronounced eeks), is the
+protocol used by the Asterisk PBX system for inter-asterisk-communication.
+Other applications may use libiax to communicate with each other and other
+asterisk servers.  IAX is a high performance, feature rich protocol unrelated
+to SIP or H.323.  Its single-socket design allows it to interoperate with NAT
+and PAT masquerade firewalls.  It supports internationalization, remote
+dialplans, and voice, HTML, image, DTMF, and video content.
+
+'
+License='GPL+ and LGPLv2+'
+Screenshot=''
+Url='http://downloads.digium.com/pub/libiax/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

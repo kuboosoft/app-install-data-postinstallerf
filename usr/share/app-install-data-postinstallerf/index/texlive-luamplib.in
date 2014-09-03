@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-luamplib</b>'
+Comment='<span size="xx-large">Use LuaTeXs built-in MetaPost interpreter</span>'
+Comment3='
+The package enables the user to directly incorporate MetaPost
+diagrams into a document, using LuaTeXs built-in MetaPost
+library. The facility is only available in PDF mode.
+
+date 2013-12-23 113533 +0100
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

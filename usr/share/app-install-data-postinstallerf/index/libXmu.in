@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libXmu</b>'
+Comment='<span size="xx-large">X.Org X11 libXmu/libXmuu runtime libraries</span>'
+Comment3='
+X.Org X11 libXmu/libXmuu runtime libraries
+
+URL          http//www.x.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

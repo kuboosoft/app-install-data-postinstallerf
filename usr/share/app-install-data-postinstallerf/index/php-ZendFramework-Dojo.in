@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-Dojo</b>'
+Comment='<span size="xx-large">Zend Framework Dojo Toolkit integration component</span>'
+Comment3='
+This package contains the Zend Framework Dojo Toolkit component.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

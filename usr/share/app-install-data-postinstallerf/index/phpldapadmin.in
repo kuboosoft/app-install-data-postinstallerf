@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>phpldapadmin</b>'
+Comment='<span size="xx-large">Web-based tool for managing LDAP servers</span>'
+Comment3='
+PhpLDAPadmin is a web-based LDAP client.
+It provides easy, anywhere-accessible, multi-language administration
+for your LDAP server. Its hierarchical tree-viewer and advanced search
+functionality make it intuitive to browse and administer your LDAP directory.
+
+Since it is a web application, this LDAP browser works on many platforms,
+making your LDAP server easily manageable from any location.
+PhpLDAPadmin is the perfect LDAP browser for the LDAP professional
+and novice alike. Its user base consists mostly of LDAP administration
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://phpldapadmin.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

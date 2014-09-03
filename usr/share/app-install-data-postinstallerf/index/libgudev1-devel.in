@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgudev1-devel</b>'
+Comment='<span size="xx-large">Header files for adding libudev support to applications that use glib</span>'
+Comment3='
+This package contains the header and pkg-config files for developing
+glib-based applications using libudev functionality.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/systemd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

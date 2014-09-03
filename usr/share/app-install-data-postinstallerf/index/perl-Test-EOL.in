@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-EOL</b>'
+Comment='<span size="xx-large">Check the correct line endings in your project</span>'
+Comment3='
+This module scans your project/distribution for any perl files (scripts,
+modules, etc.) with Windows line endings. It can also check for trailing
+whitespace.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-EOL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n chmsee
+Name=ChmSee
+Comment=HTML Help(CHM) viewer
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/chmsee-icon.png
+StartupNotify=true
+Categories=Utility;

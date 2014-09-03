@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wireless-tools-devel</b>'
+Comment='<span size="xx-large">Development headers for the wireless-tools package</span>'
+Comment3='
+Development headers for the wireless-tools package.
+
+URL          http//www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Frontier-RPC-Client</b>'
+Comment='<span size="xx-large">Frontier-RPC-Client Perl module</span>'
+Comment3='
+FrontierRPCClient implements UserLand Softwares XML RPC (Remote
+Procedure Calls using Extensible Markup Language).  FrontierRPCClient
+includes just client module for making requests to a server.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Frontier-RPC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

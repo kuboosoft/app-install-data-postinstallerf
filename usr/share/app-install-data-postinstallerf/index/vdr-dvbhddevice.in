@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdr-dvbhddevice</b>'
+Comment='<span size="xx-large">VDR output device plugin for TechnoTrend S2-6400 DVB cards</span>'
+Comment3='
+The dvbhddevice plugin implements a VDR output device for the "Full
+Featured TechnoTrend S2-6400" DVB cards.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tvdr.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

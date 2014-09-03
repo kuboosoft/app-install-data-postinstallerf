@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>czmq</b>'
+Comment='<span size="xx-large">High-level C binding for 0MQ (ZeroMQ)</span>'
+Comment3='
+CZMQ has the following goals
+  i) To wrap the ?MQ core API in semantics that are natural and lead to
+     shorter, more readable applications.
+ ii) To hide the differences between versions of ?MQ.
+iii) To provide a space for development of more sophisticated API semantics.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://czmq.zeromq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

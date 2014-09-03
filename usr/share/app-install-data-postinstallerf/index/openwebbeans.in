@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>openwebbeans</b>'
+Comment='<span size="xx-large">Implementation of the JSR-299 WebBeans</span>'
+Comment3='
+OpenWebBeans is an implementation of the JSR-299, Contexts and
+Dependency Injection for the Java EE platform.
+
+It also already incorporates some features which are part of JSR-346
+but doesnt need API changes as we still use the JCDI-1.0 API. The
+incorporated CDI-1.1 features are mostly parts which are not well defined
+in the CDI-1.0 specification, like Serialisation checks, etc.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://openwebbeans.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

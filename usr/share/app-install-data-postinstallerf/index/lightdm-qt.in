@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lightdm-qt</b>'
+Comment='<span size="xx-large">LightDM QT client library</span>'
+Comment3='
+This package contains a QT based library for LightDM clients to use to interface
+with LightDM.
+
+'
+License='(LGPLv2 or LGPLv3) and GPLv3+'
+Screenshot=''
+Url='https://launchpad.net/lightdm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mp4fpsmod</b>'
+Comment='<span size="xx-large">Simple CLI MP4 time code editor</span>'
+Comment3='
+Simple CLI MP4 time code editor. Source and documents are at github, while
+Win32 binary is at cabinet page. Makefile is provided with the source.
+You might be able to build this on other platforms (I only tested it to
+work on Linux).
+'
+License='custom'
+Screenshot=''
+Url='https://sites.google.com/site/qaacpage/junk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

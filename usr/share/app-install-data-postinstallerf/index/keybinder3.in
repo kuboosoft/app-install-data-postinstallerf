@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>keybinder3</b>'
+Comment='<span size="xx-large">A library for registering global keyboard shortcuts</span>'
+Comment3='
+Keybinder is a library for registering global keyboard shortcuts.
+Keybinder works with GTK-based applications using the X Window System.
+
+The library contains
+- A C library, libkeybinder
+- Gobject-Introspection bindings
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/engla/keybinder/tree/keybinder-3.0'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

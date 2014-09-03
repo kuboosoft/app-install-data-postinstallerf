@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>attica</b>'
+Comment='<span size="xx-large">Implementation of the Open Collaboration Services API</span>'
+Comment3='
+Attica is a Qt library that implements the Open Collaboration Services
+API version 1.4.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

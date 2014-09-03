@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>latex2emf</b>'
+Comment='<span size="xx-large">Create an EMF file from LaTeX source</span>'
+Comment3='
+This program creates EMF files from LaTeX source.  It is used by the
+OpenOffice.org extension "ooolatex" to allow display of LaTeX
+equations inside Writer and Impress documents
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ooolatex.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

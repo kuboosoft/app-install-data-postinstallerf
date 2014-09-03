@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mock-configs-rfremix</b>'
+Comment='<span size="xx-large">Mock config files for the Russian Fedora Remix</span>'
+Comment3='
+Mock config files for the RPM Fusion Free Repository
+'
+License='BSD'
+Screenshot=''
+Url='http://russianfedora.ru'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

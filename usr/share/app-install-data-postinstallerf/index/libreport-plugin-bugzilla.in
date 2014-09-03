@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libreport-plugin-bugzilla</b>'
+Comment='<span size="xx-large">libreports bugzilla plugin</span>'
+Comment3='
+Plugin to report bugs into the bugzilla.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

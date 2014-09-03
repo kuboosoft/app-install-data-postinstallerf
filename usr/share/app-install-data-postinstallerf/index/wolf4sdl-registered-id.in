@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>wolf4sdl-registered-id</b>'
+Comment='<span size="xx-large">SDL port of Wolfenstein 3D - id Software registered version</span>'
+Comment3='
+This package contains wolf4sdl compiled for playing the registered version of
+Wolfenstein 3D as sold by id Software
+http//www.idsoftware.com/games/wolfenstein/wolf3d/
+
+You will need the original registered versions data files to play the
+registered version. Place the data files under /usr/share/wolf3d/registered-id
+before starting wolf4sdl-registered-id. Note all file-names must be lowercase!
+Maybe it was the fact that people got to blow away Nazis. Maybe it was the
+sheer challenge of it all. For whatever reason, Wolfenstein 3D and Spear of
+'
+License='Distributable'
+Screenshot=''
+Url='http://www.idsoftware.com/games/wolfenstein/wolf3d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

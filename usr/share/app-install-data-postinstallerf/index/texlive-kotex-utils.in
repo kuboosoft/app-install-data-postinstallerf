@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-kotex-utils</b>'
+Comment='<span size="xx-large">Utility scripts and support files for typesetting Korean</span>'
+Comment3='
+The bundle provides scripts and support files for index
+generation in Korean language typesetting. The files belong to
+the ko.TeX bundle.
+
+date 2013-11-08 092800 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

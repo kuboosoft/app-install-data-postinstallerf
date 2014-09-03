@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n screenruler
+Type=Application
+Name=Screen Ruler
+Name[ca]=Regle a la pantalla
+Name[de]=Bildschirmlineal
+Name[es]=Regla en la pantalla
+Comment=Measure objects on your screen
+Comment[ca]=Mesureu la mida d objectes a la vostra pantalla
+Comment[de]=Messen Sie Objekte auf dem Bildschirm
+Comment[es]=Mide objetos en la pantalla
+Icon=/usr/share/app-install-data-postinstallerf/icons/screenruler.png
+Categories=GTK;Utility;

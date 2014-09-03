@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geany-plugins-xmlsnippets</b>'
+Comment='<span size="xx-large">Extends XML/HTML tag autocompletion provided by Geany</span>'
+Comment3='
+This plugin extends XML/HTML tag autocompletion provided by Geany. It
+automatically inserts a matching snippet after you type an opening tag.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

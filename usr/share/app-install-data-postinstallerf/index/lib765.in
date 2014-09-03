@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lib765</b>'
+Comment='<span size="xx-large">A library for emulating the uPD765a floppy controller</span>'
+Comment3='
+A library for emulating the uPD765a floppy controller as found on the Spectrum
++3, Amstrad CPC and PCW.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.seasip.demon.co.uk/Unix/LibDsk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

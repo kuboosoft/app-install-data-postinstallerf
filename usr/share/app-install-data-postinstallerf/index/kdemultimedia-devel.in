@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdemultimedia-devel</b>'
+Comment='<span size="xx-large">Developer files for kdemultimedia</span>'
+Comment3='
+Developer files for kdemultimedia.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

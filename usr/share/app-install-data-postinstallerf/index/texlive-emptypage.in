@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-emptypage</b>'
+Comment='<span size="xx-large">Make empty pages really empty</span>'
+Comment3='
+This package prevents page numbers and headings from appearing
+on empty pages.
+
+date 2010-04-30 194905 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

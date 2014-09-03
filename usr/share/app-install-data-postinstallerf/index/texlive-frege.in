@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-frege</b>'
+Comment='<span size="xx-large">Typeset fregean Begriffsschrift</span>'
+Comment3='
+The package defines a number of new commands for typesetting
+fregean Begriffsschrift in LaTeX. It is loosely based on the
+package begriff, and offers a number of improvements including
+better relative lengths of the content stroke with respect to
+other strokes, content strokes that point at the middle of
+lines rather than the bottom, a greater width for the assertion
+stroke as compared to the content stroke, a more intuitive
+structure for the conditional, greater care taken to allow for
+the linewidth in the spacing of formulas.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

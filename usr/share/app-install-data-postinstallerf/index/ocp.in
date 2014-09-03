@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ocp</b>'
+Comment='<span size="xx-large">Open Cubic Player for MOD/S3M/XM/IT/SID/MIDI music files</span>'
+Comment3='
+Open Cubic Player is a music file player ported from DOS that supports
+Amiga MOD module formats and many variants, such as MTM, STM, 669,
+S3M, XM, and IT.  It is also able to render MIDI files using sound
+patches and play SID, OGG Vorbis, FLAC, and WAV files.  OCP provides a
+nice text-based interface with several text-based and graphical
+visualizations.
+'
+License='GPLv2+ and CC-BY'
+Screenshot=''
+Url='http://stian.cubic.org/project-ocp.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

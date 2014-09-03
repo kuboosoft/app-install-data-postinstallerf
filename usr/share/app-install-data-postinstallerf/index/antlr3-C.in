@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>antlr3-C</b>'
+Comment='<span size="xx-large">C run-time support for ANTLR-generated parsers</span>'
+Comment3='
+C run-time support for ANTLR-generated parsers
+'
+License='BSD'
+Screenshot=''
+Url='http://www.antlr.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

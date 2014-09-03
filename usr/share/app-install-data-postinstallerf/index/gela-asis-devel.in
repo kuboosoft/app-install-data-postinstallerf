@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gela-asis-devel</b>'
+Comment='<span size="xx-large">Devel package for gela-asis</span>'
+Comment3='
+Devel package for gela-asis
+
+URL          http//gela.ada-ru.org/gela_asis
+'
+License='BSD'
+Screenshot=''
+Url='http://gela.ada-ru.org/gela_asis'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

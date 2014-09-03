@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>edelib-doc</b>'
+Comment='<span size="xx-large">Documentation for the edelib</span>'
+Comment3='
+This package contains document files for edelib.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://equinox-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>bing</b>'
+Comment='<span size="xx-large">Bandwidth ping</span>'
+Comment3='
+Bing is a point-to-point bandwidth measurement tool (hence the b), based on
+ping.
+
+Bing determines the real (raw, as opposed to available or average) throughput
+on a link by measuring ICMP echo requests round trip times for different
+packet sizes at each end of the link.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://fgouget.free.fr/bing/index-en.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

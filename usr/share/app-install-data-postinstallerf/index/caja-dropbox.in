@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>caja-dropbox</b>'
+Comment='<span size="xx-large">Dropbox extension for caja</span>'
+Comment3='
+Dropbox extension for caja file manager
+Dropbox allows you to sync your files online and across
+your computers automatically.
+'
+License='GPLv3+ and CC-BY-ND'
+Screenshot=''
+Url='https://linux.dropbox.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

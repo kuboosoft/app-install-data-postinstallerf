@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ipcalculator-cgi</b>'
+Comment='<span size="xx-large">A CGI wrapper for ipcalculator</span>'
+Comment3='
+ipcalculator-cgi contains a CGI wrapper around the ipcalculator script. It
+allows you to embed ipcalculators functionality into a web page.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://jodies.de/ipcalc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

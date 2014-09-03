@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdsm-python-cpopen</b>'
+Comment='<span size="xx-large">Creates a sub-process in simpler safer manner.</span>'
+Comment3='
+Python package for creating sub-process in simpler and safer manner by using C
+code.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/wiki/Vdsm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>psi4</b>'
+Comment='<span size="xx-large">An ab initio quantum chemistry package</span>'
+Comment3='
+PSI4 is an open-source suite of ab initio quantum chemistry programs
+designed for efficient, high-accuracy simulations of a variety of
+molecular properties. We can routinely perform computations with more
+than 2500 basis functions running serially or in parallel.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://www.psicode.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-easyfig</b>'
+Comment='<span size="xx-large">Simplifying the use of common figures</span>'
+Comment3='
+The package provides the command \Figure[<key=value>...]{<image
+filename>} to simplify the business of including an image as
+figure in the most common form (centred and with caption and
+label). Caption and label are set using the caption and label
+keys; the label fig<image filename> is used if none is given.
+If the here key is given, the figure is not floated, and the
+user is responsible for placement. The package uses the
+authors package adjustbox to centre an image and to simplify
+further modifications.
+
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

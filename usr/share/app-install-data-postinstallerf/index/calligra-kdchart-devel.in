@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>calligra-kdchart-devel</b>'
+Comment='<span size="xx-large">Libraries needed for kdchart development</span>'
+Comment3='
+Libraries needed for kdchart development.
+
+URL          http//www.calligra-suite.org/
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://www.calligra-suite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

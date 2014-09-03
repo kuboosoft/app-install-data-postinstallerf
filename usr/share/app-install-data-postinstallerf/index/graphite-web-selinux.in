@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>graphite-web-selinux</b>'
+Comment='<span size="xx-large">SELinux labeling for graphite files</span>'
+Comment3='
+SELinux labeling for graphite files.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://launchpad.net/graphite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

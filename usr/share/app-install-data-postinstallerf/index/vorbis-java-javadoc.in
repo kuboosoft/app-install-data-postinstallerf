@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vorbis-java-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for vorbis-java</span>'
+Comment3='
+This package contains javadoc for vorbis-java.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/Gagravarr/VorbisJava'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

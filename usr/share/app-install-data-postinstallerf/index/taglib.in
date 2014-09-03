@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>taglib</b>'
+Comment='<span size="xx-large">Audio Meta-Data Library</span>'
+Comment3='
+TagLib is a library for reading and editing the meta-data of several
+popular audio formats. Currently it supports both ID3v1 and ID3v2 for MP3
+files, Ogg Vorbis comments and ID3 tags and Vorbis comments in FLAC, MPC,
+Speex, WavPack, TrueAudio files, as well as APE Tags.
+
+'
+License='LGPLv2 or MPLv1.1'
+Screenshot=''
+Url='http://taglib.github.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

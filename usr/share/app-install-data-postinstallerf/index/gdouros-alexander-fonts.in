@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gdouros-alexander-fonts</b>'
+Comment='<span size="xx-large">A Greek typeface inspired by Alexander Wilson</span>'
+Comment3='
+A text typeface using the Greek letters designed by Alexander Wilson
+(1714-1786), a Scottish doctor, astronomer, and typefounder, who established a
+typefoundry in Glasgow in 1744. The type was especially designed for an edition
+of Homer?s epics, published in 1756-8 by Andrew and Robert Foulis, printers to
+the University of Glasgow. A modern revival, Wilson Greek, was designed by
+Matthew Carter in 1995. Peter S. Baker is also using Wilson?s Greek type in his
+Junicode font for medieval scholars (2007).
+
+Latin and Cyrillic are based on a Garamond typeface. The font covers the
+Windows Glyph List, IPA Extensions, Greek Extended, Ancient Greek Numbers,
+'
+License='Copyright only'
+Screenshot=''
+Url='http://users.teilar.gr/~g1951d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xosd</b>'
+Comment='<span size="xx-large">On-screen display library for X</span>'
+Comment3='
+XOSD displays text on your screen, sounds simple right? The difference
+is it is unmanaged and shaped, so it appears transparent. This gives
+the effect of an On Screen Display, like your TV/VCR etc.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libxosd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

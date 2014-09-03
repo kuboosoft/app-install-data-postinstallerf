@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-SimpleLog</b>'
+Comment='<span size="xx-large">A simple logging system for POE</span>'
+Comment3='
+This module is a vastly simplified logging system that can do nice stuff.
+Think of this module as a dispatcher for various logs.
+
+This module *DOES NOT* do anything significant with logs, it simply routes
+them to the appropriate place ( Events )
+You register a log that you are interested in, by telling SimpleLog the target
+session and target event. Once that is done, any log messages your program
+generates ( sent to SimpleLog of course ) will be massaged, then sent to the
+target session / target event for processing.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-SimpleLog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

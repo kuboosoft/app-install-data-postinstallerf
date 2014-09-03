@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>abrt-addon-pstoreoops</b>'
+Comment='<span size="xx-large">abrts pstore oops addon</span>'
+Comment3='
+This package contains plugin for collecting kernel oopses from pstore storage.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-verbatimcopy</b>'
+Comment='<span size="xx-large">Make copies of text documents from within LaTeX</span>'
+Comment3='
+This package provides \VerbatimCopy{in}{out} that will enable
+LaTeX to take a verbatim copy of one text file, and save it
+under another name. The package provides a means to specify the
+output directory to be used, but does no checking and may
+therefore overwrite an important file if used injudiciously.
+
+date 2009-06-02 145430 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

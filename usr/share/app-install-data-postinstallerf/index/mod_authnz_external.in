@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mod_authnz_external</b>'
+Comment='<span size="xx-large">An Apache module used for authentication</span>'
+Comment3='
+Mod_Auth_External can be used to quickly construct secure, reliable
+authentication systems.  It can also be mis-used to quickly open gaping
+holes in your security.  Read the documentation, and use with extreme
+caution.
+'
+License='ASL 1.0'
+Screenshot=''
+Url='http://code.google.com/p/mod-auth-external/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

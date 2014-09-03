@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-pst-am</b>'
+Comment='<span size="xx-large">Simulation of modulation and demodulation</span>'
+Comment3='
+The package allows the simulation of the modulated and
+demodulated amplitude of radio waves. The user may plot curves
+of modulated signals, wave carrier, signal modulation, signal
+recovery and signal demodulation.
+
+date 2010-09-04 140025 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

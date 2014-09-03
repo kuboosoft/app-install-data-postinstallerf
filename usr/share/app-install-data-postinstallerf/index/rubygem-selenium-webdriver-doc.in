@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-selenium-webdriver-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-selenium-webdriver</span>'
+Comment3='
+Documentation for rubygem-selenium-webdriver
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://selenium.googlecode.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

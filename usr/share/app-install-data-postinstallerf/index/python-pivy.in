@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-pivy</b>'
+Comment='<span size="xx-large">Python binding for Coin</span>'
+Comment3='
+Pivy is a Coin binding for Python. Coin is a high-level 3D graphics library with
+a C++ Application Programming Interface. Coin uses scene-graph data structures
+to render real-time graphics suitable for mostly all kinds of scientific and
+engineering visualization applications.
+'
+License='ISC'
+Screenshot=''
+Url='http://pivy.coin3d.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

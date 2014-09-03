@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fcitx-table-chinese</b>'
+Comment='<span size="xx-large">Chinese table of Fcitx</span>'
+Comment3='
+The fcitx-table-chinese package provides other Chinese table for Fcitx.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/Fcitx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

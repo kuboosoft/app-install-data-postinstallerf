@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xfce4-places-plugin</b>'
+Comment='<span size="xx-large">Places menu for the Xfce panel</span>'
+Comment3='
+A menu with quick access to folders, documents, and removable media. The
+Places plugin brings much of the functionality of GNOME?s Places menu to
+Xfce. It puts a simple button on the panel. Clicking on this button opens up
+a menu with 4 sections
+1) System-defined directories (home folder, trash, desktop, file system)
+2) Removable media
+3) User-defined bookmarks (reads ~/.gtk-bookmarks)
+4) Recent documents submenu (requires GTK v2.10 or greater)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-places-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

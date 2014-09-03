@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>imsettings-devel</b>'
+Comment='<span size="xx-large">Development files for imsettings</span>'
+Comment3='
+IMSettings is a framework that delivers Input Method
+settings and applies the changes so they take effect
+immediately without any need to restart applications
+or the desktop.
+
+This package contains the development files to make any
+applications with imsettings.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://tagoh.bitbucket.org/imsettings/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

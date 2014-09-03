@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvtemm-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use libvtemm</span>'
+Comment3='
+This package contains the static libraries and header files needed for
+developing libvtemm applications.
+
+'
+License='LGPLv3+ and GPLv3+'
+Screenshot=''
+Url='http://gtkmm.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>esorex</b>'
+Comment='<span size="xx-large">Recipe Execution Tool of the European Southern Observatory</span>'
+Comment3='
+EsoRex is the ESO Recipe Execution Tool. It can list, configure and
+execute CPL-based recipes from the command line.
+One of the features provided by the CPL is the ability to create
+data-reduction algorithms that run as plugins (dynamic libraries). These
+are called recipes and are one of the main aspects of the
+CPL data-reduction development environment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.eso.org/observing/cpl/esorex.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

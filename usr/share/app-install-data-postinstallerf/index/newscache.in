@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>newscache</b>'
+Comment='<span size="xx-large">Free cache server for USENET News</span>'
+Comment3='
+NewsCache is a free cache server for USENET News. NewsCache acts to
+news reading clients like a news server, except that it stores only
+those articles that have been requested by at least one client.
+NewsCache targets problems of the current News System like network
+bandwidth consumption or the IO load caused by news clients.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linuxhacker.at/newscache/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

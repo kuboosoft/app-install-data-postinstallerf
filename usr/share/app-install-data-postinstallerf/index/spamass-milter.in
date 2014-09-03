@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>spamass-milter</b>'
+Comment='<span size="xx-large">Milter (mail filter) for spamassassin</span>'
+Comment3='
+A milter (Mail Filter) application that pipes incoming mail (including things
+received by rmail/UUCP) through SpamAssassin, a highly customizable spam
+filter. A milter-compatible MTA such as Sendmail or Postfix is required.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/spamass-milt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

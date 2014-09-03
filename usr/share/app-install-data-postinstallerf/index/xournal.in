@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xournal</b>'
+Comment='<span size="xx-large">Notetaking, sketching, PDF annotation and general journal</span>'
+Comment3='
+Xournal is an application for notetaking, sketching, keeping a journal and
+annotating PDFs. Xournal aims to provide superior graphical quality (subpixel
+resolution) and overall functionality.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://xournal.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

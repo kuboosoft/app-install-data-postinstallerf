@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xorg-x11-drv-nvidia-304xx</b>'
+Comment='<span size="xx-large">NVIDIAs 304xx serie proprietary display driver for NVIDIA graphic cards</span>'
+Comment3='
+This package provides the most recent NVIDIA display driver which allows for
+hardware accelerated rendering with NVIDIA chipsets GeForce6/7 series.
+GeForce5 and below are NOT supported by this release.
+
+For the full product support list, please consult the release notes
+for driver version 304.123.
+Please use the following documentation
+http//rpmfusion.org/Howto/nVidia
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.nvidia.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

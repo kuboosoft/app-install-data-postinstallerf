@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>zarafa-devel</b>'
+Comment='<span size="xx-large">Development files for several Zarafa libraries</span>'
+Comment3='
+The zarafa-devel package includes header files and libraries necessary for
+developing own programs which use functions and interfaces from the Zarafa
+Collaboration Platform. The Zarafa Open Source Collaboration is using MAPI
+objects, provides a MAPI client library and a C++ programming interface.
+
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

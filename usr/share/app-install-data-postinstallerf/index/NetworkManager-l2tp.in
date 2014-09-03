@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>NetworkManager-l2tp</b>'
+Comment='<span size="xx-large">NetworkManager VPN plugin for l2tp</span>'
+Comment3='
+This package contains software for integrating L2TP VPN support with
+the NetworkManager and the GNOME desktop.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://launchpad.net/~seriy-pr/+archive/network-manager-l2tp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

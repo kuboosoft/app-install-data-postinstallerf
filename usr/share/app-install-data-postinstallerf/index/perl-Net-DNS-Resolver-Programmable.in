@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Net-DNS-Resolver-Programmable</b>'
+Comment='<span size="xx-large">Programmable DNS resolver class for offline emulation of DNS</span>'
+Comment3='
+NetDNSResolverProgrammable is a NetDNSResolver descendant class
+that allows a virtual DNS to be emulated instead of querying the real DNS.
+A set of static DNS records may be supplied, or arbitrary code may be
+specified as a means for retrieving DNS records, or even generating them
+on the fly.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-DNS-Resolver-Programmable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

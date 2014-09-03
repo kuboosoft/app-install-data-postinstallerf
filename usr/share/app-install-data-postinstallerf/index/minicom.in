@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>minicom</b>'
+Comment='<span size="xx-large">A text-based modem control and terminal emulation program</span>'
+Comment3='
+Minicom is a simple text-based modem control and terminal emulation
+program somewhat similar to MSDOS Telix. Minicom includes a dialing
+directory, full ANSI and VT100 emulation, an (external) scripting
+language, and other features.
+'
+License='GPL+ and GPLv2+ and GPLv2 and LGPLv2+ Public Domain and Copyright only'
+Screenshot=''
+Url='http://alioth.debian.org/projects/minicom/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

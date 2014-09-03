@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>tinyca2</b>'
+Comment='<span size="xx-large">TinyCA graphical openssl based CA</span>'
+Comment3='
+TinyCA2 is a graphical tool written in Perl/Gtk to manage a small
+Certification Authority (CA) using openssl.
+
+TinyCA supports
+- creation and revocation of x509 - S/MIME certificates.
+- PKCS#10 requests.
+- exporting certificates as PEM, DER, TXT, and PKCS#12.
+- server certificates for use in web servers, email servers, IPsec,
+  and more.
+- client certificates for use in web browsers, email clients, IPsec,
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tinyca.sm-zone.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

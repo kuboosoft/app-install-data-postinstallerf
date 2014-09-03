@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtnc-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for libtnc</span>'
+Comment3='
+Header and library files used for developing with (or linking to) libtnc.
+
+URL          http//libtnc.sourceforge.net/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://libtnc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

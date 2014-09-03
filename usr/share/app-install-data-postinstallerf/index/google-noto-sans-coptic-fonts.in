@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>google-noto-sans-coptic-fonts</b>'
+Comment='<span size="xx-large">Free sans-serif font for Coptic script</span>'
+Comment3='
+
+Noto fonts aims to remove tofu from web by providing fonts for all
+Unicode supported script. Its design goal is to achieve visual harmonization
+between multiple scripts. Noto family supports almost all script available
+in Unicode.
+Unhinted sans-serif fonts for Coptic script.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://code.google.com/p/noto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

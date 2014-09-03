@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>binutils-devel</b>'
+Comment='<span size="xx-large">BFD and opcodes static and dynamic libraries and header files</span>'
+Comment3='
+This package contains BFD and opcodes static and dynamic libraries.
+
+The dynamic libraries are in this package, rather than a seperate
+base package because they are actually linker scripts that force
+the use of the static libraries.  This is because the API of the
+BFD library is too unstable to be used dynamically.
+The static libraries are here because they are now needed by the
+dynamic libraries.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sources.redhat.com/binutils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

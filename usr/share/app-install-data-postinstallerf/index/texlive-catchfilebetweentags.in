@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-catchfilebetweentags</b>'
+Comment='<span size="xx-large">Catch text delimited by docstrip tags</span>'
+Comment3='
+This package (built using the facilities of catchfile) provides
+a macro \catchfilebetweentags acts like the original \catchfile
+but only extracts a portion of the file instead of the complete
+file. The extracted portion can be delimited by strings or by
+docstrip tags %<*tag> .... %</tag> (comments in the caught
+region may be included or dropped).
+
+date 2011-02-19 164147 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

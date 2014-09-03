@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jarjar-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jarjar</span>'
+Comment3='
+Javadoc for jarjar.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/jarjar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

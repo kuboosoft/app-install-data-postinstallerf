@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pharosc</b>'
+Comment='<span size="xx-large">VLSI and ASIC Technology Standard Cell Libraries</span>'
+Comment3='
+VLSI and ASIC Technology Standard Cell Libraries.
+There are five new open source standard cell libraries, the
+ * vsclib,
+ * wsclib,
+ * vxlib,
+ * vgalib and
+ * rgalib.
+
+They have been drawn with the Graal software from Alliance,
+part of an extensive open source software suite for designing
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vlsitechnology.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>crystal-clear</b>'
+Comment='<span size="xx-large">Crystal Clear KDE Icon set</span>'
+Comment3='
+Crystal Clear is a KDE Icon set.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.deviantart.com/deviation/19744866/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmms2-perl</b>'
+Comment='<span size="xx-large">Perl support for XMMS2</span>'
+Comment3='
+Perl bindings for XMMS2.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

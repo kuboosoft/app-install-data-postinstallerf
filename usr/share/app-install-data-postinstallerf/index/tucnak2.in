@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tucnak2</b>'
+Comment='<span size="xx-large">VHF contest logging program</span>'
+Comment3='
+Tucnak2 is VHF/UHF/SHF log for hamradio contests. It supports multi
+bands, free input, networking, voice and CW keyer, WWL database and
+much more.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tucnak.nagano.cz/wiki/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

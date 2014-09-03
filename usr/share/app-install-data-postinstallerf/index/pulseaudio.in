@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pulseaudio</b>'
+Comment='<span size="xx-large">Improved Linux Sound Server</span>'
+Comment3='
+PulseAudio is a sound server for Linux and other Unix like operating
+systems. It is intended to be an improved drop-in replacement for the
+Enlightened Sound Daemon (ESOUND).
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/PulseAudio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

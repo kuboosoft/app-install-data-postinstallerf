@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kbd</b>'
+Comment='<span size="xx-large">Tools for configuring the console (keyboard, virtual terminals, etc.)</span>'
+Comment3='
+The kbd package contains tools for managing a Linux
+systems consoles behavior, including the keyboard, the screen
+fonts, the virtual terminals and font files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ftp.altlinux.org/pub/people/legion/kbd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

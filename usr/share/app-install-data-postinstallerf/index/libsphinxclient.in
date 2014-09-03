@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libsphinxclient</b>'
+Comment='<span size="xx-large">Pure C searchd client API library</span>'
+Comment3='
+Pure C searchd client API library
+Sphinx search engine, http//sphinxsearch.com/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sphinxsearch.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

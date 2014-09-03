@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>jdiff</b>'
+Comment='<span size="xx-large">An HTML Report of API Differences</span>'
+Comment3='
+JDiff is a Javadoc doclet which generates an HTML
+report of all the packages, classes, constructors,
+methods, and fields which have been removed, added
+or changed in any way, including their documentation,
+when two APIs are compared. This is very useful for
+describing exactly what has changed between two
+releases of a product. Only the API (Application
+Programming Interface) of each version is compared.
+It does not compare what the source code does when
+executed.
+'
+License='GPL+ and LGPLv2+'
+Screenshot=''
+Url='http://javadiff.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

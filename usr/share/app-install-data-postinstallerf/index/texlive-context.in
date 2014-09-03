@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-context</b>'
+Comment='<span size="xx-large">The ConTeXt macro package</span>'
+Comment3='
+A full featured, parameter driven macro package, which fully
+supports advanced interactive documents. See the ConTeXt garden
+for a wealth of support information.
+
+date 2013-04-26 003823 +0200
+'
+License='GPL+ or LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

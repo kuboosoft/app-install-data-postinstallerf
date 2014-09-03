@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-dictionary</b>'
+Comment='<span size="xx-large">A dictionary for MATE Desktop</span>'
+Comment3='
+The mate-dictionary package contains a dictionary application for MATE Desktop.
+
+URL          http//mate-desktop.org
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

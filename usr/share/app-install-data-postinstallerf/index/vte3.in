@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vte3</b>'
+Comment='<span size="xx-large">A terminal emulator</span>'
+Comment3='
+VTE is a terminal emulator widget for use with GTK+.
+
+URL          None
+'
+License='LGPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

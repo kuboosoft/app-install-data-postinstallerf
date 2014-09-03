@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>thibault-rockets-fonts</b>'
+Comment='<span size="xx-large">Thibault.org font, vaguely space themed</span>'
+Comment3='
+
+A collection of fonts from thibault.org,
+including Isabella, Essays1743, StayPuft,
+and Rockets.
+This font is called Rockets because its vaguely space
+themed.  The A is, more or less, a 1950s SF rocket; the O is meant to
+be Earth, with the Americas visible.  The other capitals are based on
+curves from either A or O, to keep the theme consistent.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.thibault.org/fonts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

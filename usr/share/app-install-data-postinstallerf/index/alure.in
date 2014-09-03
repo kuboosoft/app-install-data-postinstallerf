@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>alure</b>'
+Comment='<span size="xx-large">Audio Library Tools REloaded</span>'
+Comment3='
+ALURE is a utility library to help manage common tasks with OpenAL
+applications. This includes device enumeration and initialization,
+file loading, and streaming.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://kcat.strangesoft.net/alure.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

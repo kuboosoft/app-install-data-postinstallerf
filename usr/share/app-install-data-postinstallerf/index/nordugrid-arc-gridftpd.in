@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>nordugrid-arc-gridftpd</b>'
+Comment='<span size="xx-large">ARC gridftp server</span>'
+Comment3='
+NorduGrid is a collaboration aiming at development, maintenance and
+support of the free Grid middleware, known as the Advanced Resource
+Connector (ARC).
+
+This package contains the ARC gridftp server which has a plugin framework.
+Current plugins include
+  fileplugin  Standard gridftp server based on Globus globus-ftp-control
+  gaclplugin  Enhanced server with support for GACL authorization
+  jobplugin   Classical ARC job submission interface
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nordugrid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

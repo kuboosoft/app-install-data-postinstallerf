@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libtommath-doc</b>'
+Comment='<span size="xx-large">Documentation files for libtommath</span>'
+Comment3='
+The libtommath-doc package contains PDF documentation for using libtommath.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.libtom.org/?page=features&newsitems=5&whatfile=ltm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

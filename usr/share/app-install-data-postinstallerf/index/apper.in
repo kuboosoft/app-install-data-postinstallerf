@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apper</b>'
+Comment='<span size="xx-large">KDE interface for PackageKit</span>'
+Comment3='
+KDE interface for PackageKit.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kde-apps.org/content/show.php/Apper?content=84745'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

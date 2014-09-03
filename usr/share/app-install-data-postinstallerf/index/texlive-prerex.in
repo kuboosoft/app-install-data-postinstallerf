@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-prerex</b>'
+Comment='<span size="xx-large">Interactive editor and macro support for prerequisite charts</span>'
+Comment3='
+This package consists of prerex.sty, a LaTeX package for
+producing charts of course nodes linked by arrows representing
+pre- and co-requisites, and prerex, an interactive program for
+creating and editing chart descriptions. The implementation of
+prerex.sty is built on PGF, so that it may be used equally
+happily with latex or pdflatex; prerex itself is written in C.
+The package includes source code for a previewer application, a
+lightweight Qt-4 and poppler-based prerex-enabled PDF viewer.
+
+date 2013-10-14 152032 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

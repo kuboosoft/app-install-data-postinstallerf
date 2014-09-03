@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sugar-xoirc</b>'
+Comment='<span size="xx-large">IRC client for Sugar</span>'
+Comment3='
+This activity allows you to contact other OLPC users and enthusiasts
+on the internet, and chat with them.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.sugarlabs.org/projects/irc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

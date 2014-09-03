@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>leksah</b>'
+Comment='<span size="xx-large">Haskell IDE</span>'
+Comment3='
+Leksah is an Integrated Development Environment for
+Haskell written in Haskell. Leksah uses GTK+ as GUI Toolkit.
+'
+License='GPL+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/leksah'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

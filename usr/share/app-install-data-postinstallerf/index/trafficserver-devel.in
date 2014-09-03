@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>trafficserver-devel</b>'
+Comment='<span size="xx-large">Apache Traffic Server development libraries and header files</span>'
+Comment3='
+The trafficserver-devel package include plug-in development libraries and
+header files, and Apache httpd style module build system.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://trafficserver.apache.org/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

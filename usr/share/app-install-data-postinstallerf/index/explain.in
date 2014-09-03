@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>explain</b>'
+Comment='<span size="xx-large">Explains system call error reports</span>'
+Comment3='
+The explain command is used to decode an error return read from an
+strace(1) listing, or similar.  Because this is being deciphered in a
+different process than the original, the results will be less accurate
+than if the program itself were to use libexplain(3).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://libexplain.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

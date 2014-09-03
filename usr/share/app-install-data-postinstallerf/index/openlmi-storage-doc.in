@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openlmi-storage-doc</b>'
+Comment='<span size="xx-large">Documentation for openlmi-storage</span>'
+Comment3='
+Documentation for openlmi-storage.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

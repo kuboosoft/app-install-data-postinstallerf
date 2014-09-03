@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>geda-gschem</b>'
+Comment='<span size="xx-large">Electronics schematics editor</span>'
+Comment3='
+Gschem is an electronics schematic editor. It is part of the gEDA project.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gpleda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

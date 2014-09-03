@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ddccontrol-db</b>'
+Comment='<span size="xx-large">DDC/CI control database for ddccontrol</span>'
+Comment3='
+DDC/CU control database for DDCcontrol.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ddccontrol.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

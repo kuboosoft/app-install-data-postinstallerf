@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-gustlib</b>'
+Comment='<span size="xx-large">Polish oriented macros</span>'
+Comment3='
+Various small utility packages for typesetting in plain TeX,
+with a Polish perspective. Neither the package, nor any of its
+contents, appears on CTAN.
+
+date 2007-01-21 110451 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

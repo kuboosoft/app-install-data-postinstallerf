@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-LockFile-Simple</b>'
+Comment='<span size="xx-large">Simple file locking scheme</span>'
+Comment3='
+This simple locking scheme is not based on any file locking system calls
+such as flock() or lockf() but rather relies on basic file system
+primitives and properties, such as the atomicity of the write() system
+call. It is not meant to be exempt from all race conditions, especially
+over NFS.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/LockFile-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

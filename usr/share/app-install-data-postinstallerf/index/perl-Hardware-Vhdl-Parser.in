@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Hardware-Vhdl-Parser</b>'
+Comment='<span size="xx-large">Complete grammar for parsing VHDL code using perl</span>'
+Comment3='
+This module defines the complete grammar needed to parse any VHDL code. By
+overloading this grammar, it is possible to easily create perl scripts
+which run through VHDL code and perform specific functions.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Hardware-Vhdl-Parser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

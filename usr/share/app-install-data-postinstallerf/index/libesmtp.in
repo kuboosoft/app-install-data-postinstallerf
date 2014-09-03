@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libesmtp</b>'
+Comment='<span size="xx-large">SMTP client library</span>'
+Comment3='
+LibESMTP is a library to manage posting (or submission of) electronic
+mail using SMTP to a preconfigured Mail Transport Agent (MTA) such as
+Exim. It may be used as part of a Mail User Agent (MUA) or another
+program that must be able to post electronic mail but where mail
+functionality is not the programs primary purpose.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.stafford.uklinux.net/libesmtp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

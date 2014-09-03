@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>numlockx</b>'
+Comment='<span size="xx-large">Turns on NumLock after starting X</span>'
+Comment3='
+Turns on NumLock after starting X
+'
+License='MIT'
+Screenshot=''
+Url='http://ktown.kde.org/~seli/numlockx/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

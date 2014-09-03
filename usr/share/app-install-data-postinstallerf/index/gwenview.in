@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gwenview</b>'
+Comment='<span size="xx-large">An image viewer</span>'
+Comment3='
+An image viewer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/gwenview'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

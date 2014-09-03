@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mono-addins-devel</b>'
+Comment='<span size="xx-large">Development files for mono-addins</span>'
+Comment3='
+Mono.Addins is a generic framework for creating extensible applications,
+and for creating libraries which extend those applications.
+This package contains MSBuild tasks file and target, which allows
+using add-in references directly in a build file (still experimental).
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

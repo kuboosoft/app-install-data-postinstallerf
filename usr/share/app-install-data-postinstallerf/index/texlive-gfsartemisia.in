@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-gfsartemisia</b>'
+Comment='<span size="xx-large">A modern Greek font design</span>'
+Comment3='
+GFS Artemisia is a relatively modern font, designed as a
+general purpose font in the same sense as Times is nowadays
+treated. The present version has been provided by the Greek
+Font Society. The font supports the Greek and Latin alphabets.
+LaTeX support is provided, using the OT1, T1 and LGR encodings.
+
+date 2008-08-19 210004 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ndisc6</b>'
+Comment='<span size="xx-large">IPv6 diagnostic tools</span>'
+Comment3='
+This package gathers a few diagnostic tools for IPv6 networks
+- ndisc6, which performs ICMPv6 Neighbor Discovery in userland,
+- rdisc6, which performs ICMPv6 Router Discovery in userland,
+- rltraceroute6, yet another IPv6 implementation of traceroute,
+- tcptraceroute6, a TCP/IPv6-based traceroute implementation,
+- tracert6, a ICMPv6 Echo Request based traceroute,
+- tcpspray6, a TCP/IP Discard/Echo bandwidth metter.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://www.remlab.net/ndisc6/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

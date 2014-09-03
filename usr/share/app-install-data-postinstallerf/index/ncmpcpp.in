@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ncmpcpp</b>'
+Comment='<span size="xx-large">Clone of ncmpc with new features and written in C++</span>'
+Comment3='
+Ncmpcpp is almost exact clone of ncmpc but it contains some new
+features ncmpc doesnt have. Its been also rewritten from scratch
+in C++. New features include tag editor, playlists editor, easy to
+use search screen, media library screen, lyrics screen and more.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ncmpcpp.rybczak.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

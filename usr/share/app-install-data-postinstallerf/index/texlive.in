@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive</b>'
+Comment='<span size="xx-large">TeX formatting system</span>'
+Comment3='
+The TeX Live software distribution offers a complete TeX system for a
+variety of Unix, Macintosh, Windows and other platforms. It
+encompasses programs for editing, typesetting, previewing and printing
+of TeX documents in many different languages, and a large collection
+of TeX macros and font libraries.
+
+The distribution includes extensive general documentation about TeX,
+as well as the documentation for the included software packages.
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

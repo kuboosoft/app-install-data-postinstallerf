@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnofract4d</b>'
+Comment='<span size="xx-large">Gnofract 4D is a Gnome-based program to draw fractals</span>'
+Comment3='
+Gnofract 4D is a free, open source program which allows anyone to create
+beautiful images called fractals.  The images are automatically created
+by the computer based on mathematical principles.  These include the
+Mandelbrot and Julia sets and many more.  You dont need to do any math
+you can explore a universe of images just using a mouse.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gnofract4d.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

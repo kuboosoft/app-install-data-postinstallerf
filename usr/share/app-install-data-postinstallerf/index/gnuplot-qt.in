@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gnuplot-qt</b>'
+Comment='<span size="xx-large">Qt interface for gnuplot</span>'
+Comment3='
+Gnuplot is a command-line driven, interactive function plotting
+program especially suited for scientific data representation.  Gnuplot
+can be used to plot functions and data points in both two and three
+dimensions and in many different formats.
+
+This package provides a Qt based terminal version of gnuplot
+'
+License='gnuplot and MIT'
+Screenshot=''
+Url='http://www.gnuplot.info/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jovie-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for jovie</span>'
+Comment3='
+Runtime libraries for jovie.
+
+URL          http//accessibility.kde.org/
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://accessibility.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

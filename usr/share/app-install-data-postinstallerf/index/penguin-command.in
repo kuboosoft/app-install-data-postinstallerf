@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>penguin-command</b>'
+Comment='<span size="xx-large">Open source arcade game</span>'
+Comment3='
+Penguin Command is a clone of the classic "Missile Command" Game, but it has
+better graphics and music. The gameplay has only been slightly modified.
+Penguin Command is licensed under the GPL.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linux-games.com/penguin-command/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

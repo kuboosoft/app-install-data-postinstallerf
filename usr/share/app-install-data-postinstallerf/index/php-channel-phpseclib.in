@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-channel-phpseclib</b>'
+Comment='<span size="xx-large">Adds the phpseclib channel to PEAR</span>'
+Comment3='
+This package adds the phpseclib channel which allows PEAR packages
+from this channel to be installed.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://phpseclib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

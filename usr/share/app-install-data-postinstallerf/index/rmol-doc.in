@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rmol-doc</b>'
+Comment='<span size="xx-large">HTML documentation for the rmol library</span>'
+Comment3='
+This package contains HTML pages, as well as a PDF reference manual,
+for rmol. All that documentation is generated thanks to Doxygen
+(http//doxygen.org). The content is the same as what can be browsed
+online (http//rmol.org).
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://rmol.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-restauth</b>'
+Comment='<span size="xx-large">Reference implementation of RestAuth specification in Python</span>'
+Comment3='
+The RestAuth project is a system providing shared authentication,
+authorization and preferences.
+
+This reference library implements all features of the RestAuth specification.
+It is written in pure Python and generally works with
+Python 2.6 or later (including Python 3).
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://python.restauth.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

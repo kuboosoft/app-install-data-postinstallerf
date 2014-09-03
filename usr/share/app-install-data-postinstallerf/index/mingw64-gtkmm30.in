@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mingw64-gtkmm30</b>'
+Comment='<span size="xx-large">MinGW Windows C++ interface for the GTK+ library</span>'
+Comment3='
+gtkmm is the official C++ interface for the popular GUI library GTK+.
+Highlights include type safe callbacks, and a comprehensive set of
+widgets that are easily extensible via inheritance.
+
+This package contains the MinGW Windows cross compiled gtkmm library,
+API version 3.0.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

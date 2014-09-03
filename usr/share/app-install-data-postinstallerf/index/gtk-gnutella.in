@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gtk-gnutella</b>'
+Comment='<span size="xx-large">GUI based Gnutella Client</span>'
+Comment3='
+Gtk-Gnutella is a GUI based Gnutella p2p servent. Its a fully featured
+servent designed to share any type of file.  Gtk-gnutella implements
+compressed gnutella net connections, ultrapeer and leaf nodes and uses
+Passive/Active Remote Queueing (PARQ), and other modern gnutella network
+features.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gtk-gnutella.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

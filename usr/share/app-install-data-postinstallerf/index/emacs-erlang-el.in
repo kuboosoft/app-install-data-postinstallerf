@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-erlang-el</b>'
+Comment='<span size="xx-large">Elisp source files for erlang-mode under GNU Emacs</span>'
+Comment3='
+Erlang mode for GNU Emacs (source lisp files).
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

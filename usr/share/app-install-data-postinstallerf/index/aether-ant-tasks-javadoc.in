@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>aether-ant-tasks-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for aether-ant-tasks</span>'
+Comment3='
+This package contains the API documentation for aether-ant-tasks.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/aether'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

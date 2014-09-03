@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>javanotes</b>'
+Comment='<span size="xx-large">Introduction to Programming Using Java, By David J. Eck</span>'
+Comment3='
+The fifth edition of Introduction to Programming Using Java, a free, on-line
+textbook on introductory programming, which uses Java as the language of
+instruction. This book is directed mainly towards beginning programmers,
+although it might also be useful for experienced programmers who want to learn
+something about Java. It is certainly not meant to provide complete coverage of
+the Java language.
+
+The fifth edition covers Java 5.0 and can also be used with later versions of
+Java. You will find many Java applets on the web pages that make up this book,
+and many of those applets require Java 5.0 or higher to function. Earlier
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://math.hws.edu/javanotes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

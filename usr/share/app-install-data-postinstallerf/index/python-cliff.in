@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-cliff</b>'
+Comment='<span size="xx-large">Command Line Interface Formulation Framework</span>'
+Comment3='
+cliff is a framework for building command line programs. It uses setuptools
+entry points to provide subcommands, output formatters, and other
+extensions.
+
+Documentation for cliff is hosted on readthedocs.org at
+http//readthedocs.org/docs/cliff/en/latest/
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/cliff'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

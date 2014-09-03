@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sugar-calculator</b>'
+Comment='<span size="xx-large">Calculator for Sugar</span>'
+Comment3='
+The calculate activity provides a calculator for the Sugar interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Calculate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

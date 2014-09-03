@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>librdmacm-utils</b>'
+Comment='<span size="xx-large">Examples for the librdmacm library</span>'
+Comment3='
+Example test programs for the librdmacm library.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

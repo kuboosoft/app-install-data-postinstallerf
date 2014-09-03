@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-skeyval</b>'
+Comment='<span size="xx-large">Key-value parsing combining features of xkeyval and pgfkeys</span>'
+Comment3='
+The package integrates the features of xkeyval and of pgfkeys
+by introducing a new type of handlers. Style keys, links,
+changing key callbacks and values on the fly, and other
+features of pgfkeys are introduced in a new context.
+
+date 2013-05-16 171456 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

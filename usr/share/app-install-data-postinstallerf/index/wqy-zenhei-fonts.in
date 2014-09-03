@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wqy-zenhei-fonts</b>'
+Comment='<span size="xx-large">WenQuanYi Zen Hei CJK Font</span>'
+Comment3='
+
+WenQuanYi Zen Hei is a Hei-Ti style (sans-serif type) Chinese
+outline font. It is designed for general purpose text formatting
+and on-screen display of Chinese characters and symbols from
+many other languages. The embolden strokes of the font glyphs
+produces enhanced screen contrast, making it easier to read
+recognize. The embedded bitmap glyphs further enhance on-screen
+performance, which can be enabled with the provided configuration
+files. WenQuanYi Zen Hei provides a rather complete coverage to
+Chinese Hanzi glyphs, including both simplified and traditional
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://wenq.org/enindex.cgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

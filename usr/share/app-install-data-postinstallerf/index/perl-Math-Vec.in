@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Math-Vec</b>'
+Comment='<span size="xx-large">Perl Math::Vec module</span>'
+Comment3='
+Object-oriented vector math methods in Perl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Math-Vec/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

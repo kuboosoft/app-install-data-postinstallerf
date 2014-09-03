@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nimbus-theme-gnome</b>'
+Comment='<span size="xx-large">Desktop theme from Sun</span>'
+Comment3='
+The Nimbus theme pack for Gnome make use of Nimbus Metacity theme, Nimbus
+GTK2 theme and icon set. It originates from OpenSolaris by Sun.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://nimbus.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

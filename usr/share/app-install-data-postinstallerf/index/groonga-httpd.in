@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>groonga-httpd</b>'
+Comment='<span size="xx-large">Groonga HTTP server (experimental)</span>'
+Comment3='
+This package contains the Groonga HTTP server. It is experimental
+but has many features. Because it is based on nginx HTTP server.
+It will obsolete groonga-server-http when it is stable.
+'
+License='LGPLv2 and BSD'
+Screenshot=''
+Url='http://groonga.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ocaml-mlgmpidl-doc</b>'
+Comment='<span size="xx-large">Documentation files for ocaml-mlgmpidl</span>'
+Comment3='
+The ocaml-mlgmpidl-doc package contains documentation for using ocaml-mlgmpidl.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.inrialpes.fr/pop-art/people/bjeannet/mlxxxidl-forge/mlgmpidl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libigtl</b>'
+Comment='<span size="xx-large">Network communication library for image-guided therapy</span>'
+Comment3='
+OpenIGTLink provides a standardized mechanism for communications among computers
+and devices in operating rooms (OR) for wide variety of image-guided therapy
+(IGT) applications. Examples of such applications include
+
+* Stereotactic surgical guidance using optical position sensor.
+* Intraoperative image guidance using real-time MRI.
+* Robot-assisted intervention with robotic device + surgical planning software
+OpenIGTLink is a set of digital messaging formats and rules (protocol) used
+for data exchange on a local area network (LAN). The specification of
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/openigtlink/OpenIGTLink/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

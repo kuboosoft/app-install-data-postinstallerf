@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-dalli</b>'
+Comment='<span size="xx-large">High performance memcached client for Ruby</span>'
+Comment3='
+High performance memcached client for Ruby
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/mperham/dalli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

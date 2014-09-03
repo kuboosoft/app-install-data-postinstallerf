@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-realboxes</b>'
+Comment='<span size="xx-large">Variants of common box-commands that read their content as real box and not as macro argument</span>'
+Comment3='
+The package uses the authors package collectbox to define
+variants of common box related macros which read the content as
+real box and not as macro argument. This enables the use of
+verbatim or other special material as part of this content. The
+provided macros have the same names as the original versions
+but start with an upper-case letter instead. The "long-form"
+macros, like \Makebox, can also be used as environments, but
+not the "short-form" macros, like \Mbox. However, normally the
+long form uses the short form anyway when no optional arguments
+are used.
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

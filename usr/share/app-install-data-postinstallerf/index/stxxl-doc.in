@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>stxxl-doc</b>'
+Comment='<span size="xx-large">HTML documentation and tutorial for the stxxl applications</span>'
+Comment3='
+This package contains the documentation in the HTML format of the stxxl
+package.
+'
+License='Boost'
+Screenshot=''
+Url='http://stxxl.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

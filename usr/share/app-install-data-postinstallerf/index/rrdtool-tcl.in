@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rrdtool-tcl</b>'
+Comment='<span size="xx-large">Tcl RRDtool bindings</span>'
+Comment3='
+The rrdtool-tcl package includes RRDtool bindings for Tcl.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://oss.oetiker.ch/rrdtool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

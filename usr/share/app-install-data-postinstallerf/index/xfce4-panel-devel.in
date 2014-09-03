@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xfce4-panel-devel</b>'
+Comment='<span size="xx-large">Development headers for xfce4-panel</span>'
+Comment3='
+This package includes the header files you will need to build
+plugins for xfce4-panel.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

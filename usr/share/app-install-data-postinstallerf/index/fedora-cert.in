@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fedora-cert</b>'
+Comment='<span size="xx-large">Fedora certificate tool and python library</span>'
+Comment3='
+Provides fedora-cert and the fedora_cert python library
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/fedora-packager'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

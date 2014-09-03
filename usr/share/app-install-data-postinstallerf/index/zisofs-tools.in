@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zisofs-tools</b>'
+Comment='<span size="xx-large">Utilities for creating compressed CD-ROM filesystems</span>'
+Comment3='
+A utility which works in combination with an appropriately patched
+version of mkisofs to allow the creation of compressed CD-ROM
+filesystems.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.kernel.org/pub/linux/utils/fs/zisofs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

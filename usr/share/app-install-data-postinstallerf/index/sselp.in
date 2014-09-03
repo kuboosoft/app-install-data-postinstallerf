@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sselp</b>'
+Comment='<span size="xx-large">Prints X selection to standard out</span>'
+Comment3='
+Prints X selection to standard out.
+'
+License='MIT'
+Screenshot=''
+Url='http://tools.suckless.org/sselp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

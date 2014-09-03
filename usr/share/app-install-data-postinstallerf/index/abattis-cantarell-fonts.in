@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>abattis-cantarell-fonts</b>'
+Comment='<span size="xx-large">Cantarell, a Humanist sans-serif font family</span>'
+Comment3='
+Cantarell is a set of fonts designed by Dave Crossland.
+It is a sans-serif humanist typeface family.
+'
+License='OFL'
+Screenshot=''
+Url='http://abattis.org/cantarell/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

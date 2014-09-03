@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-conduit-devel</b>'
+Comment='<span size="xx-large">Haskell conduit library development files</span>'
+Comment3='
+This package provides the Haskell conduit library development files.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/conduit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>starplot-contrib</b>'
+Comment='<span size="xx-large">Stellar data set for use by the StarPlot tool</span>'
+Comment3='
+Stellar data set for use by the StarPlot tool contributed by users.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://starplot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

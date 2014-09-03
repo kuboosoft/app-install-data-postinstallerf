@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>derelict-DevIL</b>'
+Comment='<span size="xx-large">Libraries to use DevIL</span>'
+Comment3='
+Libraries for DevIL to use in D programming language.
+
+URL          http//www.dsource.org/projects/
+'
+License='Boost'
+Screenshot=''
+Url='http://www.dsource.org/projects/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

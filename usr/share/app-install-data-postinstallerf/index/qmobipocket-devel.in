@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qmobipocket-devel</b>'
+Comment='<span size="xx-large">Development files for qmobipocket</span>'
+Comment3='
+Development files for qmobipocket.
+
+URL          https//projects.kde.org/projects/kde/kdegraphics/mobipocket
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/mobipocket'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

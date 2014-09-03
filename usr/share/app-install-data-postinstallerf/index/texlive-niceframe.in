@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-niceframe</b>'
+Comment='<span size="xx-large">Support for fancy frames</span>'
+Comment3='
+The package defines means of drawing frames around boxes, using
+dingbat fonts. Some (Metafont) font sources are included; the
+fonts are available separately in Type 1 format.
+
+date 2011-06-16 203520 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

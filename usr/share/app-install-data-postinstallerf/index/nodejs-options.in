@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-options</b>'
+Comment='<span size="xx-large">Light-weight in-code option parser for nodejs</span>'
+Comment3='
+A very light-weight in-code option parser for nodejs.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/einaros/options.js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

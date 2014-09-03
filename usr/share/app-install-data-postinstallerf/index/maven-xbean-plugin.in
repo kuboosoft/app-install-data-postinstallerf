@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-xbean-plugin</b>'
+Comment='<span size="xx-large">XBean plugin for Apache Maven</span>'
+Comment3='
+This package provides XBean plugin for Apache Maven.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://geronimo.apache.org/xbean/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

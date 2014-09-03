@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ayttm</b>'
+Comment='<span size="xx-large">Universal Instant Messaging Client</span>'
+Comment3='
+Ayttm is designed to become a Universal Instant Messaging client, seamlessly
+integrating all existing Instant Messaging clients and providing a single
+consistant user interface. Currently, Ayttm supports sending and receiving
+messages through AOL, ICQ, Yahoo, MSN, IRC and Jabber.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://ayttm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

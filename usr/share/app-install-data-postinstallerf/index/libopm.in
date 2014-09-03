@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libopm</b>'
+Comment='<span size="xx-large">Blitzed open proxy monitor library</span>'
+Comment3='
+An open proxy detection library, developed by the blitzed
+IRC network team. Its original use was to detect open proxies
+running on clients connecting to various IRC servers, but it
+has evolved to become a generic open proxy detection library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.blitzed.org/BOPM'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

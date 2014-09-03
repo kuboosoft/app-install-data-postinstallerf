@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>AntTweakBar</b>'
+Comment='<span size="xx-large">GUI library for videogame property editing UIs</span>'
+Comment3='
+Library for easily creating and using tweakable properties in an OpenGL
+or SDL application, designed primarily for professional game developers.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://www.antisphere.com/Wiki/tools:anttweakbar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

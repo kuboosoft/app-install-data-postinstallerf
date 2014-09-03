@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>python3-bpython</b>'
+Comment='<span size="xx-large">Fancy curses interface to the Python 3 interactive interpreter</span>'
+Comment3='
+bpython is a fancy interface to the Python interpreter for Unix-like
+operating systems. It has the following features
+ o in-line syntax highlighting
+ o readline-like autocomplete with suggestions displayed as you type
+ o expected parameter list for any Python function.
+ o eewind function to pop the last line of code from memory and
+   re-evaluate.
+ o send the code youve entered off to a pastebin and display the
+   pastebin URL for copying, etc.
+ o save the code youve entered to a file
+'
+License='MIT'
+Screenshot=''
+Url='http://www.bpython-interpreter.org/'
+   pastebin URL for copying, etc.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iniparser</b>'
+Comment='<span size="xx-large">C library for parsing "INI-style" files</span>'
+Comment3='
+iniParser is an ANSI C library to parse "INI-style" files, often used to
+hold application configuration information.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://ndevilla.free.fr/iniparser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

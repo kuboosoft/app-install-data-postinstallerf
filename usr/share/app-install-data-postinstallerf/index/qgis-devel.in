@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qgis-devel</b>'
+Comment='<span size="xx-large">Development Libraries for the Quantum GIS</span>'
+Comment3='
+Development packages for Quantum GIS including the C header files.
+
+URL          http//www.qgis.org
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.qgis.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

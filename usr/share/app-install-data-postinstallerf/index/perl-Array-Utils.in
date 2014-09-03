@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Array-Utils</b>'
+Comment='<span size="xx-large">Small utils for array manipulation</span>'
+Comment3='
+A small pure-perl module containing list manipulation routines,
+to avoid code duplication, idioms.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Array-Utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

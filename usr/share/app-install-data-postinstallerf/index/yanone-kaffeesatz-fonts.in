@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yanone-kaffeesatz-fonts</b>'
+Comment='<span size="xx-large">Yanone Kaffeesatz decorative fonts</span>'
+Comment3='
+Sans-serif decorative Latin OTF font by Jan Gerner, suitable for titles and
+short runs of text.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.yanone.de/typedesign/kaffeesatz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

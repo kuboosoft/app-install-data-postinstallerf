@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ldapdiff</b>'
+Comment='<span size="xx-large">Tool for incremental LDAP directory updates based on ldif files</span>'
+Comment3='
+ldapdiff combines "diff" and "patch" functionality in one application.
+The difference is, that ldapdiff is not designed for use on flat ascii
+files, it is designed for "patching" ldap directories using ldif files.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://launchpad.net/ldapdiff'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

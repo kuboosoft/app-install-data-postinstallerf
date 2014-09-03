@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plank-devel</b>'
+Comment='<span size="xx-large">Development files for plank</span>'
+Comment3='
+Development files for plank
+
+URL          http//wiki.go-docky.com/index.php?title=PlankIntroduction
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.go-docky.com/index.php?title=Plank:Introduction'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rafkill</b>'
+Comment='<span size="xx-large">Top-down shooter with powerups</span>'
+Comment3='
+Rafkill is a vertical scrolling shoot-em up game. You can collect powerups
+during gameplay and you can goto the store with your spaceship and buy
+powerups or even a complete new ship with the points youve earned sofar.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://raptorv2.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

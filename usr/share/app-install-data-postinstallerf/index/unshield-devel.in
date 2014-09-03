@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>unshield-devel</b>'
+Comment='<span size="xx-large">Files needed for software development with unshield</span>'
+Comment3='
+The unshield-devel package contains the files needed for development with
+unshield
+
+'
+License='MIT'
+Screenshot=''
+Url='http://synce.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

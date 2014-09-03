@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apiextractor-devel</b>'
+Comment='<span size="xx-large">Development files for apiextractor</span>'
+Comment3='
+The apiextractor-devel package contains libraries and header files for
+developing applications that use apiextractor.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.pyside.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

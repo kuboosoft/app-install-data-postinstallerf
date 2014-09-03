@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dspam-client</b>'
+Comment='<span size="xx-large">The DSPAM client program used to talk to dspam daemon</span>'
+Comment3='
+The DSPAM client program communicates with a server to process emails.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nuclearelephant.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

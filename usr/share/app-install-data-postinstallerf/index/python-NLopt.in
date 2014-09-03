@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-NLopt</b>'
+Comment='<span size="xx-large">Python bindings for NLopt</span>'
+Comment3='
+This package contains Python bindings for NLopt.
+'
+License='BSD and LGPLv2+ and MIT and Public Domain'
+Screenshot=''
+Url='http://ab-initio.mit.edu/nlopt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

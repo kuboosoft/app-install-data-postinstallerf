@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mpg123-plugins-pulseaudio</b>'
+Comment='<span size="xx-large">Pulseaudio output plug-in for mpg123</span>'
+Comment3='
+Pulseaudio output plug-in for mpg123.
+'
+License='GPLv2+ and LGPLv2'
+Screenshot=''
+Url='http://mpg123.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

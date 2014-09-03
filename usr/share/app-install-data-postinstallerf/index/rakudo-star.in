@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rakudo-star</b>'
+Comment='<span size="xx-large">Rakudo, Perl6-modules and documentation</span>'
+Comment3='
+Rakudo Perl 6, or just Rakudo, is a Perl 6 compiler for the Parrot virtual
+machine. Rakudo is an implementation of the Perl 6 specification that runs
+on the Parrot VM. More information about Perl 6 is available from
+http//perl6.org
+Rakudo Star is a collection of things around Rakudo. It installs Perl 6 modules.
+The documentation includes a PDF-document that describes the using of Perl 6.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://www.rakudo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kitutuki-devel</b>'
+Comment='<span size="xx-large">Development files for kitutuki</span>'
+Comment3='
+kitutuki-devel package contains libraries and header files for
+developing applications that use kitutuki.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://ab25cq.web.fc2.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

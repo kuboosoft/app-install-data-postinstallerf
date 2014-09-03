@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kcbench-data</b>'
+Comment='<span size="xx-large">Kernel sources to be used by kcbench</span>'
+Comment3='
+Linux Kernel sources to be compiled by kcbench to benchmark system
+performance or test system stability.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/Packages/kcbench'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dhewm3</b>'
+Comment='<span size="xx-large">Dhewms Doom 3 engine</span>'
+Comment3='
+dhewm3 3 is a Doom 3 GPL source modification. The goal of dhewm3 3 is bring
+DOOM 3 with the help of SDL to all suitable platforms. Bugs present in the
+original DOOM 3 will be fixed (when identified) without altering the original
+game-play.
+'
+License='GPLv3+ and BSD'
+Screenshot=''
+Url='https://github.com/dhewm/dhewm3'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

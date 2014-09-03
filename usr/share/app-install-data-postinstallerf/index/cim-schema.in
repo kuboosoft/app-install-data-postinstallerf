@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cim-schema</b>'
+Comment='<span size="xx-large">Common Information Model (CIM) Schema</span>'
+Comment3='
+Common Information Model (CIM) is a model for describing overall
+management information in a network or enterprise environment. CIM
+consists of a specification and a schema. The specification defines the
+details for integration with other management models. The schema
+provides the actual model descriptions.
+
+Authors
+'
+License='DMTF'
+Screenshot=''
+Url='http://www.dmtf.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

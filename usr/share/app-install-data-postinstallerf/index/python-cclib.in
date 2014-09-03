@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-cclib</b>'
+Comment='<span size="xx-large">A library for processing results of computational chemistry packages</span>'
+Comment3='
+cclib is an open source library, written in Python, for parsing and
+interpreting the results of computational chemistry packages. The current
+version, cclib 0.9, parses output files from ADF, GAMESS (US), GAMESS-UK,
+Gaussian, Jaguar, Molpro, ORCA and PC GAMESS.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cclib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

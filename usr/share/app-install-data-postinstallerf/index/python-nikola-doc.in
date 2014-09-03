@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-nikola-doc</b>'
+Comment='<span size="xx-large">Documentation for Nikola, a static site generator</span>'
+Comment3='
+python-nikola-doc contains detailed usage instructions for Nikola, a static
+website and blog generator in python.
+'
+License='MIT'
+Screenshot=''
+Url='http://getnikola.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

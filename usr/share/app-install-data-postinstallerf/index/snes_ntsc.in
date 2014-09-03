@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>snes_ntsc</b>'
+Comment='<span size="xx-large">Provides a SNES NTSC video filtering library</span>'
+Comment3='
+Super NES NTSC video filter. The main benefit is color mixing, as composite
+video artifacts are less noticeable than on the NES. Accepts pixels in 16-bit
+RGB or 15-bit BGR (native SNES format).
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.slack.net/~ant/libs/ntsc.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

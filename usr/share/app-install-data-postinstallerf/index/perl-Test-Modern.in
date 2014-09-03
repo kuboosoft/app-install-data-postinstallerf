@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Test-Modern</b>'
+Comment='<span size="xx-large">Precision testing for modern perl</span>'
+Comment3='
+TestModern provides the best features of TestMore, TestFatal,
+TestWarnings, TestAPI, TestLongString, and TestDeep, as well as ideas
+from TestRequires, TestDescribeMe, TestMoose, and TestCleanNamespaces.
+
+TestModern also automatically imposes strict and warnings on your script,
+and loads IOFile (much of the same stuff ModernPerl does).
+'
+License='(GPL+ or Artistic) and CC-BY-SA'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Modern/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

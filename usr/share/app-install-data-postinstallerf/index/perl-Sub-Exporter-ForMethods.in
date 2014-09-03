@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Sub-Exporter-ForMethods</b>'
+Comment='<span size="xx-large">Helper routines for using Sub::Exporter to build methods</span>'
+Comment3='
+This package provides helper routines for using SubExporter to build methods
+that wont be removed by namespaceautoclean.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sub-Exporter-ForMethods/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-slop</b>'
+Comment='<span size="xx-large">Option gathering made easy</span>'
+Comment3='
+A simple DSL for gathering options and parsing the command line
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/injekt/slop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

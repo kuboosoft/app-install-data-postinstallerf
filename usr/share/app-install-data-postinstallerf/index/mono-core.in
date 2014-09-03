@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mono-core</b>'
+Comment='<span size="xx-large">The Mono CIL runtime, suitable for running .NET code</span>'
+Comment3='
+This package contains the core of the Mono runtime including its
+Virtual Machine, Just-in-time compiler, C# compiler, security
+tools and libraries (corlib, XML, System.Security, ZipLib,
+I18N, Cairo and Mono.*).
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

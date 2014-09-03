@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tinycdb-devel</b>'
+Comment='<span size="xx-large">Development files for tinycdb</span>'
+Comment3='
+tinycdb is a small, fast and reliable utility set and subroutine
+library for creating and reading constant databases.
+
+This package contains tinycdb development library and header file for
+developing applications that use tinycdb.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.corpit.ru/mjt/tinycdb.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-i18n-Polish</b>'
+Comment='<span size="xx-large">Polish(pl) language support for KDE3</span>'
+Comment3='
+Polish(pl) language support for KDE3.
+'
+License='GFDL'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

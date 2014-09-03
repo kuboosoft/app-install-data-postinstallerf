@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-pdfjam</b>'
+Comment='<span size="xx-large">Shell scripts interfacing to pdfpages</span>'
+Comment3='
+This is a collection of shell scripts which provide an
+interface to the pdfpages LaTeX package. They do such jobs as
+selecting pages, concatenating files, doing n-up formatting,
+and so on.
+
+date 2012-06-17 014714 +0200
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

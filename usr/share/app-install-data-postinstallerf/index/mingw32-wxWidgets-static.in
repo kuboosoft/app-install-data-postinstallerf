@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw32-wxWidgets-static</b>'
+Comment='<span size="xx-large">Static libraries for mingw32-wxWidgets development</span>'
+Comment3='
+The mingw32-wxWidgets-static package contains static library for
+mingw32-wxWidgets development.
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://wxwidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

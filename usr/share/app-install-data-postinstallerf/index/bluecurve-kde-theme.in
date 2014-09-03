@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bluecurve-kde-theme</b>'
+Comment='<span size="xx-large">Bluecurve KDE 3 theme</span>'
+Comment3='
+This package contains a KDE 3 theme that uses the Qt 3 Bluecurve engine.
+
+URL          http//www.redhat.com
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

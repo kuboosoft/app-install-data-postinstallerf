@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-foreman_api</b>'
+Comment='<span size="xx-large">Ruby bindings for Formans rest API</span>'
+Comment3='
+Helps you to use Foremans API calls from your app.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/theforeman/foreman_api'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

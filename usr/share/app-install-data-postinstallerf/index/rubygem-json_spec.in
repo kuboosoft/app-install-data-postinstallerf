@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-json_spec</b>'
+Comment='<span size="xx-large">Easily handle JSON in RSpec and Cucumber</span>'
+Comment3='
+RSpec matchers and Cucumber steps for testing JSON content.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/collectiveidea/json_spec'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>BareBonesBrowserLaunch</b>'
+Comment='<span size="xx-large">Simple library to launch a browser window from Java</span>'
+Comment3='
+Utility class to open a web page from a Swing application in the users
+default browser. Supports Mac OS X, GNU/Linux, Unix, Windows XP
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.centerkey.com/java/browser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

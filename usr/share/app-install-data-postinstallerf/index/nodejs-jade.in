@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-jade</b>'
+Comment='<span size="xx-large">Jade template engine for Node.js</span>'
+Comment3='
+Jade is a high performance template engine heavily influenced by Haml and
+implemented with JavaScript for Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/jade'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

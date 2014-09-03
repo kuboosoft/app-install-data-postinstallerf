@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gpsman</b>'
+Comment='<span size="xx-large">A GPS manager</span>'
+Comment3='
+GPS Manager (GPSMan) is a graphical manager of GPS data that makes possible
+the preparation, inspection and edition of GPS data in a friendly environment.
+
+GPSMan supports communication and real-time logging with both Garmin and
+Lowrance receivers and accepts real-time logging information in NMEA 0183
+from any GPS receiver.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ncc.up.pt/gpsman/wGPSMan_4.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

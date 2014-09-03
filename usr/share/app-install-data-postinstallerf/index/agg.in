@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>agg</b>'
+Comment='<span size="xx-large">Anti-Grain Geometry graphical rendering engine</span>'
+Comment3='
+A High Quality Rendering Engine for C++.
+
+URL          http//www.antigrain.com
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.antigrain.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

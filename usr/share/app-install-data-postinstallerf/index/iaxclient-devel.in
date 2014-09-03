@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iaxclient-devel</b>'
+Comment='<span size="xx-large">Development files for iaxclient</span>'
+Comment3='
+The iaxclient-devel package contains libraries and header files for
+developing applications that use iaxclient.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://iaxclient.wiki.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

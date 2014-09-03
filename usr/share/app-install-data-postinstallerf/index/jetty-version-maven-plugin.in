@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jetty-version-maven-plugin</b>'
+Comment='<span size="xx-large">Jetty version management Maven plugin</span>'
+Comment3='
+Jetty version management Maven plugin
+'
+License='ASL 2.0 or EPL'
+Screenshot=''
+Url='http://www.eclipse.org/jetty/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

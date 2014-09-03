@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libreport-fedora</b>'
+Comment='<span size="xx-large">Default configuration for reporting bugs via Fedora infrastructure</span>'
+Comment3='
+Default configuration for reporting bugs via Fedora infrastructure
+used to easy configure the reporting process for Fedora systems. Just
+install this package and youre done.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

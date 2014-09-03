@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal6-vote_up_down</b>'
+Comment='<span size="xx-large">Provides a configurable up/down voting widget for other modules</span>'
+Comment3='
+Allows votes on some drupal entities and provides the base for implementing
+votes on other entities.
+
+Features
+* Vote on nodes, comments and taxonomy terms on a node
+* Interchangeable voting widget themes
+* Code voting support for your own objects
+* Make your own widgets using ctools plugins
+* And more!
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/vote_up_down'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

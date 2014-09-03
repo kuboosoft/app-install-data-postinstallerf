@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-libxml2</b>'
+Comment='<span size="xx-large">MinGW Windows libxml2 XML processing library</span>'
+Comment3='
+MinGW Windows libxml2 XML processing library.
+'
+License='MIT'
+Screenshot=''
+Url='http://xmlsoft.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

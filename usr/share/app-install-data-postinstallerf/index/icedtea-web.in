@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>icedtea-web</b>'
+Comment='<span size="xx-large">Additional Java components for OpenJDK - Java browser plug-in and Web Start implementation</span>'
+Comment3='
+The IcedTea-Web project provides a Java web browser plugin, an implementation
+of Java Web Start (originally based on the Netx project) and a settings tool to
+manage deployment settings for the aforementioned plugin and Web Start
+implementations.
+'
+License='LGPLv2+ and GPLv2 with exceptions'
+Screenshot=''
+Url='http://icedtea.classpath.org/wiki/IcedTea-Web'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

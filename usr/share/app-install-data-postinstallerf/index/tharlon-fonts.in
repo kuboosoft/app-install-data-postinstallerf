@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>tharlon-fonts</b>'
+Comment='<span size="xx-large">The Myanmar font which is designed by Ngwe Tun</span>'
+Comment3='
+TharLon is an authentic Myanmar typeface which covers several languages, such
+as Burmese, Mon, Shan, Karen, Pao, Asho Chin, Kayah and Karenni, for use on
+the web and in all other digital typography software. The name TharLon was
+the name of the King who standardized the units of measurement during the
+ancient Burmese Kingdom Era.
+
+The TharLon font is designed by Ngwe Tun, and distributed under the SIL
+'
+License='OFL'
+Screenshot=''
+Url='http://code.google.com/p/tharlon-font/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

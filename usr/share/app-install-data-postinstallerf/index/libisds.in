@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libisds</b>'
+Comment='<span size="xx-large">Library for accessing the Czech Data Boxes</span>'
+Comment3='
+This is a library for accessing ISDS (Informa?n? syst?m datov?ch schr?nek /
+Data Box Information System) SOAP?services as defined in Czech ISDS Act
+(300/2008 Coll.) and implied documents.
+
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://xpisar.wz.cz/libisds/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-Bottleneck</b>'
+Comment='<span size="xx-large">Collection of fast NumPy array functions written in Cython</span>'
+Comment3='
+python3-Bottleneck is a collection of fast NumPy array functions
+written in Cython.
+'
+License='BSD'
+Screenshot=''
+Url='http://berkeleyanalytics.com/bottleneck'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

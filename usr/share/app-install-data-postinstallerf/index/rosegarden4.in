@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rosegarden4</b>'
+Comment='<span size="xx-large">MIDI, audio and notation editor</span>'
+Comment3='
+Rosegarden is a professional audio and MIDI sequencer, score editor, and
+general purpose music composition and editing environment.
+
+Rosegarden is an easy to learn, attractive application, ideal for composers,
+musicians, music students, and small studio or home recording environments.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rosegardenmusic.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

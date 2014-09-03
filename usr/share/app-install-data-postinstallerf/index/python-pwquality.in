@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-pwquality</b>'
+Comment='<span size="xx-large">Python bindings for the libpwquality library</span>'
+Comment3='
+This is pwquality Python module that provides Python bindings
+for the libpwquality library. These bindings can be used
+for easy password quality checking and generation of random
+pronounceable passwords from Python applications.
+'
+License='BSD or GPLv2+'
+Screenshot=''
+Url='http://libpwquality.fedorahosted.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

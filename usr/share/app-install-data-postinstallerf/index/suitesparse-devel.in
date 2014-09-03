@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>suitesparse-devel</b>'
+Comment='<span size="xx-large">Development headers for SuiteSparse</span>'
+Comment3='
+The suitesparse-devel package contains files needed for developing
+applications which use the suitesparse libraries.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.cise.ufl.edu/research/sparse/SuiteSparse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

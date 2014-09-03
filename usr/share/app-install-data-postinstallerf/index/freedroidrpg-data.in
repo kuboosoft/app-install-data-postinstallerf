@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freedroidrpg-data</b>'
+Comment='<span size="xx-large">Data files for the freedroidrpg game</span>'
+Comment3='
+Data files for the freedroidrpg game.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://freedroid.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

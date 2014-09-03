@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libogg-devel</b>'
+Comment='<span size="xx-large">Files needed for development using libogg</span>'
+Comment3='
+Libogg is a library used for manipulating Ogg bitstreams. The
+libogg-devel package contains the header files and documentation
+needed for development using libogg.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.xiph.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Net-Domain-TLD</b>'
+Comment='<span size="xx-large">Work with TLD names</span>'
+Comment3='
+The purpose of this module is to provide user with current list of
+available top level domain names including new ICANN additions and ccTLDs.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-Domain-TLD/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

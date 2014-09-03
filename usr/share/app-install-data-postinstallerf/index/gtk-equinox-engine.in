@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk-equinox-engine</b>'
+Comment='<span size="xx-large">Equinox theme engine for GTK+ 2.x</span>'
+Comment3='
+A new engine derived from Aurora 1.4. It features smooth gradients or glassy
+effects, subtle shadows, rounded widgets.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnome-look.org/content/show.php/Equinox+GTK+Engine?content=121881'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

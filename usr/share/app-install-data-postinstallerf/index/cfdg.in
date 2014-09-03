@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cfdg</b>'
+Comment='<span size="xx-large">Context Free Design Grammar</span>'
+Comment3='
+Context Free is a program that generates images from written instructions
+called a grammar. The program follows the instructions in a few seconds to
+create images that can contain millions of shapes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.contextfreeart.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

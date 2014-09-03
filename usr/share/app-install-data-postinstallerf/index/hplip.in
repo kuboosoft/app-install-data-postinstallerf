@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>hplip</b>'
+Comment='<span size="xx-large">HP Linux Imaging and Printing Project</span>'
+Comment3='
+The Hewlett-Packard Linux Imaging and Printing Project provides
+drivers for HP printers and multi-function peripherals.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://hplip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-NOCpulse-Object</b>'
+Comment='<span size="xx-large">NOCpulse Object abstraction for Perl</span>'
+Comment3='
+NOCpulse provides application, network, systems and transaction monitoring,
+coupled with a comprehensive reporting system including availability,
+historical and trending reports in an easy-to-use browser interface.
+
+This package contain an abstract PERL class that tries and fails to cover up
+the ugliness that is OO in Perl, amongst other things.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

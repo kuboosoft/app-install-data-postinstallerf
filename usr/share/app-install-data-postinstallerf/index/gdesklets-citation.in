@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gdesklets-citation</b>'
+Comment='<span size="xx-large">Display quote</span>'
+Comment3='
+Display quote in french periodically from your wallpaper
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gdesklets.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

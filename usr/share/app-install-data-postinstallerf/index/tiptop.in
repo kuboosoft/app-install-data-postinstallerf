@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>tiptop</b>'
+Comment='<span size="xx-large">Performance monitoring tool based on hardware counters</span>'
+Comment3='
+Hardware performance monitoring counters have recently received a lot of
+attention. They have been used by diverse communities to understand and
+improve the quality of computing systems For example, architects use them to
+extract application characteristics and propose new hardware mechanisms;
+compiler writers study how generated code behaves on particular hardware;
+software developers identify critical regions of their applications and
+evaluate design choices to select the best performing implementation. We
+propose that counters be used by all categories of users, in particular
+non-experts, and we advocate that a few simple metrics derived from these
+counters are relevant and useful. For example, a low IPC (number of executed
+'
+License='GPLv2'
+Screenshot=''
+Url='http://tiptop.gforge.inria.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>deltaiso</b>'
+Comment='<span size="xx-large">Create deltas between isos containing rpms</span>'
+Comment3='
+This package contains tools for creating and using deltasisos,
+a difference between an old and a new iso containing rpms.
+'
+License='BSD'
+Screenshot=''
+Url='http://gitorious.org/deltarpm/deltarpm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

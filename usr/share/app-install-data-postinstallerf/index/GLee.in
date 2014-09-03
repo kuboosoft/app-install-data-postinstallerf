@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>GLee</b>'
+Comment='<span size="xx-large">GL Easy Extension library</span>'
+Comment3='
+GLee (GL Easy Extension library) is a free cross-platform extension loading
+library for OpenGL. It provides seamless support for OpenGL functions up
+to version 3.0 and 399 extensions.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://elf-stone.com/glee.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

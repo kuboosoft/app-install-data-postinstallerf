@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-IPC-System-Simple</b>'
+Comment='<span size="xx-large">Run commands simply, with detailed diagnostics</span>'
+Comment3='
+Calling Perls in-built system() function is easy; determining if it
+was successful is _hard_. Lets face it, $? isnt the nicest variable
+in the world to play with, and even if you _do_ check it, producing a
+well-formatted error string takes a lot of work. IPCSystemSimple
+takes the hard work out of calling external commands. In fact, if you
+want to be really lazy, you can just write
+
+    use IPCSystemSimple qw(system);
+and all of your "system" commands will either succeed (run to completion and
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IPC-System-Simple'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

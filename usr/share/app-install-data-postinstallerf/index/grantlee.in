@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>grantlee</b>'
+Comment='<span size="xx-large">Qt string template engine based on the Django template system</span>'
+Comment3='
+Grantlee is a plug-in based String Template system written
+using the Qt framework. The goals of the project are to make it easier for
+application developers to separate the structure of documents from the
+data they contain, opening the door for theming.
+
+The syntax is intended to follow the syntax of the Django template system,
+and the design of Django is reused in Grantlee.
+Django is covered by a BSD style license.
+Part of the design of both is that application developers can extend
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gitorious.org/grantlee/pages/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

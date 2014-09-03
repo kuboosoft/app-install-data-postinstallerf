@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-cssmin</b>'
+Comment='<span size="xx-large">A Python port of the YUI CSS compression algorithm</span>'
+Comment3='
+A Python port of the YUI CSS compression algorithm. The library can be used for
+merging and compressing CSS files.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/zacharyvoase/cssmin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

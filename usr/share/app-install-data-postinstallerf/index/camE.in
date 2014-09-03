@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>camE</b>'
+Comment='<span size="xx-large">Rewrite of the xawtv webcam app, which adds imlib2 support</span>'
+Comment3='
+camE is a rewrite of the xawtv webcam app, which adds imlib2 support and
+thus many new possibilities.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://linuxbrit.co.uk/camE/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

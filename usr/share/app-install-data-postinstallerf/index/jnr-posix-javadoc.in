@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jnr-posix-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jnr-posix</span>'
+Comment3='
+Javadoc for jnr-posix.
+'
+License='CPL or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://github.com/jnr/jnr-posix/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

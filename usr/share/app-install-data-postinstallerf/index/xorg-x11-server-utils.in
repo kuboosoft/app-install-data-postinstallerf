@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xorg-x11-server-utils</b>'
+Comment='<span size="xx-large">X.Org X11 X server utilities</span>'
+Comment3='
+A collection of utilities used to tweak and query the runtime configuration
+of the X server.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

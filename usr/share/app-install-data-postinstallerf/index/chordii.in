@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>chordii</b>'
+Comment='<span size="xx-large">Print songsbooks (lyrics + chords)</span>'
+Comment3='
+chordii provides guitar players and other musicians with a tool to
+produce good looking, self-descriptive music sheets from text files.
+
+chordii reads text files in chordpro format, containing the lyrics of
+songs, the chords to be played, their descriptions and some other
+optional data. It produces a PostScript document suitable for viewing
+and printing.
+chordii features include
+ - centered titles,
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://chordii.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

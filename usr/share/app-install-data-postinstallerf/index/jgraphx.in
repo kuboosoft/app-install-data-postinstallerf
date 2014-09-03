@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jgraphx</b>'
+Comment='<span size="xx-large">Java Graph Drawing Component</span>'
+Comment3='
+JGraphX is the a powerful, easy-to-use and feature-rich graph drawing
+component for Java. It is a rewrite of JGraph, also known as JGraph 6.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.jgraph.com/jgraph.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

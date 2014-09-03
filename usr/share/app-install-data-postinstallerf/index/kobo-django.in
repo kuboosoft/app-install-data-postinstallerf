@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kobo-django</b>'
+Comment='<span size="xx-large">Django components</span>'
+Comment3='
+Django components.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/kobo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

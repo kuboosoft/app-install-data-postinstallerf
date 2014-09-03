@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-punknova</b>'
+Comment='<span size="xx-large">OpenType version of Knuths Punk font</span>'
+Comment3='
+The font was generated from a MetaPost version of the sources
+of the original punk font. Knuths original fonts generated
+different shapes at random. This isnt actually possible in an
+OpenType font; rather, the font contains several variants of
+each glyph, and uses the OpenType randomize function to select
+a variant for each invocation.
+
+date 2011-11-23 113447 +0100
+'
+License='Punknova'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

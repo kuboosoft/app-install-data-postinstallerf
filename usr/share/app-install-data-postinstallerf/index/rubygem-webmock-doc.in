@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-webmock-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-webmock</span>'
+Comment3='
+Documentation for rubygem-webmock
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/bblimke/webmock'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

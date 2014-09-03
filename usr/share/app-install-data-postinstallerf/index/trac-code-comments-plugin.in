@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>trac-code-comments-plugin</b>'
+Comment='<span size="xx-large">Trac plugin for code comments and sending them to tickets</span>'
+Comment3='
+This plugin allows you to leave comments on top of files, change sets, and
+attachments. Once youve added all of your comments, you can send them to
+tickets. These include links to these comments and their description.
+'
+License='GPLv2+ and MIT and Public Domain and (MIT or GPLv2)'
+Screenshot=''
+Url='https://github.com/Automattic/trac-code-comments-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

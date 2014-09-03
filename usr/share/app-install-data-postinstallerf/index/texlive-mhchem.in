@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-mhchem</b>'
+Comment='<span size="xx-large">Typeset chemical formulae/equations and Risk and Safety phrases</span>'
+Comment3='
+The bundle provides three packages The mhchem package provides
+commands for typesetting chemical molecular formulae and
+equations. The hpstatement package provides commands for the
+official hazard statements and precautionary statements (H and
+P statements) that are used to label chemicals. The rsphrase
+package provides commands for the official Risk and Safety (R
+and S) Phrases that are used to label chemicals.
+
+date 2013-07-05 083935 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

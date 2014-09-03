@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nemo-devel</b>'
+Comment='<span size="xx-large">Support for developing nemo extensions</span>'
+Comment3='
+This package provides libraries and header files needed
+for developing nemo extensions.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/linuxmint/nemo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

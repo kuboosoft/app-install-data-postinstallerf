@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-pgf-soroban</b>'
+Comment='<span size="xx-large">Create images of the soroban using TikZ/PGF</span>'
+Comment3='
+The package makes it possible to create pictures of the soroban
+(Japanese abacus) using PGF/TikZ
+
+date 2013-11-28 102658 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

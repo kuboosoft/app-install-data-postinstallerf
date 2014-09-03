@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plymouth-theme-charge</b>'
+Comment='<span size="xx-large">Plymouth "Charge" plugin</span>'
+Comment3='
+This package contains the "charge" boot splash theme for
+Plymouth. It features the shadowy hull of a Fedora logo charge up and
+and finally burst into full form.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Plymouth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-crack-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-crack</span>'
+Comment3='
+This package contains documentation for rubygem-crack.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jnunemaker/crack'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

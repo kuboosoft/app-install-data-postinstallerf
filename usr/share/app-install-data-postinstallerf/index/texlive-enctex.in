@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-enctex</b>'
+Comment='<span size="xx-large">A TeX extension that translates input on its way into TeX</span>'
+Comment3='
+EncTeX is (another) tex extension, written at the change-file
+level. It provides means of translating input on the way into
+TeX. It allows, for example, translation of multibyte
+sequences, such as utf-8 encoding.
+
+date 2012-11-01 100610 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

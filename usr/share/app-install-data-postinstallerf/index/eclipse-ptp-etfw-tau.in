@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-ptp-etfw-tau</b>'
+Comment='<span size="xx-large">PTP External Tools Framework TAU Support</span>'
+Comment3='
+Extends the external tools framework with capabilities specific
+to the TAU performance analysis system.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/ptp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

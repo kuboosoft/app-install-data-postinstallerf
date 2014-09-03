@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pythonqt-devel</b>'
+Comment='<span size="xx-large">Lightweight script binding of the Qt framework to the Python language</span>'
+Comment3='
+Header files and development libraries for pythonqt package. PythonQt
+is a dynamic and lightweight script binding of the Qt framework
+to the Python language.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pythonqt.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

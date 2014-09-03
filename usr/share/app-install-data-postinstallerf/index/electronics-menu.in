@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>electronics-menu</b>'
+Comment='<span size="xx-large">Electronics Menu for the Desktop</span>'
+Comment3='
+The programs from the category Electronics are normally located
+in the Edutainment directory.
+This Package adds a Electronics menu to the xdg menu structure.
+
+electronics-menu is listed among Fedora Electronic Lab (FEL) packages.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://geda.seul.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

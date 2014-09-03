@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>postgresql-pltcl</b>'
+Comment='<span size="xx-large">The Tcl procedural language for PostgreSQL</span>'
+Comment3='
+The postgresql-pltcl package contains the PL/Tcl procedural language,
+which is an extension to the PostgreSQL database server.
+Install this if you want to write database functions in Tcl.
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

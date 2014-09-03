@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libstoragemgmt-targetd-plugin</b>'
+Comment='<span size="xx-large">Files for targetd array support for libstoragemgmt</span>'
+Comment3='
+The libstoragemgmt-targetd-plugin package contains plug-in for targetd array
+support.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libstoragemgmt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

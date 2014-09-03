@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lxde-icon-theme</b>'
+Comment='<span size="xx-large">Default icon theme for LXDE</span>'
+Comment3='
+nuoveXT2 is a very complete set of icons for several operating systems. It is
+also the default icon-theme of LXDE, the Lightweight X11 Desktop Environment.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://nuovext.pwsp.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

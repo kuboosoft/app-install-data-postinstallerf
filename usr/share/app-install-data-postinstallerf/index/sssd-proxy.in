@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sssd-proxy</b>'
+Comment='<span size="xx-large">The proxy back end of the SSSD</span>'
+Comment3='
+Provides the proxy back end which can be used to wrap an existing NSS and/or
+PAM modules to leverage SSSD caching.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

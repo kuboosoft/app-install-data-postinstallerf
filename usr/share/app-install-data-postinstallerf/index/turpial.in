@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>turpial</b>'
+Comment='<span size="xx-large">Cool twitter client with many features and very light</span>'
+Comment3='
+Twitter client written in Python. Lightweight, functional and integrated
+to desktop user.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://turpial.org.ve'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

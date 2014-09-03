@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>zeitgeist</b>'
+Comment='<span size="xx-large">Framework providing Desktop activity awareness</span>'
+Comment3='
+Zeitgeist is a service which logs the userss activities and events (files
+opened, websites visites, conversations hold with other people, etc.) and
+makes relevant information available to other applications.
+
+Note that this package only contains the daemon, which you can use
+together with several different user interfaces.
+'
+License='LGPLv2+ and LGPLv3+ and GPLv2+'
+Screenshot=''
+Url='http://zeitgeist-project.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

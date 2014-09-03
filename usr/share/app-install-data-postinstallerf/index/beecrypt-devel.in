@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>beecrypt-devel</b>'
+Comment='<span size="xx-large">Development files for the beecrypt toolkit and library</span>'
+Comment3='
+The beecrypt-devel package includes header files and libraries necessary
+for developing programs which use the beecrypt C toolkit and library. And
+beecrypt is a general-purpose cryptography library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://beecrypt.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

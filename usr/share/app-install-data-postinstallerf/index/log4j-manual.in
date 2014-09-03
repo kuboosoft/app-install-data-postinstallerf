@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>log4j-manual</b>'
+Comment='<span size="xx-large">Developer manual for log4j</span>'
+Comment3='
+Developer manual for log4j.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://logging.apache.org/log4j'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

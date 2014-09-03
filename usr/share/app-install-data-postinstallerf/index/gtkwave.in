@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtkwave</b>'
+Comment='<span size="xx-large">Waveform Viewer</span>'
+Comment3='
+GTKWave is a waveform viewer that can view VCD files produced by most Verilog
+simulation tools, as well as LXT files produced by certain Verilog simulation
+tools.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gtkwave.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

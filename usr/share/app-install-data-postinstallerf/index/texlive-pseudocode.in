@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-pseudocode</b>'
+Comment='<span size="xx-large">LaTeX environment for specifying algorithms in a natural way</span>'
+Comment3='
+This package provides the environment "pseudocode" for
+describing algorithms in a natural manner.
+
+date 2009-03-02 132403 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

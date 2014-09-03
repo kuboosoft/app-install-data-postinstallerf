@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-MonadRandom</b>'
+Comment='<span size="xx-large">Random-number generation monad</span>'
+Comment3='
+MonadRandom is a random number generation Monad.
+It provides support for computations which consume random values.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/MonadRandom'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

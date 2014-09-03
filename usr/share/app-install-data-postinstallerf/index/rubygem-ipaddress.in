@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-ipaddress</b>'
+Comment='<span size="xx-large">IPv4/IPv6 addresses manipulation library</span>'
+Comment3='
+IPAddress is a Ruby library designed to make manipulation
+of IPv4 and IPv6 addresses both powerful and simple. It maintains
+a layer of compatibility with Rubys own IPAddr, while
+addressing many of its issues.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/bluemonk/ipaddress'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

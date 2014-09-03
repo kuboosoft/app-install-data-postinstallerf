@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cswrap</b>'
+Comment='<span size="xx-large">Generic compiler wrapper</span>'
+Comment3='
+Generic compiler wrapper used by csmock to capture diagnostic messages.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://git.fedorahosted.org/cgit/cswrap.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

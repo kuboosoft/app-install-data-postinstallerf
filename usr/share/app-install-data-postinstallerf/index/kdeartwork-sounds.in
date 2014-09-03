@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdeartwork-sounds</b>'
+Comment='<span size="xx-large">Additional sounds</span>'
+Comment3='
+Additional sounds.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>boost-program-options</b>'
+Comment='<span size="xx-large">Run-Time component of boost program_options library</span>'
+Comment3='
+
+Run-Time support of boost program options library, which allows program
+developers to obtain (name, value) pairs from the user, via
+conventional methods such as command line and configuration file.
+'
+License='Boost and MIT and Python'
+Screenshot=''
+Url='http://www.boost.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

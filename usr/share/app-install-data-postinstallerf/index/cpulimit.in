@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>cpulimit</b>'
+Comment='<span size="xx-large">CPU Usage Limiter for Linux</span>'
+Comment3='
+cpulimit is a simple program which attempts to limit the CPU usage of a process
+(expressed in percentage, not in CPU time). This is useful to control batch
+jobs, when you dont want them to eat too much CPU. It does not act on the nice
+value or other scheduling priority stuff, but on the real CPU usage. Also, it
+is able to adapt itself to the overall system load, dynamically and quickly.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cpulimit.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

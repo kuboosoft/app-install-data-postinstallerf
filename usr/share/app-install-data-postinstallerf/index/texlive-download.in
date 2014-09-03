@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-download</b>'
+Comment='<span size="xx-large">Allow LaTeX to download files using an external process</span>'
+Comment3='
+The package allows the user to download files (using cURL or
+wget), from within a document. To run the external commands,
+flag; this creates a tension between your needs and the
+security implications of the flag; users should exercise due
+caution.
+
+date 2013-05-26 190107 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+The package allows the user to download files (using cURL or'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

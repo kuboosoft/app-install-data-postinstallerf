@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-BerkeleyDB</b>'
+Comment='<span size="xx-large">Interface to Berkeley DB</span>'
+Comment3='
+BerkeleyDB is a module that allows Perl programs to make use of the
+facilities provided by Berkeley DB version 2 or greater (note if
+you want to use version 1 of Berkeley DB with Perl you need the DB_File
+module).
+
+Berkeley DB is a C library that provides a consistent interface to a
+number of database formats. BerkeleyDB provides an interface to all
+four of the database types (hash, btree, queue and recno) currently
+supported by Berkeley DB.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/BerkeleyDB/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

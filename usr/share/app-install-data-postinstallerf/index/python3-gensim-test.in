@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-gensim-test</b>'
+Comment='<span size="xx-large">Testsuite for python-gensim</span>'
+Comment3='
+This package provides the testsuite for python-gensim.  You dont need it
+for everyday usage.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://radimrehurek.com/gensim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

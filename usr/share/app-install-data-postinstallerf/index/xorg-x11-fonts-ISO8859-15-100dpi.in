@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xorg-x11-fonts-ISO8859-15-100dpi</b>'
+Comment='<span size="xx-large">ISO8859-15-100dpi fonts</span>'
+Comment3='
+Contains a set of 100dpi fonts in the ISO8859-15 encoding which
+provide Euro support.
+'
+License='MIT and Lucida and Public Domain'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

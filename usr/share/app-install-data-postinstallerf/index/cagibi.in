@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cagibi</b>'
+Comment='<span size="xx-large">SSDP (UPnP discovery) cache/proxy daemon</span>'
+Comment3='
+Cagibi is a cache/proxy daemon for SSDP (the discovery part of UPnP).
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

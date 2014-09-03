@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gnujump</b>'
+Comment='<span size="xx-large">A jumping game which is a clone of xjump</span>'
+Comment3='
+GNUjump is a clone of the simple yet addictive game Xjump, adding new features
+like multiplaying, unlimited FPS, smooth floor falling, themable graphics,
+sounds,replays, etc.
+
+The goal in this game is to jump to the next floor trying not to fall down. As
+you go upper in the Falling Tower the floors will fall faster. Try to survive
+longer get upper than anyone. It might seem too simple but once youve tried
+youll realize how addictive this is.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gnu.org/software/gnujump'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-URI-Find-Simple</b>'
+Comment='<span size="xx-large">Simple interface to URI::Find</span>'
+Comment3='
+URIFind is all very well, but sometimes you just want a list of the links
+in a given piece of text, or you want to change all the URLs in some text
+somehow, and dont want to mess with callback interfaces.
+
+This module uses URIFind, but hides the callback interface, providing two
+functions - one to list all the uris, and one to change all the uris.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/URI-Find-Simple/'
+in a given piece of text, or you want to change all the URLs in some text'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

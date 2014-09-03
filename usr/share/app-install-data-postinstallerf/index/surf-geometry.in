@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>surf-geometry</b>'
+Comment='<span size="xx-large">Tool to visualize some real algebraic geometry</span>'
+Comment3='
+surf is a tool to visualize some real algebraic geometry
+plane algebraic curves, algebraic surfaces and hyperplane sections of surfaces.
+surf is script driven and has (optionally) a nifty GUI using the Gtk widget set.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://surf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

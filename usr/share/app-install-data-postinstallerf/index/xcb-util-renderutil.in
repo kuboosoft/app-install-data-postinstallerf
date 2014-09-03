@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xcb-util-renderutil</b>'
+Comment='<span size="xx-large">Convenience functions for the Render extension</span>'
+Comment3='
+XCB util-renderutil module provides the following library
+
+  - renderutil Convenience functions for the Render extension.
+'
+License='MIT'
+Screenshot=''
+Url='http://xcb.freedesktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

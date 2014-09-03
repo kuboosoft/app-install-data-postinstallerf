@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gspiceui</b>'
+Comment='<span size="xx-large">A frontend to Spice circuit similators</span>'
+Comment3='
+GspiceUI is listed among the Fedora Electronic Lab (FEL) packages.
+
+GNU Spice GUI is intended to provide a GUI to freely available
+Spice electronic cicuit simulators eg.GnuCAP, Ng-Spice.
+It uses gNetList to convert schematic files to net list files
+and gWave to display simulation results.
+gSchem is used as the schematic generation/viewing tool.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/gspiceui'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

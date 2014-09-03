@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dcm4che-test</b>'
+Comment='<span size="xx-large">Test images for dcm4che2</span>'
+Comment3='
+DCM4CHE Test Data and Libraries
+'
+License='MPLv1.1 or GPLv2 or LGPLv2'
+Screenshot=''
+Url='http://www.dcm4che.org/confluence/display/proj/The+Project'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

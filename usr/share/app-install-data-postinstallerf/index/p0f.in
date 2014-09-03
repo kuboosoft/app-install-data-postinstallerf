@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>p0f</b>'
+Comment='<span size="xx-large">Versatile passive OS fingerprinting tool</span>'
+Comment3='
+P0f is a versatile passive OS fingerprinting tool. P0f can identify the
+system on machines that talk thru or near your box. p0f will also check
+masquerading and firewall presence, the distance to the remote system and its
+uptime, other guys network hookup (DSL, OC3, avian carriers) and his ISP.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://lcamtuf.coredump.cx/p0f.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

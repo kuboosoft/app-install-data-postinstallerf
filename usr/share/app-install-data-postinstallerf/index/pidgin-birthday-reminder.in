@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pidgin-birthday-reminder</b>'
+Comment='<span size="xx-large">Birthday Reminder plugin for Pidgin</span>'
+Comment3='
+Pidgin Birthday Reminder reminds you of your buddies birthdays. Birthdays can
+be set by hand or be automatically filled-in for ICQ, MSN and XMPP protocols.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://freakazoid.teamblind.de/2009/02/14/pidgin-birthday-reminder/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

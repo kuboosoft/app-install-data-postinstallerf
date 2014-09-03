@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ovirt-node-tools</b>'
+Comment='<span size="xx-large">Tools for working with plugins on oVirt Node images</span>'
+Comment3='
+This package provides plugin tools for modifying and working with the
+oVirt Node image.
+This package is not to be installed on the oVirt Node,
+however on a development machine to work with the image.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

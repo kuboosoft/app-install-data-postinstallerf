@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-hpsdiss</b>'
+Comment='<span size="xx-large">A dissertation class</span>'
+Comment3='
+The class was developed to typeset a dissertation at ETH
+Zurich. The requirements were to use A5 paper and 10pt type. A
+sample of the output is shown in the PDF documentation link.
+
+date 2007-01-07 114719 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

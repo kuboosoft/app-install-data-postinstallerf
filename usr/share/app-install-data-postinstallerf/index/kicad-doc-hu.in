@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kicad-doc-hu</b>'
+Comment='<span size="xx-large">Documentation for Kicad in Hungarian</span>'
+Comment3='
+Documentation and tutorials for Kicad in Hungarian
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/kicad'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

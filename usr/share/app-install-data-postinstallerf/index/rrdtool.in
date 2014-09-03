@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>rrdtool</b>'
+Comment='<span size="xx-large">Round Robin Database Tool to store and display time-series data</span>'
+Comment3='
+RRD is the Acronym for Round Robin Database. RRD is a system to store and
+display time-series data (i.e. network bandwidth, machine-room temperature,
+server load average). It stores the data in a very compact way that will not
+expand over time, and it presents useful graphs by processing the data to
+enforce a certain data density. It can be used either via simple wrapper
+scripts (from shell or Perl) or via frontends that poll network devices and
+put a friendly user interface on it.
+
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://oss.oetiker.ch/rrdtool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

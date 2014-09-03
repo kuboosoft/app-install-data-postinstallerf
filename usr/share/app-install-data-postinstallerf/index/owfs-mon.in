@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>owfs-mon</b>'
+Comment='<span size="xx-large">Statistics and settings monitor for owserver</span>'
+Comment3='
+owfs-mon is a graphical monitor of owserver?s status
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.owfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

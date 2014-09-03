@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-Services</b>'
+Comment='<span size="xx-large">Web service APIs for a number of providers</span>'
+Comment3='
+This package contains web service client APIs for the following services
+
+- Akismet
+- Amazon (including EC2, S3)
+- Audioscrobbler
+- del.icio.us
+- Developer Garden
+- eBay
+- Flickr
+- LiveDocx
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+- Various URL Shortener services'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

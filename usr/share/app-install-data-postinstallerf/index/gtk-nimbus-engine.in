@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk-nimbus-engine</b>'
+Comment='<span size="xx-large">Gtk+ engine for nimbus</span>'
+Comment3='
+GTK+ engine for nimbus.
+
+URL          https//nimbus.dev.java.net/
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://nimbus.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

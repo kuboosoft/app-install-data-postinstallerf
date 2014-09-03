@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kawa-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for kawa</span>'
+Comment3='
+Javadoc for kawa.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gnu.org/software/kawa/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

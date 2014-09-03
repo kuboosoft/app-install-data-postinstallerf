@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-rdtool</b>'
+Comment='<span size="xx-large">Formatter for RD</span>'
+Comment3='
+RD is multipurpose documentation format created for documentating Ruby and
+output of Ruby world. You can embed RD into Ruby script. And RD have neat
+syntax which help you to read document in Ruby script. On the other hand, RD
+have a feature for class reference.
+'
+License='GPLv2+ or Ruby'
+Screenshot=''
+Url='https://github.com/uwabami/rdtool'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-HTTP-Soup</b>'
+Comment='<span size="xx-large">HTTP client/server library for GNOME</span>'
+Comment3='
+This module provides the Perl bindings for the C library libsoup.
+'
+License='LGPLv2 or Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-Soup/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

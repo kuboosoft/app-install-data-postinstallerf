@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>miglayout-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for MiGLayout</span>'
+Comment3='
+This package contains the API documentation for MiGLayout.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.miglayout.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

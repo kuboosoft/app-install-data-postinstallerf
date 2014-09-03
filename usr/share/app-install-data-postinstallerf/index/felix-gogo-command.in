@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>felix-gogo-command</b>'
+Comment='<span size="xx-large">Apache Felix Gogo Command</span>'
+Comment3='
+Provides basic shell commands for Gogo.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

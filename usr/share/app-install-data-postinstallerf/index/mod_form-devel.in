@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mod_form-devel</b>'
+Comment='<span size="xx-large">Apache module that decodes data submitted from Web forms</span>'
+Comment3='
+Utility to decode data submitted from Web forms. It deals with both GET
+and POST methods where the data are encoded using the default content type
+application/x-www-form-urlencoded. It does not decode multipart/form-data
+(file upload) forms for those you should use mod_upload.
+
+Development package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://apache.webthing.com/mod_form'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

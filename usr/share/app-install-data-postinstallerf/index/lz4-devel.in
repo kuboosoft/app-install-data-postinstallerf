@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lz4-devel</b>'
+Comment='<span size="xx-large">Development library for lz4</span>'
+Comment3='
+This package contains the header(.h) and library(.so) files required to build
+applications using liblz4 library.
+
+'
+License='BSD'
+Screenshot=''
+Url='https://code.google.com/p/lz4/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

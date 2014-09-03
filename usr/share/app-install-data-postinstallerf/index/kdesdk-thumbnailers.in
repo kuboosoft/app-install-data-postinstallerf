@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kdesdk-thumbnailers</b>'
+Comment='<span size="xx-large">Thumbnailers for KDE</span>'
+Comment3='
+Thumbnailers for KDE, including gnu gettext po translation files and
+gettext translation templates
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/kdesdk-thumbnailers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-armenian</b>'
+Comment='<span size="xx-large">Armenian hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Armenian for Unicode engines.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

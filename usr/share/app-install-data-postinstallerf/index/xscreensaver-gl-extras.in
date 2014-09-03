@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xscreensaver-gl-extras</b>'
+Comment='<span size="xx-large">An enhanced set of screensavers that require OpenGL</span>'
+Comment3='
+A modular screen saver and locker for the X Window System.
+This package contains a variety of OpenGL-based (3D) screen
+savers for your mind-numbing, ambition-eroding, time-wasting,
+hypnotized viewing pleasure.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.jwz.org/xscreensaver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

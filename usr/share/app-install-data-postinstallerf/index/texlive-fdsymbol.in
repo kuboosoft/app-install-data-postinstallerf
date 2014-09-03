@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-fdsymbol</b>'
+Comment='<span size="xx-large">A maths symbol font</span>'
+Comment3='
+FdSymbol is a maths symbol font, designed as a companion to the
+Fedra family by Typotheque, but it might also fit other
+contemporary typefaces.
+
+date 2012-05-29 125638 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

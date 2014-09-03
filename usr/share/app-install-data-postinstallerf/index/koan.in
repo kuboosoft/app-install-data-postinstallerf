@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>koan</b>'
+Comment='<span size="xx-large">Helper tool that performs cobbler orders on remote machines</span>'
+Comment3='
+
+Koan stands for kickstart-over-a-network and allows for both
+network installation of new virtualized guests and reinstallation
+of an existing system.  For use with a boot-server configured with Cobbler
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.cobblerd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

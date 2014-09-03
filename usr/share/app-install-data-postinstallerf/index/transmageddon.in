@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>transmageddon</b>'
+Comment='<span size="xx-large">Video transcoder</span>'
+Comment3='
+Transmageddon supports almost any format as its input and can generate a very
+large host of output files. The goal of the application was to help people to
+create the files they need to be able to play on their mobile devices and for
+people not hugely experienced with multimedia to generate a multimedia file
+without having to resort to command line tools with ungainly syntaxes.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.linuxrising.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

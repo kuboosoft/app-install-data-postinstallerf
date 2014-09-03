@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freediams-docs-en</b>'
+Comment='<span size="xx-large">English documentation for freediams</span>'
+Comment3='
+This package contains HTML documentation in English for freediams
+'
+License='GPLv3+ and LGPLv2'
+Screenshot=''
+Url='http://www.freemedforms.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

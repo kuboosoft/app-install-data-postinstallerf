@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ktorrent</b>'
+Comment='<span size="xx-large">A BitTorrent program</span>'
+Comment3='
+KTorrent is a BitTorrent program for KDE. Its main features are native KDE
+integration, download of torrent files, upload speed capping, internet
+searching using various search engines, UDP Trackers and UPnP support.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ktorrent.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

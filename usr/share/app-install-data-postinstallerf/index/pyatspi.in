@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pyatspi</b>'
+Comment='<span size="xx-large">Python bindings for at-spi</span>'
+Comment3='
+at-spi allows assistive technologies to access GTK-based
+applications. Essentially it exposes the internals of applications for
+automation, so tools such as screen readers, magnifiers, or even
+scripting interfaces can query and interact with GUI controls.
+
+This package includes a python2 client library for at-spi.
+'
+License='LGPLv2 and GPLv2'
+Screenshot=''
+Url='http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

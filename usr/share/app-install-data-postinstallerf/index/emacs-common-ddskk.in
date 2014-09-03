@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>emacs-common-ddskk</b>'
+Comment='<span size="xx-large">Daredevil SKK - Simple Kana to Kanji conversion program for Emacs</span>'
+Comment3='
+Daredevil SKK is a branch of SKK (Simple Kana to Kanji conversion program,
+an input method of Japanese). It forked from the maintrunk, SKK version 10.56.
+It consists of a simple core and many optional programs which provide extensive
+features, however, our target is to more simplify core, and more expand its
+optional features.
+
+This package does not include dictionaries or a skkserver. Please install them
+separately.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openlab.ring.gr.jp/skk/main.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

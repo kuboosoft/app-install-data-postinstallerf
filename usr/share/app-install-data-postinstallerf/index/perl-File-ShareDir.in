@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-File-ShareDir</b>'
+Comment='<span size="xx-large">Locate per-dist and per-module shared files</span>'
+Comment3='
+The intent of FileShareDir is to provide a companion to ClassInspector
+and FileHomeDir, modules that take a process that is well-known by
+advanced Perl developers but gets a little tricky, and make it more
+available to the larger Perl community.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-ShareDir/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

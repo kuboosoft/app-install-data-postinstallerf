@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jcodings</b>'
+Comment='<span size="xx-large">Java-based codings helper classes for Joni and JRuby</span>'
+Comment3='
+Java-based codings helper classes for Joni and JRuby.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jruby/jcodings'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

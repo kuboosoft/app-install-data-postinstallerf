@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>flim</b>'
+Comment='<span size="xx-large">Basic library for handling email messages for Emacs</span>'
+Comment3='
+FLIM is a library to provide basic features about message
+representation and encoding for Emacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kanji.zinbun.kyoto-u.ac.jp/~tomo/elisp/FLIM/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

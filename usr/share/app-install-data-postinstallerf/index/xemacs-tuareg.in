@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xemacs-tuareg</b>'
+Comment='<span size="xx-large">Compiled elisp files to run Tuareg-mode under XEmacs</span>'
+Comment3='
+Tuareg is an OCaml mode for GNU Emacs and XEmacs.  It handles
+automatic indentation of Objective Caml and Caml Light code.  Key
+parts of the code are highlighted using Font-Lock.  Support to run an
+interactive Caml toplevel and debbuger is provided.
+
+Install this package if you need to edit OCaml code in XEmacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://forge.ocamlcore.org/projects/tuareg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

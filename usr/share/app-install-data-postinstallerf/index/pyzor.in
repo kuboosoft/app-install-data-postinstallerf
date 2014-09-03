@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pyzor</b>'
+Comment='<span size="xx-large">Pyzor collaborative spam filtering system</span>'
+Comment3='
+Pyzor is a collaborative, networked system to detect
+and block spam using identifying digests of messages.
+Pyzor is similar to Vipuls Razor except implemented
+in python, and using fully open source servers.
+
+Pyzor can be used either standalone, or to augment the
+spam filtering ability of spamassassin.  spamassassin
+is highly recommended.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pyzor.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

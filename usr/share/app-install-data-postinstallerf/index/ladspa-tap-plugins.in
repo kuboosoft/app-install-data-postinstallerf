@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ladspa-tap-plugins</b>'
+Comment='<span size="xx-large">Toms Audio Processing plugin</span>'
+Comment3='
+TAP-plugins is short for Toms Audio Processing plugins. It is a bunch
+of LADSPA plugins for digital audio processing, intended for use in a
+professional DAW environment such as Ardour.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tap-plugins.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

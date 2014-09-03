@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>insight</b>'
+Comment='<span size="xx-large">Graphical debugger based on GDB</span>'
+Comment3='
+ Insight is a tight graphical user interface to GDB written in Tcl/Tk.
+It provides a comprehensive interface that enables users to harness
+most of GDBs power. Its also probably the only up-to-date UI for
+GDB version 6.x.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sources.redhat.com/insight/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

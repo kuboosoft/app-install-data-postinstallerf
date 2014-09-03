@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-simplecov-html-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-simplecov-html</span>'
+Comment3='
+Documentation for rubygem-simplecov-html
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/colszowka/simplecov-html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

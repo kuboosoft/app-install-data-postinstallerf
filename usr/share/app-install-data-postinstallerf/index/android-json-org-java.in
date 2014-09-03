@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>android-json-org-java</b>'
+Comment='<span size="xx-large">Androids rewrite of the evil licensed Json.org</span>'
+Comment3='
+Json.org is a popular java library to parse and
+create json string from the author of the json
+standard Douglas Crockford. His implementation
+however is not free software.
+Therefor the Android team did a clean-room
+re-implementation of a json library to
+be used in-place of the original one.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://android.googlesource.com/platform/libcore/+/master/json'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

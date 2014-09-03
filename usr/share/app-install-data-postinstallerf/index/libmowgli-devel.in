@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmowgli-devel</b>'
+Comment='<span size="xx-large">Files needed for developing with libmowgli</span>'
+Comment3='
+This package contains the files that are needed when building
+software that uses libmowgli.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.atheme.org/project/mowgli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Mapi</b>'
+Comment='<span size="xx-large">MAPI utility library</span>'
+Comment3='
+Provides various utility classes for dealing with Microsoft MAPI structured
+data.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

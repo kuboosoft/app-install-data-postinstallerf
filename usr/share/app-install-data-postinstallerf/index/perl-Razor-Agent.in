@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Razor-Agent</b>'
+Comment='<span size="xx-large">Use a Razor catalogue server to filter spam messages</span>'
+Comment3='
+Vipuls Razor is a distributed, collaborative, spam detection and
+filtering network. Razor establishes a distributed and constantly
+updating catalogue of spam in propagation. This catalogue is used
+by clients to filter out known spam. On receiving a spam, a Razor
+Reporting Agent (run by an end-user or a troll box) calculates and
+submits a 20-character unique identification of the spam (a SHA
+Digest) to its closest Razor Catalogue Server. The Catalogue Server
+echos this signature to other trusted servers after storing it in its
+database. Prior to manual processing or transport-level reception,
+Razor Filtering Agents (end-users and MTAs) check their incoming mail
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://razor.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pacemaker-doc</b>'
+Comment='<span size="xx-large">Documentation for Pacemaker</span>'
+Comment3='
+Documentation for Pacemaker.
+
+Pacemaker is an advanced, scalable High-Availability cluster resource
+manager for Corosync, CMAN and/or Linux-HA.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.clusterlabs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

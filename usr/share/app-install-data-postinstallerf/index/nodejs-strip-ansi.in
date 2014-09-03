@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-strip-ansi</b>'
+Comment='<span size="xx-large">Strip ANSI escape codes (used for colorizing strings in the terminal)</span>'
+Comment3='
+Strip ANSI escape codes (used for colorizing strings in the terminal).
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/sindresorhus/strip-ansi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

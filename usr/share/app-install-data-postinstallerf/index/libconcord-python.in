@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libconcord-python</b>'
+Comment='<span size="xx-large">Python bindings for libconcord</span>'
+Comment3='
+Python bindings for libconcord
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://phildev.net/concordance/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

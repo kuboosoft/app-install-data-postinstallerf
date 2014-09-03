@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-sprockets-rails</b>'
+Comment='<span size="xx-large">Sprockets Rails integration</span>'
+Comment3='
+Provides Sprockets implementation for Rails 4.x (and beyond) Asset Pipeline.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rails/sprockets-rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

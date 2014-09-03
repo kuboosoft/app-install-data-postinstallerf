@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Frontier-RPC-doc</b>'
+Comment='<span size="xx-large">Frontier-RPC-Client Perl module documentation</span>'
+Comment3='
+Documentation and examples to FrontierRPC and FrontierRPCClient.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Frontier-RPC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

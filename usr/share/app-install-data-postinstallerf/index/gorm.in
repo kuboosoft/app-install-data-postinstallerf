@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gorm</b>'
+Comment='<span size="xx-large">The GNUstep graphical interface builder</span>'
+Comment3='
+Gorm is an acronym for GNUstep/Graphical Object Relationship Modeler,
+It is a clone of the NextStep Interface Builder application for GNUstep
+With Gorm, a developer can build an interface very quickly and easily with
+no code.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnustep.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

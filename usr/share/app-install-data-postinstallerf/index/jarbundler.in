@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>jarbundler</b>'
+Comment='<span size="xx-large">A feature-rich Ant task which will create a Mac OS X application bundle</span>'
+Comment3='
+How many times has this happened to you? Youve written a little
+Java utility, or maybe even a more complex application, and you
+want to create Mac OS X application bundle for easy distribution.
+
+Youd like to be able to do it automatically from your build
+process, but youre forced to go run the Apple Jar Bundler and
+tweak all the settings manually every time you build.
+Well no more! JarBundler is a feature-rich Ant task which will
+create a Mac OS X application bundle from a list of Jar files and
+'
+License='ASL 2.0'
+License.'
+Screenshot=''
+Url='http://informagen.com/JarBundler/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

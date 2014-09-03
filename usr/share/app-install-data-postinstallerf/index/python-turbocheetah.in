@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-turbocheetah</b>'
+Comment='<span size="xx-large">TurboGears plugin to support use of Cheetah templates</span>'
+Comment3='
+This package provides a template engine plugin, allowing you
+to easily use Cheetah with TurboGears, Buffet and other tools that
+support the python.templating.engines entry point.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/TurboCheetah'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

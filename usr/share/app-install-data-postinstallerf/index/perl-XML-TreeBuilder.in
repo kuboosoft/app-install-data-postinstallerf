@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-XML-TreeBuilder</b>'
+Comment='<span size="xx-large">Parser that builds a tree of XML::Element objects</span>'
+Comment3='
+perl-XML-TreeBuilder is a Perl module that implements a parser
+that builds a tree of XMLElement objects.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-TreeBuilder/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qjackmmc</b>'
+Comment='<span size="xx-large">Qt application that controls JACK transport via Midi</span>'
+Comment3='
+QJackMMC is a Qt based program that can connect to a device or program that
+emits MIDI Machine Control (MMC) and allow it to drive JACK transport, which in
+turn can control other programs. QJackMMC is the Qt version of jackctlmmc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/jackctlmmc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

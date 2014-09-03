@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>kde-workspace</b>'
+Comment='<span size="xx-large">KDE Workspace</span>'
+Comment3='
+The KDE Workspace consists of what is the desktop of the
+KDE Desktop Environment.
+
+This package contains
+* khotkeys (a hotkey daemon)
+* klipper (a cut & paste history utility)
+* kmenuedit (the menu editor)
+* krunner (a command run interface)
+* kwin (the window manager of KDE)
+* plasma (the KDE desktop, panels and widgets workspace application)
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-workspace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

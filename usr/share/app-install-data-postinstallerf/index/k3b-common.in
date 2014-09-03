@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>k3b-common</b>'
+Comment='<span size="xx-large">Common files of k3b</span>'
+Comment3='
+{summary}.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.k3b.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

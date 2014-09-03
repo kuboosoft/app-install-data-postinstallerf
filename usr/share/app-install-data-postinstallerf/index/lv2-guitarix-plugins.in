@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lv2-guitarix-plugins</b>'
+Comment='<span size="xx-large">Collection of LV2 guitarix plug-ins</span>'
+Comment3='
+This package contains the guitarix amp plug-ins that come together with
+guitarix, but can also be used by any other ladspa host.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://guitarix.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

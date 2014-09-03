@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-URI-Fetch</b>'
+Comment='<span size="xx-large">Smart URI fetching/caching</span>'
+Comment3='
+URIFetch is a smart client for fetching HTTP pages, notably syndication
+feeds (RSS, Atom, and others), in an intelligent, bandwidth and time
+saving way.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/URI-Fetch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

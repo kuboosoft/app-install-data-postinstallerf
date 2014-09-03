@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-context-notes-zh-cn</b>'
+Comment='<span size="xx-large">Notes on using ConTeXt MkIV</span>'
+Comment3='
+An introductory tutorial on ConTeXt, in Chinese. The document
+covers ConTeXt installation, fonts, layout design, cross-
+reference, project structure, metafun and presentation design.
+
+date 2009-11-09 143019 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

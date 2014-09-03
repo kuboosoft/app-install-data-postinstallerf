@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>metromap</b>'
+Comment='<span size="xx-large">Simple program for finding paths in subway/metro maps</span>'
+Comment3='
+A simple pygtk+2 application for finding paths in metro (subway)
+maps. Maps for Moscow, St. Petersburg, Kiev, London, and Berlin
+are included. Others can be downloaded.
+'
+License='GPL+'
+Screenshot=''
+Url='http://metromap.antex.ru/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

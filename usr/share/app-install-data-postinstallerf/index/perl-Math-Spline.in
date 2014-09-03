@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Math-Spline</b>'
+Comment='<span size="xx-large">Cubic Spline Interpolation of data</span>'
+Comment3='
+This package provides cubic spline interpolation of numeric data. The data
+is passed as references to two arrays containing the x and y ordinates. It
+may be used as an exporter of the numerical functions or, more easily as a
+class module.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Math-Spline/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

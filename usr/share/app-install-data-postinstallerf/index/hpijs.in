@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>hpijs</b>'
+Comment='<span size="xx-large">HP Printer Drivers</span>'
+Comment3='
+hpijs is a collection of optimized drivers for HP printers.
+hpijs supports the DeskJet 350C, 600C, 600C Photo, 630C, Apollo 2000,
+Apollo 2100, Apollo 2560, DeskJet 800C, DeskJet 825, DeskJet 900,
+PhotoSmart, DeskJet 990C, and PhotoSmart 100 series.
+'
+License='BSD'
+Screenshot=''
+Url='http://hplip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

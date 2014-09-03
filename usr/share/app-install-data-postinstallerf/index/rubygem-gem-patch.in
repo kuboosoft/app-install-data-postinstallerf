@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rubygem-gem-patch</b>'
+Comment='<span size="xx-large">RubyGems plugin for patching gems</span>'
+Comment3='
+`gem-patch` is a RubyGems plugin that helps to patch gems
+without manually opening and rebuilding them.
+It opens a given .gem file, extracts it, patches it with
+system `patch` command, clones its spec, updates the file list
+and builds the patched gem.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/strzibny/gem-patch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fltk-fluid</b>'
+Comment='<span size="xx-large">Fast Light User Interface Designer</span>'
+Comment3='
+Fast Light User Interface Designer, an interactive GUI designer for fltk.
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fltk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

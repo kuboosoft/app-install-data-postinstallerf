@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-ferret</b>'
+Comment='<span size="xx-large">Full-featured text search engine library</span>'
+Comment3='
+Ferret is a high-performance, full-featured text search
+engine library written entirely in pure Ruby (with an
+optional C extension). It is inspired by the Java Lucene
+Project.
+'
+License='MIT and BSD'
+Screenshot=''
+Url='http://github.com/jkraemer/ferret'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

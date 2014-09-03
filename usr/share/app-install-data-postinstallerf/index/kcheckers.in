@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kcheckers</b>'
+Comment='<span size="xx-large">Checkers board game</span>'
+Comment3='
+The Qt version of the classic board game checkers. This game is also
+known as draughts.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qcheckers.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

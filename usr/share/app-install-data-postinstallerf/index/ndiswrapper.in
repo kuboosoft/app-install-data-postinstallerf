@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ndiswrapper</b>'
+Comment='<span size="xx-large">Ndiswrapper wraps around Windows WLAN drivers within Linux</span>'
+Comment3='
+The ndiswrapper project makes it possible to use WLAN-Hardware
+with Linux by means of a loadable kernel module that "wraps
+around" NDIS (Windows network driver API) drivers.  These rpms contain
+just the kernel module and loader. You will also need the Windows driver
+for your card.
+
+WARNING Fedora-Kernels use 4K size stack. Many Windows drivers
+will need at least 8K size stacks. For details read the wiki on
+http/ndiswrapper.sourceforge.net
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ndiswrapper.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

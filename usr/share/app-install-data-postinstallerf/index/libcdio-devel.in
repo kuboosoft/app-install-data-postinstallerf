@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcdio-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for libcdio</span>'
+Comment3='
+This package contains header files and libraries for libcdio.
+
+URL          http//www.gnu.org/software/libcdio/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/libcdio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

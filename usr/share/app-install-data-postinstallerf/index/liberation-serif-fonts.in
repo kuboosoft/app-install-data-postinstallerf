@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>liberation-serif-fonts</b>'
+Comment='<span size="xx-large">Serif fonts to replace commonly used Microsoft Times New Roman</span>'
+Comment3='
+
+The Liberation Fonts are intended to be replacements for the three most
+commonly used fonts on Microsoft systems Times New Roman, Arial, and Courier
+New.
+This is Serif TrueType fonts that replaced commonly used Microsoft Times New \
+Roman.
+'
+License='Liberation'
+Screenshot=''
+Url='http://fedorahosted.org/liberation-fonts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

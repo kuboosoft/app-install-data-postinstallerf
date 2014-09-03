@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>protobuf-java</b>'
+Comment='<span size="xx-large">Java Protocol Buffers runtime library</span>'
+Comment3='
+This package contains Java Protocol Buffers runtime library.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/protobuf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-List-MoreUtils</b>'
+Comment='<span size="xx-large">Provide the stuff missing in List::Util</span>'
+Comment3='
+ListMoreUtils provides some trivial but commonly needed functionality
+on lists that is not going to go into ListUtil.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/List-MoreUtils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

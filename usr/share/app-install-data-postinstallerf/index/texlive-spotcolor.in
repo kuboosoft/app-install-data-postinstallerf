@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-spotcolor</b>'
+Comment='<span size="xx-large">Spot colours for pdfLaTeX</span>'
+Comment3='
+This package provides procedures for using spot colors in LaTeX
+documents and the generated pdf files. Predefined templates for
+PANTONE and HKS color spaces are included but new ones can
+easily be defined.
+
+date 2007-03-12 115109 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

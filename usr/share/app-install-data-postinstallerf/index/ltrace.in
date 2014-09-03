@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ltrace</b>'
+Comment='<span size="xx-large">Tracks runtime library calls from dynamically linked executables</span>'
+Comment3='
+Ltrace is a debugging program which runs a specified command until the
+command exits.  While the command is executing, ltrace intercepts and
+records both the dynamic library calls called by the executed process
+and the signals received by the executed process.  Ltrace can also
+intercept and print system calls executed by the process.
+
+You should install ltrace if you need a sysadmin tool for tracking the
+execution of processes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ltrace.alioth.debian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

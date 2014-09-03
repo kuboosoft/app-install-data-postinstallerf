@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-pdf-inspector-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-pdf-inspector</span>'
+Comment3='
+Documentation for rubygem-pdf-inspector
+'
+License='GPLv2 or GPLv3 or Ruby'
+Screenshot=''
+Url='https://github.com/sandal/pdf-inspector'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

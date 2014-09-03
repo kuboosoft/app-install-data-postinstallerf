@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gcc-c++</b>'
+Comment='<span size="xx-large">C++ support for GCC</span>'
+Comment3='
+This package adds C++ support to the GNU Compiler Collection.
+It includes support for most of the current C++ specification,
+including templates and exception handling.
+
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

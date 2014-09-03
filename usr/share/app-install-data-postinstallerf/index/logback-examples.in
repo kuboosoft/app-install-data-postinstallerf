@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>logback-examples</b>'
+Comment='<span size="xx-large">Logback Examples Module</span>'
+Comment3='
+logback-examples module.
+'
+License='LGPLv2 or EPL'
+Screenshot=''
+Url='http://logback.qos.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

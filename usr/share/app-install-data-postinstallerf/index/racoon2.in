@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>racoon2</b>'
+Comment='<span size="xx-large">An implementation of key management system for IPsec</span>'
+Comment3='
+The Racoon2 project is a joint effort which provides an implementation of key
+management system for IPsec. The implementation is called Racoon2, a successor
+of Racoon, which was developed by the KAME project. It supports IKEv1, IKEv2,
+and KINK protocols. It works on FreeBSD, NetBSD, Linux, and Mac OS X.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.racoon2.wide.ad.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-decorator</b>'
+Comment='<span size="xx-large">Module to simplify usage of decorators in python3</span>'
+Comment3='
+The aim of the decorator module is to simplify the usage of decorators for
+the average programmer, and to popularize decorators usage giving examples
+of useful decorators, such as memoize, tracing, redirecting_stdout, locked,
+etc.  The core of this module is a decorator factory called decorator.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/decorator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

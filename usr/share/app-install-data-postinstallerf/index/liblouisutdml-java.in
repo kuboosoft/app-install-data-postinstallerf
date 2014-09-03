@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>liblouisutdml-java</b>'
+Comment='<span size="xx-large">Java language bindings for liblouisutdml</span>'
+Comment3='
+liblouisutdml is a braille transcription library for UTDML (Unified Tactile
+Document Markup Language) documents. This package provides the Java language
+binding for liblouisutdml.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://abilitiessoft.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>dislocker</b>'
+Comment='<span size="xx-large">Utility to access BitLocker encrypted volumes</span>'
+Comment3='
+Dislocker has been designed to read BitLocker encrypted partitions ("drives")
+under a Linux system. The driver used to only read volumes encrypted under a
+Microsoft Windows 7 system but is now Microsoft Windows Vista capable and has
+the write functionality.
+
+The file name where the BitLocker encrypted partition will be decrypted needs
+to be given. This may take a long time, depending on the size of the encrypted
+partition. But afterward, once the partition is decrypted, the access to the
+NTFS partition will be faster than with FUSE. Another thing to think about is
+the size of the disk (same size as the volume that is tried to be decrypted).
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/Aorimn/dislocker#readme'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

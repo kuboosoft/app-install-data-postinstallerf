@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php</b>'
+Comment='<span size="xx-large">PHP scripting language for creating dynamic web sites</span>'
+Comment3='
+PHP is an HTML-embedded scripting language. PHP attempts to make it
+easy for developers to write dynamically generated web pages. PHP also
+offers built-in database integration for several commercial and
+non-commercial database management systems, so writing a
+database-enabled webpage with PHP is fairly simple. The most common
+use of PHP coding is probably as a replacement for CGI scripts.
+
+The php package contains the module (often referred to as mod_php)
+which adds support for the PHP language to Apache HTTP Server.
+'
+License='PHP and Zend and BSD'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

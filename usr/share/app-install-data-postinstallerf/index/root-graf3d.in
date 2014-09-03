@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-graf3d</b>'
+Comment='<span size="xx-large">Basic 3D shapes library for ROOT</span>'
+Comment3='
+This library contains the basic 3D shapes and classes for ROOT. For
+a more full-blown geometry library, see the root-geom package.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Convert-Color</b>'
+Comment='<span size="xx-large">Color space conversions and named lookups</span>'
+Comment3='
+This module provides conversions between commonly used ways to express
+colors. It provides conversions between color spaces such as RGB and HSV,
+and it provides ways to look up colors by a name.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Convert-Color/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fusesource-pom</b>'
+Comment='<span size="xx-large">Parent POM for FuseSource Maven projects</span>'
+Comment3='
+This is a shared POM parent for FuseSource Maven projects
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://fusesource.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

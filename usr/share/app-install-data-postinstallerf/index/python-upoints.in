@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-upoints</b>'
+Comment='<span size="xx-large">Python modules for working with points on Earth</span>'
+Comment3='
+upoints, previously called earth_distance, is a collection of
+modules for working with points on a spherical object. It allows
+you to calculate the distance and bearings between points,
+mangle xearth/xplanet data files, work with online UK trigpoint
+databases and various other databases.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.jnrowe.ukfsn.org/projects/upoints.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

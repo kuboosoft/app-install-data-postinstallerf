@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-xcache</b>'
+Comment='<span size="xx-large">Fast, stable PHP opcode cacher</span>'
+Comment3='
+XCache is a fast, stable  PHP opcode and data cacher that has been tested
+and is now running on production servers under high load.
+
+It is tested (on linux) and supported on all of the latest PHP release.
+ThreadSafe is also perfectly supported.
+NOTICE opcode cacher is disable to allow use with php-opcache only for user
+data cache. You need to edit configuration file (xcache.ini) to enable it.
+'
+License='BSD'
+Screenshot=''
+Url='http://xcache.lighttpd.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

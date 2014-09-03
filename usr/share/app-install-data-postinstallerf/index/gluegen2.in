@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gluegen2</b>'
+Comment='<span size="xx-large">Java/JNI glue code generator to call out to ANSI C</span>'
+Comment3='
+GlueGen is a tool which automatically generates the Java and JNI
+code necessary to call C libraries. It reads as input ANSI C header
+files and separate configuration files which provide control over
+many aspects of the glue code generation. GlueGen uses a complete
+ANSI C parser and an internal representation (IR) capable of
+representing all C types to represent the APIs for which it
+generates interfaces.
+'
+License='BSD'
+Screenshot=''
+Url='http://jogamp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

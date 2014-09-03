@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-DBI-Dumper</b>'
+Comment='<span size="xx-large">Dump data from a DBI datasource to file</span>'
+Comment3='
+Dumps data from a select statement into an output file. dbidumper tries
+to mirror the functionality and behavior of sql*loader. The control
+file syntax is similar, and DBIDumper utilizes a subset of the
+sql*loader options.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DBI-Dumper/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sssd-krb5-common</b>'
+Comment='<span size="xx-large">SSSD helpers needed for Kerberos and GSSAPI authentication</span>'
+Comment3='
+Provides helper processes that the LDAP and Kerberos back ends can use for
+Kerberos user or host authentication.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

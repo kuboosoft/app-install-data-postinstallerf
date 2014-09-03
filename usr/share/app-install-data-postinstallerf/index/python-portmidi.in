@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-portmidi</b>'
+Comment='<span size="xx-large">Python wrapper for portmidi</span>'
+Comment3='
+PortMedia is a set of simple clean APIs and cross-platform library
+implementations for music and other media. PortMidi sub-project provides a
+real-time MIDI input/output library. This package contains the python
+bindings of PortMidi libraries. It can send and receive MIDI data in
+real-time from Python.
+'
+License='MIT'
+Screenshot=''
+Url='http://portmedia.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>trytond-mysql</b>'
+Comment='<span size="xx-large">MySQL support for Tryton Server</span>'
+Comment3='
+MySQL support for Tryton Server.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.tryton.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

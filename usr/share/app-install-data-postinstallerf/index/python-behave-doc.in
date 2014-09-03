@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-behave-doc</b>'
+Comment='<span size="xx-large">Documentation for python-behave</span>'
+Comment3='
+Behavior-driven development (or BDD) is an agile software development
+technique that encourages collaboration between developers, QA and non-
+technical or business participants in a software project.
+
+*behave* uses tests written in a natural language style, backed up by
+Python code.
+This package contains documentation in reST and HTML formats and some
+brief feature-examples.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/behave'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

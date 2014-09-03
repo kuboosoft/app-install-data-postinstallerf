@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jruby-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jruby</span>'
+Comment3='
+Javadoc for jruby.
+'
+License='(CPL or GPLv2+ or LGPLv2+) and BSD and (GPLv2 or Ruby) and (BSD or Ruby)'
+Screenshot=''
+Url='http://jruby.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

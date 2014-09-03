@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>knetwalk</b>'
+Comment='<span size="xx-large">Network construction game</span>'
+Comment3='
+KNetWalk is a single player logic game.  The object of the game is to
+start the LAN, connecting all the terminals to the server, in as few
+turns as possible.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/knetwalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

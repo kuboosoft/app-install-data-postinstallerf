@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>hct</b>'
+Comment='<span size="xx-large">A HDL complexity tool</span>'
+Comment3='
+The goal of the HCT is to generate scores that represent
+the complexity of the constituent modules of large
+integrated circuit design projects ? i.e. SOCs. The designs
+complexity scores are useful to verification
+teams so as to efficiently focus resources based on the dynamic
+complexity profile of a design. The scores are a useful tool to guide
+HDL designers re-factoring efforts.
+'
+License='GPLv3 and LGPLv3'
+Screenshot=''
+Url='http://hct.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

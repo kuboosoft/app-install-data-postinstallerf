@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>avidemux-i18n</b>'
+Comment='<span size="xx-large">Translations for avidemux</span>'
+Comment3='
+This package contains translation files for avidemux.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.avidemux.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

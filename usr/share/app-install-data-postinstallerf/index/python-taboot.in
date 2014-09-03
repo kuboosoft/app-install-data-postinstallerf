@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-taboot</b>'
+Comment='<span size="xx-large">Client utility for scripted multi-system administration over Func</span>'
+Comment3='
+Tool for managing and executing tasks related to software releases and
+system administration via customizable YAML scripts. A library of
+prewritten tasks is built in so you can get started immediately.
+
+Taboot uses Func for inter-system communication, eliminating hacky ssh
+commands and the overhead associated with key management. Taboot can
+be extended by writing your Func modules and tasks in Python.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/Taboot/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

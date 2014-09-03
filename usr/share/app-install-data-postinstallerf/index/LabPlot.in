@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>LabPlot</b>'
+Comment='<span size="xx-large">Data Analysis and Visualization</span>'
+Comment3='
+LabPlot is for scientific 2D and 3D data and function plotting.
+The various display and analysis functions are explained in the
+handbook (KDE help center). LabPlot also provides a component
+for easily viewing the project files in Konqueror.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://labplot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n projectlibre
+Name=Projectlibre
+Comment=ProjectLibre is an open source project management software
+Icon=/usr/share/app-install-data-postinstallerf/icons/projectlibre.png
+Type=Application
+StartupNotify=false
+Categories=Office;
+Terminal=false

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>alpine</b>'
+Comment='<span size="xx-large">powerful, easy to use console email client</span>'
+Comment3='
+electronic messages.  Alpine is the successor to Pine and was
+developed by Computing & Communications at the University of
+Washington.
+  Though originally designed for inexperienced email users,
+Alpine supports many advanced features, and an ever-growing number of
+configuration and personal-preference options.
+Changes and enhancements over pine
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://patches.freeiz.com/alpine/info/alpine.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

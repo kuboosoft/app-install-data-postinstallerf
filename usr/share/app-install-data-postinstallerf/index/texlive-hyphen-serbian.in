@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-serbian</b>'
+Comment='<span size="xx-large">Serbian hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Serbian in T1/EC, T2A and UTF-8
+encodings. For 8-bit engines the patterns are available
+separately as serbian in T1/EC encoding for Latin script and
+serbianc in T2A encoding for Cyrillic script. Unicode engines
+should only use serbian which has patterns in both scripts
+combined.
+
+date 2007-02-28 000205 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

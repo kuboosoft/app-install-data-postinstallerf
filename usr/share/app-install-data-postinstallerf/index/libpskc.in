@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libpskc</b>'
+Comment='<span size="xx-large">Library for PSKC handling</span>'
+Comment3='
+Library for managing secret key files, the Portable Symmetric Key
+Container (PSKC) format described in RFC6030 is supported.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/oath-toolkit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

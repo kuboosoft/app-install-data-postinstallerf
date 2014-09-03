@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pulseaudio-esound-compat</b>'
+Comment='<span size="xx-large">PulseAudio EsounD daemon compatibility script</span>'
+Comment3='
+A compatibility script that allows applications to call /usr/bin/esd
+and start PulseAudio with EsounD protocol modules.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/PulseAudio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

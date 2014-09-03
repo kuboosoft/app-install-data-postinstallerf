@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tcpreen</b>'
+Comment='<span size="xx-large">A TCP/IP re-engineering and monitoring program</span>'
+Comment3='
+TCPreen is a simple tool to monitor and analyze data transmitted between
+clients and servers through connection-oriented streams data such as a TCP
+sessions; it supports TCP over either IPv4 or IPv6. This tool focuses on
+the data stream (software/socket layer), not on the lower level transmission
+protocol as packet sniffers do.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.remlab.net/tcpreen/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

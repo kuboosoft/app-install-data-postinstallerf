@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-ronn</b>'
+Comment='<span size="xx-large">Markdown to roff/html converter</span>'
+Comment3='
+Javascript port of ronn, using markdown-js to produce roff man pages. Not fully
+compatible with ronn, although it aims to be, wherever possible.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kapouer/ronnjs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

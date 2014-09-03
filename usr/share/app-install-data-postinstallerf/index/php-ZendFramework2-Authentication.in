@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Authentication</b>'
+Comment='<span size="xx-large">Zend Framework 2: Authentication Component</span>'
+Comment3='
+The Zend\Authentication component provides an API for authentication and
+includes concrete authentication adapters for common use case scenarios.
+
+Zend\Authentication is concerned only with authentication and not with
+authorization. Authentication is loosely defined as determining whether
+an entity actually is what it purports to be (i.e., identification),
+based on some set of credentials. Authorization, the process of deciding
+whether to allow an entity access to, or to perform operations upon, other
+entities is outside the scope of Zend\Authentication. For more information
+about authorization and access control with Zend Framework, please see the
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.authentication.intro.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

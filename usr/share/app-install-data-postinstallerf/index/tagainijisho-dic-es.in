@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tagainijisho-dic-es</b>'
+Comment='<span size="xx-large">Tagaini Jisho Japanese/Spanish dictionary</span>'
+Comment3='
+A Japanese/Spanish dictionary for Tagaini Jisho.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://www.tagaini.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

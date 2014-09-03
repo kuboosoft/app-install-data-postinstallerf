@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gtk-nodoka-engine-extras</b>'
+Comment='<span size="xx-large">Extra themes for Nodoka Gtk2 theme engine</span>'
+Comment3='
+This package contains extra themes fot the Nodoka Gtk2 theme engine.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/nodoka'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

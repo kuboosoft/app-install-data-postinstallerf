@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-ranch</b>'
+Comment='<span size="xx-large">Socket acceptor pool for TCP protocols</span>'
+Comment3='
+Socket acceptor pool for TCP protocols.
+'
+License='ISC'
+Screenshot=''
+Url='https://github.com/extend/ranch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

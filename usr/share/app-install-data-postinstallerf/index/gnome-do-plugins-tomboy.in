@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-do-plugins-tomboy</b>'
+Comment='<span size="xx-large">GNOME Do Tomboy plugin</span>'
+Comment3='
+GNOME Do plugin for Tomboy
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://do.davebsd.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

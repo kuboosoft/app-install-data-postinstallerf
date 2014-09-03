@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libksba-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for libksba</span>'
+Comment3='
+Development headers and libraries for libksba.
+
+URL          http//www.gnupg.org/
+'
+License='(LGPLv3+ or GPLv2+) and GPLv3+'
+Screenshot=''
+Url='http://www.gnupg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

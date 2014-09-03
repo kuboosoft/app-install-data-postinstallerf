@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rtmpdump</b>'
+Comment='<span size="xx-large">Toolkit for RTMP streams</span>'
+Comment3='
+rtmpdump is a toolkit for RTMP streams. All forms of RTMP are supported,
+including rtmp//, rtmpt//, rtmpe//, rtmpte//, and rtmps//.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rtmpdump.mplayerhq.hu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

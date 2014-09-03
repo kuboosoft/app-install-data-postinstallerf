@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freemedforms-emr-docs-fr</b>'
+Comment='<span size="xx-large">French documentation for the freemedforms EMR</span>'
+Comment3='
+This package contains HTML documentation in French for the freemedforms EMR
+'
+License='GPLv3+ and LGPLv2'
+Screenshot=''
+Url='http://www.freemedforms.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

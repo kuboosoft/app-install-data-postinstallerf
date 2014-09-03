@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-bizcard</b>'
+Comment='<span size="xx-large">Typeset business cards</span>'
+Comment3='
+This is an adaption for current LaTeX of a LaTeX 2.09 style by
+Silvano Balemi. It produces cards at the normal US card size,
+76.2mm x 50.8mm.
+
+date 2009-04-30 003208 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

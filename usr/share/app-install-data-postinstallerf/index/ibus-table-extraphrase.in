@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-table-extraphrase</b>'
+Comment='<span size="xx-large">Extra phrase for ibus-table</span>'
+Comment3='
+Extra phrase data for IBus-Table engine.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

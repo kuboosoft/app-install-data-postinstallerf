@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kde-plasma-publictransport</b>'
+Comment='<span size="xx-large">Public Transport plasma applet</span>'
+Comment3='
+PublicTransport is a plasma applet that shows a departure/arrival board
+for a given stop. It can also show journeys to or from the given "home stop".
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://publictransport.horizon-host.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

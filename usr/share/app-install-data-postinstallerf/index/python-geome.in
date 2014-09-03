@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-geome</b>'
+Comment='<span size="xx-large">Python library for geome location</span>'
+Comment3='
+Geome python module with the geome.location() function
+'
+License='GPLv3'
+Screenshot=''
+Url='http://ftp.nohats.ca/geome'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

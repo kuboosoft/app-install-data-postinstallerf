@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-Smoke</b>'
+Comment='<span size="xx-large">Perl core test smoke suite</span>'
+Comment3='
+The perl core test smoke suite is a set of scripts and modules that try to run
+the perl core tests on as many configurations as possible and combine the
+results into an easy to read report.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Smoke/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

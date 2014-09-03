@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jruby-yecht</b>'
+Comment='<span size="xx-large">Bindings used to load yecht in jruby</span>'
+Comment3='
+The bindings for the yecht library for internal use in jruby
+'
+License='MIT'
+Screenshot=''
+Url='http://jruby.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

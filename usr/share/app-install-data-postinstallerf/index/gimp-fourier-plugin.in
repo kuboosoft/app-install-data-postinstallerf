@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gimp-fourier-plugin</b>'
+Comment='<span size="xx-large">A simple plug-in to do fourier transform on your image</span>'
+Comment3='
+A simple plug-in to do fourier transform on your image. The major advantage of
+this plugin is to be able to work with the transformed image inside GIMP.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://people.via.ecp.fr/~remi/soft/gimp/gimp_plugin_en.php3'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

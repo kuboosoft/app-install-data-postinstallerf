@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-automata</b>'
+Comment='<span size="xx-large">Finite state machines, graphs and trees in MetaPost</span>'
+Comment3='
+The package offers a collection of macros for MetaPost to make
+easier to draw finite-state machines, automata, labelled
+graphs, etc. The user defines nodes, which may be isolated or
+arranged into matrices or trees; edges connect pairs of nodes
+through arbitrary paths. Parameters, that specify the shapes of
+nodes and the styles of edges, may be adjusted.
+
+date 2010-09-13 124236 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

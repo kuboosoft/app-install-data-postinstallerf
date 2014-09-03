@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-james-project</b>'
+Comment='<span size="xx-large">Main project POM files and resources</span>'
+Comment3='
+Main project POM files and resources for Apache James project
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://james.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

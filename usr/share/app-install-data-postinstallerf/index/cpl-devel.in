@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cpl-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. used to develop an application with cpl</span>'
+Comment3='
+These are the header files and libraries needed to develop a cpl
+application
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.eso.org/sci/software/cpl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

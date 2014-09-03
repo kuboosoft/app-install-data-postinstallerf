@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mingw64-libltdl</b>'
+Comment='<span size="xx-large">Runtime libraries for GNU Libtool Dynamic Module Loader</span>'
+Comment3='
+The mingw64-libltdl package contains the GNU Libtool Dynamic Module Loader, a
+library that provides a consistent, portable interface which simplifies the
+process of using dynamic modules, for the mingw64 cross compilation
+environment.
+
+These runtime libraries are needed by programs that link directly to the
+system-installed ltdl libraries; they are not needed by software built using
+the rest of the GNU Autotools (including GNU Autoconf and GNU Automake).
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/libtool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

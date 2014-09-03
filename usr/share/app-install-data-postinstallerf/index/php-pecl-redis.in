@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-pecl-redis</b>'
+Comment='<span size="xx-large">Extension for communicating with the Redis key-value store</span>'
+Comment3='
+The phpredis extension provides an API for communicating
+with the Redis key-value store.
+
+This Redis client implements most of the latest Redis API.
+As method only only works when also implemented on the server side,
+some doesnt work with an old redis server version.
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/redis'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>earth-and-moon-backgrounds-dual</b>'
+Comment='<span size="xx-large">Shared dual screen earth-and-moon desktop backgrounds</span>'
+Comment3='
+Earthlooks is beautiful theme. The background change often. You can see earth
+rotate on herself and moon rotate around earth. This theme is compatible with
+many resolution 2560x1024, 2960x1050, 3200x1200, 3840x1200
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://bioinformatiques.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

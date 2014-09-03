@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ptrash</b>'
+Comment='<span size="xx-large">Move file(s) to ~/.trash directory</span>'
+Comment3='
+Ptrash moves the named file(s) to the ~/.trash directory. Trash is located
+under the home directory of a user. It is a simple console based utility,
+I wrote after deleting some files, which I couldnt retrieve back.
+Ptrash can also restore file(s) back to there original location. It has really
+proved very handy to me.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pjp.dgplug.org/tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

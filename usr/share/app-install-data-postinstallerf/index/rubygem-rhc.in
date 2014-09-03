@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-rhc</b>'
+Comment='<span size="xx-large">OpenShift Express Client Tools</span>'
+Comment3='
+OpenShift Express Client Tools allows you to create and deploy applications to
+the cloud. The OpenShift Express client is a command line tool that allows you
+to manage your applications in the cloud.
+'
+License='MIT'
+Screenshot=''
+Url='https://openshift.redhat.com/app/express'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

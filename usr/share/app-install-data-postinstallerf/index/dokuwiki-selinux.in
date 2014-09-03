@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dokuwiki-selinux</b>'
+Comment='<span size="xx-large">SElinux support for dokuwiki</span>'
+Comment3='
+Configures DokuWiki to run in SELinux enabled environments.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.dokuwiki.org/dokuwiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

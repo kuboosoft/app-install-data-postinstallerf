@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qdbm-perl</b>'
+Comment='<span size="xx-large">QDBM Database Library for Perl</span>'
+Comment3='
+This package contains a Perl interface for QDBM Database library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fallabs.com/qdbm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

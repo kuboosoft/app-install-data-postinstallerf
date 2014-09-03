@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-ldaptor-tools</b>'
+Comment='<span size="xx-large">Ldaptor command line utilities</span>'
+Comment3='
+The package contains command line utilities build upon python-ldaptor library.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://github.com/antong/ldaptor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

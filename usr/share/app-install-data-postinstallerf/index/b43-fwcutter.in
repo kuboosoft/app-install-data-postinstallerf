@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>b43-fwcutter</b>'
+Comment='<span size="xx-large">Firmware extraction tool for Broadcom wireless driver</span>'
+Comment3='
+This package contains the b43-fwcutter tool which is used to
+extract firmware for the Broadcom network devices.
+
+See the README.too file shipped in the packages documentation for
+instructions on using this tool.
+'
+License='BSD'
+Screenshot=''
+Url='http://bues.ch/b43/fwcutter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

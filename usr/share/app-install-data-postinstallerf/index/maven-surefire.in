@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-surefire</b>'
+Comment='<span size="xx-large">Test framework project</span>'
+Comment3='
+Surefire is a test framework project.
+'
+License='ASL 2.0 and CPL'
+Screenshot=''
+Url='http://maven.apache.org/surefire/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

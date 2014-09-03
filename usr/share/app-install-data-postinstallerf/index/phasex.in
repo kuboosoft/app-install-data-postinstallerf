@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>phasex</b>'
+Comment3='
+PHASEX is an experimental JACK audio / ALSA MIDI softsynth for Linux
+with a synth engine built around flexible phase modulation and
+flexible oscillator/LFO sourcing.  Modulations include AM, FM, offset
+PM, and wave select.  PHASEX comes equipped with a 12db/octave filter
+with two distortion curves, a stereo crossover delay and chorus with
+phaser, ADSR envelopes for amplifier and filter, realtime audio input
+processing capabilities, and more.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/disabled/phasex-dev'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

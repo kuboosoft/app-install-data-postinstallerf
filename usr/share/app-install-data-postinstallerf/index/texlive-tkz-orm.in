@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-tkz-orm</b>'
+Comment='<span size="xx-large">Create Object-Role Model (ORM) diagrams,</span>'
+Comment3='
+The package provides styles for drawing Object-Role Model (ORM)
+diagrams in TeX based on the pgf and TikZ picture environment.
+
+date 2010-01-28 131616 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

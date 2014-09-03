@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-Diff</b>'
+Comment='<span size="xx-large">O(ND) diff algorithm in Haskell</span>'
+Comment3='
+Basic implementation of the standard diff algorithm.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/Diff'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

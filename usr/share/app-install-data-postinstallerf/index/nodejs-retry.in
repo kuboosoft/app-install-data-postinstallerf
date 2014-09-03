@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-retry</b>'
+Comment='<span size="xx-large">Retry strategies for failed operations</span>'
+Comment3='
+Abstraction for exponential and custom retry strategies for failed operations.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/felixge/node-retry'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

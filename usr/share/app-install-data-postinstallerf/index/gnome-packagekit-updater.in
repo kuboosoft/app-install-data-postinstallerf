@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-packagekit-updater</b>'
+Comment='<span size="xx-large">PackageKit package updater</span>'
+Comment3='
+A graphical package updater for PackageKit which is used to update packages
+without rebooting.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

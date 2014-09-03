@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>adevs</b>'
+Comment='<span size="xx-large">C++ library for constructing discrete event simulation</span>'
+Comment3='
+Adevs (A Discrete EVent System simulator) is a C++ library for constructing
+discrete event simulations based on the Parallel DEVS and Dynamic DEVS
+(dynDEVS) formalisms. DEVS has been applied to the study of social systems,
+ecological systems, computer networks and computer architecture, military
+systems at the tactical and theater levels, and in many other areas
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.ornl.gov/~1qn/adevs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

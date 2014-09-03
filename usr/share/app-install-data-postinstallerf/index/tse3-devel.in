@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>tse3-devel</b>'
+Comment='<span size="xx-large">Development packages for the TSE3 MIDI Sequencer Library</span>'
+Comment3='
+TSE3 is a powerful open source sequencer engine written in C++. It is a
+sequencer engine because it provides the actual driving force elements of a
+sequencer but provides no form of user interface. Sequencer applications or
+multimedia presentation packages will incorporate the TSE3 libraries to
+provide a user with MIDI sequencing facilities.
+
+This package holds the development documentation, examples and header files
+for TSE3.
+'
+License='GPL+'
+Screenshot=''
+Url='http://tse3.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

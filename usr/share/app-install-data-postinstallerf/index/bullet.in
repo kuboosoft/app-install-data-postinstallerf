@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bullet</b>'
+Comment='<span size="xx-large">3D Collision Detection and Rigid Body Dynamics Library</span>'
+Comment3='
+Bullet is a 3D Collision Detection and Rigid Body Dynamics Library for games
+and animation.
+
+'
+License='zlib and MIT and BSD'
+Screenshot=''
+Url='http://www.bulletphysics.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

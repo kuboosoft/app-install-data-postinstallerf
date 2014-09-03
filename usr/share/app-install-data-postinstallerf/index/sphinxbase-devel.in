@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sphinxbase-devel</b>'
+Comment='<span size="xx-large">Header and other development files for sphinxbase</span>'
+Comment3='
+Header files and other development files for sphinxbase.
+
+URL          http//cmusphinx.sourceforge.net/
+'
+License='BSD'
+Screenshot=''
+Url='http://cmusphinx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

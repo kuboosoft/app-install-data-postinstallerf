@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qdevelop</b>'
+Comment='<span size="xx-large">Development environment dedicated to Qt4</span>'
+Comment3='
+QDevelop is a development environment entirely dedicated to Qt4, which
+requires Qt4, gcc, possibly gdb for program debugging and ctags for
+code completion.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://biord-software.org/qdevelop/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

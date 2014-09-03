@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>healpix</b>'
+Comment='<span size="xx-large">Hierarchical Equal Area isoLatitude Pixelization of a sphere</span>'
+Comment3='
+HEALPix is an acronym for Hierarchical Equal Area isoLatitude Pixelization
+of a sphere. As suggested in the name, this pixelization produces a
+subdivision of a spherical surface in which each pixel covers the same
+surface area as every other pixel.
+
+This package contains Fortran binaries and libraries.
+NB. Due to some generic names, the binaries have been renamed to start with
+hp_, e.g. anafast is now hp_anafast.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://healpix.jpl.nasa.gov/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>anyterm-httpd</b>'
+Comment='<span size="xx-large">Httpd proxy configuration for anyterm</span>'
+Comment3='
+The httpd configuration necessary to proxy anyterm.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://anyterm.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-gnuplot</b>'
+Comment='<span size="xx-large">Emacs bindings for the gnuplot main application</span>'
+Comment3='
+The gnuplot-emacs package contains the emacs related .elc files so that gnuplot
+nicely interacts and integrates into emacs.
+'
+License='gnuplot and MIT'
+Screenshot=''
+Url='http://www.gnuplot.info/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

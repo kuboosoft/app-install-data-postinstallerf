@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-pango</b>'
+Comment='<span size="xx-large">Binding to the Pango text rendering engine</span>'
+Comment3='
+This package provides a wrapper around the Pango C library that
+allows high-quality rendering of Unicode text. It can be used
+either with Cairo to output text in PDF, PS or other documents
+or with Gtk+ to display text on-screen.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/pango'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

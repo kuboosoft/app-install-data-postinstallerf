@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>kmetronome</b>'
+Comment='<span size="xx-large">KDE MIDI Metronome using ALSA Sequencer</span>'
+Comment3='
+KMetronome is a MIDI metronome with KDE interface, based on the ALSA
+sequencer. The intended audience is musicians and music students. Like
+solid, real metronomes it is a tool to keep the rhythm while playing musical
+instruments. It uses MIDI for sound generation instead of digital audio,
+allowing low CPU usage, and very accurate timing thanks to the ALSA sequencer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kmetronome.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

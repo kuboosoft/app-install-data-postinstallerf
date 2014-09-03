@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libcaca-devel</b>'
+Comment='<span size="xx-large">Development files for libcaca, the library for Colour AsCii Art</span>'
+Comment3='
+libcaca is the Colour AsCii Art library. It provides high level functions
+for color text drawing, simple primitives for line, polygon and ellipse
+drawing, as well as powerful image to text conversion routines.
+
+This package contains the header files and static libraries needed to
+compile applications or shared objects that use libcaca.
+'
+License='WTFPL'
+Screenshot=''
+Url='http://caca.zoy.org/wiki/libcaca'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>remake-doc</b>'
+Comment='<span size="xx-large">Documentation for remake</span>'
+Comment3='
+Documentation for using and developing remake.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/silene/remake'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

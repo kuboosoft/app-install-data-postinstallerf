@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ovaldi</b>'
+Comment='<span size="xx-large">Reference implementation of the OVAL interpreter</span>'
+Comment3='
+The OVAL Interpreter is a freely available reference implementation created
+to show how information can be collected from a computer for testing, to
+evaluate and carry out the OVAL definitions for that platform, and to
+report the results of the tests.
+'
+License='BSD'
+Screenshot=''
+Url='http://oval.mitre.org/language/download/interpreter/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

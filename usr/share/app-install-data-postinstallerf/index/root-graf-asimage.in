@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>root-graf-asimage</b>'
+Comment='<span size="xx-large">AfterImage graphics renderer for ROOT</span>'
+Comment3='
+This package contains the AfterImage renderer for ROOT, which allows
+you to store output graphics in many formats, including JPEG, PNG and
+TIFF.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

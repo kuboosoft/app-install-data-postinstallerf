@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rspec-rails</b>'
+Comment='<span size="xx-large">RSpec-2 for Rails-3</span>'
+Comment3='
+RSpec-2 support for Rails-3
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rspec/rspec-rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

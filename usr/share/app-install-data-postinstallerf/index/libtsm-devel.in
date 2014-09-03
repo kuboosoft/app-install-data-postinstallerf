@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtsm-devel</b>'
+Comment='<span size="xx-large">Development files for libtsm</span>'
+Comment3='
+This package contains libraries and header files for
+developing applications that use libtsm.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://freedesktop.org/wiki/Software/kmscon/libtsm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

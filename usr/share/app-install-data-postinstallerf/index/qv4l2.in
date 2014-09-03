@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qv4l2</b>'
+Comment='<span size="xx-large">QT v4l2 test control and streaming test application</span>'
+Comment3='
+QT v4l2 test control and streaming test application.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linuxtv.org/downloads/v4l-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

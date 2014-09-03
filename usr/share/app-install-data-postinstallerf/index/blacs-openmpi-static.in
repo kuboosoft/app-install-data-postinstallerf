@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>blacs-openmpi-static</b>'
+Comment='<span size="xx-large">Static libraries for blacs (openmpi)</span>'
+Comment3='
+This package contains static libraries for blacs, compiled against openmpi.
+
+URL          http//www.netlib.org/blacs
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.netlib.org/blacs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

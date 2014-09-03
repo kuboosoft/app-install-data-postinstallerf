@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>dhcp-forwarder</b>'
+Comment='<span size="xx-large">DHCP relay agent</span>'
+Comment3='
+dhcp-fwd forwards DHCP messages between subnets with different sublayer
+broadcast domains. It is similar to the DHCP relay agent dhcrelay of
+ISCs DHCP, but has the following important features
+
+* Runs as non-root in a chroot-environment
+* Uses AF_INET sockets which makes it possible to filter incoming
+  messages with packetfilters
+* The DHCP agent IDs can be defined freely
+* Has a small memory footprint when using dietlibc
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.nongnu.org/dhcp-fwd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pingus</b>'
+Comment='<span size="xx-large">Guide the penguins safely home before they drop of the cliff</span>'
+Comment3='
+You take command in the game of a bunch of small penguins
+and have to guide them around in levels. Since the penguins
+walk on their own, the player can only influence them by giving them commands,
+like build a bridge, dig a hole or redirect all penguins in the other
+direction. The goal of each level is to reach the exit, for which multiple
+combination of commands are necessary. The game is presented in a 2D site view.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pingus.seul.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

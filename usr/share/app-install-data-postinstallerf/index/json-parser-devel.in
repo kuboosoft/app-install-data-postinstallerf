@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>json-parser-devel</b>'
+Comment='<span size="xx-large">Files needed to develop applications with Very low footprint JSON parser</span>'
+Comment3='
+Files needed to develop applications with Very low footprint JSON parser
+
+URL          https//github.com/udp/json-parser
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/udp/json-parser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

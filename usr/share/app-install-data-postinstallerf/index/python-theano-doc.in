@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-theano-doc</b>'
+Comment='<span size="xx-large">Theano documentation</span>'
+Comment3='
+User documentation for Theano.
+'
+License='BSD'
+Screenshot=''
+Url='http://deeplearning.net/software/theano/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

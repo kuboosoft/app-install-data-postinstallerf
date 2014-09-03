@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>snap</b>'
+Comment='<span size="xx-large">A modular system backup/restore utility</span>'
+Comment3='
+Snap! is a system snapshot utility which uses the underlying package
+management system and native tooling to take and restore system snapshots.
+
+It provides a very simple command line and graphical interface as well as
+an API which can be easily extended to take snapshots of any custom system
+entity (support for repositories, packages, files, and various services are
+provided right out of the box)
+'
+License='GPLv3'
+Screenshot=''
+Url='http://projects.morsi.org/snap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

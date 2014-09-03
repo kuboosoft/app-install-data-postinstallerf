@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Module-Starter-PBP</b>'
+Comment='<span size="xx-large">Create a module as recommended in "Perl Best Practices"</span>'
+Comment3='
+This module implements a simple approach to creating modules and their support
+files, based on the ModuleStarter approach.
+
+When used as a ModuleStarter plugin, this module allows you to specify a
+simple directory of templates which are filled in with module-specific
+information, and thereafter form the basis of your new module.
+The default templates that this module initially provides are based on the
+recommendations in the book "Perl Best Practices".
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Starter-PBP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

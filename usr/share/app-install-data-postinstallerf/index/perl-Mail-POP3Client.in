@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Mail-POP3Client</b>'
+Comment='<span size="xx-large">Perl 5 module to talk to a POP3 (RFC1939) server</span>'
+Comment3='
+This module implements an Object-Oriented interface to a POP3 server. It
+implements RFC1939 (http//www.faqs.org/rfcs/rfc1939.html)
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Mail-POP3Client/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

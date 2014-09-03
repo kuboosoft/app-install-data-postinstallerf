@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gtk-sharp-beans</b>'
+Comment='<span size="xx-large">C# bindings for GTK+ API not included in GTK#</span>'
+Comment3='
+C# bindings for GTK+ API not included in GTK#
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://github.com/mono/gtk-sharp-beans'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

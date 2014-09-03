@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jcommon</b>'
+Comment='<span size="xx-large">JFree Java utility classes</span>'
+Comment3='
+JCommon is a collection of useful classes used by
+JFreeChart, JFreeReport and other projects.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jfree.org/jcommon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

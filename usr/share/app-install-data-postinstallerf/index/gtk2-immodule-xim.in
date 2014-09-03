@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk2-immodule-xim</b>'
+Comment='<span size="xx-large">XIM support for GTK+</span>'
+Comment3='
+The gtk2-immodule-xim package contains XIM support for GTK+.
+
+URL          http//www.gtk.org
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

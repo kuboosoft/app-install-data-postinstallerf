@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>claws-mail-plugins-pgp</b>'
+Comment='<span size="xx-large">PGP plugin for signing and encrypting with Claws Mail</span>'
+Comment3='
+PGP plugin for signing and encrypting with Claws Mail
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://claws-mail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libforensic1394-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use libforensic1394</span>'
+Comment3='
+This package contains the header files needed for developing
+libforensic1394 applications.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://freddie.witherden.org/tools/libforensic1394/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

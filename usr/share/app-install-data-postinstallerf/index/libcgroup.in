@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcgroup</b>'
+Comment='<span size="xx-large">Library to control and monitor control groups</span>'
+Comment3='
+Control groups infrastructure. The library helps manipulate, control,
+administrate and monitor control groups and the associated controllers.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libcg.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

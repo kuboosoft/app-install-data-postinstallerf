@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xpp2</b>'
+Comment='<span size="xx-large">XML Pull Parser</span>'
+Comment3='
+XML Pull Parser 2 (XPP2) is a simple and fast incremental XML parser.
+NOTE XPP2 is no longer developed and is on maintenance mode.
+All active development concentrates on its successor XPP3/MXP1.
+'
+License='xpp and ASL 1.1 and Public Domain'
+Screenshot=''
+Url='http://www.extreme.indiana.edu/xgws/xsoap/xpp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

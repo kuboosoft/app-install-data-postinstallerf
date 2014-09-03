@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libgsasl</b>'
+Comment='<span size="xx-large">GNU SASL library</span>'
+Comment3='
+The library includes support for the SASL framework
+and at least partial support for the CRAM-MD5, EXTERNAL,
+GSSAPI, ANONYMOUS, PLAIN, SECURID, DIGEST-MD5, LOGIN,
+and NTLM mechanisms.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/gsasl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

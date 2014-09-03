@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dia-gnomeDIAicons</b>'
+Comment='<span size="xx-large">Beautiful icon set for dia diagram editor</span>'
+Comment3='
+A collection of gnome network icons adapted to Dia
+'
+License='GPL+'
+Screenshot=''
+Url='http://gnomediaicons.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>maven-stage-plugin</b>'
+Comment='<span size="xx-large">Plugin to copy artifacts from one repository to another</span>'
+Comment3='
+The Maven Stage Plugin copies artifacts from one repository to another.
+Its main use is for copying artifacts from a staging repository to
+the real repository.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-stage-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

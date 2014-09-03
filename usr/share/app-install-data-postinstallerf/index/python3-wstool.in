@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python3-wstool</b>'
+Comment='<span size="xx-large">Tool for managing a workspace of multiple heterogeneous SCM repositories</span>'
+Comment3='
+wstool provides commands to manage several local SCM repositories (supports
+git, mercurial, subversion, bazaar) based on a single workspace definition file
+(.rosinstall).
+
+wstool replaces the rosws tool for catkin workspaces. As catkin workspaces
+create their own setup file and environment, wstool is reduced to version
+control functions only. So wstool does not have a "regenerate" command, and
+does not allow adding non-version controlled elements to workspaces. In all
+other respects, it behaves the same as rosws.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.ros.org/wiki/wstool'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lv2-drumkv1</b>'
+Comment='<span size="xx-large">An LV2 port of drumkv1</span>'
+Comment3='
+An LV2 plugin of the drumkv1 synth
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/drumkv1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-timers-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-timers</span>'
+Comment3='
+Documentation for rubygem-timers
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/celluloid/timers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

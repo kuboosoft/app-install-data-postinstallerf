@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pygtksourceview-doc</b>'
+Comment='<span size="xx-large">Documentation files for pygtksourceview</span>'
+Comment3='
+This package contains documentation files for pygtksourceview.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/pygtksourceview/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

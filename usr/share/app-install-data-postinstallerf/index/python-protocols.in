@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-protocols</b>'
+Comment='<span size="xx-large">Open Protocols and Component Adaptation for Python</span>'
+Comment3='
+PyProtocols is an implementation of PEP 246 allowing Python programmers to
+define Interfaces and adapters between them, thereby reducing or eliminating
+fragile isinstance if type() comparisons.
+'
+License='Python or ZPLv2.1'
+Screenshot=''
+Url='http://peak.telecommunity.com/PyProtocols.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

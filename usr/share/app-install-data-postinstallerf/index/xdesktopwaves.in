@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xdesktopwaves</b>'
+Comment='<span size="xx-large">Simulation of water waves on the X Window System desktop</span>'
+Comment3='
+xdesktopwaves is a cellular automata setting the background of your X
+Window System desktop under water. Windows and mouse are like ships on
+the sea. Each movement of these ends up in moving water waves. You can
+even have rain and/or storm stirring up the water.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xdesktopwaves.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

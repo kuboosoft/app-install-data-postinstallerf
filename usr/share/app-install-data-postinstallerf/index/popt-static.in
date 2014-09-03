@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>popt-static</b>'
+Comment='<span size="xx-large">Static library for parsing command line parameters</span>'
+Comment3='
+The popt-static package includes static libraries of the popt library.
+Install it if you need to link statically with libpopt.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.rpm5.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

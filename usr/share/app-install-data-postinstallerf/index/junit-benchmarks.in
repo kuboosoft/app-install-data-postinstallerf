@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>junit-benchmarks</b>'
+Comment='<span size="xx-large">Code benchmarking in JUnit4</span>'
+Comment3='
+A framework for writing performance micro-benchmarks using JUnit4 annotations.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://labs.carrotsearch.com/junit-benchmarks.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

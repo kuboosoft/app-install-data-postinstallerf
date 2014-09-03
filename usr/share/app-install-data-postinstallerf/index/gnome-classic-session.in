@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-classic-session</b>'
+Comment='<span size="xx-large">GNOME "classic" mode session</span>'
+Comment3='
+This package contains the required components for the GNOME Shell "classic"
+mode, which aims to provide a GNOME 2-like user interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/GnomeShell/Extensions'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-mechanize-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-mechanize</span>'
+Comment3='
+This package contains documentation for rubygem-mechanize.
+'
+License='MIT'
+Screenshot=''
+Url='http://mechanize.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

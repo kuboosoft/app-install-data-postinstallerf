@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mintmenu</b>'
+Comment='<span size="xx-large">Advanced Menu for the MATE Desktop</span>'
+Comment3='
+An advanced "slab" style menu for Linux. MintMenu supports filtering,
+favorites, auto-session, and many other features.  MintMenu can either be
+added to your mate-panel or launched in its own window.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://packages.linuxmint.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

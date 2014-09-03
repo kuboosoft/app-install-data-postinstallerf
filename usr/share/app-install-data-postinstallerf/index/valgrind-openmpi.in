@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>valgrind-openmpi</b>'
+Comment='<span size="xx-large">OpenMPI support for valgrind</span>'
+Comment3='
+A wrapper library for debugging OpenMPI parallel programs with valgrind.
+See the section on Debugging MPI Parallel Programs with Valgrind in the
+Valgrind User Manual for details.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.valgrind.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

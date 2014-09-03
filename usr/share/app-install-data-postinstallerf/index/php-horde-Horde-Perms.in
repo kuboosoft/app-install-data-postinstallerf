@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Perms</b>'
+Comment='<span size="xx-large">Horde Permissions System</span>'
+Comment3='
+The Perms package provides an interface to the Horde permissions system.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>geoqo</b>'
+Comment='<span size="xx-large">GeoCaching and General Waypoint Database</span>'
+Comment3='
+geoqo is an application and support modules for manipulating a database
+of geocaching and other types of waypoints.
+
+The homepage for GeoQO is the best place to read about it, and can be
+found at
+  http//www.geoqo.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.geoqo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

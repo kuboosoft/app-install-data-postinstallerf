@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>portreserve</b>'
+Comment='<span size="xx-large">TCP port reservation utility</span>'
+Comment3='
+The portreserve program aims to help services with well-known ports that
+lie in the portmap range.  It prevents portmap from a real services port
+by occupying it itself, until the real service tells it to release the
+port (generally in the init script).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cyberelk.net/tim/portreserve/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-mylyn-context-java</b>'
+Comment='<span size="xx-large">Mylyn Bridge:  Java Development</span>'
+Comment3='
+Mylyn Task-Focused UI extensions for JDT.  Provides focusing of Java
+element views and editors.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/mylyn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

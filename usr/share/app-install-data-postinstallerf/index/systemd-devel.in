@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>systemd-devel</b>'
+Comment='<span size="xx-large">Development headers for systemd</span>'
+Comment3='
+Development headers and auxiliary files for developing applications for systemd.
+
+URL          http//www.freedesktop.org/wiki/Software/systemd
+'
+License='LGPLv2+ and MIT'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/systemd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

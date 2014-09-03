@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>uuid-dce-devel</b>'
+Comment='<span size="xx-large">DCE development support for Universally Unique Identifier library</span>'
+Comment3='
+DCE development headers and libraries for OSSP uuid.
+
+URL          http//www.ossp.org/pkg/lib/uuid/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.ossp.org/pkg/lib/uuid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

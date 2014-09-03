@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-aurical</b>'
+Comment='<span size="xx-large">Calligraphic fonts for use with LaTeX in T1 encoding</span>'
+Comment3='
+The package that implements a set (AuriocusKalligraphicus) of
+three calligraphic fonts derived from the authors handwriting
+in Adobe Type 1 Format, T1 (Cork) encoding for use with LaTeX
+- Auriocus Kalligraphicus; - Lukas Svatba; and - Jana Skrivana.
+Each font features oldstyle digits and (machine-generated)
+boldface and slanted versions. A variant of Lukas Svatba offers
+a long s.
+
+date 2008-07-27 231156 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

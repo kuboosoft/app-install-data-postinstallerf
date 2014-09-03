@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>poco-net</b>'
+Comment='<span size="xx-large">The Net POCO component</span>'
+Comment3='
+This package contains the Net component of POCO. (POCO is a set of C++
+class libraries for network-centric applications.)
+
+'
+License='Boost'
+Screenshot=''
+Url='http://www.pocoproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

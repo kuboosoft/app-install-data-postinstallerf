@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-brushscr</b>'
+Comment='<span size="xx-large">A handwriting script font</span>'
+Comment3='
+The BrushScript font simulates hand-written characters; it is
+distributed in Adobe Type 1 format (but is available in italic
+shape only). The package includes the files needed by LaTeX in
+order to use that font. The file AAA_readme.tex fully describes
+the package and sample.tex illustrates its use.
+
+date 2012-10-18 125621 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

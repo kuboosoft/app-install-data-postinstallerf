@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-console-dot-log</b>'
+Comment='<span size="xx-large">A console.log implementation that plays nice with large amounts of data</span>'
+Comment3='
+A console.log implementation that plays nice with large amounts of data.
+It keeps the node alive until the output has flushed to the screen.
+'
+License='MIT'
+Screenshot=''
+Url='https://gist.github.com/1077544'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

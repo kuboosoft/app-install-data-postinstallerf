@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n alien
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
+Comment=Alien allows you to convert Debian, Slackware, and rpm packages
+Terminal=false
+Name=Alien
+Categories=Qt;KDE;Utility;

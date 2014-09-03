@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>flex-doc</b>'
+Comment='<span size="xx-large">Documentation for flex scanner generator</span>'
+Comment3='
+
+This package contains documentation for flex scanner generator in
+plain text and PDF formats.
+'
+License='BSD and LGPLv2+'
+Screenshot=''
+Url='http://flex.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

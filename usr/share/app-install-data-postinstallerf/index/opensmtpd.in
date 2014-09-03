@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>opensmtpd</b>'
+Comment='<span size="xx-large">Free implementation of the server-side SMTP protocol as defined by RFC 5321</span>'
+Comment3='
+OpenSMTPD is a FREE implementation of the server-side SMTP protocol as defined
+by RFC 5321, with some additional standard extensions. It allows ordinary
+machines to exchange e-mails with other systems speaking the SMTP protocol.
+Started out of dissatisfaction with other implementations, OpenSMTPD nowadays
+is a fairly complete SMTP implementation. OpenSMTPD is primarily developed
+by Gilles Chehade, Eric Faurot and Charles Longeau; with contributions from
+various OpenBSD hackers. OpenSMTPD is part of the OpenBSD Project.
+The software is freely usable and re-usable by everyone under an ISC license.
+
+This package uses standard "alternatives" mechanism, you may call
+'
+License='ISC'
+Screenshot=''
+Url='http://www.opensmtpd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

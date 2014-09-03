@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-isolate</b>'
+Comment='<span size="xx-large">Very simple RubyGems sandbox</span>'
+Comment3='
+Isolate is a very simple RubyGems sandbox. It provides a way to
+express and automatically install your projects Gem dependencies.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jbarnette/isolate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

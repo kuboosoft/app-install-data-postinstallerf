@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>thai-arundina-fonts-common</b>'
+Comment='<span size="xx-large">Common files of the Thai Arundina font set</span>'
+Comment3='
+
+Arundina fonts were created aiming at Bitstream Vera / Dejavu
+compatibility, under SIPAs initiation.  They were then further
+modified by TLWG for certain aspects, such as Latin glyph size
+compatibility and OpenType conformance.
+'
+License='Bitstream Vera'
+Screenshot=''
+Url='http://linux.thai.net/projects/fonts-sipa-arundina'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-psych</b>'
+Comment='<span size="xx-large">A libyaml wrapper for Ruby</span>'
+Comment3='
+Psych is a YAML parser and emitter. Psych leverages
+libyaml[http//pyyaml.org/wiki/LibYAML] for its YAML parsing and emitting
+capabilities. In addition to wrapping libyaml, Psych also knows how to
+serialize and de-serialize most Ruby objects to and from the YAML format.
+'
+License='MIT'
+Screenshot=''
+Url='http://ruby-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

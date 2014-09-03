@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-fundus-calligra</b>'
+Comment='<span size="xx-large">Support for the calligra font in LaTeX documents</span>'
+Comment3='
+The package offers support for the calligra handwriting font,
+in LaTeX documents. The package is part of the fundus bundle.
+
+date 2012-04-15 005455 +0200
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

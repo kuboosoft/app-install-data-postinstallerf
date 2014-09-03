@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>igor-common</b>'
+Comment='<span size="xx-large">Files shared between Igor daemon and client</span>'
+Comment3='
+A number of files shared between the Igor daemon and client.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.github.com/fabiand/igor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

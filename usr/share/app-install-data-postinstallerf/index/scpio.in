@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>scpio</b>'
+Comment='<span size="xx-large">Copy file archives in and out (LEGACY)</span>'
+Comment3='
+The scpio utility, depending on the options used copies files to an archive
+file, extracts files from an archive file, lists files from an archive file or
+copies files from one directory tree to another.
+'
+License='CDDL'
+Screenshot=''
+Url='http://cdrecord.berlios.de/old/private/star.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

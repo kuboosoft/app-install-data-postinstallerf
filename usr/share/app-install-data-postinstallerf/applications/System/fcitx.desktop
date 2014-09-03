@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n fcitx
+Name=Fcitx
+Name[zh_CN]=Fcitx
+Name[zh_TW]=Fcitx
+Comment=Input Method
+Comment[zh_CN]=输入法
+Comment[zh_TW]=輸入法
+Icon=/usr/share/app-install-data-postinstallerf/icons/fcitx.png
+Terminal=false
+Type=Application
+Categories=System;Utility;
+StartupNotify=false

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yum-plugin-post-transaction-actions</b>'
+Comment='<span size="xx-large">Yum plugin to run arbitrary commands when certain pkgs are acted on</span>'
+Comment3='
+This plugin allows the user to run arbitrary actions immediately following a
+transaction when specified packages are changed.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

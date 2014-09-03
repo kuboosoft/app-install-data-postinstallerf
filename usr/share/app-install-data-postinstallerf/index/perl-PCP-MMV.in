@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-PCP-MMV</b>'
+Comment='<span size="xx-large">Performance Co-Pilot (PCP) Perl bindings for PCP Memory Mapped Values</span>'
+Comment3='
+The PCPMMV module contains the Perl language bindings for
+building scripts instrumented with the Performance Co-Pilot
+(PCP) Memory Mapped Value (MMV) mechanism.
+This mechanism allows arbitrary values to be exported from an
+instrumented script into the PCP infrastructure for monitoring
+and analysis with pmchart, pmie, pmlogger and other PCP tools.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.performancecopilot.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

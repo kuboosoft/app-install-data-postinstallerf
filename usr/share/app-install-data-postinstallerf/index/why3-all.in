@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>why3-all</b>'
+Comment='<span size="xx-large">Complete Why3 software verification platform suite</span>'
+Comment3='
+This package provides a complete software verification platform suite
+based on Why3, including various automated and interactive provers.
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://why3.lri.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

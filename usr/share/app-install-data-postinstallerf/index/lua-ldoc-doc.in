@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lua-ldoc-doc</b>'
+Comment='<span size="xx-large">Docs for lua-ldoc</span>'
+Comment3='
+Docs for lua-ldoc
+'
+License='MIT and BSD'
+Screenshot=''
+Url='https://github.com/stevedonovan/ldoc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

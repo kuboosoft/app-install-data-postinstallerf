@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>buildnumber-maven-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for buildnumber-maven-plugin</span>'
+Comment3='
+API documentation for buildnumber-maven-plugin.
+'
+License='MIT and ASL 2.0'
+Screenshot=''
+Url='http://svn.codehaus.org/mojo/tags/buildnumber-maven-plugin-1.2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

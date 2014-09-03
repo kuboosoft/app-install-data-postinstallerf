@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>util-linux</b>'
+Comment='<span size="xx-large">A collection of basic system utilities</span>'
+Comment3='
+The util-linux package contains a large variety of low-level system
+utilities that are necessary for a Linux system to function. Among
+others, Util-linux contains the fdisk configuration tool and the login
+program.
+'
+License='GPLv2 and GPLv2+ and LGPLv2+ and BSD with advertising and Public Domain'
+Screenshot=''
+Url='http://en.wikipedia.org/wiki/Util-linux'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

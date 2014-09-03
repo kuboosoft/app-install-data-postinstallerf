@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rubygem-test-unit</b>'
+Comment='<span size="xx-large">Improved version of Test::Unit bundled in Ruby 1.8.x</span>'
+Comment3='
+TestUnit 2.x - Improved version of TestUnit bundled in
+Ruby 1.8.x.
+Ruby 1.9.x bundles minitest not TestUnit. TestUnit
+bundled in Ruby 1.8.x had not been improved but unbundled
+TestUnit (TestUnit 2.x) will be improved actively.
+'
+License='(GPLv2 or Ruby) and (GPLv2 or Ruby or Python) and (LGPLv2+ or Ruby)'
+Screenshot=''
+Url='http://rubyforge.org/projects/test-unit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

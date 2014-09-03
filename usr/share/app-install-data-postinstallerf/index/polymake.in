@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>polymake</b>'
+Comment='<span size="xx-large">Algorithms on convex polytopes and polyhedra</span>'
+Comment3='
+Polymake is a tool to study the combinatorics and the geometry of convex
+polytopes and polyhedra.  It is also capable of dealing with simplicial
+complexes, matroids, polyhedral fans, graphs, tropical objects, and so
+forth.
+
+Polymake can use various computational packages if they are installed.
+Those available from Fedora are 4ti2, azove, gfan, latte-integrale,
+normaliz, ocaml-tplib-tools, qhull, Singular, TOPCOM, and vinci.
+Polymake can interface with various visualization packages if they are
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://polymake.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

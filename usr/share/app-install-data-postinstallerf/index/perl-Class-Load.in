@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Class-Load</b>'
+Comment='<span size="xx-large">A working (require "Class::Name") and more</span>'
+Comment3='
+require EXPR only accepts Class/Name.pm style module names, not ClassName.
+How frustrating! For that, we provide load_class ClassName.
+
+Its often useful to test whether a module can be loaded, instead of throwing
+an error when its not available. For that, we provide
+try_load_class ClassName.
+Finally, sometimes we need to know whether a particular class has been loaded.
+Asking %INC is an option, but that will miss inner packages and any class for
+which the filename does not correspond to the package name. For that, we
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Load/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

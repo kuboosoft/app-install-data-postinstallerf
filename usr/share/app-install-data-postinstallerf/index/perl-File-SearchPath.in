@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-File-SearchPath</b>'
+Comment='<span size="xx-large">Search for a file in an environment variable path</span>'
+Comment3='
+This module provides the ability to search a path-like environment variable
+for a file (that does not necessarily have to be an executable).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-SearchPath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

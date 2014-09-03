@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opentracker-ipv4</b>'
+Comment='<span size="xx-large">BitTorrent Tracker using ipv4</span>'
+Comment3='
+opentracker is a open and free BitTorrent tracker project. It aims for minimal
+resource usage.
+This package provides IPv4 capability.
+'
+License='Beerware'
+Screenshot=''
+Url='http://erdgeist.org/arts/software/opentracker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

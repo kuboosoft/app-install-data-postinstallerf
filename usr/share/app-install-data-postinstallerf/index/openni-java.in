@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openni-java</b>'
+Comment='<span size="xx-large">openni Java library</span>'
+Comment3='
+The openni-java package contains a Java JNI library for
+developing applications that use openni in Java.
+'
+License='LGPLv3+ and BSD'
+Screenshot=''
+Url='http://www.openni.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

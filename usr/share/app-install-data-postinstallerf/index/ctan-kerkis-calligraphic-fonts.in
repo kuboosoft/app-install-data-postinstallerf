@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ctan-kerkis-calligraphic-fonts</b>'
+Comment='<span size="xx-large">Kerkis Calligraphic Type1 fonts</span>'
+Comment3='
+Kerkis type 1 fonts for LaTeX.  These fonts are particularly useful
+for typesetting Greek. The Greek repertoire includes full support for
+polytonic Greek, Greek numerals, and double forms of several letters
+that occur in variant forms.
+This package contains the Kerkis-Calligraphic font family, a calligraphic font
+family of Kerkis, based on URW Bookman.
+'
+License='LPPL'
+Screenshot=''
+Url='http://www.ctan.org/pkg/kerkis'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

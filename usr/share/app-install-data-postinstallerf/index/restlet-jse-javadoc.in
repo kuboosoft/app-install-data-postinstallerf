@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>restlet-jse-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for restlet-jse</span>'
+Comment3='
+This package contains javadoc for restlet-jse.
+'
+License='(ASL 2.0 or CDDL or EPL or LGPLv2+ or LGPLv3+)'
+Screenshot=''
+Url='http://restlet.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>heat</b>'
+Comment='<span size="xx-large">This software provides AWS CloudFormation functionality for OpenStack Essex</span>'
+Comment3='
+Heat provides AWS CloudFormation and CloudWatch functionality for OpenStack.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://heat-api.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

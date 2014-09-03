@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wtop</b>'
+Comment='<span size="xx-large">Top for Webserver</span>'
+Comment3='
+Wtop like "top" for your webserver.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/wtop/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

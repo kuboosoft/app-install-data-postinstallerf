@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>wastesedge</b>'
+Comment='<span size="xx-large">Official game package for Adonthell</span>'
+Comment3='
+As a loyal servant of the elven Lady Silverhair, you arrive at the remote
+trading post of Wastes Edge, where she is engaged in negotiations with the
+dwarvish merchant Bjarn Fingolson. But not all is well at Wastes Edge, and
+soon you are confronted with circumstances that are about to destroy your
+mistress high reputation. And you are the only one to avert this ...
+'
+License='GPL+'
+Screenshot=''
+Url='http://adonthell.linuxgames.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

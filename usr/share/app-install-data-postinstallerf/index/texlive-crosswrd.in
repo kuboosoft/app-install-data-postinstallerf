@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-crosswrd</b>'
+Comment='<span size="xx-large">Macros for typesetting crossword puzzles</span>'
+Comment3='
+The package provides a LaTeX method of typesetting crosswords,
+and assists the composer ensure that the grid all goes together
+properly. Brian Hamilton Kellys original was written for LaTeX
+2.09, and needed to be updated to run with current LaTeX.
+
+date 2010-02-01 171428 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

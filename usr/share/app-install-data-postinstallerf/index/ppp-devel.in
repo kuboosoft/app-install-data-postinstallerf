@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ppp-devel</b>'
+Comment='<span size="xx-large">Headers for ppp plugin development</span>'
+Comment3='
+This package contains the header files for building plugins for ppp.
+
+URL          http//www.samba.org/ppp
+'
+License='BSD and LGPLv2+ and GPLv2+ and Public Domain'
+Screenshot=''
+Url='http://www.samba.org/ppp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

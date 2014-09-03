@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xbmc-eventclients-devel</b>'
+Comment='<span size="xx-large">Media center event client remotes development files</span>'
+Comment3='
+This package contains the development header files for the eventclients
+library.
+
+'
+License='GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://www.xbmc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

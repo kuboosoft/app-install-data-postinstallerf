@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libcom_err-devel</b>'
+Comment='<span size="xx-large">Common error description library</span>'
+Comment3='
+This is the common error description development library and headers,
+part of e2fsprogs.  It contains the compile_et commmand, used
+to convert a table listing error-code names and associated messages
+messages into a C source file suitable for use with the library.
+
+libcom_err is an attempt to present a common error-handling mechanism.
+'
+License='MIT'
+Screenshot=''
+Url='http://e2fsprogs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

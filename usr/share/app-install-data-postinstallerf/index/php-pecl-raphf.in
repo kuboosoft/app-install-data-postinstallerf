@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pecl-raphf</b>'
+Comment='<span size="xx-large">Resource and persistent handles factory</span>'
+Comment3='
+A reusable split-off of pecl_https persistent handle and resource
+factory API.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://pecl.php.net/package/raphf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

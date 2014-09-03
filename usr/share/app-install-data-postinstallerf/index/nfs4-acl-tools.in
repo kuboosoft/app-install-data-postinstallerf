@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nfs4-acl-tools</b>'
+Comment='<span size="xx-large">The nfs4 ACL tools</span>'
+Comment3='
+This package contains commandline and GUI ACL utilities for the Linux
+NFSv4 client.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.citi.umich.edu/projects/nfsv4/linux/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

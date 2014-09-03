@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-rspec-mocks</b>'
+Comment='<span size="xx-large">Rspec-2 doubles (mocks and stubs)</span>'
+Comment3='
+rspec-mocks provides a test-double framework for rspec including support
+for method stubs, fakes, and message expectations.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rspec/rspec-mocks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

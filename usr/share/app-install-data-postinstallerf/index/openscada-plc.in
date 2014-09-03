@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openscada-plc</b>'
+Comment='<span size="xx-large">OpenSCADA PLC</span>'
+Comment3='
+The openscada-plc package is virtual package for PLC.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>policycoreutils-newrole</b>'
+Comment='<span size="xx-large">The newrole application for RBAC/MLS</span>'
+Comment3='
+RBAC/MLS policy machines require newrole as a way of changing the role
+or level of a logged in user.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.selinuxproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

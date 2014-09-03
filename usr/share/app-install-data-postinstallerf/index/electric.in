@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>electric</b>'
+Comment='<span size="xx-large">Sophisticated ASIC and MEM CAD System</span>'
+Comment3='
+Electric is a sophisticated electrical CAD system that can handle
+many forms of circuit design, including custom IC layout (ASICs),
+schematic drawing, hardware description language specifications,
+and electro-mechanical hybrid layout.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.staticfreesoft.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wsdlpull-doc</b>'
+Comment='<span size="xx-large">HTML documentation for the wsdlpull library</span>'
+Comment3='
+This package contains the documentation in the HTML format of the wsdlpull
+library. The documentation is the same as at the wsdlpull web page.
+'
+License='LGPLv2 and OReilly and MIT'
+Screenshot=''
+Url='http://wsdlpull.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

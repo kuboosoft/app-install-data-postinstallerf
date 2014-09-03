@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libqzeitgeist</b>'
+Comment='<span size="xx-large">Qt Zeitgeist Library</span>'
+Comment3='
+A Qt interface to the Zeitgeist event tracking system.
+
+URL          http//projects.kde.org/projects/kdesupport/libqzeitgeist
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.kde.org/projects/kdesupport/libqzeitgeist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

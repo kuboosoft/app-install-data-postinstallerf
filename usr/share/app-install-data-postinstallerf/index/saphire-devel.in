@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>saphire-devel</b>'
+Comment='<span size="xx-large">Development files for saphire</span>'
+Comment3='
+The saphire-devel package contains libraries and header files for
+developing applications that use saphire.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://ab25cq.wiki.fc2.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

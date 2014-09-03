@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw32-wpcap-examples</b>'
+Comment='<span size="xx-large">Example source code for MinGW pcap</span>'
+Comment3='
+This package contains examples on the usage of the Windows pcap
+library.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.winpcap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

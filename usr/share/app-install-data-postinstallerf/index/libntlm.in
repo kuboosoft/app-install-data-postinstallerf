@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libntlm</b>'
+Comment='<span size="xx-large">NTLMv1 authentication library</span>'
+Comment3='
+A library for authenticating with Microsoft NTLMV1 challenge-response,
+derived from Samba sources.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://nongnu.org/libntlm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

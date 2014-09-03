@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libeasyfc</b>'
+Comment='<span size="xx-large">Easy configuration generator interface for fontconfig</span>'
+Comment3='
+libeasyfc aims to provide an easy interface to generate
+fontconfig configuration on demand.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://tagoh.bitbucket.org/libeasyfc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

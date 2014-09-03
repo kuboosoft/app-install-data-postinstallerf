@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pyifp</b>'
+Comment='<span size="xx-large">Python Bindings for libifp</span>'
+Comment3='
+The pyifp module is a wrapper around libifp designed to make it easy
+to write python based programs to manage the iFP class of devices.
+(A line of portable media players manufactured by iRiver.)
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ifp-gnome.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

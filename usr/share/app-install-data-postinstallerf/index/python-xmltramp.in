@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-xmltramp</b>'
+Comment='<span size="xx-large">Pythonic API for XML</span>'
+Comment3='
+xmltramp is a simple Pythonic API for working with XML
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.aaronsw.com/2002/xmltramp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

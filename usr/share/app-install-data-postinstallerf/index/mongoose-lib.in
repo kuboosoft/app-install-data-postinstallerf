@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mongoose-lib</b>'
+Comment='<span size="xx-large">Shared Object for applications that use mongoose embedded</span>'
+Comment3='
+This package contains the shared library required by applications that
+are using mongooses embeddable API to provide web services.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/mongoose'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

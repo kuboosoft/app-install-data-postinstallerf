@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-pst-circ</b>'
+Comment='<span size="xx-large">PSTricks package for drawing electric circuits</span>'
+Comment3='
+The package is built using PSTricks and in particular pst-node.
+It can easily draw current 2-terminal devices and some 3- and
+4-terminal devices used in electronic or electric theory. The
+packages macros are designed with a view to logical
+representation of circuits, as far as possible, so as to
+relieve the user of purely graphical considerations when
+expressing a circuit.
+
+date 2013-10-03 144114 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

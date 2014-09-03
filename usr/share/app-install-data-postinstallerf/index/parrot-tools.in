@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>parrot-tools</b>'
+Comment='<span size="xx-large">Parrot Virtual Machine development for languages</span>'
+Comment3='
+Parrot Virtual Machine development files for building languages.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://www.parrot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

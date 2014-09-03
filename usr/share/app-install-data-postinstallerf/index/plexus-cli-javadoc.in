@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plexus-cli-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for plexus-cli</span>'
+Comment3='
+Javadoc for plexus-cli.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://plexus.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

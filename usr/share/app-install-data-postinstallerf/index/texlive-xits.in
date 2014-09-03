@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-xits</b>'
+Comment='<span size="xx-large">A Scientific Times-like font with support for mathematical typesetting</span>'
+Comment3='
+XITS is a Times-like font for scientific typesetting with
+proper mathematical support for modern, Unicode and OpenType
+capable TeX engines, namely LuaTeX and XeTeX. For use with
+LuaLaTeX or XeLaTeX, support is available from the fontspec and
+unicode-math packages.
+
+date 2013-05-28 195213 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

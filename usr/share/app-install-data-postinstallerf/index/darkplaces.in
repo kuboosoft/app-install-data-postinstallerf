@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>darkplaces</b>'
+Comment='<span size="xx-large">Modified Quake engine</span>'
+Comment3='
+DarkPlaces is a modified Quake engine.
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.xonotic.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

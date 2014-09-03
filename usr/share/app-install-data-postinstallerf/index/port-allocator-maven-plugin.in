@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>port-allocator-maven-plugin</b>'
+Comment='<span size="xx-large">Port Allocator Maven Plugin</span>'
+Comment3='
+Allocate ports to be used during maven build process.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/sonatype/port-allocator-maven-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

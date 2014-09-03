@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>dfu-util</b>'
+Comment='<span size="xx-large">USB Device Firmware Upgrade tool</span>'
+Comment3='
+USB Device Firmware Upgrade (DFU) is an official USB device class specification
+of the USB Implementers Forum. It specifies a vendor and device independent way
+of updating the firmware of a USB device. The idea is to have only one
+vendor-independent firmware update tool as part of the operating system, which
+can then (given a particular firmware image) be downloaded into the device.
+
+In addition to firmware download, it also specifies firmware upload, i.e.
+loading the currently installed device firmware to the USB Host.
+The DFU specification can be found at
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dfu-util.gnumonks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

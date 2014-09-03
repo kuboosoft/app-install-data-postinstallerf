@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libwpg</b>'
+Comment='<span size="xx-large">Library for reading WordPerfect Graphics images</span>'
+Comment3='
+Libwpg project is a library and to work with graphics in WPG
+(WordPerfect Graphics) format. WPG is the format used among others
+in Corel software, such as WordPerfect and Presentations.
+
+'
+License='LGPLv2+ or MPLv2.0'
+Screenshot=''
+Url='http://libwpg.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Parallel-Iterator</b>'
+Comment='<span size="xx-large">Simple parallel execution</span>'
+Comment3='
+The map function applies a user supplied transformation function to
+each element in a list, returning a new list containing the
+transformed elements.
+
+This module provides a parallel map. Multiple worker processes are forked so
+that many instances of the transformation function may be executed
+simultaneously.
+For time consuming operations, particularly operations that spend most of their
+time waiting for I/O, this is a big performance win. It also provides a simple
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Parallel-Iterator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>allegro5-addon-dialog</b>'
+Comment='<span size="xx-large">Dialog addon for the Allegro 5 library</span>'
+Comment3='
+This package provides the dialog addon for the Allegro 5 library. This
+addon allows you to show dialog boxes.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://liballeg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

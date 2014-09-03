@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-driver-qemu</b>'
+Comment='<span size="xx-large">Qemu driver plugin for the libvirtd daemon</span>'
+Comment3='
+The qemu driver plugin for the libvirtd daemon, providing
+an implementation of the hypervisor driver APIs using
+QEMU
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

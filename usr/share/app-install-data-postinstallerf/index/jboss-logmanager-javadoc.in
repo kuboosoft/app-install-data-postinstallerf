@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-logmanager-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jboss-logmanager</span>'
+Comment3='
+This package contains the API documentation for jboss-logmanager.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/jboss-logging/jboss-logmanager'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

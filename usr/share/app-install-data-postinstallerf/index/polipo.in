@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>polipo</b>'
+Comment='<span size="xx-large">Lightweight caching web proxy</span>'
+Comment3='
+Polipo is a lightweight caching web proxy that was designed as a personal
+cache. It is able to cache incomplete objects and will complete them using
+range requests. It will use HTTP/1.1 pipelining if supported by the remote
+server.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.pps.jussieu.fr/~jch/software/polipo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

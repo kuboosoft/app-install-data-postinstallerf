@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>rubygem-moped</b>'
+Comment='<span size="xx-large">A MongoDB driver for Ruby</span>'
+Comment3='
+Moped is a MongoDB driver for Ruby, which exposes a simple, elegant,
+and fast API. Moped is the supported driver for Mongoid
+from version 3 and higher.
+
+Moped is composed of three parts an implementation of the
+BSON specification, an implementation of the Mongo Wire
+Protocol, and the driver itself.
+'
+License='MIT'
+Screenshot=''
+Url='http://mongoid.org/en/moped'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

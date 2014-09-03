@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>stress</b>'
+Comment='<span size="xx-large">A tool to put given subsystems under a specified load</span>'
+Comment3='
+stress is not a benchmark, but is rather a tool designed to put given
+subsytems under a specified load. Instances in which this is useful
+include those in which a system administrator wishes to perform tuning
+activities, a kernel or libc programmer wishes to evaluate denial of
+service possibilities, etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://weather.ou.edu/~apw/projects/stress/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

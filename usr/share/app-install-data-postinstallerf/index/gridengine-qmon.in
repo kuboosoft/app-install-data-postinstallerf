@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gridengine-qmon</b>'
+Comment='<span size="xx-large">Gridengine qmon monitor</span>'
+Comment3='
+The qmon graphical grid engine monitor
+'
+License='BSD and LGPLv2+ and MIT and SISSL'
+Screenshot=''
+Url='http://gridscheduler.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pari-galpol</b>'
+Comment='<span size="xx-large">PARI/GP Computer Algebra System Galois polynomials</span>'
+Comment3='
+This package contains the optional PARI package galpol, which contains a
+database of polynomials defining Galois extensions of the rationals
+representing all abstract groups of order up to 127 for all signatures
+(2429 polynomials).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pari.math.u-bordeaux.fr/packages.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n jmeters
+Type=Application
+Name=Jmeters
+GenericName=Multichannel audio level meter
+Comment=Multichannel audio level meter for JACK
+Icon=/usr/share/app-install-data-postinstallerf/icons/jmeters_32x32.png
+Terminal=false
+Categories=AudioVideo;Audio;

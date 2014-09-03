@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-bclogo</b>'
+Comment='<span size="xx-large">Creating colourful boxes with logos</span>'
+Comment3='
+The package facilitates the creation of colorful boxes with a
+title and logo. It may use either tikz or PSTricks as graphics
+engine.
+
+date 2011-08-01 121846 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

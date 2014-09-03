@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>netsniff-ng</b>'
+Comment='<span size="xx-large">Packet sniffing beast</span>'
+Comment3='
+netsniff-ng is a high performance Linux network sniffer for packet inspection.
+It can be used for protocol analysis, reverse engineering or network
+debugging. The gain of performance is reached by zero-copy mechanisms, so
+that the kernel does not need to copy packets from kernelspace to userspace.
+
+netsniff-ng toolkit currently consists of the following utilities
+* netsniff-ng the zero-copy sniffer, pcap capturer and replayer itself.
+* trafgen a high performance zero-copy network packet generator.
+* ifpps a top-like kernel networking and system statistics tool.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://netsniff-ng.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-arel-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-arel</span>'
+Comment3='
+Documentation for rubygem-arel
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rails/arel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

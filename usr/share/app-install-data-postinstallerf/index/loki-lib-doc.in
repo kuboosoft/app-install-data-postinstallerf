@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>loki-lib-doc</b>'
+Comment='<span size="xx-large">The Loki C++ html docs</span>'
+Comment3='
+HTML documentation files for the Loki C++ Library
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/loki-lib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

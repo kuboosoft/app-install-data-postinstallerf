@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rapidjson-doc</b>'
+Comment='<span size="xx-large">Documentation-files for rapidjson</span>'
+Comment3='
+This package contains the documentation-files for rapidjson.
+'
+License='MIT'
+Screenshot=''
+Url='http://miloyip.github.io/rapidjson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

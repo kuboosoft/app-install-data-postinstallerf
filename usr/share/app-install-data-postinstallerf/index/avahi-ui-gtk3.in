@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>avahi-ui-gtk3</b>'
+Comment='<span size="xx-large">Gtk user interface library for Avahi (Gtk+ 3 version)</span>'
+Comment3='
+This library contains a Gtk 3.x widget for browsing services.
+
+URL          http//avahi.org
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://avahi.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

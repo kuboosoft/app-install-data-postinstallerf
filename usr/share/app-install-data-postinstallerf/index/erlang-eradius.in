@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-eradius</b>'
+Comment='<span size="xx-large">RADIUS authentication/accounting for erlang apps</span>'
+Comment3='
+RADIUS authentication/accounting for erlang apps.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/lemenkov/eradius'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

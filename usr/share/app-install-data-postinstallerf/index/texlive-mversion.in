@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-mversion</b>'
+Comment='<span size="xx-large">Keeping track of document versions</span>'
+Comment3='
+The package enables the user to keep track of different
+versions of a latex document. The command \version prints the
+version and build numbers; each time you compile your document,
+the build number is increased by one. By placing \version in
+the header or footer, each page can be marked with the unique
+build number describing the progress of your document.
+
+date 2013-03-13 133729 +0100
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-wsuipa</b>'
+Comment='<span size="xx-large">International Phonetic Alphabet fonts</span>'
+Comment3='
+The package provides a 7-bit IPA font, as Metafont source, and
+macros for support under TeXt1 and LaTeX. The fonts (and
+macros) are now largely superseded by the tipa fonts.
+
+date 2012-01-27 133318 +0100
+'
+License='Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

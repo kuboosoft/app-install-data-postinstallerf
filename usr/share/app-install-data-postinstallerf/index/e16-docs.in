@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>e16-docs</b>'
+Comment='<span size="xx-large">Documentation for Enlightenment, DR16</span>'
+Comment3='
+This package contains documentation for Enlightenment, DR16.
+'
+License='MIT with advertising'
+Screenshot=''
+Url='http://www.enlightenment.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

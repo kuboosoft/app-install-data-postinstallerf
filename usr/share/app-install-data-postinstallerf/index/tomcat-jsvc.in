@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tomcat-jsvc</b>'
+Comment='<span size="xx-large">Apache jsvc wrapper for Apache Tomcat as separate service</span>'
+Comment3='
+Systemd service and wrapper scripts to start tomcat with jsvc,
+which allows tomcat to perform some privileged operations
+(e.g. bind to a port < 1024) and then switch identity to a non-privileged user.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tomcat.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

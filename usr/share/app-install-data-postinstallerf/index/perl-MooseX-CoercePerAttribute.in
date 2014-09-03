@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-MooseX-CoercePerAttribute</b>'
+Comment='<span size="xx-large">Define coercions per attribute</span>'
+Comment3='
+A simple Moose Trait to allow you to define coercions per attribute.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-CoercePerAttribute/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

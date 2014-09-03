@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>openct</b>'
+Comment='<span size="xx-large">Middleware framework for smart card terminals</span>'
+Comment3='
+OpenCT implements drivers for several smart card readers.  It comes as
+driver in ifdhandler format for PC/SC-Lite, as CT-API driver, or as a
+small and lean middleware, so applications can use it with minimal
+overhead.  OpenCT also has a primitive mechanism to export smart card
+readers to remote machines via TCP/IP.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opensc-project.org/openct/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

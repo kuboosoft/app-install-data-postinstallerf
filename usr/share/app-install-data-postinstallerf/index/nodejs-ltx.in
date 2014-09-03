@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-ltx</b>'
+Comment='<span size="xx-large">A Node.js module for parsing, modifying and building XML</span>'
+Comment3='
+A Node.js module for parsing, modifying and building XML.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/astro/ltx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

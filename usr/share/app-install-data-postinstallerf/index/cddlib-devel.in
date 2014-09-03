@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cddlib-devel</b>'
+Comment='<span size="xx-large">Headers for cddlib</span>'
+Comment3='
+Include files for cddlib.
+
+URL          http//www.ifor.math.ethz.ch/~fukuda/cdd_home/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ifor.math.ethz.ch/~fukuda/cdd_home/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

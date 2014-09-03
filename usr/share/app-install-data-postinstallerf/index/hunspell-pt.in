@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-pt</b>'
+Comment='<span size="xx-large">Portuguese hunspell dictionaries</span>'
+Comment3='
+Portuguese hunspell dictionaries.
+'
+License='((LGPLv3 or MPL) and LGPLv2) and (GPLv2 or LGPLv2 or MPLv1.1)'
+Screenshot=''
+Url='http://www.broffice.org/verortografico/baixar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

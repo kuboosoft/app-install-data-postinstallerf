@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>exif</b>'
+Comment='<span size="xx-large">Utility to show EXIF information hidden in JPEG files</span>'
+Comment3='
+Small command-line utility to show EXIF information hidden
+in JPEG files.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libexif.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

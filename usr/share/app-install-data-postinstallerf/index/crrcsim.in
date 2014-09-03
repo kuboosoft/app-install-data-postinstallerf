@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>crrcsim</b>'
+Comment='<span size="xx-large">Model-Airplane Flight Simulation Program</span>'
+Comment3='
+Crrcsim is a model-airplane flight simulation program.
+Using it, you can learn how to fly model aircraft, test new aircraft designs,
+and improve your skills by practicing on your computer.
+
+The flight model is very realistic.
+The flight model parameters are calculated based on a 3D representation
+of the aircraft. Stalls are properly modeled as well.
+Model control is possible with your own RC transmitter, or any input device
+such as joystick, mouse, keyboard.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/apps/mediawiki/crrcsim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

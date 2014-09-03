@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>motoya-lcedar-fonts</b>'
+Comment='<span size="xx-large">Japanese Gothic-typeface TrueType fonts by MOTOYA Co,LTD</span>'
+Comment3='
+Motoya font was created in 1950s, it aims beauty and readability.
+"MotoyaLCedar W3 mono", Gothic-typeface font was contributed by
+MOTOYA Co,LTD. for Android platform.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://android.git.kernel.org/?p=platform/frameworks/base.git;a=tree;f=data/fonts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

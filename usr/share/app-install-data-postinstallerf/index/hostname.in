@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>hostname</b>'
+Comment='<span size="xx-large">Utility to set/show the host name or domain name</span>'
+Comment3='
+This package provides commands which can be used to display the systems
+DNS name, and to display or set its hostname or NIS domain name.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://packages.qa.debian.org/h/hostname.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

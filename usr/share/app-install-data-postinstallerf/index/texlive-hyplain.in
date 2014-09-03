@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-hyplain</b>'
+Comment='<span size="xx-large">Basic support for multiple languages in Plain TeX</span>'
+Comment3='
+The package offers a means to set up hyphenation suitable for
+several languages and/or dialects, and to select them or switch
+between them while typesetting.
+
+date 2007-03-07 200557 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

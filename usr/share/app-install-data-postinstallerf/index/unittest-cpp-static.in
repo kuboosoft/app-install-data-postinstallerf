@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>unittest-cpp-static</b>'
+Comment='<span size="xx-large">Static library for unittest-cpp</span>'
+Comment3='
+The unittest-cpp-static package contains the object files
+necessary for statically linking test programs.
+
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/unittest-cpp/unittest-cpp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

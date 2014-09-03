@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-parrun</b>'
+Comment='<span size="xx-large">Typesets (two) streams of text running parallel</span>'
+Comment3='
+For typesetting translated text and the original source,
+parallel on the same page, one above the other.
+
+date 2009-09-20 000229 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>clamav-update</b>'
+Comment='<span size="xx-large">Auto-updater for the Clam Antivirus scanner data-files</span>'
+Comment3='
+This package contains programs which can be used to update the clamav
+anti-virus database automatically. It uses the freshclam(1) utility for
+this task. To activate it, uncomment the entry in /etc/cron.d/clamav-update.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.clamav.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

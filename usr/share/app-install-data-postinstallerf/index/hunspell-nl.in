@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-nl</b>'
+Comment='<span size="xx-large">Dutch hunspell dictionaries</span>'
+Comment3='
+Dutch hunspell dictionaries.
+'
+License='BSD or CC-BY'
+Screenshot=''
+Url='http://www.opentaal.org/english.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

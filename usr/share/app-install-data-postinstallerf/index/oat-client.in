@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>oat-client</b>'
+Comment='<span size="xx-large">Host Agent for OpenAttestation</span>'
+Comment3='
+OpenAttestation (OAT) is a open source project providing a SDK for managing
+host integrity verification using TCG-defined remote attestation protocol,
+targeting to be integrated into cloud and enterprise management tools.
+
+This package provides the host agent which uses Java and the NIARL TPM
+Module to acquire integrity measurement data from the hosts Trusted
+Platform Module (TPM).
+The data is compiled into an integrity report and sent to the OAT appraisal
+server.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/OpenAttestation/OpenAttestation'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

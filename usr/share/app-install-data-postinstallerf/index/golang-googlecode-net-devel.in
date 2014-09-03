@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>golang-googlecode-net-devel</b>'
+Comment='<span size="xx-large">Supplementary Go networking libraries</span>'
+Comment3='
+Supplementary Go networking libraries
+
+This package contains library source intended for building other packages
+which use the supplementary Go networking libraries.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/go.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

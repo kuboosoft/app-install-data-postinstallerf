@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>flute</b>'
+Comment='<span size="xx-large">Java CSS parser using SAC</span>'
+Comment3='
+A Cascading Style Sheets parser using the Simple API for CSS, for Java.
+'
+License='W3C and LGPLv2+'
+Screenshot=''
+Url='http://www.w3.org/Style/CSS/SAC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

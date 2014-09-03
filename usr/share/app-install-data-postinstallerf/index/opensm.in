@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>opensm</b>'
+Comment='<span size="xx-large">OpenIB InfiniBand Subnet Manager and management utilities</span>'
+Comment3='
+OpenSM is the OpenIB projects Subnet Manager for Infiniband networks.
+The subnet manager is run as a system daemon on one of the machines in
+the infiniband fabric to manage the fabrics routing state.  This package
+also contains various tools for diagnosing and testing Infiniband networks
+that can be used from any machine and do not need to be run on a machine
+running the opensm daemon.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

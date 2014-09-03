@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-iep</b>'
+Comment='<span size="xx-large">The interactive editor for Python</span>'
+Comment3='
+IEP (pronounced as eep) is a cross-platform Python IDE focused on interactivity
+and introspection, which makes it very suitable for scientific computing. Its
+practical design is aimed at simplicity and efficiency.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.iep-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

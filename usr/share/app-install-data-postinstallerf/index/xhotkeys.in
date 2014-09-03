@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xhotkeys</b>'
+Comment='<span size="xx-large">Hotkeys for the X-Window</span>'
+Comment3='
+Xhotkeys provides a simple and easily configurable hotkey launcher for
+the X-Window System, binding keys and mouse buttons to configurable commands.
+It should work on all desktops (Gnome, KDE, Xfce, ...) available for the
+GNU/Linux operating system. Configuration files can be modified manually or
+using a graphical GTK+ configurator.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/xhotkeys/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

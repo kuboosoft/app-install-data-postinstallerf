@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ski</b>'
+Comment='<span size="xx-large">IA-64 user and system mode simulator</span>'
+Comment3='
+The Ski IA-64 user and system simulator originally developed by HP.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ski.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

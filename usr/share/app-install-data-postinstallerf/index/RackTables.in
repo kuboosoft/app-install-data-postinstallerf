@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>RackTables</b>'
+Comment='<span size="xx-large">A data-center asset management system</span>'
+Comment3='
+A data-center asset management system.
+'
+License='GPLv2 and CC-BY-SA'
+Screenshot=''
+Url='http://racktables.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

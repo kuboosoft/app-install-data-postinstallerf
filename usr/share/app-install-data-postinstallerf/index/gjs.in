@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gjs</b>'
+Comment='<span size="xx-large">Javascript Bindings for GNOME</span>'
+Comment3='
+Gjs allows using GNOME libraries from Javascript. Its based on the
+Spidermonkey Javascript engine from Mozilla and the GObject introspection
+framework.
+
+'
+License='MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)'
+Screenshot=''
+Url='http://live.gnome.org/Gjs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

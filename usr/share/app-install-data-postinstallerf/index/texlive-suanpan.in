@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-suanpan</b>'
+Comment='<span size="xx-large">MetaPost macros for drawing Chinese and Japanese abaci</span>'
+Comment3='
+These macros are described in Denis Roegel MetaPost macros for
+drawing Chinese and Japanese abaci, TUGboat (volume 30, number
+1, 2009, pages 74-79)
+
+date 2009-11-10 003052 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

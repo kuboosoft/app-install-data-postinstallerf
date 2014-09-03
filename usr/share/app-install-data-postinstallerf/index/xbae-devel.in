@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xbae-devel</b>'
+Comment='<span size="xx-large">Development files for xbae</span>'
+Comment3='
+The xbae-devel package contains libraries and header files for
+developing applications that use xbae.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://xbae.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>authhub</b>'
+Comment='<span size="xx-large">OTP support for MIT Kerberos</span>'
+Comment3='
+Provides one-time password (OTP) support for MIT Kerberos (krb5)
+'
+License='MIT'
+Screenshot=''
+Url='https://fedorahosted.org/AuthHub'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

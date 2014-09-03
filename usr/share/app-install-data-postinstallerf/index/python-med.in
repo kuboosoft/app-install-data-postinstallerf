@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-med</b>'
+Comment='<span size="xx-large">Python bindings for med</span>'
+Comment3='
+The python-med package contains python bindings for med.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.code-aster.org/outils/med/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal7-l10n_client</b>'
+Comment='<span size="xx-large">Provides on-page localization</span>'
+Comment3='
+This module helps you fix translations on your site as you see the issues.
+Just by navigating around your pages, youll be able to fix translations and
+fill in missing ones using the on-page translation editor. At the same time,
+if configured properly, the module also submits your translations back to the
+community, to localize.drupal.org (http//localize.drupal.org/) or any other
+localization server.
+
+This package provides the following Drupal module
+* l10n_client
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/l10n_client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

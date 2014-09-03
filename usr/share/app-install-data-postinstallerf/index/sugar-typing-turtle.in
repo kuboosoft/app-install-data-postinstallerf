@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>sugar-typing-turtle</b>'
+Comment='<span size="xx-large">A multilingual animated touch typing trainer</span>'
+Comment3='
+This Sugar activity features a sequence of lessons designed to gradually
+introduce students to touch typing, teaching them a few keys at a time
+until they have mastered the entire keyboard.
+
+Fun graphics, sounds and characters aim for an entertaining experience.
+An on-screen keyboard with overlaid hand positions shows the correct way
+to press each key, encouraging good typing habits.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Typing_Turtle'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

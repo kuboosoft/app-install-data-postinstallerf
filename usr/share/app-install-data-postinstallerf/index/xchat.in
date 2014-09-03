@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xchat</b>'
+Comment='<span size="xx-large">A popular and easy to use graphical IRC (chat) client</span>'
+Comment3='
+X-Chat is an easy to use graphical IRC chat client for the X Window System.
+It allows you to join multiple IRC channels (chat rooms) at the same time,
+talk publicly, private one-on-one conversations etc. Even file transfers
+are possible.
+
+This includes the plugins to run the Perl and Python scripts.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xchat.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

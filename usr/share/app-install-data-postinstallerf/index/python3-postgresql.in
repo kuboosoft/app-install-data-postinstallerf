@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-postgresql</b>'
+Comment='<span size="xx-large">Connect to PostgreSQL with Python 3</span>'
+Comment3='
+python-postgresql is a Python 3 package providing modules to work with
+PostgreSQL. This includes a high-level driver, and many other tools that
+support a developer working with PostgreSQL databases.
+'
+License='BSD'
+Screenshot=''
+Url='http://python.projects.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

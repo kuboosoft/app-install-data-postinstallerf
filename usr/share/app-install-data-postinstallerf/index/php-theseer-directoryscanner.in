@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-theseer-directoryscanner</b>'
+Comment='<span size="xx-large">A recursive directory scanner and filter</span>'
+Comment3='
+A recursive directory scanner and filter.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/theseer/DirectoryScanner'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

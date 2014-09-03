@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-philokalia</b>'
+Comment='<span size="xx-large">A font to typeset the Philokalia Books</span>'
+Comment3='
+The philokalia package has been designed to ease the use of the
+Philokalia-Regular OpenType font with XeLaTeX. The font started
+as a project to digitize the typeface used to typeset the
+Philokalia books.
+
+date 2007-09-24 105932 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

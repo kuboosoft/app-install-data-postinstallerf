@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-munich</b>'
+Comment='<span size="xx-large">An alternative authordate bibliography style</span>'
+Comment3='
+The Munich BibTeX style is produced with custom-bib, as a
+German (and, more generally, Continental European) alternative
+to such author-date styles as harvard and oxford.
+
+date 2007-03-10 121805 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

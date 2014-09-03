@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libyui-qt-doc</b>'
+Comment='<span size="xx-large">Documentation files for libyui-qt</span>'
+Comment3='
+This package includes the developers documentation as HTML and PDF
+for libyui-qt.
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='https://github.com/libyui/libyui-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

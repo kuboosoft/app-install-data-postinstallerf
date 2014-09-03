@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>spacewalk-backend-xmlrpc</b>'
+Comment='<span size="xx-large">Handler for /XMLRPC</span>'
+Comment3='
+These are the files required for running the /XMLRPC handler, which
+provide the basic support for the registration client (rhn_register)
+and the up2date clients.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

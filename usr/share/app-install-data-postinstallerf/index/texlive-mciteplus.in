@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-mciteplus</b>'
+Comment='<span size="xx-large">Enhanced multiple citations</span>'
+Comment3='
+The mciteplus LaTeX package is an enhanced reimplementation of
+Thorsten Ohls mcite package which provides support for the
+grouping of multiple citations together as is often done in
+physics journals. An extensive set of features provide for
+other applications such as reference sublisting.
+
+date 2013-09-13 130910 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

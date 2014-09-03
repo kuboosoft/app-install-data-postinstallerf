@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-dpath</b>'
+Comment='<span size="xx-large">A library for searching dictionaries using XPath-like expressions</span>'
+Comment3='
+A python library for accessing and searching dictionaries via /slashed/paths ala
+xpath
+
+Basically it lets you glob over a dictionary as if it were a filesystem. It
+allows you to specify globs (ala the bash eglob syntax, through some advanced
+fnmatch.fnmatch magic) to access dictionary elements, and provides some facility
+for filtering those results.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/akesterson/dpath-python'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

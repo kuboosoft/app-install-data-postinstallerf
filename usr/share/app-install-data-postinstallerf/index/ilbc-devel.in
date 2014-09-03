@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ilbc-devel</b>'
+Comment='<span size="xx-large">development files for ilbc</span>'
+Comment3='
+Additional header files for development with ilbc.
+
+URL          None
+'
+License='BSD'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

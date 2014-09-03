@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cjkuni-ukai-fonts</b>'
+Comment='<span size="xx-large">Chinese Unicode TrueType font in Kai face</span>'
+Comment3='
+
+CJK Unifonts are Unicode TrueType fonts derived from original fonts made
+available by Arphic Technology under "Arphic Public License" and extended by
+the CJK Unifonts project.
+CJK Unifonts in Kai face.
+'
+License='Arphic'
+available by Arphic Technology under "Arphic Public License" and extended by'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/CJKUnifonts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

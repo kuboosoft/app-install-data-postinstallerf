@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>uisp</b>'
+Comment='<span size="xx-large">Universal In-System Programmer for Atmel AVR and 8051</span>'
+Comment3='
+Uisp is utility for downloading/uploading programs to AVR devices. Can also be
+used for some Atmel 8051 type devices. In addition, uisp can erase the device,
+write lock bits, verify and set the active segment.
+
+For use with the following hardware to program the devices
+  pavr      http//avr.jpk.co.nz/pavr/pavr.html
+  stk500    Atmel STK500
+  dapa      Direct AVR Parallel Access
+  stk200    Parallel Starter Kit STK200, STK300
+  abb       Altera ByteBlasterMV Parallel Port Download Cable
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/uisp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

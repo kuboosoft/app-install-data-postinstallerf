@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>drupal7-workbench</b>'
+Comment='<span size="xx-large">Provides overall improvements for managing content</span>'
+Comment3='
+Workbench provides overall improvements for managing content
+that Drupal does not provide out of the box.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/workbench'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

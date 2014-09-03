@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>drupal7-language_cookie</b>'
+Comment='<span size="xx-large">Allows usage of cookies to remember the users last language</span>'
+Comment3='
+Adds an extra "Cookie" field to the Language Negotiation settings, allowing the
+language to be set according to a cookie.
+
+The cookie name, domain & expiration are configurable in the settings page.
+This package provides the following Drupal module
+* language_cookie
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/language_cookie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

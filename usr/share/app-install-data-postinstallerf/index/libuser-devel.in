@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libuser-devel</b>'
+Comment='<span size="xx-large">Files needed for developing applications which use libuser</span>'
+Comment3='
+The libuser-devel package contains header files, static libraries, and other
+files useful for developing applications with libuser.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/libuser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

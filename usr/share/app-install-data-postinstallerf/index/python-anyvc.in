@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-anyvc</b>'
+Comment='<span size="xx-large">Python library to access different version control system</span>'
+Comment3='
+Anyvc is an abstraction library for different kind of version control
+systems. Although primarily a library, there is a command line tool (vc)
+to use with it.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/anyvc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

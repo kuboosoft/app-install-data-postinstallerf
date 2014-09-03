@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>setools-libs-tcl</b>'
+Comment='<span size="xx-large">Tcl bindings for SELinux policy analysis</span>'
+Comment3='
+SETools is a collection of graphical tools, command-line tools, and
+libraries designed to facilitate SELinux policy analysis.
+
+This package includes Tcl bindings for the following libraries
+  libapol       policy analysis library
+  libpoldiff    semantic policy difference library
+  libqpol       library that abstracts policy internals
+  libseaudit    parse and filter SELinux audit messages in log files
+  libsefs       SELinux file contexts library
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://oss.tresys.com/projects/setools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

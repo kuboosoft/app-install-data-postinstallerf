@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pilot-link-perl</b>'
+Comment='<span size="xx-large">PalmPilot utilies written in perl</span>'
+Comment3='
+This package contains utilities that depend on perl
+'
+License='GPLv2 and GPLv2+ and LGPLv2+ and Public Domain'
+Screenshot=''
+Url='http://www.pilot-link.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

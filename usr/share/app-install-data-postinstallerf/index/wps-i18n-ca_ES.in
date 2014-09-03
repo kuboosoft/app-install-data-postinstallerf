@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wps-i18n-ca_ES</b>'
+Comment='<span size="xx-large">Catal? support for KSO/WPS</span>'
+Comment3='
+Catal? support for KSO/WPS
+'
+License='Custom:Free'
+Screenshot=''
+Url='https://github.com/wps-community/wps_i18n'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

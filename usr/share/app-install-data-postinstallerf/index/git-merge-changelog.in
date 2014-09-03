@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>git-merge-changelog</b>'
+Comment='<span size="xx-large">Git merge driver for ChangeLog files</span>'
+Comment3='
+Git Merge Changelog is a git merge driver for changelogs that combines
+parallel additions to the changelog without generating merge conflicts.
+It can be enabled for specific files by setting appropriate git attributes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/gnulib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

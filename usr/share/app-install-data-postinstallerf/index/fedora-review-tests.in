@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fedora-review-tests</b>'
+Comment='<span size="xx-large">Test and test data files for fedora-review</span>'
+Comment3='
+Tests are packaged separately due to space concerns.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/FedoraReview/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

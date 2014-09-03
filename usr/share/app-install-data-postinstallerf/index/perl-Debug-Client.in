@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Debug-Client</b>'
+Comment='<span size="xx-large">Client side code for perl debugger</span>'
+Comment3='
+Client side module for debugging. This module is part of padres debugger.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Debug-Client/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>procps-ng-devel</b>'
+Comment='<span size="xx-large">System and process monitoring utilities</span>'
+Comment3='
+System and process monitoring utilities development headers
+
+URL          https//sourceforge.net/projects/procps-ng/
+'
+License='GPL+ and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+'
+Screenshot=''
+Url='https://sourceforge.net/projects/procps-ng/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-rsc</b>'
+Comment='<span size="xx-large">BibTeX style for use with RSC journals</span>'
+Comment3='
+The rsc package provides a BibTeX style in accordance with the
+requirements of the Royal Society of Chemistry. It was
+originally based on the file pccp.bst, but also implements a
+number of styles from the achemso package. The package is now a
+stub for the chemstyle package, which the author developed to
+unify the writing of articles with a chemistry content.
+
+date 2011-01-05 000534 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Email-Send</b>'
+Comment='<span size="xx-large">Module for sending email</span>'
+Comment3='
+This module provides a very simple, very clean, very specific interface
+to multiple Email mailers. The goal of this software is to be small and
+simple, easy to use, and easy to extend.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Email-Send/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

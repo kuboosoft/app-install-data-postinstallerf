@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-technics</b>'
+Comment='<span size="xx-large">A package to format technical documents</span>'
+Comment3='
+The package provides a very simple LaTeX document template, in
+the hope that this use of LaTeX will become attractive to
+typical word processor users. (Presentation is as if it were a
+class; users are expected to start from a template document.)
+
+date 2012-08-31 010409 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

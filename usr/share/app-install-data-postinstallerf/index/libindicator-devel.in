@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libindicator-devel</b>'
+Comment='<span size="xx-large">Development files for libindicator</span>'
+Comment3='
+The libindicator-devel package contains libraries and header files for
+developing applications that use libindicator.
+
+'
+License='GPLv3'
+Screenshot=''
+Url='https://launchpad.net/libindicator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

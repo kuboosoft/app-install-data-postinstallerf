@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>acpi</b>'
+Comment='<span size="xx-large">Command-line ACPI client</span>'
+Comment3='
+Linux ACPI client is a small command-line program that attempts to
+replicate the functionality of the old apm command on ACPI systems.
+It includes battery and thermal information.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/acpiclient/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

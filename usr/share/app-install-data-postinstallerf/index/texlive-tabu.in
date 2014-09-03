@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-tabu</b>'
+Comment='<span size="xx-large">Flexible LaTeX tabulars</span>'
+Comment3='
+The package provides an environment, tabu, which will make any
+sort of tabular (that doesnt need to split across pages), and
+an environment longtabu which provides the facilities of tabu
+in a modified longtable environment. (Note that this latter
+offers an enhancement of ltxtable.) The package requires the
+array package, and needs e-TeX to run (since array.sty is
+present in every conforming distribution of LaTeX, and since
+every publicly available LaTeX format is built using e-TeX, the
+requirements are provided by default on any reasonable system).
+The package also requires xcolor for coloured rules in tables,
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

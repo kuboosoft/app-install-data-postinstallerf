@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools-freemarker</b>'
+Comment='<span size="xx-large">FreeMarker IDE</span>'
+Comment3='
+FreeMarkerIDE provides editor for FreeMarker templates
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

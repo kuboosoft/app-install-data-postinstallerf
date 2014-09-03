@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lzma-sdk-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for lzma-sdk</span>'
+Comment3='
+Development libraries and headers for lzma-sdk.
+
+URL          http//sourceforge.net/projects/sevenzip/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/sevenzip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

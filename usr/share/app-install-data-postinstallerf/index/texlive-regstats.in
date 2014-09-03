@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-regstats</b>'
+Comment='<span size="xx-large">Information about register use</span>'
+Comment3='
+The package will report number of used registers (counter,
+dimen, skip, muskip, box, token, input, output, math families,
+languages, insertions), and will compare the number to the
+maximum available number of such registers.
+
+date 2012-01-02 142413 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

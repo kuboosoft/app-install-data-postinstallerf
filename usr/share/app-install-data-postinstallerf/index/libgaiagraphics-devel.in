@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgaiagraphics-devel</b>'
+Comment='<span size="xx-large">Development files for libgaiagraphics</span>'
+Comment3='
+The libgaiagraphics-devel package contains libraries and header files for
+developing applications that use libgaiagraphics.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://www.gaia-gis.it/fossil/libgaiagraphics'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

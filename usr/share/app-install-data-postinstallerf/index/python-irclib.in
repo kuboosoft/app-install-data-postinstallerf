@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-irclib</b>'
+Comment='<span size="xx-large">A set of Python modules for IRC support</span>'
+Comment3='
+This library is intended to encapsulate the IRC protocol at a quite
+low level.  It provides an event-driven IRC client framework.  It has
+a fairly thorough support for the basic IRC protocol, CTCP and DCC
+connections.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://python-irclib.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

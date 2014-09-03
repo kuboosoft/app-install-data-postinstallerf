@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythgallery</b>'
+Comment='<span size="xx-large">A gallery/slideshow module for MythTV</span>'
+Comment3='
+A gallery/slideshow module for MythTV.
+'
+License='GPLv2+ and LGPLv2+ and LGPLv2 and (GPLv2 or QPL) and (GPLv2+ or LGPLv2+)'
+Screenshot=''
+Url='http://www.mythtv.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

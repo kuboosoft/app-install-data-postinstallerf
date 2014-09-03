@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk-sharp2-devel</b>'
+Comment='<span size="xx-large">Files needed for developing with gtk-sharp2</span>'
+Comment3='
+This package provides the necessary development libraries and headers
+for writing gtk-sharp2 applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.mono-project.com/GtkSharp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

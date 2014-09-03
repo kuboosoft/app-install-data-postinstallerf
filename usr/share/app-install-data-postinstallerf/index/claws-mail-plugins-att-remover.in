@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>claws-mail-plugins-att-remover</b>'
+Comment='<span size="xx-large">Attachments remover plugin for Claws Mail</span>'
+Comment3='
+Enables the removal of attachments from emails. When right-clicking a message,
+choose Remove attachments from the sub-menu.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://claws-mail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

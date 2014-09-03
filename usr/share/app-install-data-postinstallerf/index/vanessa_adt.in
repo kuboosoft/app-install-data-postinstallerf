@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vanessa_adt</b>'
+Comment='<span size="xx-large">Library of Abstract Data Types</span>'
+Comment3='
+Library of Abstract Data Types (ADTs) that may be useful.  Includes queue,
+dynamic array and key value ADT.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vergenet.net/linux/vanessa/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

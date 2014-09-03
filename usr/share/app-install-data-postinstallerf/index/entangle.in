@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>entangle</b>'
+Comment='<span size="xx-large">Tethered shooting & control of digital cameras</span>'
+Comment3='
+Entangle is an application which uses GTK and libgphoto2 to provide a
+graphical interface for tethered photography with digital cameras.
+
+It includes control over camera shooting and configuration settings
+and hands off shooting directly from the controlling computer.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://entangle-photo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

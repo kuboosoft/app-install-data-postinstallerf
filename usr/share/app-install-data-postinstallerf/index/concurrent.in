@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>concurrent</b>'
+Comment='<span size="xx-large">Utility classes for concurrent Java programming</span>'
+Comment3='
+This package provides standardized, efficient versions of utility classes
+commonly encountered in concurrent Java programming. This code consists of
+implementations of ideas that have been around for ages, and is merely intended
+to save you the trouble of coding them.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://gee.cs.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

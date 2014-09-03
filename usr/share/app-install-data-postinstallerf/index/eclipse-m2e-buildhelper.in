@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-m2e-buildhelper</b>'
+Comment='<span size="xx-large">M2E Build Helper connector</span>'
+Comment3='
+This package provides Build Helper connector for Eclipse M2E.
+'
+License='EPL'
+Screenshot=''
+Url='https://github.com/tesla/m2eclipse-buildhelper/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

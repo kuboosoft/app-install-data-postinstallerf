@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dpdk-devel</b>'
+Comment='<span size="xx-large">Data Plane Development Kit core for development</span>'
+Comment3='
+DPDK core-devel is a set of makefiles, headers, examples and documentation
+for fast packet processing on x86 platforms.
+More libraries are available as extensions in other packages.
+'
+License='BSD and LGPLv2 and GPLv2'
+Screenshot=''
+Url='http://dpdk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

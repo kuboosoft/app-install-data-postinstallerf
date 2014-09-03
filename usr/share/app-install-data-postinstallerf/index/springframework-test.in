@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>springframework-test</b>'
+Comment='<span size="xx-large">Spring test context framework</span>'
+Comment3='
+Springs test context framework. Also includes common Servlet and
+Portlet API mocks.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.springframework.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

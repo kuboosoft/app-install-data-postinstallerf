@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>loki-lib-devel</b>'
+Comment='<span size="xx-large">The Loki C++ headers and development libraries</span>'
+Comment3='
+Headers and shared object symlinks for the Loki C++ Library
+
+URL          http//sourceforge.net/projects/loki-lib
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/loki-lib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>datanucleus-rdbms</b>'
+Comment='<span size="xx-large">DataNucleus RDBMS</span>'
+Comment3='
+Plugin for DataNucleus providing persistence to RDBMS data-stores.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.datanucleus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

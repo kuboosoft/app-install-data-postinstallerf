@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>uuidd</b>'
+Comment='<span size="xx-large">Helper daemon to guarantee uniqueness of time-based UUIDs</span>'
+Comment3='
+The uuidd package contains a userspace daemon (uuidd) which guarantees
+uniqueness of time-based UUID generation even at very high rates on
+SMP systems.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://en.wikipedia.org/wiki/Util-linux'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

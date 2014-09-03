@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-chef-zero-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-chef-zero</span>'
+Comment3='
+Documentation for rubygem-chef-zero
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/opscode/chef-zero'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

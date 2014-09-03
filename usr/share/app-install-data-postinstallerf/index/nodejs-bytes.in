@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-bytes</b>'
+Comment='<span size="xx-large">Byte size string parser/serializer for Node.js</span>'
+Comment3='
+Byte size string parser/serializer for Node.js
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/bytes.js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yum-plugin-fastestmirror</b>'
+Comment='<span size="xx-large">Yum plugin which chooses fastest repository from a mirrorlist</span>'
+Comment3='
+This plugin sorts each repositorys mirrorlist by connection speed
+prior to downloading packages.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

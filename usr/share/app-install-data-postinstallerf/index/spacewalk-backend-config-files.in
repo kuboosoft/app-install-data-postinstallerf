@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>spacewalk-backend-config-files</b>'
+Comment='<span size="xx-large">Handler for /CONFIG-MANAGEMENT</span>'
+Comment3='
+This package contains the server-side code for configuration management.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

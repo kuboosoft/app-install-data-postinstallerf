@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>shrinkwrap</b>'
+Comment='<span size="xx-large">A simple mechanism to assemble Java archives</span>'
+Comment3='
+Shrinkwrap provides a simple mechanism to assemble archives
+like JARs, WARs, and EARs with a friendly, fluent API.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/shrinkwrap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

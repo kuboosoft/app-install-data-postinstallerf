@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Net-SNPP</b>'
+Comment='<span size="xx-large">Perl modules for the Simple Network Pager Protocol</span>'
+Comment3='
+Perl client and server modules for the Simple Network Pager Protocol,
+as described in RFC 1861.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-SNPP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

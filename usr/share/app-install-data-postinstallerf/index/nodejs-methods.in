@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-methods</b>'
+Comment='<span size="xx-large">HTTP methods that node supports</span>'
+Comment3='
+HTTP methods that node supports.
+'
+License='MIT'
+Screenshot=''
+Url='https://npmjs.org/package/methods'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

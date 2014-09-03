@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gypsy-docs</b>'
+Comment='<span size="xx-large">Documentation files for gypsy</span>'
+Comment3='
+This package contains developer documentation for gypsy.
+'
+License='LGPLv2 and GPLv2'
+Screenshot=''
+Url='http://gypsy.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

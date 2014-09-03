@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cego</b>'
+Comment='<span size="xx-large">A relational and transactional database</span>'
+Comment3='
+An open source implementation of a relational and transnational database
+system using an object oriented software design. It supports SQL query
+requests using all common programming interfaces (C, C++, DBD, Java).
+The system architecture is multi-threaded based on POSIX threads and is
+designed for high end performance and availability.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.lemke-it.com/litexec?request=pubcego&user=&lang=en'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

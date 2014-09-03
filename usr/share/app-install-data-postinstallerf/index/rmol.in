@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>rmol</b>'
+Comment='<span size="xx-large">C++ library of Revenue Management and Optimisation classes and functions</span>'
+Comment3='
+rmol is a C++ library of Revenue Management and Optimisation classes
+and functions. Typically, that library may be used by service providers
+(e.g., airlines offering flight seats, hotels offering rooms, rental car
+companies offering rental days, broadcasting company offering advertisement
+slots, theaters offering seats, etc.) to help in optimizing their revenues from
+seat capacities.
+Most of the algorithms implemented are public and documented in the following
+book
+The Theory and practice of Revenue Management, by Kalyan T. Talluri and
+Garrett J. van Ryzin, Kluwer Academic Publishers, 2004, ISBN 1-4020-7701-7
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://rmol.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

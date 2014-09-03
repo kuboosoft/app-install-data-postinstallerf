@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mkdst</b>'
+Comment='<span size="xx-large">Source repository to tarball release tool</span>'
+Comment3='
+Source repository and tarball release tool
+Currently supports only bzr, but more VCS tools are planned.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/mkdst/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

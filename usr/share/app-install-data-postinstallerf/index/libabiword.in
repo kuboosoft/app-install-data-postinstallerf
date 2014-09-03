@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libabiword</b>'
+Comment='<span size="xx-large">Library for developing applications based on AbiWords core</span>'
+Comment3='
+Library for developing applications based on AbiWords core.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.abisource.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

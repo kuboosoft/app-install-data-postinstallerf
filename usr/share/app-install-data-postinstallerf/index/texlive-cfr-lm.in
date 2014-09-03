@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-cfr-lm</b>'
+Comment='<span size="xx-large">Enhanced support for the Latin Modern fonts</span>'
+Comment3='
+The package supports a number of features of the Latin Modern
+fonts which are not easily accessible via the default (La)TeX
+support provided in the official distribution. In particular,
+the package supports the use of the various styles of digits
+available, small-caps and upright italic shapes, and
+alternative weights and widths. It also supports variable width
+Modern fonts is supported. By default, the package uses
+proportional oldstyle digits and variable width typewriter but
+this can be changed by passing appropriate options to the
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>glances</b>'
+Comment='<span size="xx-large">CLI curses based monitoring tool</span>'
+Comment3='
+Glances is a CLI curses based monitoring tool for both GNU/Linux and BSD.
+
+Glances uses the PsUtil library to get information from your system.
+It is developed in Python.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/nicolargo/glances'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fcitx-configtool</b>'
+Comment='<span size="xx-large">Gtk configuretool for Fcitx</span>'
+Comment3='
+Fcitx-config Gtk based configure tool for fcitx.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/Fcitx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

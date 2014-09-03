@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dnsenum</b>'
+Comment='<span size="xx-large">A tool to enumerate DNS info about domains</span>'
+Comment3='
+The purpose of this tool is to gather as much information as possible about a
+domain. The program currently gathers A, NS, MX records, performs axfr queries,
+gets extra names and subdomains via google scraping, bruteforces subdomains from
+file, calculate C class domain network ranges and perform whois queries on them,
+perform reverse lookups on netranges, writes ip-blocks to domain_ips.txt.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/dnsenum/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

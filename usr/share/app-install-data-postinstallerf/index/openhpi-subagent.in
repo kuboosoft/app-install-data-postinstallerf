@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openhpi-subagent</b>'
+Comment='<span size="xx-large">NetSNMP subagent for OpenHPI</span>'
+Comment3='
+The openhpi-subagent package contains the Service Availability Forums
+Hardware Platform Interface SNMP sub-agent.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openhpi.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

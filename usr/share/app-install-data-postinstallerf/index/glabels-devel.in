@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glabels-devel</b>'
+Comment='<span size="xx-large">Development files and documentation for glabels</span>'
+Comment3='
+This package contains the header files and development documentation for
+libglabels.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.glabels.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

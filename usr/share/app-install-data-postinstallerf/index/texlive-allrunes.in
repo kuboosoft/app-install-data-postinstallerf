@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-allrunes</b>'
+Comment='<span size="xx-large">Fonts and LaTeX package for almost all runes</span>'
+Comment3='
+This large collection of fonts (in Adobe Type 1 format), with
+the LaTeX package gives access to almost all runes ever used in
+Europe. The bundle covers not only the main forms but also a
+lot of varieties.
+
+date 2007-01-14 101442 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

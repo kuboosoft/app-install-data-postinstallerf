@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libzen-doc</b>'
+Comment='<span size="xx-large">Documentation for libzen</span>'
+Comment3='
+Documentation files.
+'
+License='zlib'
+Screenshot=''
+Url='http://sourceforge.net/projects/zenlib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

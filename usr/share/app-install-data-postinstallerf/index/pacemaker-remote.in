@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pacemaker-remote</b>'
+Comment='<span size="xx-large">Pacemaker remote daemon for non-cluster nodes</span>'
+Comment3='
+Pacemaker is an advanced, scalable High-Availability cluster resource
+manager for Corosync, CMAN and/or Linux-HA.
+
+The pacemaker-remote package contains the Pacemaker Remote daemon
+which is capable of extending pacemaker functionality to remote
+nodes not running the full corosync/cluster stack.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.clusterlabs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

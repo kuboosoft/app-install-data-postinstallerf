@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Sub-Exporter-GlobExporter</b>'
+Comment='<span size="xx-large">Export shared globs with Sub::Exporter collectors</span>'
+Comment3='
+This perl module allows you to export shared globs with SubExporter
+collectors.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sub-Exporter-GlobExporter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

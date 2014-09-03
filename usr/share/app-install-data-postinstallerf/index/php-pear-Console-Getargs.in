@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-pear-Console-Getargs</b>'
+Comment='<span size="xx-large">Command-line arguments and parameters parser</span>'
+Comment3='
+The Console_Getargs package implements a Command Line arguments and
+parameters parser for your CLI applications. It performs some basic
+arguments validation and automatically creates a formatted help text,
+based on the given configuration.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Console_Getargs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

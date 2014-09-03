@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-commons-jxpath-javadoc</b>'
+Comment='<span size="xx-large">API documentation for apache-commons-jxpath</span>'
+Comment3='
+This package contains the API documentation for apache-commons-jxpath.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/jxpath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

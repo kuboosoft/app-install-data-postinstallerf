@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>golang-github-fsouza-go-dockerclient-devel</b>'
+Comment='<span size="xx-large">Client for the Docker remote API</span>'
+Comment3='
+Client for the Docker remote API
+
+This package contains library source intended for building other packages
+which use fsouza/go-dockerclient.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/fsouza/go-dockerclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yum-axelget</b>'
+Comment='<span size="xx-large">Download accelerator plug-in for Yum</span>'
+Comment3='
+This is a plug-in for the Yum package tool. It speeds up your
+downloads using the Axel download accelerator client.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/crook/yum-axelget'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

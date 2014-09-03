@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eiciel</b>'
+Comment='<span size="xx-large">Graphical editor for ACLs and xattr</span>'
+Comment3='
+Graphical editor for access control lists (ACLs) and extended attributes
+(xattr), either as an extension within Nautilus, or as a standalone
+utility.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rofi.roger-ferrer.org/eiciel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

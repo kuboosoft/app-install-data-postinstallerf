@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>comix</b>'
+Comment='<span size="xx-large">A user-friendly, customizable image viewer</span>'
+Comment3='
+Comix is a user-friendly, customizable image viewer.
+It is specifically designed to handle comic books, but
+also serves as a generic viewer. It reads images in ZIP,
+RAR or tar archives (also gzip or bzip2 compressed) as
+well as plain image files. It is written in Python and
+uses GTK+ through the PyGTK bindings.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://comix.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

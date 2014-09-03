@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>liquidwar</b>'
+Comment='<span size="xx-large">Multiplayer wargame with liquid armies</span>'
+Comment3='
+Liquid War is a unique multiplayer wargame. You control an army of liquid
+and have to try and eat your opponents. A single player mode is available,
+but the game is definitely designed to be multiplayer, and has network
+support.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ufoot.org/liquidwar/v5'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

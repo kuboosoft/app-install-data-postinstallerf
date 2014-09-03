@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-DateTime-Event-ICal</b>'
+Comment='<span size="xx-large">Perl DateTime extension for computing rfc2445 recurrences</span>'
+Comment3='
+This module provides convenience methods that let you easily create
+DateTimeSet objects for rfc2445 style recurrences.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-Event-ICal/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

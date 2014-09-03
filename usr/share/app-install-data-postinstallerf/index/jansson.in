@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jansson</b>'
+Comment='<span size="xx-large">C library for encoding, decoding and manipulating JSON data</span>'
+Comment3='
+Small library for parsing and writing JSON documents.
+
+URL          http//www.digip.org/jansson/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.digip.org/jansson/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

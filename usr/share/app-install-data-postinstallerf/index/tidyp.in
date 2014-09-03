@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tidyp</b>'
+Comment='<span size="xx-large">Clean up and pretty-print HTML/XHTML/XML</span>'
+Comment3='
+tidyp is a fork of tidy on SourceForge. The library name is "tidyp", and the
+command-line tool is also "tidyp" but all internal API stays the same.
+'
+License='W3C'
+Screenshot=''
+Url='http://www.tidyp.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

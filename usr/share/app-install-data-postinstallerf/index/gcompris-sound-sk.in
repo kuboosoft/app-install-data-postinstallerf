@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gcompris-sound-sk</b>'
+Comment='<span size="xx-large">GCompris voices in Slovak</span>'
+Comment3='
+Voice samples for the GCompris games in Slovak.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gcompris.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

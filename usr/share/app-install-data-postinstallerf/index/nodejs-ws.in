@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-ws</b>'
+Comment='<span size="xx-large">Web socket client, server and console for nodejs</span>'
+Comment3='
+Simple to use, blazing fast and thoroughly tested
+web socket client, server and console for nodejs,
+up-to-date against RFC-6455
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/einaros/ws'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

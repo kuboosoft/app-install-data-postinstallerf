@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>synapse-devel</b>'
+Comment='<span size="xx-large">Development files for synapse</span>'
+Comment3='
+The synapse-devel package contains libraries and header files for
+developing applications that use synapse.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://synapse.zeitgeist-project.com/wiki/index.php?title=Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

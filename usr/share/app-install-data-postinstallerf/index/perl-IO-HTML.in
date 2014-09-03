@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-IO-HTML</b>'
+Comment='<span size="xx-large">Open an HTML file with automatic character set detection</span>'
+Comment3='
+IOHTML provides an easy way to open a file containing HTML while
+automatically determining its encoding. It uses the HTML5 encoding sniffing
+algorithm specified in section 8.2.2.1 of the draft standard.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-HTML/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

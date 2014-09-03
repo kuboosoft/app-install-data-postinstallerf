@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-hausarbeit-jura</b>'
+Comment='<span size="xx-large">Class for writing "juristiche Hausarbeiten" at German Universities</span>'
+Comment3='
+The class was developed to write legal essays ("juristische
+Hausarbeit") at German Universities. It is based on jurabook
+and jurabib and makes it easy for LaTeX beginners to get a
+correct and nicely formatted paper.
+
+date 2012-02-10 131408 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

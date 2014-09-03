@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-activesupport</b>'
+Comment='<span size="xx-large">Support and utility classes used by the Rails framework</span>'
+Comment3='
+Utility library which carries commonly used classes and
+goodies from the Rails framework
+'
+License='MIT'
+Screenshot=''
+Url='http://www.rubyonrails.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

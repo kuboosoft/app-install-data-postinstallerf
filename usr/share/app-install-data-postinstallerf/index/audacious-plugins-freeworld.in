@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>audacious-plugins-freeworld</b>'
+Comment='<span size="xx-large">Additional plugins for the Audacious media player</span>'
+Comment3='
+Audacious is a media player that currently uses a skinned
+user interface based on Winamp 2.x skins. It is based on ("forked off")
+BMP.
+
+This package contains additional plugins for the Audacious media player.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://audacious-media-player.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

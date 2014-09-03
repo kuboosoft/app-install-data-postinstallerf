@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texinfo</b>'
+Comment='<span size="xx-large">Tools needed to create Texinfo format documentation files</span>'
+Comment3='
+Texinfo is a documentation system that can produce both online
+information and printed output from a single source file. The GNU
+Project uses the Texinfo file format for most of its documentation.
+
+Install texinfo if you want a documentation system for producing both
+online and print documentation from the same source file and/or if you
+are going to write documentation for the GNU Project.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/texinfo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

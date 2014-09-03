@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cxf-api</b>'
+Comment='<span size="xx-large">Apache CXF API</span>'
+Comment3='
+Apache CXF API classes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://cxf.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

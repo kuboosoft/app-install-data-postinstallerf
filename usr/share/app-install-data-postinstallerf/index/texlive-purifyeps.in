@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-purifyeps</b>'
+Comment='<span size="xx-large">Make EPS work with both LaTeX/dvips and pdfLaTeX</span>'
+Comment3='
+While pdfLaTeX has a number of nice features, its primary
+shortcoming relative to standard LaTeX+dvips is that it is
+unable to read ordinary Encapsulated PostScript (EPS) files,
+the most common graphics format in the LaTeX world. Purifyeps
+converts EPS files into a purified form that can be read by
+both LaTeX+dvips and pdfLaTeX. The trick is that the standard
+LaTeX2e graphics packages can parse MetaPost-produced EPS
+directly. Hence, purifyeps need only convert an arbitrary EPS
+file into the same stylized format that MetaPost outputs.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>apcu-panel</b>'
+Comment='<span size="xx-large">APCu control panel</span>'
+Comment3='
+This package provides the APCu control panel, with Apache
+configuration, available on http//localhost/apcu-panel/
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/APCu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

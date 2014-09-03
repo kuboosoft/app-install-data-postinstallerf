@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-forever-agent</b>'
+Comment='<span size="xx-large">HTTP Agent that keeps socket connections alive between keep-alive requests</span>'
+Comment3='
+HTTP Agent that keeps socket connections alive between keep-alive requests.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/mikeal/forever-agent'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ustr-static</b>'
+Comment='<span size="xx-large">Static development files for ustr</span>'
+Comment3='
+ Static library for the Ustr string library.
+
+URL          http//www.and.org/ustr/
+'
+License='MIT or LGPLv2+ or BSD'
+Screenshot=''
+Url='http://www.and.org/ustr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

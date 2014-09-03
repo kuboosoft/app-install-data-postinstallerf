@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>emacs-terminal</b>'
+Comment='<span size="xx-large">A desktop menu item for GNU Emacs terminal.</span>'
+Comment3='
+Contains a desktop menu item running GNU Emacs terminal. Install
+emacs-terminal if you need a terminal with Malayalam support.
+
+Please note that emacs-terminal is a temporary package and it will be
+removed when another terminal becomes capable of handling Malayalam.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/emacs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

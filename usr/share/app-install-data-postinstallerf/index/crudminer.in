@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>crudminer</b>'
+Comment='<span size="xx-large">Find and report insecure web software in a web root</span>'
+Comment3='
+Locate vulnerable software in a web root by comparing the installed files
+against a list of insecure products.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/mricon/CrudMiner'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

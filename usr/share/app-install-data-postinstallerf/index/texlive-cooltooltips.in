@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-cooltooltips</b>'
+Comment='<span size="xx-large">Associate a pop-up window and tooltip with PDF hyperlinks</span>'
+Comment3='
+The cooltooltips package enables a document to contain
+hyperlinks that pop up a brief tooltip when the mouse moves
+over them and also open a small window containing additional
+text. cooltooltips provides the mechanism used by the Visual
+LaTeX FAQ to indicate the question that each hyperlink answers.
+
+date 2007-03-05 152658 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

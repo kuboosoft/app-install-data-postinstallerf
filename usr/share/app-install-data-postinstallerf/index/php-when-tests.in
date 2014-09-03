@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-when-tests</b>'
+Comment='<span size="xx-large">Test files for php-when</span>'
+Comment3='
+PHPUnit tests for php-when.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/tplaner/When'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wso2-wsf-cpp-security</b>'
+Comment='<span size="xx-large">WSO2 Security for Web Services Framework for C++</span>'
+Comment3='
+A security library for WSO2
+
+URL          http//wso2.org/library/wsf/cpp
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://wso2.org/library/wsf/cpp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

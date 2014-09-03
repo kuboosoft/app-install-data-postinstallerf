@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>collectd-curl</b>'
+Comment='<span size="xx-large">Curl plugin for collectd</span>'
+Comment3='
+This plugin reads webpages with curl
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-sparklines</b>'
+Comment='<span size="xx-large">A unicode sparkline generation library</span>'
+Comment3='
+Takes series data via stdin, command line, or API and prints a sparkline
+representation.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/pysparklines'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

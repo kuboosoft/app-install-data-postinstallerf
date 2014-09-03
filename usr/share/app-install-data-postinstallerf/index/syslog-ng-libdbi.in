@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>syslog-ng-libdbi</b>'
+Comment='<span size="xx-large">libdbi support for syslog-ng</span>'
+Comment3='
+This module supports a large number of database systems via libdbi.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.balabit.com/network-security/syslog-ng'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

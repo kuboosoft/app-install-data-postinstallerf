@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ethtool</b>'
+Comment='<span size="xx-large">Settings tool for Ethernet NICs</span>'
+Comment3='
+This utility allows querying and changing settings such as speed,
+port, auto-negotiation, PCI locations and checksum offload on many
+network devices, especially of Ethernet devices.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ftp.kernel.org/pub/software/network/ethtool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

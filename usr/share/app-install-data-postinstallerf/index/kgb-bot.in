@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kgb-bot</b>'
+Comment='<span size="xx-large">IRC Collaboration Bot</span>'
+Comment3='
+KGB is an IRC bot, helping people work together by notifying an IRC channel
+when a commit occurs. It supports multiple repositories/IRC channels and is
+fully configurable.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kgb.alioth.debian.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

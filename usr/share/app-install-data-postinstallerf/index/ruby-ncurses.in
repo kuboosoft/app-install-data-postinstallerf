@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ruby-ncurses</b>'
+Comment='<span size="xx-large">A module for ruby applications for using ncurses interfaces</span>'
+Comment3='
+This ruby extension makes most functions, constants, and external variables
+of the C library ncurses accessible from the Ruby programming language.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ncurses-ruby.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

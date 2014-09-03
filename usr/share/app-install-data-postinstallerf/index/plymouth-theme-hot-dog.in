@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>plymouth-theme-hot-dog</b>'
+Comment='<span size="xx-large">Plymouth Happy Hot Dog Theme</span>'
+Comment3='
+This package contains the Happy Hot Dog boot splash theme for Plymouth.
+The mustard indicates progress.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://wwoods.fedorapeople.org/hot-dog/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

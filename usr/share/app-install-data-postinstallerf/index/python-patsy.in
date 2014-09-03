@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-patsy</b>'
+Comment='<span size="xx-large">Describing statistical models in Python using symbolic formulas</span>'
+Comment3='
+A Python package for describing statistical models and for building design
+matrices. It is closely inspired by and compatible with the formula
+mini-language used in R and S.
+'
+License='BSD and Python'
+Screenshot=''
+Url='https://github.com/pydata/patsy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

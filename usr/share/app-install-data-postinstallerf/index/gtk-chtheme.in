@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gtk-chtheme</b>'
+Comment='<span size="xx-large">Gtk+ 2.0 theme preview and selection made slick</span>'
+Comment3='
+As the name suggests, this little program lets you change your Gtk+ 2.0 theme.
+The aim is to make theme preview and selection as slick as possible. Themes
+installed on the system are presented for selection and previewed on the fly.
+A large variety of widgets provides a comprehensive demonstration.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://plasmasturm.org/programs/gtk-chtheme/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

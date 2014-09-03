@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>kdiff3</b>'
+Comment='<span size="xx-large">Compare + merge 2 or 3 files or directories</span>'
+Comment3='
+KDiff3 is a program that
+- compares and merges two or three input files or directories,
+- shows the differences line by line and character by character (!),
+- provides an automatic merge-facility and
+- an integrated editor for comfortable solving of merge-conflicts
+- has support for KDE-KIO (ftp, sftp, http, fish, smb)
+- and has an intuitive graphical user interface.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://kdiff3.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

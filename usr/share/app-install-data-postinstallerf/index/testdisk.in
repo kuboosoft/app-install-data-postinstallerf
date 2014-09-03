@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>testdisk</b>'
+Comment='<span size="xx-large">Tool to check and undelete partition, PhotoRec recovers lost files</span>'
+Comment3='
+Tool to check and undelete partition. Works with FAT12, FAT16, FAT32,
+NTFS, ext2, ext3, ext4, btrfs, BeFS, CramFS, HFS, JFS, Linux Raid, Linux
+Swap, LVM, LVM2, NSS, ReiserFS, UFS, XFS.
+PhotoRec is a signature based file recovery utility. It handles more than
+440 file formats including JPG, MSOffice, OpenOffice documents.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.cgsecurity.org/wiki/TestDisk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

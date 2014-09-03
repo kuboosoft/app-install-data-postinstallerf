@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgsf-devel</b>'
+Comment='<span size="xx-large">Support files necessary to compile applications with libgsf</span>'
+Comment3='
+Libraries, headers, and support files necessary to compile applications using
+libgsf.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.gnome.org/projects/libgsf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

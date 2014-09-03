@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libnemesi-tools</b>'
+Comment='<span size="xx-large">Simple dump/info programs that use libnemesi</span>'
+Comment3='
+Simple programs that use libnemesi to show network streams information
+and dump them.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.lscube.org/projects/libnemesi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

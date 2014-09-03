@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-storm-postgresql</b>'
+Comment='<span size="xx-large">PostgreSQL backend for python-storm</span>'
+Comment3='
+The python-storm-postgresql package contains the PostgreSQL database
+backend for python-storm.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://storm.canonical.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

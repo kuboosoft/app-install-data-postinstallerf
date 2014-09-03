@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>anet-devel</b>'
+Comment='<span size="xx-large">Development files for Anet</span>'
+Comment3='
+Anet is a networking library for the Ada programming language. It supports,
+among other things, IPv6, Unix domain sockets, multicast, raw sockets, link
+layer sockets and Netlink.
+
+The anet-devel package contains source code and linking information for
+developing applications that use Anet.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.codelabs.ch/anet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

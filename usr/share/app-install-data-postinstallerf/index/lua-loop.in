@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>lua-loop</b>'
+Comment='<span size="xx-large">Class models for Lua</span>'
+Comment3='
+LOOP stands for Lua Object-Oriented Programming and is a set of
+packages for supporting different models of object-oriented
+programming in the Lua language.
+
+LOOP models are mainly concerned with dynamicity, although there is an
+attempt to keep them as simple and efficient as
+possible. Additionally, LOOP uses fundamental Lua concepts like tables
+(objects) and meta-tables (classes), traditionally used to enable an
+object-oriented programming style, to provide a common ground for the
+interoperability of objects and classes of its different models.
+'
+License='MIT'
+Screenshot=''
+Url='http://loop.luaforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

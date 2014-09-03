@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Reaper</b>'
+Comment='<span size="xx-large">Support for reaping child processes via $SIG{CHLD}</span>'
+Comment3='
+actually a problem specific to perl, but it is somewhat more difficult with
+perl reaping child processes after they exit so they dont hang around as
+zombies forever, and doing it in a way that accurately captures the exit
+code of the child.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Reaper/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libotf</b>'
+Comment='<span size="xx-large">A Library for handling OpenType Font</span>'
+Comment3='
+The library "libotf" provides the following facilites.
+Read Open Type Layout Tables from OTF file. Currently these tables are
+supported; head, name, cmap, GDEF, GSUB, and GPOS.  Convert a Unicode
+character sequence to a glyph code sequence by using the above tables.
+The combination of libotf and the FreeType library (Ver.2) realizes
+CTL (complex text layout) by OpenType fonts. This library is currently
+used by the m17n library. It seems that the probject Free Type Layout
+provides the similar (or better) facility as this library, but
+currently they have not yet released their library. So, we have
+developed this one.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/m17n/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

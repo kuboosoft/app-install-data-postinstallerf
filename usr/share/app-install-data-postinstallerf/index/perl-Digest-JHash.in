@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Digest-JHash</b>'
+Comment='<span size="xx-large">Perl extension for 32 bit Jenkins Hashing Algorithm</span>'
+Comment3='
+The DigestJHash module allows you to use the fast JHash hashing algorithm
+developed by Bob Jenkins from within Perl programs. The algorithm takes as
+input a message of arbitrary length and produces as output a 32-bit
+"message digest" of the input in the form of an unsigned long integer.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Digest-JHash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

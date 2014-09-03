@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pavumeter</b>'
+Comment='<span size="xx-large">Volume meter for PulseAudio</span>'
+Comment3='
+PulseAudio Volume Meter (pavumeter) is a simple GTK volume meter for the
+PulseAudio sound server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://0pointer.de/lennart/projects/pavumeter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

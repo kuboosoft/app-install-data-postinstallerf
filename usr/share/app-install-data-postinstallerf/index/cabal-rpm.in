@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cabal-rpm</b>'
+Comment='<span size="xx-large">RPM packaging tool for Haskell Cabal-based packages</span>'
+Comment3='
+Cabal-rpm is a tool for RPM packaging of Haskell Cabal-based packages.
+It interacts with yum to install build dependencies and can also act as
+a cabal-install wrapper installing dependencies packaged in Fedora before
+running "cabal install".
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cabal-rpm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

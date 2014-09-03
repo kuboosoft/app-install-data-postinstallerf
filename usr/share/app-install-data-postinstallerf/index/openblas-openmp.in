@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>openblas-openmp</b>'
+Comment='<span size="xx-large">An optimized BLAS library based on GotoBLAS2, OpenMP version</span>'
+Comment3='
+
+OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD
+version. The project is supported by the Lab of Parallel Software and
+Computational Science, ISCAS. http//www.rdcps.ac.cn
+This package contains the library compiled with OpenMP support.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/xianyi/OpenBLAS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

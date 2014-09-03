@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lovelock-kde-theme</b>'
+Comment='<span size="xx-large">Lovelock KDE Theme</span>'
+Comment3='
+This is Lovelock KDE Theme Artwork containing KDM theme,
+KSplash theme and Plasma Workspaces theme.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='https://fedorahosted.org/fedora-kde-artwork/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

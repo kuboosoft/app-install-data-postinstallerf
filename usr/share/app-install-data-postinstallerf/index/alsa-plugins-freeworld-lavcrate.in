@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>alsa-plugins-freeworld-lavcrate</b>'
+Comment='<span size="xx-large">Rate converter plugin using libavcodec</span>'
+Comment3='
+The plugin in rate-lavc subdirectory is an external rate converter using
+libavcodecs resampler.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

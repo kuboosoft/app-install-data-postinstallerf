@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ulogd-pcap</b>'
+Comment='<span size="xx-large">PCAP output plugin for ulogd</span>'
+Comment3='
+ulogd-pcap is a output plugin for ulogd that saves packet logs as PCAP
+file. PCAP is a standard format that can be later analyzed by a lot of tools
+such as tcpdump and wireshark.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.netfilter.org/projects/ulogd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pwauth</b>'
+Comment='<span size="xx-large">External plugin for mod_authnz_external authenticator</span>'
+Comment3='
+Pwauth is an authenticator designed to be used with mod_auth_external
+or mod_authnz_external and the Apache HTTP daemon to support reasonably
+secure web authentication out of the system password database on most
+versions of Unix.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/pwauth/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-progress</b>'
+Comment='<span size="xx-large">Easy to use progress bars</span>'
+Comment3='
+Collection of easy to use progress bars and spinners.
+'
+License='ISC'
+Screenshot=''
+Url='http://github.com/verigak/progress/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

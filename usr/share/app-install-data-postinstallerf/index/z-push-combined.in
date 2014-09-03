@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>z-push-combined</b>'
+Comment='<span size="xx-large">Combines several data backend providers for Z-Push</span>'
+Comment3='
+The z-push-combined package contains a special data backend provider
+for Z-Push to combine several data backend providers. This allows to
+handle each type of item (e-mails, contacts, calendar entries, tasks)
+by a different backend. A combination could be to handle e-mails via
+the IMAP data backend provider, while all other items are handled by
+the Zarafa data backend provider. If you want to use this, you will
+need to install this package and additionally the other Z-Push data
+backend providers that shall be combined.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.z-push.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-music</b>'
+Comment='<span size="xx-large">Music player and management application for GNOME</span>'
+Comment3='
+Music player and management application for GNOME.
+'
+License='(GPLv2+ with exceptions) and LGPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://wiki.gnome.org/Apps/Music'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

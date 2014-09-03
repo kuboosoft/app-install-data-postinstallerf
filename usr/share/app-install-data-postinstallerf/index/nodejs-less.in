@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-less</b>'
+Comment='<span size="xx-large">Less.js The dynamic stylesheet language</span>'
+Comment3='
+LESS extends CSS with dynamic behavior such as variables, mixins, operations
+and functions. LESS runs on both the client-side (Chrome, Safari, Firefox)
+and server-side, with Node.js and Rhino.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://lesscss.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

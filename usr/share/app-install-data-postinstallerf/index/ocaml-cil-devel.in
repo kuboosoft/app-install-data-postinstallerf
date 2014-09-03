@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-cil-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-cil</span>'
+Comment3='
+The ocaml-cil-devel package contains libraries and signature files for
+developing applications that use ocaml-cil.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://cil.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

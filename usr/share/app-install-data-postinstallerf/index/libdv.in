@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libdv</b>'
+Comment='<span size="xx-large">Software decoder for DV format video</span>'
+Comment3='
+The Quasar DV codec (libdv) is a software codec for DV video, the
+encoding format used by most digital camcorders, typically those that
+support the IEEE 1394 (a.k.a. FireWire or i.Link) interface. libdv was
+developed according to the official standards for DV video IEC 61834
+and SMPTE 314M.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libdv.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

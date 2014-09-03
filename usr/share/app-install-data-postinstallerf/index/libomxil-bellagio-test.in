@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libomxil-bellagio-test</b>'
+Comment='<span size="xx-large">Test cases for libomxil-bellagio</span>'
+Comment3='
+The libomxil-bellagio-test package contains binaries for testing libomxil-bellagio.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://omxil.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

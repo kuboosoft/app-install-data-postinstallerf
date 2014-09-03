@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-docile-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-docile</span>'
+Comment3='
+Documentation for rubygem-docile
+'
+License='MIT'
+Screenshot=''
+Url='https://ms-ati.github.com/docile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

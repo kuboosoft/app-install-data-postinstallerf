@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tong-data</b>'
+Comment='<span size="xx-large">Data files for the Tong game</span>'
+Comment3='
+Data files for the Tong game.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/tong'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

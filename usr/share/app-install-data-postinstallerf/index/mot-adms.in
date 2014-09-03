@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mot-adms</b>'
+Comment='<span size="xx-large">An electrical compact device models converter</span>'
+Comment3='
+ADMS is a code generator that converts electrical compact
+device models specified in high-level description language
+into ready-to-compile C code for the API of spice simulators.
+Based on transformations specified in XML language, ADMS
+transforms Verilog-AMS code into other target languages.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mot-adms.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

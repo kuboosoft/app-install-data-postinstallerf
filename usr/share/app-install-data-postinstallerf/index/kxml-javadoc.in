@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kxml-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for kxml</span>'
+Comment3='
+API documentation for kxml.
+'
+License='MIT'
+Screenshot=''
+Url='http://kxml.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

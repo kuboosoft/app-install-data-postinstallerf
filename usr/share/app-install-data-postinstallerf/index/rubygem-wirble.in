@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-wirble</b>'
+Comment='<span size="xx-large">Handful of common Irb features, made easy</span>'
+Comment3='
+Handful of common Irb features, made easy.
+'
+License='MIT and LGPLv2'
+Screenshot=''
+Url='http://pablotron.org/software/wirble/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

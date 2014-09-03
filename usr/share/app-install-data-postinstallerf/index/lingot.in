@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lingot</b>'
+Comment='<span size="xx-large">A musical instruments tuner</span>'
+Comment3='
+LINGOT is a musical instrument tuner. Its accurate, easy to use, and highly
+configurable. Originally conceived to tune electric guitars, its
+configurability gives it a more general character.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/lingot/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

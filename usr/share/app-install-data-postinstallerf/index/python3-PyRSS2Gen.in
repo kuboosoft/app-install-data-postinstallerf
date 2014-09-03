@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-PyRSS2Gen</b>'
+Comment='<span size="xx-large">A Python library for generating RSS 2.0 feeds</span>'
+Comment3='
+A Python3 library for generating RSS 2.0 feeds.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.dalkescientific.com/Python/PyRSS2Gen.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

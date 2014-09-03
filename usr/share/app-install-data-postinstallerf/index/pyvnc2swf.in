@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pyvnc2swf</b>'
+Comment='<span size="xx-large">VNC screen recorder</span>'
+Comment3='
+VNC2SWF is a cross-platform desktop screen recording tool creating ShockWave
+Flash (SWF) format media files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.unixuser.org/~euske/vnc2swf/pyvnc2swf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

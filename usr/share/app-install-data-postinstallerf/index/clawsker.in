@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>clawsker</b>'
+Comment='<span size="xx-large">Dialog to edit Claws Mails hidden preferences</span>'
+Comment3='
+Clawsker is a Perl-GTK2 applet to edit hidden preferences for Claws Mail, and
+to do it in a safe and user friendly way, preventing users from raw editing of
+configuration files.
+
+Claws Mail is a fast and lightweight Mail User Agent by the Claws Mail Team.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.claws-mail.org/clawsker'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

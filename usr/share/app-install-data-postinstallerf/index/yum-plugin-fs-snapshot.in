@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yum-plugin-fs-snapshot</b>'
+Comment='<span size="xx-large">Yum plugin to automatically snapshot your filesystems during updates</span>'
+Comment3='
+When this plugin is installed it will automatically snapshot any
+filesystem that is touched by the packages in a yum update or yum remove.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

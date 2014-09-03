@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-node-markdown</b>'
+Comment='<span size="xx-large">Parse markdown syntax with Node.js</span>'
+Comment3='
+Based on showdown parser and parses markdown syntax into HTML code.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/andris9/node-markdown'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

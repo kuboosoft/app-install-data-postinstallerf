@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>marble-libs</b>'
+Comment='<span size="xx-large">Runtime files for marble</span>'
+Comment3='
+Runtime files for marble.
+
+URL          http//edu.kde.org/marble/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://edu.kde.org/marble/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

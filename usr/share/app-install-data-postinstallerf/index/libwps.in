@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwps</b>'
+Comment='<span size="xx-large">Library for reading and converting Microsoft Works word processor documents</span>'
+Comment3='
+Library that handles Microsoft Works documents.
+
+URL          http//libwps.sourceforge.net/
+'
+License='LGPLv2+ or MPLv2.0'
+Screenshot=''
+Url='http://libwps.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

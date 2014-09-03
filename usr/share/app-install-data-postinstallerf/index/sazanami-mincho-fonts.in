@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sazanami-mincho-fonts</b>'
+Comment='<span size="xx-large">Sazanami Mincho Japanese TrueType font</span>'
+Comment3='
+
+The Sazanami type faces are automatically generated from Wadalab font kit.
+They also contains some embedded Japanese bitmap fonts.
+This package contains Japanese TrueType font for Mincho type face.
+'
+License='BSD'
+Screenshot=''
+Url='http://efont.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

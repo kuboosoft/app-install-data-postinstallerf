@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cortado-javadoc</b>'
+Comment='<span size="xx-large">Java docs for cortado</span>'
+Comment3='
+This package contains the API documentation for cortado.
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.theora.org/cortado/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

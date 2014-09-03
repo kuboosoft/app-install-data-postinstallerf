@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Geo-IP</b>'
+Comment='<span size="xx-large">Efficient Perl bindings for the GeoIP location database</span>'
+Comment3='
+This package contains Perl bindings for the GeoIP IP/hostname to
+country/location/organization database.
+
+This package requires Maxminds GeoIP libraries but is often faster than other,
+similar modules.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Geo-IP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

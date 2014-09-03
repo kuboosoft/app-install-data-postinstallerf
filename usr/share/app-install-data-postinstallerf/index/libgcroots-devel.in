@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libgcroots-devel</b>'
+Comment='<span size="xx-large">Development files for libgcroots</span>'
+Comment3='
+libgcroots abstracts architecture-dependent part of garbage collector
+roots acquisition such as register windows of SPARC and register stack
+backing store of IA-64.
+
+This package contains a header file and development library to help you
+to develop any own GC.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/sigscheme/wiki/libgcroots'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vdr-rcu</b>'
+Comment='<span size="xx-large">VDR remote control unit plugin</span>'
+Comment3='
+The rcu plugin implements a remote control unit for VDR.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tvdr.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

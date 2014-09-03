@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Clone</b>'
+Comment='<span size="xx-large">Fine grained cloning support for Moose objects</span>'
+Comment3='
+Out of the box Moose only provides very barebones cloning support in order
+to maximize flexibility.
+
+This role provides a clone method that makes use of the low level cloning
+support already in Moose and adds selective deep cloning based on
+introspection on top of that. Attributes with the Clone trait will handle
+cloning of data within the object, typically delegating to the attribute
+values own clone method.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Clone/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

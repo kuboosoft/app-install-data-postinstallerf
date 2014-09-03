@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-ElasticSearch-SearchBuilder</b>'
+Comment='<span size="xx-large">Perlish compact query language for ElasticSearch</span>'
+Comment3='
+The Query DSL for ElasticSearch (see Query DSL), which is used to write
+queries and filters, is simple but verbose, which can make it difficult to
+write and understand large queries.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/ElasticSearch-SearchBuilder/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

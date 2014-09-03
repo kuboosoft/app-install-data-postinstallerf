@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nickle-devel</b>'
+Comment='<span size="xx-large">Include files for Nickle</span>'
+Comment3='
+Include files for Nickle, used for building external FFI (foreign
+function interface) libraries (e.g. the Cairo interface for Nickle).
+
+'
+License='MIT'
+Screenshot=''
+Url='http://nickle.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

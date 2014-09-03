@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ceph-libcephfs</b>'
+Comment='<span size="xx-large">Ceph libcephfs libraries</span>'
+Comment3='
+libcephfs library for Ceph distributed network file system
+
+URL          https//ceph.com/
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://ceph.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

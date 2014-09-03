@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freeipmi-ipmidetectd</b>'
+Comment='<span size="xx-large">IPMI node detection monitoring daemon</span>'
+Comment3='
+Provides a tool and a daemon for IPMI node detection.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/freeipmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

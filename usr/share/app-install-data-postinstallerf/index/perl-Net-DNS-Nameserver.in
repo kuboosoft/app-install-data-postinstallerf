@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Net-DNS-Nameserver</b>'
+Comment='<span size="xx-large">DNS server for Perl</span>'
+Comment3='
+Instances of the "NetDNSNameserver" class represent DNS server objects.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://www.net-dns.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

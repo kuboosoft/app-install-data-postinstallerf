@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>clement</b>'
+Comment='<span size="xx-large">An application to filter and manage E-mail traffic</span>'
+Comment3='
+Clement is an email firewall. Its purpose is to filter all email,
+rejecting viruses and unwelcome messages at the SMTP protocol level
+(and avoids bouncing to forged originators).
+
+Clement extracts "email sending contexts" and can use a remote mentor
+process to further analyze message context while still connected to the
+remote sender process.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.clement.safe.ca'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

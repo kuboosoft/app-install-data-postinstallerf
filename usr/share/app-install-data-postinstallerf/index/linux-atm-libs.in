@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>linux-atm-libs</b>'
+Comment='<span size="xx-large">Linux ATM API library</span>'
+Comment3='
+This package contains the ATM library required for user space ATM tools.
+
+URL          http//linux-atm.sourceforge.net/
+'
+License='BSD and GPLv2 and GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://linux-atm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

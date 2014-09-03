@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uzbl-browser</b>'
+Comment='<span size="xx-large">A complete browser using Uzbl</span>'
+Comment3='
+A complete browsing experience based on Uzbls core component.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.uzbl.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

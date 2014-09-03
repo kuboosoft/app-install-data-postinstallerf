@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-nfssext-cfr</b>'
+Comment='<span size="xx-large">Extensions to the LaTeX NFSS</span>'
+Comment3='
+The package is a development of nfssext.sty, distributed with
+the examples for the font installation guide. The package has
+been developed for use in packages such as cfr-lm and
+venturisadf,
+
+date 2010-06-30 123612 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

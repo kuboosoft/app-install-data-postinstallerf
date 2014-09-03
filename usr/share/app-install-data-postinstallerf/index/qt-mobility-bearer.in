@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qt-mobility-bearer</b>'
+Comment='<span size="xx-large">QtBearer support</span>'
+Comment3='
+QtBearer support.
+
+URL          http//qt.digia.com/Product/Qt-Add-Ons/
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qt.digia.com/Product/Qt-Add-Ons/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

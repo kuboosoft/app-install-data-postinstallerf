@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-acts-as-taggable-on</b>'
+Comment='<span size="xx-large">Advanced tagging for Rails</span>'
+Comment3='
+With ActsAsTaggableOn, you can tag a single model on several contexts, such as
+skills, interests, and awards. It also provides other advanced functionality.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/mbleigh/acts-as-taggable-on'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

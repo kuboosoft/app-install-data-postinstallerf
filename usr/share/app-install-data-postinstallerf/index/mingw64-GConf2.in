@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw64-GConf2</b>'
+Comment='<span size="xx-large">MinGW Windows port of the GNOME 2.x Desktop Configuration Database System</span>'
+Comment3='
+MinGW Windows port of GConf, the GNOME configuration database. It
+is used by the GNOME 2.x Desktop platform.
+'
+License='LGPLv2 or MPLv1.1'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

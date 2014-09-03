@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-simplemediawiki</b>'
+Comment='<span size="xx-large">Extremely low-level wrapper to the MediaWiki API</span>'
+Comment3='
+The module simplemediawiki is an extremely low-level wrapper to the MediaWiki
+API. It automatically handles cookies and g zip compression so that you can
+make basic calls to the API in the easiest way possible. It also provides a
+few functions to make day-to-day API access easier.
+
+This is the Python 3 version.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/ianweller/python-simplemediawiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

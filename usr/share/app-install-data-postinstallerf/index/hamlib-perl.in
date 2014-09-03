@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hamlib-perl</b>'
+Comment='<span size="xx-large">Hamlib radio control library Perl binding</span>'
+Comment3='
+Hamlib PERL Language bindings to allow radio control from PERL scripts.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://hamlib.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

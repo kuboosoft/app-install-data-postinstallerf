@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mozilla-googlesharing</b>'
+Comment='<span size="xx-large">Anonymizing proxy service for Googlesharing system</span>'
+Comment3='
+
+This mozilla add-on aims to provide a level of anonymity from Google.
+Prevents google from tracking your searches, movements,and websites you visit.
+Leaves non-Google traffic completely untouched and unaffected.
+Also makes this system,completely transparent to the end user.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.googlesharing.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

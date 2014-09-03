@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>atasm</b>'
+Comment='<span size="xx-large">6502 cross-assembler</span>'
+Comment3='
+ATasm is a 6502 command-line cross-assembler that is compatible with the
+original Mac/65 macroassembler released by OSS software.  Code
+development can now be performed using "modern" editors and compiles
+with lightning speed.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://atari.miribilist.com/atasm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

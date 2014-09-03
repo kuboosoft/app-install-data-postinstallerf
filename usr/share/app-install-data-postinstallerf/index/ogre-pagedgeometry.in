@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ogre-pagedgeometry</b>'
+Comment='<span size="xx-large">Ogre addon for realtime rendering of dense forests</span>'
+Comment3='
+Real-time rendering of massive, dense forests, with not only trees, but
+bushes, grass, rocks, and other "clutter". Supports dynamic transitioned
+LOD between batched geometry and static impostors (extendable).
+'
+License='zlib'
+Screenshot=''
+Url='http://www.ogre3d.org/wiki/index.php/PagedGeometry_Engine'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

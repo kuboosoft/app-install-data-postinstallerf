@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>edac-utils-devel</b>'
+Comment='<span size="xx-large">Development files for edac-utils</span>'
+Comment3='
+This package contains the development headers and libraries
+for edac-utils.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/edac-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

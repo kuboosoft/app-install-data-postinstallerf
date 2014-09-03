@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghost-diagrams</b>'
+Comment='<span size="xx-large">A program that generates patterns from tiles</span>'
+Comment3='
+Ghost Diagrams is a program that takes sets of tiles and tries to find
+patterns into which they may be formed. The patterns it finds when given
+randomly chosen tiles are often surprising.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://logarithmic.net/pfh/ghost-diagrams'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

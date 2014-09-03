@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sbt</b>'
+Comment='<span size="xx-large">The simple build tool for Scala and Java projects</span>'
+Comment3='
+sbt is the simple build tool for Scala and Java projects.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.scala-sbt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

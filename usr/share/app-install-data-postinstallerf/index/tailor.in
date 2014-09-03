@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tailor</b>'
+Comment='<span size="xx-large">A tool to migrate changesets between several version control systems</span>'
+Comment3='
+Tailor is a tool to migrate changesets between CVS, Subversion, git,
+darcs, monotone, Codeville, Mercurial and Baazar-NG repositories.
+
+This script makes it easier to keep the upstream changes merged in
+a branch of a product, storing needed information such as the upstream
+URI and revision in special properties on the branched directory.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://progetti.arstecnica.it/tailor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

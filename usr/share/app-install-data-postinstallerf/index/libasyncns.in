@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libasyncns</b>'
+Comment3='
+A small and lightweight library that implements easy to use asynchronous
+wrappers around the libc NSS functions getaddrinfo(), res_query() and related.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://0pointer.de/lennart/projects/libasyncns/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

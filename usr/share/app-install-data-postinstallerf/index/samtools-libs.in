@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>samtools-libs</b>'
+Comment='<span size="xx-large">Libraries for applications using samtools</span>'
+Comment3='
+Libraries for applications using samtools
+
+URL          http//samtools.sourceforge.net/
+'
+License='MIT'
+Screenshot=''
+Url='http://samtools.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

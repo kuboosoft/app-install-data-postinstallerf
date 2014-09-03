@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-fancypar</b>'
+Comment='<span size="xx-large">Decoration of individual paragraphs</span>'
+Comment3='
+Decorates individual paragraphs of a document, offering five
+pre-defined styles. The command offers an optional key-value
+argument with the user may define parameters of the selected
+style. Predefined styles offer a spiral-notebook, a zebra-like,
+a dashed, a marked design, and an underlined style. Users may
+also define their own styles. Decorated paragraphs may not
+include displayed mathematics.
+
+date 2010-04-29 124052 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

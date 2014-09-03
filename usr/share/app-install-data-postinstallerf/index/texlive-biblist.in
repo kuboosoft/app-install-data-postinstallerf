@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-biblist</b>'
+Comment='<span size="xx-large">Print a BibTeX database</span>'
+Comment3='
+The package provides the means of listing an entire BibTeX
+database, avoiding the potentially large (macro) impact
+associated with \nocite{*}.
+
+date 2010-02-21 114227 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

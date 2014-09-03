@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gperftools-libs</b>'
+Comment='<span size="xx-large">Libraries provided by gperftools</span>'
+Comment3='
+Libraries provided by gperftools, including libtcmalloc and libprofiler.
+
+URL          http//code.google.com/p/gperftools/
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/gperftools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

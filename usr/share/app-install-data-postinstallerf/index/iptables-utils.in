@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iptables-utils</b>'
+Comment='<span size="xx-large">iptables and ip6tables services for iptables</span>'
+Comment3='
+Utils for iptables.
+
+Currently only provides nfnl_osf with the pf.os database.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.netfilter.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

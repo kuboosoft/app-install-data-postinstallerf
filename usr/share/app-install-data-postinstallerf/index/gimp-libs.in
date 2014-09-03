@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gimp-libs</b>'
+Comment='<span size="xx-large">GIMP libraries</span>'
+Comment3='
+The gimp-libs package contains shared libraries needed for the GNU Image
+Manipulation Program (GIMP).
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.gimp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

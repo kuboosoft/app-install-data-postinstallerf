@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-cliapp</b>'
+Comment='<span size="xx-large">Python framework for Unix command line programs</span>'
+Comment3='
+cliapp is a Python framework for Unix-like command line programs. It
+contains the typical stuff such programs need to do, such as parsing
+the command line for options, and iterating over input files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://liw.fi/cliapp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

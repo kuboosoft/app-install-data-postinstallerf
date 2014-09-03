@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sendmail-cf</b>'
+Comment='<span size="xx-large">The files needed to reconfigure Sendmail</span>'
+Comment3='
+This package includes the configuration files you need to generate the
+sendmail.cf file distributed with the sendmail package. You will need
+the sendmail-cf package if you ever need to reconfigure and rebuild
+your sendmail.cf file.
+'
+License='Sendmail'
+Screenshot=''
+Url='http://www.sendmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

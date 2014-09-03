@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-wagon-ahc</b>'
+Comment='<span size="xx-large">A wagon provider for HTTP transfers</span>'
+Comment3='
+A wagon provider for HTTP transfers based on the async-http-client.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.sonatype.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

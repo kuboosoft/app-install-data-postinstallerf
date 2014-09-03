@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libguestfs-man-pages-uk</b>'
+Comment='<span size="xx-large">Ukrainian (uk) man pages for libguestfs</span>'
+Comment3='
+libguestfs-man-pages-uk contains Ukrainian (uk) man pages
+for libguestfs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

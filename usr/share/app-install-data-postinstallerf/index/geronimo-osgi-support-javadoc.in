@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>geronimo-osgi-support-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for geronimo-osgi-support</span>'
+Comment3='
+This package contains the API documentation for geronimo-osgi-support.
+'
+License='ASL 2.0 and W3C'
+Screenshot=''
+Url='http://geronimo.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

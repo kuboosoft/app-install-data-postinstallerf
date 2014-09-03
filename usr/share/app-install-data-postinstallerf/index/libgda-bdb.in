@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libgda-bdb</b>'
+Comment='<span size="xx-large">Berkeley DB provider for libgda</span>'
+Comment3='
+This libgda-bdb includes the libgda Berkeley DB provider.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome-db.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

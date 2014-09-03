@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-method-override</b>'
+Comment='<span size="xx-large">Provides faux HTTP method support for Connect</span>'
+Comment3='
+Provides faux HTTP method support for Connect.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/expressjs/method-override'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

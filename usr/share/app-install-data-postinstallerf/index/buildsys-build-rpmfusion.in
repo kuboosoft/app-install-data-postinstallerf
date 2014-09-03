@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>buildsys-build-rpmfusion</b>'
+Comment='<span size="xx-large">Tools and files used by the rpmfusion buildsys</span>'
+Comment3='
+This package contains tools and lists of recent kernels that get used when
+building kmod-packages.
+'
+License='MIT'
+Screenshot=''
+Url='http://rpmfusion.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

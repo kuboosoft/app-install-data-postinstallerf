@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-remoting-jmx-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jboss-remoting-jmx</span>'
+Comment3='
+This package contains the API documentation for jboss-remoting-jmx.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

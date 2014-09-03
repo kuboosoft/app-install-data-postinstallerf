@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cxxtools-devel</b>'
+Comment='<span size="xx-large">Development files for cxxtools</span>'
+Comment3='
+Development files for cxxtools
+
+URL          http//www.tntnet.org/cxxtools.html
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.tntnet.org/cxxtools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

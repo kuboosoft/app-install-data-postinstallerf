@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gallery2-watermark</b>'
+Comment='<span size="xx-large">Watermark module for Gallery 2</span>'
+Comment3='
+Gallery 2 module - Watermark your images
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gallery.menalto.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>squeak-vm</b>'
+Comment='<span size="xx-large">The Squeak virtual machine</span>'
+Comment3='
+Squeak is a full-featured implementation of the Smalltalk programming
+language and environment based on (and largely compatible with) the original
+Smalltalk-80 system.
+
+This package contains just the Squeak virtual machine.
+'
+License='MIT'
+Screenshot=''
+Url='http://squeakvm.org/unix'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

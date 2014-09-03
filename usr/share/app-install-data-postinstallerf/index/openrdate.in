@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openrdate</b>'
+Comment='<span size="xx-large">Good-old rdate date and time-setting software</span>'
+Comment3='
+Good-old date- and time-setting rdate software implementing RFC 868
+(inetd time) and RFC 2030 (SNTP/NTP) protocols. An independent package
+of OpenBSDs rdate program.
+'
+License='BSD and BSD with advertising'
+Screenshot=''
+Url='http://sourceforge.net/projects/openrdate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

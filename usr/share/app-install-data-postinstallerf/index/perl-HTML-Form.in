@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-HTML-Form</b>'
+Comment='<span size="xx-large">Class that represents an HTML form element</span>'
+Comment3='
+Objects of the HTMLForm class represents a single HTML <form> ... </form>
+instance. A form consists of a sequence of inputs that usually have names,
+and which can take on various values. The state of a form can be tweaked
+and it can then be asked to provide HTTPRequest objects that can be
+passed to the request() method of LWPUserAgent.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-Form/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

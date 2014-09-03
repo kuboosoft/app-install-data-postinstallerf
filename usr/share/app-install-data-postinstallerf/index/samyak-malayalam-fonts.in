@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>samyak-malayalam-fonts</b>'
+Comment='<span size="xx-large">Open Type Fonts for Malayalam script</span>'
+Comment3='
+This package contains truetype/opentype font for the display of \
+Scripts Malayalam.
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://sarovar.org/projects/samyak/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

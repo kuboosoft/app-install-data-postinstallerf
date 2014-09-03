@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Net-IMAP-Simple-SSL</b>'
+Comment='<span size="xx-large">Simple IMAP account handling with SSL</span>'
+Comment3='
+Perl extension for simple IMAP account handling, mostly compatible
+with NetPOP3.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-IMAP-Simple-SSL'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

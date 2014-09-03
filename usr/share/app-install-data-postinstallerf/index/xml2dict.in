@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xml2dict</b>'
+Comment='<span size="xx-large">Use attributes of dictionary to access XML elements</span>'
+Comment3='
+Use attributes of dictionary to access XML elements.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/xml2dict/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

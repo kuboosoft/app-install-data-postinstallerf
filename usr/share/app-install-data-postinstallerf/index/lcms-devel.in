@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lcms-devel</b>'
+Comment='<span size="xx-large">Development files for LittleCMS</span>'
+Comment3='
+Development files for LittleCMS.
+
+URL          http//www.littlecms.com/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.littlecms.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

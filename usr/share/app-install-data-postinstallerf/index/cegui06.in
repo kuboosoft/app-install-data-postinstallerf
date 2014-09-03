@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cegui06</b>'
+Comment='<span size="xx-large">CEGUI library 0.6 for apps which need this specific version</span>'
+Comment3='
+Crazy Eddies GUI System is a free library providing windowing and widgets for
+graphics APIs / engines. This package contains the older version 0.6 for
+apps which cannot be easily ported to 0.7. As such this version has been build
+without additional image codecs or xml parsers.
+'
+License='MIT and LGPLv2+'
+Screenshot=''
+Url='http://www.cegui.org.uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Rpc</b>'
+Comment='<span size="xx-large">Horde RPC API</span>'
+Comment3='
+A common abstracted interface to various remote methods of accessing Horde
+functionality.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

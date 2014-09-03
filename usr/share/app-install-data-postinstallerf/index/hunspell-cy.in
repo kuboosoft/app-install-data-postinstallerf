@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-cy</b>'
+Comment='<span size="xx-large">Welsh hunspell dictionaries</span>'
+Comment3='
+Welsh hunspell dictionaries.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.e-gymraeg.co.uk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>usbmuxd</b>'
+Comment='<span size="xx-large">Daemon for communicating with Apples iOS devices</span>'
+Comment3='
+usbmuxd is a daemon used for communicating with Apples iPod Touch, iPhone,
+iPad and Apple TV devices. It allows multiple services on the device to be
+accessed simultaneously.
+
+'
+License='GPLv3+ or GPLv2+ and LGPLv2+'
+License='GPLv3+ or GPLv2+'
+Screenshot=''
+Url='http://www.libimobiledevice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xemacs-ebib</b>'
+Comment='<span size="xx-large">Compiled elisp files to run Ebib under XEmacs</span>'
+Comment3='
+Ebib is a BibTeX database manager for GNU Emacs and XEmacs.
+
+This package contains the byte compiled elisp packages to run Ebib with
+XEmacs.
+'
+License='BSD'
+Screenshot=''
+Url='http://ebib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

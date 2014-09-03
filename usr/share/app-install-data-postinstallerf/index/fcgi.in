@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fcgi</b>'
+Comment='<span size="xx-large">FastCGI development kit</span>'
+Comment3='
+FastCGI is a language independent, scalable, open extension to CGI that
+provides high performance without the limitations of server specific APIs.
+
+'
+License='OML'
+Screenshot=''
+Url='http://www.fastcgi.com/#TheDevKit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

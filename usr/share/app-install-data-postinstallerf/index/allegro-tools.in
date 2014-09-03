@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>allegro-tools</b>'
+Comment='<span size="xx-large">Extra tools for the Allegro programming library</span>'
+Comment3='
+Allegro is a cross-platform library intended for use in computer games
+and other types of multimedia programming. This package contains extra
+tools which are useful for developing Allegro programs.
+'
+License='Giftware'
+Screenshot=''
+Url='http://alleg.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

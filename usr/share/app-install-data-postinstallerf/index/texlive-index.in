@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-index</b>'
+Comment='<span size="xx-large">Extended index for LaTeX including multiple indexes</span>'
+Comment3='
+This is a reimplementation of LaTeXs indexing macros to
+provide better support for indexing. For example, it supports
+multiple indexes in a single document and provides a more
+robust \index command. It supplies short hand notations for the
+\index command (^{word}) and a * variation of \index
+(abbreviated _{word}) that prints the word being indexed, as
+well as creating an index entry for it.
+
+date 2008-04-20 195304 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

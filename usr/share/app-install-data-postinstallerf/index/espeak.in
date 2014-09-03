@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>espeak</b>'
+Comment='<span size="xx-large">Software speech synthesizer (text-to-speech)</span>'
+Comment3='
+eSpeak is a software speech synthesizer for English and other languages.
+
+eSpeak produces good quality English speech. It uses a different synthesis
+method from other open source TTS engines, and sounds quite different.
+Its perhaps not as natural or "smooth", but some people may find the
+articulation clearer and easier to listen to for long periods. eSpeak supports
+several languages, however in most cases these are initial drafts and need more
+work to improve them.
+It can run as a command line program to speak text from a file or from stdin.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://espeak.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

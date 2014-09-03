@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xtide-common</b>'
+Comment='<span size="xx-large">Xtide common files</span>'
+Comment3='
+This package contains common files needed by xtide, xttpd and
+tideEditor.
+Please read README.fedora for Fedora specific issue.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.flaterco.com/xtide/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdockapp-devel</b>'
+Comment='<span size="xx-large">Development files for libdockapp</span>'
+Comment3='
+The libdockapp-devel package contains libraries and header files for
+developing applications that use libdockapp.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://solfertje.student.utwente.nl/~dalroi/libdockapp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

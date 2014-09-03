@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Cache</b>'
+Comment='<span size="xx-large">The Cache interface</span>'
+Comment3='
+The Cache modules are designed to assist a developer in persisting data
+for a specified period of time. Often these modules are used in web
+applications to store data locally to save repeated and redundant
+expensive calls to remote machines or databases.
+
+The Cache interface is implemented by derived classes that store cached
+data in different manners (such as as files on a filesystem, or in memory).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Cache'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>k3d-devel</b>'
+Comment='<span size="xx-large">Headers for rendering models written by K-3D</span>'
+Comment3='
+This package contains the libraries and header files needed for
+rendering a model written by K-3D.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.k-3d.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

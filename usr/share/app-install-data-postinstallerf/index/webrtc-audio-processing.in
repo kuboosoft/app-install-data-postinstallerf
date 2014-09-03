@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>webrtc-audio-processing</b>'
+Comment='<span size="xx-large">Library for echo cancellation</span>'
+Comment3='
+webrtc-audio-processing is a library derived from Google WebRTC project that
+provides echo cancellation functionality. This library is used by for example
+PulseAudio to provide echo cancellation.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

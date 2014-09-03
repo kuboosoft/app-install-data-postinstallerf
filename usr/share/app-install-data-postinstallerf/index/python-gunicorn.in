@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-gunicorn</b>'
+Comment='<span size="xx-large">Python WSGI application server</span>'
+Comment3='
+Gunicorn ("Green Unicorn") is a Python WSGI HTTP server for UNIX. It uses the
+pre-fork worker model, ported from Rubys Unicorn project. It supports WSGI,
+Django, and Paster applications.
+'
+License='MIT'
+Screenshot=''
+Url='http://gunicorn.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

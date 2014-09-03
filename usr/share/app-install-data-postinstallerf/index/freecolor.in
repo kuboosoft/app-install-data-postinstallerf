@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>freecolor</b>'
+Comment='<span size="xx-large">Display memory information graphically</span>'
+Comment3='
+Freecolor displays the total amount of free and used physical and swap
+memory in the system as a colored bargraph on the command line.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.rkeene.org/oss/freecolor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qtchooser</b>'
+Comment='<span size="xx-large">Qt Chooser</span>'
+Comment3='
+Qt Chooser
+'
+License='LGPLv2 or GPLv3'
+Screenshot=''
+Url='http://macieira.org/qtchooser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

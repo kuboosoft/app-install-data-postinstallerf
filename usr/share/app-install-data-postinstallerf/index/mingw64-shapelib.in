@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-shapelib</b>'
+Comment='<span size="xx-large">MinGW Windows shapelib library</span>'
+Comment3='
+MinGW Windows shapelib library.
+'
+License='(LGPLv2+ or MIT) and GPLv2+ and Public Domain'
+Screenshot=''
+Url='http://shapelib.maptools.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

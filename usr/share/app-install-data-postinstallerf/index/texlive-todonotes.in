@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-todonotes</b>'
+Comment='<span size="xx-large">Marking things to do in a LaTeX document</span>'
+Comment3='
+The package lets the user mark things to do later, in a simple
+and visually appealing way. The package takes several options
+to enable customization/finetuning of the visual appearance.
+
+date 2012-11-25 121734 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

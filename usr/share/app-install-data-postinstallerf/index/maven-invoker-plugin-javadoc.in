@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-invoker-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for maven-invoker-plugin</span>'
+Comment3='
+API documentation for maven-invoker-plugin.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-invoker-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

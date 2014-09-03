@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>professor-is-missing</b>'
+Comment='<span size="xx-large">The Professor is Missing, an AGI adventure game</span>'
+Comment3='
+In this little game, for a mysterious reason, the Professor is disaspeared in
+Africa. As Eric, you must find a way to go to Africa to find out the
+Professor.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://membres.lycos.fr/agisite/prof.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

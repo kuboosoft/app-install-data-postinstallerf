@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ntpdate</b>'
+Comment='<span size="xx-large">Utility to set the date and time via NTP</span>'
+Comment3='
+ntpdate is a program for retrieving the date and time from
+NTP servers.
+'
+License='(MIT and BSD and BSD with advertising) and GPLv2'
+Screenshot=''
+Url='http://www.ntp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

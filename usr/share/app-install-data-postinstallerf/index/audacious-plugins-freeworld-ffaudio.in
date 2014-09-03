@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>audacious-plugins-freeworld-ffaudio</b>'
+Comment='<span size="xx-large">FFMpeg/FAAD2 based input plugin for Audacious</span>'
+Comment3='
+FFMpeg/FAAD2 based input plugin for Audacious.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://audacious-media-player.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

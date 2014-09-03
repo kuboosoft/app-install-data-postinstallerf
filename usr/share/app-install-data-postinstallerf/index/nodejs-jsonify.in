@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-jsonify</b>'
+Comment='<span size="xx-large">JSON without touching any globals</span>'
+Comment3='
+This module provides Douglas Crockfords JSON implementation without
+modifying any globals. stringify and parse are merely exported
+without respect to whether or not a global JSON object exists.
+'
+License='Public Domain'
+Screenshot=''
+Url='https://github.com/substack/jsonify'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

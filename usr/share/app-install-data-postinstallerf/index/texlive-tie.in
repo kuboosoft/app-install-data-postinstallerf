@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-tie</b>'
+Comment='<span size="xx-large">Allow multiple web change files</span>'
+Comment3='
+Tie was originally developed to allow web programmers to apply
+more than one change file to their source. The program may also
+be used to create a new version of a web file that incorporates
+existing changes.
+
+date 2012-04-27 122053 +0200
+'
+License='Latex2e'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

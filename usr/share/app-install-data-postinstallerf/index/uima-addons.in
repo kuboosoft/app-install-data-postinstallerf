@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>uima-addons</b>'
+Comment='<span size="xx-large">Apache UIMA Addons components</span>'
+Comment3='
+UIMA Addons is a collection of Annotators extracted for
+sandbox for official distribution. It also provides
+Simple Server and Pear packaging tools.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://uima.apache.org/sandbox.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

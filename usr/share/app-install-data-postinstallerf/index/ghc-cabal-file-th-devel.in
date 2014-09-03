@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-cabal-file-th-devel</b>'
+Comment='<span size="xx-large">Haskell cabal-file-th library development files</span>'
+Comment3='
+This package provides the Haskell cabal-file-th library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cabal-file-th'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

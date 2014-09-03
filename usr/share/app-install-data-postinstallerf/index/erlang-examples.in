@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-examples</b>'
+Comment='<span size="xx-large">Examples for some Erlang modules</span>'
+Comment3='
+Examples for some Erlang modules.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

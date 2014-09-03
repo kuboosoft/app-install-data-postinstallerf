@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openni-examples</b>'
+Comment='<span size="xx-large">Sample programs for openni</span>'
+Comment3='
+The openni-examples package contains example programs for OpenNI.
+'
+License='LGPLv3+ and BSD'
+Screenshot=''
+Url='http://www.openni.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>liblouisutdml-utils</b>'
+Comment='<span size="xx-large">Utilities that convert various file formats into braille</span>'
+Comment3='
+This package provides the following command-line utilities to convert from
+several file formats to braille
+* file2brl translates XML or text files into embosser-ready braille files
+* msword2brl translates Microsoft Word files into braille files
+* pdf2brl translates PDF files into braille files
+* rtf2brl translates RTF files into braille files
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://abilitiessoft.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

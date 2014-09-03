@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sugar-cp-updater</b>'
+Comment='<span size="xx-large">Sugar Activity Update control panel</span>'
+Comment3='
+This is the Sugar Activity Updates control panel
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sugarlabs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

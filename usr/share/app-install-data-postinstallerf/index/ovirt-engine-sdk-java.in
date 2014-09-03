@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ovirt-engine-sdk-java</b>'
+Comment='<span size="xx-large">oVirt Engine Software Development Kit (Java)</span>'
+Comment3='
+This package contains The oVirt-Engine Java Software Development Kit.
+With this package, custom java software can be built for oVirt-Engine.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ovirt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

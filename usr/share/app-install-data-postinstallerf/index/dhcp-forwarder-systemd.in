@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dhcp-forwarder-systemd</b>'
+Comment='<span size="xx-large">Systemd initscripts for dhcp-forwarder</span>'
+Comment3='
+dhcp-fwd forwards DHCP messages between subnets with different sublayer
+broadcast domains.
+
+This package provides the scripts which can be used to start dhcp-forwarder
+with the systemd initconcept.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.nongnu.org/dhcp-fwd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

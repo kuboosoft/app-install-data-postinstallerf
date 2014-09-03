@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>freecol-imperator-fonts</b>'
+Comment='<span size="xx-large">Gothic font</span>'
+Comment3='
+A gothic font originally created by Paul Lloyd in 2002, extended by the freecol
+project to include most accented latin characters.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freecol.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

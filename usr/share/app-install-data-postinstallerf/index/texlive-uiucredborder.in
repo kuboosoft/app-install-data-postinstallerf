@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-uiucredborder</b>'
+Comment='<span size="xx-large">Class for UIUC thesis red-bordered forms</span>'
+Comment3='
+The class offers a means of filling out the "red-bordered form"
+
+date 2013-04-16 113034 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

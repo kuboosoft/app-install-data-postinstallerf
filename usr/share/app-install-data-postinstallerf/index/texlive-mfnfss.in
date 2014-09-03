@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-mfnfss</b>'
+Comment='<span size="xx-large">Packages to typeset oldgerman and pandora fonts in LaTeX</span>'
+Comment3='
+This bundle contains two packages - oldgerm, a package to
+typeset with old german fonts designed by Yannis Haralambous. -
+pandora, a package to typeset with Pandora fonts designed by
+Neena Billawala. Note that support for the Pandora fonts is
+also available via the pandora-latex package.
+
+date 2010-07-12 110148 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

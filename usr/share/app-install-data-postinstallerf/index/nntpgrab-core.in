@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nntpgrab-core</b>'
+Comment='<span size="xx-large">NNTPGrab Core library</span>'
+Comment3='
+Core library of NNTPGrab containing all the internal plugins
+
+URL          http//www.nntpgrab.nl
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nntpgrab.nl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

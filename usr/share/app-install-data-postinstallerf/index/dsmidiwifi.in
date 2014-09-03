@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dsmidiwifi</b>'
+Comment='<span size="xx-large">DS music interface</span>'
+Comment3='
+An application that runs on the computer and forwards the MIDI messages
+received via Wifi to MIDI applications. Mainly used by Nintendo DS homebrew
+applications.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dsmidiwifi.tobw.net/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

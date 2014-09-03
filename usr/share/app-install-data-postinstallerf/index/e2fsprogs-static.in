@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>e2fsprogs-static</b>'
+Comment='<span size="xx-large">Ext2/3/4 filesystem-specific static libraries</span>'
+Comment3='
+E2fsprogs-static contains all static libraries built from e2fsprogs,
+including libext2fs, libcom_err, libe2p, and libss.
+
+These libraries are used to directly acccess ext2/3/4 filesystems
+from userspace, and perform other useful functions.
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://e2fsprogs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

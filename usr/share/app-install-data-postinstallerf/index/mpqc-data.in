@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mpqc-data</b>'
+Comment='<span size="xx-large">Atom info and basis sets from MPQC</span>'
+Comment3='
+Atom info and basis sets from MPQC.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.mpqc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

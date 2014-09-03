@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>trac-workflowadmin-plugin</b>'
+Comment='<span size="xx-large">Web interface for workflow administration for Trac</span>'
+Comment3='
+The plugin provides the editor for workflow and the diagram of workflow
+using the Graphviz programs.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/TracWorkflowAdminPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pure-doc</b>'
+Comment='<span size="xx-large">Examples for pure</span>'
+Comment3='
+The pure-doc package contains examples for programming in pure.
+'
+License='BSD and GPLv3'
+Screenshot=''
+Url='http://purelang.bitbucket.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

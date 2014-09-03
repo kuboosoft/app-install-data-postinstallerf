@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mtpaint</b>'
+Comment='<span size="xx-large">Painting program for creating icons and pixel-based artwork</span>'
+Comment3='
+mtPaint is a simple painting program designed for creating icons and
+pixel-based artwork. It can edit indexed palette or 24 bit RGB images
+and offers basic painting and palette manipulation tools. Its main
+file format is PNG, although it can also handle JPEG, GIF, TIFF, BMP,
+XPM, and XBM files.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://mtpaint.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

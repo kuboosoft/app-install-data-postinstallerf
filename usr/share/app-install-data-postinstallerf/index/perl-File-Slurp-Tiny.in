@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-File-Slurp-Tiny</b>'
+Comment='<span size="xx-large">A simple, sane and efficient file slurper</span>'
+Comment3='
+This module provides functions for fast and correct slurping and spewing
+of files.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Slurp-Tiny/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

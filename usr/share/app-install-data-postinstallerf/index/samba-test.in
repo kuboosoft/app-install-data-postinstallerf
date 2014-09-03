@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>samba-test</b>'
+Comment='<span size="xx-large">Testing tools for Samba servers and clients</span>'
+Comment3='
+samba4-test provides testing tools for both the server and client
+packages of Samba.
+
+samba-test provides testing tools for both the server and client
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

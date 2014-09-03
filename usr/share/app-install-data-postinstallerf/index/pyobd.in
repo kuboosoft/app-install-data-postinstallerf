@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pyobd</b>'
+Comment='<span size="xx-large">OBD-II (SAE-J1979) compliant scantool software</span>'
+Comment3='
+pyOBD is an OBD-II (SAE-J1979) compliant scantool software written
+entirely in Python. It is meant to interface with the low cost ELM 32x
+devices such as ELM-USB.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.obdtester.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

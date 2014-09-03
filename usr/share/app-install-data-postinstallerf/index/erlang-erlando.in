@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-erlando</b>'
+Comment='<span size="xx-large">A set of syntax extensions for Erlang</span>'
+Comment3='
+A set of syntax extensions for Erlang.
+'
+License='MPLv1.1 and ERPL'
+Screenshot=''
+Url='https://github.com/rabbitmq/erlando'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

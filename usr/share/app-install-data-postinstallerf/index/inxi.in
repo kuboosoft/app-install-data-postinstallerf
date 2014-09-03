@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>inxi</b>'
+Comment='<span size="xx-large">A full featured system information script</span>'
+Comment3='
+Inxi offers a wide range of built-in options, as well as a good number of extra
+features which require having the script recommends installed on the system.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://code.google.com/p/inxi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

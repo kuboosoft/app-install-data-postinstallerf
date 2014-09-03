@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>stax2-api</b>'
+Comment='<span size="xx-large">Experimental API extending basic StAX implementation</span>'
+Comment3='
+StAX2 is an experimental API that is intended to extend
+basic StAX specifications in a way that allows implementations
+to experiment with features before they end up in the actual
+StAX specification (if they do). As such, it is intended
+to be freely implementable by all StAX implementations same way
+as StAX, but without going through a formal JCP process.
+'
+License='BSD'
+Screenshot=''
+Url='http://docs.codehaus.org/display/WSTX/StAX2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-require_all-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-require_all</span>'
+Comment3='
+Documentation for rubygem-require_all.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jarmo/require_all'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

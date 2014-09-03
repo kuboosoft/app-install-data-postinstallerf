@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-symfony-webprofilerbundle</b>'
+Comment='<span size="xx-large">Symfony WebProfiler Bundle</span>'
+Comment3='
+Symfony WebProfiler Bundle
+
+Configuration reference
+http//symfony.com/doc/current/reference/configuration/web_profiler.html
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

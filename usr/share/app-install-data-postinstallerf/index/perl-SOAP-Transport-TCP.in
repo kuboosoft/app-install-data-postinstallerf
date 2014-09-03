@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-SOAP-Transport-TCP</b>'
+Comment='<span size="xx-large">TCP Transport Support for SOAP::Lite</span>'
+Comment3='
+The classes provided by this module implement direct TCP/IP communications
+methods for both clients and servers.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/SOAP-Transport-TCP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

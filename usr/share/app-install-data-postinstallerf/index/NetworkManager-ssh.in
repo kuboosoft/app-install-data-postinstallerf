@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>NetworkManager-ssh</b>'
+Comment='<span size="xx-large">NetworkManager VPN plugin for SSH</span>'
+Comment3='
+This package contains software for integrating VPN capabilities with
+the OpenSSH server with NetworkManager.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/danfruehauf/NetworkManager-ssh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

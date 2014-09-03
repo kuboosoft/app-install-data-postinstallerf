@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xrestop</b>'
+Comment='<span size="xx-large">X Resource Monitor</span>'
+Comment3='
+A utility to monitor application usage of X resources in the X Server, and
+display them in a manner similar to top.  This is a very useful utility
+for tracking down application X resource usage leaks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/Software/xrestop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

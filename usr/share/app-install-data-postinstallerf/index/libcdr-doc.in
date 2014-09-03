@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libcdr-doc</b>'
+Comment='<span size="xx-large">Documentation of libcdr API</span>'
+Comment3='
+The libcdr-doc package contains documentation files for libcdr.
+'
+License='MPLv2.0 and Public Domain'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/libcdr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

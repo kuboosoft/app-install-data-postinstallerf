@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xapian-core-libs</b>'
+Comment='<span size="xx-large">Xapian search engine libraries</span>'
+Comment3='
+Xapian is an Open Source Probabilistic Information Retrieval framework. It
+offers a highly adaptable toolkit that allows developers to easily add advanced
+indexing and search facilities to applications. This package provides the
+libraries for applications using Xapian functionality
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xapian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

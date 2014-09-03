@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>non-ntk</b>'
+Comment='<span size="xx-large">A fork of FLTK for the non audio suite</span>'
+Comment3='
+non-ntk is a fork of the FLTK UI toolkit. It employs cairo support and
+other additions not accepted upstream. It is currently used by the non-*
+audio suite of programs.
+
+'
+License='LGPLv2+ with exceptions and GPLv2+'
+Screenshot=''
+Url='http://non.tuxfamily.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>appliance-tools</b>'
+Comment='<span size="xx-large">Tools for building Appliances</span>'
+Comment3='
+Tools for generating appliance images on Fedora based systems including
+derived distributions such as RHEL, CentOS and others.
+See http//thincrust.net for more details.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://thincrust.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

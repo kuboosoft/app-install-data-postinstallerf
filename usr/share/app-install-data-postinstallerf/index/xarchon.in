@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xarchon</b>'
+Comment='<span size="xx-large">Arcade board game</span>'
+Comment3='
+XArchon is a chess with a twist board game.
+'
+License='GPL+'
+Screenshot=''
+Url='http://xarchon.seul.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

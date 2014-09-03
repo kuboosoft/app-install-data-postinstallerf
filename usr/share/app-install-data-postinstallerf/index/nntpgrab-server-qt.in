@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nntpgrab-server-qt</b>'
+Comment='<span size="xx-large">NNTPGrab server (Qt GUI version)</span>'
+Comment3='
+The NNTPGrab Server is required if you want to use the NNTPGrab webinterface
+or control the program from a remote computer
+
+This the GUI version (based on Qt)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nntpgrab.nl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

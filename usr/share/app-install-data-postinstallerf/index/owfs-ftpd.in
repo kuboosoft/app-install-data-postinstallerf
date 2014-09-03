@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>owfs-ftpd</b>'
+Comment='<span size="xx-large">FTP daemon providing access to 1-Wire networks</span>'
+Comment3='
+owfs-ftpd is a FTP daemon on top of owfs providing access to 1-Wire networks.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.owfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

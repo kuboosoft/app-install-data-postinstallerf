@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>esc</b>'
+Comment='<span size="xx-large">Enterprise Security Client Smart Card Client</span>'
+Comment3='
+Enterprise Security Client allows the user to enroll and manage their
+cryptographic smartcards.
+'
+License='GPL'
+Screenshot=''
+Url='http://directory.fedora.redhat.com/wiki/CoolKey'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

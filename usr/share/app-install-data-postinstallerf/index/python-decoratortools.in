@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-decoratortools</b>'
+Comment3='
+Want to use decorators, but still need to support Python 2.3? Wish you could
+have class decorators, decorate arbitrary assignments, or match decorated
+function signatures to their original functions? Then you need "DecoratorTools"
+'
+License='Python or ZPLv2.1'
+Screenshot=''
+Url='http://pypi.python.org/pypi/DecoratorTools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

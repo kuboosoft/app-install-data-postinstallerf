@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-MooX-Types-MooseLike-Numeric</b>'
+Comment='<span size="xx-large">Moo types for numbers</span>'
+Comment3='
+Moo types for numbers, adapted from MooseXTypesCommonNumeric.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooX-Types-MooseLike-Numeric/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

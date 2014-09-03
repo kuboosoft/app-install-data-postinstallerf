@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-xdot</b>'
+Comment='<span size="xx-large">Interactive viewer for Graphviz dot files</span>'
+Comment3='
+xdot.py is an interactive viewer for graphs written in Graphvizs dot
+language.
+
+Internally it uses the graphvizs xdot output format as an intermediate
+format, and PyGTK and Cairo for rendering.
+xdot.py can be used either as a standalone application from command line
+(as "xdot"), or as a library embedded in a python application.
+'
+License='LGPLv3+ and ASL 1.1'
+Screenshot=''
+Url='https://pypi.python.org/pypi/xdot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

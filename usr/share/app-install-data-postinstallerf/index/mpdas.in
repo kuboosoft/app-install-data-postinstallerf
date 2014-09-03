@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mpdas</b>'
+Comment='<span size="xx-large">An MPD audioscrobbling client</span>'
+Comment3='
+mpdas is a MPD AudioScrobbler client supporting the 2.0 protocol
+specs. It is written in C++ and uses libmpd to retrieve the song
+data from MPD and libcurl to post it to Last.fm
+'
+License='BSD'
+Screenshot=''
+Url='http://50hz.ws/mpdas/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

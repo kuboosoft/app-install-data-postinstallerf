@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-l10n-Portuguese</b>'
+Comment='<span size="xx-large">Portuguese language support for KDE</span>'
+Comment3='
+Portuguese language support for KDE.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

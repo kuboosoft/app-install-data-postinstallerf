@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lightdm-razorqt</b>'
+Comment='<span size="xx-large">LightDM greeter that uses the Razor-qt (Qt based) lib kit</span>'
+Comment3='
+A LightDM greeter that uses the Razor-qt and Qt libraries,
+it was written for Razor-qt but it can be used standalone as well.
+This package is part of the Razor-qt.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://razor-qt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

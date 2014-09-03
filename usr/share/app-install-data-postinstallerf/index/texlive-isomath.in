@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-isomath</b>'
+Comment='<span size="xx-large">Mathematics style for science and technology</span>'
+Comment3='
+The package provides tools for a mathematical style that
+conforms to the International Standard ISO 80000-2 and is
+common in science and technology. It changes the default shape
+of capital Greek letters to italic, sets up bold italic and
+sans-serif bold italic math alphabets with Latin and Greek
+characters, and defines macros for markup of vector, matrix and
+tensor symbols.
+
+date 2012-09-12 184118 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

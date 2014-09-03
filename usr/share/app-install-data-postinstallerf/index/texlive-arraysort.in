@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-arraysort</b>'
+Comment='<span size="xx-large">Sort arrays (or portions of them)</span>'
+Comment3='
+The package provides a mechanism for sorting arrays (or
+portions of them); the arrays should have been created using
+the arrayjobx package.
+
+date 2013-09-04 235027 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

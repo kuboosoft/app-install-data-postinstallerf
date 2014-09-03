@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lincity-ng-data</b>'
+Comment='<span size="xx-large">Data files needed to run lincity-ng</span>'
+Comment3='
+This package contains the data files (graphics, models, audio) necessary to
+play Lincity-NG.
+'
+License='GPLv2+ or CC-BY-SA'
+Screenshot=''
+Url='http://lincity-ng.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

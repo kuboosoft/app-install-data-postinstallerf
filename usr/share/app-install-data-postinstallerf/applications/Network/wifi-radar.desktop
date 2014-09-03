@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n wifi-radar
+Version=1.0
+Type=Application
+Name=WiFi Radar
+GenericName=Wireless tool
+Comment=Tool for connecting to wireless networks
+Icon=/usr/share/app-install-data-postinstallerf/icons/wifi-radar.png
+Categories=Application;Network;

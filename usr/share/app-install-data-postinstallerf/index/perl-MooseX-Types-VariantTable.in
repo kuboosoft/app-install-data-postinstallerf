@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Types-VariantTable</b>'
+Comment='<span size="xx-large">Type constraint based variant table</span>'
+Comment3='
+This object implements a simple dispatch table based on Moose type
+constraints.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Types-VariantTable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

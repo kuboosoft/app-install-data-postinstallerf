@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-sleekxmpp</b>'
+Comment='<span size="xx-large">Flexible XMPP client/component/server library for Python</span>'
+Comment3='
+SleekXMPP is a flexible XMPP library for python that allows
+you to create clients, components or servers for the XMPP protocol.
+Plug-ins can be create to cover every current or future XEP.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/fritzy/SleekXMPP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

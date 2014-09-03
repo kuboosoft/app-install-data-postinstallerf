@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pstoedit-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use pstoedit</span>'
+Comment3='
+This package contains the header files needed for developing pstoedit
+applications
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.pstoedit.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

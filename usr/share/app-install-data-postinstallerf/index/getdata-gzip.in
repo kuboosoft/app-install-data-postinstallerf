@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>getdata-gzip</b>'
+Comment='<span size="xx-large">Enables getdata read ability of gzip compressed dirfiles</span>'
+Comment3='
+Enables getdata to read dirfiles that are encoded (compressed) with gzip.
+Fields must be fully compressed with gzip, not actively being written to.
+Does not yet allow writing of gzip encoded dirfiles.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://getdata.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

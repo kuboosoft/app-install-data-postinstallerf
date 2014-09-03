@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dvdstyler</b>'
+Comment='<span size="xx-large">Cross-platform DVD authoring application</span>'
+Comment3='
+DVDStyler is a cross-platform DVD authoring application that makes possible for
+video enthusiasts to create professional-looking DVDs. It allows users to
+create navigational DVD menus similar to those found on most commercial DVDs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.dvdstyler.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

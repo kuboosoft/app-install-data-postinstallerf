@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-keyring-pam</b>'
+Comment='<span size="xx-large">Pam module for unlocking keyrings</span>'
+Comment3='
+The gnome-keyring-pam package contains a pam module that can
+automatically unlock the "login" keyring when the user logs in.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

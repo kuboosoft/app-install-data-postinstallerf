@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gfs-artemisia-fonts</b>'
+Comment='<span size="xx-large">GFS Artemisia fonts</span>'
+Comment3='
+The type family GFS Artemisia was designed by the painter-engraver Takis
+Katsoulidis and reflects his style and typographic acumen. It is largely his
+effort to offer, from a different perspective, a type face which, like Times
+Greek, would be applicable to a wide spectrum of uses and equally agreeable and
+legible.
+
+The typeface has been digitised by George D. Matthiopoulos.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.greekfontsociety.gr/pages/en_typefaces20th.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

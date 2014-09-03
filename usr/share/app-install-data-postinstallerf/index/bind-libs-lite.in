@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bind-libs-lite</b>'
+Comment='<span size="xx-large">Libraries for working with the DNS protocol</span>'
+Comment3='
+Contains lite version of BIND suite libraries which are used by various
+programs to work with DNS protocol.
+
+'
+License='ISC'
+Screenshot=''
+Url='http://www.isc.org/products/BIND/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

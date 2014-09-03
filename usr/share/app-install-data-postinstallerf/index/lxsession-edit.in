@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lxsession-edit</b>'
+Comment='<span size="xx-large">Simple GUI to configure what?s automatically started in LXDE</span>'
+Comment3='
+LXSession-edit is a tool to manage freedesktop.org compliant desktop session
+autostarts. Currently adding and removing applications from the startup list
+is not yet available, but it will be support in the next release.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lxde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

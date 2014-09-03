@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>makedepf90</b>'
+Comment='<span size="xx-large">Create Makefile dependency list for Fortran source files</span>'
+Comment3='
+Makedepf90 is a program for automatic creation of Makefile dependency
+lists for Fortran source code. Makedepf90 supports MODULEs, INCLUDEs,
+cpp #includes, f90ppr $includes and coco ??includes and set-files.
+
+The original idea was to provide the same functionality for Fortran as
+    gcc -MM *.c
+does for C.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://personal.inet.fi/private/erikedelmann/makedepf90/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

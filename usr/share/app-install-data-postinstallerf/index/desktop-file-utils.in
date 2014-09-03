@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>desktop-file-utils</b>'
+Comment='<span size="xx-large">Utilities for manipulating .desktop files</span>'
+Comment3='
+.desktop files are used to describe an application for inclusion in
+GNOME or KDE menus.  This package contains desktop-file-validate which
+checks whether a .desktop file complies with the specification at
+http//www.freedesktop.org/standards/, and desktop-file-install
+which installs a desktop file to the standard directory, optionally
+fixing it up in the process.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/software/desktop-file-utils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

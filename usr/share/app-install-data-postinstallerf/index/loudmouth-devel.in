@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>loudmouth-devel</b>'
+Comment='<span size="xx-large">Development files for loudmouth</span>'
+Comment3='
+The loudmouth-devel package contains libraries and header files for
+developing applications that use loudmouth.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.loudmouth-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

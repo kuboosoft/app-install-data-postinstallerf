@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mod_selinux</b>'
+Comment='<span size="xx-large">Apache/SELinux plus module</span>'
+Comment3='
+The Apache/SELinux plus is an extra module (mod_selinux.so) which enables
+to launch contents-handler (it means both of references to static contents
+and invocations of web applications) with individual and restrictive
+privileges set, based on http authentication.
+The mod_selinux.so generates a one-time worker thread for each request,
+and it assigns the worker restrictive domain based on the authentication
+prior to launching contents handlers.
+It means we can apply valid access controls on web-applications, and
+makes assurance operating system can prevent violated accesses, even if
+web application contains security bugs or vulnerabilities.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/sepgsql/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

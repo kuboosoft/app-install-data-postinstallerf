@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>seam-solder-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for seam-solder</span>'
+Comment3='
+This package contains javadoc for seam-solder.
+'
+License='ASL 2.0 and LGPLv2+'
+Screenshot=''
+Url='http://seamframework.org/Seam3/Solder'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

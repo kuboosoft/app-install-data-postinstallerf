@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-rat-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for apache-rat</span>'
+Comment3='
+This package contains the API documentation for apache-rat.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://creadur.apache.org/rat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

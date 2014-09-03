@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>nagios-devel</b>'
+Comment='<span size="xx-large">Provides include files that Nagios-related applications may compile against</span>'
+Comment3='
+Nagios is a program that will monitor hosts and services on your
+network. It has the ability to email or page you when a problem arises
+and when a problem is resolved. Nagios is written in C and is
+designed to run under Linux (and some other *NIX variants) as a
+background process, intermittently running checks on various services
+that you specify.
+
+This package provides include files that Nagios-related applications
+may compile against.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nagios.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

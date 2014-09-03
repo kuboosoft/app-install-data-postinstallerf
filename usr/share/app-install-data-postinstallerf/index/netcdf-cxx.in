@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>netcdf-cxx</b>'
+Comment='<span size="xx-large">Legacy netCDF C++ library</span>'
+Comment3='
+Legacy netCDF C++ library.  This library is provided for backward
+compatibility only. New C++ development should be done with the netCDF
+CXX4 C++ library.
+
+'
+License='NetCDF'
+Screenshot=''
+Url='http://www.unidata.ucar.edu/software/netcdf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

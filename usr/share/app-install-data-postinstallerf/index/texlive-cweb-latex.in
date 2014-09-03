@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-cweb-latex</b>'
+Comment='<span size="xx-large">A LaTeX version of CWEB</span>'
+Comment3='
+This bundle allows marking-up of CWEB code in LaTeX. The
+distribution includes the "Counting Words" program distributed
+with CWEB, edited to run with LaTeX.
+
+date 2013-01-19 012539 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

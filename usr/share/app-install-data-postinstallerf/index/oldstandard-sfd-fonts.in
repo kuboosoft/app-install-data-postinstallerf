@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>oldstandard-sfd-fonts</b>'
+Comment='<span size="xx-large">Old Standard True-Type Fonts</span>'
+Comment3='
+The Old Standard font family is an attempt to revive
+a specific type of Modern (classicist) style of serif
+typefaces, very commonly used in various editions
+printed in the late 19th and early 20th century,
+but almost completely  abandoned later.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.thessalonica.org.ru/en/fonts.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

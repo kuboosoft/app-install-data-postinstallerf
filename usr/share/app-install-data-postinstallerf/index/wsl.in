@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wsl</b>'
+Comment='<span size="xx-large">Wsman Shell Command Line "whistle"</span>'
+Comment3='
+WSL (aka "whistle") contains various scripts that serve as a client interface
+to WSMAN or Web Services for Management protocol base on DMTF standard
+specification. WSMAN provides standards based messaging for systems management
+CIM-style objects.
+'
+License='BSD'
+Screenshot=''
+Url='http://linux.dell.com/files/wsl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

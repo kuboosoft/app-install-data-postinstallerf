@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-afrikaans</b>'
+Comment='<span size="xx-large">Afrikaans hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Afrikaans in T1/EC and UTF-8
+encodings. OpenOffice includes older patterns created by a
+different author, but the patterns packaged with TeX are
+considered superior in quality.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

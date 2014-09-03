@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-saslwrapper</b>'
+Comment='<span size="xx-large">Python bindings for saslwrapper</span>'
+Comment3='
+Python bindings for the saslwrapper library.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

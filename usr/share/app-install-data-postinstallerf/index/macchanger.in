@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>macchanger</b>'
+Comment='<span size="xx-large">An utility for viewing/manipulating the MAC address of network interfaces</span>'
+Comment3='
+Features
+  * set specific MAC address of a network interface
+  * set the MAC randomly
+  * set a MAC of another vendor
+  * set another MAC of the same vendor
+  * reset MAC address to its original permanent hardware value
+  * display a vendor MAC list (more than 17000 items)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.alobbs.com/macchanger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

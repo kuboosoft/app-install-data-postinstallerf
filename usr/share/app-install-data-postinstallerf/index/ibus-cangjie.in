@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ibus-cangjie</b>'
+Comment='<span size="xx-large">IBus engine to input Cangjie and Quick</span>'
+Comment3='
+IBus engine for users of the Cangjie and Quick input methods.
+
+It is primarily intended to Hong Kong people who want to input Traditional
+Chinese, as they are (by far) the majority of Cangjie and Quick users.
+However, it should work for others as well (e.g to input Simplified Chinese).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://cangjians.github.io/projects/ibus-cangjie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

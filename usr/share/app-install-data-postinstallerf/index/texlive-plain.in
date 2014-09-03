@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-plain</b>'
+Comment='<span size="xx-large">plain package</span>'
+Comment3='
+plain package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dconf-editor</b>'
+Comment='<span size="xx-large">Configuration editor for dconf</span>'
+Comment3='
+dconf-editor allows you to browse and modify dconf databases.
+'
+License='LGPLv2+ and GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://live.gnome.org/dconf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

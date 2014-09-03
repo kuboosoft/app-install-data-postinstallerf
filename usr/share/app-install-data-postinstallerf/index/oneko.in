@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>oneko</b>'
+Comment='<span size="xx-large">Cat chases the cursor</span>'
+Comment3='
+A cat (neko) chases the cursor (now a mouse) around the screen while you
+work. Alternatively, a dog chases a bone.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.daidouji.com/oneko/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

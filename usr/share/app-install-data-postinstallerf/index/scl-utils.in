@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>scl-utils</b>'
+Comment='<span size="xx-large">Utilities for alternative packaging</span>'
+Comment3='
+Run-time utility for alternative packaging.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/SoftwareCollections/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

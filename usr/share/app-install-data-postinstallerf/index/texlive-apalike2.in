@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-apalike2</b>'
+Comment='<span size="xx-large">Bibliography style that approaches APA requirements</span>'
+Comment3='
+Described as a "local adaptation" of apalike.
+
+date 2009-11-09 130338 +0100
+'
+License='Knuth'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

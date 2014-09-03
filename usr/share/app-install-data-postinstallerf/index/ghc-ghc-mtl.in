@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-ghc-mtl</b>'
+Comment='<span size="xx-large">A mtl compatible with GHC-API monads and monad-transformers</span>'
+Comment3='
+Provides an mtl compatible version of the GhcT
+monad-transformer defined in the GHC-API since version 6.10.1.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/ghc-mtl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

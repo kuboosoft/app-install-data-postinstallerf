@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gitweb</b>'
+Comment='<span size="xx-large">Simple web interface to git repositories</span>'
+Comment3='
+Simple web interface to track changes in git repositories
+'
+License='GPLv2'
+Screenshot=''
+Url='http://git-scm.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

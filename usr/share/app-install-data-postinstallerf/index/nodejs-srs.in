@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-srs</b>'
+Comment='<span size="xx-large">Spatial reference library for Node.js</span>'
+Comment3='
+Bindings to libosr for handling spatial references in Node.js.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/springmeyer/node-srs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

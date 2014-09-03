@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libvoikko</b>'
+Comment='<span size="xx-large">Voikko is a library for spellcheckers and hyphenators</span>'
+Comment3='
+This is libvoikko, library for spellcheckers and hyphenators using Malaga
+natural language grammar development tool. The library is written in C.
+
+Currently only Finnish is supported, but the API of the library has been
+designed to allow adding support for other languages later. Note however that
+Malaga is rather low level tool that requires implementing the whole morphology
+of a language as a left associative grammar. Therefore languages that have
+simple or even moderately complex morphologies and do not require morphological
+analysis in their hyphenators should be implemented using other tools such as
+Hunspell.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://voikko.puimula.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

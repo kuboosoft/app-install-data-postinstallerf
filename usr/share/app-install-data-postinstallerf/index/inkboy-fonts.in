@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>inkboy-fonts</b>'
+Comment='<span size="xx-large">A clean and usable latin fantasy font</span>'
+Comment3='
+This is a clean and usable latin fantasy font.
+'
+License='OFL'
+Screenshot=''
+Url='http://inkboy.fr/html/telechargement-ressources.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

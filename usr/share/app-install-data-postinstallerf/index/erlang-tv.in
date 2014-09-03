@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-tv</b>'
+Comment='<span size="xx-large">An ETS and MNESIA graphical table visualizer</span>'
+Comment3='
+An ETS and MNESIA graphical table visualizer.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

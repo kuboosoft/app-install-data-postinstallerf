@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-cv</b>'
+Comment='<span size="xx-large">Chuvash hunspell dictionaries</span>'
+Comment3='
+Chuvash hunspell dictionaries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://hunspell.chv.su/download.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

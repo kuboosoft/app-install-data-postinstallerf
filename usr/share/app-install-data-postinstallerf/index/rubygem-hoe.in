@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>rubygem-hoe</b>'
+Comment='<span size="xx-large">Hoe is a simple rake/rubygems helper for project Rakefiles</span>'
+Comment3='
+Hoe is a rake/rubygems helper for project Rakefiles. It helps generate
+rubygems and includes a dynamic plug-in system allowing for easy
+extensibility. Hoe ships with plug-ins for all your usual project
+tasks including rdoc generation, testing, packaging, and deployment.
+Plug-ins Provided
+* HoeClean
+* HoeDebug
+* HoeDeps
+* HoeFlay
+* HoeFlog
+'
+License='MIT'
+Screenshot=''
+Url='http://rubyforge.org/projects/seattlerb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

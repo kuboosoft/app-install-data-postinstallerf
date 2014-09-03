@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-makebarcode</b>'
+Comment='<span size="xx-large">Print various kinds 2/5 and Code 39 bar codes</span>'
+Comment3='
+The package contains macros for printing various 2/5 bar codes
+and Code 39 bar codes. The macros do not use fonts but create
+the bar codes directly using vertical rules. It is therefore
+possible to vary width to height ratio, ratio of thin and thick
+bars. The package is therefore convenient for printing ITF bar
+codes as well as bar codes for identification labels for HP
+storage media.
+
+date 2008-08-22 151959 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

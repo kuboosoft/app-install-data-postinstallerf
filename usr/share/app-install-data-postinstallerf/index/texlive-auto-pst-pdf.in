@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-auto-pst-pdf</b>'
+Comment='<span size="xx-large">Wrapper for pst-pdf (with some psfrag features)</span>'
+Comment3='
+necessary. This makes it especially easy to integrate into the
+workflow of an editor with just "LaTeX" and "pdfLaTeX" buttons.
+Wrappers are provided for various psfrag-related features so
+that Matlab figures via laprint, Mathematica figures via
+MathPSfrag, and regular psfrag figures can all be input
+consistently and easily.
+
+date 2011-08-27 233014 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

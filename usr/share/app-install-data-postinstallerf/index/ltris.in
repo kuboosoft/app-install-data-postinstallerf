@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ltris</b>'
+Comment='<span size="xx-large">Game of skill with falling blocks</span>'
+Comment3='
+LTris as a tetris clone which means you have a bowl with blocks falling down.
+By rotating and moving the blocks you try to assemble whole lines which then
+disappear. LTris has three modes for this Classic is the classical one where
+you play until the bowl becomes filled, Figures resets the bowl contents to a
+new figure for each level and adds suddenly appearing tiles and lines later
+on and Multiplayer where up to three players either controlled by human or
+CPU(!) compete and send completed lines to each other.
+'
+License='GPL'
+Screenshot=''
+Url='http://lgames.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xgridedit</b>'
+Comment='<span size="xx-large">GMT grid code graphical editor</span>'
+Comment3='
+XGridEdit is an application for viewing and editing the numerical values in
+GMT 2 dimensional grids.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gmt.soest.hawaii.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnucash-docs</b>'
+Comment='<span size="xx-large">Help files and documentation for the GnuCash personal finanace manager</span>'
+Comment3='
+GnuCash is a personal finance manager. gnucash-docs contains the
+help files and documentation for GnuCash.
+'
+License='GFDL'
+Screenshot=''
+Url='http://gnucash.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

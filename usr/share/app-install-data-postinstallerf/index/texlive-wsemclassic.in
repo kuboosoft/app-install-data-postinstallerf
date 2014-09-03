@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-wsemclassic</b>'
+Comment='<span size="xx-large">LaTeX class for Bavarian school w-seminar papers</span>'
+Comment3='
+The class is designed either to conform with the
+recommendations of the Bavarian Kultusministerium for
+typesetting w-seminar papers (strict mode), or to use another
+style which should look better. The class is based on the LaTeX
+standard report class.
+
+date 2013-08-27 151332 +0200
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

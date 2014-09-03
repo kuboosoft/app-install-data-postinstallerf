@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmatekbd</b>'
+Comment='<span size="xx-large">Libraries for mate kbd</span>'
+Comment3='
+Libraries for matekbd
+
+URL          http//mate-desktop.org
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

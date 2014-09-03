@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>publican-redhat-web</b>'
+Comment='<span size="xx-large">Web styles for RedHat</span>'
+Comment3='
+Web Site common files for the RedHat brand.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedorahosted.org/publican'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

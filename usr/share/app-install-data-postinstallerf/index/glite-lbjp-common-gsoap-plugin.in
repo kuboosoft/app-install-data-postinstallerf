@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>glite-lbjp-common-gsoap-plugin</b>'
+Comment='<span size="xx-large">Plugin for gSoap to use glite-security-gss as the communication layer</span>'
+Comment3='
+glite-security-gsoap-plugin is plugin for gSoap providing secured communication
+via GSS, as well as strict timing control of all operations via
+glite-security-gss.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libguac-client-ssh</b>'
+Comment='<span size="xx-large">SSH support for guacd</span>'
+Comment3='
+libguac-client-ssh is a protocol support plugin for the Guacamole proxy (guacd)
+which provides support for SSH, the secure shell.
+
+'
+License='MPLv1.1 or GPLv2+'
+Screenshot=''
+Url='http://guac-dev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>net6</b>'
+Comment='<span size="xx-large">A TCP protocol abstraction for library C++</span>'
+Comment3='
+net6 is a library which eases the development of network-based applications
+as it provides a TCP protocol abstraction for C++. It is portable to both
+the Windows and Unix-like platforms.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://releases.0x539.de/net6/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

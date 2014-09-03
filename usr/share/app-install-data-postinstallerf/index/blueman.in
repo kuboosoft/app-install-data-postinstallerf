@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>blueman</b>'
+Comment='<span size="xx-large">GTK+ Bluetooth Manager</span>'
+Comment3='
+Blueman is a tool to use Bluetooth devices. It is designed to provide simple,
+yet effective means for controlling BlueZ API and simplifying bluetooth tasks
+such as
+- Connecting to 3G/EDGE/GPRS via dial-up
+- Connecting to/Creating bluetooth networks
+- Connecting to input devices
+- Connecting to audio devices
+- Sending/Receiving/Browsing files via OBEX
+- Pairing
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://blueman-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

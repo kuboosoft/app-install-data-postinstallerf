@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-File-Spec-Native</b>'
+Comment='<span size="xx-large">Use native OS implementation of File::Spec from a subclass</span>'
+Comment3='
+This module is a stupid hack to make the default FileSpec behavior
+available from a subclass. This can be useful when using another module
+that expects a subclass of FileSpec but you want to use the current,
+native OS format (automatically detected by FileSpec).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Spec-Native/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>qemu-sanity-check-nodeps</b>'
+Comment='<span size="xx-large">Simple qemu and Linux kernel sanity checker (no dependencies)</span>'
+Comment3='
+This is the no-depedencies version of qemu-sanity-check.  It is exactly the same
+as qemu-sanity-check except that this package does not depend on qemu or kernel.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://people.redhat.com/~rjones/qemu-sanity-check'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

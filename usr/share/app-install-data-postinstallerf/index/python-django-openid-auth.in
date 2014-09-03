@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-django-openid-auth</b>'
+Comment='<span size="xx-large">OpenID integration for django.contrib.auth</span>'
+Comment3='
+A library that can be used to add OpenID support to Django applications.
+The library integrates with Djangos built in authentication system, so
+most applications require minimal changes to support OpenID login.
+'
+License='BSD'
+Screenshot=''
+Url='https://launchpad.net/django-openid-auth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

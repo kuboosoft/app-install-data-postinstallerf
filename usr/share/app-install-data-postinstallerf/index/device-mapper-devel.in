@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>device-mapper-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for device-mapper</span>'
+Comment3='
+This package contains files needed to develop applications that use
+the device-mapper libraries.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sources.redhat.com/lvm2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

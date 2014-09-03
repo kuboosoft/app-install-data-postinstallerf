@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>echolib-devel</b>'
+Comment='<span size="xx-large">Development files for the EchoLink communications library</span>'
+Comment3='
+Development files for the EchoLink communications library
+
+URL          http//svxlink.sourceforge.net
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://svxlink.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

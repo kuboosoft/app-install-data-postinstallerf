@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libzen</b>'
+Comment='<span size="xx-large">Shared library for libmediainfo and medianfo*</span>'
+Comment3='
+Files shared library for libmediainfo and medianfo-*.
+
+URL          http//sourceforge.net/projects/zenlib
+'
+License='zlib'
+Screenshot=''
+Url='http://sourceforge.net/projects/zenlib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

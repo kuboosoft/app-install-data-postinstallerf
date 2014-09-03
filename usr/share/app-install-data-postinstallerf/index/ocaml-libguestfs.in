@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ocaml-libguestfs</b>'
+Comment='<span size="xx-large">OCaml bindings for libguestfs</span>'
+Comment3='
+ocaml-libguestfs contains OCaml bindings for libguestfs.
+
+This is for toplevel and scripting access only.  To compile OCaml
+programs which use libguestfs you will also need ocaml-libguestfs-devel.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

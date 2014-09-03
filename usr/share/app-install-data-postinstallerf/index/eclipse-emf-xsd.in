@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>eclipse-emf-xsd</b>'
+Comment='<span size="xx-large">XML Schema Definition (XSD) Eclipse plugin</span>'
+Comment3='
+The XML Schema Definition (XSD) plugin is a library that provides an API for
+manipulating the components of an XML Schema as described by the W3C XML
+Schema specifications, as well as an API for manipulating the DOM-accessible
+representation of XML Schema as a series of XML documents.
+'
+License='EPL'
+Screenshot=''
+Url='https://projects.eclipse.org/projects/modeling.emf.emf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

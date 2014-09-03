@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>boost-python3-devel</b>'
+Comment='<span size="xx-large">Shared object symbolic links for Boost.Python 3</span>'
+Comment3='
+
+Shared object symbolic links for Python 3 variant of Boost.Python.
+'
+License='Boost and MIT and Python'
+Screenshot=''
+Url='http://www.boost.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

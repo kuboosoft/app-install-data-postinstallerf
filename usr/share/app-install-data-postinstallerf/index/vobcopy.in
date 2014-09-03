@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>vobcopy</b>'
+Comment='<span size="xx-large">Utility to copy DVD .vob files to disk</span>'
+Comment3='
+Vobcopy copies DVD .vob files to disk, decrypting them on the way (thanks to
+libdvdread and libdvdcss) and merges them into file(s) with the name extracted
+from the DVD. There is one drawback though at the moment vobcopy doesnt deal
+with multi-angle-dvds. But since these are rather sparse this shouldnt
+matter much.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://vobcopy.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

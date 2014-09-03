@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libxcb</b>'
+Comment='<span size="xx-large">A C binding to the X11 protocol</span>'
+Comment3='
+The X protocol C-language Binding (XCB) is a replacement for Xlib featuring a
+small footprint, latency hiding, direct access to the protocol, improved
+threading support, and extensibility.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://xcb.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

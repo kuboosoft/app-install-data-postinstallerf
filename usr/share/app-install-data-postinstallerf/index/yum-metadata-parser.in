@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>yum-metadata-parser</b>'
+Comment='<span size="xx-large">A fast metadata parser for yum</span>'
+Comment3='
+Fast metadata parser for yum implemented in C.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://linux.duke.edu/projects/yum/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

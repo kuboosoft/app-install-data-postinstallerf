@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ht</b>'
+Comment='<span size="xx-large">File editor/viewer/analyzer for executables</span>'
+Comment3='
+HT is a file editor/viewer/analyzer for executables. The goal is to combine
+the low-level functionality of a debugger and the usability of IDEs. We plan
+to implement all (hex-)editing features and support of the most important
+file formats.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hte.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

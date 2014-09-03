@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-authlogic</b>'
+Comment='<span size="xx-large">A clean, simple, and unobtrusive ruby authentication solution</span>'
+Comment3='
+A clean, simple, and unobtrusive ruby authentication solution.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/binarylogic/authlogic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

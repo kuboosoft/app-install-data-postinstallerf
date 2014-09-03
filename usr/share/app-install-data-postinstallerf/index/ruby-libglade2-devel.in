@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ruby-libglade2-devel</b>'
+Comment='<span size="xx-large">Development libraries and header files for ruby-libglade2</span>'
+Comment3='
+Ruby/Libglade2 is a Ruby bindings of Libglade2.
+This package provides libraries and header files for ruby-libglade2
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

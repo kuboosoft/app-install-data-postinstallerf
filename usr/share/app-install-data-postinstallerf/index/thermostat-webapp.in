@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>thermostat-webapp</b>'
+Comment='<span size="xx-large">Web storage for Thermostat</span>'
+Comment='<span size="xx-large">Web storage endpoint for Thermostat</span>'
+Comment3='
+This package contains the exploded web archive which installs into
+tomcats webapps directory.
+
+This package contains the exploded web archive. This web application
+contains the server-side parts for deploying thermostat with improved
+security.
+'
+License='GPLv2+ with exceptions'
+License='GPLv2+ with exceptions and OFL'
+Screenshot=''
+Url='http://icedtea.classpath.org/thermostat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

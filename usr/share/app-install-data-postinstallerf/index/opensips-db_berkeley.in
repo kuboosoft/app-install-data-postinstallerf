@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>opensips-db_berkeley</b>'
+Comment='<span size="xx-large">Berkeley DB backend support</span>'
+Comment3='
+This is a module which integrates the Berkeley DB into OpenSIPS. It implements
+the DB API defined in OpenSIPS.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

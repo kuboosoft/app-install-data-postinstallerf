@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-mtlparse</b>'
+Comment='<span size="xx-large">Parse library using mtl package</span>'
+Comment3='
+The library provides Parse and ParseT like State and StateT,
+and eases the implementation of look-ahead and look-behind parsers.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/mtlparse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

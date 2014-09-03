@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tcl-html</b>'
+Comment='<span size="xx-large">Tcl/Tk manual in html format</span>'
+Comment3='
+Tcl/Tk is a powerful scripting language and GUI toolkit.
+
+This package contains the html manual.
+'
+License='TCL'
+Screenshot=''
+Url='http://tcl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

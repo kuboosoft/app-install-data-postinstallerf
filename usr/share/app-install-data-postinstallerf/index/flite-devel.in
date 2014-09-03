@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>flite-devel</b>'
+Comment='<span size="xx-large">Development files for flite</span>'
+Comment3='
+Development files for Flite, a small, fast speech synthesis engine.
+
+URL          http//www.speech.cs.cmu.edu/flite/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.speech.cs.cmu.edu/flite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

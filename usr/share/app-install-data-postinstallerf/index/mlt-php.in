@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mlt-php</b>'
+Comment='<span size="xx-large">PHP package to work with MLT</span>'
+Comment3='
+This module allows to work with MLT using PHP.
+'
+License='GPLv3 and LGPLv2+'
+Screenshot=''
+Url='http://www.mltframework.org/twiki/bin/view/MLT/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

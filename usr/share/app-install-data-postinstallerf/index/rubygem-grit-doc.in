@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-grit-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-grit</span>'
+Comment3='
+Documentation for rubygem-grit
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/mojombo/grit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>resapplet</b>'
+Comment='<span size="xx-large">Resolution Switching Applet</span>'
+Comment3='
+Resapplet is a simple utility that sits in the system notification area
+and allows switching the resolution and refresh rate.  It uses the
+xrandr extensions to switch the resolution on-the-fly and user
+resolution preferences to save the resolution.
+
+It works in both GNOME and KDE, because it uses the system notification
+area.
+'
+License='GPLv2+ and GPLv2'
+Screenshot=''
+Url='http://svn.gnome.org/viewcvs/resapplet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

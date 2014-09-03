@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-dice</b>'
+Comment='<span size="xx-large">A font for die faces</span>'
+Comment3='
+A Metafont font that can produce die faces in 2D or with
+various 3D effects.
+
+date 2012-12-11 202418 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

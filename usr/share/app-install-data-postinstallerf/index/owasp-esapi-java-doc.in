@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>owasp-esapi-java-doc</b>'
+Comment='<span size="xx-large">Documentation for owasp-esapi-java</span>'
+Comment3='
+This package contains the documentation for owasp-esapi-java.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://code.google.com/p/owasp-esapi-java/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

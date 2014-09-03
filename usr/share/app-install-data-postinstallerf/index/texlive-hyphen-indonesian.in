@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-indonesian</b>'
+Comment='<span size="xx-large">Indonesian hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Indonesian (Bahasa Indonesia) in ASCII
+encoding.  They are probably also usable for Malay (Bahasa
+Melayu).
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

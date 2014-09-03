@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>fawkes</b>'
+Comment='<span size="xx-large">Robot Software Framework</span>'
+Comment3='
+Fawkes is a component-based software framework for robotic real-time
+applications for various platforms and domains.
+
+It was developed for cognitive robotics real-time applications like soccer
+and service robotics and supports fast information exchange and efficient
+combination and coordination of different components to suit the needs of
+mobile robots operating in uncertain environments.
+Install this meta package to get a useful Fawkes base system.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Module-Load</b>'
+Comment='<span size="xx-large">Run-time require of both modules and files</span>'
+Comment3='
+If you consult "perldoc -f require" you will see that "require" will behave
+differently when given a bare-word or a string. In the case of a string,
+"require" assumes you are wanting to load a file. But in the case of
+a bare-word, it assumes you mean a module.
+
+This gives nasty overhead when you are trying to dynamically require modules
+at run-time, since you will need to change the module notation to a file
+notation fitting the particular platform you are on.
+"load" eliminates the need for this overhead and will just DWYM.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Load/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

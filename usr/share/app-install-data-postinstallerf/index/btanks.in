@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>btanks</b>'
+Comment='<span size="xx-large">Funny battle on your desk</span>'
+Comment3='
+Battle Tanks is a funny battle on your desk, where you can choose one of three
+vehicles and eliminate your enemy using the whole arsenal of weapons. has
+original cartoon-like graphics and cool music, it is fun and dynamic, it has
+several network modes for deathmatch and cooperative.
+What else is needed to have fun with your friends?
+
+And all is packed and ready for you in Battle Tanks.
+'
+License='GPLv2+ with exceptions and LGPLv2+'
+Screenshot=''
+Url='http://btanks.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

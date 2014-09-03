@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sugar-browse</b>'
+Comment='<span size="xx-large">Browse activity for Sugar</span>'
+Comment3='
+A browser for the Sugar platform based on the WebKit web browser
+engine.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Browse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>drupal6-yubikey</b>'
+Comment='<span size="xx-large">Provides YubiKey based strong two-factor user authentication capabilities</span>'
+Comment3='
+YubiKey is a secure method for logging into many websites using a
+cryptographically secure USB token. It does not require special
+software, and since it does not generate the same OTP (One Time
+Password) more than once, nothing is shared among associated sites.
+Users can assign one or more YubiKeys to an existing account, and
+log in using a YubiKey. This offers additional security to the users
+even over insecure connections.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/yubikey'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

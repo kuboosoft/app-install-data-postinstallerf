@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-lt3graph</b>'
+Comment='<span size="xx-large">Provide a graph datastructure for experimental LaTeX3</span>'
+Comment3='
+The package defines a graph data structure, for use in
+documents that are using the experimental LaTeX 3 syntax.
+
+date 2013-12-08 001137 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

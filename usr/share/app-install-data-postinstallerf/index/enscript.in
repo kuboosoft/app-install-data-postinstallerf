@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>enscript</b>'
+Comment='<span size="xx-large">A plain ASCII to PostScript converter</span>'
+Comment3='
+GNU enscript is a free replacement for Adobes Enscript
+program. Enscript converts ASCII files to PostScript(TM) and spools
+generated PostScript output to the specified printer or saves it to a
+file. Enscript can be extended to handle different output media and
+includes many options for customizing printouts
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/enscript'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

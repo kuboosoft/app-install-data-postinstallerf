@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-xmlbuilder</b>'
+Comment='<span size="xx-large">An XML builder for Node.js</span>'
+Comment3='
+An XMLBuilder for Node.js similar to java-xmlbuilder.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/oozcitak/xmlbuilder-js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

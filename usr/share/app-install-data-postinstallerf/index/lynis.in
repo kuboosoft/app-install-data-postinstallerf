@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>lynis</b>'
+Comment='<span size="xx-large">Security and system auditing tool</span>'
+Comment3='
+Lynis is an auditing and hardening tool for Unix/Linux and you might even call
+it a compliance tool. It scans the system and installed software. Then it
+performs many individual security control checks. It determines the hardening
+state of the machine, detects security issues and provides suggestions to
+improve the security defense of the system.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://cisofy.com/lynis/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

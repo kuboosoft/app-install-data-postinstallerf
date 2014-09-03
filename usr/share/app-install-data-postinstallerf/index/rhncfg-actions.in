@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rhncfg-actions</b>'
+Comment='<span size="xx-large">Spacewalk Configuration Client Actions</span>'
+Comment3='
+The code required to run configuration actions scheduled via the RHN Classic website or Red Hat Satellite or Spacewalk.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>audacious-plugins</b>'
+Comment='<span size="xx-large">Plugins for the Audacious audio player</span>'
+Comment3='
+This package provides essential plugins for the Audacious audio player.
+'
+License='GPLv2+ and LGPLv2+ and GPLv3 and MIT and BSD'
+Screenshot=''
+Url='http://audacious-media-player.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

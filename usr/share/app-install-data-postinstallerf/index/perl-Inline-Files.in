@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Inline-Files</b>'
+Comment='<span size="xx-large">Allows for multiple inline files in a single perl file</span>'
+Comment3='
+InlineFiles generalizes the notion of the `__DATA__ marker and the
+associated `<DATA> file handle, to an arbitrary number of markers and
+associated file handles.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Inline-Files/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

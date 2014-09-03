@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>imagefactory-plugins-Rackspace</b>'
+Comment='<span size="xx-large">Cloud plugin for Rackspace</span>'
+Comment3='
+A Cloud plugin to support Rackspace
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.aeolusproject.org/imagefactory.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

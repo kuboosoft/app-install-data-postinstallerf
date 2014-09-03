@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>valkyrie</b>'
+Comment='<span size="xx-large">Graphical User Interface for Valgrind Suite</span>'
+Comment3='
+Valkyrie is a graphical user interface to the Valgrind suite
+of tools for debugging and profiling programs.  It makes use
+of the XML output capabilities offered by Valgrind.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.valgrind.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

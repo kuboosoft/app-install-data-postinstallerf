@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jaxb2-common-basics</b>'
+Comment='<span size="xx-large">JAXB2 Basics</span>'
+Comment3='
+JAXB2 Basics is a part of JAXB2 Commons project which
+implements plugins and tools for JAXB 2.x reference
+implementation.
+'
+License='BSD'
+Screenshot=''
+Url='http://java.net/projects/jaxb2-commons/pages/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

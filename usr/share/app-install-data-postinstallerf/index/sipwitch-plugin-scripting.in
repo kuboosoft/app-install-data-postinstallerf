@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sipwitch-plugin-scripting</b>'
+Comment='<span size="xx-large">Scripting plugin for sipwitch</span>'
+Comment3='
+This plugin enables shell scripting in connection with specific sipwitch
+events.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/sipwitch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

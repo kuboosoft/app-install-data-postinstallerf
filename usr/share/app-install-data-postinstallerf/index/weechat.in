@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>weechat</b>'
+Comment='<span size="xx-large">Portable, fast, light and extensible IRC client</span>'
+Comment3='
+WeeChat (Wee Enhanced Environment for Chat) is a portable, fast, light and
+extensible IRC client. Everything can be done with a keyboard.
+It is customizable and extensible with scripts.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://weechat.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qdigidoc</b>'
+Comment='<span size="xx-large">Estonian digital signature application</span>'
+Comment3='
+QDigiDoc is an application for digitally signing and encrypting documents in
+BDoc, DDoc, and CDoc container formats. These file formats are widespread in
+Estonia where they are used for storing legally binding digital signatures.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/esteid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>detox</b>'
+Comment='<span size="xx-large">Utility to replace problematic characters in file names</span>'
+Comment3='
+Detox is a utility designed to clean up file names. It replaces difficult to
+work with characters, such as spaces, with standard equivalents. It will also
+clean up file names with UTF-8 or Latin-1 (or CP-1252) characters in them.
+'
+License='BSD'
+Screenshot=''
+Url='http://detox.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

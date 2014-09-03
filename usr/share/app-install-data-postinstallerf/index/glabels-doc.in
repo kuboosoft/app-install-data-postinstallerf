@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glabels-doc</b>'
+Comment='<span size="xx-large">Runtime documentation for glabels</span>'
+Comment3='
+This package contains the runtime documentation and manual pages for glabels.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://www.glabels.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

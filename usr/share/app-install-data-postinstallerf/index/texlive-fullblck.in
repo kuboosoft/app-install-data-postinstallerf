@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-fullblck</b>'
+Comment='<span size="xx-large">Left-blocking for letter class</span>'
+Comment3='
+Used with the letter documentclass to set the letter in a
+fullblock style (everything at the left margin).
+
+date 2008-09-12 113607 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pear-HTML-QuickForm-advmultiselect</b>'
+Comment='<span size="xx-large">Element for HTML_QuickForm that emulate a multi-select</span>'
+Comment3='
+The HTML_QuickForm_advmultiselect package adds an element to the
+HTML_QuickForm package that is two select boxes next to each other
+emulating a multi-select.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/HTML_QuickForm_advmultiselect'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

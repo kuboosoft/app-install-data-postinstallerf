@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gkrellm-wifi</b>'
+Comment='<span size="xx-large">Wireless monitor plugin for the GNU Krell Monitors</span>'
+Comment3='
+Plug-in for gkrellm (a system monitor) which monitors the wireless LAN cards in
+your PC and displays a graph of the link quality percentage for each card.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gkrellm.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

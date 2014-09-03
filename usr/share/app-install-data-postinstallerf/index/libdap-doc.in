@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libdap-doc</b>'
+Comment='<span size="xx-large">Documentation of the libdap library</span>'
+Comment3='
+Documentation of the libdap library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opendap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

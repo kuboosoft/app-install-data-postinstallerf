@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ifuse</b>'
+Comment='<span size="xx-large">Mount Apple iPhone and iPod touch devices</span>'
+Comment3='
+A fuse filesystem for mounting iPhone and iPod touch devices
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.libimobiledevice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

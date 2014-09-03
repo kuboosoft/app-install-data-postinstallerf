@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>golang-src</b>'
+Comment='<span size="xx-large">Golang compiler source tree</span>'
+Comment3='
+Golang compiler source tree
+'
+License='BSD'
+Screenshot=''
+Url='http://golang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glite-lbjp-common-trio</b>'
+Comment='<span size="xx-large">Standalone extended implementation of printf and scanf</span>'
+Comment3='
+Standalone extended implementation of printf and scanf. Provides specialized
+formatting options used by Logging and Bookkeeping and Job Provenance.
+
+'
+License='ASL 2.0 and ISC'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

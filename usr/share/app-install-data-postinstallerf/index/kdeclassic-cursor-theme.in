@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdeclassic-cursor-theme</b>'
+Comment='<span size="xx-large">KDE Classic cursor theme</span>'
+Comment3='
+KDE Classic cursor theme.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-workspace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

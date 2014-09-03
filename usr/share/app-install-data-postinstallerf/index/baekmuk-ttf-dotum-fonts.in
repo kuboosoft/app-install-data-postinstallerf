@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>baekmuk-ttf-dotum-fonts</b>'
+Comment='<span size="xx-large">Korean Baekmuk TrueType Dotum typeface</span>'
+Comment3='
+
+This package provides the free Korean TrueType fonts.
+Dotum is Korean TrueType font in San-serif typeface.
+'
+License='Baekmuk'
+Screenshot=''
+Url='http://kldp.net/projects/baekmuk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>CTL-docs</b>'
+Comment='<span size="xx-large">Documentation for CTL</span>'
+Comment3='
+This package contains documentation files for CTL.
+'
+License='AMPAS BSD'
+Screenshot=''
+Url='http://ampasctl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

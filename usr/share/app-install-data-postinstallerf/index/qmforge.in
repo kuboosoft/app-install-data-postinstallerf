@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qmforge</b>'
+Comment='<span size="xx-large">Analysis tools for quantum mechanical calculations</span>'
+Comment3='
+QMForge reads output from various quantum mechanical calculations and provides
+tools for analyzing these results. Specifically, population (Mulliken and
+C-squared), fragment, and charge decomposition analyses are available.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qmforge.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

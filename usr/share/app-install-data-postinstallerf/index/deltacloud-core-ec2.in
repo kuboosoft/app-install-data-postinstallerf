@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>deltacloud-core-ec2</b>'
+Comment='<span size="xx-large">Deltacloud Core for EC2</span>'
+Comment3='
+The ec2 sub-package brings in all dependencies necessary to use deltacloud
+core to connect to EC2.
+'
+License='ASL 2.0 and MIT'
+Screenshot=''
+Url='http://deltacloud.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-openid</b>'
+Comment='<span size="xx-large">Python OpenID libraries</span>'
+Comment3='
+The OpenID library with batteries included.
+
+Features of the 2.x.x series include
+ * Refined and easy-to-use API.
+ * Extensive documentation.
+ * Many storage implemetations including file-based, sqlite,
+   postgresql, and mysql.
+ * Simple examples to help you get started.
+ * Licensed under the Apache Software License.
+'
+License='ASL 2.0'
+ * Licensed under the Apache Software License.'
+Screenshot=''
+Url='http://github.com/openid/python-openid'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

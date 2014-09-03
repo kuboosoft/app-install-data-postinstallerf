@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-kpathsea</b>'
+Comment='<span size="xx-large">Path searching library for TeX-related files</span>'
+Comment3='
+Kpathsea is a library and utility programs which provide path
+searching facilities for TeX file types, including the self-
+locating feature required for movable installations, layered on
+top of a general search mechanism. It is not distributed
+separately, but rather is released and maintained as part of
+the TeX live sources.
+
+date 2012-03-14 123842 +0100
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>garcon-devel</b>'
+Comment='<span size="xx-large">Development files for garcon</span>'
+Comment3='
+The garcon-devel package contains libraries and header files for
+developing applications that use garcon.
+
+'
+License='LGPLv2+ and GFDL'
+Screenshot=''
+Url='http://xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

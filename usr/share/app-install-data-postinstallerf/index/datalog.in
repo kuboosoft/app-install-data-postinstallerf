@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>datalog</b>'
+Comment='<span size="xx-large">A Lightweight Deductive Database using Datalog</span>'
+Comment3='
+This package contains a lightweight deductive database system.
+declarative logic language in which each formula is a function-free
+Horn clause, and every variable in the head of a clause must appear in
+the body of the clause.  The use of Datalog syntax and an
+implementation based on tabling intermediate results, ensures that all
+queries terminate.
+
+The components in this package are designed to be small, and usable on
+memory constrained devices.  The package includes an interactive
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/datalog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

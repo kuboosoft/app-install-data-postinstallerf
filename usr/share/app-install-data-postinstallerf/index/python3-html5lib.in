@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-html5lib</b>'
+Comment='<span size="xx-large">A python based HTML parser/tokenizer</span>'
+Comment3='
+A python based HTML parser/tokenizer based on the WHATWG HTML5
+specification for maximum compatibility with major desktop web browsers.
+'
+License='MIT'
+Screenshot=''
+Url='https://pypi.python.org/pypi/html5lib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

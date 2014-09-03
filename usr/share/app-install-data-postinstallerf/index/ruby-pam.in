@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-pam</b>'
+Comment='<span size="xx-large">Ruby-pam bindings exposed outside of gem</span>'
+Comment3='
+Ruby bindings for pam not exposed via a gem
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://rubyforge.org/projects/ruby-pam'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

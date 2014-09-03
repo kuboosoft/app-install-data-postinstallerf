@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>astronomy-backgrounds</b>'
+Comment='<span size="xx-large">Desktop wallpapers with Astronomy theme</span>'
+Comment3='
+The astronomy-backgrounds package contains astronomy
+related artwork intended to be used as desktop background image.
+'
+License='CC-BY'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/SIGs/Astronomy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

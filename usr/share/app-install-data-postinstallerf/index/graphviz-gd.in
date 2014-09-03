@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>graphviz-gd</b>'
+Comment='<span size="xx-large">Graphviz plugin for renderers based on gd</span>'
+Comment3='
+Graphviz plugin for renderers based on gd.  (Unless you absolutely have to use
+GIF, you are recommended to use the PNG format instead because of the better
+quality anti-aliased lines provided by the cairo+pango based renderer.)
+
+'
+License='EPL'
+Screenshot=''
+Url='http://www.graphviz.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

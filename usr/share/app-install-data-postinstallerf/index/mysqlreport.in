@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mysqlreport</b>'
+Comment='<span size="xx-large">A friendly report of important MySQL status values</span>'
+Comment3='
+mysqlreport makes a friendly report of important MySQL status values.  It
+transforms the values from SHOW STATUS into an easy-to-read report that
+provides an in-depth understanding of how well MySQL is running, and is a
+better alternative (and practically the only alternative) to manually
+interpreting SHOW STATUS.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hackmysql.com/mysqlreport'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

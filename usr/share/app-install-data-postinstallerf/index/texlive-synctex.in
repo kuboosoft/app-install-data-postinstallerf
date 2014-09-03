@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-synctex</b>'
+Comment='<span size="xx-large">synctex package</span>'
+Comment3='
+synctex package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

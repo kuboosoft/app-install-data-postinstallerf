@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nagios-plugins</b>'
+Comment='<span size="xx-large">Host/service/network monitoring program plugins for Nagios</span>'
+Comment3='
+Nagios is a program that will monitor hosts and services on your
+network, and to email or page you when a problem arises or is
+resolved. Nagios runs on a Unix server as a background or daemon
+process, intermittently running checks on various services that you
+specify. The actual service checks are performed by separate "plugin"
+programs which return the status of the checks to Nagios. This package
+contains those plugins.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://nagiosplug.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

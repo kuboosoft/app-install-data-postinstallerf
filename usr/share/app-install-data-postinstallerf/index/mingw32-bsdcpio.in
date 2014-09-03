@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw32-bsdcpio</b>'
+Comment='<span size="xx-large">MinGW package for bsdcpio utility</span>'
+Comment3='
+The bsdcpio package contains standalone bsdcpio utility split off regular
+libarchive packages.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.libarchive.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openvswitch-controller</b>'
+Comment='<span size="xx-large">Open vSwitch OpenFlow controller</span>'
+Comment3='
+Simple reference implementation of an OpenFlow controller for Open
+vSwitch. Manages any number of remote switches over OpenFlow protocol,
+causing them to function as L2 MAC-learning switches or hub.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://openvswitch.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

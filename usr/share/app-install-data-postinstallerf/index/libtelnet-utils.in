@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libtelnet-utils</b>'
+Comment='<span size="xx-large">TELNET utility programs from libtelnet</span>'
+Comment3='
+Provides three utilities based on the libtelnet library.
+  * telnet-proxy - a TELNET proxy and debugging daemon
+  * telnet-client - simple TELNET client
+  * telnet-chatd - no-features chat server for testing TELNET clients.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://github.com/elanthis/libtelnet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

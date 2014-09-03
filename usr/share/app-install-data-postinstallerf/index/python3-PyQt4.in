@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-PyQt4</b>'
+Comment='<span size="xx-large">Python 3 bindings for Qt4</span>'
+Comment3='
+These are Python 3 bindings for Qt4.
+
+URL          http//www.riverbankcomputing.com/software/pyqt/
+'
+License='(GPLv3 or GPLv2 with exceptions) and BSD'
+Screenshot=''
+Url='http://www.riverbankcomputing.com/software/pyqt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

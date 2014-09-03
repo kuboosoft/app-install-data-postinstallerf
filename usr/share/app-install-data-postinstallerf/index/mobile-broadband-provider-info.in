@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mobile-broadband-provider-info</b>'
+Comment='<span size="xx-large">Mobile broadband provider database</span>'
+Comment3='
+The mobile-broadband-provider-info package contains listings of mobile
+broadband (3G) providers and associated network and plan information.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://live.gnome.org/NetworkManager/MobileBroadband/ServiceProviders'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

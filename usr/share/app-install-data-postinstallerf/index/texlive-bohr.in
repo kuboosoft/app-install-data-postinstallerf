@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-bohr</b>'
+Comment='<span size="xx-large">Simple atom representation according to the Bohr model</span>'
+Comment3='
+The package provides means for the creation of simple Bohr
+models of atoms up to the atomic number 112. In addition,
+commands are provided to convert atomic numbers to element
+symbols or element names and vice versa.
+
+date 2013-11-10 172034 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

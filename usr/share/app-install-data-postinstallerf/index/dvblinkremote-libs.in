@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dvblinkremote-libs</b>'
+Comment='<span size="xx-large">Pure C++ DVBLink Remote API library</span>'
+Comment3='
+libdvblinkremote is a pure C++ DVBLink Remote API static library. It currently
+supports DVBLink Remote API version 0.2.
+
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/marefr/dvblinkremote'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

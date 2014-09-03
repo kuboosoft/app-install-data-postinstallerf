@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opensips-peering</b>'
+Comment='<span size="xx-large">Radius peering</span>'
+Comment3='
+Peering module allows SIP providers (operators or organizations)
+to verify from a broker if source or destination  of a SIP request
+is a trusted peer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

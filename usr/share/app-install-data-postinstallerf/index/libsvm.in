@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libsvm</b>'
+Comment='<span size="xx-large">A Library for Support Vector Machines</span>'
+Comment3='
+LIBSVM is an integrated software for support vector classification,
+(C-SVC, nu-SVC ), regression (epsilon-SVR, nu-SVR) and distribution
+estimation (one-class SVM ). It supports multi-class classification.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.csie.ntu.edu.tw/~cjlin/libsvm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

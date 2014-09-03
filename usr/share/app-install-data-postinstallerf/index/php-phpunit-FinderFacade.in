@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-phpunit-FinderFacade</b>'
+Comment='<span size="xx-large">Wrapper for Symfony Finder component</span>'
+Comment3='
+Convenience wrapper for Symfonys Finder component.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/sebastianbergmann/finder-facade'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

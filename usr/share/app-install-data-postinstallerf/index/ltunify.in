@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ltunify</b>'
+Comment='<span size="xx-large">Command line utility for Logitech Unifying Receiver</span>'
+Comment3='
+ltunify allows pairing, unpairing, and listing information about devices
+uses a Logitech Unifying Receiver.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://lekensteyn.nl/logitech-unifying.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

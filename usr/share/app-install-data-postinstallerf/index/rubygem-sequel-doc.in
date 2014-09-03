@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-sequel-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-sequel</span>'
+Comment3='
+This package contains documentation for rubygem-sequel.
+'
+License='MIT'
+Screenshot=''
+Url='https://rubygems.org/gems/sequel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

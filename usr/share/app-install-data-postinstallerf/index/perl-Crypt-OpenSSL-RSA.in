@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Crypt-OpenSSL-RSA</b>'
+Comment='<span size="xx-large">Perl interface to OpenSSL for RSA</span>'
+Comment3='
+CryptOpenSSLRSA - RSA encoding and decoding, using the openSSL libraries
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-OpenSSL-RSA/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

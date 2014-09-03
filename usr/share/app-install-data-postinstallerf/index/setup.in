@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>setup</b>'
+Comment='<span size="xx-large">A set of system configuration and setup files</span>'
+Comment3='
+The setup package contains a set of important system configuration and
+setup files, such as passwd, group, and profile.
+'
+License='Public Domain'
+Screenshot=''
+Url='https://fedorahosted.org/setup/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

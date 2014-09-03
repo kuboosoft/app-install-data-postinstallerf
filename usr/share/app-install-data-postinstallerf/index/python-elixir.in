@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-elixir</b>'
+Comment='<span size="xx-large">Declarative mapper for SQLAlchemy</span>'
+Comment3='
+Elixir is a declarative layer on top of SQLAlchemy. It is a fairly thin
+wrapper, which provides the ability to define model objects following the
+Active Record design pattern, and using a DSL syntax similar to that of the
+Ruby on Rails ActiveRecord system.
+
+Elixir does not intend to replace SQLAlchemys core features, but instead
+focuses on providing a simpler syntax for defining model objects when you do
+not need the full expressiveness of SQLAlchemys manual mapper definitions.
+'
+License='MIT'
+Screenshot=''
+Url='http://elixir.ematia.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

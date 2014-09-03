@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>uw-imap-devel</b>'
+Comment='<span size="xx-large">Development tools for programs which will use the UW IMAP library</span>'
+Comment3='
+Contains the header files and libraries for developing programs
+which will use the UW C-client common API.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.washington.edu/imap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

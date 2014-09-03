@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>smesh-doc</b>'
+Comment='<span size="xx-large">Development documentation for smesh</span>'
+Comment3='
+Development documentation for smesh.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://sourceforge.net/projects/salomesmesh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

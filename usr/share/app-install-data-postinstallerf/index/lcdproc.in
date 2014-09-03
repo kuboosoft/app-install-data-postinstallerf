@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>lcdproc</b>'
+Comment='<span size="xx-large">LCDproc displays real-time system information on a 20x4 backlit LCD</span>'
+Comment3='
+LCDproc is a client/server suite inclduding drivers for all
+kinds of nifty LCD displays. The server supports several
+serial devices Matrix Orbital, Crystal Fontz, Bayrad, LB216,
+LCDM001 (kernelconcepts.de), Wirz-SLI and PIC-an-LCD; and some
+devices connected to the LPT port HD44780, STV5730, T6963,
+SED1520 and SED1330. Various clients are available that display
+things like CPU load, system load, memory usage, uptime, and a lot more.
+See also http//lcdproc.omnipotent.net.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://lcdproc.omnipotent.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

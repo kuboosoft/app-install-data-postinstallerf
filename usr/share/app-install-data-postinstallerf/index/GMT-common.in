@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>GMT-common</b>'
+Comment='<span size="xx-large">Common files for GMT</span>'
+Comment3='
+The GMT-common package contains common files for GMT (Generic
+Mapping Tools) package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gmt.soest.hawaii.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-figbib</b>'
+Comment='<span size="xx-large">Organize figure databases with BibTeX</span>'
+Comment3='
+FigBib lets you organize your figures in BibTeX databases. Some
+FigBib features are - Store and manage figures in a BibTeX
+database; - Include figures in your LaTeX document with one
+short command; - Generate a List of Figures containing
+more/other information than the figure captions; - Control with
+one switch where to output the figures, either as usual float
+objects or in a separate part at the end of your document.
+
+date 2006-10-19 224258 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

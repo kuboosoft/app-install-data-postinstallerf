@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mate-common</b>'
+Comment='<span size="xx-large">mate common build files</span>'
+Comment3='
+binaries for building all MATE desktop sub components
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

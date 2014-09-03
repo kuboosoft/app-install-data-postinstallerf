@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>amoebax</b>'
+Comment='<span size="xx-large">Action-Puzzle Game</span>'
+Comment3='
+Amoebax is a cute and addictive action-puzzle game. Due an awful mutation,
+some amoebas species have started to multiply until they take the world if
+you cant stop them. Fortunately the mutation made then too unstable and
+lining up four or more will make them disappear.
+
+Follow Kim or Tom through 6 levels in their quest to prevent the cute
+multiplying amoebas to take the world and become the new Amoeba Master. Watch
+out for the cute but amoebas controlled creatures that will try to put and
+end to your quest.
+'
+License='GPLv2+ and Free Art'
+Screenshot=''
+Url='http://www.emma-soft.com/games/amoebax/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

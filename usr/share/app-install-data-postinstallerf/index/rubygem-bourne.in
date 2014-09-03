@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-bourne</b>'
+Comment='<span size="xx-large">Adds test spies to mocha</span>'
+Comment3='
+Extends mocha to allow detailed tracking and querying of
+stub and mock invocations. Allows test spies using the have_received rspec
+matcher and assert_received for TestUnit. Extracted from the
+jferris-mocha fork.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/thoughtbot/bourne'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

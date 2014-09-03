@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-sansmath</b>'
+Comment='<span size="xx-large">Maths in a sans font</span>'
+Comment3='
+The package defines a new math version sans, and a command
+\sansmath that behaves somewhat like \boldmath
+
+date 2010-04-29 075903 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

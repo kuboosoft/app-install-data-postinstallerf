@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>extrema-help</b>'
+Comment='<span size="xx-large">Help files for Extrema</span>'
+Comment3='
+This package contains help files for Extrema.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://exsitewebware.com/extrema/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

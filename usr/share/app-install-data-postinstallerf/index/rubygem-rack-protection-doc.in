@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rack-protection-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rack-protection</span>'
+Comment3='
+This package contains documentation for rubygem-rack-protection.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rkh/rack-protection'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

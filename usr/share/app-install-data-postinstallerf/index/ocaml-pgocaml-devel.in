@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-pgocaml-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-pgocaml</span>'
+Comment3='
+The ocaml-pgocaml-devel package contains libraries and signature files for
+developing applications that use ocaml-pgocaml.
+
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://pgocaml.forge.ocamlcore.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

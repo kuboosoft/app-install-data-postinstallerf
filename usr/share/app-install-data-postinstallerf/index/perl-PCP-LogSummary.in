@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-PCP-LogSummary</b>'
+Comment='<span size="xx-large">Performance Co-Pilot (PCP) Perl bindings for post-processing output of pmlogsummary</span>'
+The PCP::LogSummary module provides a Perl module for using the
+Comment3='
+The PCPLogSummary module provides a Perl module for using the
+statistical summary data produced by the Performance Co-Pilot
+pmlogsummary utility.  This utility produces various averages,
+minima, maxima, and other calculations based on the performance
+data stored in a PCP archive.  The Perl interface is ideal for
+exporting this data into third-party tools (e.g. spreadsheets).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.performancecopilot.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

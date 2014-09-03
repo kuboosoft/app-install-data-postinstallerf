@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-ejb-client</b>'
+Comment='<span size="xx-large">JBoss EJB client</span>'
+Comment3='
+Client library for EJB applications working against JBoss AS
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

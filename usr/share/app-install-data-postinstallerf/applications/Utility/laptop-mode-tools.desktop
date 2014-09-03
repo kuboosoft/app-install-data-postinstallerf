@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n laptop-mode-tools
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
+Comment=Allows your laptop to save considerable power
+Terminal=false
+Name=Laptop Mode Tools
+Categories=Qt;KDE;Utility;

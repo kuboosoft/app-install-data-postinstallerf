@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-listquote</b>'
+Comment='<span size="xx-large">Functions for Lists, Quotes and CSVs</span>'
+Comment3='
+This module provides functions for turning lists into strings - and back again.
+It properly handles quoting and unquoting of elements and can even parse
+recursive lists.
+
+Because a CSV (comma separated value) file is basically a list - the module
+includes functions for easily reading and writing CSVs.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.voidspace.org.uk/python/listquote.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

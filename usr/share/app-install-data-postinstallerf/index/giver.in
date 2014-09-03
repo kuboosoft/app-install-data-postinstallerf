@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>giver</b>'
+Comment='<span size="xx-large">A simple file sharing desktop application</span>'
+Comment3='
+Giver is a simple file sharing desktop application. Other people running Giver
+on your network are automatically discovered and you can send files to them by
+simply dragging the files to their photo or icon shown in Giver. There is no
+knowledge or set up needed beyond what the person looks like or their name to
+use Giver.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/giver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

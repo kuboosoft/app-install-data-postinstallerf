@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-qrcode</b>'
+Comment='<span size="xx-large">Python QR Code image generator</span>'
+Comment3='
+This module uses the Python Imaging Library (PIL) to allow for the
+generation of QR Codes.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/lincolnloop/python-qrcode'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

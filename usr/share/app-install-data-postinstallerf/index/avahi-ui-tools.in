@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>avahi-ui-tools</b>'
+Comment='<span size="xx-large">UI tools for mDNS browsing</span>'
+Comment3='
+Graphical user interface tools that use Avahi to browse for mDNS services.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://avahi.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

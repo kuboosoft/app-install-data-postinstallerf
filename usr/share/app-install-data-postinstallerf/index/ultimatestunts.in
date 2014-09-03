@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ultimatestunts</b>'
+Comment='<span size="xx-large">Remake of the famous DOS-game Stunts</span>'
+Comment3='
+UltimateStunts is a remake of the famous DOS-game Stunts. It was a 3D racing
+game, with simple CGA/EGA/VGA graphics and no texture or smooth shading, but
+because of the spectacular stunts (loopings, bridges to jump over, etc.)
+it was really fun to play. One of the best aspects of this game is that it
+had a track editor. Because of the tile-based tracks, every gamer was able
+to make its own tracks. This remake works on UNIX-compatible systems (like
+Linux), and on windows. It also provides more modern features, like openGL
+graphics, 3D sound and internet multiplaying.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ultimatestunts.nl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

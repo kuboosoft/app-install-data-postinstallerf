@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>curl</b>'
+Comment='<span size="xx-large">A utility for getting files from remote servers (FTP, HTTP, and others)</span>'
+Comment3='
+curl is a command line tool for transferring data with URL syntax, supporting
+FTP, FTPS, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP,
+SMTP, POP3 and RTSP.  curl supports SSL certificates, HTTP POST, HTTP PUT, FTP
+uploading, HTTP form based upload, proxies, cookies, user+password
+authentication (Basic, Digest, NTLM, Negotiate, kerberos...), file transfer
+resume, proxy tunneling and a busload of other useful tricks.
+'
+License='MIT'
+Screenshot=''
+Url='http://curl.haxx.se/'
+curl is a command line tool for transferring data with URL syntax, supporting'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

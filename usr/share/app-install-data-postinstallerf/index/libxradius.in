@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libxradius</b>'
+Comment='<span size="xx-large">Development files for libxradius</span>'
+Comment3='
+This is a library to generate RADIUS authentication request.
+
+URL          http//www.outoforder.cc/projects/httpd/mod_auth_xradius/
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.outoforder.cc/projects/httpd/mod_auth_xradius/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

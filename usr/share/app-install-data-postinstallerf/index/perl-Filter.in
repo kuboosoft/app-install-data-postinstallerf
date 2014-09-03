@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Filter</b>'
+Comment='<span size="xx-large">Perl source filters</span>'
+Comment3='
+Source filters alter the program text of a module before Perl sees it, much as
+a C preprocessor alters the source text of a C program before the compiler
+sees it.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Filter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

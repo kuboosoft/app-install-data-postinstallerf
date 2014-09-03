@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plexus-sec-dispatcher</b>'
+Comment='<span size="xx-large">Plexus Security Dispatcher Component</span>'
+Comment3='
+Plexus Security Dispatcher Component
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://spice.sonatype.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

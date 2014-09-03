@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dvd+rw-tools</b>'
+Comment='<span size="xx-large">Toolchain to master DVD+RW/+R media</span>'
+Comment3='
+Collection of tools to master DVD+RW/+R media. For further
+information see http//fy.chalmers.se/~appro/linux/DVD+RW/.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fy.chalmers.se/~appro/linux/DVD+RW/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

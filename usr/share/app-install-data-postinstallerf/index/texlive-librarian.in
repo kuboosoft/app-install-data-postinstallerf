@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-librarian</b>'
+Comment='<span size="xx-large">Tools to create bibliographies in TeX</span>'
+Comment3='
+The package extracts information in bib files, makes it
+available in the current document, and sorts lists of entries
+according to that information and the users specifications.
+Citation and bibliography styles can then be written directly
+in TeX, without any use of BibTeX. Creating references thus
+depends entirely on the users skill in TeX. The package works
+with all formats that use plain TeXs basic syntactic sugar;
+the distribution includes a third-party file for ConTeXt and a
+style file for LaTeX. As an example of use, an Author (Year)
+style is given in a separate file and explained in the
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

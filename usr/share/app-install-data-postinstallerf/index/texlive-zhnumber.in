@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-zhnumber</b>'
+Comment='<span size="xx-large">Typeset Chinese representations of numbers</span>'
+Comment3='
+The package provides commands to typeset Chinese
+representations of numbers. The main difference between this
+package and CJKnumb is that the commands provided are
+expandable in the proper way.
+
+date 2012-11-24 002804 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Types</b>'
+Comment='<span size="xx-large">Organize your Moose types in libraries</span>'
+Comment3='
+The types provided with the Moose man page are by design global. This
+package helps you to organize and selectively import your own and the
+built-in types in libraries. As a nice side effect, it catches typos at
+compile-time too.
+
+However, the main reason for this module is to provide an easy way to not
+have conflicts with your type names, since the internal fully qualified
+names of the types will be prefixed with the librarys name.
+This module will also provide you with some helper functions to make it
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Types'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

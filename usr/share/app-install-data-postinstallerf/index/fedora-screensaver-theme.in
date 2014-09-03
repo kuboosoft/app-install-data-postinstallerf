@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fedora-screensaver-theme</b>'
+Comment='<span size="xx-large">Fedora screensaver theme</span>'
+Comment3='
+This package contains a Fedora branded screensaver theme.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

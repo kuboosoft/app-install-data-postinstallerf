@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sunpinyin-data</b>'
+Comment='<span size="xx-large">Little-endian data files for sunpinyin</span>'
+Comment3='
+The sunpinyin-data package contains necessary lexicon data and its index data
+files needed by the sunpinyin input methods.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://code.google.com/p/sunpinyin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

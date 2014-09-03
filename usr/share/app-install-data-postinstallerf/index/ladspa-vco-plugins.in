@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ladspa-vco-plugins</b>'
+Comment='<span size="xx-large">Anti-aliased pulse and sawtooth oscillators</span>'
+Comment3='
+Pulse-VCO  Anti-aliased dirac pulse oscillator (flat amplitude spectrum)
+Saw-VCO    Anti-aliased sawtooth oscillator (1/F amplitude spectrum)
+
+Both oscillators are based on the same principle of using a
+precomputed interpolated dirac pulse. For the sawtooth version, the
+edge is made by integrating the anti-aliased pulse. Aliases should
+be below -80dB for fundamental frequencies below Fsamp / 6 (i.e. up to
+8 kHz at Fsamp = 48 kHz). This frequency range includes the
+fundamental frequencies all known musical instruments.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kokkinizita.net/linuxaudio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

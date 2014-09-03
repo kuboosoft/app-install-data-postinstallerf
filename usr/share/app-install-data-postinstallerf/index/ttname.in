@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ttname</b>'
+Comment='<span size="xx-large">CLI font metadata editor</span>'
+Comment3='
+A CLI interface for editing the "name" table that contains the metadata in
+TrueType and OpenType fonts.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/tchollingsworth/ttname'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

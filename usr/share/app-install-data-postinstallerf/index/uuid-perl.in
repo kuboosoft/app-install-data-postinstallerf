@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uuid-perl</b>'
+Comment='<span size="xx-large">Perl support for Universally Unique Identifier library</span>'
+Comment3='
+Perl OSSP uuid modules, which includes a DataUUID replacement.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.ossp.org/pkg/lib/uuid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

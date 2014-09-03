@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pysnmp</b>'
+Comment='<span size="xx-large">SNMP engine written in Python</span>'
+Comment3='
+This is a Python implementation of SNMP v.1/v.2c engine. Its
+general functionality is to assemble/disassemble SNMP messages
+from/into given SNMP Object IDs along with associated values.
+PySNMP also provides a few transport methods specific to TCP/IP
+networking.
+'
+License='BSD'
+Screenshot=''
+Url='http://pysnmp.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>nmbscan</b>'
+Comment='<span size="xx-large">NMB/SMB network scanner</span>'
+Comment3='
+Scans a SMB shares network, using NMB and SMB protocols. Useful to acquire
+an information on a local area network (security audit, etc.)
+
+Matches the information such as NMB/SMB/Windows host name, IP address,
+IP host name, Ethernet MAC address, Windows user name,
+NMB/SMB/Windows domain name and master browser.
+Can discover all NMB/SMB/Windows hosts on a local area network thanks to
+hosts lists maintained by master browsers.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://nmbscan.g76r.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

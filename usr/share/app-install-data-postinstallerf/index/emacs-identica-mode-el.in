@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-identica-mode-el</b>'
+Comment='<span size="xx-large">Source files for Emacs-identica-mode under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for
+use with Emacs-identica-mode.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://savannah.nongnu.org/projects/identica-mode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

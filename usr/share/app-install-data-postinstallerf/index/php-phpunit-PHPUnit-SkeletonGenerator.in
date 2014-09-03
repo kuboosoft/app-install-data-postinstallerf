@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-phpunit-PHPUnit-SkeletonGenerator</b>'
+Comment='<span size="xx-large">Tool that can generate skeleton test classes</span>'
+Comment3='
+Tool that can generate skeleton test classes from production code classes
+and vice versa.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.phpunit.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

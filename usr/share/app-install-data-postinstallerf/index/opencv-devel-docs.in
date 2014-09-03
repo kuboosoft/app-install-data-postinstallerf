@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opencv-devel-docs</b>'
+Comment='<span size="xx-large">Development files for using the OpenCV library</span>'
+Comment3='
+This package contains the OpenCV documentation and examples programs.
+'
+License='BSD'
+Screenshot=''
+Url='http://opencv.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

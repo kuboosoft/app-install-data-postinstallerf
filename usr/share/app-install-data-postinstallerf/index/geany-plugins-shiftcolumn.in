@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>geany-plugins-shiftcolumn</b>'
+Comment='<span size="xx-large">Move Blocks of Text horizontally</span>'
+Comment3='
+Shiftcolumn allows you to move blocks of text horizontally in Geany.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

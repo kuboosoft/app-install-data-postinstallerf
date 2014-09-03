@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mtools</b>'
+Comment='<span size="xx-large">Programs for accessing MS-DOS disks without mounting the disks</span>'
+Comment3='
+Mtools is a collection of utilities for accessing MS-DOS files.
+Mtools allow you to read, write and move around MS-DOS filesystem
+files (normally on MS-DOS floppy disks).  Mtools supports Windows95
+style long file names, OS/2 XDF disks, and 2m disks
+
+Mtools should be installed if you need to use MS-DOS disks
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://mtools.linux.lu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

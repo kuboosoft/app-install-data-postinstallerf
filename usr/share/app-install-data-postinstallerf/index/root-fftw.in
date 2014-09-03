@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-fftw</b>'
+Comment='<span size="xx-large">FFTW library for ROOT</span>'
+Comment3='
+This package contains the Fast Fourier Transform extension for ROOT.
+It uses the very fast fftw (version 3) library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

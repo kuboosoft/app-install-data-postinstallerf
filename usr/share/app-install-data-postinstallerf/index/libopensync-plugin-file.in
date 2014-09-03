@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libopensync-plugin-file</b>'
+Comment='<span size="xx-large">File plugin for libopensync</span>'
+Comment3='
+File plugin for libopensync
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opensync.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

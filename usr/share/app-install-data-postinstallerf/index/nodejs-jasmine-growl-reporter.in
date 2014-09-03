@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-jasmine-growl-reporter</b>'
+Comment='<span size="xx-large">Growl notifications when running Jasmine tests</span>'
+Comment3='
+Growl notifications when running Jasmine tests.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/AlphaHydrae/jasmine-growl-reporter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

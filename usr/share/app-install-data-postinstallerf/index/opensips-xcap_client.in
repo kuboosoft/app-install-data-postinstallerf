@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>opensips-xcap_client</b>'
+Comment='<span size="xx-large">XCAP client</span>'
+Comment3='
+The modules is an XCAP client for OpenSIPS that can be used by other modules.
+It fetches XCAP elements, either documents or part of them, by sending HTTP
+GET requests. It also offers support for conditional queries. It uses libcurl
+library as a client-side HTTP transfer library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

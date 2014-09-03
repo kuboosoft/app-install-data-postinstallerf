@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vtk-devel</b>'
+Comment='<span size="xx-large">VTK header files for building C++ code</span>'
+Comment3='
+This provides the VTK header files required to compile C++ programs that
+use VTK to do 3D visualization.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://vtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

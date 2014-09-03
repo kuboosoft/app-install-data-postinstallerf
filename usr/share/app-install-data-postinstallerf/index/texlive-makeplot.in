@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-makeplot</b>'
+Comment='<span size="xx-large">Easy plots from Matlab in LaTeX</span>'
+Comment3='
+Existing approaches to create EPS files from Matlab (laprint,
+mma2ltx, print -eps, etc.) arent satisfactory; makeplot aims
+to resolve this problem. Makeplot is a LaTeX package that uses
+the pstricks pst-plot functions to plot data that it takes from
+Matlab output files.
+
+date 2008-01-20 020354 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

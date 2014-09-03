@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Redis</b>'
+Comment='<span size="xx-large">Perl binding for Redis database</span>'
+Comment3='
+Pure perl bindings for http//redis.io/
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Redis/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

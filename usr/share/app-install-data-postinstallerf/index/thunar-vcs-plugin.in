@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>thunar-vcs-plugin</b>'
+Comment3='
+The Thunar VCS Plugin adds Subversion and GIT actions to the context menu of
+Thunar. This gives a VCS integration to Thunar. The current features are
+* Most of the SVN actions add, blame, checkout, cleanup, commit, copy,
+  delete, export, import, lock, log, move, properties, relocate, resolved,
+  revert, status, switch, unlock and update
+* Subversion info in file properties dialog
+* Basic GIT actions add, blame, branch, clean, clone, log, move, reset, stash
+  and status
+
+This project was formerly known as Thunar SVN Plugin.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/thunar-plugins/thunar-vcs-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

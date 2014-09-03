@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-cerealizer</b>'
+Comment='<span size="xx-large">Secure pickle-like module</span>'
+Comment3='
+Cerealizer is a secure pickle-like module. It support basic types (int, string,
+unicode, tuple, list, dict, set,...), old and new-style classes (you need to
+register the class for security), object cycles, and it can be extended to
+support C-defined type.
+'
+License='Python'
+Screenshot=''
+Url='http://home.gna.org/oomadness/en/cerealizer/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

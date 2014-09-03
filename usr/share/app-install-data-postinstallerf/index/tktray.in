@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tktray</b>'
+Comment='<span size="xx-large">System Tray Icon Support for Tk on X11</span>'
+Comment3='
+Tktray is an extension that is able to create system tray icons.
+It follows http//www.freedesktop.org specifications when looking
+up the system tray manager.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/tktray/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

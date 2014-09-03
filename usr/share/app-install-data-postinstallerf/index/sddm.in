@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sddm</b>'
+Comment='<span size="xx-large">QML based X11 desktop manager</span>'
+Comment3='
+SDDM is a modern display manager for X11 aiming to be fast, simple and
+beautiful. It uses modern technologies like QtQuick, which in turn gives the
+designer the ability to create smooth, animated user interfaces.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='https://github.com/sddm/sddm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

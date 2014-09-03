@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>notmuch</b>'
+Comment='<span size="xx-large">System for indexing, searching, and tagging email</span>'
+Comment3='
+Fast system for indexing, searching, and tagging email.  Even if you
+receive 12000 messages per month or have on the order of millions of
+messages that youve been saving for decades, Notmuch will be able to
+quickly search all of it.
+
+Notmuch is not much of an email program. It doesnt receive messages
+(no POP or IMAP support). It doesnt send messages (no mail composer,
+no network code at all). And for what it does do (email search) that
+work is provided by an external library, Xapian. So if Notmuch
+provides no user interface and Xapian does all the heavy lifting, then
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://notmuchmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

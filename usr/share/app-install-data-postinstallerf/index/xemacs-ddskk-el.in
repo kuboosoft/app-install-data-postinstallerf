@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xemacs-ddskk-el</b>'
+Comment='<span size="xx-large">Elisp source files for Daredevil SKK under XEmacs</span>'
+Comment3='
+This package contains the elisp source files for Daredevil SKK under
+XEmacs. You do not need to install this package to run
+Daredevil SKK. Install the xemacs-ddskk package to use Daredevil SKK with
+XEmacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openlab.ring.gr.jp/skk/main.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

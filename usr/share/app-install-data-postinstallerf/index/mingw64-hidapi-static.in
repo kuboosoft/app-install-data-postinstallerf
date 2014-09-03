@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw64-hidapi-static</b>'
+Comment='<span size="xx-large">Static libraries for mingw64-hidapi development</span>'
+Comment3='
+The mingw64-hidapi-static package contains static library for mingw64-hidapi
+development.
+'
+License='GPLv3 or BSD'
+Screenshot=''
+Url='http://www.signal11.us/oss/hidapi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

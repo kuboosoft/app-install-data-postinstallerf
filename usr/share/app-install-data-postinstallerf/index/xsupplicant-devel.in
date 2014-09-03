@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xsupplicant-devel</b>'
+Comment='<span size="xx-large">Development files for xsupplicant</span>'
+Comment3='
+Development libraries and headers for xsupplicant.
+
+URL          http//www.open1x.org/
+'
+License='GPLv2+ or BSD with advertising'
+Screenshot=''
+Url='http://www.open1x.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pal</b>'
+Comment='<span size="xx-large">Command line calendar that displays holidays and events</span>'
+Comment3='
+Pal is command-line calendar program for Unix/Linux that can keep track of
+events.  It has similarities with the Unix cal command, the more complex GNU
+gcal program, and the calendar program distributed with the BSDs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://palcal.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

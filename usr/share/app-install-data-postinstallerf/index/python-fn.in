@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-fn</b>'
+Comment='<span size="xx-large">Features to allow functional programming in Python</span>'
+Comment3='
+Despite the fact that Python is not pure-functional programming language, its
+a multi-paradigm PL and it gives you enough freedom to take credits from
+functional programming approach. There are theoretical and practical advantages
+to the functional style
+
+  - Formal provability
+  - Modularity
+  - Composability
+  - Ease of debugging and testing
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/kachayev/fn.py'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

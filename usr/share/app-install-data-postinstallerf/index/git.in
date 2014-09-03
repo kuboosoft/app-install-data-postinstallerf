@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>git</b>'
+Comment3='
+Git is a fast, scalable, distributed revision control system with an
+unusually rich command set that provides both high-level operations
+and full access to internals.
+
+The git rpm installs the core tools with minimal dependencies.  To
+install all git packages, including tools for integrating with other
+SCMs, install the git-all meta-package.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://git-scm.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

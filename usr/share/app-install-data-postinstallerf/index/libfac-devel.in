@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libfac-devel</b>'
+Comment='<span size="xx-large">An extension to Singular-factory</span>'
+Comment3='
+Singular-libfac is an extension to Singular-factory which implements
+factorization of polynomials over finite fields and algorithms for
+manipulation of polynomial ideals via the characteristic set methods
+(e.g., calculating the characteristic set and the irreducible
+characteristic series).
+
+'
+License='BSD and LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.singular.uni-kl.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-ferari</b>'
+Comment='<span size="xx-large">Optimizer for finite element code</span>'
+Comment3='
+FErari (Finite Element rearrangement to automatically reduce instructions)
+generates optimized code for evaluation of the element tensor (element
+stiffness matrix) and functions as an optimizing backend for FFC.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.fenicsproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

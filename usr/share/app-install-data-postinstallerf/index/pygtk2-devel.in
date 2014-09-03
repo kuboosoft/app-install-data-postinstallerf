@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pygtk2-devel</b>'
+Comment='<span size="xx-large">Development files for building add-on libraries</span>'
+Comment3='
+This package contains files required to build wrappers for GTK+ add-on
+libraries so that they interoperate with pygtk.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pygtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

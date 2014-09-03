@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-el</b>'
+Comment='<span size="xx-large">Greek thesaurus</span>'
+Comment3='
+Greek thesaurus.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.openthesaurus.gr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

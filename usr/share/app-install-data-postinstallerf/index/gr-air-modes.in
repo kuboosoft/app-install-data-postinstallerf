@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gr-air-modes</b>'
+Comment='<span size="xx-large">SDR receiver for Mode S transponder signals (ADS-B)</span>'
+Comment3='
+Software defined radio receiver for Mode S transponder signals, including
+ADS-B reports.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://github.com/bistromath/gr-air-modes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

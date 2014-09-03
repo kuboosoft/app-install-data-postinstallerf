@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openscada-Protocol-HTTP</b>'
+Comment='<span size="xx-large">Open SCADA http</span>'
+Comment3='
+The openscada-Protocol-HTTP package allows support HTTP
+for WWW based UIs.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

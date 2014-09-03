@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-URI-Title</b>'
+Comment='<span size="xx-large">Get the titles of things on the web in a sensible way</span>'
+Comment3='
+I keep having to find the title of things on the web.  This seems like a really
+simple request, just get() the object, parse for a title tag, youre done.
+Ha, I wish.  There are several problems with this approach
+
+What if the resource is on a very slow server?  Do we wait forever or what?
+What if the resource is a 900 gig file?  You dont want to download that.
+What if the page title isnt in a title tag, but is buried in the HTML
+somewhere?
+What if the resource is an MP3 file, or a word document or something?
+...
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/URI-Title/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

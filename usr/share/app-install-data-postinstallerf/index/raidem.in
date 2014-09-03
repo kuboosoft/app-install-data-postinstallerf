@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>raidem</b>'
+Comment='<span size="xx-large">2d top-down shootem up</span>'
+Comment3='
+Raidem is a 2d top-down shootem up. It began as a remake of Raid II
+(abandoned long ago), but has turned out very differently.
+Features Neat looking graphics, LOTS of explosions and scrap
+metal, Eye candy a-plenty, Many different powerups, A desert. And a space
+platform. And some snow, 2 player mode, Demo recording and playback, Loads of
+fun.
+'
+License='zlib'
+Screenshot=''
+Url='http://home.exetel.com.au/tjaden/raidem/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

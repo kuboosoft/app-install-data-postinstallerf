@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>a52dec</b>'
+Comment='<span size="xx-large">A free ATSC A/52 stream decoder</span>'
+Comment3='
+liba52 is a free library for decoding ATSC A/52 streams. The A/52
+standard is used in a variety of applications, including digital
+television and DVD. It is also known as AC-3. The package also
+includes a52dec, a small test program for liba52.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://liba52.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

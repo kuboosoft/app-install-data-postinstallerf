@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>SDL2_ttf</b>'
+Comment='<span size="xx-large">TrueType font rendering library for SDL2</span>'
+Comment3='
+This library allows you to use TrueType fonts to render text in SDL2
+applications.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://www.libsdl.org/projects/SDL_ttf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ldns</b>'
+Comment='<span size="xx-large">Low-level DNS(SEC) library with API</span>'
+Comment3='
+ldns is a library with the aim to simplify DNS programming in C. All
+low-level DNS/DNSSEC operations are supported. We also define a higher
+level API which allows a programmer to (for instance) create or sign
+packets.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.nlnetlabs.nl/ldns/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

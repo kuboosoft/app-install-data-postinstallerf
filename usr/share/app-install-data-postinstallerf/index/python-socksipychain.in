@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-socksipychain</b>'
+Comment='<span size="xx-large">A Python SOCKS/HTTP Proxy module</span>'
+Comment3='
+This Python module allows you to create TCP connections through a chain
+of SOCKS or HTTP proxies without any special effort. It also supports
+TLS/SSL encryption if the OpenSSL modules are installed.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/pagekite/Pysocksipychain'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

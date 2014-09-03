@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Lingua-EN-Numbers-Ordinate</b>'
+Comment='<span size="xx-large">Perl functions for giving the ordinal form of a number given its cardinal value</span>'
+Comment3='
+2, 3...), and ordinals (1st, 2nd, 3rd...).  This library
+provides functions for giving the ordinal form of a number,
+given its cardinal value.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Lingua-EN-Numbers-Ordinate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

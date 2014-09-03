@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgeotiff-devel</b>'
+Comment='<span size="xx-large">Development library and header for the GeoTIFF file format library</span>'
+Comment3='
+The GeoTIFF library provides support for development of geotiff image format.
+
+URL          http//www.remotesensing.org/geotiff/geotiff.html
+'
+License='MIT'
+Screenshot=''
+Url='http://www.remotesensing.org/geotiff/geotiff.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

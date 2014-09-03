@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>fwsnort</b>'
+Comment='<span size="xx-large">Translates Snort rules into equivalent iptables rules</span>'
+Comment3='
+fwsnort translates Snort rules into equivalent iptables rules and generates
+a Bourne shell script that implements the resulting iptables commands.
+
+In addition, fwsnort (optionally) uses the IPTablesParse module to parse the
+iptables ruleset on the machine to determine which Snort rules are applicable
+to the specific iptables policy.
+fwsnort is able to translate approximately 60% of all rules from the
+Snort-2.3.3 IDS into equivalent iptables rules.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.cipherdyne.org/fwsnort/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

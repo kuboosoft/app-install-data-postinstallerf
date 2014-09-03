@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>matio-devel</b>'
+Comment='<span size="xx-large">Development files for matio</span>'
+Comment3='
+The matio-devel package contains libraries and header files for
+developing applications that use matio.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/matio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

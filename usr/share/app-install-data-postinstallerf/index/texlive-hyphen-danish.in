@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-danish</b>'
+Comment='<span size="xx-large">Danish hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Danish in T1/EC and UTF-8 encodings.
+
+date 2009-09-25 225435 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

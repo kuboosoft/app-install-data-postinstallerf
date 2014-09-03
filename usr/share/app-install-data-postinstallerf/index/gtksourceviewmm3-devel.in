@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtksourceviewmm3-devel</b>'
+Comment='<span size="xx-large">Development files for gtksourceviewmm3</span>'
+Comment3='
+The gtksourceviewmm3-devel package contains libraries and header files for
+developing applications that use gtksourceviewmm3.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/gtksourceviewmm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

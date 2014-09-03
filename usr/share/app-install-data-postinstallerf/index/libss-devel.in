@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libss-devel</b>'
+Comment='<span size="xx-large">Command line interface parsing library</span>'
+Comment3='
+This is the command line interface parsing (libss) development library
+and headers, part of e2fsprogs.  It contains the mk_cmds command, which
+parses a command table to generate a simple command-line interface parser.
+
+It was originally inspired by the Multics SubSystem library.
+'
+License='MIT'
+Screenshot=''
+Url='http://e2fsprogs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

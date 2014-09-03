@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>protobuf-c</b>'
+Comment='<span size="xx-large">C bindings for Googles Protocol Buffers</span>'
+Comment3='
+Protocol Buffers are a way of encoding structured data in an efficient yet
+extensible format. This package provides a code generator and run-time
+libraries to use Protocol Buffers from pure C (not C++).
+
+It uses a modified version of protoc called protoc-c.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/protobuf-c/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

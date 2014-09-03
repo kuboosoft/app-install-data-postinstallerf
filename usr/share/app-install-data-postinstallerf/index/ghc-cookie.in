@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-cookie</b>'
+Comment='<span size="xx-large">HTTP cookie parsing and rendering</span>'
+Comment3='
+HTTP cookie parsing and rendering.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cookie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

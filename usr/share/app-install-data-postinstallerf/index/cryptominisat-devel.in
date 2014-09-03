@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cryptominisat-devel</b>'
+Comment='<span size="xx-large">Header files for developing with cryptominisat</span>'
+Comment3='
+Header files for developing applications that use cryptominisat.
+
+URL          http//www.msoos.org/cryptominisat2/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.msoos.org/cryptominisat2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

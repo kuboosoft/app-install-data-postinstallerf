@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hibernate-core</b>'
+Comment='<span size="xx-large">Hibernate Core</span>'
+Comment3='
+Core Hibernate O/RM functionality
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.hibernate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

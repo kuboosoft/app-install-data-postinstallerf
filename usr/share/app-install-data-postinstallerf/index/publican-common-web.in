@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>publican-common-web</b>'
+Comment='<span size="xx-large">Website style for common brand</span>'
+Comment3='
+Website style for common brand.
+'
+License='(GPLv2+ or Artistic) and CC0'
+Screenshot=''
+Url='https://publican.fedorahosted.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

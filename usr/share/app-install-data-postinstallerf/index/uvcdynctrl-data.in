@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uvcdynctrl-data</b>'
+Comment='<span size="xx-large">XML control file for the uvcdynctrl package</span>'
+Comment3='
+XML control file for the uvcdynctrl package.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://sourceforge.net/p/libwebcam/wiki/Home/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

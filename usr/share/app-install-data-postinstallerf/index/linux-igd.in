@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>linux-igd</b>'
+Comment='<span size="xx-large">The Linux UPNP Internet GATEWAY DEVICE</span>'
+Comment3='
+This is a daemon that emulates Microsofts Internet Connection Service (ICS).
+It implements the UPnP Internet Gateway Device specification (IGD) and allows
+UPnP aware clients, such as MSN Messenger to work properly from behind
+ a Linux NAT firewall.
+'
+License='GPL+'
+Screenshot=''
+Url='http://linux-igd.sourceforge.net/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

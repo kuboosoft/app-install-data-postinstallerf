@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nepomukshell</b>'
+Comment='<span size="xx-large">Nepomuk maintenance and debugging tool for developers</span>'
+Comment3='
+Nepomuk Swiss Army Knife is a debugging and maintenance tool aimed
+for Nepomuk developers.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/utils/nepomukshell'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

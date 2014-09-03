@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>crm114</b>'
+Comment='<span size="xx-large">Controllable Regex Mutilator: multi-method content classifier and filter</span>'
+Comment3='
+CRM114 is a system to examine incoming e-mail, system log streams,
+data files or other data streams, and to sort, filter, or alter the
+incoming files or data streams according to the users wildest
+desires. Criteria for categorization of data can be by satisfaction of
+regexes, by sparse binary polynomial matching with a Bayesian Chain
+Rule evaluator, or by other means.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://crm114.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Data-Pond</b>'
+Comment='<span size="xx-large">Perl-based open notation for data</span>'
+Comment3='
+This module is concerned with representing data structures in a textual
+notation known as "Pond" (Perl-based open notation for data). The notation
+is a strict subset of Perl expression syntax, but is intended to have language-
+independent use. It is similar in spirit to JSON, which is based on
+JavaScript, but Pond represents fewer data types directly.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Data-Pond/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

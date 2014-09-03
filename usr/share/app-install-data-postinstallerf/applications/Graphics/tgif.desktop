@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n tgif
+Type=Application
+Name=Tgif
+Comment=Interactive 2-D vector drawing program for X11
+GenericName=2-D vector drawing
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_tgif.png
+Terminal=False
+Categories=Graphics;2DGraphics;VectorGraphics;

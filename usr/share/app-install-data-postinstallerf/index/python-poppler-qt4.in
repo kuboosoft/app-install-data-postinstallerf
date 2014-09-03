@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-poppler-qt4</b>'
+Comment='<span size="xx-large">Python bindings for the Poppler PDF rendering library</span>'
+Comment3='
+Python bindings for the Poppler PDF rendering library. It is needed to
+run programs written in Python and using Poppler set.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/python-poppler-qt4/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-kpathsea-lib-devel</b>'
+Comment='<span size="xx-large">Path searching library for TeX-related files</span>'
+Comment3='
+The library is at the centre of pretty much all Unix-based TeX
+executable. It is no longer distributed separately, but rather
+consititutes a central part of the sources of the TeX-live
+distribution.
+
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

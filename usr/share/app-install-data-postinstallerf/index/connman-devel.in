@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>connman-devel</b>'
+Comment='<span size="xx-large">Libraries and headers for connman</span>'
+Comment3='
+This package contains development files for connman.
+
+URL          http//connman.net/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://connman.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mod_cluster-java</b>'
+Comment='<span size="xx-large">Java bindings for mod_cluster</span>'
+Comment3='
+This package contains Java part of mod_cluster.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://jboss.org/mod_cluster'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

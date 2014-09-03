@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>scim-tables-thai</b>'
+Comment='<span size="xx-large">SCIM tables for Thai</span>'
+Comment3='
+This package contains scim-tables files for Thai input.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/scim'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

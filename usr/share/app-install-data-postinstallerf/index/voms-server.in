@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>voms-server</b>'
+Comment='<span size="xx-large">Virtual Organization Membership Service Server</span>'
+Comment3='
+In grid computing, and whenever the access to resources may be controlled
+by parties external to the resource provider, users may be grouped to
+Virtual Organizations (VOs). This package provides a VO Membership Service
+(VOMS), which informs on that association between users and their VOs
+groups, roles and capabilities.
+
+The service can be understood as an account database, which serves the
+information in a special format (VOMS credential). The VO manager can
+administrate it remotely using command line tools or a web interface.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://wiki.italiangrid.it/VOMS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-libguestfs</b>'
+Comment='<span size="xx-large">Python bindings for libguestfs</span>'
+Comment3='
+python-libguestfs contains Python bindings for libguestfs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

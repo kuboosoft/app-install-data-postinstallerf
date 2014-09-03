@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>drupal7-jquery_update</b>'
+Comment='<span size="xx-large">Upgrades the version of jQuery in Drupal core to a newer version of jQuery</span>'
+Comment3='
+Upgrades the version of jQuery in Drupal core to a newer version of jQuery.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/jquery_update'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

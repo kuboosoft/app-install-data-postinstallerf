@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>chipmunk</b>'
+Comment='<span size="xx-large">Physics engine for 2D games</span>'
+Comment3='
+Chipmunk is a 2D rigid body physics library distributed under the MIT license.
+Though not yet complete, it is intended to be fast, numerically stable, and
+easy to use.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/chipmunk-physics/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

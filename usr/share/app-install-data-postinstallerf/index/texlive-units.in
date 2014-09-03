@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-units</b>'
+Comment='<span size="xx-large">Typeset units</span>'
+Comment3='
+The package is provided as a bundle with the nicefrac package
+for typing fractions. Units uses nicefrac in typesetting
+physical units in a standard-looking sort of way.
+
+date 2009-09-27 115243 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

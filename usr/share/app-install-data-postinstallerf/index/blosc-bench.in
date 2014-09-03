@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>blosc-bench</b>'
+Comment='<span size="xx-large">Benchmark for the Blosc compressor</span>'
+Comment3='
+The blosc-bench package contains a benchmark suite which evaluates
+the performances of Blosc, and compare them with memcpy.
+'
+License='MIT'
+Screenshot=''
+Url='http://blosc.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

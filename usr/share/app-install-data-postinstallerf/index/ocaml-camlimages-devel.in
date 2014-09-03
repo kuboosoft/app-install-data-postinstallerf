@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ocaml-camlimages-devel</b>'
+Comment='<span size="xx-large">Development files for camlimages</span>'
+Comment3='
+The camlimages-devel package provides libraries and headers for
+developing applications using camlimages
+
+Includes documentation provided by ocamldoc
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://cristal.inria.fr/camlimages/eng.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

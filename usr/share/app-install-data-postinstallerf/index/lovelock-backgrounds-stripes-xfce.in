@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lovelock-backgrounds-stripes-xfce</b>'
+Comment='<span size="xx-large">Lovelock Stripes Wallpapers for XFCE4</span>'
+Comment3='
+This package contains XFCE4 desktop wallpapers for the Lovelock Stripes
+theme.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F14_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>totpcgi-selinux</b>'
+Comment='<span size="xx-large">SELinux policies for totpcgi</span>'
+Comment3='
+This package includes SELinux policy for totpcgi and totpcgi-provisioning.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/mricon/totp-cgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

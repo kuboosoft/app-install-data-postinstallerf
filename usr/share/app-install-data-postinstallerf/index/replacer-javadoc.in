@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>replacer-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for replacer</span>'
+Comment3='
+This package contains javadoc for replacer.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/maven-replacer-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

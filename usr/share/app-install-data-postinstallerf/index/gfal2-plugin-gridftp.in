@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gfal2-plugin-gridftp</b>'
+Comment='<span size="xx-large">Provide the gridftp support for gfal2</span>'
+Comment3='
+Provide the gridftp support (GSIFTP//) for gfal2.
+The gridftp plugin provides the POSIX operations and
+the third party transfer support on the GSIFTP URLs.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2'
+the third party transfer support on the GSIFTP URLs.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

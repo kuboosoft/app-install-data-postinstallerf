@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Affix-Infix2Postfix</b>'
+Comment='<span size="xx-large">Perl extension for converting from infix notation to postfix notation</span>'
+Comment3='
+Infix2Postfix as the name suggests converts from infix to postfix notation.
+The reason why someone would like to do this is that postfix notation is
+generally much easier to do in computers. For example take an expression
+like a+b+c*d. For us humans its pretty easy to do that calculation. But
+its actually much better for computers to get a string of operations such
+as a b + c d * +, where the variable names mean put variable on stack.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Affix-Infix2Postfix/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

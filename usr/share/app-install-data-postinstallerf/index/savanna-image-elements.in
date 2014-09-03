@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>savanna-image-elements</b>'
+Comment='<span size="xx-large">Savanna diskimage-builder elements</span>'
+Comment3='
+Diskimage-builder (DIB) elements for building Savanna disk images.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://launchpad.net/savanna'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

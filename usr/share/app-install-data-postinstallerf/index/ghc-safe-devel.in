@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-safe-devel</b>'
+Comment='<span size="xx-large">Haskell safe library development files</span>'
+Comment3='
+This package provides the Haskell safe library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/safe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

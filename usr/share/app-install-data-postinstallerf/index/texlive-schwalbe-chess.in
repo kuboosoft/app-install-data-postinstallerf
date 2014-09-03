@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-schwalbe-chess</b>'
+Comment='<span size="xx-large">Typeset the German chess magazine "Die Schwalbe"</span>'
+Comment3='
+The package is based on chess-problem-diagrams, which in its
+turn has a dependency on the bartel-chess-fonts
+
+date 2013-04-14 183907 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

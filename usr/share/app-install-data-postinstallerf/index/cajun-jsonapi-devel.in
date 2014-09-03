@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cajun-jsonapi-devel</b>'
+Comment='<span size="xx-large">Header files for cajun</span>'
+Comment3='
+Header files you can use to develop applications with cajun.
+
+CAJUN is a C++ API for the JSON data interchange format with an emphasis
+on an intuitive, concise interface. The library provides JSON types
+and operations that mimic standard C++ as closely as possible in concept
+and design.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/cajun-jsonapi/cajun-jsonapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jacoco-javadoc</b>'
+Comment='<span size="xx-large">Java-docs for jacoco</span>'
+Comment3='
+This package contains the API documentation for jacoco.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclemma.org/jacoco/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

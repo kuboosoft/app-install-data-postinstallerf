@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kcachegrind</b>'
+Comment='<span size="xx-large">GUI to profilers such as Valgrind</span>'
+Comment3='
+Browser for data produced by profiling tools (e.g. cachegrind)
+'
+License='GPLv2 and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/kcachegrind'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

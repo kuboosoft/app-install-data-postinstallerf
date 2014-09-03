@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>glite-jobid-api-cpp-devel</b>'
+Comment='<span size="xx-large">C++ API handling gLite jobid</span>'
+Comment3='
+C++ API handling gLite jobid. It is a thin wrapper of the C implementation
+(glite-jobid-api-c).
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

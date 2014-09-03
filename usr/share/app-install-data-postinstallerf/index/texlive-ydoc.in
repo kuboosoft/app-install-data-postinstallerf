@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-ydoc</b>'
+Comment='<span size="xx-large">Macros for documentation of LaTeX classes and packages</span>'
+Comment3='
+The package provides macros and environments to document LaTeX
+packages and classes. It is an (as yet unfinished) alternative
+to the ltxdoc class and the doc or xdoc packages. The aim is to
+provide a different layout and more modern styles (using the
+xcolor, hyperref packages, etc.) This is an alpha release, and
+should probably not (yet) be used with other packages, since
+the implementation might change. Nevertheless, the author uses
+it to document his own packages.
+
+date 2012-02-24 113236 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>subscription-manager</b>'
+Comment='<span size="xx-large">Tools and libraries for subscription and repository management</span>'
+Comment3='
+The Subscription Manager package provides programs and libraries to allow users
+to manage subscriptions and yum repositories from the Red Hat entitlement
+platform.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/subscription-manager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

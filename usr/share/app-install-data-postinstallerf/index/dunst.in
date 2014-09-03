@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dunst</b>'
+Comment='<span size="xx-large">Simple and configurable notification-daemon</span>'
+Comment3='
+Dunst is a highly configurable and lightweight notification daemon with the
+similar look and feel to dmenu.
+'
+License='BSD and MIT'
+Screenshot=''
+Url='http://www.knopwob.org/dunst'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

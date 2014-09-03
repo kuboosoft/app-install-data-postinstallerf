@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-basemap-examples</b>'
+Comment='<span size="xx-large">Example programs and data for python-basemap</span>'
+Comment3='
+Example programs and data for python-basemap.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://matplotlib.sourceforge.net/users/toolkits.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

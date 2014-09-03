@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>PySolFC-music</b>'
+Comment='<span size="xx-large">Music for PySolFC</span>'
+Comment3='
+This package contains the background music for PySolFC-music
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.pysol.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-rinari</b>'
+Comment='<span size="xx-large">Ruby on rails minor mode for Emacs</span>'
+Comment3='
+Rinari is a set of Emacs Lisp functions aimed towards
+making Emacs into a top-notch Ruby on rails development environment.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://rinari.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

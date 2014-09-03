@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>scim-fcitx</b>'
+Comment='<span size="xx-large">FCITX Input Method Engine for SCIM</span>'
+Comment3='
+scim-fcitx is a port of the fcitx Chinese input method for the SCIM input
+method platform.  It provides Wubi, Erbi, Cangjie, and Pinyin styles of input.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.scim-im.org/projects/imengines/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

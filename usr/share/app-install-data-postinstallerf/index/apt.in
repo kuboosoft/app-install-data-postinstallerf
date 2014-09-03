@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>apt</b>'
+Comment='<span size="xx-large">Debians Advanced Packaging Tool with RPM support</span>'
+Comment3='
+APT-RPM is a port of Debians apt tools for RPM based distributions.
+It provides the apt-get utility that provides a simple, safe way to
+install and upgrade packages. APT features complete installation
+ordering, multiple source capability and several other useful
+features.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://apt-rpm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

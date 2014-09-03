@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>calc</b>'
+Comment='<span size="xx-large">Arbitrary precision arithmetic system and calculator</span>'
+Comment3='
+Calc is an arbitrary precision C-like arithmetic system that is a
+calculator, an algorithm-prototyper, and a mathematical research tool. Calc
+comes with a rich set of built-in mathematical and programmatic functions.
+
+Note this copy of Calc is linked against the GNU Readline library and has
+been converted to the ordinary GPL as per section 3 of the LGPL. See the
+included calc-converted-to-gpl.txt document for details.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://isthe.com/chongo/tech/comp/calc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

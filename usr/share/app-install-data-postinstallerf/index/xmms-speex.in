@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmms-speex</b>'
+Comment='<span size="xx-large">X MultiMedia System input plugin to play speex files</span>'
+Comment3='
+X MultiMedia System input plugin to play speex files.
+'
+License='GPLv2'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

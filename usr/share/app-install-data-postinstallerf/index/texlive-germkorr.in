@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-germkorr</b>'
+Comment='<span size="xx-large">Change kerning for german quotation marks</span>'
+Comment3='
+The package germcorr has to be loaded after the package german.
+It brings some letters like T nearer to german single and
+double quotes even when that letter wears a standard accent
+like "`\.T".
+
+date 2009-11-10 091537 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

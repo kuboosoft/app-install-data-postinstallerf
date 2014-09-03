@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nafees-riqa-fonts</b>'
+Comment='<span size="xx-large">Nafees riqa font for writing Urdu in the Riqa script</span>'
+Comment3='
+Character based Nafees Riqa Open Type Font for writing Urdu in Riqa\
+script based on Unicode standard.
+'
+License='Bitstream Vera'
+Screenshot=''
+Url='http://www.crulp.org/index.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

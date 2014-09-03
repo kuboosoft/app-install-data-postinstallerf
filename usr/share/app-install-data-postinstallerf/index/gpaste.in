@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gpaste</b>'
+Comment='<span size="xx-large">Clipboard management system</span>'
+Comment3='
+gpasted is a clipboard management daemon with DBus interface. gpaste is its CLI
+client and gpaste-settings is a tool to edit gpasted settings.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/Keruspe/GPaste'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cvc4-doc</b>'
+Comment='<span size="xx-large">Interface documentation for cvc4</span>'
+Comment3='
+Interface documentation for cvc4.
+'
+License='MIT and BSD and Boost'
+Screenshot=''
+Url='http://cvc4.cs.nyu.edu/web/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

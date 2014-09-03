@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bsnes</b>'
+Comment='<span size="xx-large">SNES emulator focused on accuracy</span>'
+Comment3='
+bsnes is a multi-system emulator that began development on 2004-10-14. It
+currently supports the following systems
+* Nintendo
+* Super Nintendo
+* Game Boy
+* Game Boy Color
+* Game Boy Advance
+* Nintendo DS
+
+bsnes also supports the following subsystems
+'
+License='GPLv3'
+Screenshot=''
+Url='http://byuu.org/bsnes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

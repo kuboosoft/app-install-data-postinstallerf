@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>vdrift</b>'
+Comment='<span size="xx-large">Driving/drift racing simulation</span>'
+Comment3='
+VDrift is a cross-platform, open source driving simulation made with drift
+racing in mind. Its powered by the excellent Vamos physics engine. It is
+released under the GNU General Public License (GPL) v2. It is currently
+available for Linux, FreeBSD, Mac OS X and Windows (Cygwin).
+'
+License='GPLv3+'
+released under the GNU General Public License (GPL) v2. It is currently'
+Screenshot=''
+Url='http://vdrift.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

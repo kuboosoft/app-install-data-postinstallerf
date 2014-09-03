@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-farsi</b>'
+Comment='<span size="xx-large">(No) Persian hyphenation patterns</span>'
+Comment3='
+Prevent hyphenation in Persian.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

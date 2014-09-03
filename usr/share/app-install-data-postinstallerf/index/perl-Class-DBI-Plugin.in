@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Class-DBI-Plugin</b>'
+Comment='<span size="xx-large">Abstract base class for Class::DBI plugins</span>'
+Comment3='
+ClassDBIPlugin is an abstract base class for ClassDBI plugins. Its
+purpose is to make writing plugins easier. Writers of plugins should be able
+to concentrate on the functionality their module provides, instead of having
+to deal with the symbol table hackery involved when writing a plugin module.
+Only three things must be remembered
+
+* All methods to be exported are given the "Plugged" attribute. All other
+  methods are not exported to the plugged-in class.
+* Method calls that are to be sent to the plugged-in class are put in the
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-DBI-Plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

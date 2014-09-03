@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ekiga</b>'
+Comment='<span size="xx-large">A Gnome based SIP/H323 teleconferencing application</span>'
+Comment3='
+Ekiga is a tool to communicate with video and audio over the internet.
+It uses the standard SIP and H323 protocols.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ekiga.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

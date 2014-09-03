@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>lxsession</b>'
+Comment='<span size="xx-large">Lightweight X11 session manager</span>'
+Comment3='
+LXSession is a standard-compliant X11 session manager with shutdown/
+reboot/suspend support via HAL. In connection with gdm it also supports user
+switching.
+
+LXSession is derived from XSM and is developed as default X11 session manager
+of LXDE, the Lightweight X11 Desktop Environment. Though being part of LXDE,
+its totally desktop-independent and only has few dependencies.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lxde.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Net-DBus</b>'
+Comment='<span size="xx-large">Use and provide DBus services</span>'
+Comment3='
+NetDBus provides a Perl API for the DBus message system. The DBus Perl
+interface is currently operating against the 0.33 development version of
+DBus, but should work with later versions too, providing the API changes
+have not been too drastic.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-DBus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

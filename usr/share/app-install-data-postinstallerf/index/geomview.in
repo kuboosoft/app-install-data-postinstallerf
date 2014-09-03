@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>geomview</b>'
+Comment='<span size="xx-large">Interactive 3D viewing program</span>'
+Comment3='
+Geomview is an interactive 3D viewing program for Unix. It lets you view and
+manipulate 3D objects you use the mouse to rotate, translate, zoom in and out,
+etc. It can be used as a standalone viewer for static objects or as a display
+engine for other programs which produce dynamically changing geometry. It can
+display objects described in a variety of file formats. It comes with a wide
+selection of example objects, and you can create your own objects too.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.geomview.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

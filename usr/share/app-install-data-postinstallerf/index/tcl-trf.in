@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>tcl-trf</b>'
+Comment='<span size="xx-large">Tcl extension providing "transformer" commands</span>'
+Comment3='
+Trf is an extension library to the script language tcl. It provides
+transformer procedures which change the flow of bytes through a channel
+in arbitrary ways. The underlying functionality in the core is that of
+stacked channels which allows code outside of the core to intercept all
+actions (read/write) on a channel.
+
+Among the applications of the above provided here are compression,
+charset recording, error correction, and hash generation.
+'
+License='MIT and BSD and LGPLv2+ and GPLv2+ and Public Domain and OpenSSL'
+Screenshot=''
+Url='http://tcltrf.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

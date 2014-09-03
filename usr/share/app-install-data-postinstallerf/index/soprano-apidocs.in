@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>soprano-apidocs</b>'
+Comment='<span size="xx-large">Soprano API documentation</span>'
+Comment3='
+This package includes the Soprano API documentation in HTML
+format for easy browsing.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/soprano'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

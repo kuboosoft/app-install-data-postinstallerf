@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>bzrtools</b>'
+Comment='<span size="xx-large">Collection of utilities and plugins for Bazaar-NG</span>'
+Comment3='
+BzrTools is a collection of plugins for Bazaar-NG (bzr).  Among the included
+plugins are
+* rspush - uses rsync to push local changes to a remote server
+* annotate - prints a file annotated with the revision next to each line
+* baz-import - (Requres PyBaz) import an arch archive losslessly into bzr
+* shelve/unshelve - allows you to undo some changes, commit, and restore
+* clean-tree - remove unknown, ignored-junk, or unversioned files from the tree
+* graph-ancestry - use dot to produce branch ancestry graphs
+* shell - a bzr command interpreter with command completion
+* patch - apply a patch to your tree from a file or URL
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bazaar-vcs.org/BzrTools'
+* patch - apply a patch to your tree from a file or URL'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

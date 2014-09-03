@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>dasher</b>'
+Comment='<span size="xx-large">A predictive text input system</span>'
+Comment3='
+Dasher is an information-efficient text-entry interface, driven by natural
+continuous pointing gestures. Dasher is a competitive text-entry system
+wherever a full-size keyboard cannot be used, e.g. when operating a computer
+one-handed, by joystick, touchscreen, trackball, or mouse, when operating
+a computer without hands (i.e. by head-mouse or by eyetracker), or on
+palmtops or wearable computers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-pxchfon</b>'
+Comment='<span size="xx-large">Japanese font setup for pLaTeX and upLaTeX</span>'
+Comment3='
+pxchfon package
+
+date 2013-05-18 174116 +0200
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

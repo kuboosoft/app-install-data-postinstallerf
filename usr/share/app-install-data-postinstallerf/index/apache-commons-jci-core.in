@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-commons-jci-core</b>'
+Comment='<span size="xx-large">Commons Java Compiler Interface - core</span>'
+Comment3='
+Commons JCI core interfaces and implementations.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/jci/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

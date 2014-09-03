@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>svgsalamander</b>'
+Comment='<span size="xx-large">An SVG engine for Java</span>'
+Comment3='
+SVG Salamander is an SVG engine for Java thats designed to be small, fast,
+and allow programmers to use it with a minimum of fuss. Its in particular
+targeted for making it easy to integrate SVG into Java games and making it
+much easier for artists to design 2D game content - from rich interactive
+menus to charts and graphcs to complex animations.
+'
+License='LGPLv2+ or BSD'
+Screenshot=''
+Url='http://svgsalamander.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

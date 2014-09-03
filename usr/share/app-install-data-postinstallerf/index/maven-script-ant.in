@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-script-ant</b>'
+Comment='<span size="xx-large">Maven Ant Mojo Support</span>'
+Comment3='
+This package provides Maven Ant Mojo Support, which write Maven plugins with
+Ant scripts.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugin-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

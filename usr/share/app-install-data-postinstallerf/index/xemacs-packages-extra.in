@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>xemacs-packages-extra</b>'
+Comment='<span size="xx-large">Collection of XEmacs lisp packages</span>'
+Comment3='
+XEmacs is a highly customizable open source text editor and
+application development system.  It is protected under the GNU General
+Public License and related to other versions of Emacs, in particular
+GNU Emacs.  Its emphasis is on modern graphical user interface support
+and an open software development model, similar to Linux.
+
+The XEmacs packages collection contains a large collection of useful
+lisp packages for XEmacs including mail readers, programming modes and
+utilities, and packages related to using XEmacs in multi-lingual
+environments.
+'
+License='GPLv2+ and GPLv3+'
+Public License and related to other versions of Emacs, in particular'
+Screenshot=''
+Url='http://www.xemacs.org/Documentation/packageGuide.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

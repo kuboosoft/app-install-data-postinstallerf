@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>fetchmail</b>'
+Comment='<span size="xx-large">A remote mail retrieval and forwarding utility</span>'
+Comment3='
+Fetchmail is a remote mail retrieval and forwarding utility intended
+for use over on-demand TCP/IP links, like SLIP or PPP connections.
+Fetchmail supports every remote-mail protocol currently in use on the
+Internet (POP2, POP3, RPOP, APOP, KPOP, all IMAPs, ESMTP ETRN, IPv6,
+and IPSEC) for retrieval. Then Fetchmail forwards the mail through
+SMTP so you can read it through your favorite mail client.
+
+Install fetchmail if you need to retrieve mail over SLIP or PPP
+connections.
+'
+License='GPL+ and Public Domain'
+Screenshot=''
+Url='http://fetchmail.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

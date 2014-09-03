@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Safe-Isa</b>'
+Comment='<span size="xx-large">Call isa, can, does and DOES safely on things that may not be objects</span>'
+Comment3='
+How many times have you found yourself writing
+
+  if ($obj->isa(Something)) {
+and then shortly afterwards cursing and changing it to
+  if (ScalarUtilblessed($obj) and $obj->isa(Something)) {
+Right. Thats why this module exists.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Safe-Isa/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

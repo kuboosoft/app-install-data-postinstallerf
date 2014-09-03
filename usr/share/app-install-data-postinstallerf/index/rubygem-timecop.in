@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-timecop</b>'
+Comment='<span size="xx-large">Provides a unified method to mock Time.now, Date.today in a single call</span>'
+Comment3='
+A gem providing "time travel" and "time freezing" capabilities, making it dead
+simple to test time-dependent code.  It provides a unified method to mock
+Time.now, Date.today, and DateTime.now in a single call.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jtrupiano/timecop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

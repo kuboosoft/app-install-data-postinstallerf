@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-duerer-latex</b>'
+Comment='<span size="xx-large">LaTeX support for the Duerer fonts</span>'
+Comment3='
+LaTeX support for Hoenigs Computer Duerer fonts, using their
+standard fontname names.
+
+date 2008-08-18 134916 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

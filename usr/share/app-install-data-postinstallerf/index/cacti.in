@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cacti</b>'
+Comment='<span size="xx-large">An rrd based graphing tool</span>'
+Comment3='
+Cacti is a complete frontend to RRDTool. It stores all of the
+necessary information to create graphs and populate them with
+data in a MySQL database. The frontend is completely PHP
+driven. Along with being able to maintain graphs, data
+sources, and round robin archives in a database, Cacti also
+handles the data gathering. There is SNMP support for those
+used to creating traffic graphs with MRTG.
+'
+License='GPLv2+ and LGPLv2 and (MPLv1.1 or GPLv2 or LGPLv2) and (LGPLv2 or BSD)'
+Screenshot=''
+Url='http://www.cacti.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

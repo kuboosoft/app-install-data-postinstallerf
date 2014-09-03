@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gtkperf
+Name=GtkPerf
+Comment=Test GTK+ performance
+Icon=/usr/share/app-install-data-postinstallerf/icons/duck.png
+Terminal=false
+Type=Application
+Categories=System;

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>proftpd-devel</b>'
+Comment='<span size="xx-large">ProFTPD - Tools and header files for developers</span>'
+Comment3='
+This package is required to build additional modules for ProFTPD.
+
+URL          http//www.proftpd.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.proftpd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

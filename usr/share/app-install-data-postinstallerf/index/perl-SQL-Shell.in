@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-SQL-Shell</b>'
+Comment='<span size="xx-large">Command interpreter for DBI shells</span>'
+Comment3='
+SQLShell is a command-interpreter API for building shells and batch
+scripts. A command-line interface with readline support is included
+as part of the CPAN distribution. See <SQLShellManual> for a user
+guide. SQLShell offers features similar to the mysql or sql*plus
+client programs but is database independent.
+
+This package provides the backend SQLShell libraries.  For the
+command-line interperter (sqlsh), please also install the sqlsh package.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/SQL-Shell'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

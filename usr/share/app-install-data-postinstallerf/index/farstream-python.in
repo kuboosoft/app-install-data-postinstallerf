@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>farstream-python</b>'
+Comment='<span size="xx-large">Python binding for farstream</span>'
+Comment3='
+Python bindings for farstream.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Farstream'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

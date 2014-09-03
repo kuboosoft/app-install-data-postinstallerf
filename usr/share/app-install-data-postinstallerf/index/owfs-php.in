@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>owfs-php</b>'
+Comment='<span size="xx-large">PHP interface for the 1-wire file-system</span>'
+Comment3='
+owfs-php is a php interface for the 1-wire file-system
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.owfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

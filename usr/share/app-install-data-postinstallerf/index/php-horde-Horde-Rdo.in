@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Rdo</b>'
+Comment='<span size="xx-large">Rampage Data Objects</span>'
+Comment3='
+Lightweight ORM layer
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

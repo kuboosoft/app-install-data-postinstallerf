@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-lacheck</b>'
+Comment='<span size="xx-large">LaTeX checker</span>'
+Comment3='
+Lacheck is a tool for finding common mistakes in LaTeX
+documents. The distribution includes sources, and executables
+for OS/2 and Win32 environments.
+
+date 2012-06-24 003521 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

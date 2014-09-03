@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rocksndiamonds</b>'
+Comment='<span size="xx-large">Underground digging game</span>'
+Comment3='
+Dig for treasure and solve puzzles underground, but watch out for falling
+rocks and strange creatures!
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.artsoft.org/rocksndiamonds/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dbusmenu-qt</b>'
+Comment='<span size="xx-large">A Qt implementation of the DBusMenu protocol</span>'
+Comment3='
+This library provides a Qt implementation of the DBusMenu protocol.
+
+The DBusMenu protocol makes it possible for applications to export and import
+their menus over DBus.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://launchpad.net/libdbusmenu-qt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

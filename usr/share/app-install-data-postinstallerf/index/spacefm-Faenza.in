@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>spacefm-Faenza</b>'
+Comment='<span size="xx-large">Faenza theme files for spacefm</span>'
+Comment3='
+This package contains Faenza theme files for spacefm.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://ignorantguru.github.io/spacefm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

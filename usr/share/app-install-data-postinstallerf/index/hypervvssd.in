@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>hypervvssd</b>'
+Comment='<span size="xx-large">HyperV VSS daemon</span>'
+Comment3='
+Hypervvssd is an implementation of HyperV VSS functionality
+for Linux. The daemon is used for host initiated guest snapshot
+on HyperV hypervisor. The daemon first registers with the
+kernel driver. After this is done it waits for instructions
+from Windows Host if to "freeze" or "thaw" the filesystem
+on the Linux Guest.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kernel.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

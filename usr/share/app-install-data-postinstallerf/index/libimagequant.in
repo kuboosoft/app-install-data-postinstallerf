@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libimagequant</b>'
+Comment='<span size="xx-large">Small, portable C lib for HQ conversion of RGBA to 8-bit indexed-color</span>'
+Comment3='
+libimagequant converts 24/32-bit RGBA PNG images to 8-bit palette with alpha
+channel preserved.  Such images are compatible with all modern web browsers and
+a compatibility setting is available to help transparency degrade well in
+Internet Explorer 6.  Quantized files are often 40-70 percent smaller than
+their 24/32-bit version. libimagequant uses the median cut algorithm.
+
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://pngquant.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

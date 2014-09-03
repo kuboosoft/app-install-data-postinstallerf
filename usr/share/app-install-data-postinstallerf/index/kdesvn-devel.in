@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdesvn-devel</b>'
+Comment='<span size="xx-large">Development files for kdesvn</span>'
+Comment3='
+The kdesvn-devel package contains libraries and header files for
+developing applications that use the kdesvn subversion wrapper library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kdesvn.alwins-world.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clean-mersennetwister</b>'
+Comment='<span size="xx-large">An MersenneTwister implementation for Clean</span>'
+Comment3='
+An Clean implementation of the Mersenne Twister algorithm
+'
+License='LGPLv2+ or BSD'
+Screenshot=''
+Url='http://wiki.clean.cs.ru.nl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cube2font</b>'
+Comment='<span size="xx-large">Utility program for creating font bitmaps for Cube Engine games</span>'
+Comment3='
+cube2font is a utility program designed to create font bitmaps for Cube
+Engine games, it works by taking a Truetype font and building it into a
+set of coordinates in an image. cube2font is an improved version of the
+previous TTF2Font, supporting a much larger range of characters.
+'
+License='zlib'
+Screenshot=''
+Url='http://www.redeclipse.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

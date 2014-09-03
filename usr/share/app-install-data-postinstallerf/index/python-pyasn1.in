@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-pyasn1</b>'
+Comment='<span size="xx-large">ASN.1 tools for Python</span>'
+Comment3='
+This is an implementation of ASN.1 types and codecs in the Python programming
+language.
+'
+License='BSD'
+Screenshot=''
+Url='http://pyasn1.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

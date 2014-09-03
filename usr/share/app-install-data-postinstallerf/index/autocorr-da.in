@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>autocorr-da</b>'
+Comment='<span size="xx-large">Danish auto-correction rules</span>'
+Comment3='
+Rules for auto-correcting common Danish typing errors.
+'
+License='(MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and Artistic and MPLv2.0'
+Screenshot=''
+Url='http://www.libreoffice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

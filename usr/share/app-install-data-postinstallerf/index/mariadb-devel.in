@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mariadb-devel</b>'
+Comment='<span size="xx-large">Files for development of MariaDB/MySQL applications</span>'
+Comment3='
+MariaDB is a multi-user, multi-threaded SQL database server. This
+package contains the libraries and header files that are needed for
+developing MariaDB/MySQL client applications.
+MariaDB is a community developed branch of MySQL.
+
+'
+License='GPLv2 with exceptions and LGPLv2 and BSD'
+Screenshot=''
+Url='http://mariadb.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

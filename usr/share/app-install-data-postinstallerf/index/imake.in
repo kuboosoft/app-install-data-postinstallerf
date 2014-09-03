@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>imake</b>'
+Comment='<span size="xx-large">imake source code configuration and build system</span>'
+Comment3='
+Imake is a deprecated source code configuration and build system which
+has traditionally been supplied by and used to build the X Window System
+in X11R6 and previous releases.  As of the X Window System X11R7 release,
+the X Window system has switched to using GNU autotools as the primary
+build system, and the Imake system is now deprecated, and should not be
+used by new software projects.  Software developers are encouraged to
+migrate software to the GNU autotools system.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

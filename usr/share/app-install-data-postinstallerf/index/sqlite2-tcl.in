@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sqlite2-tcl</b>'
+Comment='<span size="xx-large">Tcl bindings for sqlite</span>'
+Comment3='
+SQLite is a small, fast, embeddable SQL database engine that supports
+most of SQL92, including transactions with atomic commit and rollback,
+subqueries, compound queries, triggers, and views.
+This package contains tcl bindings for sqlite.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.sqlite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

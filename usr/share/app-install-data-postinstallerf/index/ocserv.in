@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ocserv</b>'
+Comment='<span size="xx-large">OpenConnect SSL VPN server</span>'
+Comment3='
+OpenConnect server (ocserv) is an SSL VPN server. Its purpose is to be a
+secure, small, fast and configurable VPN server. It implements the OpenConnect
+SSL VPN protocol, and has also (currently experimental) compatibility with
+clients using the AnyConnect SSL VPN protocol. The OpenConnect VPN protocol
+uses the standard IETF security protocols such as TLS 1.2, and Datagram TLS
+to provide the secure VPN service.
+'
+License='GPLv2+ and BSD and MIT and CC0'
+Screenshot=''
+Url='http://www.infradead.org/ocserv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

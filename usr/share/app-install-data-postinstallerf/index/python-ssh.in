@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-ssh</b>'
+Comment='<span size="xx-large">A Python SSH2 library</span>'
+Comment3='
+This is a library for making SSH2 connections (client or server). Emphasis is
+on using SSH2 as an alternative to SSL for making secure connections between
+python scripts. All major ciphers and hash methods are supported. SFTP client
+and server mode are both supported too.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/bitprophet/ssh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

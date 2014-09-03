@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>flyingsaucer</b>'
+Comment='<span size="xx-large">XML/XHTML and CSS 2.1 renderer in pure Java</span>'
+Comment3='
+An XML/XHTML CSS 2.1 Renderer library in pure Java
+for rendering to PDF, images, and Swing panels.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/flying-saucer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

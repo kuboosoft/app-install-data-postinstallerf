@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Data</b>'
+Comment='<span size="xx-large">Horde Data API</span>'
+Comment3='
+A data import and export API, with backends for
+* CSV
+* TSV
+* iCalendar
+* vCard
+* vNote
+* vTodo
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

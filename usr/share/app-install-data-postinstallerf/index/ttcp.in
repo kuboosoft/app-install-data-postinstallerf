@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ttcp</b>'
+Comment='<span size="xx-large">A tool for testing TCP connections</span>'
+Comment3='
+ttcp is a tool for testing the throughput of TCP connections.  Unlike other
+tools which might be used for this purpose (such as FTP clients), ttcp does
+not read or write data from or to a disk while operating, which helps ensure
+more accurate results.
+'
+License='Public Domain'
+Screenshot=''
+Url='ftp://ftp.sgi.com/sgi/src/ttcp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

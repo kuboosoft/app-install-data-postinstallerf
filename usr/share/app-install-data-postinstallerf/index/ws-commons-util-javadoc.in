@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ws-commons-util-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for ws-commons-util</span>'
+Comment3='
+Javadoc for ws-commons-util.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://apache.osuosl.org/ws/commons/util/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

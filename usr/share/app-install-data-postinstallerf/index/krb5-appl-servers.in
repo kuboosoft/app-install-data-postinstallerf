@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>krb5-appl-servers</b>'
+Comment='<span size="xx-large">Kerberos-aware telnet, ftp, rcp, rsh and rlogin servers</span>'
+Comment3='
+This package contains Kerberos-aware versions of the telnet, ftp, rcp, rsh,
+and rlogin servers.  While these have been replaced by tools such as OpenSSH
+in most environments, they remain in use in others.
+'
+License='MIT'
+Screenshot=''
+Url='http://web.mit.edu/kerberos/www/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

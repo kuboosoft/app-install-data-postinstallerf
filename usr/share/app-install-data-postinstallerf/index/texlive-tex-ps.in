@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-tex-ps</b>'
+Comment='<span size="xx-large">TeX to PostScript generic macros and add-ons</span>'
+Comment3='
+TeX to PostScript generic macros and add-ons transformations
+of EPS files, prepress preparation, color separation, mirror,
+etc.
+
+date 2009-10-10 005128 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

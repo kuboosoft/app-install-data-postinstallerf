@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ledger</b>'
+Comment='<span size="xx-large">A powerful command-line double-entry accounting system</span>'
+Comment3='
+Ledger is a powerful, double-entry accounting system that is accessed
+from the UNIX command-line. This may put off some users ? as there is
+no flashy UI ? but for those who want unparalleled reporting access to
+their data, there really is no alternative.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.newartisans.com/software/ledger.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

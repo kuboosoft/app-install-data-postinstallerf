@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sparcy</b>'
+Comment='<span size="xx-large">Command line utility for Sparc Systems GPS loggers</span>'
+Comment3='
+Command line utility for Sparc Systems GPS loggers
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/sparcy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

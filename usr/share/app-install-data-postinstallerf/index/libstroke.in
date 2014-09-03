@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libstroke</b>'
+Comment='<span size="xx-large">A stroke interface library</span>'
+Comment3='
+LibStroke is a stroke interface library.  Strokes are motions
+of the mouse that can be interpreted by a program as a command.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.etla.net/libstroke/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

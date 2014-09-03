@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-blaze-builder-enumerator</b>'
+Comment='<span size="xx-large">Enumeratees for conversion of builders to bytestrings</span>'
+Comment3='
+This package integrates the builders from the blaze-builder package
+with the enumerator package. It provides infrastructure and
+enumeratees for incrementally executing builders and pass the filled
+chunks to a bytestring iteratee.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/blaze-builder-enumerator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

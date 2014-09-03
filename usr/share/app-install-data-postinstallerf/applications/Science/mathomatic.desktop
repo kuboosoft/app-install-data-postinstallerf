@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n mathomatic
+Name=Mathomatic
+GenericName=Computer Algebra System
+Comment=Do symbolic mathematics and quick calculations
+Icon=/usr/share/app-install-data-postinstallerf/icons/mathomatic.png
+Terminal=true
+Type=Application
+Categories=Education;Science;Math;
+StartupNotify=false

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mtdev-devel</b>'
+Comment='<span size="xx-large">Multitouch Protocol Translation Library Development Package</span>'
+Comment3='
+Multitouch protocol translation library development package.
+
+URL          http//bitmath.org/code/mtdev/
+'
+License='MIT'
+Screenshot=''
+Url='http://bitmath.org/code/mtdev/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

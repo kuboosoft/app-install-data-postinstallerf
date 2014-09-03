@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xu4</b>'
+Comment='<span size="xx-large">Ultima IV recreated</span>'
+Comment3='
+XU4 is a remake of the computer game Ultima IV. This game requires the
+original Ultima IV datafiles, which can be freely downloaded from the internet
+but may not be (re)distributed. When you start xu4 for the first time it will
+offer to download the datafiles for you.
+
+recreation of the old game, right up to the crappy graphics.  If you
+are looking for a game with modern gameplay and graphics, this is not
+spirit of the original game will be added.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xu4.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

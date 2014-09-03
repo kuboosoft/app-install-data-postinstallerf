@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yubikey-personalization-gui</b>'
+Comment='<span size="xx-large">GUI for Yubikey personalization</span>'
+Comment3='
+Yubicos YubiKey can be re-programmed with a new AES key. This is a graphical
+tool that makes this an easy task.
+'
+License='BSD'
+Screenshot=''
+Url='http://opensource.yubico.com/yubikey-personalization-gui/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

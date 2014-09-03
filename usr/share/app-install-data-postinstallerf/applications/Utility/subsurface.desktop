@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n subsurface
+Type=Application
+Name=subsurface
+GenericName=dive log program
+Comment=manage and display dive computer data
+Icon=/usr/share/app-install-data-postinstallerf/icons/subsurface.png
+Terminal=false
+Categories=Utility;

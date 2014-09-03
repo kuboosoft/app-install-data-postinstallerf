@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nfswatch</b>'
+Comment='<span size="xx-large">An NFS traffic monitoring tool</span>'
+Comment3='
+Nfswatch is a command-line tool for monitoring NFS traffic.
+Nfswatch can capture and analyze the NFS packets on a particular
+network interface or on all interfaces.
+
+Install nfswatch if you need a program to monitor NFS traffic.
+'
+License='BSD'
+Screenshot=''
+Url='http://nfswatch.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

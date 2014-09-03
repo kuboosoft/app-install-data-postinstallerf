@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-amqplib</b>'
+Comment='<span size="xx-large">Client library for AMQP</span>'
+Comment3='
+Client library for AMQP (Advanced Message Queuing Protocol)
+
+Supports the 0-8 AMQP spec, and has been tested with RabbitMQ
+and Pythons 2.4 up to 3.2
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/amqplib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

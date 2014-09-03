@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk+extra</b>'
+Comment='<span size="xx-large">A library of gtk+ widgets</span>'
+Comment3='
+A library of dynamically linked gtk+ widgets including
+GtkSheet, GtkPlot, and GtkIconList
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gtkextra.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

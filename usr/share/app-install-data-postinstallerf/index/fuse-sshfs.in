@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fuse-sshfs</b>'
+Comment='<span size="xx-large">FUSE-Filesystem to access remote filesystems via SSH</span>'
+Comment3='
+This is a FUSE-filesystem client based on the SSH File Transfer Protocol.
+Since most SSH servers already support this protocol it is very easy to set
+up i.e. on the server side theres nothing to do.  On the client side
+mounting the filesystem is as easy as logging into the server with ssh.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fuse.sourceforge.net/sshfs.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

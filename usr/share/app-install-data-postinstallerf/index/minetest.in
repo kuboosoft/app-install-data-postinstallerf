@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>minetest</b>'
+Comment='<span size="xx-large">Multiplayer infinite-world block sandbox with survival mode</span>'
+Comment3='
+Game of mining, crafting and building in the infinite world of cubic
+blocks with optional hostile creatures, features both single and the
+network multiplayer mode. There are no in-game sounds yet
+'
+License='LGPLv2+ and CC-BY-SA and MIT'
+Screenshot=''
+Url='http://minetest.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

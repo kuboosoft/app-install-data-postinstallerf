@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libiptcdata</b>'
+Comment='<span size="xx-large">IPTC tag library</span>'
+Comment3='
+libiptcdata is a library for parsing, editing, and saving IPTC data
+stored inside images.  IPTC is a standard for encoding metadata such
+as captions, titles, locations, etc. in the headers of an image file.
+libiptcdata also includes a command-line utility for modifying the
+metadata.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libiptcdata.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

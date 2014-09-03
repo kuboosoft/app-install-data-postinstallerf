@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apache-commons-jxpath</b>'
+Comment='<span size="xx-large">Simple XPath interpreter</span>'
+Comment3='
+Defines a simple interpreter of an expression language called XPath.
+JXPath applies XPath expressions to graphs of objects of all kinds
+JavaBeans, Maps, Servlet contexts, DOM etc, including mixtures thereof.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/jxpath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

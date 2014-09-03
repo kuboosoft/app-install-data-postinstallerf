@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vdr-xineliboutput</b>'
+Comment='<span size="xx-large">Plugins for watching VDR over Xine</span>'
+Comment3='
+VDR plugin xine-lib based software output device for VDR
+
+This package contain plugin for Xine
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/xineliboutput'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

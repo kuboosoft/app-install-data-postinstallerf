@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sblim-gather-devel</b>'
+Comment='<span size="xx-large">SBLIM Gatherer Development Support</span>'
+Comment3='
+This package is needed to develop new plugins for the
+SBLIM (Standards Based Linux Instrumentation for Manageability)
+Gatherer.
+
+'
+License='EPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/sblim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

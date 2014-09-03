@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nss-pam-ldapd</b>'
+Comment='<span size="xx-large">An nsswitch module which uses directory servers</span>'
+Comment3='
+The nss-pam-ldapd daemon, nslcd, uses a directory server to look up name
+service information (users, groups, etc.) on behalf of a lightweight
+nsswitch module.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://arthurdejong.org/nss-pam-ldapd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

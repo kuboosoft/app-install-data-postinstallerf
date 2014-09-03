@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>florist</b>'
+Comment='<span size="xx-large">Open-source implementation of IEEE Standard 1003.5b-1996</span>'
+Comment3='
+FLORIST is an implementation of the IEEE Standards 1003.5 1992,
+IEEE STD 1003.5b 1996, and parts of IEEE STD 1003.5c 1998,
+also known as the POSIX Ada Bindings. Using this library,
+you can call operating system services from within Ada programs.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libre.adacore.com/libre/download2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>sigil</b>'
+Comment='<span size="xx-large">WYSIWYG ebook editor</span>'
+Comment3='
+Sigil is a multi-platform WYSIWYG ebook editor. It is designed to edit books
+in ePub format.
+
+Now what does it have to offer...
+    * Full Unicode support everything you see in Sigil is in UTF-16
+    * Full EPUB spec support
+    * WYSIWYG editing
+    * Multiple Views Book View, Code View and Split View
+    * Metadata editor with full support for all possible metadata entries with
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/sigil/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

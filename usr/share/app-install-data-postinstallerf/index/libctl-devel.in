@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libctl-devel</b>'
+Comment='<span size="xx-large">Development files for libctl</span>'
+Comment3='
+This package contains the development files for libctl.
+
+URL          http//ab-initio.mit.edu/wiki/index.php/Libctl
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ab-initio.mit.edu/wiki/index.php/Libctl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

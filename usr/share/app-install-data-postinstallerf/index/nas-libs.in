@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nas-libs</b>'
+Comment='<span size="xx-large">Run-time libraries for NAS</span>'
+Comment3='
+Run-time libraries for NAS.
+
+URL          http//radscan.com/nas.html
+'
+License='MIT'
+Screenshot=''
+Url='http://radscan.com/nas.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

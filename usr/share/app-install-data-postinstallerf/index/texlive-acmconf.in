@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-acmconf</b>'
+Comment='<span size="xx-large">Class for ACM conference proceedings</span>'
+Comment3='
+This class may be used to typeset articles to be published in
+the proceedings of ACM (Association for Computing Machinery)
+conferences and workshops. The layout produced by the acmconf
+class is based on the ACMs own specification.
+
+date 2008-05-14 192334 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

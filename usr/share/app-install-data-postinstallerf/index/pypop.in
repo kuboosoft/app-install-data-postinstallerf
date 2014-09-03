@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pypop</b>'
+Comment='<span size="xx-large">Python for Population Genomics</span>'
+Comment3='
+PyPop is a bioinformatics framework for performing population genomics
+analysis, particularly on large-scale multilocus genotype data.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.pypop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

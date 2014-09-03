@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>daemonize</b>'
+Comment='<span size="xx-large">Run a command as a Unix daemon</span>'
+Comment3='
+daemonize runs a command as a Unix daemon. As defined in W. Richard Stevens
+1990 book, Unix Network Programming (Addison-Wesley, 1990), a daemon is "a
+process that executes in the background (i.e., without an associated
+terminal or login shell) either waiting for some event to occur, or waiting
+to perform some specified task on a periodic basis." Upon startup, a typical
+daemon program will
+
+- Close all open file descriptors (especially standard input, standard output
+  and standard error)
+- Change its working directory to the root filesystem, to ensure that it
+'
+License='BSD'
+Screenshot=''
+Url='http://www.clapper.org/software/daemonize/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>koules</b>'
+Comment='<span size="xx-large">Action game with multiplayer, network and sound support</span>'
+Comment3='
+Koules is a fast action arcade-style game.  It works in fine resolution
+with cool 256 color graphics, multiplayer mode up to 5 players, full sound
+and, of course, network support.  Koules is an original idea. First version
+of Koules was developed from scratch by Jan Hubicka in July 1995.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.ucw.cz/~hubicka/koules/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

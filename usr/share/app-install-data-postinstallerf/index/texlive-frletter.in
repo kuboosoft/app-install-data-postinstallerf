@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-frletter</b>'
+Comment='<span size="xx-large">Typeset letters in the French style</span>'
+Comment3='
+A small class for typesetting letters in France. No assumption
+is made about the language in use. The class represents a small
+modification of the beletter class, which is itself a
+modification of the standard LaTeX letter class.
+
+date 2008-08-19 210004 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

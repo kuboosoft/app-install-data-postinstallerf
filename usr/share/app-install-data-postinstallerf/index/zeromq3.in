@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>zeromq3</b>'
+Comment='<span size="xx-large">Software library for fast, message-based applications</span>'
+Comment3='
+The 0MQ lightweight messaging kernel is a library which extends the
+standard socket interfaces with features traditionally provided by
+specialized messaging middle-ware products. 0MQ sockets provide an
+abstraction of asynchronous message queues, multiple messaging
+patterns, message filtering (subscriptions), seamless access to
+multiple transport protocols and more.
+
+This package contains the ZeroMQ shared library for versions 3.x.
+'
+License='LGPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.zeromq.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

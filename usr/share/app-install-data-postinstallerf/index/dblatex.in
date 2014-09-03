@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>dblatex</b>'
+Comment='<span size="xx-large">DocBook to LaTeX/ConTeXt Publishing</span>'
+Comment3='
+dblatex is a program that transforms your SGML/XMLDocBook
+documents to DVI, PostScript or PDF by translating them
+into pure LaTeX as a first process.  MathML 2.0 markups
+are supported, too. It started as a clone of DB2LaTeX.
+
+Authors
+   Beno?t Guillon <marsgui at users dot sourceforge dot net>
+   Andreas Hoenen <andreas dot hoenen at arcor dot de>
+'
+License='GPLv2+ and GPLv2 and LPPL and DMIT and Public Domain'
+Screenshot=''
+Url='http://dblatex.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

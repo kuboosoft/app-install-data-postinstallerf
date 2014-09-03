@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-HTMLgen</b>'
+Comment='<span size="xx-large">A class library for the generation of HTML documents</span>'
+Comment3='
+HTMLgen is a class library for the generation of HTML documents with Python
+scripts. Its used when you want to create HTML pages containing information
+which changes from time to time.
+'
+License='MIT'
+Screenshot=''
+Url='http://starship.python.net/lib.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

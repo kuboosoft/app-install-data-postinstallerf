@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>qdox</b>'
+Comment='<span size="xx-large">Extract class/interface/method definitions from sources</span>'
+Comment3='
+QDox is a high speed, small footprint parser
+for extracting class/interface/method definitions
+from source files complete with JavaDoc @tags.
+It is designed to be used by active code
+generators or documentation tools.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qdox.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

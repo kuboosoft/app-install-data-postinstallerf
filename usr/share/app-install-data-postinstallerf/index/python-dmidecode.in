@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-dmidecode</b>'
+Comment='<span size="xx-large">Python module to access DMI data</span>'
+Comment3='
+python-dmidecode is a python extension module that uses the
+code-base of the dmidecode utility, and presents the data
+as python data structures or as XML data using libxml2.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://projects.autonomy.net.au/python-dmidecode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

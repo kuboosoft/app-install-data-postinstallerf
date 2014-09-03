@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qt-mobility-common</b>'
+Comment='<span size="xx-large">Common files for qt-mobility</span>'
+Comment3='
+Common files for qt-mobility.
+
+URL          http//qt.digia.com/Product/Qt-Add-Ons/
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qt.digia.com/Product/Qt-Add-Ons/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opusfile-devel</b>'
+Comment='<span size="xx-large">Development package for opusfile</span>'
+Comment3='
+Files for development with opusfile.
+
+URL          http//www.opus-codec.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.opus-codec.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

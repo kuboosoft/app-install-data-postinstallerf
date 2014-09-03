@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>apache-commons-net</b>'
+Comment='<span size="xx-large">Internet protocol suite Java library</span>'
+Comment3='
+This is an Internet protocol suite Java library originally developed by
+ORO, Inc.  This version supports Finger, Whois, TFTP, Telnet, POP3, FTP,
+NNTP, SMTP, and some miscellaneous protocols like Time and Echo as well
+as BSD R command support. The purpose of the library is to provide
+fundamental protocol access, not higher-level abstractions.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

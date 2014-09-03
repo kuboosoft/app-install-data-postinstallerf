@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libeplplot-devel</b>'
+Comment='<span size="xx-large">Development files for eplplot</span>'
+Comment3='
+The libeplplot-devel package includes the header files and libraries
+necessary for developing programs which will use the eplplot library.
+
+'
+License='GPLv2+ and LGPLv2+ and CC-BY and GPLv3+ and Public Domain'
+Screenshot=''
+Url='http://emboss.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

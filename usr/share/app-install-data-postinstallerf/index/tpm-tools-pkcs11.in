@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tpm-tools-pkcs11</b>'
+Comment='<span size="xx-large">Management tools using PKCS#11 for the TPM hardware</span>'
+Comment3='
+tpm-tools-pkcs11 is a group of tools that use the TPM PKCS#11 token. All data
+contained in the PKCS#11 data store is protected by the TPM (keys,
+certificates, etc.). You can import keys and certificates, list out the
+objects in the data store, and protect data.
+'
+License='CPL'
+Screenshot=''
+Url='http://trousers.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

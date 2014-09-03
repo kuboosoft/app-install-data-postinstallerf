@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>NetworkManager-openconnect</b>'
+Comment='<span size="xx-large">NetworkManager VPN plugin for openconnect</span>'
+Comment3='
+This package contains software for integrating the openconnect VPN software
+with NetworkManager and the GNOME desktop
+'
+License='GPLv2+, LGPLv2.1'
+Screenshot=''
+Url='http://www.gnome.org/projects/NetworkManager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

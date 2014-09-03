@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-dbusmock</b>'
+Comment='<span size="xx-large">Mock D-Bus objects</span>'
+Comment3='
+With this program/Python library you can easily create mock objects on
+D-Bus. This is useful for writing tests for software which talks to
+D-Bus services such as upower, systemd, ConsoleKit, gnome-session or
+others, and it is hard (or impossible without root privileges) to set
+the state of the real services to what you expect in your tests.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/python-dbusmock'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

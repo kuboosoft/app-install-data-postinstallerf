@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hevea</b>'
+Comment='<span size="xx-large">LaTeX to HTML translator</span>'
+Comment3='
+HEVEA is a quite complete and fast LATEX to HTML translator.
+HEVEA renders symbols by using the so-called HTML "entities", which
+modern browsers display correctly most of the time.
+'
+License='QPL'
+Screenshot=''
+Url='http://hevea.inria.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

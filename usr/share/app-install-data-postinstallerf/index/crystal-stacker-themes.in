@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>crystal-stacker-themes</b>'
+Comment='<span size="xx-large">Themes for the Crystal Stacker game</span>'
+Comment3='
+7 new / extra themes for the Crystal Stacker game.
+'
+License='Crystal Stacker'
+Screenshot=''
+Url='http://www.t3-i.com/cstacker.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

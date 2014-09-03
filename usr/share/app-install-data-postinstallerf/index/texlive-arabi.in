@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-arabi</b>'
+Comment='<span size="xx-large">(La)TeX support for Arabic and Farsi, compliant with Babel</span>'
+Comment3='
+The package provides the Arabic and Farsi script support for
+TeX without the need of any external pre-processor, and in a
+way that is compatible with babel. The bi-directional
+capability supposes that the user has a TeX engine that knows
+the four primitives \beginR, \endR, \beginL and \endL. That is
+accept input in several 8-bit encodings, including UTF-8. Arabi
+can make use of a wide variety of Arabic and Farsi fonts; PDF
+files generated using Arabi may be searched, and text may be
+copied from them and pasted elsewhere.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

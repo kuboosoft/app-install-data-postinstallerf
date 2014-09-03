@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>aalib</b>'
+Comment='<span size="xx-large">ASCII art library</span>'
+Comment3='
+AA-lib is a low level gfx library just as many other libraries are. The
+main difference is that AA-lib does not require graphics device. In
+fact, there is no graphical output possible. AA-lib replaces those
+old-fashioned output methods with a powerful ASCII art renderer. The API
+is designed to be similar to other graphics libraries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://aa-project.sourceforge.net/aalib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

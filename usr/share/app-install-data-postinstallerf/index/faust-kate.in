@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>faust-kate</b>'
+Comment='<span size="xx-large">Kate/Kwrite plugin for faust</span>'
+Comment3='
+Faust AUdio STreams is a functional programming language for real-time audio
+signal processing. This package provides Faust code syntax highlighting support
+for KDEs Kate/Kwrite.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://faust.grame.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gdm-devel</b>'
+Comment='<span size="xx-large">Development files for gdm-libs</span>'
+Comment3='
+Development files and headers for writing GDM greeters.
+
+URL          http//download.gnome.org/sources/gdm
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/gdm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

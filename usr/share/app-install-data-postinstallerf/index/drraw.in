@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>drraw</b>'
+Comment='<span size="xx-large">Web based presentation front-end for RRDtool</span>'
+Comment3='
+drraw is a simple web based presentation front-end for RRDtool that allows you
+to interactively build graphs of your own design. A graph definition can be
+turned into a template which may be applied to many Round Robin Database files.
+drraw specializes in providing an easy mean of displaying data stored with
+RRDtool and does not care about how the data is collected, making it a great
+complement to other RRDtool front-ends.
+'
+License='BSD'
+Screenshot=''
+Url='http://web.taranis.org/drraw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

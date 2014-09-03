@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>v8-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for v8</span>'
+Comment3='
+Development headers and libraries for v8.
+
+URL          http//code.google.com/p/v8
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/v8'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

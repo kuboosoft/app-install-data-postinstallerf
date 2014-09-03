@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-character-map-devel</b>'
+Comment='<span size="xx-large">Libraries and headers for mate-character-map</span>'
+Comment3='
+The mate-character-map package contains header files and other resources
+needed to use the mate-character-map library.
+
+'
+License='GPLv2+ and LGPLv3+'
+Screenshot=''
+Url='http://pub.mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libomxil-bellagio-devel</b>'
+Comment='<span size="xx-large">Development files for libomxil-bellagio</span>'
+Comment3='
+The libomxil-bellagio-devel package contains libraries and header files for
+developing applications that use libomxil-bellagio.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://omxil.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

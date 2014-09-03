@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-hjsmin</b>'
+Comment='<span size="xx-large">Haskell implementation of a javascript minifier</span>'
+Comment3='
+Reduces size of javascript files by stripping out extraneous whitespace and
+other syntactic elements, without changing the semantics.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/hjsmin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

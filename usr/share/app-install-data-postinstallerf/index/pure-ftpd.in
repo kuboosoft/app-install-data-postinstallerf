@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>pure-ftpd</b>'
+Comment='<span size="xx-large">Lightweight, fast and secure FTP server</span>'
+Comment3='
+Pure-FTPd is a fast, production-quality, standard-comformant FTP server,
+based upon Troll-FTPd. Unlike other popular FTP servers, it has no known
+security flaw, it is really trivial to set up and it is especially designed
+for modern Linux and FreeBSD kernels (setfsuid, sendfile, capabilities) .
+Features include PAM support, IPv6, chroot()ed home directories, virtual
+domains, built-in LS, anti-warez system, bandwidth throttling, FXP, bounded
+ports for passive downloads, UL/DL ratios, native LDAP and SQL support,
+Apache log files and more.
+Rebuild switches
+'
+License='BSD'
+Screenshot=''
+Url='http://www.pureftpd.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

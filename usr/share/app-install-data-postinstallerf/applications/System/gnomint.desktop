@@ -1,0 +1,24 @@
+[Desktop Entry]
+Exec=postinstaller -n gnomint
+Name=gnoMint X.509 CA Manager
+Name[ca]=Gestor de CAs X.509 gnoMint.
+Name[de]=gnoMint X.509 Zertifizierungsstellen-Verwaltung
+Name[es]=gnoMint. Gestor de ACs X.509
+Name[fr]=Gestionnaire d Autorité de Certification X.509 gnoMint
+Name[oc]=Gestionari d Autoritat de Certificacion X.509 gnoMint
+Name[ru]=gnoMint менеджер X.509 CA
+Name[sv]=Certifikatutfärdaren gnoMint
+GenericName=gnoMint X.509 CA Manager
+Comment=Manage X.509 certificates and CAs, easily and graphically
+Comment[ca]=Gestiona CAs i certificats X.509, fàcilment i de forma gràfica
+Comment[de]=X.509-Zertifikate und Zertifizierungsstellen verwalten, einfach und grafisch
+Comment[es]=Gestiona autoridades de certificación y certificados X.509
+Comment[fr]=Gérer des certificats et des CA X.509, facilement et graphiquement
+Comment[oc]=Gerir aisidament e graficament de certificats X.509 e d AC
+Comment[ru]=Управлять сертификатами X.509 и CA легко и визуально
+Comment[sv]=Hantera X.509-certifikat och certifikatutfärdare, enkelt och grafiskt
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnomint.png
+Categories=GNOME;Application;System;Security
+StartupNotify=true

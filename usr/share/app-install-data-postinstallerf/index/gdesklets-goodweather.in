@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gdesklets-goodweather</b>'
+Comment='<span size="xx-large">Themeable weather and condition display for gdesklet</span>'
+Comment3='
+
+Themeable weather and condition display for gdesklets. Displays the current
+conditions along with a 5 day forcast
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.gdesklets.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

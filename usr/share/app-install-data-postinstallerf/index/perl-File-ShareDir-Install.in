@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-File-ShareDir-Install</b>'
+Comment='<span size="xx-large">Install shared files</span>'
+Comment3='
+FileShareDirInstall allows you to install read-only data files from a
+distribution. It is a companion module to FileShareDir, which allows you
+to locate these files after installation.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-ShareDir-Install/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

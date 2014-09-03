@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-sh</b>'
+Comment='<span size="xx-large">Python module to simplify calling shell commands</span>'
+Comment3='
+A Python module to simplify calling shell commands.
+Also known as PBS, or Python Bash Scripting.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/amoffat/pbs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

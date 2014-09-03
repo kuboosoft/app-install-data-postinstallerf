@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openssl-libs</b>'
+Comment='<span size="xx-large">A general purpose cryptography library with TLS implementation</span>'
+Comment3='
+OpenSSL is a toolkit for supporting cryptography. The openssl-libs
+package contains the libraries that are used by various applications which
+support cryptographic algorithms and protocols.
+
+'
+License='OpenSSL'
+Screenshot=''
+Url='http://www.openssl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

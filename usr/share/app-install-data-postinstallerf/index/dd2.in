@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dd2</b>'
+Comment='<span size="xx-large">Dodgin Diamond 2 - Shootem up arcade game</span>'
+Comment3='
+This is a little shootem up arcade game for one or two players. It aims to
+be an old school arcade game with low resolution graphics, top-down scroll
+action, energy based gameplay and different weapons with several levels of
+power.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.usebox.net/jjm/dd2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

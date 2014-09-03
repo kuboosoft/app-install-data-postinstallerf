@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-harmony</b>'
+Comment='<span size="xx-large">Typeset harmony symbols, etc., for musicology</span>'
+Comment3='
+The package harmony.sty uses the packages ifthen and amssymb
+from the amsfonts bundle, together with the LaTeX font
+lcirclew10 and the font musix13 from musixtex.
+
+date 2009-06-25 003453 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>svgsalamander-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for svgsalamander</span>'
+Comment3='
+This package contains the API documentation for svgsalamander.
+'
+License='LGPLv2+ or BSD'
+Screenshot=''
+Url='http://svgsalamander.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

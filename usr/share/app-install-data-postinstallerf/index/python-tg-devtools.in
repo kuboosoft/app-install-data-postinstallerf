@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-tg-devtools</b>'
+Comment='<span size="xx-large">Development tools and templates for TurboGears2</span>'
+Comment3='
+This package contains various paster commands and templates used for
+TurboGears2 development.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.turbogears.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

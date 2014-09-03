@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>open-sendmail</b>'
+Comment='<span size="xx-large">Additional m4 files used to generate sendmail.cf</span>'
+Comment3='
+Open-Sendmail is the open development of additional m4 files
+used to generate and enhance sendmail.cf. The project contains
+sendmail goodies previously provided at anfi.homeunix.net and
+additional items.
+'
+License='Sendmail'
+Screenshot=''
+Url='http://open-sendmail.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

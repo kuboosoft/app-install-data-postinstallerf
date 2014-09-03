@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-json_pure-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-json_pure</span>'
+Comment3='
+Documentation for rubygem-json_pure
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://flori.github.com/json'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

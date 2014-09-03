@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-SQL-Library</b>'
+Comment='<span size="xx-large">Manage libraries of SQL easily</span>'
+Comment3='
+This is a perl module for managing simple SQL libraries stored in
+INI-like files.  It allows developers to maintain the SQL they require
+OUTSIDE of their perl code.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/SQL-Library/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

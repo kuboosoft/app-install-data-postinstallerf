@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>felix-shell</b>'
+Comment='<span size="xx-large">Apache Felix Shell Service</span>'
+Comment3='
+A simple OSGi command shell service.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

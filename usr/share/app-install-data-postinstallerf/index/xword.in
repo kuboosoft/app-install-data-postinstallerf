@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xword</b>'
+Comment='<span size="xx-large">Reads and writes crossword puzzles in the Across Lite file format</span>'
+Comment3='
+Xword is a GTK program that works well for doing crossword puzzles in the
+Across Lite file format used by The New York Times and others. As well as a
+clock, it supports printing. It also auto-saves puzzles as you solve them so
+that you can return to partially completed puzzles.
+'
+License='BSD'
+Screenshot=''
+Url='http://x-word.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

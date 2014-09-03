@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sipwitch</b>'
+Comment='<span size="xx-large">A secure peer-to-peer VoIP server for the SIP protocol</span>'
+Comment3='
+GNU SIP Witch is a secure peer-to-peer VoIP server.  Calls can be made even
+behind NAT firewalls, and without needing a service provider.  SIP Witch can
+be used on the desktop to create bottom-up secure calling networks as a
+free software alternative to Skype.  SIP Witch can also be used as a stand-
+alone SIP-based office telephone server, or to create secure VoIP networks
+for an existing IP-PBX such as Asterisk, FreeSWITCH, or Yate.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/sipwitch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

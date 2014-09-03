@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jdom-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jdom</span>'
+Comment3='
+Javadoc for jdom.
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://www.jdom.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>linux-libertine-biolinum-fonts</b>'
+Comment='<span size="xx-large">Sans-serif fonts from Linux Libertine Open Fonts</span>'
+Comment3='
+
+The Linux Libertine Open Fonts are a TrueType font family for practical
+use in documents.  They were created to provide a free alternative to
+proprietary standard fonts.
+This package contains Sans fonts.
+'
+License='GPLv2+ with exceptions or OFL'
+Screenshot=''
+Url='http://linuxlibertine.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

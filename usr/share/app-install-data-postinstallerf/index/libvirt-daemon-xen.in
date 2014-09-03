@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-xen</b>'
+Comment='<span size="xx-large">Server side daemon & driver required to run XEN guests</span>'
+Comment3='
+Server side daemon and driver required to manage the virtualization
+capabilities of XEN
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

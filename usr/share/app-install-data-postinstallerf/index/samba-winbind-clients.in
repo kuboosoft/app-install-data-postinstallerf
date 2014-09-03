@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>samba-winbind-clients</b>'
+Comment='<span size="xx-large">Samba winbind clients</span>'
+Comment3='
+The samba-winbind-clients package provides the wbinfo and ntlm_auth
+tool.
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

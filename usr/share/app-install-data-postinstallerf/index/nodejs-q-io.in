@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-q-io</b>'
+Comment='<span size="xx-large">Interfaces for IO using Q promises in JavaScript on Node.js</span>'
+Comment3='
+Interfaces for IO using Q promises in JavaScript on Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kriskowal/q-io'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Time-ParseDate</b>'
+Comment='<span size="xx-large">Perl modules for parsing dates and times</span>'
+Comment3='
+Time-ParseDate provides several Perl modules, including TimeCTime,
+TimeDaysInMonth, TimeJulianDay, TimeParseDate, and TimeTimezone.
+These modules can be useful for parsing and manipulating dates and times.
+There are numerous options to control what is recognized and what is not.
+'
+License='TPDL and Public Domain'
+Screenshot=''
+Url='http://search.cpan.org/dist/Time-ParseDate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

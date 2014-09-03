@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>razorqt-about</b>'
+Comment='<span size="xx-large">GUI to provide basic info about DE</span>'
+Comment3='
+A tool to display Razor-qt version, license, and technical background.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://razor-qt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

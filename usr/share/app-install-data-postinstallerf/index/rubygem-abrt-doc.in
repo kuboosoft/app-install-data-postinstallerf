@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-abrt-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-abrt</span>'
+Comment3='
+Documentation for rubygem-abrt
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/voxik/abrt-ruby'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

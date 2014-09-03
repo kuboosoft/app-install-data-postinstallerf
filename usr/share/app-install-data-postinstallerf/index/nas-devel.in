@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nas-devel</b>'
+Comment='<span size="xx-large">Development and doc files for the NAS</span>'
+Comment3='
+Development files and the documentation for Network Audio System.
+
+URL          http//radscan.com/nas.html
+'
+License='MIT'
+Screenshot=''
+Url='http://radscan.com/nas.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

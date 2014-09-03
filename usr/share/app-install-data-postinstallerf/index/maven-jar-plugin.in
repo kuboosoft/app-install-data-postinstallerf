@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-jar-plugin</b>'
+Comment='<span size="xx-large">Maven JAR Plugin</span>'
+Comment3='
+Builds a Java Archive (JAR) file from the compiled
+project classes and resources.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-jar-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

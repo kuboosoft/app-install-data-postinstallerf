@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openscada-Special-FLibComplex1</b>'
+Comment='<span size="xx-large">Open SCADA special</span>'
+Comment3='
+The openscada-Special-FLibComplex1 allows static function library
+Complex1 (SCADA Complex1 functions).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

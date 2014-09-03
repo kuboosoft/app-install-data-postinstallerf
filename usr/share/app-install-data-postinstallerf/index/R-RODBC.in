@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-RODBC</b>'
+Comment='<span size="xx-large">An ODBC database interface for R</span>'
+Comment3='
+An ODBC database interface for R.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/RODBC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

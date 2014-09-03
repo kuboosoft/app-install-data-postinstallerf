@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-abiword</b>'
+Comment='<span size="xx-large">Python bindings for developing with libabiword</span>'
+Comment3='
+Python bindings for developing with libabiword
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.abisource.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

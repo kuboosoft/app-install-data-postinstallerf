@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lcgdm-libs</b>'
+Comment='<span size="xx-large">LHC Computing Grid Data Management common libraries</span>'
+Comment3='
+The lcgdm-libs package contains common libraries for the LCG Data Management
+components the LFC (LCG File Catalog) and the DPM (Disk Pool Manager).
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.web.cern.ch/glite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rcssserver3d-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for rcssserver3d</span>'
+Comment3='
+This package contains the header files for rcssserver3d. If you like to develop
+programs using rcssserver3d, you will need to install rcssserver3d-devel.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/simspark/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

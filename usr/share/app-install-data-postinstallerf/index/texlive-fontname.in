@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-fontname</b>'
+Comment='<span size="xx-large">Scheme for naming fonts in TeX</span>'
+Comment3='
+The scheme for assigning names is described (in the
+documentation part of the package), and map files giving the
+relation between foundry name and TeX-name are also provided.
+
+date 2012-07-06 230935 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

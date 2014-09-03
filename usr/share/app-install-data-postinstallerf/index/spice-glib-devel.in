@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>spice-glib-devel</b>'
+Comment='<span size="xx-large">Development files to build Glib2 applications with spice-glib-2.0</span>'
+Comment3='
+spice-client-glib-2.0 is a SPICE client library for GLib2.
+
+Libraries, includes, etc. to compile with the spice-glib-2.0 libraries
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://spice-space.org/page/Spice-Gtk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

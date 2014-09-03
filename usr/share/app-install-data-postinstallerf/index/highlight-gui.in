@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>highlight-gui</b>'
+Comment='<span size="xx-large">GUI for the hihghlight source code formatter</span>'
+Comment3='
+A Qt-based GUI for the highlight source code formatter source.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.andre-simon.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

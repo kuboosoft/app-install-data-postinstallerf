@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fuse-emulator-roms</b>'
+Comment='<span size="xx-large">Spectrum ROM files for use with the Fuse emulator</span>'
+Comment3='
+The Spectrum ROM files, for use with the Fuse Emulator.
+'
+License='Distributable'
+Screenshot=''
+Url='http://fuse-emulator.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

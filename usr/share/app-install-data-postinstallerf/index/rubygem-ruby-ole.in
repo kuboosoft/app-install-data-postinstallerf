@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ruby-ole</b>'
+Comment='<span size="xx-large">Ruby OLE library</span>'
+Comment3='
+A library for easy read/write access to OLE compound documents for Ruby.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/ruby-ole'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

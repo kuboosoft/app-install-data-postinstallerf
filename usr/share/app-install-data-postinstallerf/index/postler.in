@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>postler</b>'
+Comment='<span size="xx-large">An ultra simple desktop mail client</span>'
+Comment3='
+Postler aims to be easy, simple, clean, beautiful, and automagic. It
+handles IMAP beautifully, and provides the user with smart, sensible
+defaults.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://launchpad.net/postler'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

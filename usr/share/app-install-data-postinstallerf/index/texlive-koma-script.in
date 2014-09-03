@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-koma-script</b>'
+Comment='<span size="xx-large">A bundle of versatile classes and packages</span>'
+Comment3='
+The KOMA-Script bundle provides drop-in replacements for the
+article/report/book classes with emphasis on typography and
+versatility. There is also a letter class, different from all
+other letter classes. The bundle also offers - a package for
+calculating type areas in the way laid down by the typographer
+Jan Tschichold, - a package for easily changing and defining
+page styles, - a package scrdate for getting not only the
+current date but also the name of the day, and - a package
+scrtime for getting the current time. All these packages may be
+used not only with KOMA-Script classes but also with the
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

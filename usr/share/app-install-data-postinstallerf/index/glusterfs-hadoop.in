@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glusterfs-hadoop</b>'
+Comment='<span size="xx-large">GlusterFS Hadoop Compatible File System (HCFS) plugin</span>'
+Comment3='
+A Hadoop Compatible File System (HCFS) plugin for GlusterFS. This
+allows data stored in Gluster to be processed by Hadoop ecosystem
+analytics engines, e.g. MapReduce.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://forge.gluster.org/hadoop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

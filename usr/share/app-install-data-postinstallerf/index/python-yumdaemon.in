@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-yumdaemon</b>'
+Comment='<span size="xx-large">Python 2 api for communicating with the yum-daemon DBus service</span>'
+Comment3='
+Python 2 api for communicating with the yum-daemon DBus service
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/timlau/yum-daemon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

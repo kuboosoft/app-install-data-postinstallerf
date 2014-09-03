@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gdal-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for gdal</span>'
+Comment3='
+This package contains the API documentation for gdal.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gdal.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

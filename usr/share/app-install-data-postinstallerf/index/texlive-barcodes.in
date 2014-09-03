@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-barcodes</b>'
+Comment='<span size="xx-large">Fonts for making barcodes</span>'
+Comment3='
+The package deals with EAN barcodes; MetaFont fonts are
+provided, and a set of examples; for some codes, a small Perl
+script is needed.
+
+date 2008-08-17 010050 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

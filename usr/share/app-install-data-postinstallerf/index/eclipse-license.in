@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-license</b>'
+Comment='<span size="xx-large">Shared license feature for Eclipse</span>'
+Comment3='
+Shared license feature for Eclipse. Other features may consume this
+feature to avoid unnecessary duplication of license boiler plate.
+'
+License='EPL'
+Screenshot=''
+Url='http://wiki.eclipse.org/CBI'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

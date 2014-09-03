@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rack-test-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rack-test</span>'
+Comment3='
+Documentation for rubygem-rack-test
+'
+License='MIT'
+Screenshot=''
+Url='http://gitrdoc.com/brynary/rack-test/tree/master'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

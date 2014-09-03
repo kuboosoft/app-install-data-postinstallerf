@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>evemu</b>'
+Comment='<span size="xx-large">Event Device Query and Emulation Program</span>'
+Comment3='
+evemu is a simple utility to capture the event stream from input devices
+and replay that stream on a virtual input device.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Evemu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

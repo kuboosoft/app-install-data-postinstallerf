@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfce4-systemload-plugin</b>'
+Comment='<span size="xx-large">Systemload monitor for the Xfce panel</span>'
+Comment3='
+A system-load monitor plugin for the Xfce panel. It displays the current CPU
+load, the memory in use, the swap space and the system uptime.
+'
+License='BSD'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-systemload-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

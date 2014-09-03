@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-css-parse</b>'
+Comment='<span size="xx-large">A JavaScript CSS parser for Node.js and the browser</span>'
+Comment3='
+A JavaScript CSS parser for Node.js and the browser.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/reworkcss/css-parse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mingw32-libidn</b>'
+Comment='<span size="xx-large">MinGW Windows zlib compression library for the win32 target</span>'
+Comment3='
+GNU Libidn is an implementation of the Stringprep, Punycode and
+IDNA specifications defined by the IETF Internationalized Domain
+Names (IDN) working group, used for internationalized domain
+names.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/libidn/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

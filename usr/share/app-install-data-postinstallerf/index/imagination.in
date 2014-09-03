@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>imagination</b>'
+Comment='<span size="xx-large">A lightweight and simple GTK based DVD slide show creator</span>'
+Comment3='
+Imagination is a lightweight and simple DVD slide show maker written in C
+language and built with the GTK+2 toolkit.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://imagination.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

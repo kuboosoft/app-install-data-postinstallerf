@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>kmldonkey</b>'
+Comment='<span size="xx-large">Cross-platform graphical user interface for Mldonkey</span>'
+Comment3='
+Cross-platform graphical user interface for Mldonkey.
+Features
+ *Runs wherever KDE software runs.
+ *Can handle multiple threads simultaneously.
+ *Integrates with several browsers.
+ *Can be used with traffic-shaping tools.
+ *Can handle several security options.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://userbase.kde.org/KMLDonkey'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sip-macros</b>'
+Comment='<span size="xx-large">RPM macros for use when working with SIP</span>'
+Comment3='
+This package contains RPM macros for use when working with SIP.
+
+It is used by both the sip-devel (python 2) and python3-sip-devel subpackages.
+'
+License='GPLv2 or GPLv3 and (GPLv3+ with exceptions)'
+Screenshot=''
+Url='http://www.riverbankcomputing.com/software/sip/intro'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

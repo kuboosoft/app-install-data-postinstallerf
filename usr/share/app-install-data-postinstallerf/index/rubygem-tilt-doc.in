@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-tilt-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-tilt</span>'
+Comment3='
+Documentation for rubygem-tilt
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rtomayko/tilt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

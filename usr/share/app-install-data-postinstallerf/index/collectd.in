@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>collectd</b>'
+Comment='<span size="xx-large">Statistics collection daemon for filling RRD files</span>'
+Comment3='
+collectd is a small daemon written in C for performance.  It reads various
+system  statistics  and updates  RRD files,  creating  them if necessary.
+Since the daemon doesnt need to startup every time it wants to update the
+files its very fast and easy on the system. Also, the statistics are very
+fine grained since the files are updated every 10 seconds.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

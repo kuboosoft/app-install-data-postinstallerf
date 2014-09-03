@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-sty2dtx</b>'
+Comment='<span size="xx-large">Create a .dtx file from a .sty file</span>'
+Comment3='
+The package provides a Perl script that converts a .sty file
+(LaTeX package) to .dtx format (documented LaTeX source), by
+surrounding macro definitions with macro and macrocode
+environments. The macro name is automatically inserted as an
+argument to the macro environemnt. Code lines outside macro
+definitions are wrapped only in macrocode environments. Empty
+lines are removed. The script should not be thought to be fool
+proof and 100% accurate but rather as a good start to the
+business of making a .dtx file from an undocumented style file.
+Full .dtx files are generated. A template based on the skeleton
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

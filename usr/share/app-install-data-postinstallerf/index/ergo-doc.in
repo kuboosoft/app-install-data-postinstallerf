@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ergo-doc</b>'
+Comment='<span size="xx-large">Documentation for ergo</span>'
+Comment3='
+This package contains the documentation for ergo.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.ergoscf.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

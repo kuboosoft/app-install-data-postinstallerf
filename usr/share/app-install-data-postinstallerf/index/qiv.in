@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qiv</b>'
+Comment='<span size="xx-large">Quick Image Viewer</span>'
+Comment3='
+qiv is a very small and pretty fast gdk2/Imlib2 image viewer.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://spiegl.de/qiv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

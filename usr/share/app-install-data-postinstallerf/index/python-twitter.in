@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-twitter</b>'
+Comment='<span size="xx-large">A python wrapper around the Twitter API</span>'
+Comment3='
+This library provides a pure python interface for the Twitter API. Twitter
+(http//twitter.com) provides a service that allows people to connect via the
+web, IM, and SMS. Twitter exposes a web services API
+(http//twitter.com/help/api) and this library is intended to make it even
+easier for python programmers to use.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/python-twitter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

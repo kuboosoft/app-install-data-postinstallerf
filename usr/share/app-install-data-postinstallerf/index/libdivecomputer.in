@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libdivecomputer</b>'
+Comment='<span size="xx-large">Library for communication with dive computers</span>'
+Comment3='
+Libdivecomputer is a cross-platform and open source library for
+communication with dive computers from various manufacturers.
+
+Supported devices
+    Suunto
+        Solution
+        Eon, Solution Alpha and Solution Nitrox/Vario
+        Vyper, Cobra, Vytec, Vytec DS, D3, Spyder, Gekko, Mosquito,
+        Stinger and Zoop
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libdivecomputer.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

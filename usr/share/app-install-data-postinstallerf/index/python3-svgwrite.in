@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-svgwrite</b>'
+Comment='<span size="xx-large">Python 3 library to create SVG drawings</span>'
+Comment3='
+Python 3 library to create SVG drawings.
+'
+License='MIT'
+Screenshot=''
+Url='https://bitbucket.org/mozman/svgwrite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

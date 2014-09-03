@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nepomuk-core-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for nepomuk-core</span>'
+Comment3='
+Runtime libraries for nepomuk-core.
+
+URL          http//www.kde.org/
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

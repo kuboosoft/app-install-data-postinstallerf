@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sigrok-firmware-filesystem</b>'
+Comment='<span size="xx-large">Directory structure for sigrok-firmware</span>'
+Comment3='
+This package provides directories required by packages containing sigrok
+binary firmware.
+'
+License='GPLv2 and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.sigrok.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

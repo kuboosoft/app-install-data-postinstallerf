@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>janino-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for janino</span>'
+Comment3='
+This package contains javadoc for janino.
+'
+License='BSD'
+Screenshot=''
+Url='http://docs.codehaus.org/display/JANINO/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>fedfs-utils-nsdbparams</b>'
+Comment='<span size="xx-large">The FedFS nsdbparams utility</span>'
+Comment3='
+This package contains the nsdbparams utility, which manages the
+NSDB connection parameters used during FedFS junction resolution
+and domain administration.
+
+RFC 5716 introduces the Federated File System (FedFS, for short). FedFS
+is an extensible standardized mechanism by which system administrators
+construct a coherent file name space across multiple file servers using
+file system referrals.
+A file system referral is like a symbolic link to another file system
+'
+License='GPLv2'
+Screenshot=''
+Url='http://wiki.linux-nfs.org/wiki/index.php/FedFsUtilsProject'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n blobwars
+Categories=Game;ActionGame;
+Name=Blob Wars : Metal Blob Solid
+Comment=Mission and Objective based 2D Platform Game
+Icon=/usr/share/app-install-data-postinstallerf/icons/blobwars.png
+Terminal=false
+Type=Application

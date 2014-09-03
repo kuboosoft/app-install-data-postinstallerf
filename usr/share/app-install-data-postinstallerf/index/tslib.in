@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>tslib</b>'
+Comment='<span size="xx-large">Touchscreen Access Library</span>'
+Comment3='
+The idea of tslib is to have a core library that provides standardised
+services, and a set of plugins to manage the conversion and filtering as
+needed.
+
+The plugins for a particular touchscreen are loaded automatically by the
+library under the control of a static configuration file, ts.conf.
+ts.conf gives the library basic configuration information.  Each line
+specifies one module, and the parameters for that module.  The modules
+are loaded in order, with the first one processing the touchscreen data
+first.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://tslib.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

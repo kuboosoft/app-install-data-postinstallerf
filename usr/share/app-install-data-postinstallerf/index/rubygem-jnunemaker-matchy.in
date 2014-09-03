@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-jnunemaker-matchy</b>'
+Comment='<span size="xx-large">RSpec-esque matchers for use in Test::Unit</span>'
+Comment3='
+RSpec-esque matchers for use in TestUnit
+'
+License='MIT'
+Screenshot=''
+Url='http://matchy.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

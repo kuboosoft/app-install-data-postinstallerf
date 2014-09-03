@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xosd-devel</b>'
+Comment='<span size="xx-large">Development files for the XOSD on-screen display library</span>'
+Comment3='
+Header files and documentation for developing applications that use the XOSD
+on-screen display.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libxosd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

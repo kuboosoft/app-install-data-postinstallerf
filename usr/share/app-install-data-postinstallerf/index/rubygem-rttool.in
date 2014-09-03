@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-rttool</b>'
+Comment='<span size="xx-large">Converter from RT into various formats</span>'
+Comment3='
+RT is a simple and human-readable table format.
+RTtool is a converter from RT into various formats.
+RT can be incorporated into RD.
+'
+License='Ruby'
+Screenshot=''
+Url='https://github.com/genki/rttool'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

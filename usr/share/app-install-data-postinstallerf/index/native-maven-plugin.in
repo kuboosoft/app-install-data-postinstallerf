@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>native-maven-plugin</b>'
+Comment='<span size="xx-large">Native Maven Plugin</span>'
+Comment3='
+Native Maven Plugin.
+'
+License='ASL 2.0 and MIT'
+Screenshot=''
+Url='http://mojo.codehaus.org/maven-native/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

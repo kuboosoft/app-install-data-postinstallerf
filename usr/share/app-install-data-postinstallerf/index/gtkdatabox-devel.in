@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtkdatabox-devel</b>'
+Comment='<span size="xx-large">Development files for gtkdatabox</span>'
+Comment3='
+The gtkdatabox-devel package contains libraries, header files, and examples
+for developing applications that use gtkdatabox.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/gtkdatabox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

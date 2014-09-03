@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>crm114-emacs</b>'
+Comment='<span size="xx-large">CRM114 mode for Emacs</span>'
+Comment3='
+Major Emacs mode for editing crm114 scripts.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://crm114.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

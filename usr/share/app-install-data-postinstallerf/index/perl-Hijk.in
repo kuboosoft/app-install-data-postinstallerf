@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Hijk</b>'
+Comment='<span size="xx-large">Specialized HTTP client</span>'
+Comment3='
+Hijk is a specialized HTTP Client that does nothing but transport the
+response body back. It does not feature as a "user agent", but as a dumb
+client. It is suitable for connecting to data servers transporting via HTTP
+rather then web servers.
+'
+License='MIT'
+Screenshot=''
+Url='http://search.cpan.org/dist/Hijk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

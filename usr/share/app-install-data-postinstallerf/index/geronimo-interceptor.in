@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geronimo-interceptor</b>'
+Comment='<span size="xx-large">Java EE: Interceptor API v3.0</span>'
+Comment3='
+Contains annotations and interfaces for defining interceptor methods,
+interceptor classes and for binding interceptor classes to target classes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://geronimo.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

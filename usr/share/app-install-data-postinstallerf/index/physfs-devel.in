@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>physfs-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for physfs</span>'
+Comment3='
+This package contains the libraries and headers necessary for developing
+packages with physfs functionality.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://www.icculus.org/physfs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

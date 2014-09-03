@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pyutil</b>'
+Comment='<span size="xx-large">A collection of mature utilities for Python programmers</span>'
+Comment3='
+These are a few data structures, classes and functions which weve needed
+over many years of Python programming and which seem to be of general use
+to other Python programmers. Many of the modules that have existed in pyutil
+over the years have subsequently been obsoleted by new features added to
+the Python language or its standard library, thus showing that were not
+alone in wanting tools like these.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://allmydata.org/trac/pyutil'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

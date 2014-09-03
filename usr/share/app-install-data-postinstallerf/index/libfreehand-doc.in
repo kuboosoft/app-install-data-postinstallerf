@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libfreehand-doc</b>'
+Comment='<span size="xx-large">Documentation of libfreehand API</span>'
+Comment3='
+The libfreehand-doc package contains documentation files for libfreehand.
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/libfreehand/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

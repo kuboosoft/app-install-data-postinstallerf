@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>digikam-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for digikam</span>'
+Comment3='
+Runtime libraries for digikam.
+
+URL          http//www.digikam.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.digikam.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

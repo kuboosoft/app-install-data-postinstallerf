@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal7-locale_auto_import</b>'
+Comment='<span size="xx-large">Locale automatic import</span>'
+Comment3='
+Search within your modules/features for .po files and import them in the DB
+within the right text group.
+
+When you install a new module with translations, the Locale module
+automatically imports them in the "Built-in interface" text group and chooses
+the mode "Existing strings and the plural format are kept, only new strings
+are added.". Its OK for mostly all modules but not for Features that can
+contain Content types, Fields or Views.
+This module recognizes the system name of the text group in the name of your
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/locale_auto_import'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-bsddb3</b>'
+Comment='<span size="xx-large">Python 3 bindings for BerkleyDB</span>'
+Comment3='
+This package contains Python wrappers for Berkeley DB, the Open Source embedded
+database system. The Python wrappers allow you to store Python string objects of
+any length.
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/bsddb3/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

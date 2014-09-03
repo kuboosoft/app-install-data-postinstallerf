@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ipset</b>'
+Comment='<span size="xx-large">Manage Linux IP sets</span>'
+Comment3='
+IP sets are a framework inside the Linux 2.4.x and 2.6.x kernel, which can be
+administered by the ipset utility. Depending on the type, currently an IP set
+may store IP addresses, (TCP/UDP) port numbers or IP addresses with MAC
+addresses in a way, which ensures lightning speed when matching an entry
+against a set.
+
+If you want to
+ - store multiple IP addresses or port numbers and match against the collection
+   by iptables at one swoop;
+ - dynamically update iptables rules against IP addresses or ports without
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ipset.netfilter.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

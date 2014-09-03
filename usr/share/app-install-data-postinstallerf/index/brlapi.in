@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>brlapi</b>'
+Comment='<span size="xx-large">Application Programming Interface for BRLTTY</span>'
+Comment3='
+This package provides the run-time support for the Application
+Programming Interface to BRLTTY.
+
+Install this package if you have an application which directly accesses
+a refreshable braille display.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mielke.cc/brltty/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

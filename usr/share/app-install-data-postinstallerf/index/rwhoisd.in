@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rwhoisd</b>'
+Comment='<span size="xx-large">ARINs Referral WHOIS server</span>'
+Comment3='
+This server is a reference implementation of the server side of the RWhois
+protocol, first described in RFC 1714.  This server attempts to implement
+concepts and practices in accordance with version 1.5 of the protocol,
+described in RFC 2167.
+'
+License='Public Domain and zlib and GPLv2+'
+Screenshot=''
+Url='http://projects.arin.net/rwhois/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

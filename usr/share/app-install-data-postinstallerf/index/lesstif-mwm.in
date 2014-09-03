@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lesstif-mwm</b>'
+Comment='<span size="xx-large">Lesstif Motif window manager clone based on fvwm</span>'
+Comment3='
+"mwm" window manager that adheres largely to the Motif mwm specification.
+Based on fvwm.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lesstif.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

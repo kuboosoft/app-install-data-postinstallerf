@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>foomatic-filters</b>'
+Comment='<span size="xx-large">CUPS print filters for the foomatic package</span>'
+Comment3='
+CUPS print filters for the foomatic package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linuxprinting.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

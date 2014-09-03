@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-websockify</b>'
+Comment='<span size="xx-large">WSGI based adapter for the Websockets protocol</span>'
+Comment3='
+Python WSGI based adapter for the Websockets protocol
+'
+License='LGPLv3'
+Screenshot=''
+Url='https://github.com/kanaka/websockify'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

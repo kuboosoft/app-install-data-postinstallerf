@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-ezc-EventLogDatabaseTiein</b>'
+Comment='<span size="xx-large">Contains the database writer backend for the EventLog component</span>'
+Comment3='
+The EventLogDatabaseTiein component provides an API to log events and audit
+trails using a database connection.
+
+ezcLogDatabaseWriter is the log writer that writes log messages to the database.
+To write log messages to the database, the Database component is used. The table
+to which the log is written should already exist.
+'
+License='BSD'
+Screenshot=''
+Url='http://ezcomponents.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

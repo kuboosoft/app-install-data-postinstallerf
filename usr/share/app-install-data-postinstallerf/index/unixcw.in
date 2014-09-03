@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>unixcw</b>'
+Comment='<span size="xx-large">Shared library for Morse programs</span>'
+Comment3='
+The UnixCW utilities add a general purpose CW library to your system, and
+a small set of applications based around this library.  These applications
+form a Morse code tutor suite, useful for Amateur and Marine radio operators.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='ftp://sunsite.unc.edu/pub/Linux/apps/ham/morse/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

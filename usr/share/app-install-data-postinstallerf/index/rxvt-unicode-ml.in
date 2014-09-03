@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>rxvt-unicode-ml</b>'
+Comment='<span size="xx-large">Multi-language version of rxvt-unicode</span>'
+Comment3='
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://software.schmorp.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

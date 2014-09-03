@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rktime</b>'
+Comment='<span size="xx-large">Multi-zone time display utility</span>'
+Comment3='
+A command-line utility which displays the time
+in multiple timezones in an easy-to-read way, using color
+to help indicate which locations are currently in business
+hours.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://people.redhat.com/rkeech/#rktime'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

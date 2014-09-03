@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dracut</b>'
+Comment='<span size="xx-large">Initramfs generator using udev</span>'
+Comment3='
+dracut contains tools to create a bootable initramfs for 2.6 Linux kernels.
+Unlike existing implementations, dracut does hard-code as little as possible
+into the initramfs. dracut contains various modules which are driven by the
+event-based udev. Having root on MD, DM, LVM2, LUKS is supported as well as
+NFS, iSCSI, NBD, FCoE with the dracut-network package.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://dracut.wiki.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

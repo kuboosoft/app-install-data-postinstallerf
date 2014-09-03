@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-django-select2</b>'
+Comment='<span size="xx-large">Select2 option fields for Django</span>'
+Comment3='
+Django includes basic select widget, which just generates
+<select><option>?</option>?</select> tags.  Although their
+?looks? can be improved using basic CSS, but we hit a usability
+problem when there are too many options to select from.
+This is where Django-Select2 comes into picture.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/applegrew/django-select2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

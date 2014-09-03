@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>crystal-stacker-theme-editor</b>'
+Comment='<span size="xx-large">Themes editor for Crystal Stacker</span>'
+Comment3='
+Create new Themes for Crystal Stacker
+'
+License='Crystal Stacker'
+Screenshot=''
+Url='http://www.t3-i.com/cstacker.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

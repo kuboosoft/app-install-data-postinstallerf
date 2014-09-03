@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iproute</b>'
+Comment='<span size="xx-large">Advanced IP routing and network device configuration tools</span>'
+Comment3='
+The iproute package contains networking utilities (ip and rtmon, for example)
+which are designed to use the advanced networking capabilities of the Linux
+2.4.x and 2.6.x kernel.
+'
+License='GPLv2+ and Public Domain'
+Screenshot=''
+Url='http://kernel.org/pub/linux/utils/net/iproute2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>coldet-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for coldet</span>'
+Comment3='
+The developmental files that must be installed in order to compile
+applications which use coldet.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://coldet.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

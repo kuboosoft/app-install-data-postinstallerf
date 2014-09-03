@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tbb-devel</b>'
+Comment='<span size="xx-large">The Threading Building Blocks C++ headers and shared development libraries</span>'
+Comment3='
+Header files and shared object symlinks for the Threading Building
+Blocks (TBB) C++ libraries.
+
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://threadingbuildingblocks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

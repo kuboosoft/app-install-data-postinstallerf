@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>sysbench</b>'
+Comment='<span size="xx-large">System performance benchmark</span>'
+Comment3='
+SysBench is a modular, cross-platform and multi-threaded benchmark
+tool for evaluating OS parameters that are important for a system
+running a database under intensive load.
+
+The idea of this benchmark suite is to quickly get an impression about
+system performance without setting up complex database benchmarks or
+even without installing a database at all. Current features allow to
+test the following system parameters
+- file I/O performance
+- scheduler performance
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sysbench.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

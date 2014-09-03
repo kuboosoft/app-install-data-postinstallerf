@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ocaml-pxp</b>'
+Comment='<span size="xx-large">Validating XML parser</span>'
+Comment3='
+PXP is a validating XML parser for OCaml. It represents the parsed
+document either as tree or as stream of events. In tree mode, it is
+possible to validate the XML document against a DTD.
+
+The acronym PXP means Polymorphic XML Parser. This name reflects the
+ability to create XML trees with polymorphic type parameters.
+'
+License='BSD'
+Screenshot=''
+Url='http://projects.camlcity.org/projects/pxp.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

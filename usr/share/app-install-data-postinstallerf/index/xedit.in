@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xedit</b>'
+Comment='<span size="xx-large">Simple text editor for X</span>'
+Comment3='
+Xedit provides a simple text editor for X.
+'
+License='MIT and BSD'
+Screenshot=''
+Url='http://xorg.freedesktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

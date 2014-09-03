@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>Spawning</b>'
+Comment='<span size="xx-large">A HTTP server for hosting WSGI python web applications</span>'
+Comment3='
+Spawning is a wsgi server which supports multiple processes,
+multiple threads, green threads, non-blocking HTTP io,
+and automatic graceful upgrading of code.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/Spawning'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

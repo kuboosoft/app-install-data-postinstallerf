@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ser</b>'
+Comment='<span size="xx-large">SIP Express Router</span>'
+Comment3='
+A high-performance, configurable SIP server. It can act as registrar, proxy
+or redirect server. It features an application-server interface, presence
+support, SMS gateway, SIMPLE2Jabber gateway, RADIUS/syslog accounting and
+authorization, server status monitoring, FCP security, etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.iptel.org/ser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

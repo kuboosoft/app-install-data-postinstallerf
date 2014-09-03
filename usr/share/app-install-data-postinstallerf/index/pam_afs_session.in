@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pam_afs_session</b>'
+Comment='<span size="xx-large">AFS PAG and AFS tokens on login</span>'
+Comment3='
+pam-afs-session is a PAM module intended for use with a Kerberos v5 PAM module
+to obtain an AFS PAG (Process Authentication Group) and AFS tokens on login. It
+puts every new session in a PAG regardless of whether it was authenticated with
+Kerberos and runs a configurable external program to obtain tokens.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.eyrie.org/~eagle/software/pam-afs-session/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pear-OLE</b>'
+Comment='<span size="xx-large">Package for reading and writing OLE containers</span>'
+Comment3='
+This package allows reading and writing of OLE (Object Linking and
+Embedding) compound documents. This format is used as container for Excel
+(.xls), Word (.doc) and other Microsoft file formats.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/OLE'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

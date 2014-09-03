@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>adf-gillius-2-fonts</b>'
+Comment='<span size="xx-large">Gillius ADF No2 sans-serif typeface family</span>'
+Comment3='
+
+The Gillius family from the Arkandis Digital Foundry is a set of sans-serif
+typefaces intended as an alternative to Gill Sans. Its two widths, regular and
+condensed, both feature a roman and an italic, and each includes a regular and
+bold weight.
+A slightly rounder variant, which features the same set of weights,
+widths, and slopes.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://arkandis.tuxfamily.org/adffonts.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

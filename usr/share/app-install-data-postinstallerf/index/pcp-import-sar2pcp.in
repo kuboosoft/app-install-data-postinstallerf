@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pcp-import-sar2pcp</b>'
+Comment='<span size="xx-large">Performance Co-Pilot tools for importing sar data into PCP archive logs</span>'
+Comment3='
+Performance Co-Pilot (PCP) front-end tools for importing sar data
+into standard PCP archive logs for replay with any PCP monitoring tool.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.performancecopilot.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

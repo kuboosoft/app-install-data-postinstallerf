@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nss-util</b>'
+Comment='<span size="xx-large">Network Security Services Utilities Library</span>'
+Comment3='
+Utilities for Network Security Services and the Softoken module
+
+URL          http//www.mozilla.org/projects/security/pki/nss/
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.mozilla.org/projects/security/pki/nss/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

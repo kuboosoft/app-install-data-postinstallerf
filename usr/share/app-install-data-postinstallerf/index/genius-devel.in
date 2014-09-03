@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>genius-devel</b>'
+Comment='<span size="xx-large">Development files for Genius</span>'
+Comment3='
+Development files for Genius.
+
+URL          http//www.jirka.org/genius.html
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.jirka.org/genius.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

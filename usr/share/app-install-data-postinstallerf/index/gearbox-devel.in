@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gearbox-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for gearbox</span>'
+Comment3='
+Contains the header files and libraries for gearbox.
+If you like to develop programs using gearbox,
+you will need to install gearbox-devel.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://gearbox.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

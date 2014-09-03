@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>festival-speechtools-utils</b>'
+Comment='<span size="xx-large">Miscellaneous utilities from the Edinburgh Speech Tools</span>'
+Comment3='
+Miscellaneous utilities from the Edinburgh Speech Tools. Unless you have a
+specific need for one of these programs, you probably dont need to install
+this.
+'
+License='MIT and GPL+ and TCL'
+Screenshot=''
+Url='http://www.cstr.ed.ac.uk/projects/festival/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

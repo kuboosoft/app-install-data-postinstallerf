@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dmlite-shell</b>'
+Comment='<span size="xx-large">Shell environment for dmlite</span>'
+Comment3='
+This package provides a shell environment for dmlite. It includes useful
+commands for system administration, testers and power users.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

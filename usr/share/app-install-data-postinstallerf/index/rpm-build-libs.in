@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rpm-build-libs</b>'
+Comment='<span size="xx-large">Libraries for building and signing RPM packages</span>'
+Comment3='
+This package contains the RPM shared libraries for building and signing
+packages.
+
+'
+License='GPLv2+ and LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.rpm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

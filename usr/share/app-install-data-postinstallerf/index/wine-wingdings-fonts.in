@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wine-wingdings-fonts</b>'
+Comment='<span size="xx-large">Wine Wingdings font family</span>'
+Comment3='
+Wine Wingdings font family
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

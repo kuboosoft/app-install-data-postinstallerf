@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>lure</b>'
+Comment='<span size="xx-large">Lure of the Temptress - Adventure Game</span>'
+Comment3='
+Lure of the Temptress was Revolutions very first adventure game and work began
+on it in 1989, even before Revolutions inception as an actual games
+development company. From the start our aim was to consider the contemporary
+adventures of the day and then bring something new to the genre. From this came
+the Virtual Theatre engine. VT allowed in-game characters to wander around the
+gameworld indepently of each other, living their own lives and doing their own
+thing. Another feature allowed the player to give direct orders to Helper
+characters - in this case Ratpouch - who would then go off to perform the task.
+
+The result is a quirky and entertaining adventure game that kicked off
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://www.revolution.co.uk/_display.php?id=10'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-qalsadi</b>'
+Comment='<span size="xx-large">Arabic Morpholocgical Analyzer</span>'
+Comment3='
+Arabic language text Morpholocgical Analyzer to be used by Python.
+'
+License='GPLv1'
+Screenshot=''
+Url='https://pypi.python.org/pypi/qalsadi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

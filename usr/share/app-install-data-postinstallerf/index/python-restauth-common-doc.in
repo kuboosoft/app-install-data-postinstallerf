@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-restauth-common-doc</b>'
+Comment='<span size="xx-large">RestAuthCommon Documentation</span>'
+Comment3='
+Documentation for RestAuthCommon
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://common.restauth.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

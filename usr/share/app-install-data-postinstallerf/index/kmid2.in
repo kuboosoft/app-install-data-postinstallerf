@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>kmid2</b>'
+Comment='<span size="xx-large">A MIDI/karaoke player for KDE</span>'
+Comment3='
+KMid2 is a MIDI/karaoke file player, with configurable midi mapper, real
+Session Management, drag & drop, customizable fonts, etc. It has a very
+nice interface which let you easily follow the tune while changing the
+color of the lyrics.
+It supports output through external synthesizers, AWE, FM and GUS cards.
+It also has a keyboard view to see the notes played by each instrument.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://userbase.kde.org/KMid2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

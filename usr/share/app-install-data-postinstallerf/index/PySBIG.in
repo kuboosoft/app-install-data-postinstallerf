@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PySBIG</b>'
+Comment='<span size="xx-large">PySBIG can read SBIG CCD files</span>'
+Comment3='
+PySBIG can read SBIG CCD files and give you a Numeric array
+for the data and a dictionary for the headers. There is cPySBIG
+(since version 0.02) which is 40 times faster than the pure PySBIG module,
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://coldstonelabs.org/doku.php?id=software:pysbig'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

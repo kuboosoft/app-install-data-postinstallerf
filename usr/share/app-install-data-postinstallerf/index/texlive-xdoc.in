@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-xdoc</b>'
+Comment='<span size="xx-large">Extending the LaTeX doc system</span>'
+Comment3='
+Xdoc is a project to rewrite the implementation of the LaTeX
+doc package (in a broader sense) to make its features more
+general and flexible. For example, where doc only provides
+commands for documenting macros and environments, xdoc also
+provides commands for similarly documenting package options and
+switches. This is furthermore done in such a way that it is
+very easy to add more such commands for documenting things,
+such as e.g., templates (an important concept in the future
+LaTeX3) and program components for other languages (functions,
+classes, procedures, etc.). A side effect is that many minor
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

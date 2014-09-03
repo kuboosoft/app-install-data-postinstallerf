@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nes_ntsc-demos</b>'
+Comment='<span size="xx-large">Examples using nes_ntsc</span>'
+Comment3='
+Examples using nes_ntsc
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.slack.net/~ant/libs/ntsc.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

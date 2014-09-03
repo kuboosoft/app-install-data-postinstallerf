@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rosegarden4-feta-fonts</b>'
+Comment='<span size="xx-large">Rosegarden feta fonts</span>'
+Comment3='
+Rosegarden is a professional audio and MIDI sequencer, score editor, and
+general purpose music composition and editing environment.
+
+This package contains Lilyponds feta musical notation fonts adapted for use
+of Rosegarden.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rosegardenmusic.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

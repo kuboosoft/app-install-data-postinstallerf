@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>NetworkManager-glib</b>'
+Comment='<span size="xx-large">Libraries for adding NetworkManager support to applications that use glib.</span>'
+Comment3='
+This package contains the libraries that make it easier to use some NetworkManager
+functionality from applications that use glib.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/projects/NetworkManager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

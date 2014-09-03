@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-symfony-templating</b>'
+Comment='<span size="xx-large">Symfony Templating Component</span>'
+Comment3='
+Templating provides all the tools needed to build any kind of template system.
+
+It provides an infrastructure to load template files and optionally monitor
+them for changes. It also provides a concrete template engine implementation
+using PHP with additional tools for escaping and separating templates into
+blocks and layouts.
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com/doc/current/components/templating.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

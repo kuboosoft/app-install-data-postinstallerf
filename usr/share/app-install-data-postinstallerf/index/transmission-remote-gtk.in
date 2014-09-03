@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>transmission-remote-gtk</b>'
+Comment='<span size="xx-large">GTK remote control for the Transmission BitTorrent client</span>'
+Comment3='
+transmission-remote-gtk is a GTK client for remote management of
+the Transmission BitTorrent client, using its HTTP RPC protocol.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/transmission-remote-gtk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

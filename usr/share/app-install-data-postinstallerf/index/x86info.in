@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>x86info</b>'
+Comment='<span size="xx-large">x86 processor information tool.</span>'
+Comment3='
+x86info displays diagnostic information about x86 processors, such
+as cache configuration and supported features.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.codemonkey.org.uk/projects/x86info'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sox-devel</b>'
+Comment='<span size="xx-large">The SoX sound file format converter libraries</span>'
+Comment3='
+This package contains the library needed for compiling applications
+which will use the SoX sound file format converter.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sox.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

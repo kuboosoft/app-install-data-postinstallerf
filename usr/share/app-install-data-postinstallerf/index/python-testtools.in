@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-testtools</b>'
+Comment='<span size="xx-large">Extensions to the Python unit testing framework</span>'
+Comment3='
+testtools is a set of extensions to the Python standard librarys unit testing
+framework.
+'
+License='MIT'
+Screenshot=''
+Url='https://launchpad.net/testtools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

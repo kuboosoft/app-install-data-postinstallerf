@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kde-plasma-daisy</b>'
+Comment='<span size="xx-large">A versatile application launcher</span>'
+Comment3='
+Daisy is a versatile yet simple plasma application launcher applet.
+It supports three different types of roles a circular dock,
+a media controller and a linear dock.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.cdlszm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

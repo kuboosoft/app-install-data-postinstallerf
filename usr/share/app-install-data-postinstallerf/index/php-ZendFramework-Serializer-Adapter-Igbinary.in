@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-Serializer-Adapter-Igbinary</b>'
+Comment='<span size="xx-large">Drop-in replacement for the standard PHP serializer</span>'
+Comment3='
+Igbinary is Open Source Software released by Sulake Dynamoid Oy. Its a drop-in
+replacement for the standard PHP serializer. Instead of time and space
+consuming textual representation, igbinary stores PHP data structures in a
+compact binary form. Savings are significant when using memcached or similar
+memory based storages for serialized data.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

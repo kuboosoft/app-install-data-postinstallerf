@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>htmldoc</b>'
+Comment='<span size="xx-large">Converter from HTML into indexed HTML, PostScript, or PDF</span>'
+Comment3='
+HTMLDOC converts HTML source files into indexed HTML, PostScript, or
+Portable Document Format (PDF) files that can be viewed online or
+printed. With no options a HTML document is produced on stdout.
+
+The second form of HTMLDOC reads HTML source from stdin, which allows
+you to use HTMLDOC as a filter.
+The third form of HTMLDOC launches a graphical interface that allows
+you to change options and generate documents interactively.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://www.htmldoc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

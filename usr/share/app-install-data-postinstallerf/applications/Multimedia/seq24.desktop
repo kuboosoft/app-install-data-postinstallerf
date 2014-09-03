@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n seq24
+Name=Seq24
+GenericName=
+Comment=MIDI Sequencer
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_seq24.png
+Type=Application
+Categories=AudioVideo;Audio;
+Terminal=false

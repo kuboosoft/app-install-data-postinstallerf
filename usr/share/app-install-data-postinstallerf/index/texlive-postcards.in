@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-postcards</b>'
+Comment='<span size="xx-large">Facilitates mass-mailing of postcards (junkmail)</span>'
+Comment3='
+A modification of the standard LaTeX letter class which prints
+multiple, pre-stamped, 5.5" by 3.5" postcards (a US standard
+size) via the envlab and mailing packages. An address database
+is employed to address the front side of each postcard and a
+message is printed on the back side of all. An illustrative
+example is provided.
+
+date 2009-01-23 151109 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

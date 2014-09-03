@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtpcmisc-static</b>'
+Comment='<span size="xx-large">Static libraries for libtpcmisc</span>'
+Comment3='
+This package contains static libraries for libtpcmisc.
+
+URL          http//www.turkupetcentre.net/software/libdoc/libtpcmisc/index.html
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.turkupetcentre.net/software/libdoc/libtpcmisc/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

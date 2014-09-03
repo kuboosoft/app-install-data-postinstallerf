@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xen-ocaml-devel</b>'
+Comment='<span size="xx-large">Ocaml development libraries for Xen tools</span>'
+Comment3='
+This package contains libraries for developing ocaml tools to
+manage Xen virtual machines.
+
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://xen.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

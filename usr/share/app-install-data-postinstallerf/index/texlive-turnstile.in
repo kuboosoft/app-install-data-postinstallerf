@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-turnstile</b>'
+Comment='<span size="xx-large">Typeset the (logic) turnstile notation</span>'
+Comment3='
+Among other uses, the turnstile sign is used by logicians for
+denoting a consequence relation, related to a given logic,
+between a collection of formulas and a derived formula.
+
+date 2008-08-24 144348 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

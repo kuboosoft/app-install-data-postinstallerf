@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-usebib</b>'
+Comment='<span size="xx-large">A simple bibloography processor</span>'
+Comment3='
+The package is described by its author as "a poor persons
+replacement for the more powerful methods provided by biblatex
+to access data from a .bib file". Its principle commands are
+\bibinput (which specifies a database to use) and \usebibdata
+(which typesets a single field from a specified entry in that
+database.
+
+date 2012-04-13 235456 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

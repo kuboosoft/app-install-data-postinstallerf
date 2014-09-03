@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gloox</b>'
+Comment='<span size="xx-large">A rock-solid, full-featured Jabber/XMPP client C++ library</span>'
+Comment3='
+gloox is a rock-solid, full-featured Jabber/XMPP client library written in
+C++. It makes writing spec-compliant clients easy and allows for hassle-free
+integration of Jabber/XMPP functionality into existing applications.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://camaya.net/gloox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

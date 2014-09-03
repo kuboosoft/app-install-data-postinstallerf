@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ktp-filetransfer-handler</b>'
+Comment='<span size="xx-large">Telepathy file transfer handler</span>'
+Comment3='
+Telepathy-KDE file transfer handler. It basically does two thigs
+ - Send files to your contact
+ - Receive files from your contact
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/network/telepathy/ktp-filetransfer-handler'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

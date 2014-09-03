@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>midisport-firmware</b>'
+Comment='<span size="xx-large">Firmware for the M-Audio/Midiman USB MIDI and Audio devices</span>'
+Comment3='
+This package contains the firmware for M-Audio/Midiman USB MIDI & Audio devices.
+
+Supported devices
+ - MidiSport 1x1
+ - MidiSport 2x2
+ - MidiSport 4x4
+ - MidiSport 8x8
+ - MidiSport Uno
+ - Keystation
+ - Oxygen
+'
+License='(MIT or GPLv2+) and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://usb-midi-fw.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

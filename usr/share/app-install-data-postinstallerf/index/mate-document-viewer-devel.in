@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-document-viewer-devel</b>'
+Comment='<span size="xx-large">Support for developing back-ends for the mate-document-viewer</span>'
+Comment3='
+This package contains libraries and header files needed for
+mate-document-viewer back-ends development.
+
+'
+License='GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-hu</b>'
+Comment='<span size="xx-large">Hungarian hyphenation rules</span>'
+Comment3='
+Hungarian hyphenation rules.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.tipogral.hu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>beecrypt</b>'
+Comment='<span size="xx-large">An open source cryptography library</span>'
+Comment3='
+BeeCrypt is an ongoing project to provide a strong and fast cryptography
+toolkit. Includes entropy sources, random generators, block ciphers, hash
+functions, message authentication codes, multiprecision integer routines
+and public key primitives.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://beecrypt.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

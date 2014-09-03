@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>lzma-sdk</b>'
+Comment='<span size="xx-large">SDK for lzma compression</span>'
+Comment3='
+LZMA SDK provides the documentation, samples, header files, libraries,
+and tools you need to develop applications that use LZMA compression.
+
+LZMA is default and general compression method of 7z format
+in 7-Zip compression program (www.7-zip.org). LZMA provides high
+compression ratio and very fast decompression.
+LZMA is an improved version of famous LZ77 compression algorithm.
+It was improved in way of maximum increasing of compression ratio,
+keeping high decompression speed and low memory requirements for
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/sevenzip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>barry-devel-docs</b>'
+Comment='<span size="xx-large">BlackBerry Desktop for Linux - development libraries documentation</span>'
+Comment3='
+This package contains the documentation for the development library files for
+Barry.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.netdirect.ca/software/packages/barry'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

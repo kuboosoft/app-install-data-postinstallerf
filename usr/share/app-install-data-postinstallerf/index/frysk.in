@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>frysk</b>'
+Comment='<span size="xx-large">Execution analysis and debugging tool-suite.</span>'
+Comment3='
+Frysk is an execution-analysis technology implemented using native
+Java and C++.  It is aimed at providing developers and sysadmins with
+the ability to both examine and analyze running multi-host,
+multi-process, multi-threaded systems.  Frysk allows the monitoring of
+running processes and threads, of locking primitives and will also
+expose deadlocks, gather data and debug any given process in the
+system.
+'
+License='GPLv2 with exceptions and BSD and CPL and Public Domain'
+Screenshot=''
+Url='http://sourceware.org/frysk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

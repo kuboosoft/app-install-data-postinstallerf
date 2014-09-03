@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-anysize</b>'
+Comment='<span size="xx-large">A simple package to set up document margins</span>'
+Comment3='
+This package is considered obsolete; alternatives are the
+typearea package from the koma-script bundle, or the geometry
+package.
+
+date 2009-09-24 145717 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

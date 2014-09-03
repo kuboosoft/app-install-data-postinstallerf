@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>hsqldb</b>'
+Comment='<span size="xx-large">HyperSQL Database Engine</span>'
+Comment3='
+HSQLdb is a relational database engine written in JavaTM , with a JDBC
+driver, supporting a subset of ANSI-92 SQL. It offers a small (about
+100k), fast database engine which offers both in memory and disk based
+tables. Embedded and server modes are available. Additionally, it
+includes tools such as a minimal web server, in-memory query and
+management tools (can be run as applets or servlets, too) and a number
+of demonstration examples.
+Downloaded code should be regarded as being of production quality. The
+product is currently being used as a database and persistence engine in
+many Open Source Software projects and even in commercial projects and
+'
+License='BSD'
+BSD License. Yes, thats right, completely free of cost or restrictions!'
+Screenshot=''
+Url='http://hsqldb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

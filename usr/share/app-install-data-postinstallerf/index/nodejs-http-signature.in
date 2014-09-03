@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-http-signature</b>'
+Comment='<span size="xx-large">Reference implementation of Joyents HTTP Signature Scheme</span>'
+Comment3='
+nodejs-http-signature is a node.js library that has client and server components
+for Joyents HTTP Signature Scheme.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/joyent/node-http-signature'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

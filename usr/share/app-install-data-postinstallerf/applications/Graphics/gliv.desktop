@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gliv
+Type=Application
+Name=Gliv
+Comment=View images using gdk-pixbuf and OpenGL
+Icon=/usr/share/app-install-data-postinstallerf/icons/gliv.png
+Terminal=false
+Categories=Graphics;

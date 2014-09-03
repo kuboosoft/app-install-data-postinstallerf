@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>pan</b>'
+Comment='<span size="xx-large">A GNOME/GTK+ newsreader for X</span>'
+Comment3='
+Pan is a newsreader which attempts to be pleasant to new and
+advanced users alike. It has all the standard newsreaders
+features and also supports offline reading, scoring and
+killfiles, yEnc, NZB, attachments posting, PGP handling,
+multiserver, and secure connections. Its also the only Unix
+newsreader to get a perfect score on the Good Net-Keeping
+Seal of Approval evaluations.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pan.rebelbase.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

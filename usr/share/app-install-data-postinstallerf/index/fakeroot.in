@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fakeroot</b>'
+Comment='<span size="xx-large">Gives a fake root environment</span>'
+Comment3='
+fakeroot runs a command in an environment wherein it appears to have
+root privileges for file manipulation. fakeroot works by replacing the
+file manipulation library functions (chmod(2), stat(2) etc.) by ones
+that simulate the effect the real library functions would have had,
+had the user really been root.
+'
+License='GPL+'
+Screenshot=''
+Url='http://fakeroot.alioth.debian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

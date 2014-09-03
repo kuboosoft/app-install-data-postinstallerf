@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-sayura</b>'
+Comment='<span size="xx-large">The Sinhala engine for IBus input platform</span>'
+Comment3='
+The Sayura engine for IBus platform. It provides Sinhala input method.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/ibus-sayura'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

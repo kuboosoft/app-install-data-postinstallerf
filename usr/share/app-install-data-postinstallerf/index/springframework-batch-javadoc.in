@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>springframework-batch-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for springframework-batch</span>'
+Comment3='
+This package contains javadoc for springframework-batch.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.springsource.org/spring-batch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cracklib-dicts</b>'
+Comment='<span size="xx-large">The standard CrackLib dictionaries</span>'
+Comment3='
+The cracklib-dicts package includes the CrackLib dictionaries.
+CrackLib will need to use the dictionary appropriate to your system,
+which is normally put in /usr/share/dict/words. Cracklib-dicts also
+contains the utilities necessary for the creation of new dictionaries.
+
+If you are installing CrackLib, you should also install cracklib-dicts.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/cracklib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

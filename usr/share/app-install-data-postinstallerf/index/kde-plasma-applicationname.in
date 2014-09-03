@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>kde-plasma-applicationname</b>'
+Comment='<span size="xx-large">QML plasmoid to display the application title of the focused window</span>'
+Comment3='
+A QML plasmoid to display the application name of the focused window.
+
+Features
+* Shows the application name of the focused windows
+* Shows the activity name if no window is focused
+* Optionally, it shows the window title (enable this option in the settings)
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/scarpin0/applicationname-plasmoid'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

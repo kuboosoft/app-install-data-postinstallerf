@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pygtksourceview-devel</b>'
+Comment='<span size="xx-large">Development files for using pygtksourceview in Python programs</span>'
+Comment3='
+This package contains files required to build Python programs that
+use the pygtksourceview bindings.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/pygtksourceview/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

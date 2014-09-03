@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-MouseX-Types</b>'
+Comment='<span size="xx-large">Organize your Mouse types in libraries</span>'
+Comment3='
+Organize your Mouse types; much as MooseXTypes does for your Moose types.
+For more information, please see the MooseXTypes manpage.
+
+This library was split off from Mouse as of Mouse 0.15.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MouseX-Types'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

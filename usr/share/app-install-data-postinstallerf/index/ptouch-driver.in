@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ptouch-driver</b>'
+Comment='<span size="xx-large">CUPS driver for Brother P-touch label printers</span>'
+Comment3='
+This is a CUPS raster filter for Brother P-touch label printers.  It is
+meant to be used by the PostScript Description files of the drivers from
+the foomatic package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.diku.dk/hjemmesider/ansatte/panic/P-touch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

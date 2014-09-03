@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gvrng</b>'
+Comment='<span size="xx-large">A robot driving game designed to introduce to kids to programming</span>'
+Comment3='
+Guido Van Robot is a small, python based programming environment in which
+students attempt to guide a small robot (styled after a LOGO environment), out
+of various mazes using a python based programming language
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gvr.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

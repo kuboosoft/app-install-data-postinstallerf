@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fros-recordmydesktop</b>'
+Comment='<span size="xx-large">fros plugin for screencasting using recordmydesktop as a backend</span>'
+Comment3='
+fros plugin for screencasting using recordmydesktop as a backend
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/mozeq/fros'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

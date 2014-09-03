@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lfc-python</b>'
+Comment='<span size="xx-large">LCG File Catalog (LFC) python bindings</span>'
+Comment3='
+The LCG File Catalog (LFC) keeps track of the locations of the physical
+replicas of the logical files in a distributed storage system.
+This package provides Python bindings for the LFC client library.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.web.cern.ch/glite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

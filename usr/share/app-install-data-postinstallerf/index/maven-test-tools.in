@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-test-tools</b>'
+Comment='<span size="xx-large">Maven Testing Tool</span>'
+Comment3='
+Framework to test Maven Plugins with Easymock objects.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugin-testing/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

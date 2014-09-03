@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>diffmark-devel</b>'
+Comment='<span size="xx-large">Development files for diffmark library</span>'
+Comment3='
+Header files and libraries for developing applications that use diffmark.
+
+URL          http//www.mangrove.cz/diffmark/
+'
+License='diffmark and GPLv2+ and (GPL+ or Artistic)'
+Screenshot=''
+Url='http://www.mangrove.cz/diffmark/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jgraphx-javadoc</b>'
+Comment='<span size="xx-large">API Documentation for jgraphx</span>'
+Comment3='
+JavaDoc documentation for jgraphx
+'
+License='BSD'
+Screenshot=''
+Url='http://www.jgraph.com/jgraph.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

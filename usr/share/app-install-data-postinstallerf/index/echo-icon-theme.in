@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>echo-icon-theme</b>'
+Comment='<span size="xx-large">Echo icon theme</span>'
+Comment3='
+This package contains the Echo icon theme.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/Artwork/EchoDevelopment'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

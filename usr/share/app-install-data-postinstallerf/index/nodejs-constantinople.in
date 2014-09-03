@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-constantinople</b>'
+Comment='<span size="xx-large">Determine whether a JavaScript expression evaluates to a constant</span>'
+Comment3='
+Determine whether a JavaScript expression evaluates to a constant.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/ForbesLindesay/constantinople'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

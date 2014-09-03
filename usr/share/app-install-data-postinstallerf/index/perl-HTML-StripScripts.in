@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-HTML-StripScripts</b>'
+Comment='<span size="xx-large">Strip scripting constructs out of HTML</span>'
+Comment3='
+This module strips scripting constructs out of HTML, leaving as much non-
+scripting markup in place as possible. This allows web applications to
+display HTML originating from an untrusted source without introducing XSS
+(cross site scripting) vulnerabilities.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-StripScripts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

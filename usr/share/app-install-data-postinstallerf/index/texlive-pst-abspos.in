@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-abspos</b>'
+Comment='<span size="xx-large">Put objects at an absolute position</span>'
+Comment3='
+The (PSTricks-related) package provides a command
+\pstPutAbs(x,y) to put an object at an arbitrary absolute (or
+even a relative) position on the page.
+
+date 2009-11-10 091741 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

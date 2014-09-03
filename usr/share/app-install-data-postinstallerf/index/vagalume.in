@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>vagalume</b>'
+Comment='<span size="xx-large">Last.fm client for GNOME and Maemo</span>'
+Comment3='
+Vagalume is a GTK+-based Last.fm client. Although it works on standard
+PCs, it is specially designed to work in the Maemo platform, the one
+used by some Nokia devices such as the 770, N800, N810 and N900.
+
+Its main features are
+    * It plays Last.fm radio streams (using the v2.0 API)
+    * It supports Libre.fm and other compatible servers
+    * Support for different radio stations (personal, neighbours, loved tracks,
+       ..., or any lastfm// URL)
+'
+License='GPLv3'
+Screenshot=''
+Url='http://vagalume.igalia.com/'
+       ..., or any lastfm:// URL)'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

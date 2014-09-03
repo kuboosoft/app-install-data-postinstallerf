@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-mos</b>'
+Comment='<span size="xx-large">Mossi hunspell dictionaries</span>'
+Comment3='
+Mossi hunspell dictionaries.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://www.abcburkina.net/content/view/377/48/lang,fr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

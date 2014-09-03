@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-miniupnpc</b>'
+Comment='<span size="xx-large">Python3 interface to miniupnpc</span>'
+Comment3='
+This package contains python3 interfaces to miniupnpc.
+'
+License='BSD'
+Screenshot=''
+Url='http://miniupnp.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

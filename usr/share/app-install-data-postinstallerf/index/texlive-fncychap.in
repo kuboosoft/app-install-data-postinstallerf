@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-fncychap</b>'
+Comment='<span size="xx-large">Seven predefined chapter heading styles</span>'
+Comment3='
+Each style can be modified using a set of simple commands.
+Optionally one can modify the formatting routines in order to
+create additional chapter headings. This package was previously
+known as FancyChapter.
+
+date 2010-12-10 102228 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

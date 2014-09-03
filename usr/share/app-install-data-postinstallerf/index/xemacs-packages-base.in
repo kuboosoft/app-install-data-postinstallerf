@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>xemacs-packages-base</b>'
+Comment='<span size="xx-large">Base lisp packages for XEmacs</span>'
+Comment3='
+XEmacs is a highly customizable open source text editor and
+application development system.  It is protected under the GNU General
+Public License and related to other versions of Emacs, in particular
+GNU Emacs.  Its emphasis is on modern graphical user interface support
+and an open software development model, similar to Linux.
+
+This package contains the minimal recommended set of additional lisp
+packages for XEmacs efs, xemacs-base and mule-base from upstream.
+'
+License='GPLv2+ and GPL+'
+Public License and related to other versions of Emacs, in particular'
+Screenshot=''
+Url='http://www.xemacs.org/Documentation/packageGuide.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

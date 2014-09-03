@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>luajit-devel</b>'
+Comment='<span size="xx-large">Development files for luajit</span>'
+Comment3='
+This package contains development files for luajit.
+
+URL          http//luajit.org/
+'
+License='MIT'
+Screenshot=''
+Url='http://luajit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

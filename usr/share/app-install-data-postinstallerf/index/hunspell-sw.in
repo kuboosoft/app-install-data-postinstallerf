@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-sw</b>'
+Comment='<span size="xx-large">Swahili hunspell dictionaries</span>'
+Comment3='
+Swahili hunspell dictionaries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.it46.se'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

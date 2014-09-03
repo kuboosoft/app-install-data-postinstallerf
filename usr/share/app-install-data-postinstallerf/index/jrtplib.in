@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jrtplib</b>'
+Comment='<span size="xx-large">JRTPLIB is an object-oriented RTP library written in C++</span>'
+Comment3='
+JRTPLIB is an object-oriented RTP library written in C++. It was first
+developed at the School for Knowledge Technology (or School voor
+Kennistechnologie in Dutch), a cooperation between the Hasselt
+University) and the Maastricht University.
+'
+License='MIT'
+Screenshot=''
+Url='http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

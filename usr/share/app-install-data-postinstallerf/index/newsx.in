@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>newsx</b>'
+Comment='<span size="xx-large">NNTP news exchange utility</span>'
+Comment3='
+Newsx is an NNTP client that will connect to a remote NNTP server and
+post outgoing news articles batched by the news system (e.g. INN), as
+well as fetch incoming articles.
+'
+License='GPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

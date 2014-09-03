@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ladspa-autotalent-plugins</b>'
+Comment='<span size="xx-large">A pitch correction LADSPA plugin</span>'
+Comment3='
+Autotalent is a real-time pitch correction plugin. You specify the notes that
+a singer is allowed to hit, and Autotalent makes sure that they do. You can
+also use Autotalent for more exotic effects, making your voice sound like a
+chiptune, adding artificial vibrato, or messing with your formants.
+Autotalent can also be used as a harmonizer that knows how to sing in the
+scale with you. Or, you can use Autotalent to change the scale of a melody
+between major and minor or to change the musical mode.
+'
+License='GPLv2+ and BSD and CC-BY-ND'
+Screenshot=''
+Url='http://web.mit.edu/tbaran/www/autotalent.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

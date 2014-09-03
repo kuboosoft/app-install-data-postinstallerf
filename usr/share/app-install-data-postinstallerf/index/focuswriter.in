@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>focuswriter</b>'
+Comment='<span size="xx-large">A fullscreen, distraction-free writing program</span>'
+Comment3='
+A fullscreen, distraction-free writing program. You can customize your
+environment by changing the font, colors, and background image to add ambiance
+as you type. FocusWriter features an on-the-fly updating word count, optional
+auto-save, optional daily goals, and an interface that hides away to allow you
+to focus more clearly; additionally, when you open the program your current
+work-in-progress will automatically load and position you at the end of your
+document, so that you can immediately jump back in.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gottcode.org/focuswriter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

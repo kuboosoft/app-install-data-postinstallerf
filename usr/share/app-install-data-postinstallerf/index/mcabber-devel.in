@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mcabber-devel</b>'
+Comment='<span size="xx-large">Development files for mcabber</span>'
+Comment3='
+Headers and miscellaneous files used for building projects using mcabber
+
+URL          http//www.lilotux.net/~mikael/mcabber/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lilotux.net/~mikael/mcabber/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

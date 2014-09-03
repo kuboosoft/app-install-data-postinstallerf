@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openssl-devel</b>'
+Comment='<span size="xx-large">Files for development of applications which will use OpenSSL</span>'
+Comment3='
+OpenSSL is a toolkit for supporting cryptography. The openssl-devel
+package contains include files needed to develop applications which
+support various cryptographic algorithms and protocols.
+
+'
+License='OpenSSL'
+Screenshot=''
+Url='http://www.openssl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

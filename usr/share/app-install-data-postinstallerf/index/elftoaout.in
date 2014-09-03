@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>elftoaout</b>'
+Comment='<span size="xx-large">A utility for converting ELF binaries to a.out binaries</span>'
+Comment3='
+The elftoaout utility converts a static ELF binary to a static a.out
+binary.  If youre using an ELF system (i.e., Fedora) on a SPARC, youll
+need to run elftoaout on the kernel image so that the SPARC PROM can
+netboot the image.
+
+If youre installing Fedora on a SPARC, youll need to install the elftoaout
+package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.sparc-boot.org/elftoaout'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

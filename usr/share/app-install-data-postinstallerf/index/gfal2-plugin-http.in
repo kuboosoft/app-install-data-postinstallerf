@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gfal2-plugin-http</b>'
+Comment='<span size="xx-large">Provide the HTTP/DAV support for gfal2</span>'
+Comment3='
+Provide the HTTP and WevDAV support for gfal2.
+this plugin is able to do third-party copy with Webdav
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>qrencode</b>'
+Comment='<span size="xx-large">Generate QR 2D barcodes</span>'
+Comment3='
+Qrencode is a utility software using libqrencode to encode string data in
+a QR Code and save as a PNG image.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fukuchi.org/works/qrencode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

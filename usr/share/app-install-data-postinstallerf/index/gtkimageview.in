@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtkimageview</b>'
+Comment='<span size="xx-large">Simple image viewer widget</span>'
+Comment3='
+GtkImageView is a simple image viewer widget for GTK. It makes writing image
+viewing and editing applications easy.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://trac.bjourne.webfactional.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

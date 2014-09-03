@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kollision</b>'
+Comment='<span size="xx-large">A simple ball dodging game</span>'
+Comment3='
+Kollision is a simple ball dodging game. Let the blue ball
+move in the field without touching the red balls.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kollision'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

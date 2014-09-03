@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kflickr</b>'
+Comment='<span size="xx-large">Standalone Flickr Uploader</span>'
+Comment3='
+kflickr is an easy to use photo uploader for flickr.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kflickr.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

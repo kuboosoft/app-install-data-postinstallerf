@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnokii-devel</b>'
+Comment='<span size="xx-large">Gnokii development files</span>'
+Comment3='
+Gnokii development files.
+
+URL          http//www.gnokii.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnokii.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

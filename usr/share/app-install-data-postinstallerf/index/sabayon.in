@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sabayon</b>'
+Comment='<span size="xx-large">Tool to maintain user profiles in a GNOME desktop</span>'
+Comment3='
+Sabayon is a tool to help sysadmins and user change and maintain the
+default behavior of the GNOME desktop. This package contains the
+graphical tools which a sysadmin use to manage Sabayon profiles.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/projects/sabayon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

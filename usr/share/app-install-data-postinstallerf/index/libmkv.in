@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmkv</b>'
+Comment='<span size="xx-large">An alternative to the official libmatroska library</span>'
+Comment3='
+This library is meant to be an alternative to the official libmatroska library.
+It is written in plain C, and is intended to be very portable.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/saintdev/libmkv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

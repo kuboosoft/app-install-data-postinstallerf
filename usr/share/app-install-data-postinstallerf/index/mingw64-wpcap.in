@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-wpcap</b>'
+Comment='<span size="xx-large">MinGW user-level packet capture</span>'
+Comment3='
+MinGW Windows pcap library.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.winpcap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

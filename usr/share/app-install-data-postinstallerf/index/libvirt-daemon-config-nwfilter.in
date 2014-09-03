@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-config-nwfilter</b>'
+Comment='<span size="xx-large">Network filter configuration files for the libvirtd daemon</span>'
+Comment3='
+Network filter configuration files for cleaning guest traffic
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

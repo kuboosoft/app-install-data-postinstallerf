@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>xvarstar</b>'
+Comment='<span size="xx-large">Astronomical program used for searching GCVS</span>'
+Comment3='
+XVarStar is a astronomical program written for variable star observers, and is
+ used for searching GCVS catalogue.  It allows searching by following criteria
+-star name
+-magnitude
+-type
+-constellation
+-amplitude
+-This searching criteria can be combined so one can search for example all
+variable stars located in Andromeda constellation and with magnitude
+brighter than 5.00.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://virtus.freeshell.org/xvarstar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

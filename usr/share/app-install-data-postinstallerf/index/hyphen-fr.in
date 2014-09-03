@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-fr</b>'
+Comment='<span size="xx-large">French hyphenation rules</span>'
+Comment3='
+French hyphenation rules.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.dicollecte.org/download.php?prj=fr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

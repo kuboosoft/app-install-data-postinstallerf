@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-AI-DecisionTree</b>'
+Comment='<span size="xx-large">Automatically Learns Decision Trees</span>'
+Comment3='
+The AIDecisionTree module automatically creates so-called "decision
+trees" to explain a set of training data. A decision tree is a kind of
+categorizer that use a flowchart-like process for categorizing new
+instances. For instance, a learned decision tree might look like the
+following, which classifies for the concept "play tennis"
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/AI-DecisionTree/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

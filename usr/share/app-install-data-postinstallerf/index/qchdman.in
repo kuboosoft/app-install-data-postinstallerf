@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qchdman</b>'
+Comment='<span size="xx-large">Qt CHDMAN GUI</span>'
+Comment3='
+A stand-alone graphical user interface / front-end to chdman
+'
+License='GPLv2'
+Screenshot=''
+Url='http://qmc2.arcadehits.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

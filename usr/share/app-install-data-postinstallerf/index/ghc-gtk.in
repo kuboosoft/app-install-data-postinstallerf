@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-gtk</b>'
+Comment='<span size="xx-large">Binding to the Gtk+ graphical user interface library</span>'
+Comment3='
+This is the core library of the Gtk2Hs suite of libraries for Haskell
+based on Gtk+. Gtk+ is an extensive and mature multi-platform toolkit
+for creating graphical user interfaces.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/gtk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

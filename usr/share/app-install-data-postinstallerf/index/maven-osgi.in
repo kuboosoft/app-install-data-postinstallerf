@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>maven-osgi</b>'
+Comment='<span size="xx-large">Library for Maven-OSGi integration</span>'
+Comment3='
+Library for Maven-OSGi integration.
+
+This is a replacement package for maven-shared-osgi
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/shared/maven-osgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

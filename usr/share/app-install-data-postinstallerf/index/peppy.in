@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>peppy</b>'
+Comment='<span size="xx-large">Editor written in python</span>'
+Comment3='
+Peppy is a wxPython/Scintilla-based editor written in and extensible through
+Python. It attempts to provide an XEmacs-like multi-window, multi-tabbed
+framework with low coupling, so its easy to add support for new types of
+files.
+'
+License='GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://peppy.flipturn.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

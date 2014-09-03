@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>usermode</b>'
+Comment='<span size="xx-large">Tools for certain user account management tasks</span>'
+Comment3='
+The usermode package contains the userhelper program, which can be
+used to allow configured programs to be run with superuser privileges
+by ordinary users.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/usermode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

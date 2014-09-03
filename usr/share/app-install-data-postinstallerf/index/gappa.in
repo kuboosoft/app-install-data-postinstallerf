@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gappa</b>'
+Comment='<span size="xx-large">Prove programs with floating-point or fixed-point arithmetic</span>'
+Comment3='
+Gappa is a tool intended to help verifying and formally prove
+properties on numerical programs and circuits handling floating-point
+or fixed-point arithmetic.  This tool manipulates logical formulas
+stating the enclosures of expressions in some intervals.  Through the
+use of rounding operators as part of the expressions, Gappa is specially
+designed to deal with formulas that could appear when certifying numerical
+codes. In particular, Gappa makes it simple to bound computational errors
+due to floating-point arithmetic.  The tool and its documentation were
+written by Guillaume Melquiond.
+'
+License='GPLv2 or CeCILL'
+Screenshot=''
+Url='http://gappa.gforge.inria.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

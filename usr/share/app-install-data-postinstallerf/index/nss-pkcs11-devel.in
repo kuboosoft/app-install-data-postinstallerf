@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nss-pkcs11-devel</b>'
+Comment='<span size="xx-large">Development libraries for PKCS #11 (Cryptoki) using NSS</span>'
+Comment3='
+Library files for developing PKCS #11 modules using basic NSS
+low level services.
+
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.mozilla.org/projects/security/pki/nss/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

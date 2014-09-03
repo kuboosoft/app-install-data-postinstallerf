@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gssdp-docs</b>'
+Comment='<span size="xx-large">Documentation files for gssdp</span>'
+Comment3='
+This package contains developer documentation for gssdp.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gupnp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

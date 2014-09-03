@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Test-Portability-Files</b>'
+Comment='<span size="xx-large">Check file names portability</span>'
+Comment3='
+This module is used to check the portability across operating systems of
+the names of the files present in the distribution of a module. The tests
+use the advice given in "Files and Filesystems" in perlport. The author of
+a distribution can select which tests to execute.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Portability-Files/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

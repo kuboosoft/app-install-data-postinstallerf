@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>calligra-stage</b>'
+Comment='<span size="xx-large">A full-featured presentation program</span>'
+Comment3='
+Stage is a powerful and easy to use presentation application. You
+can dazzle your audience with stunning slides containing images, videos,
+animation and more.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.calligra-suite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>four-in-a-row</b>'
+Comment='<span size="xx-large">GNOME Four-in-a-row game</span>'
+Comment3='
+The objective of Four-in-a-row is to build a line of four of your marbles
+while trying to stop your opponent (human or computer) building a line
+of his or her own.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/gnome-games/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

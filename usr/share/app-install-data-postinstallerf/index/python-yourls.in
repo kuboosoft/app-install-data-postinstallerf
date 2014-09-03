@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-yourls</b>'
+Comment='<span size="xx-large">Simple Python client for the YOURLS URL shortener</span>'
+Comment3='
+Simple Python client for the YOURLS URL shortener
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tflink.github.com/python-yourls/'
+Summary     : Simple Python client for the YOURLS URL shortener'
+Simple Python client for the YOURLS URL shortener'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

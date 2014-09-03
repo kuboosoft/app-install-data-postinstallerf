@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fcitx</b>'
+Comment='<span size="xx-large">An input method framework</span>'
+Comment3='
+Fcitx is an input method framework with extension support. Currently it
+supports Linux and Unix systems like FreeBSD.
+
+Fcitx tries to provide a native feeling under all desktop as well as a light
+weight core. You can easily customize it to fit your requirements.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/Fcitx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

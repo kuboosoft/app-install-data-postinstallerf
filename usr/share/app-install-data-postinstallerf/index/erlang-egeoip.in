@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>erlang-egeoip</b>'
+Comment='<span size="xx-large">Erlang IP Geolocation module</span>'
+Comment3='
+Erlang IP Geolocation module, currently supporting the MaxMind GeoLite City
+Database.
+'
+License='MIT and BSD with advertising'
+Screenshot=''
+Url='https://github.com/mochi/egeoip'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wallch</b>'
+Comment='<span size="xx-large">A powerful general purpose wallpaper changer</span>'
+Comment3='
+Wallch is a general purpose Wallpaper Changer for the GNOME desktop which can
+change the desktop background image after an adjustable time. The aim of
+Wallch is to make it easier for you to keep your desktop "fresh" and new!
+'
+License='GPLv3'
+Screenshot=''
+Url='http://sourceforge.net/projects/wall-changer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

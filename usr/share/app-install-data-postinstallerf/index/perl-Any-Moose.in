@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Any-Moose</b>'
+Comment='<span size="xx-large">Use Moose or Mouse automagically (DEPRECATED)</span>'
+Comment3='
+AnyMoose is deprecated - please use Moo for new code.
+
+This module allows one to take advantage of the features Moose/Mouse
+provides, while allowing one to let the program author determine if Moose
+or Mouse should be used; when used, we load Mouse if Moose isnt already
+loaded, otherwise we go with Moose.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Any-Moose'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

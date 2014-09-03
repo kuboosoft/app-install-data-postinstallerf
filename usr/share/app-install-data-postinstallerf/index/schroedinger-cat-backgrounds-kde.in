@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>schroedinger-cat-backgrounds-kde</b>'
+Comment='<span size="xx-large">Schr?dingers Cat Wallpapers for KDE</span>'
+Comment3='
+This package contains KDE desktop wallpapers for the Schr?dingers Cat
+theme.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F19_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

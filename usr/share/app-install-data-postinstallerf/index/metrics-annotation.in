@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>metrics-annotation</b>'
+Comment='<span size="xx-large">Annotations for Metrics</span>'
+Comment3='
+A dependency-less package of just the
+annotations used by other Metrics modules.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://metrics.codahale.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

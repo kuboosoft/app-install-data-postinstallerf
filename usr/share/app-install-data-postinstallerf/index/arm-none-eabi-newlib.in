@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>arm-none-eabi-newlib</b>'
+Comment='<span size="xx-large">C library intended for use on arm-none-eabi embedded systems</span>'
+Comment3='
+Newlib is a C library intended for use on embedded systems. It is a
+conglomeration of several library parts, all under free software licenses
+that make them easily usable on embedded products.
+'
+License='BSD and MIT and LGPLv2+ and ISC'
+Screenshot=''
+Url='http://sourceware.org/newlib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

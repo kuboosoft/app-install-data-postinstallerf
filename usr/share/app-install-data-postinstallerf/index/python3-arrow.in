@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python3-arrow</b>'
+Comment='<span size="xx-large">Better dates and times for Python</span>'
+Comment3='
+Arrow is a Python library that offers a sensible, human-friendly approach to
+creating, manipulating, formatting and converting dates, times, and timestamps.
+It implements and updates the datetime type, plugging gaps in functionality,
+and provides an intelligent module API that supports many common creation
+scenarios.
+Simply put, it helps you work with dates and times with fewer imports and a lot
+less code.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/arrow'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

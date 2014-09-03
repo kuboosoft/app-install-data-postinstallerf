@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-web</b>'
+Comment='<span size="xx-large">original web programs tangle and weave</span>'
+Comment3='
+The system processes web files in two ways firstly to
+rearrange them to produce compilable code (using the program
+tangle), and secondly to produce a TeX source (using the
+program weave) that may be typeset for comfortable reading.
+
+date 2012-02-22 182424 +0100
+'
+License='Knuth'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

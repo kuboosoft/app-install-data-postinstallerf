@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>soprano-devel</b>'
+Comment='<span size="xx-large">Developer files for soprano</span>'
+Comment3='
+Developer files for soprano.
+
+URL          http//sourceforge.net/projects/soprano
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/soprano'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

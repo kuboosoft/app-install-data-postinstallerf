@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>esound-libs</b>'
+Comment='<span size="xx-large">Library to talk to the EsounD daemon</span>'
+Comment3='
+The esound-libs package includes the libraries required
+for applications to talk to the EsounD daemon.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='ftp://ftp.gnome.org/pub/GNOME/sources/esound'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

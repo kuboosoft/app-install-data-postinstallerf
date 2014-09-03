@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libuser-python</b>'
+Comment='<span size="xx-large">Python bindings for the libuser library</span>'
+Comment3='
+The libuser-python package contains the Python bindings for
+the libuser library, which provides a Python API for manipulating and
+administering user and group accounts.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/libuser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

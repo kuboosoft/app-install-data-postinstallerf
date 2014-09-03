@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>genchemlab</b>'
+Comment='<span size="xx-large">A general chemistry lab experiment simulator</span>'
+Comment3='
+GenChemLab is an OpenGL-based application intended to simulate several common
+general chemistry experiments.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://genchemlab.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>partimage</b>'
+Comment='<span size="xx-large">Partition imaging utility, much like Ghost</span>'
+Comment3='
+Partimage is a Linux/UNIX partition imaging utility,
+which saves partitions, having a supported filesystem, to an image file.
+Partimage will only copy data from the used portions of the partition.
+The image file can be compressed with gzip or bzip2 to save space,
+and can be split into multiple files to be copied on CDs/DVDs.
+
+Partimage was compiled with login enabled,
+and supporting the following filesystems
+  ext2fs, ext3fs, fat, fat16, fat32, hfs, hpfs, jfs,
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.partimage.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

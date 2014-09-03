@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Test-Deep</b>'
+Comment='<span size="xx-large">Extremely flexible deep comparison</span>'
+Comment3='
+TestDeep gives you very flexible ways to check that the result you
+got is the result you were expecting. At its simplest it compares two
+structures by going through each level, ensuring that the values
+match, that arrays and hashes have the same elements and that
+references are blessed into the correct class. It also handles
+circular data structures without getting caught in an infinite loop.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Deep/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

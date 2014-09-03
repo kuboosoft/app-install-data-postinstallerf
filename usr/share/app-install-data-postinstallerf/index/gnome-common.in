@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnome-common</b>'
+Comment='<span size="xx-large">Useful things common to building gnome packages from scratch</span>'
+Comment3='
+This package contains sample files that should be used to develop pretty much
+every GNOME application.  The programs included here are not needed for running
+gnome apps or building ones from distributed tarballs.  They are only useful
+for compiling from CVS sources or when developing the build infrastructure for
+a GNOME application.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://developer.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

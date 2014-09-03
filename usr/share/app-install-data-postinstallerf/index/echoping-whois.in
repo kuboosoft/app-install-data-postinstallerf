@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>echoping-whois</b>'
+Comment='<span size="xx-large">WHOIS plugin for checking response times of Whois servers</span>'
+Comment3='
+WHOIS performance measurement plugin for echoping.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://echoping.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

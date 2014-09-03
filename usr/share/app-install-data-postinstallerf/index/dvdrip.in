@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dvdrip</b>'
+Comment='<span size="xx-large">Graphical DVD ripping and encoding tool</span>'
+Comment3='
+dvdrip is a full featured DVD copy program. It provides an easy to use but
+feature-rich Gtk+ GUI to control almost all aspects of the ripping and
+transcoding process. It uses the widely known video processing swissknife
+transcode and many other Open Source tools.
+'
+License='(GPL+ or Artistic) and CC-BY-SA'
+Screenshot=''
+Url='http://www.exit1.org/dvdrip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

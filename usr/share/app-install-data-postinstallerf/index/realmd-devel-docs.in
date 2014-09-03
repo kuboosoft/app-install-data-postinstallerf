@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>realmd-devel-docs</b>'
+Comment='<span size="xx-large">Developer documentation files for realmd</span>'
+Comment3='
+The realmd-devel package contains developer documentation for developing
+applications that use realmd.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cgit.freedesktop.org/realmd/realmd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

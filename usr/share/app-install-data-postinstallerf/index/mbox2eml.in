@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mbox2eml</b>'
+Comment='<span size="xx-large">Split mbox mailboxes into single .eml files</span>'
+Comment3='
+Mbox2eml splits mbox mailboxes into single .eml files.  It is highly
+configurable and written in C++ to gain maximum performance using a
+minimum of RAM.
+'
+License='GPL+'
+Screenshot=''
+Url='http://sourceforge.net/projects/mbox2eml/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

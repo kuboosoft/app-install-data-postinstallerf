@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-lua-check-hyphen</b>'
+Comment='<span size="xx-large">Mark hyphenations in a document, for checking</span>'
+Comment3='
+The package looks at all hyphenation breaks in the document,
+comparing them against a white-list prepared by the author. If
+a hyphenation break is found, for which there is no entry in
+the white-list, the package flags the line where the break
+starts. The author may then either add the hyphenation to the
+white-list, or adjust the document to avoid the break.
+
+date 2012-07-03 112815 +0200
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

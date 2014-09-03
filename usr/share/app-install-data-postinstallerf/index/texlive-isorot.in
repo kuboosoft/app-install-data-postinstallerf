@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-isorot</b>'
+Comment='<span size="xx-large">Rotation of document elements</span>'
+Comment3='
+The isorot package is for rotation of document elements. It is
+a combination of the lscape package and an extension of the
+rotating package. The package is designed for use with the iso
+class but may be used with any normal class.
+
+date 2007-01-08 133152 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

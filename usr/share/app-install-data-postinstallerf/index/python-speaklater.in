@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-speaklater</b>'
+Comment='<span size="xx-large">Implements a lazy string for python useful for use with get-text</span>'
+Comment3='
+A module that provides lazy strings for translations. Basically you get an
+object that appears to be a string but changes the value every time the value
+is evaluated based on a callable you provide.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/mitsuhiko/speaklater'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnetfilter_conntrack</b>'
+Comment='<span size="xx-large">Netfilter conntrack userspace library</span>'
+Comment3='
+libnetfilter_conntrack is a userspace library providing a programming
+interface (API) to the in-kernel connection tracking state table.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://netfilter.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

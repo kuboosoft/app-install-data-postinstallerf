@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nxt_python</b>'
+Comment='<span size="xx-large">Nxt_python is a package for controlling a LEGO NXT robot using python</span>'
+Comment3='
+nxt_python is a python package for controlling a LEGO NXT robot using the
+python programming language.  It can communicate using either USB or Bluetooth.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://home.comcast.net/~dplau/nxt_python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

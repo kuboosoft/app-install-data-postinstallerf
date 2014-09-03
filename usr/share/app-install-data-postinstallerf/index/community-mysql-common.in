@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>community-mysql-common</b>'
+Comment='<span size="xx-large">The shared files required for MySQL server and client</span>'
+Comment3='
+The mysql-common package provides the essential shared files for any
+MySQL program. You will need to install this package to use any other
+MySQL package.
+
+'
+License='GPLv2 with exceptions and LGPLv2 and BSD'
+Screenshot=''
+Url='http://www.mysql.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

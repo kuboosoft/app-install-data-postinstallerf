@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>mod_qos</b>'
+Comment='<span size="xx-large">Quality of service module for Apache</span>'
+Comment3='
+The mod_qos module may be used to determine which requests should be served and
+which shouldnt in order to avoid resource over-subscription. The module
+collects different attributes such as the request URL, HTTP request and response
+headers, the IP source address, the HTTP response code, history data (based on
+user session and source IP address), the number of concurrent requests to the
+server (total or requests having similar attributes), the number of concurrent
+TCP connections (total or from a single source IP), and so forth.
+
+Counteractive measures to enforce the defined rules are request blocking,
+dynamic timeout adjustment, request delay, response throttling, and dropping of
+'
+License='GPLv2'
+Screenshot=''
+Url='http://opensource.adnovum.ch/mod_qos/'
+collects different attributes such as the request URL, HTTP request and response'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

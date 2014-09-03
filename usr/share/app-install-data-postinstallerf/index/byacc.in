@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>byacc</b>'
+Comment='<span size="xx-large">Berkeley Yacc, a parser generator</span>'
+Comment3='
+This package provides a parser generator utility that reads a grammar
+specification from a file and generates an LR(1) parser for it.  The
+parsers consist of a set of LALR(1) parsing tables and a driver
+routine written in the C programming language.  It has a public domain
+license which includes the generated C.
+
+If you are going to do development on your system, you will want to install
+this package.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://invisible-island.net/byacc/byacc.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

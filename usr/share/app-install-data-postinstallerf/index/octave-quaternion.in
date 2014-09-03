@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>octave-quaternion</b>'
+Comment='<span size="xx-large">Quaternion package for Octave</span>'
+Comment3='
+Package for the manipulation of Quaternions used for frame transformation
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://octave.sourceforge.net/quaternion/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

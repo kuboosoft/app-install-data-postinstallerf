@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-luaagent</b>'
+Comment='<span size="xx-large">Agent framework written in Lua</span>'
+Comment3='
+This package contains a Fawkes plugin which provides an agent
+framework to write agents in Lua.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

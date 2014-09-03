@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>prison</b>'
+Comment='<span size="xx-large">A Qt-based barcode abstraction library</span>'
+Comment3='
+Prison is a Qt-based barcode abstraction layer/library that provides
+an uniform access to generation of barcodes with data.
+
+'
+License='MIT'
+Screenshot=''
+Url='https://projects.kde.org/projects/kdesupport/prison'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

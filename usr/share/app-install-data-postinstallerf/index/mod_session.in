@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mod_session</b>'
+Comment='<span size="xx-large">Session interface for the Apache HTTP Server</span>'
+Comment3='
+The mod_session module and associated backends provide an abstract
+interface for storing and accessing per-user session data.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://httpd.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

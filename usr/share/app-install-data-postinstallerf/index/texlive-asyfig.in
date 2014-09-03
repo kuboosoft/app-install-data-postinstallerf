@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-asyfig</b>'
+Comment='<span size="xx-large">Commands for using Asymptote figures</span>'
+Comment3='
+The package provides a means of reading Asymptote figures from
+separate files, rather than within the document, as is standard
+in the asymptote package, which is provided as part of the
+Asymptote bundle. The asymptote way can prove cumbersome in a
+large document; the present package allows the user to process
+one picture at a time, in simple test documents, and then to
+migrate (with no fuss) to their use in the target document.
+
+date 2010-03-20 111138 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

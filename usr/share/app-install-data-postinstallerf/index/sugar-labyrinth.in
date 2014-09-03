@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sugar-labyrinth</b>'
+Comment='<span size="xx-large">A lightweight mind-mapping activity for Sugar</span>'
+Comment3='
+A lightweight mind-mapping activity based on an Open Source project called
+Labyrinth. It allows creating mind maps from a mixture of text, freehand
+drawings, and images from your Journal. There is an infinite sized canvas
+for your map that can be panned and zoomed while you work. Maps can be
+"Kept to PDF" for uploading to web sites, sharing, and printing by others
+who may not be using Sugar.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Labyrinth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

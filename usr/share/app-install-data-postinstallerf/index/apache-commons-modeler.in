@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>apache-commons-modeler</b>'
+Comment='<span size="xx-large">Model MBeans utility classes</span>'
+Comment3='
+Commons Modeler makes the process of setting up JMX (Java Management
+Extensions) MBeans easier by configuring the required meta data using an XML
+descriptor. In addition, Modeler provides a factory mechanism to create the
+actual Model MBean instances.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/modeler/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

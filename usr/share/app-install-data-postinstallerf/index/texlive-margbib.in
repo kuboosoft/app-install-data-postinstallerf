@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-margbib</b>'
+Comment='<span size="xx-large">Display bibitem tags in the margins</span>'
+Comment3='
+The package redefines the thebibliography environment to
+place the citation key into the margin.
+
+date 2008-09-23 133027 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

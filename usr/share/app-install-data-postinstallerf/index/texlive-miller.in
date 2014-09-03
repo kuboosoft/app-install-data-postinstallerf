@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-miller</b>'
+Comment='<span size="xx-large">Typeset miller indices</span>'
+Comment3='
+Typeset miller indices, e.g., <1-20>, that are used in material
+science with an easy syntax. Minus signs are printed as bar
+above the corresponding number.
+
+date 2007-01-12 001735 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

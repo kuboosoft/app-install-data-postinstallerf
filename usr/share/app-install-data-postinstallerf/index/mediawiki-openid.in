@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mediawiki-openid</b>'
+Comment='<span size="xx-large">The OpenID extension for MediaWiki</span>'
+Comment3='
+This extension lets users log in with an OpenID instead of a username
+and password. An OpenID is a special URL that people can use to log in
+to a Web site. The extension also lets users who have an account on
+the wiki log in to other OpenID-aware Web sites with their wiki user
+page as their OpenID.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mediawiki.org/wiki/Extension:OpenID'
+and password. An OpenID is a special URL that people can use to log in'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

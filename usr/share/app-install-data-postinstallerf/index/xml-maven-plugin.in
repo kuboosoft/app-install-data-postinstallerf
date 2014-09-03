@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xml-maven-plugin</b>'
+Comment='<span size="xx-large">Maven XML Plugin</span>'
+Comment3='
+A plugin for various XML related tasks like validation and transformation.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mojo.codehaus.org/xml-maven-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ProjectX</b>'
+Comment='<span size="xx-large">DVB video editing and demultiplexing tool</span>'
+Comment3='
+In many countries digital radio and television uses the Digital Video
+Broadcasting (DVB) standard to broadcast its data. Project X is a tool
+to analyse and manipulate these DVB MPEG data streams. It can cut and
+demultiplex them and it tries its best to handle and repair many
+stream types and show what went wrong on reception.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://project-x.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

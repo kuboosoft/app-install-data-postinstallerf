@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-tikzpagenodes</b>'
+Comment='<span size="xx-large">Create commutative diagrams with TikZ</span>'
+Comment3='
+The package provides special PGF/TikZ nodes for the text,
+marginpar, footer and header area of the current page. They are
+inspired by the current page node defined by PGF/TikZ itself.
+
+date 2012-09-16 145716 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

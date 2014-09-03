@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gcc</b>'
+Comment='<span size="xx-large">Various compilers (C, C++, Objective-C, Java, ...)</span>'
+Comment3='
+The gcc package contains the GNU Compiler Collection version 4.8.
+Youll need this package in order to compile C code.
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

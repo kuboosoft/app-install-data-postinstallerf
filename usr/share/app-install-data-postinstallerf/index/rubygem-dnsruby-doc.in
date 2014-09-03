@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-dnsruby-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-dnsruby</span>'
+Comment3='
+Documentation for rubygem-dnsruby
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://rubyforge.org/projects/dnsruby/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

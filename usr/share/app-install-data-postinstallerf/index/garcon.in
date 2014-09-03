@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>garcon</b>'
+Comment='<span size="xx-large">Implementation of the freedesktop.org menu specification</span>'
+Comment3='
+Garcon is an implementation of the freedesktop.org menu specification replacing
+the former Xfce menu library libxfce4menu. It is based on GLib/GIO only and
+aims at covering the entire specification except for legacy menus.
+
+'
+License='LGPLv2+ and GFDL'
+Screenshot=''
+Url='http://xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

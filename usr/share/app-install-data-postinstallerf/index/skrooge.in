@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>skrooge</b>'
+Comment='<span size="xx-large">Personal finances manager</span>'
+Comment3='
+skrooge is a personal finances manager,
+aiming at being simple and intuitive.
+It allows you to keep track of your expenses and incomes,
+categorize them, and build reports of them.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://skrooge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ktouch</b>'
+Comment='<span size="xx-large">Touch Typing Tutor</span>'
+Comment3='
+Touch Typing Tutor.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdeedu/ktouch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

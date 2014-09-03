@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-django-pylibmc</b>'
+Comment='<span size="xx-large">Django module to use pylibmc for cache backend</span>'
+Comment3='
+Django-pylibmc package provides a memcached cache backend for
+Django using pylibmc. You want to use pylibmc because its fast.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/jbalogh/django-pylibmc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

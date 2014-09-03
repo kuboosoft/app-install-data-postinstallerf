@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cracklib-python</b>'
+Comment='<span size="xx-large">Python bindings for applications which use cracklib</span>'
+Comment3='
+The cracklib-python package contains a module which permits applications
+written in the Python programming language to use cracklib.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/cracklib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

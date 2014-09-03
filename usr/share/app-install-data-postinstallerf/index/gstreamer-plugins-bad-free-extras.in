@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gstreamer-plugins-bad-free-extras</b>'
+Comment='<span size="xx-large">Extra GStreamer "bad" plugins (less often used "bad" plugins)</span>'
+Comment3='
+GStreamer is a streaming media framework, based on graphs of elements which
+operate on media data.
+
+gstreamer-plugins-bad contains plug-ins that arent
+tested well enough, or the code is not of good enough quality.
+This package (gstreamer-plugins-bad-extras) contains extra "bad" plugins for
+sources (mythtv), sinks (fbdev) and effects (pitch) which are not used
+very much and require additional libraries to be installed.
+'
+License='LGPLv2+ and LGPLv2'
+Screenshot=''
+Url='http://gstreamer.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

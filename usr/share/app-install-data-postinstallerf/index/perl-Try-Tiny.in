@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Try-Tiny</b>'
+Comment='<span size="xx-large">Minimal try/catch with proper localization of $@</span>'
+Comment3='
+This module provides bare bones try/catch statements that are designed to
+minimize common mistakes with eval blocks, and NOTHING else.
+
+This is unlike TryCatch, which provides a nice syntax and avoids adding
+another call stack layer, and supports calling return from the try block to
+return from the parent subroutine. These extra features come at a cost of a
+few dependencies, namely DevelDeclare and ScopeUpper that are occasionally
+problematic, and the additional catch filtering uses Moose type constraints,
+which may not be desirable either.
+'
+License='MIT'
+Screenshot=''
+Url='http://search.cpan.org/dist/Try-Tiny'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

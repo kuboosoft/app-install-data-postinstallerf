@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fldigi-doc</b>'
+Comment='<span size="xx-large">PDF User Manual for fldigi</span>'
+Comment3='
+PDF User Manual for fldigi.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.w1hkj.com/Fldigi.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

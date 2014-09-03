@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>linuxdoc-tools</b>'
+Comment='<span size="xx-large">A text formatting package based on SGML</span>'
+Comment3='
+Linuxdoc-tools is a text formatting suite based on SGML (Standard
+Generalized Markup Language), using the LinuxDoc document type.
+Linuxdoc-tools allows you to produce LaTeX, HTML, GNU info, LyX, RTF,
+plain text (via groff), and other format outputs from a single SGML
+source.  Linuxdoc-tools is intended for writing technical software
+documentation.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://packages.qa.debian.org/l/linuxdoc-tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-vobject</b>'
+Comment='<span size="xx-large">A python library for manipulating vCard and vCalendar files</span>'
+Comment3='
+VObject is intended to be a full featured python library for parsing and
+generating vCard and vCalendar files.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://vobject.skyhouseconsulting.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

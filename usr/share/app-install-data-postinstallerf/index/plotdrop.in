@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plotdrop</b>'
+Comment='<span size="xx-large">A minimal GNOME front-end to Gnuplot</span>'
+Comment3='
+Plotdrop is a minimal GNOME front-end to Gnuplot.
+Plotdrop is designed for quick simple visualization of 2D data series.
+It is not intended to encompass anywhere near the full capabilities of Gnuplot.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://plotdrop.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

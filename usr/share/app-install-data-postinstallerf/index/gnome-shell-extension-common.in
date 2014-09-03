@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-shell-extension-common</b>'
+Comment='<span size="xx-large">Files common to GNOME Shell Extensions</span>'
+Comment3='
+GNOME Shell Extensions is a collection of extensions providing additional and
+optional functionality to GNOME Shell. Common files and directories needed by
+extensions are provided here.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/GnomeShell/Extensions'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

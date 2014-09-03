@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Crypt-PBKDF2</b>'
+Comment='<span size="xx-large">PBKDF2 password hashing algorithm</span>'
+Comment3='
+PBKDF2 is a secure password hashing algorithm that uses the techniques of
+"key strengthening" to make the complexity of a brute-force attack
+arbitrarily high. PBKDF2 uses any other cryptographic hash or cipher (by
+convention, usually HMAC-SHA1, but CryptPBKDF2 is fully pluggable), and
+allows for an arbitrary number of iterations of the hashing function, and a
+nearly unlimited output hash size (up to 2**32 - 1 times the size of the
+output of the back-end hash). The hash is salted, as any password hash
+should be, and the salt may also be of arbitrary size.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-PBKDF2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

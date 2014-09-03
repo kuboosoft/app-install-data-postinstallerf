@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pdfmerge</b>'
+Comment='<span size="xx-large">Command line utility program for merging PDF files</span>'
+Comment3='
+pdfmerge is a command line program that merges PDF files. It can merge
+any number of pdf files from command line.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dmaphy.github.com/pdfmerge/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

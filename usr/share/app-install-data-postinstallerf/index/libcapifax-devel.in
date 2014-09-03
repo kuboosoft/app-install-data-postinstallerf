@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcapifax-devel</b>'
+Comment='<span size="xx-large">Development toolkit for capifax</span>'
+Comment3='
+Development toolkit for libcapifax
+
+URL          http//capifax.v3v.de/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://capifax.v3v.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

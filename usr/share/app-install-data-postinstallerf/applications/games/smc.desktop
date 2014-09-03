@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n smc
+Version=1.0
+Type=Application
+Name=Secret Maryo Chronicles
+GenericName=Platform Game
+Comment=A 2D platform game with style similar to classic sidescroller games
+Comment[de]=Ein 2D-Plattformspiel, vom Stil her ähnlich klassischen seitlaufenden Spielen
+Icon=/usr/share/app-install-data-postinstallerf/icons/smc.png
+Categories=Game;

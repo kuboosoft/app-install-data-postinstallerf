@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libupnp-devel</b>'
+Comment='<span size="xx-large">Include files needed for development with libupnp</span>'
+Comment3='
+The libupnp-devel package contains the files necessary for development with
+the UPnP SDK libraries.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.libupnp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

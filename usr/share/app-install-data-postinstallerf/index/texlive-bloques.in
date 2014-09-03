@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-bloques</b>'
+Comment='<span size="xx-large">Generate control diagrams</span>'
+Comment3='
+The package uses TikZ to provide commands for generating
+control diagrams (specially in power electronics).
+
+date 2011-05-15 094734 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

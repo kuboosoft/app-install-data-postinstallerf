@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>liblockfile</b>'
+Comment='<span size="xx-large">This implements a number of functions found in -lmail on SysV systems</span>'
+Comment3='
+This library implements a number of functions found in -lmail on SysV
+systems. These functions are designed to lock the standard mailboxes in
+/var/mail (or wherever the system puts them).
+
+In additions, this library adds a number of functions to create,
+manage and remove generic lockfiles.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://packages.qa.debian.org/libl/liblockfile.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

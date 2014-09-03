@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n fusion-icon
+Version=1.0
+Name=Compiz Fusion Icon
+Comment=Start and manage Compiz Fusion
+Comment[ca]=Gestioneu el Compiz Fusion i trieu el gestors de finestres a utilitzar
+Comment[es]=Configura el Compiz Fusion y cambia entre los distintos gestores de ventanas instalados
+Icon=/usr/share/app-install-data-postinstallerf/icons/fusion-icon.png
+Terminal=false
+Type=Application
+Categories=System;

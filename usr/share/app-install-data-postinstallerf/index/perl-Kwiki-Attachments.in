@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Kwiki-Attachments</b>'
+Comment='<span size="xx-large">Kwiki Page Attachments Plugin</span>'
+Comment3='
+This module gives a Kwiki wiki the ability to upload, store and manage file
+attachments on any page. Thumbnails will be created for supported file
+types if Imager or ImageMagick is installed. For more information, read
+the module POD.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Kwiki-Attachments/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

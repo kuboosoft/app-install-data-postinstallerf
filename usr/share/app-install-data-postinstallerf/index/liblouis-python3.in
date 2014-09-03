@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>liblouis-python3</b>'
+Comment='<span size="xx-large">Python 3 language bindings for liblouis</span>'
+Comment3='
+This package provides Python 3 language bindings for liblouis.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.abilitiessoft.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

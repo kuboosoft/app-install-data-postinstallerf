@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>maliit-framework-gtk2</b>'
+Comment='<span size="xx-large">Development package for maliit-framework</span>'
+Comment3='
+Files for development with maliit-framework.
+
+URL          http//maliit.org/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://maliit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

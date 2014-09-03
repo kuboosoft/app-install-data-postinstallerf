@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sagemath-devel</b>'
+Comment='<span size="xx-large">Development files for sagemath</span>'
+Comment3='
+This package contains the header files and development documentation
+for sagemath.
+
+'
+License='ASL 2.0 and BSD and GPL+ and GPLv2+ and LGPLv2+ and MIT and Public Domain'
+Screenshot=''
+Url='http://www.sagemath.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

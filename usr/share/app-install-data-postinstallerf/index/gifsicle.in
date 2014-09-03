@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gifsicle</b>'
+Comment='<span size="xx-large">Powerful program for manipulating GIF images and animations</span>'
+Comment3='
+Gifsicle is a command-line tool for creating, editing, and getting
+information about GIF images and animations.
+
+Some more gifsicle features
+    * Batch mode for changing GIFs in place.
+    * Prints detailed information about GIFs, including comments.
+    * Control over interlacing, comments, looping, transparency...
+    * Creates well-behaved GIFs removes redundant colors, only uses local
+      color tables if it absolutely has to (local color tables waste space
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lcdf.org/gifsicle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

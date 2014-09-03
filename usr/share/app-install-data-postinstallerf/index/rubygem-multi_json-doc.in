@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-multi_json-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-multi_json</span>'
+Comment3='
+Documentation for rubygem-multi_json
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/intridea/multi_json'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

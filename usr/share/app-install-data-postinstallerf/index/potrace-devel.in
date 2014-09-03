@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>potrace-devel</b>'
+Comment='<span size="xx-large">Potrace development library and headers</span>'
+Comment3='
+This package contains the potrace development library and headers.
+
+URL          http//potrace.sourceforge.net
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://potrace.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

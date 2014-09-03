@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdepim-runtime</b>'
+Comment='<span size="xx-large">KDE PIM Runtime Environment</span>'
+Comment3='
+KDE PIM Runtime Environment.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>llvm</b>'
+Comment='<span size="xx-large">The Low Level Virtual Machine</span>'
+Comment3='
+LLVM is a compiler infrastructure designed for compile-time,
+link-time, runtime, and idle-time optimization of programs from
+arbitrary programming languages.  The compiler infrastructure includes
+mirror sets of programming tools as well as libraries with equivalent
+functionality.
+
+'
+License='NCSA'
+Screenshot=''
+Url='http://llvm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

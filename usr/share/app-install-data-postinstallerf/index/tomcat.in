@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>tomcat</b>'
+Comment='<span size="xx-large">Apache Servlet/JSP Engine, RI for Servlet 3.0/JSP 2.2 API</span>'
+Comment3='
+Tomcat is the servlet container that is used in the official Reference
+Implementation for the Java Servlet and JavaServer Pages technologies.
+The Java Servlet and JavaServer Pages specifications are developed by
+Sun under the Java Community Process.
+
+Tomcat is developed in an open and participatory environment and
+released under the Apache Software License version 2.0. Tomcat is intended
+to be a collaboration of the best-of-breed developers from around the world.
+'
+License='ASL 2.0'
+released under the Apache Software License version 2.0. Tomcat is intended'
+Screenshot=''
+Url='http://tomcat.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>m2vmp2cut</b>'
+Comment='<span size="xx-large">MPEG2 frame accurate cutter</span>'
+Comment3='
+m2vmp2cut is frame accurate (currently PAL) mpeg2 video (m2v file)
+with accompanied mp2 audio (mp2 file) cutter.
+
+Frame accuracy is achieved by re-encoding video around cutpoints.
+Audio is cut from separate mp2 file at positions that keep a/v sync as
+good as possible (maximum sync difference is around 10-15
+milliseconds).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.guru-group.fi/~too/sw/m2vmp2cut/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>colrdx</b>'
+Comment='<span size="xx-large">DX-cluster client with curses color support</span>'
+Comment3='
+Colrdx is a simple client for amateur radio dx-clusters. In a split-screen
+display you can type commands for the cluster in the bottom part. Messages
+from the dx-cluster will appear in the main window. There is also a status
+line at the top with some basic information.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pg4i.chronos.org.uk/linux/colrdx.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tkgate-cy</b>'
+Comment='<span size="xx-large">Locales and examples for tkgate, Digital Circuit Simulator</span>'
+Comment3='
+This package contains the Welsh locales and examples for tkgate,
+Digital Circuit Simulator
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tkgate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

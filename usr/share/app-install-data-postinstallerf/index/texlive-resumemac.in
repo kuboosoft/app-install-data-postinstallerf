@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-resumemac</b>'
+Comment='<span size="xx-large">Plain TeX macros for resumes</span>'
+Comment3='
+A set of macros is provided, together with an file that offers
+an example of use.
+
+date 2008-11-21 013408 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

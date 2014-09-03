@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>herqq-devel</b>'
+Comment='<span size="xx-large">Development files for herqq</span>'
+Comment3='
+Header files for developing applications using herqq.
+
+URL          http//herqq.org/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://herqq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

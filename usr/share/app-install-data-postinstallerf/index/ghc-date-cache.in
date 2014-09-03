@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-date-cache</b>'
+Comment='<span size="xx-large">Date cacher</span>'
+Comment3='
+Formatting time is slow. This package provides mechanisms
+to cache formatted date.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/date-cache'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

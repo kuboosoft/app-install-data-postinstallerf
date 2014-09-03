@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-Auth-samba</b>'
+Comment='<span size="xx-large">Samba support for php-pear-Auth</span>'
+Comment3='
+This package adds a SMBPasswd container for the PHP Auth system.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Auth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

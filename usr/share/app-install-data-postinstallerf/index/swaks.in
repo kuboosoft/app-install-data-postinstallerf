@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>swaks</b>'
+Comment='<span size="xx-large">Command-line SMTP transaction tester</span>'
+Comment3='
+Swiss Army Knife SMTP A command line SMTP tester.  Swaks can test
+various aspects of your SMTP server, including TLS and AUTH.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.jetmore.org/john/code/swaks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

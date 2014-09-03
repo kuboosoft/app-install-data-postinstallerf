@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-Text-Diff</b>'
+Comment='<span size="xx-large">Engine for performing and rendering text diffs</span>'
+Comment3='
+This package provides a text-based diff engine and renderers for multiple diff
+output formats.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pear.php.net/package/Text_Diff'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

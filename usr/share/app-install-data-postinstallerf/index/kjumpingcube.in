@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>kjumpingcube</b>'
+Comment='<span size="xx-large">Territory capture game</span>'
+Comment3='
+KJumpingCube is a simple tactical game. You can play it against the computer
+or a friend. The playing area consists of squares containing points. When the
+game starts each square has only one point, and no owner. Players move by
+clicking on either a vacant square or one of their own squares, thus
+increasing the square?s point value by one. When a square?s value reaches
+a maximum, the excess points are distributed around the neighboring squares,
+taking over ownership of them. The winner is the player who ends up owning
+all the squares.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kjumpingcube'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

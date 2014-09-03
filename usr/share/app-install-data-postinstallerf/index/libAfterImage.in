@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libAfterImage</b>'
+Comment='<span size="xx-large">A generic image manipulation library</span>'
+Comment3='
+libAfterImage   is a generic image manipulation library. It was initially
+implemented to address AfterStep Window Managers needs for image handling,
+but it evolved into extremely powerful and flexible software, suitable for
+virtually any project that has needs for loading, manipulating, displaying
+images, as well as writing images in files. Most of the popular image formats
+are supported using standard libraries, with XCF, XPM, PPM/PNM, BMP, ICO,
+TGA and GIF being supported internally.
+
+PNG, JPEG and TIFF formats are supported via standard libraries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.afterstep.org/afterimage/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

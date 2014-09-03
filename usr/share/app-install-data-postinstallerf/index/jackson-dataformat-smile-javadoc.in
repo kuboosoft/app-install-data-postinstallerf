@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jackson-dataformat-smile-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jackson-dataformat-smile</span>'
+Comment3='
+This package contains javadoc for jackson-dataformat-smile.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://wiki.fasterxml.com/JacksonForSmile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

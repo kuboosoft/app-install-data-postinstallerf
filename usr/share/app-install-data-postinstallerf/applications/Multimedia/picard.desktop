@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n picard
+Name=MusicBrainz Picard
+Comment=Tag your music with the next generation MusicBrainz tagger
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/picard.png
+Categories=AudioVideo;AudioVideoEditing;

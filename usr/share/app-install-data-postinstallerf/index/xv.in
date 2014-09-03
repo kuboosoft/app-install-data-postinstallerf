@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xv</b>'
+Comment='<span size="xx-large">Visualisateur sous X pour quasiment tous les types dimages</span>'
+Comment3='
+Le c?l?bre xv de John Bradley. Cest shareware, mais nous le
+distribuons avec la permission de lauteur. Cest un visualiseur
+graphique pour de nombreux formats de fichier dont gif, jpg, tiff,
+xwd, etc. Il offre aussi des fonctionnalit?s comme la capture,
+lextension, la retouche de palette, etc. Flmask.
+'
+License='Shareware'
+Screenshot=''
+Url='http://www.trilon.com/xv/xv.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qemu-system-m68k</b>'
+Comment='<span size="xx-large">QEMU system emulator for ColdFire (m68k)</span>'
+Comment3='
+QEMU is a generic and open source processor emulator which achieves a good
+emulation speed by using dynamic translation.
+
+This package provides the system emulator for ColdFire boards.
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.qemu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

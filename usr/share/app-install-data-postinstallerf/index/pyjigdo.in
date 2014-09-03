@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pyjigdo</b>'
+Comment='<span size="xx-large">Python version of Jigdo, slightly modified</span>'
+Comment3='
+PyJigdo is a Python rewrite of the popular Jigdo distribution framework. It has
+also been slightly modified to add some extra features.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/pyjigdo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

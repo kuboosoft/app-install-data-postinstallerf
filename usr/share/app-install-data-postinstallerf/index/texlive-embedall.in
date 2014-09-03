@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-embedall</b>'
+Comment='<span size="xx-large">Embed source files into the generated PDF</span>'
+Comment3='
+The package provides a means of storing a project, without
+losing anything. It uses the embedfile package to attach to the
+generated PDF all files used in creating your project. In
+particular, it can embed images, external TeX files, external
+codes and
+
+date 2013-10-14 162206 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

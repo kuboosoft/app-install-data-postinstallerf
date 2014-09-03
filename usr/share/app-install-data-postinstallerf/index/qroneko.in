@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>qroneko</b>'
+Comment='<span size="xx-large">A qt front end to crontab</span>'
+Comment3='
+qroneko is a scheduling utility which uses crontab as the back-end.
+Features and highlights
+ * Smart "Cron Time" Setting.
+ * Lists expected execute time.
+ * Enables to edit crontab by text
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qroneko.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

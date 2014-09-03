@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ktp-desktop-applets</b>'
+Comment='<span size="xx-large">KDE Telepathy desktop applets</span>'
+Comment3='
+KDE Telepathy desktop applets, including
+* contacts
+* presence
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/network/telepathy/ktp-desktop-applets'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>emacs-color-theme-el</b>'
+Comment='<span size="xx-large">Elisp source files for Emacs Color Themes under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for Emacs Color Themes under GNU
+Emacs. You do not need to install this package to run Emacs Color Themes.
+Install the emacs-color-theme package to use Emacs Color Themes with GNU Emacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/color-theme'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

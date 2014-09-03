@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-flabels</b>'
+Comment='<span size="xx-large">Labels for files and folders</span>'
+Comment3='
+Macros for typesetting pretty labels (optionally colored) for
+the back of files or binders (currently only the special A4
+"Leitz-Ordner" ring binder is supported).
+
+date 2010-02-28 221322 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

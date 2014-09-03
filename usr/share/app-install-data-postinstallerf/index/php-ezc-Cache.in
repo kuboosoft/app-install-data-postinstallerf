@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-ezc-Cache</b>'
+Comment='<span size="xx-large">Provides a collection of lightweight classes to cache different kinds of data</span>'
+Comment3='
+The Cache package provides a collection of lightweight classes to cache
+different kinds of data. It provides a manager class, which takes care of
+instantiating and reusing caches.
+
+APC cache storage is available only if php-pecl-apc extension installed.
+'
+License='BSD'
+Screenshot=''
+Url='http://ezcomponents.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

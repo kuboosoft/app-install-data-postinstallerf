@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Test-YAML-Meta</b>'
+Comment='<span size="xx-large">Validation of the META.yml file in a distribution</span>'
+Comment3='
+This module was written to ensure that a META.yml file, provided with a
+standard distribution uploaded to CPAN, meets the specifications that
+slowly being introduced to module uploads, via the use of
+ExtUtilsMakeMaker, ModuleBuild and ModuleInstall.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-YAML-Meta/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

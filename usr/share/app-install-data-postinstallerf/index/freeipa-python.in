@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>freeipa-python</b>'
+Comment='<span size="xx-large">Python libraries used by IPA</span>'
+Comment3='
+IPA is an integrated solution to provide centrally managed Identity (machine,
+user, virtual machines, groups, authentication credentials), Policy
+(configuration settings, access control information) and Audit (events,
+logs, analysis thereof). If you are using IPA you need to install this
+package.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.freeipa.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

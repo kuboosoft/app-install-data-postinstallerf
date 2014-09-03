@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tapkee-doc</b>'
+Comment='<span size="xx-large">Documentation files for tapkee</span>'
+Comment3='
+This package contains the documentation files and some brief examples
+for tapkee.
+'
+License='BSD and BSD with advertising and LGPLv3+ and MIT'
+Screenshot=''
+Url='http://tapkee.lisitsyn.me/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

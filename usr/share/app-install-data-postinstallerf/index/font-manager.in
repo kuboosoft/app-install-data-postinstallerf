@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>font-manager</b>'
+Comment='<span size="xx-large">A font management application for the GNOME desktop environment</span>'
+Comment3='
+Font Manager is an application that allows users to easily manage fonts
+on their system.
+
+Although designed with the GNOME desktop environment in mind, it should
+work well with most major desktop environments such as XFCE,
+Enlightenment, and even KDE.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/font-manager'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

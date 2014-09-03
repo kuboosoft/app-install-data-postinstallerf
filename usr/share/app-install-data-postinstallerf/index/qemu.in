@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>qemu</b>'
+Comment='<span size="xx-large">QEMU is a FAST! processor emulator</span>'
+Comment3='
+QEMU is a generic and open source processor emulator which achieves a good
+emulation speed by using dynamic translation. QEMU has two operating modes
+
+ * Full system emulation. In this mode, QEMU emulates a full system (for
+   example a PC), including a processor and various peripherials. It can be
+   used to launch different Operating Systems without rebooting the PC or
+   to debug system code.
+ * User mode emulation. In this mode, QEMU can launch Linux processes compiled
+   for one CPU on another CPU.
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.qemu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

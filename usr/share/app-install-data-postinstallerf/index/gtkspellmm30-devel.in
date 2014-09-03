@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtkspellmm30-devel</b>'
+Comment='<span size="xx-large">Development files for gtkspellmm30</span>'
+Comment3='
+The gtkspellmm30-devel package provides header and documentation files for
+developing C++ applications which use GtkSpell.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gtkspell.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

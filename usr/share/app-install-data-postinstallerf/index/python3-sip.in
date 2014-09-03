@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python3-sip</b>'
+Comment='<span size="xx-large">SIP - Python 3/C++ Bindings Generator</span>'
+Comment3='
+This is the Python 3 build of SIP.
+
+SIP is a tool for generating bindings for C++ classes so that they can be
+accessed as normal Python 3 classes. SIP takes many of its ideas from SWIG but,
+because it is specifically designed for C++ and Python, is able to generate
+tighter bindings. SIP is so called because it is a small SWIG.
+SIP was originally designed to generate Python bindings for KDE and so has
+explicit support for the signal slot mechanism used by the Qt/KDE class
+libraries. However, SIP can be used to generate Python 3 bindings for any C++
+'
+License='GPLv2 or GPLv3 and (GPLv3+ with exceptions)'
+Screenshot=''
+Url='http://www.riverbankcomputing.com/software/sip/intro'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

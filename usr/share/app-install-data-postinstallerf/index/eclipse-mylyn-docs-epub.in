@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-mylyn-docs-epub</b>'
+Comment='<span size="xx-large">Mylyn EPub</span>'
+Comment3='
+The EPUB framework in Mylyn Docs offers API to create, manipulate,
+read and write EPUB formatted files.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/mylyn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

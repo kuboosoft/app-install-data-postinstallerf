@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xalan-j2-xsltc</b>'
+Comment='<span size="xx-large">XSLT compiler</span>'
+Comment3='
+The XSLT Compiler is a Java-based tool for compiling XSLT stylesheets into
+lightweight and portable Java byte codes called translets.
+'
+License='ASL 2.0 and W3C'
+Screenshot=''
+Url='http://xalan.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

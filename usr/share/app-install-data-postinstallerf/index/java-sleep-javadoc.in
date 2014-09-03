@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>java-sleep-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for java-sleep</span>'
+Comment3='
+This package contains the API documentation for java-sleep.
+'
+License='LGPLv2+ and BSD'
+Screenshot=''
+Url='http://sleep.dashnine.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

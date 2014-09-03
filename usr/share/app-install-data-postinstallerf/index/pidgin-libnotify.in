@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pidgin-libnotify</b>'
+Comment='<span size="xx-large">Libnotify Pidgin plugin</span>'
+Comment3='
+This is a plugin for the open-source Pidgin instant messaging client that uses
+libnotify to display graphic notifications of new messages and other events
+such as a buddy signing on or off.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gaim-libnotify.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

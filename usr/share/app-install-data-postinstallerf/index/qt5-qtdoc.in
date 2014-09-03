@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>qt5-qtdoc</b>'
+Comment='<span size="xx-large">Main Qt5 Reference Documentation</span>'
+Comment3='
+QtDoc contains the main Qt Reference Documentation, which includes
+overviews, Qt topics, and examples not specific to any Qt module.
+'
+License='GFDL'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

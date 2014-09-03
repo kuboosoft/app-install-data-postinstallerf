@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>varconf-devel</b>'
+Comment='<span size="xx-large">Development files for varconf library</span>'
+Comment3='
+Development libraries and headers for linking against the varconf library.
+
+URL          http//worldforge.org/dev/eng/libraries/varconf
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://worldforge.org/dev/eng/libraries/varconf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

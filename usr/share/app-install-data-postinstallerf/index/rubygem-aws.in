@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-aws</b>'
+Comment='<span size="xx-large">Ruby gem for all Amazon Web Services</span>'
+Comment3='
+The RightScale AWS gems have been designed to provide a robust, fast, and
+secure interface to Amazon EC2, EBS, S3, SQS, SDB, and CloudFront. These gems
+have been used in production by RightScale since late 2006 and are being
+maintained to track enhancements made by Amazon
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/appoxy/aws'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>simarrange</b>'
+Comment='<span size="xx-large">STL 2D plate packer with collision simulation</span>'
+Comment3='
+Simarrange is a program that simulates collisions between STL meshes in 2D in
+order to generate tightly packed sets of parts. It takes a directory of STL
+files as input and outputs STL files with combined plates of parts.
+The parts are assumed to be in the correct printable orientation already.
+'
+License='AGPLv3+'
+Screenshot=''
+Url='https://github.com/kliment/simarrange'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

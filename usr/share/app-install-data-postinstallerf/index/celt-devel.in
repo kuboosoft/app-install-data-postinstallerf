@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>celt-devel</b>'
+Comment='<span size="xx-large">Development package for celt</span>'
+Comment3='
+Files for development with celt.
+
+URL          http//www.celt-codec.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.celt-codec.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

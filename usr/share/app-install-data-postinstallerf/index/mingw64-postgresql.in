@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw64-postgresql</b>'
+Comment='<span size="xx-large">MinGW Windows PostgreSQL library</span>'
+Comment3='
+MinGW Windows copy of PostgreSQL. PostgreSQL is an advanced Object-Relational
+database management system (DBMS).
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

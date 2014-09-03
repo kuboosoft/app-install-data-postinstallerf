@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mysql-connector-python</b>'
+Comment='<span size="xx-large">MySQL Connector for Python 2</span>'
+Comment3='
+MySQL Connector/Python is implementing the MySQL Client/Server protocol
+completely in Python. No MySQL libraries are needed, and no compilation
+is necessary to run this Python DB API v2.0 compliant driver.
+
+Documentation http//dev.mysql.com/doc/connector-python/en/index.html
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://dev.mysql.com/doc/connector-python/en/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

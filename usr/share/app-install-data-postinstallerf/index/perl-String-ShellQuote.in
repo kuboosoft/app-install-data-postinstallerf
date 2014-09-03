@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-String-ShellQuote</b>'
+Comment='<span size="xx-large">Perl module for quoting strings for passing through the shell</span>'
+Comment3='
+This package contains a Perl module and a command line utility which
+are useful for quoting strings which are going to pass through the
+shell or a shell-like object.
+'
+License='(GPL+ or Artistic) and GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/String-ShellQuote/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-gem-nice-install-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-gem-nice-install</span>'
+Comment3='
+Documentation for rubygem-gem-nice-install
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/voxik/gem-nice-install'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

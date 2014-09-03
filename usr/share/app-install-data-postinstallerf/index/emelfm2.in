@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>emelfm2</b>'
+Comment='<span size="xx-large">File manager that implements the popular two-pane design</span>'
+Comment3='
+emelFM2 is the GTK+2 port of emelFM. emelFM2 is a file manager that implements
+the popular two-pane design. It features a simple GTK+2 interface, a flexible
+file typing scheme, and a built-in command line for executing commands without
+opening an xterm.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://emelfm2.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

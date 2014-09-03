@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>milyn-edisax-parser</b>'
+Comment='<span size="xx-large">Milyn Edisax Parser</span>'
+Comment3='
+Milyn Edisax Parser.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.smooks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

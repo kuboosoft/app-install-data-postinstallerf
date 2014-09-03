@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libcapifax</b>'
+Comment='<span size="xx-large">Support for Sending/receiving faxes over CAPI capable devices</span>'
+Comment3='
+libcapifax is a library that supports sending/receiving faxes over capi via
+soft DSP (spandsp).
+It was originally released as part of the capifax package.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://capifax.v3v.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

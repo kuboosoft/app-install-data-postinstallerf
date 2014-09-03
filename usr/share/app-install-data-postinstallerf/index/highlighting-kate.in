@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>highlighting-kate</b>'
+Comment='<span size="xx-large">Sourcecode syntax highlighting library</span>'
+Comment3='
+Highlighting-kate is a syntax highlighting library with support for
+nearly one hundred languages. The syntax parsers are automatically
+generated from Kate syntax descriptions (http//kate-editor.org/),
+so any syntax supported by Kate can be added.
+
+The base package provides the Highlighting commandline program.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/highlighting-kate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

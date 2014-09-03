@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>slim</b>'
+Comment='<span size="xx-large">Simple Login Manager</span>'
+Comment3='
+SLiM (Simple Login Manager) is a graphical login manager for X11.
+It aims to be simple, fast and independent from the various
+desktop environments.
+SLiM is based on latest stable release of Login.app by Per Lid?n.
+
+In the distribution, slim may be called through a wrapper, slim-dynwm,
+which determines the available window managers using the freedesktop
+information and modifies the slim configuration file accordingly,
+before launching slim.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://slim.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

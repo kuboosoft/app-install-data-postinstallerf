@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-glew-static</b>'
+Comment='<span size="xx-large">Static version of MinGW Windows GLEW library</span>'
+Comment3='
+Static version of MinGW Windows GLEW library.
+'
+License='BSD and MIT'
+Screenshot=''
+Url='http://glew.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

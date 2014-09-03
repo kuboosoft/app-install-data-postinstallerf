@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-GD-SecurityImage</b>'
+Comment='<span size="xx-large">Security image (captcha) generator</span>'
+Comment3='
+This module gives you a basic interface to create "security images". Most
+internet software use these in their registration screens to block robot
+programs (which may register tons of fake member accounts). This module
+gives you a basic interface to create such an image.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/GD-SecurityImage/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

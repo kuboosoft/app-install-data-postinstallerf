@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>qjdns</b>'
+Comment='<span size="xx-large">Qt-wrapper for jdns</span>'
+Comment3='
+For Qt users there is a wrapper available called QJDns and a very
+high-level wrapper called QJDnsShared (under its original name
+JDnsShared).
+
+Qt-based command-line tool called ?jdns? that can be used to test
+functionality.
+'
+License='MIT'
+Screenshot=''
+Url='http://delta.affinix.com/jdns/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

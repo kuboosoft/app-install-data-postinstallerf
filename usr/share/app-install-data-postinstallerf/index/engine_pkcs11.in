@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>engine_pkcs11</b>'
+Comment='<span size="xx-large">A PKCS#11 engine for use with OpenSSL</span>'
+Comment3='
+Engine_pkcs11 is an implementation of an engine for OpenSSL. It can be loaded
+using code, config file or command line and will pass any function call by
+openssl to a PKCS#11 module. Engine_pkcs11 is meant to be used with smart
+cards and software for using smart cards in PKCS#11 format, such as OpenSC.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.opensc-project.org/engine_pkcs11/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

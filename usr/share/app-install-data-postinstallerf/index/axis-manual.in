@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>axis-manual</b>'
+Comment='<span size="xx-large">Manual for axis</span>'
+Comment3='
+Documentation for axis.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ws.apache.org/axis/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

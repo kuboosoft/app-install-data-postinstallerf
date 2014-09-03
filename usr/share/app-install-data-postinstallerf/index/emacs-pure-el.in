@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-pure-el</b>'
+Comment='<span size="xx-large">Elisp source file for the Pure mode for Emacs</span>'
+Comment3='
+This package contains the elisp source file for the Pure mode for Emacs.
+'
+License='LGPLv3+ with exceptions'
+Screenshot=''
+Url='http://purelang.bitbucket.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-is</b>'
+Comment='<span size="xx-large">Icelandic hyphenation rules</span>'
+Comment3='
+Icelandic hyphenation rules.
+'
+License='LGPLv2+ or SISSL'
+Screenshot=''
+Url='http://wiki.services.openoffice.org/wiki/Dictionaries'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

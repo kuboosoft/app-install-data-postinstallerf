@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-daemon</b>'
+Comment='<span size="xx-large">Server side daemon and supporting files for libvirt library</span>'
+Comment3='
+Server side daemon required to manage the virtualization capabilities
+of recent versions of Linux. Requires a hypervisor specific sub-RPM
+for specific drivers.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

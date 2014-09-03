@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-plantslabels</b>'
+Comment='<span size="xx-large">Write labels for plants</span>'
+Comment3='
+The package defines a command \plant, which has three mandatory
+and seven optional argument. The package uses the labels
+
+date 2012-06-08 171918 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

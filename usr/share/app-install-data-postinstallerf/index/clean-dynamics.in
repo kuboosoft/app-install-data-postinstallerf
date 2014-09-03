@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clean-dynamics</b>'
+Comment='<span size="xx-large">The Dynamics modules of Clean</span>'
+Comment3='
+The Dynamics modules
+'
+License='LGPLv2+ or BSD'
+Screenshot=''
+Url='http://wiki.clean.cs.ru.nl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

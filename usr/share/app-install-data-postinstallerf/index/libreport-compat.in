@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libreport-compat</b>'
+Comment='<span size="xx-large">libreports compat layer for obsoleted report package</span>'
+Comment3='
+Provides report command-line tool.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

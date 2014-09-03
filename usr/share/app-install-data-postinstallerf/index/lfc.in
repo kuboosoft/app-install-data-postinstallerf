@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lfc</b>'
+Comment='<span size="xx-large">LCG File Catalog (LFC) client</span>'
+Comment3='
+The LCG File Catalog (LFC) keeps track of the locations of the physical
+replicas of the logical files in a distributed storage system.
+This package contains the command line interfaces for the LFC.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.web.cern.ch/glite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

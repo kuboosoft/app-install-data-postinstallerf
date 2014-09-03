@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-alchimia</b>'
+Comment='<span size="xx-large">A Python library that integrates Twisted with SqlAlchemy</span>'
+Comment3='
+alchimia lets you use most of the SQLAlchemy-core API with Twisted,
+it does not allow you to use the ORM.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/alex/alchimia'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

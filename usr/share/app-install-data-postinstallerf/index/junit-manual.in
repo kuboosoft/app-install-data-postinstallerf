@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>junit-manual</b>'
+Comment='<span size="xx-large">Manual for junit</span>'
+Comment3='
+Documentation for junit.
+'
+License='CPL'
+Screenshot=''
+Url='http://www.junit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

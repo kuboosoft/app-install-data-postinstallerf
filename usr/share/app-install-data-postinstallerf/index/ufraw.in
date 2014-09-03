@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ufraw</b>'
+Comment='<span size="xx-large">Raw image data retrieval tool for digital cameras</span>'
+Comment3='
+UFRaw is a tool for opening raw format images of digital cameras.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ufraw.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

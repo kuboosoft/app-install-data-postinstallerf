@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pharosc-magic</b>'
+Comment='<span size="xx-large">VLSI and ASIC Standard Cell Libraries for Magic</span>'
+Comment3='
+The Magic technology files can be found in directory
+/usr/share/pharosc/magic/etc.
+In addition to the Spice subcircuits coming from the Magic cells, the
+library includes subcircuits written from Alliance and from the schematics
+drawn with xcircuit.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vlsitechnology.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

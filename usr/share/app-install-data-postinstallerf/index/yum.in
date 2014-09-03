@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>yum</b>'
+Comment='<span size="xx-large">RPM package installer/updater/manager</span>'
+Comment3='
+Yum is a utility that can check for and automatically download and
+install updated RPM packages. Dependencies are obtained and downloaded
+automatically, prompting the user for permission as necessary.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

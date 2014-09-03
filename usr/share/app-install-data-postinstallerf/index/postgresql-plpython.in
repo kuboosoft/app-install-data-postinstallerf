@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>postgresql-plpython</b>'
+Comment='<span size="xx-large">The Python2 procedural language for PostgreSQL</span>'
+Comment3='
+The postgresql-plpython package contains the PL/Python procedural language,
+which is an extension to the PostgreSQL database server.
+Install this if you want to write database functions in Python 2.
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

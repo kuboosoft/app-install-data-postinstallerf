@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libinfinity-gtk</b>'
+Comment='<span size="xx-large">GTK widgets for libinfinity</span>'
+Comment3='
+Widgets and dialogs for libinfinity in GTK3.
+
+URL          http//gobby.0x539.de/trac/wiki/Infinote/Libinfinity
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gobby.0x539.de/trac/wiki/Infinote/Libinfinity'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

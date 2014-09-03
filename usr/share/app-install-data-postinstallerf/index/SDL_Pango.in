@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>SDL_Pango</b>'
+Comment='<span size="xx-large">Rendering of internationalized text for SDL (Simple DirectMedia Layer)</span>'
+Comment3='
+Pango is the text rendering engine of GNOME 2. SDL_Pango connects that engine
+to SDL, the Simple DirectMedia Layer.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sdlpango.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

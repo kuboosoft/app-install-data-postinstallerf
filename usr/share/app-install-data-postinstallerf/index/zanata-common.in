@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zanata-common</b>'
+Comment='<span size="xx-large">Zanata common modules</span>'
+Comment3='
+Zanata common modules
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/zanata/zanata-common'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

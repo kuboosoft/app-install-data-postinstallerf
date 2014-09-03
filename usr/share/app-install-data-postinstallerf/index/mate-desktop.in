@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mate-desktop</b>'
+Comment='<span size="xx-large">Shared code for mate-panel, mate-session, mate-file-manager, etc</span>'
+Comment3='
+The mate-desktop package contains an internal library
+(libmatedesktop) used to implement some portions of the MATE
+desktop, and also some data files and other shared components of the
+MATE user environment.
+'
+License='GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

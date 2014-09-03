@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>moodbar</b>'
+Comment='<span size="xx-large">Identifies the "mood" of your music files</span>'
+Comment3='
+Moodbar is a program that takes a music file and generates a .mood file
+identifying the "mood" of the music.
+Amarok can then use it to figure out when something interesting happens
+in the song.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://amarok.kde.org/wiki/Moodbar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

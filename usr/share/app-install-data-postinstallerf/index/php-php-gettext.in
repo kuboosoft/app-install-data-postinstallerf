@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-php-gettext</b>'
+Comment='<span size="xx-large">Gettext emulation in PHP</span>'
+Comment3='
+This library provides PHP functions to read MO files even when gettext is
+not compiled in or when appropriate locale is not present on the system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/php-gettext'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

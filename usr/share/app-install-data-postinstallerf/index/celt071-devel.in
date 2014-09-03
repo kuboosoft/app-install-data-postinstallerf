@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>celt071-devel</b>'
+Comment='<span size="xx-large">Development package for celt071</span>'
+Comment3='
+The celt071-devel package contains libraries and header files for
+developing applications that use celt071.
+
+'
+License='BSD and GPLv2+'
+Screenshot=''
+Url='http://www.celt-codec.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

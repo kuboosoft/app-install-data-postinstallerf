@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>fpack</b>'
+Comment='<span size="xx-large">FITS image compression and decompression utilities</span>'
+Comment3='
+fpack optimally compresses FITS format images and funpack restores them
+to the original state.
+
+* Integer format images are losslessly compressed using the Rice
+compression algorithm.
+    * typically 30% better compression than GZIP
+    * about 3 times faster compression speed than GZIP
+    * about the same uncompression speed as GUNZIP
+* Floating-point format images are compressed with a lossy algorithm
+'
+License='MIT'
+Screenshot=''
+Url='http://heasarc.gsfc.nasa.gov/fitsio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>clean-extra-utils</b>'
+Comment='<span size="xx-large">A collection of extra libraries and utilities for the Clean programming language</span>'
+Comment3='
+This is a collection of libraries and
+utilities for the Clean programming language.
+'
+License='BSD'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/clean-extra-utils.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

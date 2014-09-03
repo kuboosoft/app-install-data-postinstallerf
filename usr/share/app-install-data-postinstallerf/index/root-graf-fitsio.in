@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-graf-fitsio</b>'
+Comment='<span size="xx-large">ROOT interface for the Flexible Image Transport System (FITS)</span>'
+Comment3='
+This package contains a library for using the Flexible Image Transport
+System (FITS) data format in root.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

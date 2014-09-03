@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jrtplib-devel</b>'
+Comment='<span size="xx-large">Development files for JRTPLIB</span>'
+Comment3='
+Development files for JThread
+
+URL          http//research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib
+'
+License='MIT'
+Screenshot=''
+Url='http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jrtplib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

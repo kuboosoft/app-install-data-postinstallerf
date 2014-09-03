@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ipset-libs</b>'
+Comment='<span size="xx-large">Shared library providing the IP sets functionality</span>'
+Comment3='
+This package contains the libraries which provide the IP sets funcionality.
+
+URL          http//ipset.netfilter.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ipset.netfilter.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

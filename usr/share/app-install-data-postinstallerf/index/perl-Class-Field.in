@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Class-Field</b>'
+Comment='<span size="xx-large">Class Field Accessor Generator</span>'
+Comment3='
+ClassField exports two subroutines, field and const. These functions are
+used to declare fields and constants in your class.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Field/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-m2e-sisu</b>'
+Comment='<span size="xx-large">M2E Sisu connector</span>'
+Comment3='
+This package provides Sisu connector for Eclipse M2E.
+'
+License='EPL'
+Screenshot=''
+Url='https://github.com/tesla/m2eclipse-sisu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

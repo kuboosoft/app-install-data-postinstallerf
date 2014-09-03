@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dialog-devel</b>'
+Comment='<span size="xx-large">Development files for building applications with the dialog library</span>'
+Comment3='
+Dialog is a utility that allows you to show dialog boxes (containing
+questions or messages) in TTY (text mode) interfaces. This package
+contains the files needed for developing applications, which use the
+dialog library.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://invisible-island.net/dialog/dialog.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

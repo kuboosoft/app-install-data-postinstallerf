@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>w_scan</b>'
+Comment='<span size="xx-large">Tool for scanning DVB transponders</span>'
+Comment3='
+The w_scan tool is similar to dvbscan from dvb-apps. However it does not
+require initial tuning data and thus is able to find more channels.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wirbel.htpc-forum.de/w_scan/index2.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

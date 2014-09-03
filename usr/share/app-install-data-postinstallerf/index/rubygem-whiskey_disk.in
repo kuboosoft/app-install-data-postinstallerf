@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-whiskey_disk</b>'
+Comment='<span size="xx-large">Ruby tool for embarrassingly fast deployments</span>'
+Comment3='
+Opinionated gem for doing fast git-based server deployments.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/flogic/whiskey_disk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

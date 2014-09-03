@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>anthy</b>'
+Comment='<span size="xx-large">Japanese character set input library</span>'
+Comment3='
+Anthy provides the library to input Japanese on the applications, such as
+X applications and emacs. and the user dictionaries and the users information
+which is used for the conversion, is stored into their own home directory.
+So Anthy is secure than other conversion server.
+
+'
+License='LGPLv2+ and GPLv2 and Public Domain'
+Screenshot=''
+Url='http://sourceforge.jp/projects/anthy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

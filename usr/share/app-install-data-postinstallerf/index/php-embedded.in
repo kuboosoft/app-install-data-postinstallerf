@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-embedded</b>'
+Comment='<span size="xx-large">PHP library for embedding in applications</span>'
+Comment3='
+The php-embedded package contains a library which can be embedded
+into applications to provide PHP scripting language support.
+'
+License='PHP and Zend and BSD'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

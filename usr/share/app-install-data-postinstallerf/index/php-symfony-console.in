@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-symfony-console</b>'
+Comment='<span size="xx-large">Symfony Console Component</span>'
+Comment3='
+The Console component eases the creation of beautiful and testable command line
+interfaces.
+
+The Console component allows you to create command-line commands. Your console
+commands can be used for any recurring task, such as cronjobs, imports, or
+other batch jobs.
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com/doc/current/components/console/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

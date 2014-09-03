@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libbeagle-devel</b>'
+Comment='<span size="xx-large">Beagle C interface</span>'
+Comment3='
+Library to talk to the beagle server in C.
+
+URL          http//beagle-project.org/
+'
+License='MIT'
+Screenshot=''
+Url='http://beagle-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

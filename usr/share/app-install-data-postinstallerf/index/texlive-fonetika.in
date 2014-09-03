@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-fonetika</b>'
+Comment='<span size="xx-large">Support for the danish "Dania" phonetic system</span>'
+Comment3='
+Fonetika Dania is a font bundle with a serif font and a sans
+serif font for the danish phonetic system Dania. Both fonts
+exist in regular and bold weights. LaTeX support is provided.
+The fonts are based on URW Palladio and Iwona Condensed, and
+were created using FontForge.
+
+date 2008-08-19 203814 +0200
+'
+License='GPL+ and LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

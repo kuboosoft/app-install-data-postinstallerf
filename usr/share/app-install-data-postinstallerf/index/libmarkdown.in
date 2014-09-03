@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmarkdown</b>'
+Comment='<span size="xx-large">A fast implementation of the Markdown language in C</span>'
+Comment3='
+libmarkdown is the library portion of discount, a fast Markdown language
+implementation, written in C.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.pell.portland.or.us/~orc/Code/discount'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

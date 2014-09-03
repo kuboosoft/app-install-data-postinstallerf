@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-lua</b>'
+Comment='<span size="xx-large">Lua major mode for GNU Emacs</span>'
+Comment3='
+A GNU Emacs major mode for editing Lua code.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lua-mode.luaforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

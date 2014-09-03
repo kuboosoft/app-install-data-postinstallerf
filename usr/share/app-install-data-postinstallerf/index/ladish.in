@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ladish</b>'
+Comment='<span size="xx-large">LADI Audio session handler</span>'
+Comment3='
+Session management system for JACK applications on GNU/Linux. Its aim
+is to have many different audio programs running at once, to save their
+setup, close them down and then easily reload the setup at some other
+time. ladish doesnt deal with any kind of audio or MIDI data itself;
+it just runs programs, deals with saving/loading (arbitrary) data and
+connects JACK ports together.
+Ladish has a GUI frontend called gladish, based on lpatchage (LADI Patchage)
+and the ladish_control command line app for headless operation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ladish.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

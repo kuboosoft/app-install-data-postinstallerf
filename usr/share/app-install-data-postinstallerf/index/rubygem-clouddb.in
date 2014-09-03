@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-clouddb</b>'
+Comment='<span size="xx-large">This is a Ruby interface into the Rackspace Cloud DB service</span>'
+Comment3='
+A Ruby API to manage the Rackspace Cloud Databases product
+'
+License='MIT'
+Screenshot=''
+Url='http://rubygems.org/gems/clouddb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

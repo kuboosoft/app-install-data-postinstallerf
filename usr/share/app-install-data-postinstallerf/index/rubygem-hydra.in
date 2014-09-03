@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-hydra</b>'
+Comment='<span size="xx-large">Distributed testing toolkit</span>'
+Comment3='
+Spread your tests over multiple machines to test your code faster.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/ngauthier/hydra'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

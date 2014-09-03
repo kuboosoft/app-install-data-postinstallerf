@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-XML-SAX-Base</b>'
+Comment='<span size="xx-large">Base class SAX drivers and filters</span>'
+Comment3='
+This module has a very simple task - to be a base class for Perl SAX drivers
+and filters. Its default behavior is to pass the input directly to the
+output unchanged. It can be useful to use this module as a base class so
+you dont have to, for example, implement the characters() callback.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-SAX-Base/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

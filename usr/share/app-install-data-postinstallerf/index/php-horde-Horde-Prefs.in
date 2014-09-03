@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Prefs</b>'
+Comment='<span size="xx-large">Horde Preferences API</span>'
+Comment3='
+The Horde_Prefs package provides a common abstracted interface into the
+various preferences storage mediums. It also includes all of the functions
+for retrieving, storing, and checking preference values.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

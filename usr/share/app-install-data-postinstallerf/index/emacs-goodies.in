@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-goodies</b>'
+Comment='<span size="xx-large">Miscellaneous add on for Emacs</span>'
+Comment3='
+This is Emacs-goodies 35.0 which provides numerous add on for GNU Emacs
+and Gnus.
+'
+License='GPLv2+ and GPLv3'
+Screenshot=''
+Url='http://packages.debian.org/sid/lisp/emacs-goodies-el'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

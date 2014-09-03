@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>felix-scr-annotations-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for felix-scr-annotations</span>'
+Comment3='
+This package contains javadoc for felix-scr-annotations.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

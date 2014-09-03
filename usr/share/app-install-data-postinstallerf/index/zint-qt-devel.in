@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zint-qt-devel</b>'
+Comment='<span size="xx-large">Library and header files for zint-qt</span>'
+Comment3='
+C library and header files needed to develop applications that use libQZint.
+
+URL          http//www.zint.org.uk
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.zint.org.uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

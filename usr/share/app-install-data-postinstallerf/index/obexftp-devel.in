@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>obexftp-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for obexftp</span>'
+Comment3='
+This package contains the header files, static libraries and development
+documentation for obexftp. If you like to develop programs using obexftp,
+you will need to install obexftp-devel.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openobex.triq.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

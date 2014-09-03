@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sisu-plexus</b>'
+Comment='<span size="xx-large">Sisu Plexus POM</span>'
+Comment3='
+This package contains Sisu Plexus POM.
+'
+License='EPL and BSD'
+Screenshot=''
+Url='http://eclipse.org/sisu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

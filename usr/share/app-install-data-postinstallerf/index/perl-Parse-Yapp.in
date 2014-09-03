@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Parse-Yapp</b>'
+Comment='<span size="xx-large">Perl extension for generating and using LALR parsers</span>'
+Comment3='
+ParseYapp (Yet Another Perl Parser compiler) is a collection of modules that
+let you generate and use yacc like thread safe (reentrant) parsers with perl
+object oriented interface.  The script yapp is a front-end to the ParseYapp
+module and let you easily create a Perl OO parser from an input grammar file.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Parse-Yapp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>simcoupe</b>'
+Comment='<span size="xx-large">SAM Coupe emulator (spectrum compatible)</span>'
+Comment3='
+SimCoupe emulates an 8bit Z80 based home computer, released in 1989 by Miles
+Gordon Technology. The SAM Coupe was largely spectrum compatible, with much
+improved hardware
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.simcoupe.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-newpx</b>'
+Comment='<span size="xx-large">Alternative uses of the PX fonts, with improved metrics</span>'
+Comment3='
+The package, based on pxfonts, provides many fixes and
+enhancements to that package, and splits it in two parts
+(newpxtext and newpxmath) which may be run independently of one
+another. It provides scaling, improved metrics, and other
+options. For proper operation, the packages require that the
+packages newtxmath and txfonts be installed and their map files
+enabled.
+
+date 2013-12-14 072540 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

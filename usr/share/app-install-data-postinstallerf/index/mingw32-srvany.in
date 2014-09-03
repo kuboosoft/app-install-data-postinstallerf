@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-srvany</b>'
+Comment='<span size="xx-large">Utility for creating services for Windows</span>'
+Comment3='
+Utility for creating a service from any MinGW Windows binary
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://github.com/beekhof/mingw32-srvany'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

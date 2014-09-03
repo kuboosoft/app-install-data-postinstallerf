@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cglib</b>'
+Comment='<span size="xx-large">Code Generation Library for Java</span>'
+Comment3='
+cglib is a powerful, high performance and quality code generation library
+for Java. It is used to extend Java classes and implements interfaces
+at runtime.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://cglib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Directory-Scratch</b>'
+Comment='<span size="xx-large">Self-cleaning scratch space for tests</span>'
+Comment3='
+When writing test suites for modules that operate on files, its often
+inconvenient to correctly create a platform-independent temporary storage
+space, manipulate files inside it, then clean it up when the test exits.
+The inconvenience usually results in tests that don?t work everwhere, or
+worse, no tests at all.
+
+This module aims to eliminate that problem by making it easy to do things
+right.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Directory-Scratch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

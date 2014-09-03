@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jspc-compilers</b>'
+Comment='<span size="xx-large">JSPC Compilers</span>'
+Comment3='
+JSPC Compilers.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mojo.codehaus.org/jspc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

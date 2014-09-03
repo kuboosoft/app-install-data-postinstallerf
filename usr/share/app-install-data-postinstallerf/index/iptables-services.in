@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>iptables-services</b>'
+Comment='<span size="xx-large">iptables and ip6tables services for iptables</span>'
+Comment3='
+iptables services for IPv4 and IPv6
+
+This package provides the services iptables and ip6tables that have been split
+out of the base package since they are not active by default anymore.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.netfilter.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

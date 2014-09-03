@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>access-modifier-annotation</b>'
+Comment='<span size="xx-large">Java annotation for custom access modifiers</span>'
+Comment3='
+Allows applications to define custom access modifiers programmatically,
+to be enforced at compile time in the opt-in basis. Obviously,
+theres no runtime check either - this is strictly a voluntary annotations.
+This mechanism is useful for actually making sure that deprecated features
+are not used (without actually removing such declarations, which would break
+binary compatibility.)
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kohsuke/access-modifier'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

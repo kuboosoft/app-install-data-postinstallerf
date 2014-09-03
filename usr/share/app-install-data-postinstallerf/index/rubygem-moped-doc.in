@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-moped-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-moped</span>'
+Comment3='
+Documentation for rubygem-moped
+'
+License='MIT'
+Screenshot=''
+Url='http://mongoid.org/en/moped'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

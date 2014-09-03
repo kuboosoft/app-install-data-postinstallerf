@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libtiff-devel</b>'
+Comment='<span size="xx-large">Development tools for programs which will use the libtiff library</span>'
+Comment3='
+This package contains the header files and documentation necessary for
+developing programs which will manipulate TIFF format image files
+using the libtiff library.
+
+If you need to develop programs which will manipulate TIFF format
+image files, you should install this package.  Youll also need to
+install the libtiff package.
+'
+License='libtiff'
+Screenshot=''
+Url='http://www.remotesensing.org/libtiff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

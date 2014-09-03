@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>murmur</b>'
+Comment='<span size="xx-large">Mumble voice chat server</span>'
+Comment3='
+Murmur(also called mumble-server) is part of the VoIP suite Mumble
+primarily aimed at gamers. Murmur is the server component of the suite.
+'
+License='BSD'
+Screenshot=''
+Url='http://mumble.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

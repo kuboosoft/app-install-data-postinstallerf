@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jasper</b>'
+Comment='<span size="xx-large">Implementation of the JPEG-2000 standard, Part 1</span>'
+Comment3='
+This package contains an implementation of the image compression
+standard JPEG-2000, Part 1. It consists of tools for conversion to and
+from the JP2 and JPC formats.
+'
+License='JasPer'
+Screenshot=''
+Url='http://www.ece.uvic.ca/~frodo/jasper/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

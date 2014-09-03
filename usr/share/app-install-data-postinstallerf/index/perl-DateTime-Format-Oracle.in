@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-DateTime-Format-Oracle</b>'
+Comment='<span size="xx-large">Parse and format Oracle dates and timestamps</span>'
+Comment3='
+This module may be used to convert Oracle date and timestamp values into
+DateTime objects. It also can take a DateTime object and produce a date
+string matching the NLS_DATE_FORMAT.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-Format-Oracle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

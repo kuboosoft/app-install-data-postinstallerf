@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-newspaper</b>'
+Comment='<span size="xx-large">Typeset newsletters to resemble newspapers</span>'
+Comment3='
+The newspaper package redefines the page style and \maketitle
+command to produce a typeset page similar to that off a
+newspaper. It also provides several commands that (when used
+with other packages) simplify the writing of articles in a
+newspaper-style column format.
+
+date 2008-08-22 171544 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

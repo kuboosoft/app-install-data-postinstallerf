@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mpir-devel</b>'
+Comment='<span size="xx-large">Development files for mpir</span>'
+Comment3='
+The mpir-devel package contains libraries and header files for
+developing applications that use mpir.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.mpir.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

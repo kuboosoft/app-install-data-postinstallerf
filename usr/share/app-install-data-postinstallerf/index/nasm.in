@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nasm</b>'
+Comment='<span size="xx-large">A portable x86 assembler which uses Intel-like syntax</span>'
+Comment3='
+NASM is the Netwide Assembler, a free portable assembler for the Intel
+80x86 microprocessor series, using primarily the traditional Intel
+instruction mnemonics and syntax.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.nasm.us'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mingw32-cxxtest</b>'
+Comment='<span size="xx-large">A JUnit-like testing framework for C++</span>'
+Comment3='
+CxxTest is a JUnit/CppUnit/xUnit-like framework for C++.
+Its advantages over existing alternatives are that it
+ - doesnt require RTTI
+ - doesnt require member template functions
+ - doesnt require exception handling
+ - doesnt require any external libraries (including memory management,
+   file/console I/O, graphics libraries)
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cxxtest.tigris.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>amsn-plugins</b>'
+Comment='<span size="xx-large">Plugins for aMSN</span>'
+Comment3='
+Extra plugins for amsn to enable drawing Ink, send and receive Nudges,
+view the last lines of a recent chat when opening a new one and create
+snapshots with your webcam to use as your display picture.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://amsn.sourceforge.net/plugins.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

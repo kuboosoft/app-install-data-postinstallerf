@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>abootimg</b>'
+Comment='<span size="xx-large">Tool for manipulating Android boot images</span>'
+Comment3='
+abootimg is used to manipulate block devices or files with the special
+partition format defined by the Android Open Source Project.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://gitorious.org/ac100/abootimg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

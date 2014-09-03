@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>linux-user-chroot</b>'
+Comment='<span size="xx-large">Helper program for calling chroot(2) as non-root</span>'
+Comment3='
+This is a helper program for calling chroot(2) as a non-root user.  It
+should NOT be installed by default; only install this on systems for
+which local, authenticated denial of service attacks are not a serious
+concern.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/OSTree'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

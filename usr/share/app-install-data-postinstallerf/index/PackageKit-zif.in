@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>PackageKit-zif</b>'
+Comment='<span size="xx-large">PackageKit Zif backend</span>'
+Comment3='
+A backend for PackageKit to enable Zif functionality.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

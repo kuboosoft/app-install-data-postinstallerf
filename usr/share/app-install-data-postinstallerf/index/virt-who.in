@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>virt-who</b>'
+Comment='<span size="xx-large">Agent for reporting virtual guest IDs to subscription-manager</span>'
+Comment3='
+Agent that collects information about virtual guests present in the system and
+report them to the subscription manager.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/virt-who/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

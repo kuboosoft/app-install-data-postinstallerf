@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>openafs-devel</b>'
+Comment='<span size="xx-large">OpenAFS development header files and static libraries</span>'
+Comment3='
+The AFS distributed filesystem.  AFS is a distributed filesystem
+allowing cross-platform sharing of files among multiple computers.
+Facilities are provided for access control, authentication, backup and
+administrative management.
+
+This package provides static development libraries and headers needed
+to compile AFS applications.  Note AFS currently does not provide
+shared libraries.
+'
+License='IBM'
+Screenshot=''
+Url='http://www.openafs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

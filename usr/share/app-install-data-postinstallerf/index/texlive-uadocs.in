@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-uadocs</b>'
+Comment='<span size="xx-large">Course texts and masters theses in University of Antwerp style</span>'
+Comment3='
+These class files implement the house style of the University
+of Antwerp for course texts and master theses. Using these
+class files will make it easy for you to make and keep your
+documents compliant to this version and future versions of the
+house style of the University of Antwerp.
+
+date 2013-06-19 112928 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

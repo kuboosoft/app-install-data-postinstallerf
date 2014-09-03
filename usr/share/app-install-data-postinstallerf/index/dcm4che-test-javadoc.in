@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dcm4che-test-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for dcm4che-test</span>'
+Comment3='
+This package contains the API documentation for dcm4che-test.
+'
+License='MPLv1.1 or GPLv2 or LGPLv2'
+Screenshot=''
+Url='http://www.dcm4che.org/confluence/display/proj/The+Project'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-jurabib</b>'
+Comment='<span size="xx-large">Extended BibTeX citation support for the humanities and legal texts</span>'
+Comment3='
+This package enables automated citation with BibTeX for legal
+studies and the humanities. In addition, the package provides
+commands for specifying editors in a commentary in a convenient
+way. Simplified formatting of the citation as well as the
+bibliography entry is also provided. It is possible to display
+the (short) title of a work only if an authors is cited with
+multiple works. Giving a full citation in the text, conforming
+to the bibliography entry, is supported. Several options are
+provided which might be of special interest for those outside
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-morph-cli</b>'
+Comment='<span size="xx-large">Runs Morph scrapers from the command line</span>'
+Comment3='
+Actually it will run them on the Morph server identically to the real thing.
+That means not installing a bucket load of libraries and bits and bobs that are
+already installed with the Morph scraper environments.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/openaustralia/morph-cli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sdcc-libc-sources</b>'
+Comment='<span size="xx-large">Small Device C Compiler</span>'
+Comment3='
+SDCC is a C compiler for 8051 class and similar microcontrollers.
+This package includes the sources for the C library, and is only necessary
+if you want to modify the C library or as reference of how it works.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sdcc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

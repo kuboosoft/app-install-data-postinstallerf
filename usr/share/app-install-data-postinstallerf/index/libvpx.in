@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libvpx</b>'
+Comment='<span size="xx-large">VP8 Video Codec SDK</span>'
+Comment3='
+libvpx provides the VP8 SDK, which allows you to integrate your applications
+with the VP8 video codec, a high quality, royalty free, open source codec
+deployed on millions of computers and devices worldwide.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.webmproject.org/tools/vp8-sdk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

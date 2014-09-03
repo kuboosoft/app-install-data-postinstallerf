@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ember-media</b>'
+Comment='<span size="xx-large">Media files for the ember WorldForge client</span>'
+Comment3='
+Media files for the ember WorldForge client.
+'
+License='GPLv2+ or GFDL'
+Screenshot=''
+Url='http://www.worldforge.org/dev/eng/clients/ember'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

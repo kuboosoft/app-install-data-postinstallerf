@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n brackets
+Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
+Name=Brackets
+Comment=An open source code editor for the web, written in JavaScript, HTML and CSS
+Terminal=false
+Type=Application
+Categories=Development;Utility;ConsoleOnly;
+StartupNotify=true

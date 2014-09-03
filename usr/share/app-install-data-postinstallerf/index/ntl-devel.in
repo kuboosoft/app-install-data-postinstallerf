@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ntl-devel</b>'
+Comment='<span size="xx-large">Development files for ntl</span>'
+Comment3='
+Development files for ntl.
+
+URL          http//shoup.net/ntl/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://shoup.net/ntl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rwhoisd-example</b>'
+Comment='<span size="xx-large">Sample data for rwhoisd WHOIS server</span>'
+Comment3='
+This package delivers example configuration and data for rwhoisd WHOIS server.
+Recommended how-to is <http//www.unixadmin.cc/rwhois/>.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.arin.net/rwhois/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

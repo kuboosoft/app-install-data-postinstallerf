@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-File-Type-WebImages</b>'
+Comment='<span size="xx-large">Determine web image file types using magic</span>'
+Comment3='
+mime_type() can use either a filename, or file contents, to determine the
+type of a file. The process involves looking the data at the beginning of
+the file, sometimes called "magic numbers".
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Type-WebImages/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

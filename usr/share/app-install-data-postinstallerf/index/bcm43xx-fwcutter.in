@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>bcm43xx-fwcutter</b>'
+Comment='<span size="xx-large">Firmware extraction tool for Broadcom wireless driver</span>'
+Comment3='
+This package contains the bcm43xx-fwcutter tool which is used to
+extract firmware for the Broadcom network devices, from the official
+Windows, MacOS or Linux drivers.
+
+See the README.Fedora file shipped in the packages documentation for
+instructions on using this tool.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bcm43xx.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

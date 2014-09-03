@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>PackageKit-debug-install</b>'
+Comment='<span size="xx-large">Facility to install debugging packages using PackageKit</span>'
+Comment3='
+Provides facility to install debugging packages using PackageKit.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

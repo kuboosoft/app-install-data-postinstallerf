@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libguestfs-javadoc</b>'
+Comment='<span size="xx-large">Java documentation for libguestfs</span>'
+Comment3='
+libguestfs-javadoc contains the Java documentation for libguestfs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

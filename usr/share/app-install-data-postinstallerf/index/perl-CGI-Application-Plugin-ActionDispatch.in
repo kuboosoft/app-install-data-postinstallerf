@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Plugin-ActionDispatch</b>'
+Comment='<span size="xx-large">Adds attribute based support for parsing the PATH_INFO of an HTTP request</span>'
+Comment3='
+CGIApplicationPluginActionDispatch adds attribute based support for
+parsing the PATH_INFO of the incoming HTTP request. For those who are familiar
+with Catalyst, the interface works very similar.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Plugin-ActionDispatch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

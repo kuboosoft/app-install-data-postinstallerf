@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>inchi-doc</b>'
+Comment='<span size="xx-large">Documentation for the InChI library</span>'
+Comment3='
+The inchi-doc package contains user documentation for the InChI software
+and InChI library API reference for developers.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.inchi-trust.org/?q=node/14'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

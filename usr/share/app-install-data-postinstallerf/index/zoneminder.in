@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>zoneminder</b>'
+Comment='<span size="xx-large">A camera monitoring and analysis tool</span>'
+Comment3='
+ZoneMinder is a set of applications which is intended to provide a complete
+solution allowing you to capture, analyse, record and monitor any cameras you
+have attached to a Linux based machine. It is designed to run on kernels which
+support the Video For Linux (V4L) interface and has been tested with cameras
+attached to BTTV cards, various USB cameras and IP network cameras. It is
+designed to support as many cameras as you can attach to your computer without
+too much degradation of performance.
+'
+License='GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://www.zoneminder.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

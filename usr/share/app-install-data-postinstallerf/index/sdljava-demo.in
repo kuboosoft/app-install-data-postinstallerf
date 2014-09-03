@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sdljava-demo</b>'
+Comment='<span size="xx-large">Some examples for sdljava</span>'
+Comment3='
+Demonstrations and samples for sdljava.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sdljava.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

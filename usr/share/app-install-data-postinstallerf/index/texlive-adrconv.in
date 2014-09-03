@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-adrconv</b>'
+Comment='<span size="xx-large">BibTeX styles to implement an address database</span>'
+Comment3='
+Adrconv is a collection of BibTeX style files to turn an
+address database stored in the .bib format into files suitable
+for printing as address books or included into letter classes
+like akletter or scrletter2. Adrconv will sort the data either
+by name or birthday and create output files in various formats
+for address books or time planers.
+
+date 2010-04-05 111118 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

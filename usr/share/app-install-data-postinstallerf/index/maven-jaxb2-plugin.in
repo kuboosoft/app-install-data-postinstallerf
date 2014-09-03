@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-jaxb2-plugin</b>'
+Comment='<span size="xx-large">Provides the capability to generate java sources from schemas</span>'
+Comment3='
+This Maven 2 plugin wraps the JAXB 2.x XJC compiler and provides the capability
+to generate Java sources from XML Schemas.
+'
+License='BSD and ASL 2.0'
+Screenshot=''
+Url='http://java.net/projects/maven-jaxb2-plugin/pages/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

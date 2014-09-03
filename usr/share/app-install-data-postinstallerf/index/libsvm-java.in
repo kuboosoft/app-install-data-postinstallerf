@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsvm-java</b>'
+Comment='<span size="xx-large">Java tools and interfaces for libsvm</span>'
+Comment3='
+Java tools and interfaces for libsvm.
+Install this package if you want to develop
+programs with libsvm in Java.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.csie.ntu.edu.tw/~cjlin/libsvm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

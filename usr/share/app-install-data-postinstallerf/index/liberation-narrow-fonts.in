@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>liberation-narrow-fonts</b>'
+Comment='<span size="xx-large">Sans-serif Narrow fonts to replace commonly used Microsoft Arial Narrow</span>'
+Comment3='
+
+The Liberation Fonts are intended to be replacements for the three most
+commonly used fonts on Microsoft systems Times New Roman, Arial, and Courier
+New.
+This is Sans-Serif Narrow TrueType fonts that replaced commonly used Microsoft \
+Arial Narrow.
+'
+License='Liberation'
+Screenshot=''
+Url='http://fedorahosted.org/liberation-fonts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

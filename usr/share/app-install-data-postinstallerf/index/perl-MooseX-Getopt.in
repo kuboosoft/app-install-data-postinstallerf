@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Getopt</b>'
+Comment='<span size="xx-large">Moose role for processing command line options</span>'
+Comment3='
+This is a Moose role which provides an alternate constructor for creating
+objects using parameters passed in from the command line.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Getopt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

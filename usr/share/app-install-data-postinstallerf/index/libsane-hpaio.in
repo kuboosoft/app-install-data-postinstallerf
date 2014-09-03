@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsane-hpaio</b>'
+Comment='<span size="xx-large">SANE driver for scanners in HPs multi-function devices</span>'
+Comment3='
+SANE driver for scanners in HPs multi-function devices (from HPOJ).
+
+URL          http//hplip.sourceforge.net/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hplip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

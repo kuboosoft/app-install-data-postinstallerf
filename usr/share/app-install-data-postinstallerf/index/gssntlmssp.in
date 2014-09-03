@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gssntlmssp</b>'
+Comment='<span size="xx-large">GSSAPI NTLMSSP Mechanism</span>'
+Comment3='
+A GSSAPI Mechanism that implements NTLMSSP
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/gss-ntlmssp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

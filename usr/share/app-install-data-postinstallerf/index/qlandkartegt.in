@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>qlandkartegt</b>'
+Comment='<span size="xx-large">GPS device mapping tool</span>'
+Comment3='
+QLandkarte GT is the ultimate outdoor aficionados tool for GPS maps in
+GeoTiff format as well as Garmins img vector map format. Additional it is
+the PC side frontend to QLandkarte M, a moving map application for mobile
+devices. And it fills the gap Garmin leaves in refusing to support Linux.
+QLandkarte GT is the proof that writing portable applications for Unix,
+Windows and OSX is feasible with a minimum of overhead. No excuses!
+
+QLandkarte GT does replace the original QLandkarte with a much more
+flexible architecture. Its not limited to a map format or device. Thus
+if you think your Magellan GPS or other should be supported, join the team.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.qlandkarte.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

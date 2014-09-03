@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>matreshka-xml</b>'
+Comment='<span size="xx-large">Manipulate with XML streams and document</span>'
+Comment3='
+XML processor  provides capability to manipulate
+with XML streams and documents; including
+
+  SAX reader to read XML streams and documents;
+  it supports XML1.0 (Fifth Edition),
+  XML1.1 (Second Edition),
+  Namespaces in XML  and XML Base specifications;
+  SAX writer to generate XML streams
+  and documents from application;
+'
+License='BSD'
+Screenshot=''
+Url='http://forge.ada-ru.org/matreshka'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

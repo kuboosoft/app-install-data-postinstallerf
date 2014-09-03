@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libbdplus</b>'
+Comment='<span size="xx-large">Open implementation of BD+ protocol</span>'
+Comment3='
+libbdplus is a research project to implement the BD+ System Specifications.
+This research project provides, through an open-source library, a way to
+understand how the BD+ protocol works.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.videolan.org/developers/libbdplus.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

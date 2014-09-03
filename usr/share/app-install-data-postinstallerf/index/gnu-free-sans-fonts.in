@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gnu-free-sans-fonts</b>'
+Comment='<span size="xx-large">GNU FreeFont Sans-Serif Font</span>'
+Comment3='
+
+Gnu FreeFont is a free family of scalable outline fonts, suitable for general
+use on computers and for desktop publishing. It is Unicode-encoded for
+compatibility with all modern operating systems.
+Besides a full set of characters for writing systems based on the Latin
+alphabet, FreeFont contains large selection of characters from other writing
+systems some of which are hard to find elsewhere.
+FreeFont also contains a large set of symbol characters, both technical and
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.gnu.org/software/freefont/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>smokekde</b>'
+Comment='<span size="xx-large">Bindings for KDE libraries</span>'
+Comment3='
+This package includes bindings for KDE libraries.
+
+URL          https//projects.kde.org/projects/kde/kdebindings/smoke
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdebindings/smoke'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plasma-mobile-mouse-cursor-themes</b>'
+Comment='<span size="xx-large">Plasma Mobile mouse cursor themes</span>'
+Comment3='
+Plasma Mobile mouse cursor themes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://plasma-active.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

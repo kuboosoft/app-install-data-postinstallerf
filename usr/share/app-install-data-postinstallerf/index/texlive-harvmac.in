@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-harvmac</b>'
+Comment='<span size="xx-large">Macros for scientific articles</span>'
+Comment3='
+Known as Harvard macros, since written at that University.
+
+date 2008-12-20 160804 +0100
+'
+License='CC-BY'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

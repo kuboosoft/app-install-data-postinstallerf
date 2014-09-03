@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>drupal7-views_bulk_operations</b>'
+Comment='<span size="xx-large">This module augments Views by allowing bulk operations to be executed</span>'
+Comment3='
+This module augments Views by allowing bulk operations to be executed
+on the nodes displayed by a view.
+It does so by showing a check box in front of each node,
+and adding a select box containing operations
+that can be applied on the selected nodes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/views_bulk_operations'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

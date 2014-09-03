@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-pear-Crypt-CHAP</b>'
+Comment='<span size="xx-large">Class to generate CHAP packets</span>'
+Comment3='
+This package provides Classes for generating CHAP packets.
+Currently these types of CHAP are supported
+- CHAP-MD5,
+- MS-CHAPv1,
+- MS-CHAPv2.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Crypt_CHAP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

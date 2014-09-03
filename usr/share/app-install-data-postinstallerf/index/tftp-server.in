@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tftp-server</b>'
+Comment='<span size="xx-large">The server for the Trivial File Transfer Protocol (TFTP)</span>'
+Comment3='
+The Trivial File Transfer Protocol (TFTP) is normally used only for
+booting diskless workstations.  The tftp-server package provides the
+server for TFTP, which allows users to transfer files to and from a
+remote machine. TFTP provides very little security, and should not be
+enabled unless it is expressly needed.  The TFTP server is run from
+/etc/xinetd.d/tftp, and is disabled by default.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.kernel.org/pub/software/network/tftp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

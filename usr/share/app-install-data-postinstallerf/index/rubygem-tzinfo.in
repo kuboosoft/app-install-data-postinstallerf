@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-tzinfo</b>'
+Comment='<span size="xx-large">Daylight-savings aware timezone library</span>'
+Comment3='
+TZInfo is a Ruby library that uses the standard tz (Olson) database to provide
+daylight savings aware transformations between times in different time zones.
+'
+License='MIT'
+Screenshot=''
+Url='http://tzinfo.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

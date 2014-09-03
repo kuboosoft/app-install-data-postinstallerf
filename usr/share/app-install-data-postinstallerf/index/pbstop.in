@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pbstop</b>'
+Comment='<span size="xx-large">Full-screen curses monitor for PBS</span>'
+Comment3='
+A highly useful way to monitor your cluster in a terminal window.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://www-rcf.usc.edu/~garrick/perl-PBS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

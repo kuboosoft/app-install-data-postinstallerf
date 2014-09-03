@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdeplasma-addons-devel</b>'
+Comment='<span size="xx-large">Developer files for kdeplasma-addons</span>'
+Comment3='
+Files for developing applications using kdeplasma-addons.
+
+URL          http//www.kde.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

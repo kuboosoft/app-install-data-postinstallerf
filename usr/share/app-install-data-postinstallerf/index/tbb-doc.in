@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tbb-doc</b>'
+Comment='<span size="xx-large">The Threading Building Blocks documentation</span>'
+Comment3='
+PDF documentation for the user of the Threading Building Block (TBB)
+C++ library.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://threadingbuildingblocks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

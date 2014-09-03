@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-biblatex-ieee</b>'
+Comment='<span size="xx-large">Ieee style files for biblatex</span>'
+Comment3='
+This is a biblatex style that implements the bibliography style
+of the IEEE for biblatex. The implementation follows standard
+biblatex conventions, and can be used simply by loading
+biblatex with the appropriate option
+\usepackage[style=ieee]{biblatex} A demonstration database is
+provided to show how to format input for the style.
+
+date 2013-10-26 094746 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

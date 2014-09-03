@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-do-plugins-eog</b>'
+Comment='<span size="xx-large">GNOME Do Eye of Gnome plugin</span>'
+Comment3='
+GNOME Do plugin for Eye of Gnome
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://do.davebsd.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lua-lgi-samples</b>'
+Comment='<span size="xx-large">Examples of lua-lgi usage</span>'
+Comment3='
+Examples of lua-lgi usage
+'
+License='LGPLv2+ and MIT'
+Screenshot=''
+Url='https://github.com/pavouk/lgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

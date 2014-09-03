@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libecb</b>'
+Comment='<span size="xx-large">Compiler built-ins</span>'
+Comment3='
+This project delivers you many GCC built-ins, attributes and a number of
+generally useful low-level functions, such as popcount, expect, prefetch,
+noinline, assume, unreachable and so on.
+'
+License='BSD'
+Screenshot=''
+Url='http://software.schmorp.de/pkg/libecb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

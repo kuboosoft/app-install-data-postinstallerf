@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-luke</b>'
+Comment='<span size="xx-large">Dataflow / MapReduce coordination framework</span>'
+Comment3='
+Dataflow / MapReduce coordination framework.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/luke'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

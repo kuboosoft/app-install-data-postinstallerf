@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cudd-static</b>'
+Comment='<span size="xx-large">Static libraries for cudd</span>'
+Comment3='
+Static libraries for cudd.
+
+URL          http//vlsi.colorado.edu/~fabio/CUDD/
+'
+License='BSD'
+Screenshot=''
+Url='http://vlsi.colorado.edu/~fabio/CUDD/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

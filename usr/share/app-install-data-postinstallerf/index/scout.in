@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>scout</b>'
+Comment='<span size="xx-large">CLI interface to Tomboy notes and Gnote</span>'
+Comment3='
+Scout is an interface to Tomboy notes or Gnote that uses DBus to
+communicate. It presents a command-line interface and tries to be
+as simple to use as possible. Different actions can be taken to
+interact with Tomboy or Gnote. Actions are simple to create,
+making the application easily extensible.
+
+Current actions make it possible to list note names,
+display note contents, search for text inside notes and to
+delete notes.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/lelutin/scout'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

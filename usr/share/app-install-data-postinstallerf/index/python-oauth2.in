@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-oauth2</b>'
+Comment='<span size="xx-large">Python support for improved oauth</span>'
+Comment3='
+Oauth2 was originally forked from Leah Culver and Andy Smiths oauth.py
+code. Some of the tests come from a fork by Vic Fryzel, while a revamped
+Request class and more tests were merged in from Mark Paschals fork. A
+number of notable differences exist between this code and its forefathers
+
+- 100% unit test coverage.
+- The DataStore object has been completely ripped out. While creating unit
+  tests for the library I found several substantial bugs with the
+  implementation and confirmed with Andy Smith that it was never fully
+  baked.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/oauth2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

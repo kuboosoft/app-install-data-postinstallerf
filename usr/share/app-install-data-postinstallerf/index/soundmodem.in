@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>soundmodem</b>'
+Comment='<span size="xx-large">Soundcard Packet Radio Modem</span>'
+Comment3='
+This package contains the driver and the diagnostic utility for
+userspace SoundModem. It allows you to use soundcards
+as Amateur Packet Radio modems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.baycom.org/~tom/ham/soundmodem/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

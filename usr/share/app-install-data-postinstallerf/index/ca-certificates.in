@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ca-certificates</b>'
+Comment='<span size="xx-large">The Mozilla CA root certificate bundle</span>'
+Comment3='
+This package contains the set of CA certificates chosen by the
+Mozilla Foundation for use with the Internet PKI.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.mozilla.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

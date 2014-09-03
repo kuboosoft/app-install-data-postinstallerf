@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-MRO-Compat</b>'
+Comment='<span size="xx-large">Mro::* interface compatibility for Perls < 5.9.5</span>'
+Comment3='
+The "mro" namespace provides several utilities for dealing with method
+resolution order and method caching in general in Perl 5.9.5 and higher.
+This module provides those interfaces for earlier versions of Perl (back
+to 5.6.0 anyways).
+
+It is a harmless no-op to use this module on 5.9.5+. That is to say,
+code which properly uses MROCompat will work unmodified on both older
+Perls and 5.9.5+.
+If youre writing a piece of software that would like to use the parts
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MRO-Compat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

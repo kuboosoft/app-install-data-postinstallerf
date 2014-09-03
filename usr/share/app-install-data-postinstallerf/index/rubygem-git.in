@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-git</b>'
+Comment='<span size="xx-large">A package for using Git in Ruby code</span>'
+Comment3='
+A package for using Git in Ruby code.
+'
+License='MIT'
+Screenshot=''
+Url='http://rubyforge.org/projects/git/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

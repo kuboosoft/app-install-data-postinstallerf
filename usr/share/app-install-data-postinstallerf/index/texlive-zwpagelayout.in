@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-zwpagelayout</b>'
+Comment='<span size="xx-large">Page layout and crop-marks</span>'
+Comment3='
+This package was developed as a typographers toolbox offering
+important basic features for everyday work. It allows setting
+the paper size and the page layout; it can print crop marks;
+and it can reflect pages both horizontally and vertically. The
+package facilities work with TeX + dvips or (x)dvipdfm(x), and
+with pdfTeX.
+
+date 2013-01-15 095157 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

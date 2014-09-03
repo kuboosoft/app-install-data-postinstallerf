@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-appraisal</b>'
+Comment='<span size="xx-large">Find out what your Ruby gems are worth</span>'
+Comment3='
+Appraisal integrates with bundler and rake to test your library against
+different versions of dependencies in repeatable scenarios called
+"appraisals."
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/thoughtbot/appraisal'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

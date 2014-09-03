@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwps-devel</b>'
+Comment='<span size="xx-large">Development files for libwps</span>'
+Comment3='
+The libwps-devel package contains libraries and header files for
+developing applications that use libwps.
+
+'
+License='LGPLv2+ or MPLv2.0'
+Screenshot=''
+Url='http://libwps.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

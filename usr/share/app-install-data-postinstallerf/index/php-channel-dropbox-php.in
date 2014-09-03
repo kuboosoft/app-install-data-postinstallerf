@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-channel-dropbox-php</b>'
+Comment='<span size="xx-large">Adds the Dropbox-PHP channel to PEAR</span>'
+Comment3='
+This package adds the Dropbox-PHP channel which allows PEAR packages
+from this channel to be installed.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.dropbox-php.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

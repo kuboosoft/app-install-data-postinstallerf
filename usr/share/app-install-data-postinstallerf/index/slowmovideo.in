@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>slowmovideo</b>'
+Comment='<span size="xx-large">Program to slow down your videos</span>'
+Comment3='
+slowmoVideo is an OpenSource program that creates slow-motion
+videos from your footage.
+'
+License='GPL'
+Screenshot=''
+Url='http://slowmovideo.granjow.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sparkleshare</b>'
+Comment='<span size="xx-large">Easy file sharing based on git repositories</span>'
+Comment3='
+Easy file sharing based on git repositories. A special folder is setup and
+directories/files placed within are placed in a git-based version control
+system and synchronized elsewhere.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.sparkleshare.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

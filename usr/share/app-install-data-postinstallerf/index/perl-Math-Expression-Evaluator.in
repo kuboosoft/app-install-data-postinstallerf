@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Math-Expression-Evaluator</b>'
+Comment='<span size="xx-large">Parses, compiles and evaluates mathematics expressions</span>'
+Comment3='
+MathExpressionEvaluator is a parser, compiler and interpreter for
+mathematical expressions. It can handle normal arithmetic (including
+powers wit ^ or **), built-in functions like sin() and variables.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Math-Expression-Evaluator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

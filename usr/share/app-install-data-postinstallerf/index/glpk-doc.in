@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glpk-doc</b>'
+Comment='<span size="xx-large">Documentation for glpk</span>'
+Comment3='
+Documentation subpackage for glpk.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.gnu.org/software/glpk/glpk.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

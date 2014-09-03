@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>munge-maven-plugin</b>'
+Comment='<span size="xx-large">Munge Maven Plugin</span>'
+Comment3='
+Munge is a purposely-simple Java preprocessor. It only supports
+conditional inclusion of source based on defined strings of the
+form "if[tag]", "if_not[tag]", "else[tag]", and "end[tag]".
+Unlike traditional preprocessors, comments, and formatting are all
+preserved for the included lines. This is on purpose, as the output
+of Munge will be distributed as human-readable source code.
+
+To avoid creating a separate Java dialect, the conditional tags are
+contained in Java comments. This allows one build to compile the
+source files without pre-processing, to facilitate faster incremental
+'
+License='CDDL'
+Screenshot=''
+Url='http://github.com/sonatype/munge-maven-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

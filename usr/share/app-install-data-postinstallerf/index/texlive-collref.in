@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-collref</b>'
+Comment='<span size="xx-large">Collect blocks of references into a single reference</span>'
+Comment3='
+The package automatically collects multiple \bibitem
+references, which always appear in the same sequence in \cite,
+into a single \bibitem block.
+
+date 2009-11-09 141605 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

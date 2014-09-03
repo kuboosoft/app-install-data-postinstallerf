@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jbosgi-resolver</b>'
+Comment='<span size="xx-large">Standalone OSGi Resolver</span>'
+Comment3='
+This package contains the JBoss OSGi Resolver.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://community.jboss.org/wiki/JBossOSGi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

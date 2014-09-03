@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>svni-vim</b>'
+Comment='<span size="xx-large">Vim syntax highlighting file for Subversion interactive check-in wrapper</span>'
+Comment3='
+This package additionally provides a vim syntax highlighting configuration.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://svni.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

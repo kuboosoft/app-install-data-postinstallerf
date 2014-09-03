@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>btrfs-progs</b>'
+Comment='<span size="xx-large">Userspace programs for btrfs</span>'
+Comment3='
+The btrfs-progs package provides all the userspace programs needed to create,
+check, modify and correct any inconsistencies in the btrfs filesystem.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://btrfs.wiki.kernel.org/index.php/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>palapeli-devel</b>'
+Comment='<span size="xx-large">Development files for palapeli</span>'
+Comment3='
+Development files for palapeli.
+
+URL          https//projects.kde.org/projects/kde/kdegames/palapeli
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/palapeli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

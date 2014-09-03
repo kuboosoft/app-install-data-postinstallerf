@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>uucp</b>'
+Comment='<span size="xx-large">A set of utilities for operations between systems</span>'
+Comment3='
+The uucp command copies files between systems. Uucp is primarily used
+by remote machines downloading and uploading email and news files to
+local machines.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.airs.com/ian/uucp.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

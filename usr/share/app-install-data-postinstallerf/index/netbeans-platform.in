@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>netbeans-platform</b>'
+Comment='<span size="xx-large">NetBeans Platform</span>'
+Comment3='
+The NetBeans Platform is a generic framework for Swing applications.
+It provides the services common to almost all large desktop
+applications window management, menus, settings and storage, update
+management, file access, etc.
+'
+License='GPLv2 with exceptions or CDDL'
+Screenshot=''
+Url='http://platform.netbeans.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>orange</b>'
+Comment='<span size="xx-large">Squeeze out installable Microsoft cabinet files</span>'
+Comment3='
+Orange is a tool and library for squeezing out juicy installable Microsoft
+Cabinet Files from self-extracting installers for Microsoft Windows and some
+other installer file formats
+
+'
+License='MIT'
+Screenshot=''
+Url='http://synce.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

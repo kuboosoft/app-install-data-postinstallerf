@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Getopt-Euclid</b>'
+Comment='<span size="xx-large">Executable Uniform Command-Line Interface Descriptions</span>'
+Summary      Executable Uniform Command-Line Interface Descriptions
+Source       perl-Getopt-Euclid-0.2.3-9.fc20.src.rpm
+Comment3='
+GetoptEuclid uses your programs own documentation to create a command-
+line argument parser. This ensures that your programs documented interface
+and its actual interface always agree.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Getopt-Euclid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

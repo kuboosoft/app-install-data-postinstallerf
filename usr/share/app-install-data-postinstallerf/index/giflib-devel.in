@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>giflib-devel</b>'
+Comment='<span size="xx-large">Development tools for programs using the giflib library</span>'
+Comment3='
+The giflib-devel package includes header files, libraries necessary for
+developing programs which use the giflib library to load and save GIF format
+image files. It contains the documentation of the giflib library, too.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.sourceforge.net/projects/giflib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-gmbal-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for glassfish-gmbal</span>'
+Comment3='
+This package contains javadoc for glassfish-gmbal.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://java.net/projects/gmbal/pages/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

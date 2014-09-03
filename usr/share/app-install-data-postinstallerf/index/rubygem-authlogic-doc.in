@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-authlogic-doc</b>'
+Comment='<span size="xx-large">Authlogic gem documentation</span>'
+Comment3='
+Documentation for rubygem-authlogic
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/binarylogic/authlogic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

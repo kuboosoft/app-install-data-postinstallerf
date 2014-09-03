@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-tcpdf</b>'
+Comment='<span size="xx-large">PHP class for generating PDF documents</span>'
+Comment3='
+PHP class for generating PDF documents.
+
+* no external libraries are required for the basic functions;
+* all standard page formats, custom page formats, custom margins and units
+  of measure;
+* UTF-8 Unicode and Right-To-Left languages;
+* TrueTypeUnicode, OpenTypeUnicode, TrueType, OpenType, Type1 and CID-0 fonts;
+* font subsetting;
+* methods to publish some XHTML + CSS code, Javascript and Forms;
+* images, graphic (geometric figures) and transformation methods;
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.tcpdf.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

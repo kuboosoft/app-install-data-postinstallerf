@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mame-data-extras-robby</b>'
+Comment='<span size="xx-large">Robby Roto ROM</span>'
+Comment3='
+Robby Roto ROM.
+'
+License='Free for no-commercial use'
+Screenshot=''
+Url='http://mamedev.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

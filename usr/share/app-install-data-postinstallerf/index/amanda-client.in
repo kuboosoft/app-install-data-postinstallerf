@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>amanda-client</b>'
+Comment='<span size="xx-large">The client component of the AMANDA tape backup system</span>'
+Comment3='
+The Amanda-client package should be installed on any machine that will
+be backed up by AMANDA (including the server if it also needs to be
+backed up).  You will also need to install the amanda package on each
+AMANDA client machine.
+'
+License='BSD and GPLv3+ and GPLv2+ and GPLv2'
+Screenshot=''
+Url='http://www.amanda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Set-Tiny</b>'
+Comment='<span size="xx-large">Simple sets of strings</span>'
+Comment3='
+SetTiny is a thin wrapper around regular Perl hashes to perform often
+needed set operations, such as testing two sets of strings for equality, or
+checking whether one is contained within the other.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Set-Tiny/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-shell-extension-sustmi-historymanager-prefix-search</b>'
+Comment='<span size="xx-large">Use PageUp and PageDown to move in the log according the prefix</span>'
+Comment3='
+Use PageUp and PageDown to move in HistoryManager (eg. RunCommand,
+Looking Glass) according to prefix
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/sustmi/gnome-shell-extensions-sustmi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

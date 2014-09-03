@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-HTML-TreeBuilder-LibXML</b>'
+Comment='<span size="xx-large">HTML::TreeBuilder and XPath compatible interface with libxml</span>'
+Comment3='
+HTMLTreeBuilderXPath is a libxml based compatible interface to
+HTMLTreeBuilder, which could be slow for a large document.
+HTMLTreeBuilderLibXML is drop-in-replacement for HTMLTreeBuilderXPath.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-TreeBuilder-LibXML/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

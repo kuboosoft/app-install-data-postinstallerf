@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>PyMunin</b>'
+Comment='<span size="xx-large">Python Module for developing Munin Multigraph Monitoring Plugins</span>'
+Comment3='
+Python Module for developing Munin Multigraph Monitoring Plugins.
+
+Regular Munin Plugins employ one-plugin one-graph logic and require the
+execution of a script for data retrieval for each graph. Multigraph plugins
+permit retrieval of data for multiple graphs in one execution run
+(one-plugin many-graphs), reducing the processing time and delay for the
+fetch cycle significantly.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://aouyar.github.com/PyMunin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

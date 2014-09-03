@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openlmi-python-providers</b>'
+Comment='<span size="xx-large">Python namespace package for pywbem providers</span>'
+Comment3='
+The openlmi-python-providers package contains library with common
+code for implementing CIM providers using cmpi-bindings-pywbem.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

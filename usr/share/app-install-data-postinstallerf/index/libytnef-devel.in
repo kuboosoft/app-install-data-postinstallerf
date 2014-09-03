@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libytnef-devel</b>'
+Comment='<span size="xx-large">Development files for libytnef</span>'
+Comment3='
+The libytnef-devel package contains libraries and header files for
+developing applications that use libytnef.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://ytnef.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

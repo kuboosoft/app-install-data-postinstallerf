@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-joystick</b>'
+Comment='<span size="xx-large">Fawkes plugin to access joysticks</span>'
+Comment3='
+This package contains a Fawkes plugin to access joysticks, e.g. for
+remotely controlling robots.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

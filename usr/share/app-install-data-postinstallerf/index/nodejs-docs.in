@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-docs</b>'
+Comment='<span size="xx-large">Node.js API documentation</span>'
+Comment3='
+The API documentation for the Node.js JavaScript runtime.
+'
+License='MIT and ASL 2.0 and ISC and BSD'
+Screenshot=''
+Url='http://nodejs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

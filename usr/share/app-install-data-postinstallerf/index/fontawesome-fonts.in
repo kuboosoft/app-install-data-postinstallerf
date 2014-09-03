@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fontawesome-fonts</b>'
+Comment='<span size="xx-large">Iconic font set</span>'
+Comment3='
+Font Awesome gives you scalable vector icons that can instantly be
+customized ? size, color, drop shadow, and anything that can be done with the
+power of CSS.
+'
+License='OFL'
+Screenshot=''
+Url='http://fontawesome.io/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

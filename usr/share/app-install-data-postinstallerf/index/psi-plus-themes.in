@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>psi-plus-themes</b>'
+Comment='<span size="xx-large">Themes for Psi+</span>'
+Comment3='
+This package contains themes for Psi+.
+'
+License='Unknown'
+Screenshot=''
+Url='http://code.google.com/p/psi-dev/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

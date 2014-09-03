@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-algorithmicx</b>'
+Comment='<span size="xx-large">The algorithmic style you always wanted</span>'
+Comment3='
+Algorithmicx provides a very flexible, yet easy to use way for
+inserting good looking pseudocode or source code in your
+papers. It has built in support for Pseudocode, Pascal, C, and
+powerful means to create definitions for any programming
+language. You can easily adapt a Pseudocode style to your
+native language.
+
+date 2006-10-12 121158 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

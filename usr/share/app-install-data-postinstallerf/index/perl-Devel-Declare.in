@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Devel-Declare</b>'
+Comment='<span size="xx-large">Adding keywords to perl, in perl</span>'
+Comment3='
+DevelDeclare can install subroutines called declarators which locally
+take over Perls parser, allowing the creation of new syntax.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Declare/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

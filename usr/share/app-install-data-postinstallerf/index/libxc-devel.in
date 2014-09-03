@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libxc-devel</b>'
+Comment='<span size="xx-large">Development library and headers for libxc</span>'
+Comment3='
+libxc is a library of exchange and correlation functionals. Its purpose is to
+be used in codes that implement density-functional theory. For the moment, the
+library includes most of the local density approximations (LDAs), generalized
+density approximation (GGAs), and meta-GGAs. The library provides values for
+the energy density and its 1st, 2nd, and (for the LDAs) 3rd derivatives.
+
+This package contains the development headers and library that are necessary
+in order to compile programs against libxc.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.tddft.org/programs/octopus/wiki/index.php/Libxc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

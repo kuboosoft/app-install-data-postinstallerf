@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-asciidoctor-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-asciidoctor</span>'
+Comment3='
+Documentation for rubygem-asciidoctor
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/asciidoctor/asciidoctor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

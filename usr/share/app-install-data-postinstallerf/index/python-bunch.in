@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-bunch</b>'
+Comment='<span size="xx-large">Python dictionary with attribute-style access</span>'
+Comment3='
+python-bunch provides a python class which can perform as a dict whose keys are
+also accessible as attributes, similar to JavaScript objects.  For instance
+
+  >>> import bunch
+  >>> people = bunch.Bunch({alice here, bob there})
+  >>> print people[alice], people.alice
+  here here
+The piece of python-bunch that sets it apart from similar modules found inside
+other projects is the bunchify() function which recursively converts from
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/dsc/bunch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

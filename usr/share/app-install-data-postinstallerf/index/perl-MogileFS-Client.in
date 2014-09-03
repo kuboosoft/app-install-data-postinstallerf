@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-MogileFS-Client</b>'
+Comment='<span size="xx-large">Client library for the MogileFS distributed file system</span>'
+Comment3='
+This module is a client library for the MogileFS distributed file system.
+The class method new creates a client object against a particular
+mogilefs tracker and domain. This object may then be used to store and
+retrieve content easily from MogileFS.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/~bradfitz/MogileFS-Client/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

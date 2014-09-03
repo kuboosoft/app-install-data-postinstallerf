@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-pyroute2</b>'
+Comment='<span size="xx-large">Pure Python netlink library</span>'
+Comment3='
+PyRoute2 provides basic netlink interface for Python programs. Aiming
+to provide a complete implementation of several netlink families, this
+library is still in alpha state, so check STATUS file, the work is in
+progress.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/svinota/pyroute2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

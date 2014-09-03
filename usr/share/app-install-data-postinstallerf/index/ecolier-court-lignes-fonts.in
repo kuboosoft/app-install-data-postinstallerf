@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ecolier-court-lignes-fonts</b>'
+Comment='<span size="xx-large">Schoolchildren cursive fonts with lines</span>'
+Comment3='
+
+?colier court fonts were created by Jean-Marie Douteau to mimic the
+traditional cursive writing French children are taught in school.
+He kindly released two of them under the OFL, which are redistributed in
+this package.
+The ? lignes ? (lines) ?colier court font variant includes the Seyes lining
+commonly used by schoolchildren notepads.
+'
+License='OFL'
+Screenshot=''
+Url='http://perso.orange.fr/jm.douteau/page_ecolier.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

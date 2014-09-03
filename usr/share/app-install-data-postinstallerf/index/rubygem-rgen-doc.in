@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rgen-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rgen</span>'
+Comment3='
+Documentation for rubygem-rgen
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/mthiede/rgen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>mod_h264_streaming</b>'
+Comment='<span size="xx-large">H264 streaming module for the Apache HTTP Server</span>'
+Comment3='
+H264 streaming module enable viewers to immediately jump to any part of
+the video regardless of the length of the video or whether it has all
+been downloaded yet. It also supports virtual video clips, so it can
+be specified to only playback a part of the video or create download
+links to specific parts of the video. If the video is already using the
+widely adopted MPEG4/H264 industry standard, theres no need to recode
+MP4 videos, the existing video files can be used.
+
+This version is free if you agree to the noncommercial license. Please
+mention its use on your website, in the lines of This website uses H264
+'
+License='CC-BY-NC-SA'
+http://h264.code-shop.com/trac/wiki/Mod-H264-Streaming-License-Version2'
+Screenshot=''
+Url='http://h264.code-shop.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

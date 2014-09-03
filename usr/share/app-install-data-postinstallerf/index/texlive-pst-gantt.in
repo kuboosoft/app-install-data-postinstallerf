@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-gantt</b>'
+Comment='<span size="xx-large">Draw GANTT charts with pstricks</span>'
+Comment3='
+The package uses PSTricks to draw GANTT charts, which are a
+kind of bar chart that displays a project schedule. The package
+requires the pstricks apparatus, of course.
+
+date 2013-10-28 201141 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jpilot</b>'
+Comment='<span size="xx-large">pilot desktop software</span>'
+Comment3='
+J-Pilot is a desktop organizer application for the palm pilot that runs under
+Linux.  It is similar in functionality to the one that 3com distributes for a
+well known rampant legacy operating system.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.jpilot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

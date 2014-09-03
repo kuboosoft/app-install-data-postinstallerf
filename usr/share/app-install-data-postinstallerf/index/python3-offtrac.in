@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-offtrac</b>'
+Comment='<span size="xx-large">Trac xmlrpc library</span>'
+Comment3='
+There is the offtrac python library which offers the TracServer class. This
+object is how one interacts with a Trac instance via xmlrpc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/offtrac'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

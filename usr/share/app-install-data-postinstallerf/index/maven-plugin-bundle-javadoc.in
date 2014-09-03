@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-plugin-bundle-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for maven-plugin-bundle</span>'
+Comment3='
+API documentation for maven-plugin-bundle.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmlsec1-gcrypt</b>'
+Comment='<span size="xx-large">GCrypt crypto plugin for XML Security Library</span>'
+Comment3='
+GCrypt plugin for XML Security Library provides GCrypt based crypto services
+for the xmlsec library.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.aleksey.com/xmlsec/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

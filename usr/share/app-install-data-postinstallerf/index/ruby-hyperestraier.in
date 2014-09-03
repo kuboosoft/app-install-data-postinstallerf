@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-hyperestraier</b>'
+Comment='<span size="xx-large">Hyper Estraier Library for Ruby</span>'
+Comment3='
+This package contains a Ruby interface for Hyper Estraier.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://hyperestraier.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

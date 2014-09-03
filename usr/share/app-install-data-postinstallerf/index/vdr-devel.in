@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vdr-devel</b>'
+Comment='<span size="xx-large">Development files for VDR</span>'
+Comment3='
+Development files for VDR.
+
+URL          http//www.tvdr.de/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tvdr.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

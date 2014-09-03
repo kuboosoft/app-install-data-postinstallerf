@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Text-Clip</b>'
+Comment='<span size="xx-large">Clip and extract text in clipboard-like way</span>'
+Comment3='
+TextClip allows you to mark/slice up a piece of text. String matching (by
+regular expression, etc.) is used to place marks. The first mark lets you
+access the text preceding and following the mark. Subsequent marks allow
+you to slurp up the text "clipped" between the marks.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Clip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

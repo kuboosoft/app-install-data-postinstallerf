@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ktp-accounts-kcm</b>'
+Comment='<span size="xx-large">KDE Configuration Module for Telepathy Instant Messaging Accounts</span>'
+Comment3='
+This is a KControl Module which handles adding/editing/removing Telepathy
+Accounts. It interacts with any Telepathy Spec compliant AccountManager
+to manipulate the accounts.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/network/telepathy/ktp-accounts-kcm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fakechroot</b>'
+Comment='<span size="xx-large">Gives a fake chroot environment</span>'
+Comment3='
+fakechroot runs a command in an environment were is additionally
+possible to use the chroot(8) call without root privileges. This is
+useful for allowing users to create their own chrooted environment
+with possibility to install another packages without need for root
+privileges.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fakechroot.alioth.debian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

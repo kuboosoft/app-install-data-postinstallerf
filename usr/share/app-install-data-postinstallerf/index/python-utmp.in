@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-utmp</b>'
+Comment='<span size="xx-large">Python modules for umtp records</span>'
+Comment3='
+python-utmp consists of three modules, providing access to utmp records.
+It is quite difficult to access utmp record portably, because every UNIX
+has different structure of utmp files. Currently, python-utmp works on
+platforms which provide getutent, getutid, getutline, pututline,
+setutent, endutent and utmpname functions (such as GNU systems
+(Linux and hurd) and System V unices) and on BSD systems using
+simple utmp structure.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://kassiopeia.juls.savba.sk/~garabik/software/python-utmp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

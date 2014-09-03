@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>emacs-gtypist</b>'
+Comment='<span size="xx-large">GNU typing tutor</span>'
+Comment3='
+GNU Typist (or gtypist) is free software that assists you in learning
+to type correctly.
+
+This package contains support for emacs major-mode gtypist-mode which
+does syntax-highlighting, indentation and has some convenient commands
+for counting labels, a goto-label-command, inserting properly centered
+banners, special comments and a bit more.
+'
+License='GPLv3+'
+Screenshot=''
+Url='ftp://ftp.gnu.org/gnu/gtypist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

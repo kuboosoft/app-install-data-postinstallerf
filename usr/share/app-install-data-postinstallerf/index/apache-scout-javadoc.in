@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-scout-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for apache-scout</span>'
+Comment3='
+This package contains the API documentation for apache-scout.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://juddi.apache.org/scout'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libXres</b>'
+Comment='<span size="xx-large">X-Resource extension client library</span>'
+Comment3='
+X-Resource is an extension that allows a client to query
+the X server about its usage of various resources.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

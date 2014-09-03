@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-POSIX-strftime-Compiler</b>'
+Comment='<span size="xx-large">GNU C library compatible strftime for loggers and servers</span>'
+Comment3='
+POSIXstrftimeCompiler provides GNU C library compatible strftime(3).
+But this module will not affected by the system locale. This feature is
+useful when you want to write loggers, servers and portable applications.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POSIX-strftime-Compiler/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libgadu-doc</b>'
+Comment='<span size="xx-large">Libgadu library developer documentation</span>'
+Comment3='
+The libgadu-doc package contains the documentation for the
+libgadu library.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://libgadu.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

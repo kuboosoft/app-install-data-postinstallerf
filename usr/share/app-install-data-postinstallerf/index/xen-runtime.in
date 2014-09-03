@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xen-runtime</b>'
+Comment='<span size="xx-large">Core Xen runtime environment</span>'
+Comment3='
+This package contains the runtime programs and daemons which
+form the core Xen userspace environment.
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://xen.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

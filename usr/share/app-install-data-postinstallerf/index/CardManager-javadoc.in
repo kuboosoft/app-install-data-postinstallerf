@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>CardManager-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for CardManager</span>'
+Comment3='
+This package contains the API documentation for CardManager.
+'
+License='BSD'
+Screenshot=''
+Url='http://cardmanager.wz.cz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

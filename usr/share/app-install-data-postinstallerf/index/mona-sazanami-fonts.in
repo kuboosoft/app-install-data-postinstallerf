@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mona-sazanami-fonts</b>'
+Comment='<span size="xx-large">True Type Japanese font for text arts based on Sazanami</span>'
+Comment3='
+
+Mona Font is a Japanese proportional font which allows you to view
+Japanese text arts correctly.
+This package contains True Type fonts generated generated from
+monafont source package which are based on Sazanami fonts.
+'
+License='BSD'
+Screenshot=''
+Url='http://monafont.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

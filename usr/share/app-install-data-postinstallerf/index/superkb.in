@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>superkb</b>'
+Comment='<span size="xx-large">Graphical application launcher for Linux</span>'
+Comment3='
+Graphical application launcher for Linux. It works by activating
+upon a hot key press, usually Super_L or Super_R. On activation it shows a
+keyboard on screen with the keys and its corresponding actions
+'
+License='GPLv2'
+Screenshot=''
+Url='http://superkb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

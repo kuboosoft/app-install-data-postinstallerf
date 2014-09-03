@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pciutils-devel</b>'
+Comment='<span size="xx-large">Linux PCI development library</span>'
+Comment3='
+This package contains a library for inspecting and setting
+devices connected to the PCI bus.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://atrey.karlin.mff.cuni.cz/~mj/pciutils.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

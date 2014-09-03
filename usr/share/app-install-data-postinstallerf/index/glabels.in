@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>glabels</b>'
+Comment='<span size="xx-large">A program for creating labels and business cards for GNOME</span>'
+Comment3='
+gLabels is a lightweight program for creating labels and
+business cards for the GNOME desktop environment.
+It is designed to work with various laser/ink-jet peel-off
+label and business card sheets that youll find at most office
+supply stores.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.glabels.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

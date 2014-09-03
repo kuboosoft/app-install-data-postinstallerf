@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ElectricFence</b>'
+Comment='<span size="xx-large">A debugger which detects memory allocation violations</span>'
+Comment3='
+ElectricFence is a utility for C programming and
+debugging. ElectricFence uses the virtual memory hardware of your
+system to detect when software overruns malloc() buffer boundaries,
+and/or to detect any accesses of memory released by
+free(). ElectricFence will then stop the program on the first
+instruction that caused a bounds violation and you can use your
+favorite debugger to display the offending statement.
+
+Install ElectricFence if you need a debugger to find malloc()
+violations.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://perens.com/FreeSoftware/ElectricFence/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

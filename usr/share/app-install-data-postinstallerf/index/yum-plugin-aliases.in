@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yum-plugin-aliases</b>'
+Comment='<span size="xx-large">Yum plugin to enable aliases filters</span>'
+Comment3='
+This plugin adds the command alias, and parses the aliases config. file to
+enable aliases.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fvwm</b>'
+Comment='<span size="xx-large">Highly configurable multiple virtual desktop window manager</span>'
+Comment3='
+Fvwm is a window manager for X11. It is designed to
+minimize memory consumption, provide a 3D look to window frames,
+and implement a virtual desktop.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fvwm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

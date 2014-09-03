@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>condor-cloud</b>'
+Comment='<span size="xx-large">Condor Cloud Master Setup</span>'
+Comment3='
+Condor Cloud provides an IaaS cloud implementation using Condor and the
+Deltacloud API.  This package provides a starting configuration for the
+master condor cloud host.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://imain.fedorapeople.org/condor_cloud/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

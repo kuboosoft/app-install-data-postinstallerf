@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-eventlet-doc</b>'
+Comment='<span size="xx-large">Documentation for python-eventlet</span>'
+Comment3='
+Documentation for the python-eventlet package.
+'
+License='MIT'
+Screenshot=''
+Url='http://eventlet.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

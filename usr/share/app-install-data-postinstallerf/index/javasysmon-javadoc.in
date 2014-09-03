@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>javasysmon-javadoc</b>'
+Comment='<span size="xx-large">Javadoc documentation for javasysmon</span>'
+Comment3='
+The javadoc documentation for javasysmon.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/jezhumble/javasysmon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

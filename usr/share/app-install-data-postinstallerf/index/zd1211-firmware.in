@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zd1211-firmware</b>'
+Comment='<span size="xx-large">Firmware for wireless devices based on zd1211 chipset</span>'
+Comment3='
+This package contains the firmware required to work with the zd1211 chipset.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://zd1211.wiki.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-detex</b>'
+Comment='<span size="xx-large">Strip TeX from a source file</span>'
+Comment3='
+Detex is a program to remove TeX constructs from a text file.
+It recognizes the \input command. The program assumes it is
+dealing with LaTeX input if it sees the string \begin{document}
+in the text. In this case, it also recognizes the \include and
+\includeonly commands.
+
+date 2012-05-07 221348 +0200
+'
+License='NCSA'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

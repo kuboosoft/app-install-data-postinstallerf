@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mule</b>'
+Comment='<span size="xx-large">Mule Enterprise Service Bus Java libraries</span>'
+Comment3='
+Mule comprises an infrastructure for Java applications to communicate,
+referred to as a bus. It also gives the applications an address to
+be contacted.
+'
+License='CPAL'
+Screenshot=''
+Url='http://www.mulesoft.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

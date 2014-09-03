@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-ghab</b>'
+Comment='<span size="xx-large">Typeset ghab boxes in LaTeX</span>'
+Comment3='
+The package defines a command \darghab that will typeset its
+argument in a box with a decorated frame. The width of the box
+may be set using an optional argument.
+
+date 2013-04-05 132040 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

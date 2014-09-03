@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>expat-static</b>'
+Comment='<span size="xx-large">expat XML parser static library</span>'
+Comment3='
+The expat-static package contains the static version of the expat library.
+Install it if you need to link statically with expat.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.libexpat.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

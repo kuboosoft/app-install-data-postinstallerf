@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>emacs-magit-el</b>'
+Comment='<span size="xx-large">Elisp source files for Magit under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for Magit under GNU Emacs. You
+do not need to install this package to run Magit. Install the emacs-magit
+package to use Magit with GNU Emacs.
+'
+License='GPLv3+ and GFDL+'
+Screenshot=''
+Url='http://magit.github.com/magit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

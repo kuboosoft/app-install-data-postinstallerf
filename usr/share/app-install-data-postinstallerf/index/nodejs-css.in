@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-css</b>'
+Comment='<span size="xx-large">A CSS parser/stringifier for Node.js using css-parse and css-stringify</span>'
+Comment3='
+A CSS parser/stringifier for Node.js using css-parse and css-stringify.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/css'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

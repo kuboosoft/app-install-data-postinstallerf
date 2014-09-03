@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-python2-gnome</b>'
+Comment='<span size="xx-large">Python bindings for libgnome</span>'
+Comment3='
+This module contains a wrapper that makes libgnome functionality available
+from Python.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/gnome-python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

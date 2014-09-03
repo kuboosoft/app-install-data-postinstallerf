@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>avarice</b>'
+Comment='<span size="xx-large">Program for interfacing the Atmel JTAG ICE to GDB</span>'
+Comment3='
+Program for interfacing the Atmel JTAG ICE to GDB to allow users to
+debug their embedded AVR target
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/avarice'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-stack-trace</b>'
+Comment='<span size="xx-large">Node.js module to get v8 stack traces as an array of CallSite objects</span>'
+Comment3='
+Node.js module to get v8 stack traces as an array of CallSite objects.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/felixge/node-stack-trace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

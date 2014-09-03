@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qwtplot3d-qt4</b>'
+Comment='<span size="xx-large">Qt4/OpenGL-based C++ library providing a bunch of 3D-widgets</span>'
+Comment3='
+QwtPlot3D is not a program, but a feature-rich Qt4/OpenGL-based C++
+programming library, providing essentially a bunch of 3D-widgets for
+programmers.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://qwtplot3d.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

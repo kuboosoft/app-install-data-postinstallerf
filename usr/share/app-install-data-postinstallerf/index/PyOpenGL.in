@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>PyOpenGL</b>'
+Comment='<span size="xx-large">Python 2.x bindings for OpenGL</span>'
+Comment3='
+PyOpenGL is the cross platform Python binding to OpenGL and related APIs. It
+includes support for OpenGL v1.1, GLU, GLUT v3.7, GLE 3 and WGL 4. It also
+includes support for dozens of extensions (where supported in the underlying
+implementation).
+
+PyOpenGL is interoperable with a large number of external GUI libraries
+for Python including (Tkinter, wxPython, FxPy, PyGame, and Qt).
+'
+License='BSD'
+Screenshot=''
+Url='http://pyopengl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

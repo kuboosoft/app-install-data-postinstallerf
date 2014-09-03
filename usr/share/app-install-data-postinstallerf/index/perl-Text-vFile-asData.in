@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Text-vFile-asData</b>'
+Comment='<span size="xx-large">Parse vFile formatted files into data structures</span>'
+Comment3='
+TextvFileasData reads vFile format files, such as vCard (RFC 2426) and
+vCalendar (RFC 2445).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-vFile-asData/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

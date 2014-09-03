@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-archive-tar-minitar-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-archive-tar-minitar</span>'
+Comment3='
+This package contains documentation for rubygem-archive-tar-minitar.
+'
+License='GPLv2+ or Ruby'
+Screenshot=''
+Url='http://rubyforge.org/projects/ruwiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

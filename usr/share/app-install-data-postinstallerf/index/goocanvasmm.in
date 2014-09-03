@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>goocanvasmm</b>'
+Comment='<span size="xx-large">C++ interface for goocanvas</span>'
+Comment3='
+This package provides a C++ interface for goocanvas. It is a
+subpackage of the gtkmm project. The interface provides a convenient
+interface for C++ programmers to create Gnome GUIs with GTK+s
+flexible object-oriented framework.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

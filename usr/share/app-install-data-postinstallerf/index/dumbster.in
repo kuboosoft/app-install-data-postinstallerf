@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dumbster</b>'
+Comment='<span size="xx-large">Fake SMTP Server</span>'
+Comment3='
+The Dumbster is a very simple fake SMTP server designed for
+unit and system testing applications that send email messages.
+It responds to all standard SMTP commands but does not deliver
+messages to the user. The messages are stored within the
+Dumbster for later extraction and verification.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://quintanasoft.com/dumbster/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

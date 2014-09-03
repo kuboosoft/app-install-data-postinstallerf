@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-django14-doc</b>'
+Comment='<span size="xx-large">Documentation for Django</span>'
+Comment3='
+This package contains the documentation for the Django high-level
+Python Web framework.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.djangoproject.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

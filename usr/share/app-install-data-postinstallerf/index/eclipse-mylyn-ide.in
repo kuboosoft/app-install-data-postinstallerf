@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-mylyn-ide</b>'
+Comment='<span size="xx-large">Mylyn Context Connector: Eclipse IDE</span>'
+Comment3='
+Mylyn Task-Focused UI extensions for the Eclipse IDE.
+Provides focusing of common IDE views and editors.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/mylyn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

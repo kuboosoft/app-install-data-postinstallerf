@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>vo-amrwbenc</b>'
+Comment='<span size="xx-large">VisualOn AMR-WB encoder library</span>'
+Comment3='
+This library contains an encoder implementation of the Adaptive
+Multi Rate Wideband (AMR-WB) audio codec. The library is based
+on a codec implementation by VisualOn as part of the Stagefright
+framework from the Google Android project.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://opencore-amr.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-unf_ext</b>'
+Comment='<span size="xx-large">Unicode Normalization Form support library for CRuby</span>'
+Comment3='
+Unicode Normalization Form support library for CRuby.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/knu/ruby-unf_ext'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libidzebra</b>'
+Comment='<span size="xx-large">Zebra libraries</span>'
+Comment3='
+Libraries for the Zebra search engine.
+
+URL          http//www.indexdata.dk/zebra/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.indexdata.dk/zebra/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

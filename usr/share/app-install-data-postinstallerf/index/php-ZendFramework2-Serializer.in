@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Serializer</b>'
+Comment='<span size="xx-large">Zend Framework 2: Serializer Component</span>'
+Comment3='
+The Zend\Serializer component provides an adapter based interface to simply
+generate storable representation of PHP types by different facilities, and
+recover.
+
+Optional msgpack (php-pecl-msgpack)
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.serializer.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

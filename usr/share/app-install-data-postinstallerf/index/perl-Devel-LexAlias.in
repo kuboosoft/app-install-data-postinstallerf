@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Devel-LexAlias</b>'
+Comment='<span size="xx-large">Alias lexical variables</span>'
+Comment3='
+DevelLexAlias provides the ability to alias a lexical variable in a
+subroutines scope to one of your choosing.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-LexAlias/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

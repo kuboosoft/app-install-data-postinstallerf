@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opencryptoki-devel</b>'
+Comment='<span size="xx-large">Development files for openCryptoki</span>'
+Comment3='
+This package contains the development header files for building
+opencryptoki and PKCS#11 based applications
+
+'
+License='CPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/opencryptoki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

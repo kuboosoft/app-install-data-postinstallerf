@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>adobe-source-libraries-devel</b>'
+Comment='<span size="xx-large">Development files for adobe-source-libraries</span>'
+Comment3='
+Libraries and header files for developing applications that
+use adobe-source-libraries.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://stlab.adobe.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

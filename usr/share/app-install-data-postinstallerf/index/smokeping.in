@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>smokeping</b>'
+Comment='<span size="xx-large">Latency Logging and Graphing System</span>'
+Comment3='
+SmokePing is a latency logging and graphing system. It consists of a
+daemon process which organizes the latency measurements and a CGI
+which presents the graphs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://oss.oetiker.ch/smokeping/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

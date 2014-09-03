@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-arc</b>'
+Comment='<span size="xx-large">Autotest RPC Client</span>'
+Comment3='
+Arc is the Autotest RPC Client. It provides libraries and tools that interact
+with an Autotest RPC Server. It allows one to send test jobs, add test hosts,
+query available tests, etc.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://github.com/autotest/arc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

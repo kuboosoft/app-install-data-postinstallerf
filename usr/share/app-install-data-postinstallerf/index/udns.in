@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>udns</b>'
+Comment='<span size="xx-large">DNS resolver library for both synchronous and asynchronous DNS queries</span>'
+Comment3='
+udns is a resolver library for C (and C++) programs, and a collection
+of useful DNS resolver utilities.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.corpit.ru/mjt/udns.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

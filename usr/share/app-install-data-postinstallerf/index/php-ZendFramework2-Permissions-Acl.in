@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Permissions-Acl</b>'
+Comment='<span size="xx-large">Zend Framework 2: Permissions ACL Component</span>'
+Comment3='
+The Zend\Permissions\Acl component provides a lightweight and flexible access
+control list (ACL) implementation for privileges management. In general, an
+application may utilize such ACL?s to control access to certain protected
+objects by other requesting objects.
+
+For the purposes of this documentation
+* a resource is an object to which access is controlled.
+* a role is an object that may request access to a Resource.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.permissions.acl.intro.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>yagf</b>'
+Comment='<span size="xx-large">Graphical front-end for cuneiform</span>'
+Comment3='
+YAGF is a graphical interface for the cuneiform text
+recognition program. With YAGF you can scan images via
+XSane, perform images preprocessing and recognize
+texts using cuneiform from a single command center.
+YAGF also makes it easy to scan and recognize
+several images sequentially.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://symmetrica.net/cuneiform-linux/yagf-en.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

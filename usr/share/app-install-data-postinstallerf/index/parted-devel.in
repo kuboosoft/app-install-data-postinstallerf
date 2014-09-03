@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>parted-devel</b>'
+Comment='<span size="xx-large">Files for developing apps which will manipulate disk partitions</span>'
+Comment3='
+The GNU Parted library is a set of routines for hard disk partition
+manipulation. If you want to develop programs that manipulate disk
+partitions and filesystems using the routines provided by the GNU
+Parted library, you need to install this package.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/parted'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ghc-temporary</b>'
+Comment='<span size="xx-large">Portable temporary file and directory support</span>'
+Comment3='
+The functions for creating temporary files and directories in the base library
+are quite limited. The unixutils package contains some good ones,
+but they arent portable to Windows. This library repackages the
+Cabal implementations of its own temporary file and folder functions
+so that you can use them without linking against Cabal or depending on
+it being installed.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/temporary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

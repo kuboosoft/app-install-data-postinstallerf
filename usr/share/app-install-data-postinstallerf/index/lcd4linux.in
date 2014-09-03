@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lcd4linux</b>'
+Comment='<span size="xx-large">Display system state on an external LCD display</span>'
+Comment3='
+LCD4Linux is a small program that grabs information from the kernel
+and some subsystems and displays it on an external liquid crystal display.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ssl.bulix.org/projects/lcd4linux/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

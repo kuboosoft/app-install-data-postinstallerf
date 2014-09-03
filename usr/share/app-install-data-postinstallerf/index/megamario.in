@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>megamario</b>'
+Comment='<span size="xx-large">Well known platform game clone</span>'
+Comment3='
+MegaMario is a clone of a well know platform game, featuring 25 new levels. In
+the game you play Mario and your task is to free his brother Luigi, who was
+captured by the evil Bowser.
+'
+License='LGPL+'
+Screenshot=''
+Url='http://mmario.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

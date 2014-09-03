@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>jspc</b>'
+Comment='<span size="xx-large">Compile JSPs under Maven</span>'
+Comment3='
+The Codehaus is a collaborative environment for building open source
+projects with a strong emphasis on modern languages, focused on
+quality components that meet real world needs.
+
+Provides support to precompile your JSPs and have them included into
+pluggable JSP compiler implementation, which currently allows different
+versions of the Tomcat Jasper compiler to be used as needed.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mojo.codehaus.org/jspc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

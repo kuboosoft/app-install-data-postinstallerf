@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>stomppy</b>'
+Comment='<span size="xx-large">Python stomp client for messaging</span>'
+Comment3='
+stomp.py is a Python client library for accessing messaging servers
+(such as ActiveMQ or JBoss Messaging) using the STOMP protocol. It can also
+be run as a standalone, command-line client for testing.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/kwoli/stomp.py'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

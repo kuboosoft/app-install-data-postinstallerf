@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tcltls-devel</b>'
+Comment='<span size="xx-large">Header files for the OpenSSL extension for Tcl</span>'
+Comment3='
+The TLS OpenSSL extension to Tcl
+
+This package contains the development files for tls.
+'
+License='BSD'
+Screenshot=''
+Url='http://tls.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

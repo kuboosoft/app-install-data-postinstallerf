@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cmake-doc</b>'
+Comment='<span size="xx-large">Documentation for cmake</span>'
+Comment3='
+This package contains documentation for CMake.
+'
+License='BSD and MIT and zlib'
+Screenshot=''
+Url='http://www.cmake.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

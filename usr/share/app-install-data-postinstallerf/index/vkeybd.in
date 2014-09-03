@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vkeybd</b>'
+Comment='<span size="xx-large">Virtual MIDI keyboard</span>'
+Comment3='
+This is a virtual keyboard for AWE, MIDI and ALSA drivers.
+Its a simple fake of a MIDI keyboard on X-windows system.
+Enjoy a music with your mouse and "computer" keyboard -)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/~iwai/alsa.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

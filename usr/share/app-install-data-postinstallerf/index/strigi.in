@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>strigi</b>'
+Comment='<span size="xx-large">A desktop search program</span>'
+Comment3='
+Strigi is a fast and light desktop search engine. It can handle a large range
+of file formats such as emails, office documents, media files, and file
+archives. It can index files that are embedded in other files. This means email
+attachments and files in zip files are searchable as if they were normal files
+on your harddisk.
+
+Strigi is normally run as a background daemon that can be accessed by many
+other programs at once. In addition to the daemon, Strigi comes with powerful
+replacements for the popular unix commands find and grep. These are called
+deepfind and deepgrep and can search inside files just like the strigi
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vandenoever.info/software/strigi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

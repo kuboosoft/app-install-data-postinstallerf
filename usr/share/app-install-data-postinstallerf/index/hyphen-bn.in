@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-bn</b>'
+Comment='<span size="xx-large">Bengali hyphenation rules</span>'
+Comment3='
+Bengali hyphenation rules.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://wiki.smc.org.in'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

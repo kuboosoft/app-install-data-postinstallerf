@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>firebird-libfbclient</b>'
+Comment='<span size="xx-large">Multi-threaded, non-local client libraries for Firebird SQL RDBMS</span>'
+Comment3='
+Multi-threaded, non-local client libraries for Firebird SQL Database
+
+URL          http//www.firebirdsql.org/
+'
+License='Interbase'
+Screenshot=''
+Url='http://www.firebirdsql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

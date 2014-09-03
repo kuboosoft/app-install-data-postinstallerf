@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ibus-fbterm</b>'
+Comment='<span size="xx-large">IBus front-end for fbterm</span>'
+Comment3='
+ibus-fbterm is a input method for FbTerm based on iBus.
+
+* To utilize framebuffer, user should be added into video group, or install
+  fbterm-udevrules package.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://code.google.com/p/ibus-fbterm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-flask-classy</b>'
+Comment='<span size="xx-large">Class based views for Flask</span>'
+Comment3='
+Class based views for Flask
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/Flask-Classy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

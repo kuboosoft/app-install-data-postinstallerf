@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CPAN-Inject</b>'
+Comment='<span size="xx-large">Base class for injecting distributions into CPAN sources</span>'
+Comment3='
+Following the release of CPANMini, the CPANMiniInject module was
+created to add additional distributions into a minicpan mirror.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPAN-Inject/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-dateformat</b>'
+Comment='<span size="xx-large">Steven Levithans excellent dateFormat() function for Node.js</span>'
+Comment3='
+This is a JavaScript port of Steven Levithans excellent dateFormat()
+function, which provides a simple way to format dates and times
+according to a user-specified mask.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/felixge/node-dateformat'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

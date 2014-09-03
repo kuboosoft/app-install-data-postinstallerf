@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-clearsilver</b>'
+Comment='<span size="xx-large">Perl interface to the ClearSilver HTML templating system</span>'
+Comment3='
+Perl interface to the ClearSilver HTML templating system.
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://www.clearsilver.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

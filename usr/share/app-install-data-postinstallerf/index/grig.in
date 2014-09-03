@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>grig</b>'
+Comment='<span size="xx-large">A Ham Radio Control graphical user interface</span>'
+Comment3='
+Grig is a graphical user interface for the Ham Radio Control
+Libraries. It is intended to be simple and generic, presenting the
+user to the same interface regardless of which radio he or she uses.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://groundstation.sourceforge.net/grig/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

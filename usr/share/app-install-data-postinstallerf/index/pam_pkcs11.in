@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pam_pkcs11</b>'
+Comment='<span size="xx-large">PKCS #11/NSS PAM login module</span>'
+Comment3='
+This Linux-PAM login module allows a X.509 certificate based user
+authentication. The certificate and its dedicated private key are thereby
+accessed by means of an appropriate PKCS #11 module. For the
+verification of the users certificates, locally stored CA
+certificates as well as either online or locally accessible CRLs and
+OCSP are used. This version uses NSS to validate the Certificates and manage
+the PKCS #11 smartCards.
+Additional included pam_pkcs11 related tools
+- pkcs11_eventmgr Generate actions on card insert/removal/timeout events
+- pklogin_finder Get the loginname that maps to a certificate
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opensc-project.org/pam_pkcs11'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

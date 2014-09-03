@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcanberra-devel</b>'
+Comment='<span size="xx-large">Development Files for libcanberra Client Development</span>'
+Comment3='
+Development Files for libcanberra Client Development
+
+URL          http//git.0pointer.de/?p=libcanberra.git;a=summary
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.0pointer.de/?p=libcanberra.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

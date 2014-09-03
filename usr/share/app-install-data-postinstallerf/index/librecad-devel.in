@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>librecad-devel</b>'
+Comment='<span size="xx-large">Development files for LibreCAD</span>'
+Comment3='
+Development files for LibreCAD.
+
+URL          http//librecad.org/
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://librecad.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

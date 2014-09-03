@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Config-Record</b>'
+Comment='<span size="xx-large">Perl module for Configuration file access</span>'
+Comment3='
+ConfigRecord provides a module for loading configuration
+records. It supports scalar, array and hash parameters nested
+to an arbitrary depth.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Config-Record/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

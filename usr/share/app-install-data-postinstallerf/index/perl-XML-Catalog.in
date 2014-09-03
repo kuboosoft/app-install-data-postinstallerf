@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-XML-Catalog</b>'
+Comment='<span size="xx-large">Resolve public identifiers and remap system identifiers</span>'
+Comment3='
+This module implements draft 0.4 of John Cowans XML Catalog (formerly
+known as XCatalog) see
+(<https//www.oasis-open.org/committees/entity/specs/cs-entity-xml-catalogs-1.0.html>)
+Catalogs may be written in either SOCAT or XML syntax. XMLCatalog will
+assume SOCAT syntax if the catalog is not in well-formed XML syntax.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-Catalog/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

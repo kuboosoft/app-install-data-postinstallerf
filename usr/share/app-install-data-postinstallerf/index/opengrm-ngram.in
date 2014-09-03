@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>opengrm-ngram</b>'
+Comment='<span size="xx-large">Library for making and modifying n-gram language models</span>'
+Comment3='
+The OpenGrm NGram library is used for making and modifying n-gram
+language models encoded as weighted finite-state transducers (FSTs).  It
+makes use of functionality in the OpenFst library to create, access and
+manipulate n-gram models.  Operations for counting, smoothing, pruning,
+applying, and evaluating models are among those provided.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.opengrm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

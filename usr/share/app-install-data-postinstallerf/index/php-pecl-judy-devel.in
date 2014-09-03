@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pecl-judy-devel</b>'
+Comment='<span size="xx-large">php-pecl-judy developer files (header)</span>'
+Comment3='
+These are the files needed to compile programs using php-pecl-judy.
+
+URL          http//pecl.php.net/package/Judy
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/Judy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

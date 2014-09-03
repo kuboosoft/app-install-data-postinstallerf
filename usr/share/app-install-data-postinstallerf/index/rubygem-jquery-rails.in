@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-jquery-rails</b>'
+Comment='<span size="xx-large">Use jQuery with Rails 3</span>'
+Comment3='
+This gem provides jQuery and the jQuery-ujs driver for your Rails 3
+application.
+'
+License='MIT and (MIT or GPLv2) and (MIT or BSD or GPLv2) and BSD'
+Screenshot=''
+Url='http://rubygems.org/gems/jquery-rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

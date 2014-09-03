@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-textpos</b>'
+Comment='<span size="xx-large">Place boxes at arbitrary positions on the LaTeX page</span>'
+Comment3='
+A package to facilitate placement of boxes at absolute
+positions on the LaTeX page. There are several reasons why this
+might be useful, an important one being to help the creation of
+large-format conference posters.
+
+date 2012-06-01 192346 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

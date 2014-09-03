@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Pod-Spell</b>'
+Comment='<span size="xx-large">A formatter for spell-checking POD</span>'
+Comment3='
+PodSpell is a Pod formatter whose output is good for spell-checking.
+PodSpell rather like PodText, except that it doesnt put much
+effort into actual formatting, and it suppresses things that look like
+Perl symbols or Perl jargon (so that your spell-checking program wont
+complain about mystery words like "$thing" or "FooBar" or "hashref").
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Pod-Spell/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

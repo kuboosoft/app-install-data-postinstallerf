@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libpcap</b>'
+Comment='<span size="xx-large">A system-independent interface for user-level packet capture</span>'
+Comment3='
+Libpcap provides a portable framework for low-level network
+monitoring.  Libpcap can provide network statistics collection,
+security monitoring and network debugging.  Since almost every system
+vendor provides a different interface for packet capture, the libpcap
+authors created this system-independent API to ease in porting and to
+alleviate the need for several system-dependent packet capture modules
+in each application.
+
+Install libpcap if you need to do low-level network traffic monitoring
+on your network.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.tcpdump.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

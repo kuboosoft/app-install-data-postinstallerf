@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-unikey</b>'
+Comment='<span size="xx-large">Vietnamese engine for IBus input platform</span>'
+Comment3='
+A Vietnamese engine for IBus input platform that uses Unikey.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://code.google.com/p/ibus-unikey/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

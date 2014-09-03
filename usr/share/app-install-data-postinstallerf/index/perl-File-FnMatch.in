@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-File-FnMatch</b>'
+Comment='<span size="xx-large">Simple file-name and pathname matching</span>'
+Comment3='
+This module provides simple, shell-like pattern matching.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-FnMatch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

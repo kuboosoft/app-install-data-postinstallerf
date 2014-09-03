@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-bold-extra</b>'
+Comment='<span size="xx-large">Use bold small caps and typewriter fonts</span>'
+Comment3='
+Allows access to extra bold fonts for Computer Modern OT1
+encoding (such fonts are available as MetaFont source). Since
+there is more than one bold tt-family font set, the version
+required is selected by a package option.
+
+date 2010-02-23 160916 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

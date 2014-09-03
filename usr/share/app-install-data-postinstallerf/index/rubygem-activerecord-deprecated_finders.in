@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-activerecord-deprecated_finders</b>'
+Comment='<span size="xx-large">This gem contains deprecated finder APIs extracted from Active Record</span>'
+Comment3='
+Deprecated finder APIs extracted from Active Record.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rails/activerecord-deprecated_finders'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

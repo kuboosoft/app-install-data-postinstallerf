@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-matc3</b>'
+Comment='<span size="xx-large">Commands for MatematicaC3 textbooks</span>'
+Comment3='
+The package provides support for the Matematica C3 project to
+produce free mathematical text books for use in Italian high
+schools.
+
+date 2013-04-09 155517 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

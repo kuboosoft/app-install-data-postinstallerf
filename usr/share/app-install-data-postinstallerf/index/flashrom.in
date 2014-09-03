@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>flashrom</b>'
+Comment='<span size="xx-large">Simple program for reading/writing BIOS chips content</span>'
+Comment3='
+Utility which can be used to detect BIOS chips (DIP, PLCC), read their contents
+and write new contents on the chips ("flash the chip").
+'
+License='GPLv2'
+Screenshot=''
+Url='http://flashrom.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

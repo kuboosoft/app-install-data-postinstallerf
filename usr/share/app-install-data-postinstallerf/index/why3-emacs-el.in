@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>why3-emacs-el</b>'
+Comment='<span size="xx-large">Emacs source file for why3 support</span>'
+Comment3='
+This package contains the Emacs source file for the Emacs why3 support.
+This package is not needed to use the Emacs support.
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://why3.lri.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

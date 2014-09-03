@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ioping</b>'
+Comment='<span size="xx-large">Simple disk I/O latency monitoring tool</span>'
+Comment3='
+This tool lets you monitor I/O latency in real time. It shows disk latency in
+the same way as ping shows network latency.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://code.google.com/p/ioping'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

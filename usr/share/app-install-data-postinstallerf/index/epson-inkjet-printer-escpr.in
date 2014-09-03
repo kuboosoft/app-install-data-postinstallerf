@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>epson-inkjet-printer-escpr</b>'
+Comment='<span size="xx-large">Drivers for Epson inkjet printers</span>'
+Comment3='
+This package contains drivers for Epson Inkjet printers that use
+the New Generation Epson Printer Control Language.
+
+For a detailed list of supported printers, please refer to
+http//avasys.jp/english/linux_e/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-sexplib-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-sexplib</span>'
+Comment3='
+The ocaml-sexplib-devel package contains libraries and signature files for
+developing applications that use ocaml-sexplib.
+
+'
+License='LGPLv2+ with exceptions and BSD'
+Screenshot=''
+Url='http://forge.ocamlcore.org/projects/sexplib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

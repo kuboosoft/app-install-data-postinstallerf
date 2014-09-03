@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-derive-devel</b>'
+Comment='<span size="xx-large">Haskell derive library development files</span>'
+Comment3='
+This package provides the Haskell derive library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/derive'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

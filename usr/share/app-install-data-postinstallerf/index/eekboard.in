@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eekboard</b>'
+Comment='<span size="xx-large">Yet Another Virtual Keyboard</span>'
+Comment3='
+eekboard is a virtual keyboard software package, including a set of
+tools to implement desktop virtual keyboards.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/eekboard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

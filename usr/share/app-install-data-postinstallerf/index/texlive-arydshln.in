@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-arydshln</b>'
+Comment='<span size="xx-large">Horizontal and vertical dashed lines in arrays and tabulars</span>'
+Comment3='
+Definitions of horizontal and vertical dashed lines for the
+array and tabular environment. Horizontal lines are drawn by
+\hdashline and \cdashline while vertical ones can be specified
+as a part of preamble using . The shape of dashed lines may
+be controlled through style parameters or optional arguments.
+The package is compatible with array and colortab.
+
+date 2007-04-06 182905 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>shared-desktop-ontologies-devel</b>'
+Comment='<span size="xx-large">Development files for shared-desktop-ontologies</span>'
+Comment3='
+The shared-desktop-ontologies-devel package contains libraries
+and header files for developing applications
+that use shared-desktop-ontologies.
+'
+License='(BSD or CC-BY) and CC-BY and W3C'
+Screenshot=''
+Url='http://oscaf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

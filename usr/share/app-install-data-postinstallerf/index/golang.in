@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>golang</b>'
+Comment='<span size="xx-large">The Go Programming Language</span>'
+Comment3='
+The Go Programming Language.
+'
+License='BSD'
+Screenshot=''
+Url='http://golang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

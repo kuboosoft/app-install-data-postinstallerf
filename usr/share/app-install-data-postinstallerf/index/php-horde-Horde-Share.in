@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Share</b>'
+Comment='<span size="xx-large">Horde Shared Permissions System</span>'
+Comment3='
+Horde_Share provides an interface to all shared resources a user
+owns or has access to.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

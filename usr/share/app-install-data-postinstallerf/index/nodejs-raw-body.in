@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-raw-body</b>'
+Comment='<span size="xx-large">Get and validate the raw body of a readable stream</span>'
+Comment3='
+This module gets the entire buffer of a stream either as a buffer or a string.
+It validates the streams length against an expected length and maximum limit.
+It is ideal for parsing request bodies.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/stream-utils/raw-body'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>antlr3-C-docs</b>'
+Comment='<span size="xx-large">API documentation for the C run-time support for ANTLR-generated parsers</span>'
+Comment3='
+This package contains doxygen documentation with instruction
+on how to use the C target in ANTLR and complete API description of the
+C run-time support for ANTLR-generated parsers.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.antlr.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

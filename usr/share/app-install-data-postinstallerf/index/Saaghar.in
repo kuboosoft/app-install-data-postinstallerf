@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>Saaghar</b>'
+Comment='<span size="xx-large">A Cross-Platform Persian Poetry Software</span>'
+Comment3='
+Saaghar is a cross-platform Persian poetry software. It uses
+http//ganjoor.net database. It has lots of features
+* Tabbed UI
+* Tabbed and dock-able search widgets
+* Print and Print Preview
+* Export, It supports exporting to "PDF", "HTML", "TeX", "CSV" and "TXT"
+* Copy and Multi-selection
+* Customisable interface
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/projects/saaghar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

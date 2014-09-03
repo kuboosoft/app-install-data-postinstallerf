@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ghost-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-ghost</span>'
+Comment3='
+Documentation for rubygem-ghost
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/bjeanes/ghost'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

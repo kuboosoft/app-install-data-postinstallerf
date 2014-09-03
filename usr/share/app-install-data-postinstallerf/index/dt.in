@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>dt</b>'
+Comment='<span size="xx-large">Generic data test program</span>'
+Comment3='
+dt is a generic data test program used to verify proper operation of
+peripherals, file systems, device drivers, or any data stream supported by the
+operating system. In its simplest mode of operation, dt writes and then
+verifies its default data pattern, then displays performance statistics and
+other test parameters before exiting. Since verification of data is performed,
+dt can be thought of as a generic diagnostic tool.
+
+dt command lines are similar to the dd program, which is popular on most UNIX
+systems. It contains numerous options to give the user control of various test
+parameters.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.scsifaq.org/RMiller_Tools/dt.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

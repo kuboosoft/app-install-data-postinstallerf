@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dhcping</b>'
+Comment='<span size="xx-large">DHCP daemon ping program</span>'
+Comment3='
+Dhcping allows the system administrator to check if a remote DHCP
+server is still functioning.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mavetju.org/unix/general.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

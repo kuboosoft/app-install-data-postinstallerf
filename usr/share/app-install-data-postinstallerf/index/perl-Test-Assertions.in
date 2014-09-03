@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Test-Assertions</b>'
+Comment='<span size="xx-large">Simple set of building blocks for both unit and runtime testing</span>'
+Comment3='
+TestAssertions provides a convenient set of tools for constructing tests,
+such as unit tests or run-time assertion checks (like Cs ASSERT macro).
+Unlike some of the Test modules available on CPAN, TestAssertions is
+not limited to unit test scripts; for example it can be used to check
+output is as expected within a benchmarking script. When it is used for
+unit tests, it generates output in the standard form for CPAN unit testing
+(under TestHarness).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Assertions/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

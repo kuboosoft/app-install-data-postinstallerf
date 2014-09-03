@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>source-highlight-qt</b>'
+Comment='<span size="xx-large">Library for performing syntax highlighting in Qt documents</span>'
+Comment3='
+Source-highlight-qt is a library for performing syntax highlighting in
+Qt documents by relying on GNU Source-Highlight library.
+
+Although the use of GNU Source-highlight library is pretty hidden by
+this library, so the programmer must not need the details of GNU
+Source-highlight library, yet, some general notions of GNU
+Source-highlight might be useful.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://srchiliteqt.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

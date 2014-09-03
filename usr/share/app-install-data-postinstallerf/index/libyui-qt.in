@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libyui-qt</b>'
+Comment='<span size="xx-large">Qt User Interface for libyui</span>'
+Comment3='
+This package contains the qt user interface component for libyui.
+
+URL          https//github.com/libyui/libyui-qt
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='https://github.com/libyui/libyui-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

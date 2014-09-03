@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>uqm</b>'
+Comment='<span size="xx-large">The Ur-Quan Masters, a port of the classic game Star Control II</span>'
+Comment3='
+The Ur-Quan Masters is a port of the classic game Star Control II to
+modern systems.  The program code that comprises The Ur-Quan Masters
+was derived from code written by Toys for Bob, Inc. for the 3DO
+version of Star Control II, with their permission and encouragement.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sc2.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

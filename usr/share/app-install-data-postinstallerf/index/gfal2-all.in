@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gfal2-all</b>'
+Comment='<span size="xx-large">Meta package for GFAL 2.0 install</span>'
+Comment3='
+Meta-package for complete install of GFAL 2.0
+with all the protocol plugins.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

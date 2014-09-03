@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rsyslog-hiredis</b>'
+Comment='<span size="xx-large">Redis support for rsyslog</span>'
+Comment3='
+This module provides output to Redis.
+'
+License='(GPLv3+ and ASL 2.0)'
+Screenshot=''
+Url='http://www.rsyslog.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

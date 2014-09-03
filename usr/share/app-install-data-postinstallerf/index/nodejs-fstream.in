@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nodejs-fstream</b>'
+Comment='<span size="xx-large">Advanced file system stream objects for Node.js</span>'
+Comment3='
+Provides advanced file system stream objects for Node.js.  These objects are
+like FS streams, but with stat on them, and support directories and
+symbolic links, as well as normal files.  Also, you can use them to set
+the stats on a file, even if you dont change its contents, or to create
+a symlink, etc.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/isaacs/fstream'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

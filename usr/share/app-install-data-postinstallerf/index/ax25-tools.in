@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ax25-tools</b>'
+Comment='<span size="xx-large">Tools used to configure an ax.25 enabled computer</span>'
+Comment3='
+ax25-tools is a collection of tools that are used to configure an ax.25 enabled
+computer. They will configure interfaces and assign callsigns to ports as well
+as Net/ROM and ROSE configuration.  This package only contains the command
+line programs; the GUI programs are contained in ax25-tools-x package.
+
+ * m6pack - handle multiple 6pack TNCs on a single interface
+ * ax25d - general purpose AX.25, NET/ROM and Rose daemon
+ * axctl - configure/Kill running AX.25 connections
+ * axparms - configure AX.25 interfaces
+ * axspawn - allow automatic login to a Linux system
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linux-ax25.org/wiki/LinuxAX25'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

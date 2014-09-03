@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sugar-flipsticks</b>'
+Comment='<span size="xx-large">A keyframe animation activity for Sugar</span>'
+Comment3='
+Flipsticks is a keyframe animation activity that lets you pose and program
+a stick figure to walk, run, rotate, twist, tumble and dance. You can save
+your animations to the journal and will soon be able to share them via the
+mesh. Flipsticks can be used to explore concepts in geometry, computer
+programming and animation; it helps develop spatial and analytical thinking
+skills.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Flip_Sticks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

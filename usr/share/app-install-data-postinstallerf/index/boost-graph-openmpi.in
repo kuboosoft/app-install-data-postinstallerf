@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>boost-graph-openmpi</b>'
+Comment='<span size="xx-large">Run-Time component of parallel boost graph library</span>'
+Comment3='
+
+Run-Time support for the Parallel BGL graph library.  The interface and
+graph components are generic, in the same sense as the the Standard
+Template Library (STL).  This libraries in this package use OpenMPI
+back-end to do the parallel work.
+'
+License='Boost and MIT and Python'
+Screenshot=''
+Url='http://www.boost.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

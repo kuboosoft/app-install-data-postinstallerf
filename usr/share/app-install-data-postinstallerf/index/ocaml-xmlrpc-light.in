@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ocaml-xmlrpc-light</b>'
+Comment='<span size="xx-large">OCaml library for writing XML-RPC clients and servers</span>'
+Comment3='
+XmlRpc-Light is an XmlRpc library written in OCaml.
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://code.google.com/p/xmlrpc-light/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

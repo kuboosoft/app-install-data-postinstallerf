@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-trollop</b>'
+Comment='<span size="xx-large">A command-line option parsing library for ruby</span>'
+Comment3='
+A command-line option parsing library for ruby. Trollop is designed to
+provide the maximal amount of GNU-style argument processing in the minimum
+number of lines of code (for you, the programmer).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://trollop.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

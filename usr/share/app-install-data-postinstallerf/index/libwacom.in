@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libwacom</b>'
+Comment='<span size="xx-large">Tablet Information Client Library</span>'
+Comment3='
+libwacom is a library that provides information about Wacom tablets and
+tools. This information can then be used by drivers or applications to tweak
+the UI or general settings to match the physical tablet.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://linuxwacom.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

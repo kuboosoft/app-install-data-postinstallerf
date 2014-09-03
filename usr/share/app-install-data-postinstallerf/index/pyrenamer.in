@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pyrenamer</b>'
+Comment='<span size="xx-large">A mass file renamer</span>'
+Comment3='
+With pyRenamer you can change the name of several files at the same time
+easily.
+ - You can use patterns to rename files.
+ - You can use search & replace to rename files.
+ - You can use common substitutions.
+ - You can manually rename selected files.
+ - You can rename images using their EXIF tags.
+ - You can rename MP3s using their ID3 tags.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.infinicode.org/code/pyrenamer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

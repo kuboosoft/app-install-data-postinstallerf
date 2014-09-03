@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aspell-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for Aspell development</span>'
+Comment3='
+The aspell-devel package includes libraries
+and header files needed for Aspell development.
+
+'
+License='LGPLv2+ and LGPLv2 and GPLv2+ and BSD'
+Screenshot=''
+Url='http://aspell.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

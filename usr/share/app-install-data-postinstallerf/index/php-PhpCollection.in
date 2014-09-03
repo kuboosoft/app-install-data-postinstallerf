@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-PhpCollection</b>'
+Comment='<span size="xx-large">General purpose collection library for PHP</span>'
+Comment3='
+This library adds basic collections for PHP.
+
+Collections can be seen as more specialized arrays for which certain contracts
+are guaranteed.
+Supported Collections
+* Sequences
+** Keys numerical, consequentially increasing, no gaps
+** Values anything, duplicates allowed
+** Classes Sequence, SortedSequence
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://jmsyst.com/libs/php-collection'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

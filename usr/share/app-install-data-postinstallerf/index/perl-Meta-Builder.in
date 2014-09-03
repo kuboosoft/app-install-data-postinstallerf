@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Meta-Builder</b>'
+Comment='<span size="xx-large">Tools for creating Meta objects to track custom metrics</span>'
+Comment3='
+Meta programming is becoming more and more popular. The popularity of Meta
+programming comes from the fact that many problems are made significantly
+easier. There are a few specialized Meta tools out there, for instance
+ClassMOP which is used by Moose to track class metadata.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Meta-Builder/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

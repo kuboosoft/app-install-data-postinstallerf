@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-tgext-crud</b>'
+Comment='<span size="xx-large">Crud Controller Extension for TG2</span>'
+Comment3='
+Crud Controller Extension for TG2
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/tgext.crud/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

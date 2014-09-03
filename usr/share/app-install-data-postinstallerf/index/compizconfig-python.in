@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>compizconfig-python</b>'
+Comment='<span size="xx-large">Python bindings for the Compiz Configuration System</span>'
+Comment3='
+The Compiz Project brings 3D desktop visual effects that improve
+usability of the X Window System and provide increased productivity
+though plugins and themes contributed by the community giving a
+rich desktop experience.
+
+This package contains bindings to configure Compizs
+plugins and the composite window manager.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.compiz.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

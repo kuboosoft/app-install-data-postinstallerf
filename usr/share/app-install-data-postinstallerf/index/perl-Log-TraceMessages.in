@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Log-TraceMessages</b>'
+Comment='<span size="xx-large">Perl extension for trace messages used in debugging</span>'
+Comment3='
+This module is a better way of putting hello there trace messages in
+your code.  It lets you turn tracing on and off without commenting out
+trace statements, and provides other useful things like HTML-ified
+trace messages for CGI scripts and an easy way to trace out data
+structures using DataDumper.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Log-TraceMessages/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

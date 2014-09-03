@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Test-Number-Delta</b>'
+Comment='<span size="xx-large">Compare the difference between numbers against a given tolerance</span>'
+Comment3='
+At some point or another, most programmers find they need to compare
+floating-point numbers for equality. The typical idiom is to test if
+the absolute value of the difference of the numbers is within a
+desired tolerance, usually called epsilon. This module provides such
+a function for use with TestHarness.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Number-Delta/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

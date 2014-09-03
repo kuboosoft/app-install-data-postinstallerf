@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n antimicro
+Type=Application
+Version=1.0
+Name=Antimicro
+Comment=Graphical program used to map keyboard keys and mouse controls to gamepad buttons
+Icon=/usr/share/app-install-data-postinstallerf/icons/antimicro.png
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;ArcadeGame

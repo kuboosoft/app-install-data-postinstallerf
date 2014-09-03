@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Browser</b>'
+Comment='<span size="xx-large">Horde Browser API</span>'
+Comment3='
+The Horde_Browser class provides an API for getting information about the
+current users browser and its capabilities.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libsndfile-devel</b>'
+Comment='<span size="xx-large">Development files for libsndfile</span>'
+Comment3='
+libsndfile is a C library for reading and writing sound files such as
+AIFF, AU, WAV, and others through one standard interface.
+This package contains files needed to develop with libsndfile.
+
+'
+License='LGPLv2+ and GPLv2+ and BSD'
+Screenshot=''
+Url='http://www.mega-nerd.com/libsndfile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eet-devel</b>'
+Comment='<span size="xx-large">Development files for eet</span>'
+Comment3='
+The eet-devel package contains libraries and header files for
+developing applications that use eet.
+
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://web.enlightenment.org/p.php?p=about/efl/eet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

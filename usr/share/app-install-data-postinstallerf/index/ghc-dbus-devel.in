@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-dbus-devel</b>'
+Comment='<span size="xx-large">Haskell dbus library development files</span>'
+Comment3='
+This package provides the development files for the Haskell dbus library.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/dbus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

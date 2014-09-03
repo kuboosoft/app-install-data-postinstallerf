@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netbsd-iscsi</b>'
+Comment='<span size="xx-large">User-space implementation of iSCSI target from NetBSD project</span>'
+Comment3='
+NetBSD iSCSI is an iSCSI target following the iSCSI RFC 3720.  It is based
+on the BSD-licensed Intel iSCSI reference model.  It has been tried and
+tested with the Microsoft iSCSI initiator, version 1.06.
+'
+License='BSD'
+Screenshot=''
+Url='http://NetBSD.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

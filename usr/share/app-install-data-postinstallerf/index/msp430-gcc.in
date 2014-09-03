@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>msp430-gcc</b>'
+Comment='<span size="xx-large">Cross Compiling GNU GCC targeted at msp430</span>'
+Comment3='
+This is a cross compiling version of GNU GCC, which can be used to
+compile for the msp430 platform, instead of for the native x86_64
+platform.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mspgcc.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

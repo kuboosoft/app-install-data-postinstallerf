@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>uuid-c++</b>'
+Comment='<span size="xx-large">C++ support for Universally Unique Identifier library</span>'
+Comment3='
+C++ libraries for OSSP uuid.
+
+URL          http//www.ossp.org/pkg/lib/uuid/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.ossp.org/pkg/lib/uuid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

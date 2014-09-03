@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>abrt-plugin-bodhi</b>'
+Comment='<span size="xx-large">abrts bodhi plugin</span>'
+Comment3='
+Search for a new updates in bodhi server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

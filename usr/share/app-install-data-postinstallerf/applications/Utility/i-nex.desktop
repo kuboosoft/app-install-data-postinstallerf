@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n i-nex
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
+Comment=System information tool like hardinfo, sysinfo
+Terminal=false
+Name=i-nex
+Categories=Qt;KDE;Utility;

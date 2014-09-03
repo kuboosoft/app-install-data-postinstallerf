@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-thmtools</b>'
+Comment='<span size="xx-large">Extensions to theorem environments</span>'
+Comment3='
+The bundle provides several packages for commonly-needed
+support for typesetting theorems. The packages should work with
+kernel theorems (theorems out of the box with LaTeX), and the
+theorem and amsthm packages. Features of the bundle include -
+a key-value interface to \newtheorem; - a \listoftheorems
+command; - hyperref and autoref compatibility; - a mechanism
+for restating entire theorems in a single macro call.
+
+date 2012-04-27 115713 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kimono-akonadi</b>'
+Comment='<span size="xx-large">Akonadi runtime support for kimono</span>'
+Comment3='
+Akonadi runtime support for kimono.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdebindings/csharp/kimono'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>suitesparse</b>'
+Comment='<span size="xx-large">A collection of sparse matrix libraries</span>'
+Comment3='
+suitesparse is a collection of libraries for computations involving sparse
+matrices.  The package includes the following libraries
+  AMD                 approximate minimum degree ordering
+  BTF                 permutation to block triangular form (beta)
+  CAMD                constrained approximate minimum degree ordering
+  COLAMD              column approximate minimum degree ordering
+  CCOLAMD             constrained column approximate minimum degree ordering
+  CHOLMOD             sparse Cholesky factorization
+  CSparse             a concise sparse matrix package
+  CXSparse            CSparse extended complex matrix, int and long int support
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.cise.ufl.edu/research/sparse/SuiteSparse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

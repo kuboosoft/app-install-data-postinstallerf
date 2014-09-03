@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dnssec-check</b>'
+Comment='<span size="xx-large">A tool to check DNSSEC capabilities of the local DNS resolvers</span>'
+Comment3='
+DNSSEC-Check provides a GUI mechansim for scanning the systems
+configured DNS resolvers to see if they support DNSSEC.  For each test
+the utility displays a graphical red/green light indicating the result
+of the test.  Clicking on a light will explain the status of the light
+and what was tested.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.dnssec-tools.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

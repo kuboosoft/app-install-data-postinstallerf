@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>m4ri</b>'
+Comment='<span size="xx-large">Linear Algebra over F_2</span>'
+Comment3='
+M4RI is a library for fast arithmetic with dense matrices over F_2.
+The name M4RI comes from the first implemented algorithm The "Method
+of the Four Russians" inversion algorithm published by Gregory Bard.
+M4RI is used by the Sage mathematics software and the PolyBoRi library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://m4ri.sagemath.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

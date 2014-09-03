@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gucharmap-devel</b>'
+Comment='<span size="xx-large">Libraries and headers for libgucharmap</span>'
+Comment3='
+The gucharmap-devel package contains header files and other resources
+needed to use the libgucharmap library.
+
+'
+License='GPLv3+ and GFDL and MIT'
+Screenshot=''
+Url='http://live.gnome.org/Gucharmap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-romannum</b>'
+Comment='<span size="xx-large">Generate roman numerals instead of arabic digits</span>'
+Comment3='
+The romannum package changes LaTeX generated numbers to be
+printed with roman numerals instead of arabic digits. It
+requires the stdclsdv package. Users of the bookhands fonts may
+find this package useful.
+
+date 2009-09-03 130014 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

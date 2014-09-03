@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>constant-pool-scanner</b>'
+Comment='<span size="xx-large">Java constant pool scanner</span>'
+Comment3='
+Simple utility to scan Java bytecode for class references in the constant pool.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='https://github.com/jenkinsci/constant-pool-scanner'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

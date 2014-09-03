@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-RPM-VersionCompare</b>'
+Comment='<span size="xx-large">Compare RPM version strings</span>'
+Comment3='
+This module provides functions to compare RPM version strings. No function
+is exported by default. If possible, calls are passed to native librpm
+library. Otherwise Python extension provided with RPM sources is re-
+-implemented.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://ppisar.fedorapeople.org/RPM-VersionCompare/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

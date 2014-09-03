@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cloud-init</b>'
+Comment='<span size="xx-large">Cloud instance init scripts</span>'
+Comment3='
+Cloud-init is a set of init scripts for cloud instances.  Cloud instances
+need special scripts to run during initialization to retrieve and install
+ssh keys and to let the user run various scripts.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://launchpad.net/cloud-init'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

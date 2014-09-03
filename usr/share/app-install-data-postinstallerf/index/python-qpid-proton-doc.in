@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-qpid-proton-doc</b>'
+Comment='<span size="xx-large">Documentation for the Python language bindings for Qpid Proton</span>'
+Comment3='
+Documentation for the Python language bindings for Qpid Proton.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org/proton/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

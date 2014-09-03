@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-hyphenat</b>'
+Comment='<span size="xx-large">Disable/enable hypenation</span>'
+Comment3='
+This package can disable all hyphenation or enable hyphenation
+of non-alphabetics or monospaced fonts. The package can also
+enable hyphenation within words that contain non-alphabetic
+characters (e.g., that include underscores), and hyphenation of
+text typeset in monospaced (e.g., cmtt) fonts.
+
+date 2009-09-02 180914 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

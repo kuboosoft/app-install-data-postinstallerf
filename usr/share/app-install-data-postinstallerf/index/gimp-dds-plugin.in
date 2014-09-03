@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gimp-dds-plugin</b>'
+Comment='<span size="xx-large">A plugin for GIMP allows you to load/save in the DDS format</span>'
+Comment3='
+This is a plugin for GIMP. It allows you to load and save images in the
+Direct Draw Surface (DDS) format.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/gimp-dds/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>root-unuran</b>'
+Comment='<span size="xx-large">Random number generator library</span>'
+Comment3='
+Contains universal (also called automatic or black-box) algorithms
+that can generate random numbers from large classes of continuous or
+discrete distributions, and also from practically all standard
+distributions.
+
+To generate random numbers the user must supply some information
+about the desired distribution, especially a C-function that computes
+the density and - depending on the chosen methods - some additional
+information (like the borders of the domain, the mode, the derivative
+of the density ...). After a user has given this information an
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

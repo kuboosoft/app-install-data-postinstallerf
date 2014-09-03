@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-startex</b>'
+Comment='<span size="xx-large">An XML-inspired format for student use</span>'
+Comment3='
+A TeX format designed to help students write short reports and
+essays. It provides the user with a suitable set of commands
+for such a task. It is also more robust than plain TeX and
+LaTeX.
+
+date 2008-12-31 205446 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

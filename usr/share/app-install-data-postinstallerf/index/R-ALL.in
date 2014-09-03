@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>R-ALL</b>'
+Comment='<span size="xx-large">Data of T- and B-cell Acute Lymphocytic Leukemia</span>'
+Comment3='
+Data of T- and B-cell Acute Lymphocytic Leukemia from the Ritz Laboratory
+at the DFCI (includes Apr 2004 versions)
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://www.bioconductor.org/packages/release/data/experiment/html/ALL.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>givaro-static</b>'
+Comment='<span size="xx-large">Files used for static linking with givaro</span>'
+Comment3='
+The static libraries for using givaro for development.
+
+URL          http//ljk.imag.fr/CASYS/LOGICIELS/givaro/
+'
+License='CeCILL-B'
+Screenshot=''
+Url='http://ljk.imag.fr/CASYS/LOGICIELS/givaro/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

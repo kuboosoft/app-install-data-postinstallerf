@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>f-spot-screensaver</b>'
+Comment='<span size="xx-large">F-Spot gnome-screensaver plugin</span>'
+Comment3='
+F-Spot provides a plugin for gnome-screensaver which displays parts of the
+photo collection in a slideshow as a screensaver.
+'
+License='GPLv2+ and LGPLv2 and MIT'
+Screenshot=''
+Url='http://f-spot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-versions</b>'
+Comment='<span size="xx-large">Optionally omit pieces of text</span>'
+Comment3='
+Stephan Bellantonis version has provided preamble commands for
+selecting environments to be included/excluded. This package
+does the same, but corrects, improves, and extends it in both
+implementation and function.
+
+date 2011-04-02 194046 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

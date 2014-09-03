@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sendmail-sysvinit</b>'
+Comment='<span size="xx-large">SysV initscript for sendmail</span>'
+Comment3='
+This package contains the SysV initscript.
+'
+License='Sendmail'
+Screenshot=''
+Url='http://www.sendmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

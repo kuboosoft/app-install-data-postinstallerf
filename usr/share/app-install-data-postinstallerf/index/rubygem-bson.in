@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-bson</b>'
+Comment='<span size="xx-large">Ruby implementation of BSON</span>'
+Comment3='
+A Ruby BSON implementation for MongoDB. For more information about Mongo, see
+http//www.mongodb.org. For more information on BSON, see
+http//www.bsonspec.org.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.mongodb.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

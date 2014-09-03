@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>findbugs-contrib-javadoc</b>'
+Comment='<span size="xx-large">Javadoc documentation for findbugs-contrib</span>'
+Comment3='
+Javadoc documentation for findbugs-contrib.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fb-contrib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

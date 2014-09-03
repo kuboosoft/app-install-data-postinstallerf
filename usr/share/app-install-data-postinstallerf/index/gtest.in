@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gtest</b>'
+Comment='<span size="xx-large">Google C++ testing framework</span>'
+Comment3='
+Googles framework for writing C++ tests on a variety of platforms
+(GNU/Linux, Mac OS X, Windows, Windows CE, and Symbian). Based on the
+xUnit architecture. Supports automatic test discovery, a rich set of
+assertions, user-defined assertions, death tests, fatal and non-fatal
+failures, various options for running the tests, and XML test report
+generation.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/googletest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>scummvm-tools</b>'
+Comment='<span size="xx-large">Tools for scummVM / S.C.U.M.M scripting language</span>'
+Comment3='
+This is a collection of various tools that may be useful to use in
+conjunction with ScummVM.
+Please note that although a tool may support a feature, certain ScummVM
+versions may not. ScummVM 0.6.x does not support FLAC audio, for example.
+
+Many games package together all their game data in a few big archive files.
+The following tools can be used to extract these archives, and in some cases
+are needed to make certain game versions usable with ScummVM.
+The following tools can also be used to analyze the game scripts
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://scummvm.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

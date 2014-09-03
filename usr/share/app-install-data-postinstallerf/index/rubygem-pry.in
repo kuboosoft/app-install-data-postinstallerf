@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-pry</b>'
+Comment='<span size="xx-large">An IRB alternative and runtime developer console</span>'
+Comment3='
+An IRB alternative and runtime developer console
+'
+License='MIT'
+Screenshot=''
+Url='http://pry.github.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

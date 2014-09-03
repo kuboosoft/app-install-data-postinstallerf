@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-jaxb-intros-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jboss-jaxb-intros</span>'
+Comment3='
+This package contains the API documentation for jboss-jaxb-intros.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/jbossws'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mspdebug</b>'
+Comment='<span size="xx-large">Debugger and gdb proxy for MSP430 MCUs</span>'
+Comment3='
+A a free debugger for use with MSP430 MCUs. It supports FET430UIF,
+eZ430, RF2500 and TI Chronos devices. It can be used as a proxy for
+gdb or as an independent debugger with support for programming,
+disassembly and reverse engineering.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mspdebug.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

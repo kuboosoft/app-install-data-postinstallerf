@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>clamz</b>'
+Comment='<span size="xx-large">Amazon Downloader</span>'
+Comment3='
+Clamz is a little command-line program to download MP3 files from
+Amazon.coms music store.  It is intended to serve as a substitute
+for Amazons official MP3 Downloader, which is not free software (and
+therefore is only available in binary form for a limited set of
+platforms.)  Clamz can be used to download either individual songs or
+complete albums that you have purchased from Amazon.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://clamz.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

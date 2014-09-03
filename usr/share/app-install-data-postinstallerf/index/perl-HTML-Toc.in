@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-HTML-Toc</b>'
+Comment='<span size="xx-large">Generate, insert and update HTML Table of Contents</span>'
+Comment3='
+Generate, insert and update HTML Table of Contents (ToC).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-Toc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

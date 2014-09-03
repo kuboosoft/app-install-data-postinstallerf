@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>wesnoth</b>'
+Comment='<span size="xx-large">Turn-based strategy game with a fantasy theme</span>'
+Comment3='
+The Battle for Wesnoth is a turn-based strategy game with a fantasy theme.
+
+Build up a great army, gradually turning raw recruits into hardened
+veterans. In later games, recall your toughest warriors and form a deadly
+host against whom none can stand. Choose units from a large pool of
+specialists, and hand-pick a force with the right strengths to fight well
+on different terrains against all manner of opposition.
+Fight to regain the throne of Wesnoth, of which you are the legitimate
+heir, or use your dread power over the Undead to dominate the land of
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.wesnoth.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-libidn</b>'
+Comment='<span size="xx-large">GNU Emacs libidn support files</span>'
+Comment3='
+This package includes libidn support files for GNU Emacs.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/libidn/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

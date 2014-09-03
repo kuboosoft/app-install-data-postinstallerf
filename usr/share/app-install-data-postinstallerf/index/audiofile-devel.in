@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>audiofile-devel</b>'
+Comment='<span size="xx-large">Development files for Audio File applications</span>'
+Comment3='
+The audiofile-devel package contains libraries, include files, and
+other resources you can use to develop Audio File applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://audiofile.68k.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

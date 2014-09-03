@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xpilot-ng-server</b>'
+Comment='<span size="xx-large">Server for hosting xpilot games</span>'
+Comment3='
+The xpilot server.  This allows you to host xpilot games on your
+computer and develop new xpilot maps.  This is required if you
+are playing alone, but not required if you are joining one of the
+public xpilot games hosted on the internet.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xpilot.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Dist-CheckConflicts</b>'
+Comment='<span size="xx-large">Declare version conflicts for your dist</span>'
+Comment3='
+One shortcoming of the CPAN clients that currently exist is that they have no
+way of specifying conflicting downstream dependencies of modules. This module
+attempts to work around this issue by allowing you to specify conflicting
+versions of modules separately, and deal with them after the module is done
+installing.
+
+For instance, say you have a module Foo, and some other module Bar uses Foo. If
+Foo were to change its API in a non-backwards-compatible way, this would cause
+Bar to break until it is updated to use the new API. Foo cant just depend on
+the fixed version of Bar, because this will cause a circular dependency
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Dist-CheckConflicts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

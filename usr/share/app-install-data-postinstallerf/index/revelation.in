@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>revelation</b>'
+Comment='<span size="xx-large">Password manager for GNOME 2</span>'
+Comment3='
+Revelation is a password manager. It organizes accounts in
+a tree structure, and stores them as AES-encrypted XML files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://revelation.olasagasti.info/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

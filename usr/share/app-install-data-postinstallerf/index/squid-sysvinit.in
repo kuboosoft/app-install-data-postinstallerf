@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>squid-sysvinit</b>'
+Comment='<span size="xx-large">SysV initscript for squid caching proxy</span>'
+Comment3='
+The squid-sysvinit contains SysV initscritps support.
+'
+License='GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)'
+Screenshot=''
+Url='http://www.squid-cache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

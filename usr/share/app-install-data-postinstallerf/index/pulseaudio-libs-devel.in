@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pulseaudio-libs-devel</b>'
+Comment='<span size="xx-large">Headers and libraries for PulseAudio client development</span>'
+Comment3='
+Headers and libraries for developing applications that can communicate with
+a PulseAudio sound server.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/PulseAudio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

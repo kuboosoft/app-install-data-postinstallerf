@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libguac-client-vnc</b>'
+Comment='<span size="xx-large">VNC support for guacd</span>'
+Comment3='
+libguac-client-vnc is a protocol support plugin for the Guacamole proxy (guacd)
+which provides support for VNC via the libvncclient library (part of
+libvncserver).
+
+'
+License='MPLv1.1 or GPLv2+'
+Screenshot=''
+Url='http://guac-dev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

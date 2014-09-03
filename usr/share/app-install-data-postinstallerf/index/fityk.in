@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fityk</b>'
+Comment='<span size="xx-large">Non-linear curve fitting and data analysis</span>'
+Comment3='
+Fityk is a program for nonlinear curve-fitting of analytical
+functions (especially peak-shaped) to data (usually experimental
+data). It can also be used for visualization of x-y data only.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fityk.nieto.pl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>uim-qt</b>'
+Comment='<span size="xx-large">Qt4 support for Uim</span>'
+Comment3='
+Uim is a multilingual input method library. Uim aims to
+provide secure and useful input methods for all
+languages.
+
+This package provides the Qt4 IM module and helper programs.
+'
+License='BSD and LGPLv2+ and (BSD or LGPLv2)'
+Screenshot=''
+Url='http://code.google.com/p/uim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

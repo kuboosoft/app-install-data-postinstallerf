@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-text-editor-devel</b>'
+Comment='<span size="xx-large">Support for developing plugins for the mate-text-editor text editor</span>'
+Comment3='
+Development files for mate-text-editor
+
+URL          http//mate-desktop.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>truezip-driver-tzp</b>'
+Comment='<span size="xx-large">TrueZip driver for ZIP.RAES (TZP) encrypted archives</span>'
+Comment3='
+The file system driver family for RAES encrypted ZIP alias
+ZIP.RAES alias TZP files.
+
+Add the JAR artifact of this module to the run time class path to
+make its file system drivers available for service location in the
+client API modules.
+'
+License='EPL'
+Screenshot=''
+Url='http://truezip.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

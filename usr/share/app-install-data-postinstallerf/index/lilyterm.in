@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>lilyterm</b>'
+Comment='<span size="xx-large">Light and easy to use X Terminal Emulator</span>'
+Comment3='
+LilyTerm is a light and easy to use libvte based X Terminal Emulator with a
+lot of features
+ * Supports multiple tabs, reorderable tabs and hides the tab tray when there
+   is only one tab
+ * Add, close, swith, move, rename tabs with function keys
+ * Disable/Enable function keys for temporary (use <Ctrl><`> by default).
+ * Shows the foreground running command on tab and/or window title.
+ * Change the font name, size, and window size with right click menu.
+ * User custom function keys (need to edit profile).
+ * Support for User/System profiles.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://lilyterm.luna.com.tw'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jbosgi-framework</b>'
+Comment='<span size="xx-large">JBoss OSGi Core Framework</span>'
+Comment3='
+This package contains the JBoss OSGi Core Framework.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

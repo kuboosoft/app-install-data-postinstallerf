@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qca-gnupg</b>'
+Comment3='
+This is a plugin to provide GnuPG capability to programs that use the Qt
+for several cryptographic algorithms to Qt programs.  This package only
+contains the GnuPG plugin.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://delta.affinix.com/qca/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

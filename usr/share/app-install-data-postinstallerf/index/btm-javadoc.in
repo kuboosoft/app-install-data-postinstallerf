@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>btm-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for btm</span>'
+Comment3='
+Javadoc for btm.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://bitronix.be'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

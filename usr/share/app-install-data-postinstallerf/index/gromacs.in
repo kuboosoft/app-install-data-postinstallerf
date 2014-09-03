@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gromacs</b>'
+Comment='<span size="xx-large">Fast, Free and Flexible Molecular Dynamics</span>'
+Comment3='
+GROMACS is a versatile and extremely well optimized package to perform
+molecular dynamics computer simulations and subsequent trajectory analysis.
+It is developed for biomolecules like proteins, but the extremely high
+performance means it is used also in several other field like polymer chemistry
+and solid state physics.
+
+This package provides single and double precision binaries.
+The documentation is in the package gromacs-common.
+mdrun has been compiled with thread parallellization, so it runs in parallel
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gromacs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

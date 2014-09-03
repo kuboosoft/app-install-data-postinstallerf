@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>js-uglify</b>'
+Comment='<span size="xx-large">JavaScript parser, mangler/compressor and beautifier toolkit - core library</span>'
+Comment3='
+JavaScript parser, mangler/compressor and beautifier toolkit.
+
+This package ships a JavaScript library suitable for use by any JavaScript
+runtime.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/mishoo/UglifyJS2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

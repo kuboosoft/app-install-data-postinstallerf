@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-shell-theme-selene</b>'
+Comment='<span size="xx-large">The Selene gnome-shell theme</span>'
+Comment3='
+Selene is an "almost dark" theme based on elementary GTK theme,
+inspired by the old Atolm GTK2 theme.
+'
+License='GPLv3 and LGPLv2.1'
+Screenshot=''
+Url='https://launchpad.net/~tista/+archive/selene'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

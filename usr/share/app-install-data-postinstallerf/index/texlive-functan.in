@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-functan</b>'
+Comment='<span size="xx-large">Macros for functional analysis and PDE theory</span>'
+Comment3='
+This package provides a convenient and coherent way to deal
+with name of functional spaces (mainly Sobolev spaces) in
+functional analysis and PDE theory. It also provides a set of
+macros for dealing with norms, scalar products and convergence
+with some object oriented flavor (it gives the possibility to
+override the standard behavior of norms, ...).
+
+date 2007-01-07 114719 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

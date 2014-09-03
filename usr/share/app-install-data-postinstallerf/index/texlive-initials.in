@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-initials</b>'
+Comment='<span size="xx-large">Adobe Type 1 decorative initial fonts</span>'
+Comment3='
+For each font, at least an .pfb and .tfm file is provided, with
+a .fd file for use with LaTeX.
+
+date 2008-08-19 233224 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

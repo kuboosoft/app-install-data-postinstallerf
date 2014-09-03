@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>emacs-auctex</b>'
+Comment='<span size="xx-large">Enhanced TeX modes for Emacs</span>'
+Comment3='
+AUCTeX is an extensible package that supports writing and formatting
+TeX files for most variants of Emacs.
+
+AUCTeX supports many different TeX macro packages, including AMS-TeX,
+LaTeX, Texinfo and basic support for ConTeXt.  Documentation can be
+found under /usr/share/doc, e.g. the reference card (tex-ref.pdf) and
+the FAQ. The AUCTeX manual is available in Emacs info (C-h i d m
+AUCTeX RET). On the AUCTeX home page, we provide manuals in various
+formats.
+'
+License='GPLv3+ and GFDL'
+Screenshot=''
+Url='http://www.gnu.org/software/auctex/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

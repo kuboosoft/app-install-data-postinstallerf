@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wxmacmolplt</b>'
+Comment='<span size="xx-large">A graphics program for plotting 3-D molecular structures and normal modes</span>'
+Comment3='
+MacMolPlt is
+* A modern graphics program for plotting 3-D molecular structures and
+  normal modes (vibrations). Modern means
+  o Mouse driven interface for real-time rotation and translation.
+  o copy and paste functionality for interfacing to other programs such
+    as word processors or other graphics programs (like ChemDraw).
+  o simple printing to color or black and white printers (publication
+    quality).
+  o multiple files open at once.
+* It reads a variety of file formats including any GAMESS input, log or
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.scl.ameslab.gov/~brett/MacMolPlt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

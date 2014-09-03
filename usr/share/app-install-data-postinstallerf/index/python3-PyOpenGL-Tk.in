@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-PyOpenGL-Tk</b>'
+Comment='<span size="xx-large">PyOpenGL Python 3.x Tk widget</span>'
+Comment3='
+PyOpenGL Togl (Tk OpenGL widget) 1.6 support for Python 3.x.
+'
+License='BSD'
+Screenshot=''
+Url='http://pyopengl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

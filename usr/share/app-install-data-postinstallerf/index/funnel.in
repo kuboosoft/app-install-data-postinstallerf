@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>funnel</b>'
+Comment='<span size="xx-large">Handling submissions of talks and voting</span>'
+Comment3='
+The funnel is a space for proposals and voting on events.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/hasgeek/funnel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

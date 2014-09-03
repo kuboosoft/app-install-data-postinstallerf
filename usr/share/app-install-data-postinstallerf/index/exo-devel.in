@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>exo-devel</b>'
+Comment='<span size="xx-large">Development tools for exo library</span>'
+Comment3='
+Development tools and static libraries and header files for the exo library.
+
+URL          http//xfce.org/
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

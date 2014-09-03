@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Devel-Cycle</b>'
+Comment='<span size="xx-large">Find memory cycles in objects</span>'
+Comment3='
+This is a simple developers tool for finding circular references in
+objects and other types of references. Because of Perls reference-count
+based memory management, circular references will cause memory leaks.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Cycle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

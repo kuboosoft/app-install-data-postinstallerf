@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfce4-genmon-plugin</b>'
+Comment='<span size="xx-large">Generic monitor plugin for the Xfce panel</span>'
+Comment3='
+The GenMon plugin cyclically spawns the indicated script/program,
+captures its output and displays it as a string into the panel.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-genmon-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

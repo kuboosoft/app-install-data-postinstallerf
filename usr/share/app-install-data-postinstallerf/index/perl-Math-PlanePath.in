@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Math-PlanePath</b>'
+Comment='<span size="xx-large">Mathematical paths through the 2-D plane</span>'
+Comment3='
+This spot of Perl code calculates various mathematical paths through a 2-D X,Y
+plane. Theres no drawing in Math-PlanePath, just coordinate calculations.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://user42.tuxfamily.org/math-planepath/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

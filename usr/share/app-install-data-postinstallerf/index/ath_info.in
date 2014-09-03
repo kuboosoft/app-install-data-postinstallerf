@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ath_info</b>'
+Comment='<span size="xx-large">Tool to get detailed information from Atheros WLAN cards</span>'
+Comment3='
+ath_info prints some version information of Atheros WLAN modules. It
+furthermore allows to change regulatory domain and PCI ID fields in the EEPROM.
+Since the output of lspci and dmesg is not always sufficient to correctly
+identify chipset versions, it is useful to attach ath_info output to bug
+reports for the ath5k driver.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://madwifi-project.org/wiki/UserDocs/AthInfo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

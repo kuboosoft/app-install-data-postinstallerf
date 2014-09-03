@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>pgRouting</b>'
+Comment='<span size="xx-large">Provides routing functionality to PostGIS/PostgreSQL</span>'
+Comment3='
+pgRouting extends the PostGIS / PostgreSQL geospatial database to provide
+geospatial routing functionality.
+
+It provides functions for
+- Shortest Path Dijkstra routing algorithm without heuristics
+- Shortest Path A-Star routing for large datasets (with heuristics)
+- Shortest Path Shooting-Star routing with turn restrictions (with heuristics)
+'
+License='GPLv2+ and Boost'
+Screenshot=''
+Url='http://pgrouting.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

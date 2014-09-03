@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-pure</b>'
+Comment='<span size="xx-large">Pure mode for Emacs</span>'
+Comment3='
+An Emacs mode for editing Pure source code.
+'
+License='LGPLv3+ with exceptions'
+Screenshot=''
+Url='http://purelang.bitbucket.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

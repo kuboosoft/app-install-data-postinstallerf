@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-GD-SVG</b>'
+Comment='<span size="xx-large">GD::SVG enables SVG output from scripts written using GD</span>'
+Comment3='
+GDSVG seamlessly enables the scalable vector graphics (SVG) output
+from scripts written using GD.  It accomplishes this by translating GD
+functions into SVG functions.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/GD-SVG/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

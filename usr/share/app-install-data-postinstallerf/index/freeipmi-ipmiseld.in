@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freeipmi-ipmiseld</b>'
+Comment='<span size="xx-large">IPMI SEL syslog logging daemon</span>'
+Comment3='
+IPMI SEL syslog logging daemon.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/freeipmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

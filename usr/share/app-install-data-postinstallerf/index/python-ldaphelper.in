@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-ldaphelper</b>'
+Comment='<span size="xx-large">A python wrapper for LDAP search results</span>'
+Comment3='
+A wrapper for search results from python-ldap, which introduces an
+LDAPSearchResults class, with various methods to make use of the
+data.
+'
+License='MIT or GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/ldaphelper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

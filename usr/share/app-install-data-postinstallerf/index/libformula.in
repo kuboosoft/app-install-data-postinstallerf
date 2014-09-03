@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libformula</b>'
+Comment='<span size="xx-large">Formula Parser</span>'
+Comment3='
+LibFormula provides Excel-Style-Expressions. The implementation provided
+here is very generic and can be used in any application that needs to
+compute formulas.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://reporting.pentaho.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

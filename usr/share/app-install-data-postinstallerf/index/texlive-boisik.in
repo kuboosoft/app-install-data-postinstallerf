@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-boisik</b>'
+Comment='<span size="xx-large">A font inspired by Baskerville design</span>'
+Comment3='
+Boisik is a serif font (inspired by the Baskerville typeface),
+written in MetaFont. It comprises roman and italic text fonts
+and maths fonts. LaTeX support is offered for use with OT1, IL2
+and OM* encodings.
+
+date 2009-08-23 182920 +0200
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

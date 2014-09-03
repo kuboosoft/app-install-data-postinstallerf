@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>os-apply-config</b>'
+Comment='<span size="xx-large">Configure files from cloud metadata</span>'
+Comment3='
+Tool to apply openstack heat metadata to files on the system.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/os-apply-config'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

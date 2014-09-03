@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-gudev</b>'
+Comment='<span size="xx-large">Python (PyGObject) bindings to the GUDev library</span>'
+Comment3='
+python-gudev is a Python (PyGObject) binding to the GUDev UDEV library.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://github.com/nzjrs/python-gudev'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

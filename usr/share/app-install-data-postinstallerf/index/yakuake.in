@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>yakuake</b>'
+Comment='<span size="xx-large">A drop-down terminal emulator</span>'
+Comment3='
+Yakuake is a drop-down terminal emulator.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://yakuake.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

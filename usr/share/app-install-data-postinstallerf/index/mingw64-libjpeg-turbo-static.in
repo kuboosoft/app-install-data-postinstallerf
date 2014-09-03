@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-libjpeg-turbo-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows Libjpeg-turbo library</span>'
+Comment3='
+Static version of the MinGW Windows cross compiled Libjpeg-turbo library.
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://libjpeg-turbo.virtualgl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

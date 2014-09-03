@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-ntplib</b>'
+Comment='<span size="xx-large">Python module that offers a simple interface to query NTP servers</span>'
+Comment3='
+The ntplib is a python module that offers a simple interface to query NTP
+servers. It also provides utility functions to translate NTP fields values to
+text (mode, leap indicator...). Since its pure Python, and only depends on core
+modules, it should work on any platform with a Python implementation.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/ntplib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

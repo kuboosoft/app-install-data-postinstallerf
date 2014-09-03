@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>xbae</b>'
+Comment='<span size="xx-large">Motif matrix, caption and text input widgets</span>'
+Comment3='
+XbaeMatrix is a free Motif(R) table widget (also compatible with the free
+LessTif) which presents an editable array of string data to the user in a
+scrollable table similar to a spreadsheet. The rows and columns of the Matrix
+may optionally be labelled. A number of "fixed" and "trailing fixed" rows
+or columns may be specified.
+
+The XbaeCaption widget is a simple Motif manager widget that associates
+a label with a child.
+In addition the XbaeInput widget is being distributed, a text input field
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://xbae.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

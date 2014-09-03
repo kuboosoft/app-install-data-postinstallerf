@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-afm</b>'
+Comment='<span size="xx-large">Reading Adobe Font Metrics (afm) files</span>'
+Comment3='
+A simple library to read afm files and use the data conveniently.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/halfbyte/afm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

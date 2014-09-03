@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-linux-procfs</b>'
+Comment='<span size="xx-large">Linux /proc abstraction classes</span>'
+Comment3='
+Abstractions to extract information from the Linux kernel /proc files.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://userweb.kernel.org/~acme/python-linux-procfs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

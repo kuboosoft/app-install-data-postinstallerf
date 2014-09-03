@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libspectre</b>'
+Comment='<span size="xx-large">A library for rendering PostScript(TM) documents</span>'
+Comment3='
+libspectre is a small library for rendering PostScript(TM) documents.
+It provides a convenient easy to use API for handling and rendering
+PostScript documents.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libspectre.freedesktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

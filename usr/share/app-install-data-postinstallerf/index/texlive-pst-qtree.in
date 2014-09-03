@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-pst-qtree</b>'
+Comment='<span size="xx-large">Simple syntax for trees</span>'
+Comment3='
+The package provides a qtree-like front end for PSTricks.
+
+date 2009-09-20 130355 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

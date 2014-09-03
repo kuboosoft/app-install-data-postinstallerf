@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-m-tx</b>'
+Comment='<span size="xx-large">A preprocessor for pmx</span>'
+Comment3='
+M-Tx is a preprocessor to pmx, which is itself a preprocessor
+to musixtex, a music typesetting system. The prime motivation
+to the development of M-Tx was to provide lyrics for music to
+be typeset. In fact, pmx now provides a lyrics interface, but
+M-Tx continues in use by those who prefer its language.
+
+date 2013-12-13 001851 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

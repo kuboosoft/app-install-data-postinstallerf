@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-skeycommand</b>'
+Comment='<span size="xx-large">Create commands using parameters and keyval in parallel</span>'
+Comment3='
+The package provides tools for defining LaTeX commands and
+environments using combinations of parameters and keys. All the
+facilities of the ltxkeys and skeyval packages are available to
+the user of skeycommand.
+
+date 2011-11-20 114303 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

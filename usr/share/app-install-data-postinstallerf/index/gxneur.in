@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gxneur</b>'
+Comment='<span size="xx-large">GTK front-end for X Neural Switcher (xneur)</span>'
+Comment3='
+GTK front-end for X Neural Switcher (xneur).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xneur.ru'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

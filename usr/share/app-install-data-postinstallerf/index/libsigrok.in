@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libsigrok</b>'
+Comment='<span size="xx-large">Basic hardware access drivers for logic analyzers</span>'
+Comment3='
+libsigrok is a shared library written in C which provides the basic API
+for talking to hardware and reading/writing the acquired data into various
+input/output file formats.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.sigrok.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

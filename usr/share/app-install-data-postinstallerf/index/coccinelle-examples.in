@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>coccinelle-examples</b>'
+Comment='<span size="xx-large">Examples for coccinelle</span>'
+Comment3='
+The coccinelle-examples package contains examples for coccinelle.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://coccinelle.lip6.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

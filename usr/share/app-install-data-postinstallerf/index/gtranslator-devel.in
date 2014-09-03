@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtranslator-devel</b>'
+Comment='<span size="xx-large">Development files for gtranslator</span>'
+Comment3='
+The gtranslator-devel package contains libraries and header files for
+developing applications that use gtranslator.
+
+'
+License='GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://projects.gnome.org/gtranslator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

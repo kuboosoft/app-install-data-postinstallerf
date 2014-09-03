@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-plot</b>'
+Comment='<span size="xx-large">Plot data using PSTricks</span>'
+Comment3='
+The package provides plotting of data (typically from external
+files), using PSTricks. Plots may be configured using a wide
+variety of parameters.
+
+date 2013-12-05 171703 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

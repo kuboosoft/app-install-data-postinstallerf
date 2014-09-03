@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hplip-libs</b>'
+Comment='<span size="xx-large">HPLIP libraries</span>'
+Comment3='
+Libraries needed by HPLIP.
+
+URL          http//hplip.sourceforge.net/
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://hplip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

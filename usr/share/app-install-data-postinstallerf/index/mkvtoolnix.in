@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mkvtoolnix</b>'
+Comment='<span size="xx-large">Matroska container manipulation utilities</span>'
+Comment3='
+Mkvtoolnix is a set of utilities to mux and demux audio, video and subtitle
+streams into and from Matroska containers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bunkus.org/videotools/mkvtoolnix/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

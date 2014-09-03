@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>derelict-freeglut-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for freeglut</span>'
+Comment3='
+Header files and libraries for freeglut to use in D programming language.
+
+URL          http//www.dsource.org/projects/
+'
+License='Boost'
+Screenshot=''
+Url='http://www.dsource.org/projects/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

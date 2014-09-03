@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Kwiki-Revisions</b>'
+Comment='<span size="xx-large">Kwiki Revisions Plugin</span>'
+Comment3='
+Kwiki Revisions plugin.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Kwiki-Revisions/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

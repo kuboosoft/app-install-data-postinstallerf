@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>minlog-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for minlog</span>'
+Comment3='
+This package contains javadoc for minlog.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/minlog/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

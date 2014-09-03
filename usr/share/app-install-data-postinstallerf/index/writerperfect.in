@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>writerperfect</b>'
+Comment='<span size="xx-large">Tools to transform various file formats into ODF</span>'
+Comment3='
+Tools to transform various file formats into ODF.
+'
+License='(MPLv2.0 or LGPLv2+) and BSD'
+Screenshot=''
+Url='http://libwpd.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

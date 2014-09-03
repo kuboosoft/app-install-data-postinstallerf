@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>desktop-backgrounds-basic</b>'
+Comment='<span size="xx-large">Desktop backgrounds</span>'
+Comment3='
+The desktop-backgrounds-basic package contains artwork intended to be used as
+desktop background image.
+'
+License='LGPLv2'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>glusterfs-cli</b>'
+Comment='<span size="xx-large">GlusterFS CLI</span>'
+Comment3='
+GlusterFS is a clustered file-system capable of scaling to several
+petabytes. It aggregates various storage bricks over Infiniband RDMA
+or TCP/IP interconnect into one large parallel network file
+system. GlusterFS is one of the most sophisticated file systems in
+terms of features and extensibility.  It borrows a powerful concept
+called Translators from GNU Hurd kernel. Much of the code in GlusterFS
+is in user space and easily manageable.
+
+This package provides the GlusterFS CLI application and its man page
+'
+License='GPLv2 or LGPLv3+'
+Screenshot=''
+Url='http://www.gluster.org/docs/index.php/GlusterFS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

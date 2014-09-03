@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Net-Telnet</b>'
+Comment='<span size="xx-large">Net-Telnet Perl module</span>'
+Comment3='
+NetTelnet allows you to make client connections to a TCP port and do
+network I/O, especially to a port using the TELNET protocol. Simple I/O
+methods such as print, get, and getline are provided. More sophisticated
+interactive features are provided because connecting to a TELNET port
+ultimately means communicating with a program designed for human interaction.
+These interactive features include the ability to specify a time-out and to
+wait for patterns to appear in the input stream, such as the prompt from a
+shell.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-Telnet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

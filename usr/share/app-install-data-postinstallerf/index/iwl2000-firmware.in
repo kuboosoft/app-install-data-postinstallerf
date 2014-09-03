@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>iwl2000-firmware</b>'
+Comment='<span size="xx-large">Firmware for Intel(R) Centrino Wireless-N 2000 Series Adapters</span>'
+Comment3='
+This package contains the firmware required by the Intel wireless drivers
+for Linux to support the iwl2000 hardware.  Usage of the firmware
+is subject to the terms and conditions contained inside the provided
+LICENSE file. Please read it carefully.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

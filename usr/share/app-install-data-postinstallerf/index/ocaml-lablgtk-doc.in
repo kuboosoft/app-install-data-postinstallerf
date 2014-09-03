@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ocaml-lablgtk-doc</b>'
+Comment='<span size="xx-large">Documentation for LablGTK</span>'
+Comment3='
+Documentation for ocaml-lablgtk.
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://lablgtk.forge.ocamlcore.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

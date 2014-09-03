@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ulogd-libdbi</b>'
+Comment='<span size="xx-large">Libdbi framework output plugin for ulogd</span>'
+Comment3='
+ulogd-libdbi is a libdbi output plugin for ulogd. It enables logging of
+firewall information through a libdbi interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.netfilter.org/projects/ulogd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

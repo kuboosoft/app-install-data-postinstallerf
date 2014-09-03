@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openav-luppp</b>'
+Comment='<span size="xx-large">Live performance mixing tool</span>'
+Comment3='
+Luppp is a music creation tool, intended for live use. It focuses on
+real time processing and a fast intuitive workflow. It uses Jack
+for audio output.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://openavproductions.com/Luppp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-File-Find-Object-Rule</b>'
+Comment='<span size="xx-large">Alternative interface to File::Find::Object</span>'
+Comment3='
+FileFindObjectRule is a friendlier interface to FileFindObject. It
+allows you to build rules which specify the desired files and directories.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Find-Object-Rule/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

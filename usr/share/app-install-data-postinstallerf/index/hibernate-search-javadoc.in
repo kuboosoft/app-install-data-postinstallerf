@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hibernate-search-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for hibernate-search</span>'
+Comment3='
+This package contains the API documentation for hibernate-search.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.hibernate.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hyphen-devel</b>'
+Comment='<span size="xx-large">Files for developing with hyphen</span>'
+Comment3='
+Includes and definitions for developing with hyphen
+
+URL          http//hunspell.sf.net
+'
+License='GPLv2 or LGPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://hunspell.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

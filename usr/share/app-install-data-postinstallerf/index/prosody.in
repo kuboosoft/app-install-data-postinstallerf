@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>prosody</b>'
+Comment='<span size="xx-large">Flexible communications server for Jabber/XMPP</span>'
+Comment3='
+Prosody is a flexible communications server for Jabber/XMPP  written in Lua.
+It aims to be easy to use, and light on resources. For developers it aims
+to be easy to extend and give a flexible system on which to rapidly
+develop added functionality, or prototype new protocols.
+'
+License='MIT'
+Screenshot=''
+Url='http://prosody.im/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

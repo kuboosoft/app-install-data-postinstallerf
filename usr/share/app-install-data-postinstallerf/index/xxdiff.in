@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xxdiff</b>'
+Comment='<span size="xx-large">Graphical file and directories comparator and merge tool</span>'
+Comment3='
+xxdiff is a graphical browser for viewing the differences between two or three
+files, or between two directories, and can be used to produce a merged version.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://furius.ca/xxdiff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>condor-wallaby-tools</b>'
+Comment='<span size="xx-large">Wallaby configuration tools for configuring condor</span>'
+Comment3='
+This package provides a means to quickly and easily configure machines
+running Condor by providing tools to define configurations in wallaby and
+apply them to nodes.
+
+This package provides tools to apply configurations to nodes/groups and
+to configure entities in wallaby
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/grid/configuration-tools.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

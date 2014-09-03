@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mona</b>'
+Comment='<span size="xx-large">A decision procedure for the WS1S and WS2S logics</span>'
+Comment3='
+MONA is a tool that translates formulas in the logics WS1S or WS2S into
+finite-state automata represented by BDDs.  The formulas may express search
+patterns, temporal properties of reactive systems, parse tree constraints,
+etc.  MONA also analyses the automaton resulting from the compilation, and
+determines whether the formula is valid and, if the formula is not valid,
+generates a counterexample.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.brics.dk/mona/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

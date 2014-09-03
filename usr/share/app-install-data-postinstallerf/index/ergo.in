@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ergo</b>'
+Comment='<span size="xx-large">A program for large-scale self-consistent field calculations</span>'
+Comment3='
+Ergo is a quantum chemistry program for large-scale self-consistent
+field calculations.
+
+Key features of the Ergo program
+* Performs electronic structure calculations using Hartree-Fock and
+  Kohn-Sham density functional theory.
+* Uses Gaussian basis sets.
+* Both core and valence electrons are included in the calculations.
+* Both restricted and unrestricted models are implemented for energy
+  calculations.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.ergoscf.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-metadata</b>'
+Comment='<span size="xx-large">JBoss Metadata</span>'
+Comment3='
+This package contains JBoss Metadata for WildFly.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/jboss/metadata'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

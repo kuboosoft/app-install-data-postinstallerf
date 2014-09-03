@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-newvbtm</b>'
+Comment='<span size="xx-large">Define your own verbatim-like environment</span>'
+Comment3='
+Defines general purpose macro named \newverbatim to define your
+own verbatim-like environment. It also has a supplementary
+style file varvbtm.sty to provide set of macros for variants of
+verbatim, such as tab emulation.
+
+date 2011-09-17 105819 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

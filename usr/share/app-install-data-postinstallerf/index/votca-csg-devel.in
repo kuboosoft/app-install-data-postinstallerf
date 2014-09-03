@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>votca-csg-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for VOTCA coarse-graining Engine</span>'
+Comment3='
+Versatile Object-oriented Toolkit for Coarse-graining Applications (VOTCA) is
+a package intended to reduce the amount of routine work when doing systematic
+coarse-graining of various systems. The core is written in C++.
+
+This package contains development headers and libraries for the VOTCA
+coarse-graining engine.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.votca.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

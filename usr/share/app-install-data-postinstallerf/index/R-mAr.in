@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>R-mAr</b>'
+Comment='<span size="xx-large">R module to evaluate functions for multivariate AutoRegressive analysis</span>'
+Comment3='
+R package
+An R add-on package for estimation of multivariate AR models through a
+computationally-efficient stepwise least-squares algorithm (Neumaier
+and Schneider, 2001); the procedure is of particular interest for
+high-dimensional data without missing values such as geophysical
+fields.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/mAr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

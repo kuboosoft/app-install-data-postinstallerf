@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>konqueror-libs</b>'
+Comment='<span size="xx-large">Konqueror runtime libraries</span>'
+Comment3='
+Konqueror runtime libraries.
+
+URL          https//projects.kde.org/projects/kde/kde-baseapps
+'
+License='GPLv2 and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-baseapps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-equalizer-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-equalizer</span>'
+Comment3='
+Documentation for rubygem-equalizer
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/dkubb/equalizer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

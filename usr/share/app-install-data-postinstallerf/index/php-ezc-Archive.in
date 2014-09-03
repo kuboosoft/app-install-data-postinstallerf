@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-ezc-Archive</b>'
+Comment='<span size="xx-large">A component for create, modify, and extract archive files of various formats</span>'
+Comment3='
+The Archive component provides a generic API for creating and extracting
+archives. Currently, the Archive component supports the Tar and Zip formats.
+Compression algorithms, such as GZip or BZip2, are indirectly supported. The
+stream wrappers from PHP should be used to handle compressed archives.
+'
+License='BSD'
+Screenshot=''
+Url='http://ezcomponents.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>imagefactory-plugins</b>'
+Comment='<span size="xx-large">Default plugins for the Image Factory system image generation tool</span>'
+Comment3='
+This is a placeholder top level package for a collection of plugins for the
+Image Factory cloud system image generation tool.
+
+imagefactory allows the creation of system images for multiple virtualization
+and cloud providers from a single template definition. See
+http//aeolusproject.org/projects/imagefactory for more information.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.aeolusproject.org/imagefactory.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

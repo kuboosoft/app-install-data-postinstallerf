@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cups-devel</b>'
+Comment='<span size="xx-large">CUPS printing system - development environment</span>'
+Comment3='
+CUPS printing system provides a portable printing layer for
+UNIX? operating systems. This is the development package for creating
+additional printer drivers, and other CUPS services.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.cups.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qmmp-plugins-freeworld</b>'
+Comment='<span size="xx-large">Plugins for qmmp (Qt-based multimedia player)</span>'
+Comment3='
+Qmmp is an audio-player, written with help of Qt library.
+This package contains plugins needed to play AAC, MPEG (.mp3) and WMA files,
+and also the mplayer plugin for video playback.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qmmp.ylsoftware.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

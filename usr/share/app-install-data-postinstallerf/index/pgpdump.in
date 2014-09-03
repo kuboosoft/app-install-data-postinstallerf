@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pgpdump</b>'
+Comment='<span size="xx-large">PGP packet visualizer</span>'
+Comment3='
+pgpdump is a PGP packet visualizer which displays the packet format of
+OpenPGP (RFC 4880) and PGP version 2 (RFC 1991).
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mew.org/~kazu/proj/pgpdump/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

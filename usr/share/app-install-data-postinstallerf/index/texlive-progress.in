@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-progress</b>'
+Comment='<span size="xx-large">Creates an overview of a documents state</span>'
+Comment3='
+Progress is a package which. when compiling TeX and LaTeX
+documents, generates a HTML file showing an overview of a
+documents state (of how finished it is). The report is sent to
+file \ProgressReportName, which is by default the \jobname with
+the date appended (but is user-modifiable).
+
+date 2007-01-06 211004 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

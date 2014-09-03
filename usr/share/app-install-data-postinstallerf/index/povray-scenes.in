@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>povray-scenes</b>'
+Comment='<span size="xx-large">POV-Ray example scenes</span>'
+Comment3='
+POV-Ray example scenes.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://povray.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

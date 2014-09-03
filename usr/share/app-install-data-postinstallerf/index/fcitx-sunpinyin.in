@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fcitx-sunpinyin</b>'
+Comment='<span size="xx-large">Sunpinyin Wrapper for Fcitx</span>'
+Comment3='
+Fcitx-sunpinyin is a Sunpinyin Wrapper for Fcitx.
+
+SunPinyin is an SLM (Statistical Language Model) based input method
+engine. To model the Chinese language, it use a backoff bigram and
+trigram language model.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fcitx-im.org/wiki/Fcitx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

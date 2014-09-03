@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gtkglarea2-devel</b>'
+Comment='<span size="xx-large">Development package for gtkglarea2</span>'
+Comment3='
+GtkGLArea is a GTK widget that makes it easy to use OpenGL or Mesa
+from your GTK programs.
+This package contains header files and libraries for GtkGLArea
+software development.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ftp.gnome.org/pub/gnome/sources/gtkglarea/2.0/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

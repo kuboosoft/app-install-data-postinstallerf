@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libvirt-sandbox</b>'
+Comment='<span size="xx-large">libvirt application sandbox framework</span>'
+Comment3='
+This package provides a command for running applications within
+a sandbox using libvirt.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gambas3-ide</b>'
+Comment='<span size="xx-large">The complete Gambas3 Development Environment</span>'
+Comment3='
+This package includes the complete Gambas3 Development Environment and the
+database manager. Installing this package will give you all of the Gambas3
+components.
+'
+License='GPL+'
+Screenshot=''
+Url='http://gambas.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

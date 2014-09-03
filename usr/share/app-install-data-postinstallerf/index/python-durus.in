@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-durus</b>'
+Comment='<span size="xx-large">A Python Object Database</span>'
+Comment3='
+Durus is a persistent object system for applications written in the Python
+programming language. It offers an easy way to use and maintain a consistent
+collection of object instances used by one or more processes. Access and change
+of a persistent instances is managed through a cached Connection instance which
+includes commit() and abort() methods so that changes are transactional.
+Durus is best suited to collections of less than a million instances with
+relatively stable state.
+'
+License='CNRI'
+Screenshot=''
+Url='http://www.mems-exchange.org/software/durus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

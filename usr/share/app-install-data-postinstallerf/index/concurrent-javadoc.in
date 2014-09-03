@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>concurrent-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for concurrent</span>'
+Comment3='
+Javadoc for concurrent.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://gee.cs.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

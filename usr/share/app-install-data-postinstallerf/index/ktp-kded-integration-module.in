@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ktp-kded-integration-module</b>'
+Comment='<span size="xx-large">KDE integration for telepathy</span>'
+Comment3='
+This module sits in KDED and takes care of various bits of system
+integration like setting user to auto-away or handling connection errors.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/network/telepathy/ktp-kded-module'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

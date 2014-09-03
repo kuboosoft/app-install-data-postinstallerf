@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bamf</b>'
+Comment='<span size="xx-large">Application matching framework</span>'
+Comment3='
+BAMF removes the headache of applications matching into a simple DBus
+daemon and C wrapper library. Currently features application matching
+at amazing levels of accuracy (covering nearly every corner case). This
+package contains the bamf library built against GTK+ 2.
+
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='https://launchpad.net/bamf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

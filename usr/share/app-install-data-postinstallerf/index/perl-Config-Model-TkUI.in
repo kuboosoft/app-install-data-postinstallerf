@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Config-Model-TkUI</b>'
+Comment='<span size="xx-large">TK GUI to edit config data through Config::Model</span>'
+Comment3='
+This class provides a GUI for ConfigModel.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/Config-Model-TkUI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

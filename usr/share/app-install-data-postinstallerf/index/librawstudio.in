@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>librawstudio</b>'
+Comment='<span size="xx-large">Rawstudio backend library</span>'
+Comment3='
+Rawstudio backend library
+
+URL          http//rawstudio.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rawstudio.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

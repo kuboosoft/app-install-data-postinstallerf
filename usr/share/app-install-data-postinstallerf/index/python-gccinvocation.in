@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-gccinvocation</b>'
+Comment='<span size="xx-large">Library for parsing GCC command-line options</span>'
+Comment3='
+"gccinvocation" is a python module that can parse gcc command lines and
+extract data of interest e.g. include paths, defines, etc.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/fedora-static-analysis/gccinvocation'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-IRC</b>'
+Comment='<span size="xx-large">A POE component for building IRC clients</span>'
+Comment3='
+POEComponentIRC is a POE component (whod have guessed?) which acts as an
+easily controllable IRC client for your other POE components and sessions. You
+create an IRC component and tell it what events your session cares about and
+where to connect to, and it sends back interesting IRC events when they
+happen. You make the client do things by sending it events. Thats all there
+is to it. Cool, no?
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-IRC'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

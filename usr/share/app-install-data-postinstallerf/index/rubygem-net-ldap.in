@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>rubygem-net-ldap</b>'
+Comment='<span size="xx-large">Net::LDAP for Ruby implements client access LDAP protocol</span>'
+Comment3='
+NetLDAP for Ruby (also called net-ldap) implements client access for the
+Lightweight Directory Access Protocol (LDAP), an IETF standard protocol for
+accessing distributed directory services. NetLDAP is written completely in
+Ruby with no external dependencies. It supports most LDAP client features and
+a subset of server features as well.
+NetLDAP has been tested against modern popular LDAP servers including
+OpenLDAP and Active Directory. The current release is mostly compliant with
+earlier versions of the IETF LDAP RFCs (2251?2256, 2829?2830, 3377, and
+3771).
+Our roadmap for NetLDAP 1.0 is to gain full client compliance with
+'
+License='MIT'
+Screenshot=''
+Url='http://net-ldap.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

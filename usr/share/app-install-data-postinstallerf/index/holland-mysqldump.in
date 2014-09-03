@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>holland-mysqldump</b>'
+Comment='<span size="xx-large">Logical mysqldump backup plugin for Holland</span>'
+Comment3='
+This plugin allows holland to perform logical backups of a MySQL database
+using the mysqldump command.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hollandbackup.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

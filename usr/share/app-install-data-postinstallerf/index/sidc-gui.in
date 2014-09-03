@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sidc-gui</b>'
+Comment='<span size="xx-large">Sudden ionospheric disturbance collector (sidc) GUI</span>'
+Comment3='
+This application allows user to monitor sidc daemon
+and view live graphs of recorded data.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/sorki/sidc-gui'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

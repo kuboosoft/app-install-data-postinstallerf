@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>lucidlife</b>'
+Comment='<span size="xx-large">A Conways Life simulator</span>'
+Comment3='
+LucidLife is a Conways Life simulator. The rules are rather simple. The game
+is started with a large grid of cell locations, and an arbitrary set of
+living cells. On each turn, each cell thrives or dies based on the number of
+cells which surround it. A dead (empty) cell with three live cells around it
+becomes a living cell (a birth); a living cell with two or three neighbors
+survives; otherwise the cell dies (due to overcrowding) or remains dead
+(due to loneliness). It is based on the the GtkLife project, but with a
+more modern user interface and other enhancements.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Simulation/LucidLife-26633.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

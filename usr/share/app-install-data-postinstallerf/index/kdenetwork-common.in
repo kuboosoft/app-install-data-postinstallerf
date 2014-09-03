@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdenetwork-common</b>'
+Comment='<span size="xx-large">Common files for kdenetwork</span>'
+Comment3='
+Common files for kdenetwork.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

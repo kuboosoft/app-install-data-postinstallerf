@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kompare-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for kompare</span>'
+Comment3='
+This package contains shared libraries for kompare.
+
+URL          https//projects.kde.org/projects/kde/kdesdk/kompare
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/kompare'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

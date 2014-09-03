@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libclastfm-devel</b>'
+Comment='<span size="xx-large">Development files for libclastfm</span>'
+Comment3='
+The libclastfm-devel package contains libraries and header files for
+developing applications that use libclastfm.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://liblastfm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

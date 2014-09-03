@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>activemq</b>'
+Comment='<span size="xx-large">Open source messaging and Integration Patterns server</span>'
+Comment3='
+The most popular and powerful open source messaging and Integration Patterns
+server.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://activemq.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

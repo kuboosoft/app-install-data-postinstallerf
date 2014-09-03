@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-File-Sync</b>'
+Comment='<span size="xx-large">Perl access to fsync() and sync() function calls</span>'
+Comment3='
+The fsync() function takes a Perl file handle as its only argument, and
+passes its fileno() to the C function fsync(). It returns undef on failure,
+or true on success.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Sync/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Text-SimpleTable-tests</b>'
+Comment='<span size="xx-large">Test suite for package perl-Text-SimpleTable</span>'
+Comment3='
+This package provides the test suite for package perl-Text-SimpleTable.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-SimpleTable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

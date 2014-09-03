@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-grid</b>'
+Comment='<span size="xx-large">Grid typesetting in LaTeX</span>'
+Comment3='
+The package enables grid typesetting in double column
+documents. Grid typesetting (vertical aligning of lines of text
+in adjacent columns) is a difficult task in LaTeX, and the
+present package is no more than an attempt to help users to
+achieve it in a limited way. An example document, grid.tex, is
+provided with simple instructions to typeset it using the
+package. The package needs a lot of, this is only a
+beginning...
+
+date 2009-11-09 223607 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

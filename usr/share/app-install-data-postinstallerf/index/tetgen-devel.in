@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tetgen-devel</b>'
+Comment='<span size="xx-large">Development files for tetgen</span>'
+Comment3='
+The tetgen-devel package contains libraries and header files for
+developing applications that use tetgen.
+
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://wias-berlin.de/software/tetgen/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

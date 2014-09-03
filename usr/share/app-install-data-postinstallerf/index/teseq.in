@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>teseq</b>'
+Comment='<span size="xx-large">An utility for rendering terminal typescripts human-readable</span>'
+Comment3='
+Teseq, a tool for analyzing files that contain control characters and
+terminal control sequences. It is intended to be useful for diagnosing
+terminal emulators, and programs that make heavy use of terminal features
+(such as those based on the Curses library).
+
+It is primarily targeted at individuals who possess a basic understanding of
+terminal control sequences, especially CSI sequences.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/teseq/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plymouth-system-theme</b>'
+Comment='<span size="xx-large">Plymouth default theme</span>'
+Comment3='
+This metapackage tracks the current distribution default theme.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Plymouth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

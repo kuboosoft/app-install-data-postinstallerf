@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Heap</b>'
+Comment='<span size="xx-large">Perl extension for keeping data partially sorted</span>'
+Comment3='
+The Heap collection of modules provide routines that manage a heap of
+elements. A heap is a partially sorted structure that is always able to
+easily extract the smallest of the elements in the structure (or the
+largest if a reversed compare routine is provided).
+
+If the collection of elements is changing dynamically, the heap has less
+overhead than keeping the collection fully sorted.
+The elements must be objects as described in "HeapElem" and all
+elements inserted into one heap must be mutually compatible - either
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Heap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

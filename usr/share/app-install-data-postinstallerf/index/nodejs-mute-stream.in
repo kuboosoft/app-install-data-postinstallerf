@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-mute-stream</b>'
+Comment='<span size="xx-large">Basic pass-through stream, but when muted, the bytes are dropped</span>'
+Comment3='
+This is a basic pass-through stream, but when muted, the bytes are
+silently dropped, rather than being passed through.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/isaacs/mute-stream'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

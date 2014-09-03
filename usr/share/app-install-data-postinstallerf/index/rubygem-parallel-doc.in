@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-parallel-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-parallel</span>'
+Comment3='
+Documentation for rubygem-parallel
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/grosser/parallel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

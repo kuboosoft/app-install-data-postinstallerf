@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>snake-server</b>'
+Comment='<span size="xx-large">Smart Network Automated Kickstart Environment Server</span>'
+Comment3='
+snake-server provides utilities for serving installation trees and kickstart
+templates to snake-client systems
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/snake'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>vmmlib-devel</b>'
+Comment='<span size="xx-large">A vector and matrix math library implemented using C++ templates</span>'
+Comment3='
+vmmlib is a vector and matrix math library implemented using C++ templates.
+Its basic functionality includes a vector and a matrix class, with additional
+functionality for the often-used 3d and 4d vectors and 3x3 and 4x4 matrices.
+More advanced functionality include solvers, frustum computations and frustum
+culling classes, and spatial data structures.
+'
+License='BSD'
+Screenshot=''
+Url='http://vmmlib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

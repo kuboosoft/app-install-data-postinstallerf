@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gfal-doc</b>'
+Comment='<span size="xx-large">Documentation for gfal</span>'
+Comment3='
+Documentation for gfal, man pages and examples
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

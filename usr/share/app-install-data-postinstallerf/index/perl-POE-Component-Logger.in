@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-Logger</b>'
+Comment='<span size="xx-large">A POE logging class</span>'
+Comment3='
+POEComponentLogger provides a simple logging component that uses
+LogDispatchConfig to drive it, allowing you to log to multiple places at
+once (e.g. to STDERR and Syslog at the same time) and also to flexibly define
+your loggers output.
+
+It is very simple to use, because it creates a Loggerlog method (yes, this
+is namespace corruption, so shoot me). If you dont like this, feel free to
+post directly to your logger as follows
+  $kernel->post(logger, log, "An error occurred $!");
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-Logger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

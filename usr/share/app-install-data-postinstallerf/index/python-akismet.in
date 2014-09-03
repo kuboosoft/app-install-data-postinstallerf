@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-akismet</b>'
+Comment='<span size="xx-large">Python interface to the Akismet anti comment-spam API</span>'
+Comment3='
+Akismet is a web service for recognizing spam comments. It promises to be
+almost 100% effective at catching comment spam. They say that currently 81%
+of all comments submitted to them are spam.Its designed to work with the
+Wordpress Blog Tool, but its not restricted to that so this is a Python
+interface to the Akismet API.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/akismet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

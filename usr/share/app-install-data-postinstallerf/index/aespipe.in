@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>aespipe</b>'
+Comment='<span size="xx-large">AES-based encryption tool for tar/cpio and loop-aes images</span>'
+Comment3='
+aespipe is an encryption tool that reads from standard input and
+writes to standard output. It uses the AES (Rijndael) cipher.
+
+It can be used as an encryption filter, to create and restore
+encrypted tar/cpio backup archives and to read/write and convert
+loop-AES compatible encrypted images.
+aespipe can be used for non-destructive in-place encryption of
+existing disk partitions for use with the loop-AES encrypted loop-back
+kernel module.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://loop-aes.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

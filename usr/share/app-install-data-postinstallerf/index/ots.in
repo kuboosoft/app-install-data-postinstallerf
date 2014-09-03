@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ots</b>'
+Comment='<span size="xx-large">A text summarizer</span>'
+Comment3='
+The open text summarizer is an open source tool for summarizing texts.
+The program reads a text and decides which sentences are important and
+which are not.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libots.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

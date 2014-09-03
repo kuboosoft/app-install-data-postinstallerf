@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>JSCookMenu</b>'
+Comment='<span size="xx-large">JavaScript GUI-like web menus</span>'
+Comment3='
+  JSCookMenu is a powerful menu script written in JavaScript that can
+mimic complex menus found in popular GUI Applications. It is relatively
+simple and easy to use. Creating a new theme requires some patience,
+but rarely does one has to write one since some good ones are provided.
+  The following features are implemented
+* Supports both horizontal and vertical menus.
+* Supports relative positioning.
+* Supports different menus with different themes in the same web page.
+* Eases the menu creation process with a menu builder.
+* Special effects such as sliding and fading in/out is available.
+'
+License='MIT and Public Domain'
+Screenshot=''
+Url='http://jscook.yuanheng.org/JSCookMenu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-yi</b>'
+Comment='<span size="xx-large">Yiddish hunspell dictionaries</span>'
+Comment3='
+Yiddish hunspell dictionaries.
+'
+License='LGPLv2+ or GPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/en/project/dict-yi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

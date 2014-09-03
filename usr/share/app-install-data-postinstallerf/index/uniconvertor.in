@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>uniconvertor</b>'
+Comment='<span size="xx-large">Universal vector graphics translator</span>'
+Comment3='
+UniConvertor is a universal vector graphics translator.
+It uses sK1 engine to convert one format to another.
+'
+License='LGPLv2+ and GPLv2+ and MIT'
+Screenshot=''
+Url='http://sk1project.org/modules.php?name=Products&product=uniconvertor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

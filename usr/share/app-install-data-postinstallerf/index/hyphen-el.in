@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-el</b>'
+Comment='<span size="xx-large">Greek hyphenation rules</span>'
+Comment3='
+Greek hyphenation rules.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://wiki.services.openoffice.org/wiki/Dictionaries'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

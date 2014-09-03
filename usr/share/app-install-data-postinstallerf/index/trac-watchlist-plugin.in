@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>trac-watchlist-plugin</b>'
+Comment='<span size="xx-large">Watchlist plugin for Trac for watching tickets or wiki pages</span>'
+Comment3='
+This plug-in adds a watchlist for wikis and tickets. Every logged-in user can
+watch any wikis and ticket and later unwatch it. The watchlist is provided
+under [/projectname]/watchlist which is added to the main navigation bar as
+soon the user watches something.
+
+This plug-in is still under development. The basic functions are implemented
+but the watchlist layout might change in the future. ATM there seems to be
+some issues when PostgresSQL is used as DB backend. Therefore the DB table
+layout might change in the future. Feel free to test it out and provide
+feedback.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/WatchlistPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

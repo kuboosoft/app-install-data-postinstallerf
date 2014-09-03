@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>stage</b>'
+Comment='<span size="xx-large">A 2.5D multi-robot simulator</span>'
+Comment3='
+Stage is a fast and scalable 2.5D multiple robot simulator from the Player
+project.  Stage can be used to simulate sensors and actuators in a
+low-fidelity bit-mapped environment.  Stage models can be controlled with
+the Stage C API, or through the Player server via a Player plug-in library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://playerstage.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

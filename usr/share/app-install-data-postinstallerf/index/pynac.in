@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>pynac</b>'
+Comment='<span size="xx-large">Manipulation of symbolic expressions</span>'
+Comment3='
+Pynac is a derivative of the C++ library GiNaC, which allows manipulation of
+symbolic expressions. It currently provides the backend for symbolic
+expressions in Sage.
+
+The main difference between Pynac and GiNaC is that Pynac relies on Sage to
+provide the operations on numerical types, while GiNaC depends on CLN for this
+purpose.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.sagemath.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

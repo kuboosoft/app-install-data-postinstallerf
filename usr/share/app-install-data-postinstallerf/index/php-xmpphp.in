@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-xmpphp</b>'
+Comment='<span size="xx-large">XMPPHP is the successor to Class.Jabber.PHP</span>'
+Comment3='
+XMPPHP is the successor to Class.Jabber.PHP which can connect to XMPP
+1.0 server (google talk, jabber.orgf, LJ Talk, etc, supports TLS,
+several XML processing approaches and supported styles, persistent
+connection, etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/xmpphp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

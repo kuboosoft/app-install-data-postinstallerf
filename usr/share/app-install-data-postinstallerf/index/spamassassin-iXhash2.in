@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>spamassassin-iXhash2</b>'
+Comment='<span size="xx-large">SpamAssassin plugin to lookup e-mail checksums in blacklists</span>'
+Comment3='
+iXhash2 is an unofficial improved version of the iXhash spam filter
+plugin for SpamAssassin, adding async DNS lookups for performance and
+removing unneeded features but fully compatible with the iXhash 1.5.5
+(http//www.ixhash.net/) implementation. It computes MD5 checksums of
+fragments of the body of an e-mail and compares them to those of known
+spam using DNS queries to a RBL-like name server. So it works similar
+to the standard plugins that use the Pyzor, Razor and DCC software
+packages from within SpamAssassin.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mailfud.org/iXhash2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

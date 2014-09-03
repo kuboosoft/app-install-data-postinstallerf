@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-mwclient</b>'
+Comment='<span size="xx-large">Mwclient is a client to the MediaWiki API</span>'
+Comment3='
+Mwclient is a client to the MediaWiki API <http//mediawiki.org/wiki/API>
+and allows access to almost all implemented API functions
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/apps/mediawiki/mwclient/index.php?title=Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

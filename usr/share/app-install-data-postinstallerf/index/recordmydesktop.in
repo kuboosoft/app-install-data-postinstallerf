@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>recordmydesktop</b>'
+Comment='<span size="xx-large">Desktop session recorder with audio and video</span>'
+Comment3='
+recordMyDesktop is a desktop session recorder for linux that attempts to be
+easy to use, yet also effective at its primary task.
+
+As such, the program is separated in two parts; a simple command line tool that
+performs the basic tasks of capturing and encoding and an interface that
+exposes the program functionality in a usable way.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://recordmydesktop.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

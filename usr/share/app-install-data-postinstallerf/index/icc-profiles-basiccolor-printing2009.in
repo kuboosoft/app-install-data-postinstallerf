@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>icc-profiles-basiccolor-printing2009</b>'
+Comment='<span size="xx-large">The OpenICC profiles from basICColor</span>'
+Comment3='
+Printing profiles according to ISO 12647-2. These are CMYK
+ICC profiles for ISO Printing conditions.
+'
+License='zlib'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/OpenIcc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-pmxchords</b>'
+Comment='<span size="xx-large">Produce chord information to go with pmx output</span>'
+Comment3='
+The bundle supplements pmx, providing the means of typesetting
+chords above the notes of a score. The bundle contains macros
+for typing the chords; a Lua script to transpose chord macros
+to the required key signature; and support scripts for common
+requirements.
+
+date 2013-12-17 161038 +0100
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>cyphesis</b>'
+Comment='<span size="xx-large">WorldForge game server</span>'
+Comment3='
+Cyphesis is a WorldForge server suitable running small games. It is also
+designed by be used as an AI subsystem in a network of distributed servers. It
+includes a terrain engine based on the Mercator library, a persistence system
+based on PostgreSQL, and an AI engine using goal trees implemented in Python.
+It is the server used in most current WorldForge games.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.worldforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

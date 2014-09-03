@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tracker-docs</b>'
+Comment='<span size="xx-large">Documentations for tracker</span>'
+Comment3='
+This package contains the documentation for tracker
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/tracker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

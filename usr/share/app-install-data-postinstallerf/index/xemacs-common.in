@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xemacs-common</b>'
+Comment='<span size="xx-large">Byte-compiled lisp files and other common files for XEmacs</span>'
+Comment3='
+XEmacs is a highly customizable open source text editor and
+application development system.  It is protected under the GNU General
+Public License and related to other versions of Emacs, in particular
+GNU Emacs.  Its emphasis is on modern graphical user interface support
+and an open software development model, similar to Linux.
+
+This package contains byte-compiled lisp and other common files for XEmacs.
+'
+License='GPLv3+'
+Public License and related to other versions of Emacs, in particular'
+Screenshot=''
+Url='http://www.xemacs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

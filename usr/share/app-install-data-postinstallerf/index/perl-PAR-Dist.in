@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-PAR-Dist</b>'
+Comment='<span size="xx-large">Toolkit for creating and manipulating Perl PAR distributions</span>'
+Comment3='
+This module creates and manipulates PAR distributions. They are architecture-
+specific PAR files, containing everything under blib/ of CPAN distributions
+after their make or Build stage, a META.yml describing metadata of the
+original CPAN distribution, and a MANIFEST detailing all files within it.
+Digitally signed PAR distributions will also contain a SIGNATURE file.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PAR-Dist/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

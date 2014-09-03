@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uwsgi-plugin-python3</b>'
+Comment='<span size="xx-large">uWSGI - Plugin for Python 3.2 support</span>'
+Comment3='
+This package contains the Python 3.2 plugin for uWSGI
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://github.com/unbit/uwsgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

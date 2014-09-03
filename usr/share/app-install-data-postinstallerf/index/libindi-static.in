@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libindi-static</b>'
+Comment='<span size="xx-large">Static libraries, includes, etc. used to develop an application with libindi</span>'
+Comment3='
+Static library needed to develop a libindi application
+
+URL          http//www.indilib.org
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.indilib.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

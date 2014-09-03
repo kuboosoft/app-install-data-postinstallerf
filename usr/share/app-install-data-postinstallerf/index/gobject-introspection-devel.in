@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gobject-introspection-devel</b>'
+Comment='<span size="xx-large">Libraries and headers for gobject-introspection</span>'
+Comment3='
+Libraries and headers for gobject-introspection
+
+URL          http//live.gnome.org/GObjectIntrospection
+'
+License='GPLv2+, LGPLv2+, MIT'
+Screenshot=''
+Url='http://live.gnome.org/GObjectIntrospection'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-vmargin</b>'
+Comment='<span size="xx-large">Set various page dimensions</span>'
+Comment3='
+Provides a macro to set various margins as well as dimensions
+for header/footer and page dimensions. Most common paper sizes,
+paper orientation, disabling of headers and footers, and two
+sided printing are supported. The vmargin package does not rely
+on other packages and was designed with speed and size in mind.
+Its user interface might not be very fancy, but its fast,
+small, and gets the job done. If you are looking for something
+more elaborate try the geometry package.
+
+date 2009-09-27 121828 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

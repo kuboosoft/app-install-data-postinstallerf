@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rmic-maven-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for rmic-maven-plugin</span>'
+Comment3='
+This package contains the API documentation for rmic-maven-plugin.
+'
+License='MIT'
+Screenshot=''
+Url='http://mojo.codehaus.org/rmic-maven-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gauche-gtk-devel</b>'
+Comment='<span size="xx-large">Development files for gauche-gtk</span>'
+Comment3='
+Development files for gauche-gtk.
+
+URL          http//practical-scheme.net/
+'
+License='BSD'
+Screenshot=''
+Url='http://practical-scheme.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>olfs</b>'
+Comment='<span size="xx-large">OPeNDAP Lightweight Frontend Servlet - client interface for Hyrax</span>'
+Comment3='
+The OPeNDAP Lightweight Frontend Servlet (OLFS) provides the public-
+accessible client interface for Hyrax.  The OLFS communicates with the Back
+End Server (BES) to provide data and catalog services to clients.  The OLFS
+implements the DAP2 protocol and supports some of the new DAP4 features.  We
+hope that other groups will develop new front end modules that will implement
+other protocols.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://opendap.org/download/hyrax?q=olfs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

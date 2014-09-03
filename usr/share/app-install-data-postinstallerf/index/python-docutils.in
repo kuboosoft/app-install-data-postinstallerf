@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-docutils</b>'
+Comment='<span size="xx-large">System for processing plaintext documentation</span>'
+Comment3='
+The Docutils project specifies a plaintext markup language, reStructuredText,
+which is easy to read and quick to write.  The project includes a python
+library to parse rST files and transform them into other useful formats such
+as HTML, XML, and TeX as well as commandline tools that give the enduser
+access to this functionality.
+
+Currently, the library supports parsing rST that is in standalone files and
+PEPs (Python Enhancement Proposals).  Work is underway to parse rST from
+Python inline documentation modules and packages.
+'
+License='Public Domain and BSD and Python and GPLv3+'
+Screenshot=''
+Url='http://docutils.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

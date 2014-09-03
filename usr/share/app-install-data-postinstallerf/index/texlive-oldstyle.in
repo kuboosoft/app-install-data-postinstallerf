@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-oldstyle</b>'
+Comment='<span size="xx-large">Old style numbers in OT1 encoding</span>'
+Comment3='
+Font information needed to load the cmmi and cmmib fonts for
+use to produce oldstyle numbers.
+
+date 2009-03-08 213902 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

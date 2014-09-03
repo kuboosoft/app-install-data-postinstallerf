@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>LogService</b>'
+Comment='<span size="xx-large">DIET middleware logging service</span>'
+Comment3='
+DIET grid middleware logging service
+
+URL          http//graal.ens-lyon.fr/DIET/logservice.html
+'
+License='CeCILL'
+Screenshot=''
+Url='http://graal.ens-lyon.fr/DIET/logservice.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

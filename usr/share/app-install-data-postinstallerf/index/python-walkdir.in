@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-walkdir</b>'
+Comment='<span size="xx-large">Python module to manipulate and filter os.walk() style iteration</span>'
+Comment3='
+walkdir is a simple set of iterator tools intended to
+make it easy to manipulate and filter the output of os.walk()
+in a way that is also easily applicable to any source iterator
+that produces data in the same format
+'
+License='BSD'
+Screenshot=''
+Url='http://walkdir.readthedocs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

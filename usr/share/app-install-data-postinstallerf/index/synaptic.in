@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>synaptic</b>'
+Comment='<span size="xx-large">Graphical frontend for APT package manager.</span>'
+Comment3='
+Synaptic is a graphical package management
+program for apt. It provides the same features as the apt-get command line
+utility with a GUI front-end based on Gtk+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/synaptic/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-hydra-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-hydra</span>'
+Comment3='
+Documentation for rubygem-hydra
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/ngauthier/hydra'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

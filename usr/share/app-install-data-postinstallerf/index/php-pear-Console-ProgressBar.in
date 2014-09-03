@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pear-Console-ProgressBar</b>'
+Comment='<span size="xx-large">This class provides you with an easy-to-use interface to progress bars</span>'
+Comment3='
+The class allows you to display progress bars in your terminal. You can use
+this for displaying the status of downloads or other tasks that take some
+time.
+'
+License='MIT'
+Screenshot=''
+Url='http://pear.php.net/package/Console_ProgressBar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

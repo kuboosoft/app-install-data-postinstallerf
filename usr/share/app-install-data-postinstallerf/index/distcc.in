@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>distcc</b>'
+Comment='<span size="xx-large">Distributed C/C++ compilation</span>'
+Comment3='
+distcc is a program to distribute compilation of C or C++ code across
+several machines on a network. distcc should always generate the same
+results as a local compile, is simple to install and use, and is often
+two or more times faster than a local compile.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://distcc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

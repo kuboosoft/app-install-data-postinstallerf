@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>coin-or-Alps-doc</b>'
+Comment='<span size="xx-large">Documentation files for coin-or-Alps</span>'
+Comment3='
+This package contains the documentation for coin-or-Alps.
+'
+License='EPL'
+Screenshot=''
+Url='http://projects.coin-or.org/Alps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-voms-admin</b>'
+Comment='<span size="xx-large">Web based interface to control VOMS parameters written in PHP</span>'
+Comment3='
+PHP VOMS-Admin (PVA) originally implemented the same functions as the
+traditional JAVA-based VOMS-Admin (v.2.0.18) interface for Apache
+Tomcat. It was designed to be more flexible and stable, provide easy
+scalability and minimize resource usage. PVA is fully compatible with
+the vomsd mysql backend.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://grid.org.ua/development/pva/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

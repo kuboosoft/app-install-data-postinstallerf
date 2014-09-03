@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rack-ssl</b>'
+Comment='<span size="xx-large">Force SSL/TLS in your app</span>'
+Comment3='
+Rack middleware to force SSL/TLS.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/josh/rack-ssl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

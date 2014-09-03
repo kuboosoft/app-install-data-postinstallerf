@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>uglify-js1</b>'
+Comment='<span size="xx-large">JavaScript parser, mangler/compressor and beautifier toolkit</span>'
+Comment3='
+JavaScript parser, mangler/compressor and beautifier toolkit.  This is the
+classic 1.x version of uglify-js.  Consider using the new version provided
+in the uglify-js package.
+
+This package ships the uglifyjs command-line tool and a library suitable for
+use within Node.js.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/mishoo/UglifyJS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

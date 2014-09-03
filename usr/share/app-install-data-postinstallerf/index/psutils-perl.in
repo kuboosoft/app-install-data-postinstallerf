@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>psutils-perl</b>'
+Comment='<span size="xx-large">psutils scripts requiring perl</span>'
+Comment3='
+Various scripts from the psutils distribution that require perl.
+'
+License='psutils'
+Screenshot=''
+Url='http://knackered.org/angus/psutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmongo-client-devel</b>'
+Comment='<span size="xx-large">Development files for libmongo-client</span>'
+Comment3='
+Development files (libraries and include files) for libmongo-client
+
+URL          https//github.com/algernon/libmongo-client
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/algernon/libmongo-client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

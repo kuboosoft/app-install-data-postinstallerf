@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>coin-or-SYMPHONY</b>'
+Comment='<span size="xx-large">Solver for mixed-integer linear programs</span>'
+Comment3='
+SYMPHONY is an open-source solver for mixed-integer linear programs (MILPs)
+written in C. It can be used in three different main modes
+
+  * As a callable library through either the native C interface or through
+    the Osi.
+  * As an interactive solver using a command-line interface.
+  * As a framework to build customized solvers for specific problem classes.
+SYMPHONY can be executed in either parallel (distributed or shared memory)
+or sequential modes and has a number of advanced features that make it unique,
+'
+License='EPL'
+Screenshot=''
+Url='http://projects.coin-or.org/SYMPHONY'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

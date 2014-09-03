@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xemacs-uim</b>'
+Comment='<span size="xx-large">XEmacs support for Uim</span>'
+Comment3='
+This package provides XEmacs support.
+'
+License='BSD and LGPLv2+ and (BSD or LGPLv2)'
+Screenshot=''
+Url='http://code.google.com/p/uim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

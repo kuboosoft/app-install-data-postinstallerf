@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>OpenThreads</b>'
+Comment='<span size="xx-large">OpenThreads</span>'
+Comment3='
+OpenThreads is intended to provide a minimal & complete Object-Oriented (OO)
+thread interface for C++ programmers.  It is loosely modeled on the Java
+thread API, and the POSIX Threads standards.  The architecture of the
+library is designed around "swappable" thread models which are defined at
+compile-time in a shared object library.
+
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.openscenegraph.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

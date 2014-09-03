@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Plugin-DBIProfile</b>'
+Comment='<span size="xx-large">DBI profiling plugin</span>'
+Comment3='
+CGIApplicationPluginDBIProfile provides popup (using CAPDevPopup if
+available) holding DBI Profile information (see DBIProfile,
+DBIProfileDumper). It will output both graphed output and a
+DBIProfileDumper report.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Plugin-DBIProfile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

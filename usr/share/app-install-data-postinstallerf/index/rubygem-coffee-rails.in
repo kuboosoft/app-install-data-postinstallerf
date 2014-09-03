@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-coffee-rails</b>'
+Comment='<span size="xx-large">Coffee Script adapter for the Rails asset pipeline</span>'
+Comment3='
+Coffee Script adapter for the Rails asset pipeline.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rails/coffee-rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

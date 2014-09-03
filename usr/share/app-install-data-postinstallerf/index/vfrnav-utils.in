@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vfrnav-utils</b>'
+Comment='<span size="xx-large">VFR Navigation Utilities</span>'
+Comment3='
+This package contains utilities for database creation and manipulation
+for the VFR navigation application.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.baycom.org/~tom/vfrnav'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

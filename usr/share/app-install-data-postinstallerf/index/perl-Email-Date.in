@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Email-Date</b>'
+Comment='<span size="xx-large">Find and format date headers</span>'
+Comment3='
+RFC 2822 defines the "Date" header. It declares the header a required
+part of an email message. The syntax for date headers is clearly laid
+out. Stil, even a perfectly planned world has storms. The truth is, many
+programs get it wrong. Very wrong. Or, they dont include a "Date"
+header at all. This often forces you to look elsewhere for the date, and
+hoping to find something.
+
+For this reason, the tedious process of looking for a valid date has
+been encapsulated in this software. Further, the process of creating RFC
+compliant date strings is also found in this software.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Email-Date/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

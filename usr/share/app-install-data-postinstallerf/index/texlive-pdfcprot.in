@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pdfcprot</b>'
+Comment='<span size="xx-large">Activating and setting of character protruding using pdflatex</span>'
+Comment3='
+This package provides an easy interface to adjust the character
+protrusion for different fonts and choosing the right
+adjustment automatically depending on the font.
+
+date 2006-12-18 235036 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

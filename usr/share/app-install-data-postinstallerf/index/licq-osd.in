@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>licq-osd</b>'
+Comment='<span size="xx-large">OSD (On Screen Display) plugin for Licq</span>'
+Comment3='
+This is a small plugin, which uses libxosd2 to
+display new arriving messages as OSD (On Screen Display)
+text on your desktop.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.licq.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

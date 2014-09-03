@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>bouml</b>'
+Comment='<span size="xx-large">UML2 tool box for C++, Java, IDL, PHP and Python</span>'
+Comment3='
+BOUML is a Unified Modeling Language editor for Qt. You can use it to create
+nearly all of UML diagrams. BOUML can generate code from those diagrams in
+C++, Java, IDL, PHP and Python, and can also reverse existing code.
+
+The program supports class diagrams, sequence diagrams, collaboration
+diagrams, object diagrams, use case diagrams, component diagrams, state
+diagrams, activity diagrams, component diagrams and deployment diagrams.
+The documentation for this package is in bouml-doc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bouml.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

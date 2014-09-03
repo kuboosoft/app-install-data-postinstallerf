@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libfm-qt-devel</b>'
+Comment='<span size="xx-large">Development files for libfm-qt</span>'
+Comment3='
+libfm-qt-devel package contains libraries and header files for
+developing applications that use libfm-qt.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pcmanfm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

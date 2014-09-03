@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>juffed-plugin-colorpicker</b>'
+Comment='<span size="xx-large">Colorpicker plugin for juffed</span>'
+Comment3='
+Insert RGB color entity in text - HTML, hex, separated hex an decimal.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>flint-devel</b>'
+Comment='<span size="xx-large">Development files for FLINT</span>'
+Comment3='
+The flint-devel package contains libraries and header files for
+developing applications that use flint.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.flintlib.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

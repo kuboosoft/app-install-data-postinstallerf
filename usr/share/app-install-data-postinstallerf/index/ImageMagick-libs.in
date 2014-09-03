@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ImageMagick-libs</b>'
+Comment='<span size="xx-large">ImageMagick libraries to link with</span>'
+Comment3='
+This packages contains a shared libraries to use within other applications.
+
+URL          http//www.imagemagick.org/
+'
+License='ImageMagick'
+Screenshot=''
+Url='http://www.imagemagick.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

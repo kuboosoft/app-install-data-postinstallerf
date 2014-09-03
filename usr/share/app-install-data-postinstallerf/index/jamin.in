@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jamin</b>'
+Comment='<span size="xx-large">JACK Audio Connection Kit (JACK) Audio Mastering interface</span>'
+Comment3='
+JAMin is the JACK Audio Connection Kit (JACK) Audio Mastering interface. JAMin
+is designed to perform professional audio mastering of any number of input
+streams. It uses LADSPA for its backend DSP work, specifically the swh plugins.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://jamin.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>system-config-printer</b>'
+Comment='<span size="xx-large">A printer administration tool</span>'
+Comment3='
+system-config-printer is a graphical user interface that allows
+the user to configure a CUPS print server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cyberelk.net/tim/software/system-config-printer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

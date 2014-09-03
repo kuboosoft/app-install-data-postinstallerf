@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rpy</b>'
+Comment='<span size="xx-large">Python interface to the R language</span>'
+Comment3='
+RPy provides a robust Python interface to the R
+programming language.  It can manage all kinds of R objects and can
+execute arbitrary R functions. All the errors from the R language are
+converted to Python exceptions.
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://rpy.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

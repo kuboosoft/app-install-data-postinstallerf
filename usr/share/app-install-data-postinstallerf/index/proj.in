@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>proj</b>'
+Comment='<span size="xx-large">Cartographic projection software (PROJ.4)</span>'
+Comment3='
+Proj and invproj perform respective forward and inverse transformation of
+cartographic data to or from cartesian data with a wide range of selectable
+projection functions.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://proj.osgeo.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

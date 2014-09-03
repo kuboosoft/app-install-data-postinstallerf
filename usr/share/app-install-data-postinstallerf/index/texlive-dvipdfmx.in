@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-dvipdfmx</b>'
+Comment='<span size="xx-large">An extended version of dvipdfm</span>'
+Comment3='
+Dvipdfmx (formerly dvipdfm-cjk) is a development of dvipdfm
+created to support multi-byte character encodings and large
+character sets for East Asian languages. Dvipdfmx, if "called"
+with the name dvipdfm, operates in a "dvipdfm compatibility"
+mode, so that users of the both packages need only keep one
+executable. A secondary design goal is to support as many "PDF"
+features as does pdfTeX. There being no documentation as such,
+users are advised to consult the documentation of dvipdfm (as
+well, of course, as the package Readme.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

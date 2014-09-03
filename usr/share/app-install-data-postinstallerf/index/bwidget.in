@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bwidget</b>'
+Comment='<span size="xx-large">Extended widget set for Tk</span>'
+Comment3='
+An extended widget set for Tcl/Tk.
+'
+License='TCL'
+Screenshot=''
+Url='http://tcllib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

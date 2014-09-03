@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Method-Signatures</b>'
+Comment='<span size="xx-large">Method and function declarations with signatures and no source filter</span>'
+Comment3='
+Provides two new keywords, func and method, so that you can write
+subroutines with signatures.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Method-Signatures/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>native-platform</b>'
+Comment='<span size="xx-large">Java bindings for various native APIs</span>'
+Comment3='
+A collection of cross-platform Java APIs
+for various native APIs.
+
+These APIs support Java 5 and later. Some
+of these APIs overlap with APIs available
+in later Java versions.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/adammurdoch/native-platform'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

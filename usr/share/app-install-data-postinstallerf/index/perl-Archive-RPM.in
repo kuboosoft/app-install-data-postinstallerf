@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Archive-RPM</b>'
+Comment='<span size="xx-large">Work with a RPM</span>'
+Comment3='
+ArchiveRPM provides a more complete method of accessing an RPMs meta-
+and actual data. We access this information by leveraging RPM2 where we
+can, and by "exploding" the rpm with rpm2cpio and cpio when we need
+information we cant get through RPM2.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Archive-RPM'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

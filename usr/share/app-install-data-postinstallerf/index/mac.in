@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mac</b>'
+Comment='<span size="xx-large">Monkeys Audio Codec (MAC) utility</span>'
+Comment3='
+Monkey?s Audio is a fast and easy way to compress digital music. Unlike
+traditional methods such as mp3, ogg, or lqt that permanently discard
+quality to save space, Monkey?s Audio only makes perfect, bit-for-bit
+copies of your music. That means it always sounds perfect  ? exactly the
+same as the original. Even though the sound is perfect, it still saves a
+lot of space.
+
+Permission to redistribute is granted by the AUTHOR to rpmfusion.org only.
+See mac-permission_to_redistribute.txt
+'
+License='Monkeys Audio Source Code License Agreement'
+Screenshot=''
+Url='http://supermmx.org/linux/mac/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

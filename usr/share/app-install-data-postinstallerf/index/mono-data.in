@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mono-data</b>'
+Comment='<span size="xx-large">Database connectivity for Mono</span>'
+Comment3='
+This package provides a Mono assembly to facilitate data access
+and manipulation with databases, LDAP compatible directory servers
+and/or XML data exchange. Beyond the ADO.NET, Novell.LDAP and
+System.DirectoryServices assemblies, it also includes a command
+line sql application as well as the Microsoft SQL Server and ODBC
+data providers.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

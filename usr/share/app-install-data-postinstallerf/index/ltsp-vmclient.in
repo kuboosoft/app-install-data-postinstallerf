@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ltsp-vmclient</b>'
+Comment='<span size="xx-large">LTSP Virtual Machine Client</span>'
+Comment3='
+Run a qemu-kvm virtual machine as a PXE client.  This allows you to test a
+LTSP server without the hassle of having extra hardware.  Requires
+your system to support hardware virtualization or it will be very slow.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://www.ltsp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

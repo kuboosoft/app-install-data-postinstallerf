@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sezpoz</b>'
+Comment='<span size="xx-large">Lightweight Java library that lets you perform modular service lookups</span>'
+Comment3='
+SezPoz is a lightweight and easy-to-learn library that lets you
+perform modular service lookups. It provides some of the same
+capabilities as (for example) java.util.ServiceLoader, but SezPoz
+has some special advantages. The service registrations are made
+just using type-checked Java annotations. There are no configuration
+files to edit.
+'
+License='CDDL'
+Screenshot=''
+Url='http://sezpoz.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

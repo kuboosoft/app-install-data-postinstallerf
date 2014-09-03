@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ardour3</b>'
+Comment='<span size="xx-large">Digital Audio Workstation</span>'
+Comment3='
+Ardour is a multi-channel digital audio workstation, allowing users to record,
+edit, mix and master audio and MIDI projects. It is targeted at audio
+engineers, musicians, soundtrack editors and composers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ardour.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

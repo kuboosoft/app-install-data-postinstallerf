@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-lablgtk-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-lablgtk</span>'
+Comment3='
+The ocaml-lablgtk-devel package contains libraries and signature files for
+developing applications that use ocaml-lablgtk.
+
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://lablgtk.forge.ocamlcore.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

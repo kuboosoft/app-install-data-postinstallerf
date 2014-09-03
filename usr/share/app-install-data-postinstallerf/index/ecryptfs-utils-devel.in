@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ecryptfs-utils-devel</b>'
+Comment='<span size="xx-large">The eCryptfs userspace development package</span>'
+Comment3='
+Userspace development files for eCryptfs.
+
+URL          https//launchpad.net/ecryptfs
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/ecryptfs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

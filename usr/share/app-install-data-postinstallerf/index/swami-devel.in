@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>swami-devel</b>'
+Comment='<span size="xx-large">MIDI instrument and sound editor development files</span>'
+Comment3='
+Headers and development files for The Swami Project - Sampled Waveforms And
+Musical Instruments.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.swamiproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

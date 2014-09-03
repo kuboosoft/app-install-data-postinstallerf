@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ldc</b>'
+Comment='<span size="xx-large">A compiler for the D programming language</span>'
+Comment3='
+LDC is a compiler for the D programming Language. It is based on the latest DMD
+frontend and uses LLVM as backend. LLVM provides a fast and modern backend for
+high quality code generation. LDC is released under a BSD license with
+exceptions for the DMD frontend and code from GDC.
+The development takes place mostly on x86-32 and x86-64 Linux and that is where
+LDC works best. Support for other platforms and architectures is under
+development, but we are still looking for people to help test and adjust LDC
+for those platforms!
+LDC already compiles a lot of D code, but should still be considered beta
+quality. Take a look at the tickets to get a better impression on what still
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/ldc-developers/ldc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openser-presence_xml</b>'
+Comment='<span size="xx-large">SIMPLE Presence extension</span>'
+Comment3='
+The module does specific handling for notify-subscribe events using xml bodies.
+It is used with the general event handling module, presence.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

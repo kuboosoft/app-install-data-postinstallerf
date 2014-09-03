@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>liblrdf-devel</b>'
+Comment='<span size="xx-large">Library for manipulating RDF files describing LADSPA plugins</span>'
+Comment3='
+This is a library to make it easy to manipulate RDF files describing
+LADSPA plugins. This package includes the development tools.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/swh/LRDF'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

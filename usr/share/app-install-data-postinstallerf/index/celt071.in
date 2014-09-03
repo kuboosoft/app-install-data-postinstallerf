@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>celt071</b>'
+Comment='<span size="xx-large">An audio codec for use in low-delay speech and audio communication</span>'
+Comment3='
+CELT (Constrained Energy Lapped Transform) is an ultra-low delay audio
+codec designed for realtime transmission of high quality speech and audio.
+This is meant to close the gap between traditional speech codecs
+(such as Speex) and traditional audio codecs (such as Vorbis).
+
+The CELT bitstream format is not yet stable, this package is a special
+version of 0.7.1 that has the same bitstream format, but symbols and files
+renamed from celt* to celt071* so that it is parallel installable with
+the normal celt for packages requiring this particular bitstream format.
+'
+License='BSD and GPLv2+'
+Screenshot=''
+Url='http://www.celt-codec.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

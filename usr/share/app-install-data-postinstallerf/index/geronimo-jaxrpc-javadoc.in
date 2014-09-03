@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>geronimo-jaxrpc-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for geronimo-jaxrpc</span>'
+Comment3='
+This package contains the API documentation for geronimo-jaxrpc.
+'
+License='ASL 2.0 and W3C'
+Screenshot=''
+Url='http://geronimo.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

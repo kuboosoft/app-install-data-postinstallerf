@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>frei0r-plugins</b>'
+Comment='<span size="xx-large">Frei0r - a minimalist plugin API for video effects</span>'
+Comment3='
+It is a minimalist plugin API for video sources and filters. The behavior of
+the effects can be controlled from the host by simple parameters. The intent is
+to solve the recurring re-implementation or adaptation issue of standard effect
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.piksel.org/frei0r'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

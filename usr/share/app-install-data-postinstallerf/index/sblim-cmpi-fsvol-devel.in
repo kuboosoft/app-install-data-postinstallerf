@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sblim-cmpi-fsvol-devel</b>'
+Comment='<span size="xx-large">SBLIM Fsvol Instrumentation Header Development Files</span>'
+Comment3='
+SBLIM Base Fsvol Development Package
+
+URL          http//sourceforge.net/projects/sblim/
+'
+License='EPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/sblim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

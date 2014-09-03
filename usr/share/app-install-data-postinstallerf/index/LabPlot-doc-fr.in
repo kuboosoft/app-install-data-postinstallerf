@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>LabPlot-doc-fr</b>'
+Comment='<span size="xx-large">Documentation for LabPlot in French</span>'
+Comment3='
+This package contains the german documentation of LabPlot,
+a Data Analysis and Visualization software in the PDF format.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://labplot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

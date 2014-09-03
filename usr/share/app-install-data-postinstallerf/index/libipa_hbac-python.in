@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libipa_hbac-python</b>'
+Comment='<span size="xx-large">Python bindings for the FreeIPA HBAC Evaluator library</span>'
+Comment3='
+The libipa_hbac-python contains the bindings so that libipa_hbac can be
+used by Python applications.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

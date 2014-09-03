@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>iodine-server</b>'
+Comment='<span size="xx-large">Server part of solution to tunnel IPv4 data through a DNS server</span>'
+Comment3='
+This is the server part of iodine solution.
+'
+License='ISC'
+Screenshot=''
+Url='http://code.kryo.se/iodine/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

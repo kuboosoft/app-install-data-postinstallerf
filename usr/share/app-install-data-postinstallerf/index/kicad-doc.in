@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kicad-doc</b>'
+Comment='<span size="xx-large">Documentations for kicad</span>'
+Comment3='
+Documentations and tutorials for kicad in English
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/kicad'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

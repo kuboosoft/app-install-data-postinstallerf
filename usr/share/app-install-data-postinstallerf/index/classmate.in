@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>classmate</b>'
+Comment='<span size="xx-large">Java introspection library</span>'
+Comment3='
+Library for introspecting types with full generic information
+including resolving of field and method types.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/cowtowncoder/java-classmate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

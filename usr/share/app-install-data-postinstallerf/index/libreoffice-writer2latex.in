@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libreoffice-writer2latex</b>'
+Comment='<span size="xx-large">LibreOffice Writer To LateX Converter</span>'
+Comment3='
+Document Converter Extension for LibreOffice to provide
+LaTeX and BibTeX export filters.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://writer2latex.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

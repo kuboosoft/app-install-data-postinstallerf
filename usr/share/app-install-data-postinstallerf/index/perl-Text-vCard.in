@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Text-vCard</b>'
+Comment='<span size="xx-large">Package to edit and create a single vCard (RFC 2426)</span>'
+Comment3='
+vCards are electronic business cards used by various message user
+agents (MUAs) and defined in RFC 2426.  They are a simple and
+extensible representation for common contact information such as
+name, company, telephone, fax, address, email, etc. and some
+less common information such as IM or Googletalk handles.
+
+This package provides an interface for manipulating vCards.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-vCard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

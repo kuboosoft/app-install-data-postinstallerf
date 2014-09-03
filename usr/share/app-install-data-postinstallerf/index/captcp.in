@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>captcp</b>'
+Comment='<span size="xx-large">TCP Analyzer for PCAP Files</span>'
+Comment3='
+Captcp is a free and open source program for TCP analysis of PCAP files.
+Normally recorded via Tcpdump or Wireshark. Captcp is an attempt to rewrite
+and bundle all common TCP analysis tools in one easy to use program
+providing a clean and consistent command line syntax.
+Captcp is written in Python and easy extendable. Captcp is not a substitute
+for Tcpdump or Wireshark - it complements these tools instead.
+'
+License='GPLv3 and MIT'
+Screenshot=''
+Url='http://research.protocollabs.com/captcp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

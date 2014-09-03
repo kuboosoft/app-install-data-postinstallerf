@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-MooseX-OneArgNew</b>'
+Comment='<span size="xx-large">Teach ->new to accept single, non-hashref arguments</span>'
+Comment3='
+MooseXOneArgNew lets your constructor take a single argument, which will
+be translated into the value for a one-entry hashref. It is a parameterized
+role with two parameters
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-OneArgNew/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>calcurse</b>'
+Comment='<span size="xx-large">Text-based personal organizer</span>'
+Comment3='
+Calcurse is a text-based calendar and scheduling application. It helps
+keep track of events, appointments, and everyday tasks.
+
+A configurable notification system reminds the user of upcoming
+deadlines, and the curses based interface can be customized to suit user
+needs.
+'
+License='BSD'
+Screenshot=''
+Url='http://calcurse.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

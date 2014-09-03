@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fcitx-devel</b>'
+Comment='<span size="xx-large">Development files for Fcitx</span>'
+Comment3='
+The fcitx-devel package contains libraries and header files necessary for
+developing programs using Fcitx libraries.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/Fcitx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

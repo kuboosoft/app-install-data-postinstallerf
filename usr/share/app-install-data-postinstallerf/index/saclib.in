@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>saclib</b>'
+Comment='<span size="xx-large">Computer algebra library</span>'
+Comment3='
+SACLIB is a library of C programs for computer algebra derived from the
+SAC2 system.  Hoon Hong was the primary author of that earlier system.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.usna.edu/CS/~qepcad/B/QEPCAD.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

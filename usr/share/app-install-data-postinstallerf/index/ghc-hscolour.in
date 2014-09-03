@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-hscolour</b>'
+Comment='<span size="xx-large">Haskell hscolour library</span>'
+Comment3='
+This package provides the Haskell hscolour shared library.
+'
+License='GPL+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/hscolour'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>unicornscan</b>'
+Comment='<span size="xx-large">Scalable, accurate, flexible and efficient network probing</span>'
+Comment3='
+Unicornscan is an attempt at a user-land distributed TCP/IP stack. It is
+intended to provide a researcher a superior interface for introducing a
+stimulus into and measuring a response from a TCP/IP enabled device or
+network. Although it currently has hundreds of individual features, a main
+set of abilities include Asynchronous stateless TCP scanning with all
+variations of TCP flags, asynchronous stateless TCP banner grabbing,
+asynchronous protocol specific UDP scanning (sending enough of a signature
+to elicit a response), active and passive remote OS, application and
+component identification by analyzing responses, PCAP file logging and
+filtering, relational database output, custom module support, customized
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.unicornscan.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Date-HolidayParser</b>'
+Comment='<span size="xx-large">Parser for .holiday-files</span>'
+Comment3='
+This is a module that parses .holiday-style files. These are files that
+define holidays in various parts of the world. The files are easy to write
+and easy for humans to read, but can be hard to parse because the format
+allows many different ways to write it.
+'
+License='GPLv3+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Date-HolidayParser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

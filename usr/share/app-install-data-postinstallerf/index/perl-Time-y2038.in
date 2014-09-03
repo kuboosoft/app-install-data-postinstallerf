@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Time-y2038</b>'
+Comment='<span size="xx-large">Versions of Perls time functions which work beyond 2038</span>'
+Comment3='
+On many computers, Perls time functions will not work past the year 2038.
+This is a design fault in the underlying C libraries Perl uses. Timey2038
+provides replacements for those functions, which will work accurately
++/1 142 million years.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/Time-y2038'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

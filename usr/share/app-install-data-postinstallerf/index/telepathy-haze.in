@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>telepathy-haze</b>'
+Comment='<span size="xx-large">A multi-protocol Libpurple connection manager for Telepathy</span>'
+Comment3='
+telepathy-haze is a connection manager built around libpurple, the core of
+Pidgin (formerly Gaim), as a Summer of Code project under the Pidgin umbrella.
+Ultimately, any protocol supported by libpurple will be supported by
+telepathy-haze; for now, XMPP, MSN and AIM are known to work acceptably, and
+others will probably work too.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://developer.pidgin.im/wiki/Telepathy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

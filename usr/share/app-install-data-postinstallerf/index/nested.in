@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nested</b>'
+Comment='<span size="xx-large">A specialized editor focused on creating structured documents</span>'
+Comment3='
+An editor designed to help the user concentrate on writing content without been
+distracted by format or markup. It offers a rich WYSIWYM interface where the
+user writes plain text with a lightweight markup language.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://nestededitor.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

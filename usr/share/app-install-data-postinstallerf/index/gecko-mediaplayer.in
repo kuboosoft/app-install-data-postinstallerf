@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gecko-mediaplayer</b>'
+Comment='<span size="xx-large">Gnome MPlayer browser plugin</span>'
+Comment3='
+Gecko Media Player is a browser plugin that uses GNOME MPlayer to play media in
+a browser. It should work with all browsers on Unix-ish systems(Linux, BSD,
+Solaris) and use the NS4 API (Mozilla, Firefox, Opera, etc.).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kdekorte.googlepages.com/gecko-mediaplayer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

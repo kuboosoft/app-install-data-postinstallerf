@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libgringotts</b>'
+Comment='<span size="xx-large">A backend for managing encrypted data files on the disk</span>'
+Comment3='
+libGringotts is a small, easy-to-use, thread-safe C library
+ originally developed for Gringotts; its purpose is to
+encapsulate data (generic ASCII, but also binary data)
+in an encrypted and compressed structure, to be written
+in a file or used elseway. It makes use of strong
+encryption algorithms, to ensure the data are as safe
+as possible, and allow the user to have the complete
+control over all the algorithms used in the process.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gringotts.shlomifish.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

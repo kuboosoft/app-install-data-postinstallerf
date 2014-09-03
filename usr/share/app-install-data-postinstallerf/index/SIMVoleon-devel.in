@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>SIMVoleon-devel</b>'
+Comment='<span size="xx-large">Development files for SIMVoleon</span>'
+Comment3='
+Development files for SIMVoleon.
+
+URL          http//www.coin3d.org
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.coin3d.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

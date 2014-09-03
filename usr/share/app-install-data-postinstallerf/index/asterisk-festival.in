@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>asterisk-festival</b>'
+Comment='<span size="xx-large">Festival application for Asterisk</span>'
+Comment3='
+Application for the Asterisk PBX that uses Festival to convert text to speech.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.asterisk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

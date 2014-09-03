@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-ocr-latex</b>'
+Comment='<span size="xx-large">LaTeX support for ocr fonts</span>'
+Comment3='
+The package supports use of both ocr-a and ocr-b fonts in LaTeX
+documents.
+
+date 2007-03-11 140637 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

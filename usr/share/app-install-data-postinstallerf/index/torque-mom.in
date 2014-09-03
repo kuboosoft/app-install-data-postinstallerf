@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>torque-mom</b>'
+Comment='<span size="xx-large">Node execution daemon for TORQUE</span>'
+Comment3='
+TORQUE (Tera-scale Open-source Resource and QUEue manager) is a resource
+manager providing control over batch jobs and distributed compute nodes.
+TORQUE is based on OpenPBS version 2.3.12 and incorporates scalability,
+fault tolerance, and feature extension patches provided by USC, NCSA, OSC,
+the U.S. Dept of Energy, Sandia, PNNL, U of Buffalo, TeraGrid, and many
+other leading edge HPC organizations.
+
+This package holds the execute daemon required on every node.
+'
+License='OpenPBS and TORQUEv1.1'
+Screenshot=''
+Url='http://www.adaptivecomputing.com/products/open-source/torque/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

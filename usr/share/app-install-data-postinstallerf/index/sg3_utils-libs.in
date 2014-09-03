@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sg3_utils-libs</b>'
+Comment='<span size="xx-large">Shared library for sg3_utils</span>'
+Comment3='
+This package contains the shared library for sg3_utils.
+
+URL          http//sg.danny.cz/sg/sg3_utils.html
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://sg.danny.cz/sg/sg3_utils.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>calc-devel</b>'
+Comment='<span size="xx-large">Development files for the calc arithmetic system</span>'
+Comment3='
+This package contains files necessary to build applications which use the
+calc arbitrary precision arithmetic system.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://isthe.com/chongo/tech/comp/calc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

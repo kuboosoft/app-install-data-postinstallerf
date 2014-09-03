@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-mtTkinter</b>'
+Comment='<span size="xx-large">A thread-safe version of Tkinter</span>'
+Comment3='
+Although Tkinter is technically thread-safe
+practically speaking there are still problems when used in multithreaded
+Python applications.  The problems stem from the fact that the _tkinter
+module attempts to gain control of the main thread via a polling technique
+when processing calls from other threads.  If it succeeds, all is well.
+If it fails (i.e., after a timeout), the application receives an exception
+with the message "RuntimeError main thread is not in main loop".
+There is no way to tell when this might happen, so calling Tk routines
+from multiple threads seems to be problematic at best.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://tkinter.unpythonic.net/wiki/mtTkinter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

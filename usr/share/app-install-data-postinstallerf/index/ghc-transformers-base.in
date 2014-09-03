@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-transformers-base</b>'
+Comment='<span size="xx-large">Lift computations from the bottom of a transformer stack</span>'
+Comment3='
+A port of Haskell monadLibs BaseM typeclass to transformers.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/transformers-base'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

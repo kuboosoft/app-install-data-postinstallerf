@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Service-Gravatar</b>'
+Comment='<span size="xx-large">API accessor for gravatar.com</span>'
+Comment3='
+A library for accessing the Avatar services at gravatar.com.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

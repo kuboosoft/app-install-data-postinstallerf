@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-wai-logger</b>'
+Comment='<span size="xx-large">A logging system for WAI</span>'
+Comment3='
+A logging system for WAI.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/wai-logger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

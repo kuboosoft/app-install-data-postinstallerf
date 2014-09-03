@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>drupal6-features_extra</b>'
+Comment='<span size="xx-large">Features Extra provides faux exportables</span>'
+Comment3='
+Features Extra provides faux exportables
+(via Features) of several site-building components.
+
+Currently supports vocabularies; nodequeues (definitions);
+block settings; custom blocks (boxes).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/features_extra'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

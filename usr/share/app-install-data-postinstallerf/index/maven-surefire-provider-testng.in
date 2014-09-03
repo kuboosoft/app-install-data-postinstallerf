@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-surefire-provider-testng</b>'
+Comment='<span size="xx-large">TestNG provider for Maven Surefire</span>'
+Comment3='
+TestNG provider for Maven Surefire.
+'
+License='ASL 2.0 and CPL'
+Screenshot=''
+Url='http://maven.apache.org/surefire/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

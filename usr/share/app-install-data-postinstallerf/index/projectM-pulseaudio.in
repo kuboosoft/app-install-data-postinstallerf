@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>projectM-pulseaudio</b>'
+Comment='<span size="xx-large">The projectM visualization plugin for pulseaudio</span>'
+Comment3='
+This package allows the use of the projectM visualization plugin through any
+pulseaudio compatible applications.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://projectm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

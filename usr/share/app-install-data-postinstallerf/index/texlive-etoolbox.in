@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-etoolbox</b>'
+Comment='<span size="xx-large">Tool-box for LaTeX programmers using e-TeX</span>'
+Comment3='
+The etoolbox package is a toolbox of programming facilities
+geared primarily towards LaTeX class and package authors. It
+provides LaTeX frontends to some of the new primitives provided
+by e-TeX as well as some generic tools which are not strictly
+related to e-TeX but match the profile of this package. Note
+that the initial versions of this package were released under
+the name elatex. The package provides functions that seem to
+offer alternative ways of implementing some LaTeX kernel
+commands; nevertheless, the package will not modify any part of
+the LaTeX kernel.
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>drupal6-imageapi</b>'
+Comment='<span size="xx-large">ImageAPI supporting multiple toolkits</span>'
+Comment3='
+This API is meant to be used in place of the API provided by image.inc. You
+probably do not need to install this module unless another module are you
+using requires it. It provides no new features to your Drupal site. It only
+provides an API other modules can leverage. Currently GD2 and ImageMagick
+support are distributed with ImageAPI.
+
+This package provides the following Drupal modules
+* imageapi
+* imageapi_gd
+* imageapi_imagemagick
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/imageapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

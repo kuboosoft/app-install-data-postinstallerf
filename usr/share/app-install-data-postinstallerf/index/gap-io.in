@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gap-io</b>'
+Comment='<span size="xx-large">Unix I/O functionality for GAP</span>'
+Comment3='
+This GAP package provides a link to the standard UNIX I/O functionality
+that is available through the C library.  This part basically consists
+of functions on the GAP level that allow functions in the C library to
+be called.
+
+Built on top of this is a layer for buffered input/output which is
+implemented completely in the GAP language.  It is intended to be used
+by programs for which it is not necessary to have full direct access to
+the operating system.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www-groups.mcs.st-and.ac.uk/~neunhoef/Computer/Software/Gap/io.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-cmdargs-devel</b>'
+Comment='<span size="xx-large">Haskell cmdargs library development files</span>'
+Comment3='
+This package provides the Haskell cmdargs library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cmdargs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

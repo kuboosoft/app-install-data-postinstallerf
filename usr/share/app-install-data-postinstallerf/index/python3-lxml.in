@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-lxml</b>'
+Comment='<span size="xx-large">ElementTree-like Python 3 bindings for libxml2 and libxslt</span>'
+Comment3='
+lxml provides a Python 3 binding to the libxslt and libxml2 libraries.
+It follows the ElementTree API as much as possible in order to provide
+a more Pythonic interface to libxml2 and libxslt than the default
+bindings.  In particular, lxml deals with Python 3 Unicode strings
+rather than encoded UTF-8 and handles memory management automatically,
+unlike the default bindings.
+'
+License='BSD'
+Screenshot=''
+Url='http://lxml.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>grilo</b>'
+Comment='<span size="xx-large">Content discovery framework</span>'
+Comment3='
+Grilo is a framework that provides access to different sources of
+multimedia content, using a pluggable system.
+This package contains the core library and elements.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/Grilo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

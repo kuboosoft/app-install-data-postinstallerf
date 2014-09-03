@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libuv-devel</b>'
+Comment='<span size="xx-large">Development libraries for libuv</span>'
+Comment3='
+Development libraries for libuv
+
+URL          http//nodejs.org/
+'
+License='MIT and BSD and ISC'
+Screenshot=''
+Url='http://nodejs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

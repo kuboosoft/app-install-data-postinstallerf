@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>thermostat-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for thermostat</span>'
+Comment3='
+This package contains the API documentation for thermostat
+'
+License='GPLv2+ with exceptions and OFL'
+Screenshot=''
+Url='http://icedtea.classpath.org/thermostat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-vegas-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-vegas</span>'
+Comment3='
+Documentation for rubygem-vegas
+'
+License='MIT'
+Screenshot=''
+Url='http://code.quirkey.com/vegas/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

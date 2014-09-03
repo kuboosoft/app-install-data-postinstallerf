@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-Output</b>'
+Comment='<span size="xx-large">Utilities to test STDOUT and STDERR messages</span>'
+Comment3='
+TestOutput provides a simple interface for testing output sent to STDOUT
+or STDERR. A number of different utilities are included to try and be as
+flexible as possible to the tester.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Output/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

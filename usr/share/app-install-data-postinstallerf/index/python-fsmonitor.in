@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-fsmonitor</b>'
+Comment='<span size="xx-large">Filesystem Monitoring for Python</span>'
+Comment3='
+Filesystem Monitoring for Python
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/shaurz/fsmonitor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

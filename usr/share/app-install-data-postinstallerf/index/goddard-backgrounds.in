@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>goddard-backgrounds</b>'
+Comment='<span size="xx-large">Goddard desktop backgrounds</span>'
+Comment3='
+This package contains desktop backgrounds for the Goddard theme. Pulls in both
+Gnome and KDE themes.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F12_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ogdi-odbc</b>'
+Comment='<span size="xx-large">ODBC driver for OGDI</span>'
+Comment3='
+ODBC driver for OGDI.
+'
+License='BSD'
+Screenshot=''
+Url='http://ogdi.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

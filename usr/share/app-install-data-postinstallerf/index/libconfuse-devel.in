@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libconfuse-devel</b>'
+Comment='<span size="xx-large">Development files for libconfuse</span>'
+Comment3='
+Development files for libconfuse.
+
+URL          http//www.nongnu.org/confuse/
+'
+License='ISC'
+Screenshot=''
+Url='http://www.nongnu.org/confuse/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-a4wide</b>'
+Comment='<span size="xx-large">"Wide" a4 layout</span>'
+Comment3='
+This package increases the width of the typeset area of an a4
+page. This sort of operation is capable of producing
+typographically poor results; the operation itself is better
+provided by the geometry package. The package uses the a4
+package.
+
+date 2011-01-05 084638 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

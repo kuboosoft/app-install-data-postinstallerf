@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>golang-github-coreos-go-systemd-devel</b>'
+Comment='<span size="xx-large">Go bindings to systemd socket activation, journal and D-BUS APIs</span>'
+Comment3='
+Go bindings to systemd socket activation, journal and D-BUS APIs
+
+This package contains library source intended for building other packages
+which use coreos/go-systemd.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/coreos/go-systemd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

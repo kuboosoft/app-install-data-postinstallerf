@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-formtastic</b>'
+Comment='<span size="xx-large">A Rails form builder plugin with semantically rich and accessible markup</span>'
+Comment3='
+Formtastic is a Rails FormBuilder DSL (with some other goodies) to make it far
+easier to create beautiful, semantically rich, syntactically awesome, readily
+stylable and wonderfully accessible HTML forms in your Rails applications.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/justinfrench/formtastic/tree/master'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

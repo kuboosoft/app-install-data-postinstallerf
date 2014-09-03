@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-ut-thesis</b>'
+Comment='<span size="xx-large">University of Toronto thesis style</span>'
+Comment3='
+This not described as an official class, just one distributed
+"in the hope that it will be useful". A skeleton file, using
+the class, is provided.
+
+date 2012-06-01 191953 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

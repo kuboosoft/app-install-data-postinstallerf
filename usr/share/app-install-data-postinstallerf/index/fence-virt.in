@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-virt</b>'
+Comment='<span size="xx-large">A pluggable fencing framework for virtual machines</span>'
+Comment3='
+Fencing agent for virtual machines.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fence-virt.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

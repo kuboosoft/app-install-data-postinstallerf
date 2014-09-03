@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>icon-naming-utils</b>'
+Comment='<span size="xx-large">A script to handle icon names in desktop icon themes</span>'
+Comment3='
+A script for creating a symlink mapping for deprecated icon names to
+the new Icon Naming Specification names, for desktop icon themes.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://tango.freedesktop.org/Standard_Icon_Naming_Specification'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

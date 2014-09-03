@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n mupen64plus
+Type=Application
+Version=1.0
+Name=Mupen64plus
+Comment=Nintendo 64 Emulator (GTK Gui)
+Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;ArcadeGame

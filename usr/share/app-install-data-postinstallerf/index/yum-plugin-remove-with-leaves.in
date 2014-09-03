@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>yum-plugin-remove-with-leaves</b>'
+Comment='<span size="xx-large">Yum plugin to remove dependencies which are no longer used because of a removal</span>'
+Comment3='
+This plugin removes any unused dependencies that were brought in by an install
+but would not normally be removed. It helps to keep a system clean of unused
+libraries and packages.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

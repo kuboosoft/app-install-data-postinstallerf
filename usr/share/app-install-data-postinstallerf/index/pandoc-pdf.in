@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pandoc-pdf</b>'
+Comment='<span size="xx-large">Metapackage for pandoc pdf support</span>'
+Comment3='
+This package pulls in the TeXLive latex package collection needed by
+pandoc to generate pdf output using pdflatex.
+
+or texlive-collection-luatex respectively.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/pandoc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

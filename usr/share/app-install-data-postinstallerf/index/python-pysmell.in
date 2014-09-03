@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-pysmell</b>'
+Comment='<span size="xx-large">An autocompletion library for Python</span>'
+Comment3='
+PySmell is a python IDE completion helper.
+
+It tries to statically analyze Python source code, without executing it, and
+generates information about a projects structure that IDE tools can use.
+PySmell currently supports Vim, Emacs and TextMate. It can be integrated with
+any editor that can run Python scripts and has an auto-complete API.
+'
+License='BSD'
+Screenshot=''
+Url='https://code.google.com/p/pysmell/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

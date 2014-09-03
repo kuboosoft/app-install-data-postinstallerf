@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-pika</b>'
+Comment='<span size="xx-large">AMQP 0-9-1 client library for Python</span>'
+Comment3='
+Pika is a pure-Python implementation of the AMQP 0-9-1 protocol that
+tries to stay fairly independent of the underlying network support
+library.
+'
+License='MPLv1.1 or GPLv2'
+Screenshot=''
+Url='http://github.com/pika/pika'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

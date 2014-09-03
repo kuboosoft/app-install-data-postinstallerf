@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gfs-baskerville-fonts</b>'
+Comment='<span size="xx-large">GFS Baskerville Greek font</span>'
+Comment3='
+John Baskerville (1706-1775) got involed in typography late in his career but
+his contribution was significant. He was a successful entrepreneur and
+possesed an inquiring mind which he applied to produce many aesthetic and
+technical innovations in printing. He invented a new ink formula, a new type
+of smooth paper and made various improvements in the printing press. He was
+also involved in type design which resulted in a latin typeface which was used
+for the edition of Virgil, in 1757. The quality of the type was admired
+throughout of Europe and America and was revived with great success in the
+early 20th century.
+
+'
+License='OFL'
+Screenshot=''
+Url='http://www.greekfontsociety.gr/pages/en_typefaces18th.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

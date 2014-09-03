@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-Monolog</b>'
+Comment='<span size="xx-large">Sends your logs to files, sockets, inboxes, databases and various web services</span>'
+Comment3='
+Monolog sends your logs to files, sockets, inboxes, databases and various web
+services. Special handlers allow you to build advanced logging strategies.
+
+This library implements the PSR-3 [1] interface that you can type-hint against
+in your own libraries to keep a maximum of interoperability. You can also use it
+in your applications to make sure you can always use another compatible logger
+at a later time.
+Optional
+* php-aws-sdk (>= 2.4.9, < 3.0)
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/Seldaek/monolog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

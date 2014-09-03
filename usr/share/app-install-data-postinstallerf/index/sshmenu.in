@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sshmenu</b>'
+Comment='<span size="xx-large">Application to organize SSH connection information in a menu</span>'
+Comment3='
+SSHMenu is a small program (which is to be used outside of GNOME) that
+keeps all your regular SSH connections within a single menu. If you wish to
+have the full GNOME applet version of the menu, install gnome-applet-sshmenu.
+'
+License='BSD'
+Screenshot=''
+Url='http://sshmenu.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

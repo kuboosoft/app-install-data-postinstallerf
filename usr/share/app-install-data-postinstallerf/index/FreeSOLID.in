@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>FreeSOLID</b>'
+Comment='<span size="xx-large">3D collision detection C++ library</span>'
+Comment3='
+FreeSOLID is a library for collision detection of three-dimensional
+objects undergoing rigid motion and deformation. FreeSOLID is designed
+to be used in interactive 3D graphics applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/freesolid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

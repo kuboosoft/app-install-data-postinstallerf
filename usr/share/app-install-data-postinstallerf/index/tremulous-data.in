@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tremulous-data</b>'
+Comment='<span size="xx-large">Data files for tremulous the FPS game</span>'
+Comment3='
+Data files for tremulous the Quake 3 based FPS game.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://tremulous.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

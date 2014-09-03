@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>drupal7-date_ical</b>'
+Comment='<span size="xx-large">Allows creation of an iCal feed in Views</span>'
+Comment3='
+This module contains code to create an iCal feed in Views.
+It has been pulled out of the Calendar iCal module because
+it has no dependency on Calendar and
+it could be used on any view.
+The code has also been generalized so that
+it will work for any entity, not just nodes.
+It creates an iCal view mode for every entity type
+that can be used to to configure the description
+used in the iCal feed, and adds theme suggestions to
+tell Drupal to look for an iCal version of the entity template.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/date_ical'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

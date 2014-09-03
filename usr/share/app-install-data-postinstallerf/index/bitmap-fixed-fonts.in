@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bitmap-fixed-fonts</b>'
+Comment='<span size="xx-large">Selected set of bitmap fonts</span>'
+Comment3='
+
+The bitmap-fonts package provides a number of bitmap fonts selected
+from the xorg package designed for use locations such as
+terminals.
+'
+License='GPLv2'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

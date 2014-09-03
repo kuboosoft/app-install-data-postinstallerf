@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>flann-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for flann</span>'
+Comment3='
+Development headers and libraries for flann.
+
+URL          http//www.cs.ubc.ca/~mariusm/index.php/FLANN/FLANN
+'
+License='BSD'
+Screenshot=''
+Url='http://www.cs.ubc.ca/~mariusm/index.php/FLANN/FLANN'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

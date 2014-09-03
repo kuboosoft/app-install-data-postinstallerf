@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>openlayers</b>'
+Comment='<span size="xx-large">A JavaScript library for displaying map data in web browsers</span>'
+Comment3='
+OpenLayers is a pure JavaScript library for displaying map data in most
+modern web browsers, with no server-side dependencies. OpenLayers implements
+a JavaScript API for building rich web-based geographic applications,
+similar to the Google Maps and MSN Virtual Earth APIs, with one important
+Source software community.
+
+Furthermore, OpenLayers implements industry-standard methods for geographic
+data access, such as the OpenGIS Consortiums Web Mapping Service (WMS) and
+Web Feature Service (WFS) protocols. Under the hood, OpenLayers is written
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openlayers.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

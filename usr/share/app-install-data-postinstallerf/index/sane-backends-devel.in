@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sane-backends-devel</b>'
+Comment='<span size="xx-large">SANE development toolkit</span>'
+Comment3='
+This package contains libraries and header files for writing Scanner Access Now
+Easy (SANE) modules.
+
+'
+License='GPLv2+ and GPLv2+ with exceptions and Public Domain'
+Screenshot=''
+Url='http://www.sane-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

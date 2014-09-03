@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Library-CallNumber-LC</b>'
+Comment='<span size="xx-large">Normalize Library of Congress call numbers for sorting</span>'
+Comment3='
+This module takes Library of Congress (LC) call numbers and normalizes them so
+that they are comparable with each other. This supports sorting and
+left-anchored searching, such that searching "A11*" should give you all the A11
+call numbers.
+'
+License='(GPL+ or Artistic) or BSD'
+Screenshot=''
+Url='http://search.cpan.org/dist/Library-CallNumber-LC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

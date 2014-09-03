@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>apache-commons-codec</b>'
+Comment='<span size="xx-large">Implementations of common encoders and decoders</span>'
+Comment3='
+Commons Codec is an attempt to provide definitive implementations of
+commonly used encoders and decoders. Examples include Base64, Hex,
+Phonetic and URLs.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/codec/'
+Phonetic and URLs.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

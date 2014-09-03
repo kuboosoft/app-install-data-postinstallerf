@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>steam-noruntime</b>'
+Comment='<span size="xx-large">Use system libraries instead of the Steam Runtime</span>'
+Comment3='
+The Steam client normally uses a set of libraries derived from Ubuntu (the Steam
+Runtime); and all titles on Steam are compiled against those libraries.
+
+This package takes care of installing all the requirements to use system
+libraries in place of the Steam Runtime and a profile environment file to enable
+it. Please note that this is not a supported Valve configuration and it may lead
+to unexpected results.
+'
+License='Steam License Agreement'
+Screenshot=''
+Url='http://www.steampowered.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

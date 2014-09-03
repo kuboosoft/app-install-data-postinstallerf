@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n gxneur
+Icon=/usr/share/app-install-data-postinstallerf/icons/gxneur.png
+Terminal=false
+Type=Application
+Categories=Utility;GTK;GNOME;Accessibility
+StartupNotify=true
+Name=gXNeur
+Name[ru]=gXNeur
+Comment=Automatic keyboard layout switcher
+Comment[ru]=Автоматический переключатель раскладки клавиатуры

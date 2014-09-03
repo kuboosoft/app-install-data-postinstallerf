@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>simcrs-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development helper tools for simcrs</span>'
+Comment3='
+This package contains the header files, shared libraries and
+development helper tools for simcrs. If you would like to develop
+programs using simcrs, you will need to install simcrs-devel.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://simcrs.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

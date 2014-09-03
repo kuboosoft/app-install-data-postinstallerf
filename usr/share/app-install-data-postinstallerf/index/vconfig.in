@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vconfig</b>'
+Comment='<span size="xx-large">Linux 802.1q VLAN configuration utility</span>'
+Comment3='
+The vconfig program configures and adjusts 802.1q VLAN parameters.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.candelatech.com/~greear/vlan.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

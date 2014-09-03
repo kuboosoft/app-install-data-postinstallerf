@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-sudoku</b>'
+Comment='<span size="xx-large">GNOME Sudoku game</span>'
+Comment3='
+GNOME version of the popular Sudoku Japanese logic game.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://projects.gnome.org/gnome-games/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

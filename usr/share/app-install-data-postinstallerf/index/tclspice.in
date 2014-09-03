@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tclspice</b>'
+Comment='<span size="xx-large">Tcl/Tk interface for ngspice</span>'
+Comment3='
+TclSpice is an improved version of Berkeley Spice designed to be used with
+the  Tcl/Tk scripting language. The project is based upon the NG-Spice source
+code base with many improvements.
+'
+License='BSD'
+Screenshot=''
+Url='http://ngspice.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

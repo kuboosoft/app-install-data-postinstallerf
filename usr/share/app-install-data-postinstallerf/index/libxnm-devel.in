@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libxnm-devel</b>'
+Comment='<span size="xx-large">Development files for libxnm</span>'
+Comment3='
+The libxnm-devel package contains libraries and header files for
+developing applications that use libxnm.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xnm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rawdog</b>'
+Comment='<span size="xx-large">RSS Aggregator Without Delusions of Grandeur</span>'
+Comment3='
+rawdog is an RSS Aggregator Without Delusions Of Grandeur.
+It is a "river of news"-style aggregator it uses feedparser
+to download feeds in RSS, Atom and a variety of other formats,
+and (by default) produces static HTML pages containing the newest
+articles in date order.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://offog.org/code/rawdog.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

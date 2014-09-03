@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mawk</b>'
+Comment='<span size="xx-large">Interpreter for the AWK programming language</span>'
+Comment3='
+mawk is an interpreter for the AWK programming language.  The AWK language is
+useful for manipulation of data files, text retrieval and processing, and for
+prototyping and experimenting with algorithms.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://invisible-island.net/mawk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

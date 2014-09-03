@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>audiocd-kio</b>'
+Comment='<span size="xx-large">Audiocd kio slave</span>'
+Comment3='
+Audiocd kio slave.
+
+URL          https//projects.kde.org/projects/kde/kdemultimedia/audiocd-kio
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdemultimedia/audiocd-kio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

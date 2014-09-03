@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-escodegen</b>'
+Comment='<span size="xx-large">ECMAScript code generator</span>'
+Comment3='
+ECMAScript code generator.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/Constellation/escodegen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

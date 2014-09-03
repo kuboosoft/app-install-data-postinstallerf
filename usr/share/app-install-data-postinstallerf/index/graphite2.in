@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>graphite2</b>'
+Comment='<span size="xx-large">Font rendering capabilities for complex non-Roman writing systems</span>'
+Comment3='
+Graphite2 is a project within SIL?s Non-Roman Script Initiative and Language
+Software Development groups to provide rendering capabilities for complex
+non-Roman writing systems. Graphite can be used to create ?smart fonts? capable
+of displaying writing systems with various complex behaviors. With respect to
+the Text Encoding Model, Graphite handles the "Rendering" aspect of writing
+system implementation.
+
+'
+License='(LGPLv2+ or GPLv2+ or MPL) and (Netscape or GPLv2+ or LGPLv2+)'
+Screenshot=''
+Url='http://sourceforge.net/projects/silgraphite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

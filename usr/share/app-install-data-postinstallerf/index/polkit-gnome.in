@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>polkit-gnome</b>'
+Comment='<span size="xx-large">PolicyKit integration for the GNOME desktop</span>'
+Comment3='
+polkit-gnome provides an authentication agent for PolicyKit
+that matches the look and feel of the GNOME desktop.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/PolicyKit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

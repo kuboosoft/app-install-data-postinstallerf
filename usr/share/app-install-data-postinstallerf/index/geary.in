@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>geary</b>'
+Comment='<span size="xx-large">A lightweight email program designed around conversations</span>'
+Comment3='
+Geary is a new email reader for GNOME designed to let you read your
+email quickly and effortlessly. Its interface is based on
+conversations, so you can easily read an entire discussion without
+having to click from message to message. Geary is still in early
+development and has limited features today, but were planning to add
+drag-and-drop attachments, lightning-fast searching, multiple account
+support and much more. Eventually wed like Geary to have an
+extensible plugin architecture so that developers will be able to add
+all kinds of nifty features in a modular way.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://yorba.org/geary/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

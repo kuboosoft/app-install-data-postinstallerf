@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kernel</b>'
+Comment='<span size="xx-large">The Linux kernel</span>'
+Comment3='
+The kernel package contains the Linux kernel (vmlinuz), the core of any
+Linux operating system.  The kernel handles the basic functions
+of the operating system memory allocation, process allocation, device
+input and output, etc.
+'
+License='GPLv2 and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

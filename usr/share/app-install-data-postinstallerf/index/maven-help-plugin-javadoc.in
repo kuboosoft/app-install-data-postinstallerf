@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-help-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for maven-help-plugin</span>'
+Comment3='
+API documentation for maven-help-plugin.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-help-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

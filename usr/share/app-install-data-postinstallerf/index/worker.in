@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>worker</b>'
+Comment='<span size="xx-large">File Manager for the X11</span>'
+Comment3='
+A X11 file-manager that features low requirements and easy to access archives.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://boomerangsworld.de/worker'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

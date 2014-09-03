@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>collectd-varnish</b>'
+Comment='<span size="xx-large">Varnish plugin for collectd</span>'
+Comment3='
+This plugin collects information about Varnish, an HTTP accelerator.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

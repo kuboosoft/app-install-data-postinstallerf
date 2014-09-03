@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kcc</b>'
+Comment='<span size="xx-large">Kanji Code Converter</span>'
+Comment3='
+kcc is a kanji code converter with an auto detection.
+'
+License='GPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

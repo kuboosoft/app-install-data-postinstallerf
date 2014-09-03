@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-HTTP-Client</b>'
+Comment='<span size="xx-large">Easy way to perform multiple HTTP requests and process their results</span>'
+Comment3='
+The HTTP_Client class wraps around HTTP_Request and provides a higher level
+interface for performing multiple HTTP requests.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/HTTP_Client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

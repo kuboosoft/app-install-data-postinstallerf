@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-nso</b>'
+Comment='<span size="xx-large">Northern Sotho hunspell dictionaries</span>'
+Comment3='
+Northern Sotho hunspell dictionaries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.translate.org.za/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

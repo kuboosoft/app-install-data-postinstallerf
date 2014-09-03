@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openwebbeans-tomcat7</b>'
+Comment='<span size="xx-large">Apache OpenWebBeans Tomcat 7 plugin</span>'
+Comment3='
+ApacheOpenWebBeans Tomcat 7 Web Profile.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://openwebbeans.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

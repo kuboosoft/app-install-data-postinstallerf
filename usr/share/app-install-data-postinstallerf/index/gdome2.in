@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gdome2</b>'
+Comment='<span size="xx-large">DOM level 2 library for accessing XML files</span>'
+Comment3='
+gdome2 is a fast, light and complete DOM level 2 implementation based
+on libxml2. Although it has been written for the GNOME project, it can
+be used stand-alone.  A DOM implementation (also called a host
+implementation) is what makes a parsed XML or HTML document available
+for processing via the DOM interface.  gdome2 currently supports the
+"Core", "XML", "Events" and "MutationEvents" modules from the DOM 2
+Recommendation (see http//www.w3.org/TR/DOM-Level-2-Core/ and
+http//www.w3.org/TR/DOM-L evel-2-Events/), and is supposed to become
+a full implementation of all the DOM Level 2 standard.  Now gdome2
+also partially supports the XPath module from the DOM level 3 drafts.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gdome2.cs.unibo.it/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

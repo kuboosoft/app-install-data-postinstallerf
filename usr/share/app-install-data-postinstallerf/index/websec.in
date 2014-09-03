@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>websec</b>'
+Comment='<span size="xx-large">Web Secretary - Web page monitoring software with highlighting</span>'
+Comment3='
+Web Secretary is a web page change monitoring software. It will detect changes
+based on content analysis, making sure that its not just HTML that changed,
+but actual content. You can tell it what to ignore in the page (hit counters
+and such), and it can mail you the document with the changes highlighted or
+load the highlighted page in a browser.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://baruch.ev-en.org/proj/websec/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

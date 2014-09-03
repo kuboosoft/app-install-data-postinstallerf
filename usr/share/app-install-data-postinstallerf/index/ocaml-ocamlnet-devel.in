@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-ocamlnet-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-ocamlnet</span>'
+Comment3='
+The ocaml-ocamlnet-devel package contains libraries and signature files for
+developing applications that use ocaml-ocamlnet.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://projects.camlcity.org/projects/ocamlnet.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

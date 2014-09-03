@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mingw32-qt5-qt3d</b>'
+Comment='<span size="xx-large">Qt5 for Windows - Qt3d component</span>'
+Comment3='
+This package contains the Qt software toolkit for developing
+cross-platform applications.
+
+This is the Windows version of Qt, for use in conjunction with the
+Fedora Windows cross-compiler.
+'
+License='GPLv3 with exceptions or LGPLv2 with exceptions'
+Screenshot=''
+Url='http://www.qtsoftware.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-manuel</b>'
+Comment='<span size="xx-large">Build tested documentation</span>'
+Comment3='
+Manuel lets you mix and match traditional doctests with custom test
+syntax.  Several plug-ins are included that provide new test syntax.
+You can also create your own plug-ins.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/manuel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

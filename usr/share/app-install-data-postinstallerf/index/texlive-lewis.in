@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-lewis</b>'
+Comment='<span size="xx-large">Draw Lewis structures</span>'
+Comment3='
+The package provides rudimentary support for drawing Lewis
+Structures. Support is limited to elements that support the
+octet rule.
+
+date 2007-03-08 215853 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

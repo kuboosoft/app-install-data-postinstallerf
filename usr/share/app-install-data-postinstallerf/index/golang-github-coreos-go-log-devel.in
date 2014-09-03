@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>golang-github-coreos-go-log-devel</b>'
+Comment='<span size="xx-large">A golang library for logging to systemd</span>'
+Comment3='
+A golang library for logging to systemd
+
+This package contains library source intended for building other packages
+which use coreos/go-log.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/coreos/go-log'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

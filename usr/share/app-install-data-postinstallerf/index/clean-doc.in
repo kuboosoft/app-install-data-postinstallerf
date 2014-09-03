@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clean-doc</b>'
+Comment='<span size="xx-large">Documentation for the Clean compiler</span>'
+Comment3='
+Documentation for the Clean compiler and libraries
+'
+License='LGPLv2+ or BSD'
+Screenshot=''
+Url='http://wiki.clean.cs.ru.nl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

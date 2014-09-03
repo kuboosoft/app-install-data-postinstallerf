@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-XML-SAX-Writer</b>'
+Comment='<span size="xx-large">SAX2 Writer</span>'
+Comment3='
+A new XML Writer to match the SAX2 effort.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-SAX-Writer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-pecl-msgpack</b>'
+Comment='<span size="xx-large">API for communicating with MessagePack serialization</span>'
+Comment3='
+This extension provide API for communicating with MessagePack serialization.
+
+MessagePack is an efficient binary serialization format. It lets you exchange
+data among multiple languages like JSON but its faster and smaller.
+For example, small integers (like flags or error code) are encoded into a
+single byte, and typical short strings only require an extra byte in addition
+to the strings themselves.
+If you ever wished to use JSON for convenience (storing an image with metadata)
+but could not for technical reasons (encoding, size, speed...), MessagePack is
+'
+License='BSD'
+Screenshot=''
+Url='http://pecl.php.net/package/msgpack'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

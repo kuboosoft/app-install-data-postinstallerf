@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-pyrad</b>'
+Comment='<span size="xx-large">Python RADIUS client</span>'
+Comment3='
+pyrad is an implementation of a RADIUS client as described in RFC2865.
+It takes care of all the details like building RADIUS packets, sending
+them and decoding responses.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/wichert/pyrad'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

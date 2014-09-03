@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>djmount</b>'
+Comment='<span size="xx-large">Mount MediaServers content as a Linux file system</span>'
+Comment3='
+djmount is a UPnP AV client. It mounts as a Linux file system the media content
+of compatible UPnP AV devices. Djmount discovers automatically all UPnP AV
+Media Servers on the network, and make the content available in a directory
+tree. All shared files (e.g. Audio or Video files) are directly visible and
+can be played using your favorite media player.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://djmount.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

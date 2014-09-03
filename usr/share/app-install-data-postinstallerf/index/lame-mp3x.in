@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lame-mp3x</b>'
+Comment='<span size="xx-large">MP3 frame analyzer</span>'
+Comment3='
+This package contains the mp3x frame analyzer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lame.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

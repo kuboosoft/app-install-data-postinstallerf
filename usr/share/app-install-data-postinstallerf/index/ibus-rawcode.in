@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-rawcode</b>'
+Comment='<span size="xx-large">The Rawcode engine for IBus input platform</span>'
+Comment3='
+The Rawcode engine for IBus platform.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/ibus-rawcode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libpath_utils-devel</b>'
+Comment='<span size="xx-large">Development files for libpath_utils</span>'
+Comment3='
+Utility functions to manipulate filesystem pathnames
+
+URL          http//fedorahosted.org/sssd/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

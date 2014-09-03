@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ii</b>'
+Comment='<span size="xx-large">IRC IT, simple FIFO based IRC client</span>'
+Comment3='
+A minimalist FIFO and file-system-based IRC client. It creates an IRC
+directory tree with server, channel and nick name directories. In every
+directory a FIFO in file and a normal out file is created.
+'
+License='MIT'
+Screenshot=''
+Url='http://tools.suckless.org/ii'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

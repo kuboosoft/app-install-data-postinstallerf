@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-uri-js</b>'
+Comment='<span size="xx-large">URI parsing/validating/resolving library for Javascript</span>'
+Comment3='
+URI.js is an RFC 3986 compliant, scheme extendable URI
+parsing/validating/resolving library for all JavaScript
+environments (browsers, Node.js, etc).
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/garycourt/uri-js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

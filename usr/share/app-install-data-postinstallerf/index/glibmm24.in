@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>glibmm24</b>'
+Comment='<span size="xx-large">C++ interface for the GLib library</span>'
+Comment3='
+glibmm is the official C++ interface for the popular cross-platform
+library GLib. It provides non-UI API that is not available in standard
+C++ and makes it possible for gtkmm to wrap GObject-based APIs.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

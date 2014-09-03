@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>sfbm</b>'
+Comment='<span size="xx-large">Simple file browser in the form of a menu</span>'
+Comment3='
+SFBM is a simple file browser that lives in the systray.
+
+Features
+Browse the local file system.
+Open files by clicking on them. (!)
+Open a directory in your file manager by middle-clicking on the folder,
+or a file in it.
+Or do the same thing by double-clicking on a folder.
+Drag and drop from the menu, but not to it.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/kahu/sfbm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

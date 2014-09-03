@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gap-emacs-el</b>'
+Comment='<span size="xx-large">Emacs Lisp source files for GAP</span>'
+Comment3='
+Emacs Lisp source files for GAP.  This package is not needed to use the
+GAP Emacs support.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gap-system.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mingw64-pdcurses</b>'
+Comment='<span size="xx-large">Curses library for MinGW64</span>'
+Comment3='
+PDCurses is a public domain curses library for DOS, OS/2, Win32, X11
+and SDL, implementing most of the functions available in X/Open and
+System V R4 curses. It supports many compilers for these
+platforms. The X11 port lets you recompile existing text-mode curses
+programs to produce native X11 applications.
+
+Note that ncurses is not available for MinGW / Windows.  Applications
+which need curses functionality can use this package, provided they
+dont use any of the extensions specific to ncurses.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://pdcurses.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>autokey-gtk</b>'
+Comment='<span size="xx-large">AutoKey GTK+ front end</span>'
+Comment3='
+This package contains the GTK+ front end for autokey
+'
+License='GPLv3'
+Screenshot=''
+Url='http://autokey.googlecode.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

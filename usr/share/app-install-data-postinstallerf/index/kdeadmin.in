@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>kdeadmin</b>'
+Comment='<span size="xx-large">KDE Administrative tools</span>'
+Comment3='
+The kdeadmin metapackage includes administrative tools including
+* kcron systemsettings module for the cron task scheduler
+* ksystemlog system log viewer
+
+* kuser user manager
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

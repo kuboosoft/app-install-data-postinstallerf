@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gmyth-devel</b>'
+Comment='<span size="xx-large">Development libraries for MythTV remote access</span>'
+Comment3='
+gmyth-devel contains development libraries and headers for the GMyth and
+GMyth-UPNP libraries.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gmyth.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

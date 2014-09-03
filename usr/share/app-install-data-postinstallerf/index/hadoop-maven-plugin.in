@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hadoop-maven-plugin</b>'
+Comment='<span size="xx-large">Apache Hadoop maven plugin</span>'
+Comment3='
+The Apache Hadoop maven plugin
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://hadoop.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

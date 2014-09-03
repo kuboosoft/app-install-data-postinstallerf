@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>saoimage</b>'
+Comment='<span size="xx-large">Utility for displaying astronomical images</span>'
+Comment3='
+SAOimage (pronounced S-A-0-image) is a utility for displaying astronomical
+images in the X11 window environment. It was written at the Smithsonian
+Astrophysical Observatory by Mike Van Hilst in 1990 and is now maintained
+by Doug Mink.
+
+Image files can be read directly, or image data may be passed through a
+named pipe (Unix) or a mailbox (VMS) from IRAF display tasks. SAOimage
+provides a large selection of options for zooming, panning, scaling,
+coloring, pixel readback, display blinking, and region specification.
+User interactions are generally performed with the mouse. Mouse tracking in
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tdc-www.harvard.edu/software/saoimage/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

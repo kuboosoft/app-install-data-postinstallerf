@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-di</b>'
+Comment='<span size="xx-large">Python library for dependency injection support</span>'
+Comment3='
+This python package provides a "di" module. The module contains a couple of
+decorators which try to implement the Dependency Injection (IoC) pattern
+without requiring the user to change local variables in his methods.
+
+It is intended to be used in unit testing environments.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorapeople.org/cgit/msivak/public_git/python-di.git/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

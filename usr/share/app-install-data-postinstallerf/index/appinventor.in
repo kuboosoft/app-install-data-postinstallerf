@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>appinventor</b>'
+Comment='<span size="xx-large">MIT App Inventor Setup package</span>'
+Comment3='
+A new tool that makes it easy for anyone to create mobile applications
+for Android-powered devices
+'
+License='SDK'
+Screenshot=''
+Url='http://appinventor.mit.edu/explore/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

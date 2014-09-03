@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libglpng</b>'
+Comment='<span size="xx-large">Toolkit for loading PNG images as OpenGL textures</span>'
+Comment3='
+glpng is a small toolkit to make loading PNG image files as an OpenGL
+texture as easy as possible.
+
+'
+License='MIT'
+Screenshot=''
+Url='https://admin.fedoraproject.org/pkgdb/packages/name/libglpng'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

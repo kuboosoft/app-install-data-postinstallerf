@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cairo-dock-plug-ins</b>'
+Comment='<span size="xx-large">Plug-ins files for cairo-dock</span>'
+Comment3='
+This package contains plug-ins files for cairo-dock.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.glx-dock.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

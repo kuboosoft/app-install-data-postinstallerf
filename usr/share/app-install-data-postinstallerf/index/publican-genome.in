@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>publican-genome</b>'
+Comment='<span size="xx-large">Common documentation files for genome</span>'
+Comment3='
+This package provides common files and templates needed to build documentation
+for genome with publican.
+'
+License='Open Publication'
+Screenshot=''
+Url='https://fedorahosted.org/publican'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

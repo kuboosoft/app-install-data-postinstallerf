@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zukitwo-common</b>'
+Comment='<span size="xx-large">Files common to Zukitwo themes</span>'
+Comment3='
+Files which are common to all Zukitwo themes.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://lassekongo83.deviantart.com/art/Zukitwo-203936861'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

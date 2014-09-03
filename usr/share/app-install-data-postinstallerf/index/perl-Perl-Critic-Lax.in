@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Perl-Critic-Lax</b>'
+Comment='<span size="xx-large">Policies that let you slide on common exceptions</span>'
+Comment3='
+The Perl-Critic-Lax distribution includes versions of core PerlCritic
+modules with built-in exceptions. If you really like a PerlCritic policy,
+but find that you often violate it in a specific way that seems pretty darn
+reasonable, maybe theres a Lax policy. If there isnt, send one in!
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic-Lax/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

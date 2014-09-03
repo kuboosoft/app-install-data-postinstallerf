@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-InputFilter</b>'
+Comment='<span size="xx-large">Zend Framework 2: InputFilter Component</span>'
+Comment3='
+The Zend\InputFilter component can be used to filter and validate generic sets
+of input data. For instance, you could use it to filter $_GET or $_POST values,
+CLI arguments, etc.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.input-filter.intro.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

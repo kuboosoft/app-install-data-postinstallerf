@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>avahi-compat-libdns_sd-devel</b>'
+Comment='<span size="xx-large">Header files for the Apple Bonjour mDNSResponder compatibility libraries</span>'
+Comment3='
+Header files for development with the Apple Bonjour mDNSResponder compatibility
+libraries.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://avahi.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

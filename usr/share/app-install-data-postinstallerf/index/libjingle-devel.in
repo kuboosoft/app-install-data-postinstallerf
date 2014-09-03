@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libjingle-devel</b>'
+Comment='<span size="xx-large">Development files for libjingle</span>'
+Comment3='
+The libjingle-devel package contains libraries and header files for
+developing applications that use libjingle.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/apis/talk/libjingle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

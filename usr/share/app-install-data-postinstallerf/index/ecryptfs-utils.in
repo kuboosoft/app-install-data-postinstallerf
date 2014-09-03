@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ecryptfs-utils</b>'
+Comment='<span size="xx-large">The eCryptfs mount helper and support libraries</span>'
+Comment3='
+eCryptfs is a stacked cryptographic filesystem that ships in Linux
+kernel versions 2.6.19 and above. This package provides the mount
+helper and supporting libraries to perform key management and mount
+functions.
+
+Install ecryptfs-utils if you would like to mount eCryptfs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/ecryptfs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libQGLViewer-devel</b>'
+Comment='<span size="xx-large">Development files for libQGLViewer</span>'
+Comment3='
+The libQGLViewer-devel package contains libraries and header files for
+developing applications that use libQGLViewer.
+
+'
+License='GPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://www.libqglviewer.com/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

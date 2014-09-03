@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-setuptools</b>'
+Comment='<span size="xx-large">Easily build and distribute Python 3 packages</span>'
+Comment3='
+Setuptools is a collection of enhancements to the Python 3 distutils that allow
+you to more easily build and distribute Python 3 packages, especially ones that
+have dependencies on other packages.
+
+This package also contains the runtime components of setuptools, necessary to
+execute the software that requires pkg_resources.py.
+'
+License='Python or ZPLv2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/setuptools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

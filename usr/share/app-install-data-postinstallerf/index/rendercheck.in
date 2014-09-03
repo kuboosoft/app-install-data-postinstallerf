@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rendercheck</b>'
+Comment='<span size="xx-large">Tool to verify correct operation of the XRENDER extension</span>'
+Comment3='
+Tests a Render extension implementation against separate calculations of
+expected output.
+'
+License='GPLv2 and MIT'
+Screenshot=''
+Url='http://cgit.freedesktop.org/xorg/app/rendercheck'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

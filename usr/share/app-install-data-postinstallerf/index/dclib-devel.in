@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dclib-devel</b>'
+Comment='<span size="xx-large">Development libraries for Direct Connect</span>'
+Comment3='
+This library implements the Direct Connect file sharing protocol.
+The package contains the C++ headers and library to compile programs based
+on dclib.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/wxdcgui/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

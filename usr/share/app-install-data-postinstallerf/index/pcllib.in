@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>pcllib</b>'
+Comment='<span size="xx-large">Portable Coroutine Library (PCL)</span>'
+Comment3='
+The Portable Co-routine Library (PCL) implements the low level
+functionality for co-routines in C. Co-routines are a very simple
+cooperative multitasking environment where the switch from one task
+to another is done explicitly by a function call. Co-routines are a
+lot faster and require much less OS resources than processes or
+threads.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xmailserver.org/libpcl.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

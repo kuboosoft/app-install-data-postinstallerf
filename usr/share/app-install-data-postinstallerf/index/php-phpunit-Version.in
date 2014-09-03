@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-phpunit-Version</b>'
+Comment='<span size="xx-large">Managing the version number of Git-hosted PHP projects</span>'
+Comment3='
+Library that helps with managing the version number
+of Git-hosted PHP projects.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/sebastianbergmann/version'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

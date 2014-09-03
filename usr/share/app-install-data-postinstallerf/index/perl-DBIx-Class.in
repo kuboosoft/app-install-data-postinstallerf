@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-DBIx-Class</b>'
+Comment='<span size="xx-large">Extensible and flexible object <-> relational mapper</span>'
+Comment3='
+This is an SQL to OO mapper with an object API inspired by ClassDBI
+(and a compatibility layer as a springboard for porting) and a
+resultset API that allows abstract encapsulation of database
+operations. It aims to make representing queries in your code as perl-
+ish as possible while still providing access to as many of the
+capabilities of the database as possible, including retrieving related
+records from multiple tables in a single query, JOIN, LEFT JOIN, COUNT,
+DISTINCT, GROUP BY and HAVING support.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DBIx-Class/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

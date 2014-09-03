@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-django-socialregistration</b>'
+Comment='<span size="xx-large">Django application enabling registration through a variety of APIs</span>'
+Comment3='
+Django Social Registration enables developers to add alternative registration
+methods based on third party sites.
+
+Supported methods currently are
+    OpenID
+    OAuth
+    Instagram
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/flashingpumpkin/django-socialregistration'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

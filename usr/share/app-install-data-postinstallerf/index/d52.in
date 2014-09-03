@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>d52</b>'
+Comment='<span size="xx-large">Disassemblers for 8051, 8048, and Z80 families</span>'
+Comment3='
+D52 is collection of disassemblers for the 8051, 8048, and Z80
+families of microcontrollers and microprocessors.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.brouhaha.com/~eric/software/d52/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

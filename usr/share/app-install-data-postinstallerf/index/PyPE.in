@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>PyPE</b>'
+Comment='<span size="xx-large">Lightweight but powerful graphical editor for developers</span>'
+Comment3='
+PyPE (Python Programmers Editor) was written in order to offer a
+lightweight but powerful editor for those of you who think Emacs is too
+much and idle is too little. Syntax highlighting is included out of the
+box, as is multiple open documents via tabs.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pype.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>linux_logo</b>'
+Comment='<span size="xx-large">Show a logo with some system info on the console</span>'
+Comment3='
+Linux logo shows a logo, a colorful penguin by default, with some optional
+system info on the console. Its typically used to generate issue and motd
+files or executed upon login.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.deater.net/weave/vmwprod/linux_logo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

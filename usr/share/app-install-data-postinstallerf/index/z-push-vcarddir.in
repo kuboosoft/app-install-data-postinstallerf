@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>z-push-vcarddir</b>'
+Comment='<span size="xx-large">vCard directory data backend provider for Z-Push</span>'
+Comment3='
+The z-push-vcarddir package contains the vCard directory backend data
+provider for Z-Push. If you want Z-Push to access a vCard directory,
+you will need to install this package.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.z-push.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

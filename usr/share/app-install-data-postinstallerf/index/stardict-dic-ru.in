@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>stardict-dic-ru</b>'
+Comment='<span size="xx-large">Russian(ru) dictionaries for StarDict</span>'
+Comment3='
+Russian(ru) dictionaries for StarDict.
+These dictionaries are included currently
+mueller7.
+You can download more at http//stardict.sourceforge.net
+'
+License='GPL+'
+Screenshot=''
+Url='http://stardict.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

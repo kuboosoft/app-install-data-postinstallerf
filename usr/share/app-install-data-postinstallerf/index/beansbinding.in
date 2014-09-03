@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>beansbinding</b>'
+Comment='<span size="xx-large">Beans Binding (JSR 295) reference implementation</span>'
+Comment3='
+In essence, Beans Binding (JSR 295) is about keeping two properties
+(typically of two objects) in sync. An additional emphasis is placed
+on the ability to bind to Swing components, and easy integration with
+IDEs such as NetBeans. This project provides the reference implementation.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://beansbinding.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

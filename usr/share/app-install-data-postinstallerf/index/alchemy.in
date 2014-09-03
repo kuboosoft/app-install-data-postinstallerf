@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>alchemy</b>'
+Comment='<span size="xx-large">Open drawing project aimed at exploring how we can sketch and draw</span>'
+Comment3='
+Alchemy is an open drawing project aimed at exploring how we can sketch, draw
+and create on computers in new ways. Alchemy isn?t software for creating
+finished artwork, but rather a sketching environment that focuses on the
+absolute initial stage of the creation process. Experimental in nature,
+Alchemy lets you brainstorm visually to explore an expanded range of ideas
+and possibilities in a serendipitous way.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://al.chemy.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

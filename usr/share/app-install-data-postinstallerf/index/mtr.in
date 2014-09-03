@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mtr</b>'
+Comment='<span size="xx-large">A network diagnostic tool</span>'
+Comment3='
+Mtr is a network diagnostic tool that combines ping and traceroute
+into one program. Mtr provides two interfaces an ncurses interface,
+useful for using Mtr from a telnet session; and a GTK+ interface for X
+(provided in the mtr-gtk package).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.BitWizard.nl/mtr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

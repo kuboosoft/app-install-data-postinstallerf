@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gcompris</b>'
+Comment='<span size="xx-large">Educational suite for kids 2-10 years old</span>'
+Comment3='
+GCompris / I Got IT is an educationnal game for children starting at 2.
+More than 100 different activities are proposed
+* Click on the animals => learn the mouse/click usage
+* Type the falling letters => learn the keyboard usage
+* Falling Dices
+* Falling words
+* Basic algebra
+* Time learning with an analog clock
+* Puzzle game with famous paintings
+* Drive Plane to catch clouds in increasing number
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gcompris.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

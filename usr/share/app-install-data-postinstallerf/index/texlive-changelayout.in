@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-changelayout</b>'
+Comment='<span size="xx-large">Change the layout of individual pages and their text</span>'
+Comment3='
+The package is an extension of the changepage package to permit
+the user to change the layout of individual pages and their
+texts.
+
+date 2009-11-09 141605 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

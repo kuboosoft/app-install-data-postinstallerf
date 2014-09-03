@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yum-plugin-merge-conf</b>'
+Comment='<span size="xx-large">Yum plugin to merge configuration changes when installing packages</span>'
+Comment3='
+Yum will ask you what to do with config files which have changed on updating a
+package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

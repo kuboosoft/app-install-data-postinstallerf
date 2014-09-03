@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-umthesis</b>'
+Comment='<span size="xx-large">Dissertations at the University of Michigan</span>'
+Comment3='
+The class loads book class, and makes minimal changes to it;
+its coding aims to be as robust as possible, and as a result it
+has few conflicts with potential add-on packages.
+
+date 2009-09-17 201138 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdevelop-pg-qt-devel</b>'
+Comment='<span size="xx-large">Developer files for kdevelop-pg-qt</span>'
+Comment3='
+Developer files for kdevelop-pg-qt.
+
+URL          http//techbase.kde.org/Development/KDevelop-PG-Qt_Introduction
+'
+License='LGPLv2+ and GPLv2+ with exception'
+Screenshot=''
+Url='http://techbase.kde.org/Development/KDevelop-PG-Qt_Introduction'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

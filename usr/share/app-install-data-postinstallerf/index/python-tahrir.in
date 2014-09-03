@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-tahrir</b>'
+Comment='<span size="xx-large">A pyramid app for issuing your own Open Badges</span>'
+Comment3='
+tahrir is a Pyramid app for issuing your own Open Badges.
+
+https//wiki.mozilla.org/Badges
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/tahrir'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

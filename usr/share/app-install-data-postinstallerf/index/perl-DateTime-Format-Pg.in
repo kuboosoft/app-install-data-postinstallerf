@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-DateTime-Format-Pg</b>'
+Comment='<span size="xx-large">Parse and format PostgreSQL dates and times</span>'
+Comment3='
+This module understands the formats used by PostgreSQL for its DATE, TIME,
+TIMESTAMP, and INTERVAL data types. It can be used to parse these formats
+in order to create DateTime or DateTimeDuration objects, and it can take
+a DateTime or DateTimeDuration object and produce a string representing
+it in a format accepted by PostgreSQL.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-Format-Pg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

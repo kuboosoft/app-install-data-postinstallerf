@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Language-Prolog-Yaswi</b>'
+Comment='<span size="xx-large">Yet another interface to SWI-Prolog</span>'
+Comment3='
+This package provides a bidirectional interface to SWI-Prolog. That means
+that Prolog code can be called from Perl that can call Perl code again
+and so on.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Language-Prolog-Yaswi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

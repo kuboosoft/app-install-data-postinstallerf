@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qwt5-qt4-devel</b>'
+Comment='<span size="xx-large">Development files for qwt5</span>'
+Comment3='
+Development files for qwt5.
+
+URL          http//qwt.sourceforge.net/
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qwt.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-bibtexu</b>'
+Comment='<span size="xx-large">bibtexu package</span>'
+Comment3='
+bibtexu package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

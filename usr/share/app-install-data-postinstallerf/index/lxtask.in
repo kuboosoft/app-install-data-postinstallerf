@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lxtask</b>'
+Comment='<span size="xx-large">Lightweight and desktop independent task manager</span>'
+Comment3='
+LXTask is a lightweight task manager derived from xfce4 task manager with all
+xfce4 dependencies removed, some bugs fixed, and some improvement of UI.
+Although being part of LXDE, the Lightweight X11 Desktop Environment, its
+totally desktop independent and only requires pure gtk+.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lxde.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

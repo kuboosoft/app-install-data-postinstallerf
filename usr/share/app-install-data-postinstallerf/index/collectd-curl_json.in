@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>collectd-curl_json</b>'
+Comment='<span size="xx-large">Curl JSON plugin for collectd</span>'
+Comment3='
+This plugin retrieves JSON data via curl.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

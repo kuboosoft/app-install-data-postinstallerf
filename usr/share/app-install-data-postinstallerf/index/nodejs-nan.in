@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>nodejs-nan</b>'
+Comment='<span size="xx-large">Native Abstractions for Node.js</span>'
+Comment3='
+A header file filled with macro and utility goodness
+for making add on development for Node.js easier across
+versions 0.8, 0.10 and 0.11, and eventually 0.12.
+
+Thanks to the crazy changes in V8 (and some in Node core),
+keeping native add-on compiling happily across versions,
+particularly 0.10 to 0.11/0.12, is a minor nightmare.
+The goal of this project is to store all logic necessary
+to develop native Node.js add-on without having to inspect
+NODE_MODULE_VERSION and get yourself into a macro-tangle.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rvagg/nan'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

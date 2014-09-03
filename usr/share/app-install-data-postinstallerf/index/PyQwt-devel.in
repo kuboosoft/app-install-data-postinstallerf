@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PyQwt-devel</b>'
+Comment='<span size="xx-large">Files needed to build other bindings on PyQwt</span>'
+Comment3='
+Files needed to build other bindings for Qwt C++ classes that inherit from
+any of the PyQwt classes.
+
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://pyqwt.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

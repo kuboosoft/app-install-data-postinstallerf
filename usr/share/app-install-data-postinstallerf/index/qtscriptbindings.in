@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qtscriptbindings</b>'
+Comment='<span size="xx-large">Qt bindings for Qt Script</span>'
+Comment3='
+Bindings providing access to substantial portions of the Qt API
+from within Qt Script.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://code.google.com/p/qtscriptgenerator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>firebird-superserver</b>'
+Comment='<span size="xx-large">Superserver (single process) server for Firebird SQL RDBMS</span>'
+Comment3='
+This is the Superserver (single process) Firebird SQL RDBMS.
+'
+License='Interbase'
+Screenshot=''
+Url='http://www.firebirdsql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

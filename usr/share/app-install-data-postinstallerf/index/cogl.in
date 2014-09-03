@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>cogl</b>'
+Comment='<span size="xx-large">A library for using 3D graphics hardware to draw pretty pictures</span>'
+Comment3='
+Cogl is a small open source library for using 3D graphics hardware to draw
+pretty pictures. The API departs from the flat state machine style of
+OpenGL and is designed to make it easy to write orthogonal components that
+can render without stepping on each others toes.
+
+As well aiming for a nice API, we think having a single library as opposed
+to an API specification like OpenGL has a few advantages too; like being
+able to paper over the inconsistencies/bugs of different OpenGL
+implementations in a centralized place, not to mention the myriad of OpenGL
+extensions. It also means we are in a better position to provide utility
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.clutter-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

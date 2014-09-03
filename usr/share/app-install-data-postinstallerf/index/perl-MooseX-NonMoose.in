@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-MooseX-NonMoose</b>'
+Comment='<span size="xx-large">Easy subclassing of non-Moose classes</span>'
+Comment3='
+MooseXNonMoose allows for easily subclassing non-Moose classes with
+Moose, taking care of the annoying details connected with doing this, such
+as setting up proper inheritance from MooseObject and installing (and
+inlining, at make_immutable time) a constructor that makes sure things like
+BUILD methods are called. It tries to be as non-intrusive as possible -
+when this module is used, inheriting from non-Moose classes and inheriting
+from Moose classes should work identically, aside from the few caveats
+mentioned below. One of the goals of this module is that including it in a
+MooseExporter-based package used across an entire application should be
+possible, without interfering with classes that only inherit from Moose
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-NonMoose/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

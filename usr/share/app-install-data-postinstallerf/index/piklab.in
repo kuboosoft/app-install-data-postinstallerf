@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>piklab</b>'
+Comment='<span size="xx-large">Development environment for applications based on PIC & dsPIC microcontrollers</span>'
+Comment3='
+Piklab is a graphic development environment for PIC and dsPIC microcontrollers.
+It interfaces with various toolchains for compiling and assembling and it
+supports several Microchip and direct programmers.
+
+WARNING Administrator have to see the README.Fedora file locate
+in the /usr/share/doc/piklab-0.16.1 directory
+to complete full feature installation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://piklab.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

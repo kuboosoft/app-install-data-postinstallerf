@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>covered</b>'
+Comment='<span size="xx-large">Verilog code coverage analyzer</span>'
+Comment3='
+Covered is a Verilog code-coverage utility using VCD/LXT style dumpfiles
+and the design to generate line, toggle, memory, combinational logic,
+FSM state/arc and assertion coverage reports. Covered also contains a
+built-in race condition checker and GUI report viewer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://covered.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

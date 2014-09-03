@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-texloganalyser</b>'
+Comment='<span size="xx-large">Analyse TeX logs</span>'
+Comment3='
+The perl script allows the user to extract (and display)
+elements of the log file
+
+date 2010-07-22 143643 +0200
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

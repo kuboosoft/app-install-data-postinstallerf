@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-shakespeare-text-devel</b>'
+Comment='<span size="xx-large">Haskell shakespeare-text library development files</span>'
+Comment3='
+This package provides the development files for
+the Haskell shakespeare-text library.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shakespeare-text'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

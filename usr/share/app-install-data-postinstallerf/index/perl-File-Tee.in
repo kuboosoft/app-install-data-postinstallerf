@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-File-Tee</b>'
+Comment='<span size="xx-large">Replicate data sent to a Perl stream</span>'
+Comment3='
+This module is able to replicate data written to a Perl stream into another
+streams. It is the Perl equivalent of the shell utility tee(1).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Tee/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

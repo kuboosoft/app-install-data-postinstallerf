@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opera-pluginwrapper</b>'
+Comment='<span size="xx-large">32bit wrapper for 64bit browser</span>'
+Comment3='
+This package contains 32bit wrapper for 64bit browser
+'
+License='Proprietary'
+Screenshot=''
+Url='http://www.opera.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

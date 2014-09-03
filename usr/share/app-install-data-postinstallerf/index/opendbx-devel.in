@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opendbx-devel</b>'
+Comment='<span size="xx-large">Development files for opendbx</span>'
+Comment3='
+The opendbx-devel package contains libraries and header files for developing
+applications that use opendbx.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linuxnetworks.de/doc/index.php/OpenDBX'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

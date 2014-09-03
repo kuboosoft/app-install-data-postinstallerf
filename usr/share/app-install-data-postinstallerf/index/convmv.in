@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>convmv</b>'
+Comment='<span size="xx-large">Convert filename encodings</span>'
+Comment3='
+This package contains the tool convmv with which you can convert the encodings
+of filenames, e.g. from Latin1 to UTF-8.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://j3e.de/linux/convmv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libalkimia</b>'
+Comment='<span size="xx-large">Financial library</span>'
+Comment3='
+Financial library
+
+URL          http//kde-apps.org/content/show.php/libalkimia?content=137323
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://kde-apps.org/content/show.php/libalkimia?content=137323'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

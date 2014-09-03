@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xz-devel</b>'
+Comment='<span size="xx-large">Devel libraries & headers for liblzma</span>'
+Comment3='
+Devel libraries and headers for liblzma.
+
+URL          http//tukaani.org/xz/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tukaani.org/xz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

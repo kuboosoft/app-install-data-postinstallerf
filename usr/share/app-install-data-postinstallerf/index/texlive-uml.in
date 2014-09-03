@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-uml</b>'
+Comment='<span size="xx-large">UML diagrams in LaTeX</span>'
+Comment3='
+A PSTricks related package for writing UML (Unified Modelling
+Language) diagrams in LaTeX. Currently, it implements a subset
+of class diagrams, and some extra constructs as well. The
+package cannot be used together with pst-uml.
+
+date 2010-03-17 121920 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

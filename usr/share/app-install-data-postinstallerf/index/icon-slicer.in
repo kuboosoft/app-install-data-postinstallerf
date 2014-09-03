@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>icon-slicer</b>'
+Comment='<span size="xx-large">Utility for icon theme generation</span>'
+Comment3='
+icon-slicer is a utility for generating icon themes and libXcursor cursor
+themes.
+'
+License='MIT'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

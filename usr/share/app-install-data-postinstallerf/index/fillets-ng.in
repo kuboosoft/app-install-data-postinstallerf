@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>fillets-ng</b>'
+Comment='<span size="xx-large">Fish Fillets Next Generation, a puzzle game with 70 levels</span>'
+Comment3='
+Fish Fillets is strictly a puzzle game. The goal in every of the
+seventy levels is always the same find a safe way out. The fish utter
+witty remarks about their surroundings, the various inhabitants of
+their underwater realm quarrel among themselves or comment on the
+efforts of your fish. The whole game is accompanied by quiet,
+comforting music.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fillets.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>acpica-tools</b>'
+Comment='<span size="xx-large">ACPICA tools for the development and debug of ACPI tables</span>'
+Comment3='
+reference implementation of the Advanced Configuration and Power Interface
+Specification (ACPI).  ACPICA code contains those portions of ACPI meant to
+be directly integrated into the host OS as a kernel-resident subsystem, and
+a small set of tools to assist in developing and debugging ACPI tables.
+
+This package contains only the user-space tools needed for ACPI table
+development, not the kernel implementation of ACPI.  The following commands
+are installed
+'
+License='GPLv2'
+Screenshot=''
+Url='https://www.acpica.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

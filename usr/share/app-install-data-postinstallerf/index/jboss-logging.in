@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-logging</b>'
+Comment='<span size="xx-large">The JBoss Logging Framework</span>'
+Comment3='
+This package contains the JBoss Logging Framework.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/jboss-logging/jboss-logging'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

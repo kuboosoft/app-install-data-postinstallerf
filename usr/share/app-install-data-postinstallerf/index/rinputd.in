@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rinputd</b>'
+Comment='<span size="xx-large">A server for receiving input events over the network</span>'
+Comment3='
+The Remote Input server allows clients to send input events, such as
+mouse movements or keyboard presses, over a secure, authenticated
+communication channel. Remote devices, be they separate computers
+or mobile devices, can provide mouse, keyboard, multi-touch,
+switches and other input to the Remote Input server, and the server
+will create virtual keyboards and mice for each connection.
+'
+License='GPLv2 and OpenSSL'
+Screenshot=''
+Url='https://launchpad.net/rinput'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

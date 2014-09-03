@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gmock-devel</b>'
+Comment='<span size="xx-large">Development files for gmock</span>'
+Comment3='
+This package contains development files for gmock.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/googlemock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

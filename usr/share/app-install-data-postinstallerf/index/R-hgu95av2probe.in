@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-hgu95av2probe</b>'
+Comment='<span size="xx-large">Probe sequence data for microarrays of type hgu95av2</span>'
+Comment3='
+This package was automatically created by package matchprobes version 1.9.2.
+The probe sequence data was obtained from http//www.affymetrix.com.
+The file name was HG\_U95Av2\_probe\_tab.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.bioconductor.org/packages/release/data/annotation/html/hgu95av2probe.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

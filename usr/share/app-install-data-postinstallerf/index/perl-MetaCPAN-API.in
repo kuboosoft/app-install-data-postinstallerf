@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-MetaCPAN-API</b>'
+Comment='<span size="xx-large">Comprehensive, DWIM-featured API to MetaCPAN</span>'
+Comment3='
+This is a hopefully-complete API-compliant interface to MetaCPAN
+(https//metacpan.org) with DWIM capabilities, to make your life easier.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MetaCPAN-API/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

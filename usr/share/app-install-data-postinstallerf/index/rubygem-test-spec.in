@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-test-spec</b>'
+Comment='<span size="xx-large">Behaviour Driven Development interface for Test::Unit</span>'
+Comment3='
+Test/spec layers an RSpec-inspired interface on top of TestUnit, so you
+can mix TDD and BDD (Behavior-Driven Development).  It is a clean-room
+implementation that maps most kinds of TestUnit assertions to a
+should-like syntax.
+'
+License='Ruby or GPLv2'
+Screenshot=''
+Url='http://test-spec.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

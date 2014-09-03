@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>numptyphysics</b>'
+Comment='<span size="xx-large">A crayon-drawing based physics puzzle game</span>'
+Comment3='
+Harness gravity with your crayon and set about creating blocks, ramps,
+levers, pulleys and whatever else you fancy to get the little red thing to
+the little yellow thing.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://numptyphysics.garage.maemo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

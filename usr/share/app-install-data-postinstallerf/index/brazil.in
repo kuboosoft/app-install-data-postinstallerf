@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>brazil</b>'
+Comment='<span size="xx-large">Extremely small footprint Java HTTP stack</span>'
+Comment3='
+Brazil is as an extremely small footprint HTTP stack and flexible architecture
+for adding URL-based interfaces to arbitrary applications and devices from Sun
+Labs. This package contains the core set of classes that are not dependent on
+any other external Java libraries.
+'
+License='SPL'
+Screenshot=''
+Url='http://research.sun.com/brazil/'
+for adding URL-based interfaces to arbitrary applications and devices from Sun'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>telepathy-logger</b>'
+Comment='<span size="xx-large">Telepathy framework logging daemon</span>'
+Comment3='
+telepathy-logger is a headless Observer client that logs information
+received by the Telepathy framework. It features pluggable
+backends to log different sorts of messages, in different formats.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://telepathy.freedesktop.org/wiki/Logger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

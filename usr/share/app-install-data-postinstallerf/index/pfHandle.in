@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pfHandle</b>'
+Comment='<span size="xx-large">Postfix management wrapper utility</span>'
+Comment3='
+This is a program that incorporates all the various built in tools of Postfix
+in a single program and extends this functionality with some additional options.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://launchpad.net/pfhandle'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

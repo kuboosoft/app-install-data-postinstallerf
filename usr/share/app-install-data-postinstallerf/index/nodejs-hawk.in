@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-hawk</b>'
+Comment='<span size="xx-large">HTTP Hawk authentication scheme</span>'
+Comment3='
+Hawk is an HTTP authentication scheme using a message authentication code (MAC)
+algorithm to provide partial HTTP request cryptographic verification.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/hueniverse/hawk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

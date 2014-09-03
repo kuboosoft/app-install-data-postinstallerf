@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>guichan</b>'
+Comment='<span size="xx-large">Portable C++ GUI library for games using Allegro, SDL and OpenGL</span>'
+Comment3='
+Guichan is a small, efficient C++ GUI library designed for games. It comes
+with a standard set of widgets and can use several different objects for
+displaying graphics and grabbing user input.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://guichan.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

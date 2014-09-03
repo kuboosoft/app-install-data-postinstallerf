@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>radicale-selinux</b>'
+Comment='<span size="xx-large">Selinux policy for Radicale</span>'
+Comment3='
+Selinux policy for Radicale
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://radicale.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

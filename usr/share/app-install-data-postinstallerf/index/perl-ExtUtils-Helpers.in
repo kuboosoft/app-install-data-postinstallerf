@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-ExtUtils-Helpers</b>'
+Comment='<span size="xx-large">Various portability utilities for module builders</span>'
+Comment3='
+This module provides various portable helper functions for module building
+modules.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/ExtUtils-Helpers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

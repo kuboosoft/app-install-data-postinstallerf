@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>preflight</b>'
+Comment='<span size="xx-large">Apache Preflight</span>'
+Comment3='
+The Apache Preflight library is an open source Java tool that implements
+a parser compliant with the ISO-19005 (PDF/A) specification. Preflight is a
+subproject of Apache PDFBox.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pdfbox.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

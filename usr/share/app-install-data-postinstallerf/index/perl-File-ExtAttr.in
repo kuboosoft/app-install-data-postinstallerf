@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-File-ExtAttr</b>'
+Comment='<span size="xx-large">Perl extension for accessing extended attributes of files</span>'
+Comment3='
+FileExtAttr is a Perl module providing access to the extended
+attributes of files.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-ExtAttr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

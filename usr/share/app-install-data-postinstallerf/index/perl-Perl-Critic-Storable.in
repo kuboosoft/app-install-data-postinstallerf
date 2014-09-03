@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Perl-Critic-Storable</b>'
+Comment='<span size="xx-large">Policy for Storable.pm</span>'
+Comment3='
+An additional PerlCritic policy for using the Storable module.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic-Storable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

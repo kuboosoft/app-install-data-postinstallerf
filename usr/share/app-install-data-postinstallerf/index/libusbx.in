@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libusbx</b>'
+Comment='<span size="xx-large">Library for accessing USB devices</span>'
+Comment3='
+This package provides a way for applications to access USB devices.
+
+Libusbx is a fork of the original libusb, which is a fully API and ABI
+compatible drop in for the libusb-1.0.9 release. The libusbx fork was
+started by most of the libusb-1.0 developers, after the original libusb
+project did not produce a new release for over 18 months.
+Note that this library is not compatible with the original libusb-0.1 series,
+if you need libusb-0.1 compatibility install the libusb package.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libusb.info'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

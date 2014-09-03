@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-secdot</b>'
+Comment='<span size="xx-large">Section numbers with trailing dots</span>'
+Comment3='
+Makes the numbers of \section commands come out with a trailing
+dot. Includes a command whereby the same can be made to happen
+with other sectioning commands.
+
+date 2010-10-17 100632 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

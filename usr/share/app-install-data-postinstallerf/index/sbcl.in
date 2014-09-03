@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sbcl</b>'
+Comment='<span size="xx-large">Steel Bank Common Lisp</span>'
+Comment3='
+Steel Bank Common Lisp (SBCL) is a Open Source development environment
+for Common Lisp. It includes an integrated native compiler,
+interpreter, and debugger.
+'
+License='BSD'
+Screenshot=''
+Url='http://sbcl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

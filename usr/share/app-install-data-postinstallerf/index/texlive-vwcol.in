@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-vwcol</b>'
+Comment='<span size="xx-large">Variable-width multiple text columns</span>'
+Comment3='
+The package provides a crude environment (vwcol) for
+typesetting multicolumn paragraph text of various column widths
+on a single page.
+
+date 2008-08-24 144348 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

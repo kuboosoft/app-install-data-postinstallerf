@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-sensors-applet-devel</b>'
+Comment='<span size="xx-large">Development files for mate-sensors-applet</span>'
+Comment3='
+The mate-sensors-applet-devel package contains libraries and header files for
+developing applications that use mate-sensors-applet.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

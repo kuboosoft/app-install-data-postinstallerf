@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zinnia-python</b>'
+Comment='<span size="xx-large">Python bindings for zinnia</span>'
+Comment3='
+This package contains python bindings for zinnia.
+'
+License='BSD'
+Screenshot=''
+Url='http://zinnia.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

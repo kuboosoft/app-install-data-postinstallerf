@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>patchelf</b>'
+Comment='<span size="xx-large">A utility for patching ELF binaries</span>'
+Comment3='
+PatchELF is a simple utility for modifying an existing ELF executable
+or library.  It can change the dynamic loader ("ELF interpreter")
+of an executable and change the RPATH of an executable or library.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://nixos.org/patchelf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

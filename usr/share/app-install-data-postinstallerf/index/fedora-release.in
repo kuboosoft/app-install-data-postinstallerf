@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fedora-release</b>'
+Comment='<span size="xx-large">Fedora release files</span>'
+Comment3='
+Fedora release files such as yum configs and various /etc/ files that
+define the release.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fedoraproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

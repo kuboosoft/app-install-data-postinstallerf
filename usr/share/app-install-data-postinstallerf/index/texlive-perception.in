@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-perception</b>'
+Comment='<span size="xx-large">BibTeX style for the journal Perception</span>'
+Comment3='
+A product of custom-bib, provided simply to save others time.
+
+date 2007-02-24 150957 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

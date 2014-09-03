@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n adanaxisgpl
+Name=Adanaxis
+GenericName=Adanaxis
+Comment=Fly your ship in a 4d environment
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/adanaxisgpl32x32.png
+Terminal=false
+Categories=Game;ActionGame;

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>verbiste-gnome</b>'
+Comment='<span size="xx-large">GNOME Panel applet for Verbiste</span>'
+Comment3='
+GNOME Panel applet and application based on Verbiste.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sarrazip.com/dev/verbiste.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>rapidjson-devel</b>'
+Comment='<span size="xx-large">Fast JSON parser and generator for C++</span>'
+Comment3='
+
+RapidJSON is a fast JSON parser and generator for C++.  It was
+inspired by RapidXml.
+  RapidJSON is small but complete.  It supports both SAX and DOM style
+  API. The SAX parser is only a half thousand lines of code.
+  RapidJSON is fast.  Its performance can be comparable to strlen().
+  It also optionally supports SSE2/SSE4.1 for acceleration.
+'
+License='MIT'
+Screenshot=''
+Url='http://miloyip.github.io/rapidjson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

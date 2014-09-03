@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-notmuch</b>'
+Comment='<span size="xx-large">Not much support for Emacs</span>'
+Comment3='
+Not much support for Emacs.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://notmuchmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mednafen</b>'
+Comment='<span size="xx-large">A multi-system emulator utilizing OpenGL and SDL</span>'
+Comment3='
+A portable command-line driven, multi-system emulator which uses OpenGL and
+SDL. It emulates the following
+* Atari Lynx
+* Famicom
+* GameBoy (Color)
+* GameBoy Advance
+* Neo Geo Pocket (Color)
+* NES (NTSC & PAL)
+* PC Engine
+* TurboGrafx 16 (CD)
+'
+License='GPLv2+ and BSD and ISC and LGPLv2+ and MIT and zlib'
+Screenshot=''
+Url='http://mednafen.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

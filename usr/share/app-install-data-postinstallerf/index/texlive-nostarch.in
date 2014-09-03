@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-nostarch</b>'
+Comment='<span size="xx-large">LaTeX class for No Starch Press</span>'
+Comment3='
+The package provides the "official" LaTeX style for No Starch
+Press. Provided are a a class, a package for interfacing to
+hyperref and an index style file. The style serves both for
+printed and for electronic books.
+
+date 2008-08-22 171544 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

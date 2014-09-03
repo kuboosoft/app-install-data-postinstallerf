@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-caribou</b>'
+Comment='<span size="xx-large">Keyboard UI for caribou</span>'
+Comment3='
+This package contains caribou python GUI
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/Caribou'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

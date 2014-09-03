@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-delayed_job-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-delayed_job</span>'
+Comment3='
+Documentation for rubygem-delayed_job
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/collectiveidea/delayed_job'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

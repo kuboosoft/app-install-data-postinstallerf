@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>duff</b>'
+Comment='<span size="xx-large">Quickly find duplicate files</span>'
+Comment3='
+Duff is a command-line utility for quickly finding duplicates in a given set of
+files
+'
+License='zlib'
+Screenshot=''
+Url='http://duff.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

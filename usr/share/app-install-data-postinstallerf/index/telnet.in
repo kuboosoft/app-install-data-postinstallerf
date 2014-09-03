@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>telnet</b>'
+Comment='<span size="xx-large">The client program for the Telnet remote login protocol</span>'
+Comment3='
+Telnet is a popular protocol for logging into remote systems over the
+Internet. The package provides a command line Telnet client
+'
+License='BSD'
+Screenshot=''
+Url='http://web.archive.org/web/20070819111735/www.hcs.harvard.edu/~dholland/computers/old-netkit.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>Field3D-devel</b>'
+Comment='<span size="xx-large">Development files for Field3D</span>'
+Comment3='
+Development headers and documentation for Field3D.
+
+URL          https//sites.google.com/site/field3d/
+'
+License='BSD'
+Screenshot=''
+Url='https://sites.google.com/site/field3d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

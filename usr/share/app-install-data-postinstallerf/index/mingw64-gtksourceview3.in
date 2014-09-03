@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mingw64-gtksourceview3</b>'
+Comment='<span size="xx-large">MinGW Windows library for viewing source files</span>'
+Comment3='
+GtkSourceView is a text widget that extends the standard GTK+
+GtkTextView widget. It improves GtkTextView by implementing
+syntax highlighting and other features typical of a source code editor.
+
+This package contains the MinGW Windows cross compiled GtkSourceView library,
+version 3.
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>indent</b>'
+Comment='<span size="xx-large">A GNU program for formatting C code</span>'
+Comment3='
+Indent is a GNU program for beautifying C code, so that it is easier to
+read.  Indent can also convert from one C writing style to a different
+one.  Indent understands correct C syntax and tries to handle incorrect
+C syntax.
+
+Install the indent package if you are developing applications in C and
+you want a program to format your code.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://indent.isidore-it.eu/beautify.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

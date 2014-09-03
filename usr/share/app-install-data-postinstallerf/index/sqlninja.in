@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sqlninja</b>'
+Comment='<span size="xx-large">A tool for SQL server injection and takeover</span>'
+Comment3='
+Sqlninja is a tool targeted to exploit SQL Injection
+ vulnerabilities on a web application that uses
+Microsoft SQL Server as its back-end. Its main goal
+is to provide remote access to vulnerable DB server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sqlninja.sourceforge.net/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

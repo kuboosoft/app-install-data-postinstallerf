@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libotr3-devel</b>'
+Comment='<span size="xx-large">Development library and include files for the old version of libotr</span>'
+Comment3='
+The devel package contains the old libotr library and include files.
+
+URL          http//otr.cypherpunks.ca/
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://otr.cypherpunks.ca/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

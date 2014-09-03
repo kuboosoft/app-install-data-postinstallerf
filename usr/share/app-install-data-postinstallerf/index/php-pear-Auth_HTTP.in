@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pear-Auth_HTTP</b>'
+Comment='<span size="xx-large">Class providing HTTP authentication methods</span>'
+Comment3='
+The PEARAuth_HTTP class provides methods for creating an HTTP
+authentication system using PHP, that is similar to Apaches
+realm-based .htaccess authentication.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Auth_HTTP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

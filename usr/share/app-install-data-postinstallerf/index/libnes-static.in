@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnes-static</b>'
+Comment='<span size="xx-large">Static version of the libnes driver</span>'
+Comment3='
+Static version of libnes that may be linked directly to an application.
+
+URL          http//www.openfabrics.org/
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

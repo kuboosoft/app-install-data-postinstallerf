@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nethack-vultures</b>'
+Comment='<span size="xx-large">NetHack - Vultures Eye and Vultures Claw</span>'
+Comment3='
+Vultures Eye is a mouse-driven interface for NetHack that enhances
+the visuals, audio and accessibility of the game, yet retains all the
+original gameplay and game features.  Vultures Eye is based on
+Falcons Eye, but is greatly extended.  Also included is Vultures
+Claw, which is based on the SlashEm core.
+'
+License='NGPL'
+Screenshot=''
+Url='http://www.darkarts.co.za/projects/vultures/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

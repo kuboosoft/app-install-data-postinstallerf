@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gambit-c-doc</b>'
+Comment='<span size="xx-large">Documentation for gambit-c</span>'
+Comment3='
+Gambit-C includes a Scheme interpreter and a Scheme compiler which can
+be used to build standalone executables.  Because the compiler
+generates portable C code it is fairly easy to port to any platform
+with a decent C compiler.
+
+This package contains the Gambit-C user manual in HTML and PDF formats.
+'
+License='ASL 2.0 or LGPLv2'
+Screenshot=''
+Url='http://www.iro.umontreal.ca/~gambit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

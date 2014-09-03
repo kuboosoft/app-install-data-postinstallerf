@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-din1505</b>'
+Comment='<span size="xx-large">Bibliography styles for German texts</span>'
+Comment3='
+A set of bibliography styles that conformt to DIN 1505, and
+match the original BibTeX standard set (plain, unsrt, alpha and
+abbrv), together with a style natdin to work with natbib.
+
+date 2008-11-25 153333 +0100
+'
+License='Bibtex'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

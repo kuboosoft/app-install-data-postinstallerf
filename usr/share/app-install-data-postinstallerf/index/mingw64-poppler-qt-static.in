@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-poppler-qt-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows Poppler-Qt4 library</span>'
+Comment3='
+Static version of the MinGW Windows Poppler-Qt4 library.
+'
+License='(GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://poppler.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>polkit-pkla-compat</b>'
+Comment='<span size="xx-large">Rules for polkit to add compatibility with pklocalauthority</span>'
+Comment3='
+A polkit JavaScript rule and associated helpers that mostly provide
+compatibility with the .pkla file format supported in polkit <= 0.105 for users
+of later polkit releases.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/polkit-pkla-compat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

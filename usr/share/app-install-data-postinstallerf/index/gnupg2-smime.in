@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnupg2-smime</b>'
+Comment='<span size="xx-large">CMS encryption and signing tool and smart card support for GnuPG</span>'
+Comment3='
+GnuPG is GNUs tool for secure communication and data storage. This
+package adds support for smart cards and S/MIME encryption and signing
+to the base GnuPG package
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnupg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

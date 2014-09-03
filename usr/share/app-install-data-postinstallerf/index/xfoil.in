@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfoil</b>'
+Comment='<span size="xx-large">Subsonic Airfoil Development System</span>'
+Comment3='
+XFOIL is an interactive program for the design and analysis of subsonic
+isolated airfoils.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://web.mit.edu/drela/Public/web/xfoil/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdsm-xmlrpc</b>'
+Comment='<span size="xx-large">VDSM xmlrpc API</span>'
+Comment3='
+An XMLRPC interface for interacting with vdsmd. Primary control interface for
+ovirt-engine and vdsClient.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/wiki/Vdsm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

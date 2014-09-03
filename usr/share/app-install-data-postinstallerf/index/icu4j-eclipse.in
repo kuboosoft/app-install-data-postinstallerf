@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>icu4j-eclipse</b>'
+Comment='<span size="xx-large">Eclipse plugin for icu4j</span>'
+Comment3='
+Eclipse plugin support for icu4j.
+'
+License='MIT and EPL'
+Screenshot=''
+Url='http://site.icu-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

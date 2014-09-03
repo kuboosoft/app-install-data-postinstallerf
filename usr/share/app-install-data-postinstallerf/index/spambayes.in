@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>spambayes</b>'
+Comment='<span size="xx-large">Bayesian anti-spam classifier written in Python</span>'
+Comment3='
+SpamBayes will attempt to classify incoming email messages as spam, ham
+(good, non-spam email) or unsure. This means you can have spam or unsure
+messages automatically filed away in a different mail folder, where it wont
+interrupt your email reading. First SpamBayes must be trained by each user to
+identify spam and ham. Essentially, you show SpamBayes a pile of email that
+you like (ham) and a pile you dont like (spam). SpamBayes will then analyze
+the piles for clues as to what makes the spam and ham different. For example;
+different words, differences in the mailer headers and content style.  The
+system then uses these clues to examine new messages.
+'
+License='Python'
+Screenshot=''
+Url='http://spambayes.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

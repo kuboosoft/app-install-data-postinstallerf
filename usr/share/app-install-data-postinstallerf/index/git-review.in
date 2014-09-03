@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>git-review</b>'
+Comment='<span size="xx-large">A git helper for integration with Gerrit</span>'
+Comment3='
+An extension for source control system git that creates and manages review
+requests in the patch management system Gerrit. It replaces the rfc.sh script.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/openstack-infra/git-review'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libmapi</b>'
+Comment='<span size="xx-large">MAPI implementation and library by Zarafa</span>'
+Comment3='
+The libmapi package provides the Open Source MAPI (Messaging Application
+Programming Interface) implementation by Zarafa. The MAPI is a messaging
+architecture and a Component Object Model based API for Microsoft Windows
+which allows control over the messaging system on the client computer,
+creation and management of messages, management of the client mailbox,
+service providers, etc. This MAPI implementation by Zarafa is also known
+as MAPI4Linux.
+
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

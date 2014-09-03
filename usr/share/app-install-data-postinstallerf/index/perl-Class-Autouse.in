@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Class-Autouse</b>'
+Comment='<span size="xx-large">Run-time class loading on first method call</span>'
+Comment3='
+ClassAutouse allows you to specify a class the will only load when a
+method of that class is called. For large classes that might not be used
+during the running of a program, such as DateManip, this can save you
+large amounts of memory, and decrease the script load time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Autouse/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

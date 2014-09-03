@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>trustedqsl</b>'
+Comment='<span size="xx-large">TrustedQSL ham-radio applications</span>'
+Comment3='
+The TrustedQSL applications are used for generating digitally signed
+QSO records (records of Amateur Radio contacts). This package
+contains the GUI applications tqslcert and tqsl.
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/trustedqsl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

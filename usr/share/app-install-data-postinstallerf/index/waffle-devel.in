@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>waffle-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for waffle</span>'
+Comment3='
+Contains the header files, and libraries required for development of
+waffle-related software.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://people.freedesktop.org/~chadversary/waffle/releases.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

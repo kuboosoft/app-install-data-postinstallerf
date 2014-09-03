@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>postgresql-plruby</b>'
+Comment='<span size="xx-large">PostgreSQL Ruby Procedural Language</span>'
+Comment3='
+PL/Ruby is a loadable procedural language for the PostgreSQL database
+system that enable the Ruby language to create functions and trigger
+procedures.
+'
+License='Ruby or GPL+'
+Screenshot=''
+Url='http://raa.ruby-lang.org/project/pl-ruby/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

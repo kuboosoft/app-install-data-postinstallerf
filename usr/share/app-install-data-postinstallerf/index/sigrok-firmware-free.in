@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sigrok-firmware-free</b>'
+Comment='<span size="xx-large">Components of sigrok-firmware with with free licenses</span>'
+Comment3='
+The sigrok-firmware-free package contains firmwares which are available under
+free licenses, but are distributed as a binary only because they cannot be
+easily built with free software tools.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.sigrok.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

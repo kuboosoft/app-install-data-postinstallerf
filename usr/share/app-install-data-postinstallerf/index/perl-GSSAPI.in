@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-GSSAPI</b>'
+Comment='<span size="xx-large">Perl extension providing access to the GSSAPIv2 library</span>'
+Comment3='
+This module gives access to the routines of the GSSAPI library, as
+described in rfc2743 and rfc2744 and implemented by the Kerberos-1.2
+distribution from MIT.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/GSSAPI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

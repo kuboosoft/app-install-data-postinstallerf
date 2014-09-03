@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-cisco-mds</b>'
+Comment='<span size="xx-large">Fence agent for Cisco MDS 9000 series</span>'
+Comment3='
+The fence-agents-cisco-mds package contains a fence agent for Cisco MDS 9000 series devices that are accessed via the SNMP protocol.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

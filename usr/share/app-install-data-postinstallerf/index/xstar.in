@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>xstar</b>'
+Comment='<span size="xx-large">Program that simulates the movement of stars</span>'
+Comment3='
+XStar is a Unix program that simulates the movement of stars. It starts by
+putting a bunch of stars on the screen, and then it lets the inter-body
+gravitational forces move the stars around. The result is a lot of neat
+wandering paths, as the stars interact and collide.
+
+Along with the program, there is a fairly large document that explains the
+N-Body problem in a fair amount of detail. It doesnt get into the gory
+details of the "real" N-body solvers, but it does give you an overview of
+the techniques they use.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.schlitt.net/xstar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

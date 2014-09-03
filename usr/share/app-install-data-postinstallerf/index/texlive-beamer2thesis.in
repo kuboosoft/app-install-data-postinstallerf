@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-beamer2thesis</b>'
+Comment='<span size="xx-large">Thesis presentations using beamer</span>'
+Comment3='
+The package specifies a beamer theme for presenting a thesis.
+
+date 2012-08-27 101159 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

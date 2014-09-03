@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-eventmachine-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-eventmachine</span>'
+Comment3='
+This package contains documentation for rubygem-eventmachine.
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://rubyeventmachine.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

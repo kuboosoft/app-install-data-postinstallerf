@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-freesteam</b>'
+Comment='<span size="xx-large">Freesteam Python2 bindings</span>'
+Comment3='
+Language bindings that allow freesteam to be accessed
+from the Python2 scripting language.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://freesteam.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

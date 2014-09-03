@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-commander-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-commander</span>'
+Comment3='
+Documentation for rubygem-commander
+'
+License='MIT'
+Screenshot=''
+Url='http://visionmedia.github.com/commander'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

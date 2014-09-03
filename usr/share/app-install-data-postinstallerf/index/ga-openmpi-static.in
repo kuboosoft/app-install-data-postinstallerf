@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ga-openmpi-static</b>'
+Comment='<span size="xx-large">Global Arrays Toolkit for OpenMPI Static Libraries</span>'
+Comment3='
+
+The Global Arrays (GA) toolkit provides an efficient and portable
+"shared-memory" programming interface for distributed-memory
+computers. Each process in a MIMD parallel program can asynchronously
+access logical blocks of physically distributed dense multi-
+dimensional arrays, without need for explicit cooperation by other
+processes. Unlike other shared-memory environments, the GA model
+exposes to the programmer the non-uniform memory access (NUMA)
+characteristics of the high performance computers and acknowledges
+that access to a remote portion of the shared data is slower than to
+'
+License='BSD'
+Screenshot=''
+Url='http://hpc.pnl.gov/globalarrays/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

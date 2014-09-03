@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>xerces-j2</b>'
+Comment='<span size="xx-large">Java XML parser</span>'
+Comment3='
+Welcome to the future! Xerces2 is the next generation of high performance,
+fully compliant XML parsers in the Apache Xerces family. This new version of
+Xerces introduces the Xerces Native Interface (XNI), a complete framework for
+building parser components and configurations that is extremely modular and
+easy to program.
+
+The Apache Xerces2 parser is the reference implementation of XNI but other
+parser components, configurations, and parsers can be written using the Xerces
+Native Interface. For complete design and implementation documents, refer to
+the XNI Manual.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://xerces.apache.org/xerces2-j/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

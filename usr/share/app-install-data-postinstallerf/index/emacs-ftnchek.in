@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-ftnchek</b>'
+Comment='<span size="xx-large">Emacs support for ftnchek</span>'
+Comment3='
+This package provides files enabling ftnchek support within GNU Emacs.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.dsm.fordham.edu/~ftnchek/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

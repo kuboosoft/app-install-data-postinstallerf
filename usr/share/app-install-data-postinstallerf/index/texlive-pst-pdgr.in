@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-pst-pdgr</b>'
+Comment='<span size="xx-large">Draw medical pedigrees using pstricks</span>'
+Comment3='
+The package provides a set of macros based on PSTricks to draw
+medical pedigrees according to the recommendations for
+standardized human pedigree nomenclature. The drawing commands
+place the symbols on a pspicture canvas. An interface for
+making trees is also provided. The package may be used both
+with LaTeX and PlainTeX. A separate Perl program for generating
+TeX files from spreadsheets is available.
+
+date 2007-08-14 120632 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

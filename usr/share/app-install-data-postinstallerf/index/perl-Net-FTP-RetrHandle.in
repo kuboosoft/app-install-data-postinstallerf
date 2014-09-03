@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Net-FTP-RetrHandle</b>'
+Comment='<span size="xx-large">Provides a file reading interface for reading files on a remote FTP server</span>'
+Comment3='
+Support for skipping the beginning of the file is implemented with the FTP REST
+command, which starts a retrieval at any point in the file. Support for
+skipping the end of the file is implemented with the FTP ABOR command, which
+stops the transfer. With these two commands and some careful tracking of the
+current file position, were able to reliably emulate a seek/read pair, and get
+only the parts of the file that are actually read.
+
+This was originally designed for use with ArchiveZip; its reliable enough
+that the table of contents and individual files can be extracted from a remote
+ZIP archive without downloading the whole thing.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/~giff/Net-FTP-RetrHandle-0.2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

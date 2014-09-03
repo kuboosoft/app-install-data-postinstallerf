@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opensips-pua_xmpp</b>'
+Comment='<span size="xx-large">SIMPLE-XMPP Presence gateway</span>'
+Comment3='
+This module is a gateway for presence between SIP and XMPP. It translates one
+format into another and uses xmpp, pua and presence modules to manage the
+transmition of presence state information.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

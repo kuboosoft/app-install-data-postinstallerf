@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>root-cintex</b>'
+Comment='<span size="xx-large">Reflex to CINT dictionary converter</span>'
+Comment3='
+Cintex is a library that converts Reflex dictionary information to
+CINT data structures used by ROOT. This package allows to interact
+with CINT with any class for which a Reflex dictionary is provided.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

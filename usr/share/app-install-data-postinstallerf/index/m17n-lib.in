@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>m17n-lib</b>'
+Comment='<span size="xx-large">Multilingual text library</span>'
+Comment3='
+m17n-lib is a multilingual text library used primarily to allow
+the input of many languages with the input table maps from m17n-db.
+
+The package provides the core and input method backend libraries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/m17n/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

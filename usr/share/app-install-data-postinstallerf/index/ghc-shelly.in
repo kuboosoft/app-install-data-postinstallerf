@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ghc-shelly</b>'
+Comment='<span size="xx-large">Shell-like systems programming in Haskell</span>'
+Comment3='
+Shelly provides convenient systems programming in Haskell, similar in spirit to
+POSIX shells. Shelly
+
+* is aimed at convenience and getting things done rather than being a
+demonstration of elegance.
+* has detailed and useful error messages
+* maintains its own environment, making it thread-safe.
+* is modern, using Text and system-filepath/system-fileio
+An overview is available in the README
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shelly'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

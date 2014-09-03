@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nagios-lcgdm</b>'
+Comment='<span size="xx-large">Configuration files for a (DPM/LFC) site monitored using LCGDM nagios probes</span>'
+Comment3='
+This package provides all the necessary configuration file for a (DPM/LFC) site
+monitored using the nagios-plugins-lcgdm probes
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm/wiki/Dpm/Admin/Monitoring'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

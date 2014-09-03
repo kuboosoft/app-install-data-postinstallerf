@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>jcal</b>'
+Comment='<span size="xx-large">Unix cal-like interface to libjalali</span>'
+Comment3='
+This package provides two applications jcal and jdate which use libjalali
+for calendar calculation.
+
+jcal is a UNIX cal-like tool to display calendar based on Jalali calendar
+system.
+jdate is UNIX date-like tool to display date and time based on Jalali
+calendar system.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://nongnu.org/jcal/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

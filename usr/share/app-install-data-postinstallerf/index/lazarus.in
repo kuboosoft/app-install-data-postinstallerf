@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lazarus</b>'
+Comment='<span size="xx-large">Lazarus Component Library and IDE for Freepascal</span>'
+Comment3='
+A free and open-source RAD tool for Free Pascal using the Lazarus
+Component Library - LCL, which is also included in this package.
+'
+License='GPLv2+ and MPLv1.1 and LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.lazarus.freepascal.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

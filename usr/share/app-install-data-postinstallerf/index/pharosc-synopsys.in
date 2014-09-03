@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pharosc-synopsys</b>'
+Comment='<span size="xx-large">VLSI and ASIC Standard Cell Libraries for Synopsis</span>'
+Comment3='
+The Synopsys format Liberty files are copied here.
+Basic information on functions (like pin names) and cells
+(like transistor widths) which is used to make the spice
+decks, Alliance VBE and Synopsys LIB files.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vlsitechnology.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

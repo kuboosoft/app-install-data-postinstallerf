@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dspam-sqlite3</b>'
+Comment='<span size="xx-large">SQLite v3.x storage driver for libdspam</span>'
+Comment3='
+SQLite v3 storage driver for libdspam. The driver is not thread-safe
+and should not be used in DSPAM server daemon mode.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nuclearelephant.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

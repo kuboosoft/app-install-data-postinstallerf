@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-Child</b>'
+Comment='<span size="xx-large">Child management component for POE</span>'
+Comment3='
+This POE component serves as a wrapper for POEWheelRun, obviating
+the need to create a session to receive the events it dishes out.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-Child'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

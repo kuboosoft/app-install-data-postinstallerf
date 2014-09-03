@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fftw-static</b>'
+Comment='<span size="xx-large">Static versions of the FFTW libraries</span>'
+Comment3='
+The fftw-static package contains the statically linkable version of
+the FFTW fast Fourier transform library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fftw.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>CCfits</b>'
+Comment='<span size="xx-large">A C++ interface for cfitsio</span>'
+Comment3='
+CCfits is an object oriented interface to the cfitsio library. It is designed
+to make the capabilities of cfitsio available to programmers working in C++.
+It is written in ANSI C++ and implemented using the C++ Standard Library
+with namespaces, exception handling, and member template functions.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

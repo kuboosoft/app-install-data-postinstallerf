@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libidn2</b>'
+Comment='<span size="xx-large">Library to support IDNA2008 internationalized domain names</span>'
+Comment3='
+Libidn2 is an implementation of the IDNA2008 specifications in RFC
+5890, 5891, 5892 and 5893 for internationalized domain names (IDN).
+It is a standalone library, without any dependency on libidn.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/libidn/#libidn2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

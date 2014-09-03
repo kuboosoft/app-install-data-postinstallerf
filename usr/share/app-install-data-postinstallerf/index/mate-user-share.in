@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mate-user-share</b>'
+Comment='<span size="xx-large">Mate user file sharing</span>'
+Comment3='
+mate-user-share is a small package that binds together various free
+software projects to bring easy to use user-level file sharing to the
+masses.
+
+The program is meant to run in the background when the user is logged
+in, and when file sharing is enabled a webdav server is started that
+shares the $HOME/Public folder. The share is then published to all
+computers on the local network using mDNS/rendezvous, so that it shows
+up in the Network location in MATE.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

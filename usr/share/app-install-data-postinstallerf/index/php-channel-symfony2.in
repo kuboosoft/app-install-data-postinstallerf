@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-channel-symfony2</b>'
+Comment='<span size="xx-large">Adds pear.symfony.com channel to PEAR</span>'
+Comment3='
+This package adds the pear.symfony.com channel which allows PEAR packages from
+this channel to be installed.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://pear.symfony.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

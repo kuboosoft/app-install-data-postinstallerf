@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ladspa-devel</b>'
+Comment='<span size="xx-large">Linux Audio Developers Simple Plug-in API</span>'
+Comment3='
+ladspa-devel contains the ladspa.h header file.
+
+Definitive technical documentation on LADSPA plug-ins for both the host
+and plug-in is contained within copious comments within the ladspa.h
+header file.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.ladspa.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

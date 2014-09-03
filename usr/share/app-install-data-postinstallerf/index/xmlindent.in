@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xmlindent</b>'
+Comment='<span size="xx-large">XML stream reformatter</span>'
+Comment3='
+XML Indent is a XML stream reformatter written in ANSI C.
+It is analogous to GNU indent.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xmlindent.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

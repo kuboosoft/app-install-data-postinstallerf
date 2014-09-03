@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-XML-Simple</b>'
+Comment='<span size="xx-large">Easy API to maintain XML in Perl</span>'
+Comment3='
+The XMLSimple module provides a simple API layer on top of an
+underlying XML parsing module (either XMLParser or one of the SAX2
+parser modules).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mediawiki-semantic</b>'
+Comment='<span size="xx-large">An extension of MediaWiki that improves content organization</span>'
+Comment3='
+Semantic MediaWiki is also a full-fledged framework, in conjunction with many
+spinoff extensions, that can turn a wiki into a powerful and flexible
+?collaborative database?. All data created within SMW can easily be published
+via the Semantic Web, allowing other systems to use this data seamlessly.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://semantic-mediawiki.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

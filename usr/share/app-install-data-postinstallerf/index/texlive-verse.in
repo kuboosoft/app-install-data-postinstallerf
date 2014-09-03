@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-verse</b>'
+Comment='<span size="xx-large">Aids for typesetting simple verse</span>'
+Comment3='
+The package documentation discusses approaches to the problem;
+the package is strong on layout, from simple alternate-line
+indentation to the Mouses tale from Alice in Wonderland.
+
+date 2009-09-04 121445 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

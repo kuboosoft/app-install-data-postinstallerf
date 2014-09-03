@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mingw32-cppunit</b>'
+Comment='<span size="xx-large">MinGW Windows C++ unit testing framework</span>'
+Comment3='
+CppUnit is the C++ port of the famous JUnit framework for unit testing.
+Test output is in XML for automatic testing and GUI based for supervised
+tests.
+
+MinGW Windows C++ unit testing framework.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cppunit.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

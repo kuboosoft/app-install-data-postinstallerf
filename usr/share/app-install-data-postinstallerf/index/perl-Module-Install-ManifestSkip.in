@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Module-Install-ManifestSkip</b>'
+Comment='<span size="xx-large">Generate a MANIFEST.SKIP file</span>'
+Comment3='
+This module generates a MANIFEST.SKIP file for you (using
+ModuleManifestSkip) that contains the common files that people do not
+want in their MANIFEST files. The SKIP file is generated each time that you
+(the module author) run Makefile.PL.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Install-ManifestSkip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

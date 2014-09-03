@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ibus-table-chinese-erbi</b>'
+Comment='<span size="xx-large">Erbi input method</span>'
+Comment3='
+Erbi input methods. Includes
+Super Erbi (as erbi)
+and  Erbi Qin-Song (erbi-qs)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>baekmuk-ttf-batang-fonts</b>'
+Comment='<span size="xx-large">Korean Baekmuk TrueType Batang typeface</span>'
+Comment3='
+
+This package provides the free Korean TrueType fonts.
+Batang is Korean TrueType font in Serif typeface.
+'
+License='Baekmuk'
+Screenshot=''
+Url='http://kldp.net/projects/baekmuk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

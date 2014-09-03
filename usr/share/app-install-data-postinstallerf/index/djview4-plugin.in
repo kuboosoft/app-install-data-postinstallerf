@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>djview4-plugin</b>'
+Comment='<span size="xx-large">Browser plugin for DjVu viewer</span>'
+Comment3='
+This package provides a browser plugin for the DjVu document viewer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://djvu.sourceforge.net/djview4.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openscada-Transport-Sockets</b>'
+Comment='<span size="xx-large">Open SCADA transports</span>'
+Comment3='
+The openscada-Transport-Sockets allows sockets based transport.
+Supports inet and unix sockets.
+Inet socket uses TCP and UDP protocols.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

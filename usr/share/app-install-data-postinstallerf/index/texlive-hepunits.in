@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-hepunits</b>'
+Comment='<span size="xx-large">A set of units useful in high energy physics applications</span>'
+Comment3='
+Hepunits is a LaTeX package built on the SIunits package which
+adds a collection of useful HEP units to the existing SIunits
+set. These include the energy units \MeV, \GeV, \TeV and the
+derived momentum and mass units \MeVoverc, \MeVovercsq and so
+on.
+
+date 2009-09-19 120816 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

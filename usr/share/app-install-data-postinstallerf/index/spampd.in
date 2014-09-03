@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>spampd</b>'
+Comment='<span size="xx-large">Transparent SMTP/LMTP proxy filter using spamassassin</span>'
+Comment3='
+Spampd is a program used within an e-mail delivery system to scan messages for
+possible Unsolicited Commercial E-mail (UCE, aka spam) content. It uses
+SpamAssassin (SA) to do the actual message scanning. Spampd acts as a
+transparent SMTP/LMTP proxy between two mail servers, and during the
+transaction it passes the mail through SA. If SA decides the mail could be
+spam, then spampd will ask SA to add some headers and a report to the message
+indicating its spam and why.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.worlddesign.com/index.cfm/rd/mta/spampd.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rasterview</b>'
+Comment='<span size="xx-large">CUPS raster file viewer</span>'
+Comment3='
+CUPS uses an intermediate format called raster for inkjet printers and
+others that require rasterized input.  This program can be used to
+view this intermediate format and is mainly used for debugging printer
+drivers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.easysw.com/~mike/rasterview/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

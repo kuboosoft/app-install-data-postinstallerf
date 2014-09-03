@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tralics</b>'
+Comment='<span size="xx-large">LaTeX to XML translator</span>'
+Comment3='
+Tralics is a free software whose purpose is to convert a LaTeX document into
+an XML file. It is used since 2002 for instance to produce the Inrias
+annual activity report.
+'
+License='CeCILL'
+Screenshot=''
+Url='http://www-sop.inria.fr/apics/tralics/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

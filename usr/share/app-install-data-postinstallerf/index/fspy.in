@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fspy</b>'
+Comment='<span size="xx-large">Filesystem activity monitoring utility</span>'
+Comment3='
+fspy is an easy to use linux filesystem activity monitoring tool. It is
+is small, fast and handles system resources conservatively. Features
+include being able to apply filters, use diffing and set a custom output
+format in order to achieve the best results.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mytty.org/fspy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

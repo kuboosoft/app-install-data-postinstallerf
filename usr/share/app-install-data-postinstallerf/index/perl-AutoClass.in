@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-AutoClass</b>'
+Comment='<span size="xx-large">Automatically define classes and objects for Perl</span>'
+Comment3='
+AutoClass is a Perl module to automatically define simple get and set
+methods to automatically initialize objects in a (possibly multiple)
+inheritance structure.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/autoclass/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

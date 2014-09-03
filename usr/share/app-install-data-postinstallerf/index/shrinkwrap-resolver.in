@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>shrinkwrap-resolver</b>'
+Comment='<span size="xx-large">ShrinkWrap Resolver</span>'
+Comment3='
+This package contains the ShrinkWrap Resolver.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/shrinkwrap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

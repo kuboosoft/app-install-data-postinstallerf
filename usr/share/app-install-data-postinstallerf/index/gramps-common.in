@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gramps-common</b>'
+Comment='<span size="xx-large">Gramps common modules</span>'
+Comment3='
+Common modules for the Gramps Genealogy application.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gramps-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

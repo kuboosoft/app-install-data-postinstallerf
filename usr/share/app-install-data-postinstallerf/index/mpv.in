@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mpv</b>'
+Comment='<span size="xx-large">Movie player playing most video formats and DVDs</span>'
+Comment3='
+Mpv is a movie player based on MPlayer and mplayer2. It supports a wide variety
+of video file formats, audio and video codecs, and subtitle types. Special
+input URL types are available to read input from a variety of sources other
+than disk files. Depending on platform, a variety of different video and audio
+output methods are supported.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mpv.io/'
+input URL types are available to read input from a variety of sources other'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

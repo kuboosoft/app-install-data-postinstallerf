@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Perl-Critic-StricterSubs</b>'
+Comment='<span size="xx-large">Perl::Critic plugin for stricter subroutine checks</span>'
+Comment3='
+As a dynamic language, Perl doesnt require you to define subroutines until
+run-time. Although this is a powerful feature, it can also be a major
+source of bugs. For example, you might mistype the name of a subroutine, or
+call a subroutine from another module without including that module or
+importing that subroutine. And unless you have very good test coverage, you
+might not know about these bugs until you have already launched your code.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic-StricterSubs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

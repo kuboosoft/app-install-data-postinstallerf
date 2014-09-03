@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-cups-doc</b>'
+Comment='<span size="xx-large">Documentation for python-cups</span>'
+Comment3='
+Documentation for python-cups.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cyberelk.net/tim/software/pycups/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

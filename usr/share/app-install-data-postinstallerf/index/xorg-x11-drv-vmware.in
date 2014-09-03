@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xorg-x11-drv-vmware</b>'
+Comment='<span size="xx-large">Xorg X11 vmware video driver</span>'
+Comment3='
+X.Org X11 vmware video driver.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

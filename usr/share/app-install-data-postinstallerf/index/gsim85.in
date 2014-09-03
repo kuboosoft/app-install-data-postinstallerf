@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gsim85</b>'
+Comment='<span size="xx-large">An 8085 microprocessor simulator</span>'
+Comment3='
+It is an 8085 simulator. It is having very user friendly graphical
+user interface. It can be used to test 8085 programs before actualy
+implementing them on target board.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gsim85.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

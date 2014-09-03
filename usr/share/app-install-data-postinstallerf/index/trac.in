@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>trac</b>'
+Comment='<span size="xx-large">Enhanced wiki and issue tracking system</span>'
+Comment3='
+Trac is an integrated system for managing software projects, an
+enhanced wiki, a flexible web-based issue tracker, and an interface to
+the Subversion revision control system.  At the core of Trac lies an
+integrated wiki and issue/bug database. Using wiki markup, all objects
+managed by Trac can directly link to other issues/bug reports, code
+changesets, documentation and files.  Around the core lies other
+modules, providing additional features and tools to make software
+development more streamlined and effective.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac.edgewall.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

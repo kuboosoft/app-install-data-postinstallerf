@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>istack-commons</b>'
+Comment='<span size="xx-large">Common code for some Glassfish projects</span>'
+Comment3='
+Code shared between JAXP, JAXB, SAAJ, and JAX-WS projects.
+'
+License='CDDL and GPLv2 with exceptions'
+Screenshot=''
+Url='http://istack-commons.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

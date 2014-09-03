@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tcl-tcludp</b>'
+Comment='<span size="xx-large">Tcl extension for UDP support</span>'
+Comment3='
+The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/tcludp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

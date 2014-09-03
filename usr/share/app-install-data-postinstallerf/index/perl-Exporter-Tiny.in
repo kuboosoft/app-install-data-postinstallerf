@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Exporter-Tiny</b>'
+Comment='<span size="xx-large">An exporter with the features of Sub::Exporter but only core dependencies</span>'
+Comment3='
+ExporterTiny supports many of SubExporters external-facing features
+including renaming imported functions with the -as, -prefix and -suffix
+options; explicit destinations with the into option; and alternative
+installers with the installer option. But its written in only about 40%
+as many lines of code and with zero non-core dependencies.
+
+Its internal-facing interface is closer to Exporter.pm, with configuration
+done through the @EXPORT, @EXPORT_OK and %EXPORT_TAGS package variables.
+ExporterTiny performs most of its internal duties (including resolution of
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Exporter-Tiny/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

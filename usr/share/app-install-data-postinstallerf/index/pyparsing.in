@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pyparsing</b>'
+Comment='<span size="xx-large">An object-oriented approach to text processing</span>'
+Comment3='
+pyparsing is a module that can be used to easily and directly configure syntax
+definitions for any number of text parsing applications.
+'
+License='MIT'
+Screenshot=''
+Url='http://pyparsing.wikispaces.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

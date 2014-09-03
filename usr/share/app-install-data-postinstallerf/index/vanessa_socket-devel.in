@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vanessa_socket-devel</b>'
+Comment='<span size="xx-large">Headers and static libraries for development</span>'
+Comment3='
+Headers and static libraries required to develop against libvanessa_socket.
+
+URL          http//www.vergenet.net/linux/vanessa/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vergenet.net/linux/vanessa/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-MDB2-Driver-mysql</b>'
+Comment='<span size="xx-large">MySQL MDB2 driver</span>'
+Comment3='
+This is the MySQL MDB2 driver.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/MDB2_Driver_mysql'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

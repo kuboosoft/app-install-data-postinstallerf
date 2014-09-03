@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>vidalia</b>'
+Comment='<span size="xx-large">GUI controller for the Tor Onion Routing Network</span>'
+Comment3='
+Vidalia is a cross-platform controller GUI for Tor, built using the Qt
+framework. Vidalia allows you to start and stop Tor, view the status of
+Tor at a glance, and monitor Tors bandwidth usage. Vidalia also makes
+it easy to contribute to the Tor network by helping you setup a Tor server,
+if you wish.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.torproject.org/vidalia/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

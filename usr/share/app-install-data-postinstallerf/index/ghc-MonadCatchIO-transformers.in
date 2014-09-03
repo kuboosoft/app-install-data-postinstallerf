@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ghc-MonadCatchIO-transformers</b>'
+Comment='<span size="xx-large">Exception handling with IO monad transformers</span>'
+Comment3='
+This library provides functions to throw and catch exceptions.
+Unlike the functions from Control.Exception, which work in IO,
+these work in any stack of monad transformers (from the transformers package)
+with IO as the base monad. You can extend this functionality to other monads,
+by creating an instance of the MonadCatchIO class.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/MonadCatchIO-transformers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnucash</b>'
+Comment='<span size="xx-large">Finance management application</span>'
+Comment3='
+GnuCash is a personal finance manager. A check-book like register GUI
+allows you to enter and track bank accounts, stocks, income and even
+currency trades. The interface is designed to be simple and easy to
+use, but is backed with double-entry accounting principles to ensure
+balanced books.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnucash.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

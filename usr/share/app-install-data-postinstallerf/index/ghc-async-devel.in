@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-async-devel</b>'
+Comment='<span size="xx-large">Haskell async library development files</span>'
+Comment3='
+This package provides the Haskell async library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/async'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

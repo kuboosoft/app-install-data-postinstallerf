@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dcap-tunnel-krb</b>'
+Comment='<span size="xx-large">Kerberos tunnel for dCache</span>'
+Comment3='
+This package contains the kerberos tunnel plugin library used by dcap-libs.
+This library is dynamically loaded at runtime.
+'
+License='LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.dcache.org/manuals/libdcap.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jenkins-extras-memory-monitor</b>'
+Comment='<span size="xx-large">Java library for monitoring memory/swap usage</span>'
+Comment3='
+This package contains a small Java library for monitoring
+memory/swap usage.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jenkinsci/extras-memory-monitor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

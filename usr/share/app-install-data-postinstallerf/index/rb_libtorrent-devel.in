@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>rb_libtorrent-devel</b>'
+Comment='<span size="xx-large">Development files for rb_libtorrent</span>'
+Comment3='
+The rb_libtorrent-devel package contains libraries and header files for
+developing applications that use rb_libtorrent.
+
+The various source and header files included in this package are licensed
+under the revised BSD, zlib/libpng, and Boost Public licenses. See the various
+COPYING files in the included documentation for the full text of these
+licenses, as well as the comments blocks in the source code for which license
+a given source or header file is released under.
+'
+License='BSD and zlib and Boost'
+Screenshot=''
+Url='http://www.rasterbar.com/products/libtorrent/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

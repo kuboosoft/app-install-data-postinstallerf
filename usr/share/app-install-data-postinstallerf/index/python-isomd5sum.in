@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-isomd5sum</b>'
+Comment='<span size="xx-large">Python bindings for isomd5sum</span>'
+Comment3='
+Python bindings for isomd5sum
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/?p=isomd5sum.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

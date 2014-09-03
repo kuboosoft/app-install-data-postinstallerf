@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zarafa-server</b>'
+Comment='<span size="xx-large">Server component for the Zarafa Collaboration Platform</span>'
+Comment3='
+The zarafa-server package includes the main Zarafa Server and Storage
+process. It contacts a database server and provides services to Zarafa
+clients. The user base can be either retrieved from an external source
+or can be setup with a separate list of users.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

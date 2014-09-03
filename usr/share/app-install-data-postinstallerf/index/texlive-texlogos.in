@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-texlogos</b>'
+Comment='<span size="xx-large">Ready-to-use LaTeX logos</span>'
+Comment3='
+TeXlogos defines an assortment of frequently used logos not
+contained in base LaTeX itself. The MetaFont, MetaPost, AMS,
+BibTeX and SliTeX logos are defined, as long as you have the
+appropriate CM/Logo/AMS fonts. Currency symbols Euro, Cent,
+Yen, Won and Naira are defined so as not to need TS1-encoded
+fonts. Also defined are the C++ logo, with the + signs
+properly positioned, and the logo of the Vienna University
+Business Administration Center (BWZ).
+
+date 2007-01-16 093454 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

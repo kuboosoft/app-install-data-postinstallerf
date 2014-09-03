@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Gtk2-SourceView2</b>'
+Comment='<span size="xx-large">Perl bindings for the GtkSourceView 2.x widget</span>'
+Comment3='
+Perl bindings for the C library "libgtksourceview2" that extends the
+standard GTK+ framework for multiline text editing with support for
+configurable syntax highlighting, unlimited undo/redo, UTF-8 compliant
+caseless searching, printing and other features typical of a source
+code editor.
+'
+License='GPLv2+ or Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Gtk2-SourceView2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-layers-menu</b>'
+Comment='<span size="xx-large">Hierarchical PHP based DHTML menu system</span>'
+Comment3='
+This is a hierarchical menu system to prepare on the fly DHTML menus
+relying on the PHP scripting engine for the processing of data items.
+It supports a wide range of browsers Mozilla, Konqueror, Netscape,
+Safari, Opera, Internet Explorer; rather old browser versions are
+supported as well; accessibility is provided for text-only browsers.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://phplayersmenu.sourceforge.net/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

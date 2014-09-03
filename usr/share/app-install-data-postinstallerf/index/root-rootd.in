@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>root-rootd</b>'
+Comment='<span size="xx-large">ROOT remote file server</span>'
+Comment3='
+This package contains the ROOT file server. Rootd is a server for ROOT
+files, serving files over the Internet. Using this daemon, you can
+access files on the machine from anywhere on the Internet, using a
+transparent interface.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

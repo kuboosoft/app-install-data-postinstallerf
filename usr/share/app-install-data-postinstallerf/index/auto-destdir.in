@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>auto-destdir</b>'
+Comment='<span size="xx-large">Automate DESTDIR support for "make install"</span>'
+Comment3='
+Auto-DESTDIR is a set of programs for POSIX/Unix/Linux systems that helps
+automate program installation from source code.  It can be useful for
+creating native packages (e.g., RPM or deb), or for installing programs
+from source code to be managed by tools like GNU stow.
+
+The Auto-DESTDIR tools (run-redir and make-redir) redirect file installations
+so that the installed files are placed inside the the $DESTDIR directory,
+even if the provided makefile doesnt support the DESTDIR convention.
+In most cases you can simply replace "make install" with
+"make-redir DESTDIR=... install".
+'
+License='MIT'
+Screenshot=''
+Url='http://www.dwheeler.com/auto-destdir'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-biblatex-juradiss</b>'
+Comment='<span size="xx-large">Biblatex stylefiles for German law thesis</span>'
+Comment3='
+The package provides a style for use in typesetting a German
+law thesis with LaTeX. The style (using biblatex) is based on
+biblatex-dw.
+
+date 2013-03-01 081518 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

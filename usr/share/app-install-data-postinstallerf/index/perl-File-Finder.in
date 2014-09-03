@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-File-Finder</b>'
+Comment='<span size="xx-large">Nice wrapper for File::Find ala find(1)</span>'
+Comment3='
+FileFind is great, but constructing the wanted routine can sometimes be a
+pain. This module provides a wanted-writer, using syntax that is directly
+mappable to the find commands syntax.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Finder/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

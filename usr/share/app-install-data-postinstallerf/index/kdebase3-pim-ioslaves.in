@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>kdebase3-pim-ioslaves</b>'
+Comment='<span size="xx-large">PIM KIOslaves from kdebase3</span>'
+Comment3='
+Protocol handlers (KIOslaves) for personal information management, including
+ * kio_ldap
+ * kio_nntp
+ * kio_pop3
+ * kio_smtp
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

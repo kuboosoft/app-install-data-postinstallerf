@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>geeqie</b>'
+Comment='<span size="xx-large">Image browser and viewer</span>'
+Comment3='
+Geeqie has been forked from the GQview project with the goal of picking up
+development and integrating patches. It is an image viewer for browsing
+through graphics files. Its many features include single click file
+viewing, support for external editors, previewing images using thumbnails,
+and zoom.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://geeqie.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

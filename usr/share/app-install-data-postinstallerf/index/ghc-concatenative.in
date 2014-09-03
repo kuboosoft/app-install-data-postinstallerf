@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-concatenative</b>'
+Comment='<span size="xx-large">A library for postfix control flow</span>'
+Comment3='
+Concatenative gives haskell factor style combinators and arrows for postfix
+notation. For more information on stack based languages, see
+<http//concatenative.org>.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/concatenative'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

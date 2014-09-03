@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>prepaid-manager-applet</b>'
+Comment='<span size="xx-large">An applet for the GNOME Desktop for GSM mobile prepaid SIM cards</span>'
+Comment3='
+prepaid-manager-applet aims to ease the handling of mobile internet
+connections using GSM mobile prepaid cards on the GNOME Desktop.
+Such a SIM card can either be in a mobile phone used as a modem,
+a USB 3g module (USB surf stick) or used by the built in 3G
+chip set in your laptop/net book.
+
+* It allows you to check the current balance and to top up the credit.
+* It uses ModemManager to talk to your GSM chip set.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://honk.sigxcpu.org/piki/projects/ppm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

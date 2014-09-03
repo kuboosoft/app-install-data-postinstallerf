@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-gconf2</b>'
+Comment='<span size="xx-large">Ruby binding of GConf-2.x</span>'
+Comment3='
+Ruby/GConf2 is a Ruby binding of GConf-2.x.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pcre-static</b>'
+Comment='<span size="xx-large">Static library for pcre</span>'
+Comment3='
+Library for static linking for pcre.
+
+URL          http//www.pcre.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.pcre.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

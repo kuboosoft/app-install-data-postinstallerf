@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ants</b>'
+Comment='<span size="xx-large">Guide the insects safely home before they drop of the cliff</span>'
+Comment3='
+You take command in the game of a bunch of small ants and have to guide them
+around in levels. Since the ants walk on their own, the player can only
+influence them by giving them commands, like build a bridge, dig a hole or
+redirect all ants in the other direction. The goal of each level is to
+reach the exit, for which multiple combination of commands are necessary.
+The game is presented in a 2D side view.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.allegro.cc/depot/Ants'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

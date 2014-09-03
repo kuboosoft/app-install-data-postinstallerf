@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-XML-Parser-Lite-Tree-XPath</b>'
+Comment='<span size="xx-large">XPath access to XML::Parser::Lite::Tree structures</span>'
+Comment3='
+This pure-Perl implementation of XPath is a complement to
+XMLParserLiteTree, a pure-Perl XML tree parser and builder. It aims
+to implement 100% of the W3C XPath specification.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-Parser-Lite-Tree-XPath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

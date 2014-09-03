@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-hu</b>'
+Comment='<span size="xx-large">Hungarian thesaurus</span>'
+Comment3='
+Hungarian thesaurus.
+'
+License='GPLv2+ and (GPLv2+ or LGPLv2+ or MPLv1.1) and GPLv2 and (GPL+ or LGPLv2+ or MPLv1.1)'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/project/hu_dicts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

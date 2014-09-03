@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-sip-devel</b>'
+Comment='<span size="xx-large">Files needed to generate Python 3 bindings for any C++ class library</span>'
+Comment3='
+This package contains files needed to generate Python 3 bindings for any C++
+classes library.
+
+'
+License='GPLv2 or GPLv3 and (GPLv3+ with exceptions)'
+Screenshot=''
+Url='http://www.riverbankcomputing.com/software/sip/intro'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

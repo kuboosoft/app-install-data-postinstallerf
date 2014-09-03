@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>input-pad</b>'
+Comment='<span size="xx-large">On-screen Input Pad to Send Characters with Mouse</span>'
+Comment3='
+The input pad is a tool to send a character on button to text applications.
+
+URL          http//code.google.com/p/input-pad/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/input-pad/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

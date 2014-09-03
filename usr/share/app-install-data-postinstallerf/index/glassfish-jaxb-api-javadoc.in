@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glassfish-jaxb-api-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jaxb-api</span>'
+Comment3='
+Glassfish - JAXB (JSR 222) API.
+
+This package contains javadoc for glassfish-jaxb-api.
+'
+License='CDDL or GPLv2 with exception'
+Screenshot=''
+Url='http://jaxb.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

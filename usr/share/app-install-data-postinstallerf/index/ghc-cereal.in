@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ghc-cereal</b>'
+Comment='<span size="xx-large">Binary serialization library</span>'
+Comment3='
+A binary serialization library, similar to binary, that introduces an isolate
+primitive for parser isolation, and replaces the asynchronous errors with a
+user-handleable Either type.  Similar to binary in performance, but uses a
+strict ByteString instead of a lazy ByteString, thus restricting it to
+operating on finite inputs.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cereal'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

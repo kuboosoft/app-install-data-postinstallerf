@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n electric
+Version=1.0
+Name=electric
+GenericName=Electrical CAD
+Comment=Electrical CAD System
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/electric.png
+Categories=Education;Electronics;Engineering;

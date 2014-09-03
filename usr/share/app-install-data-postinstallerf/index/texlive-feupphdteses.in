@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-feupphdteses</b>'
+Comment='<span size="xx-large">Typeset Engineering PhD theses at the University of Porto</span>'
+Comment3='
+A complete template for thesis/works of Faculdade de Engenharia
+da Universidade do Porto (FEUP) Faculty of Engineering
+University of Porto.
+
+date 2013-06-19 182753 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

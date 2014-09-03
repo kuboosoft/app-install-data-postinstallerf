@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-rapi</b>'
+Comment='<span size="xx-large">Python bindings to librapi (part of SynCE)</span>'
+Comment3='
+This package contains the python bindings to librapi, a component
+of the SynCE PocketPC connection framework.
+The python module to import is named "pyrapi2"
+'
+License='MIT'
+Screenshot=''
+Url='http://www.synce.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

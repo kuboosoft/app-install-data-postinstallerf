@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-pymilia</b>'
+Comment='<span size="xx-large">Python wrappers for milia</span>'
+Comment3='
+Python wrappers for milia. Milia is a C++ library created to
+compute cosmological distances and ages in the
+Friedmann-Lema?tre-Robertson-Walker metric.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://guaix.fis.ucm.es/projects/pymilia/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

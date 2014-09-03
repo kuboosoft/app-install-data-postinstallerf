@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwsman1</b>'
+Comment='<span size="xx-large">Open source Implementation of WS-Management</span>'
+Comment3='
+Openwsman library for packages dependent on openwsman
+
+URL          http//www.openwsman.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openwsman.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmpdclient-devel</b>'
+Comment='<span size="xx-large">Header files for developing programs with libmpdclient</span>'
+Comment3='
+libmpdclient-devel is a sub-package which contains header files and
+libraries for developing programs with libmpdclient.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://mpd.wikia.com/wiki/ClientLib:libmpdclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

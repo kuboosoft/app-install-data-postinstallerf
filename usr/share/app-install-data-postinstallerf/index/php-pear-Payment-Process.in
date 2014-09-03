@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-Payment-Process</b>'
+Comment='<span size="xx-large">Unified payment processor</span>'
+Comment3='
+Payment_Process is a gateway-independent framework for processing credit
+cards, e-checks and eventually other forms of payments as well.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Payment_Process'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-nose-parameterized</b>'
+Comment='<span size="xx-large">Decorator for parameterized testing with Nose</span>'
+Comment3='
+Library that improving nose test generators with a decorator that fixes
+the frequent requirement of a second function, the difficulty to separate
+the data from the tests and the impossibility of working with subclases of
+unittest.TestCase
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/wolever/nose-parameterized'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

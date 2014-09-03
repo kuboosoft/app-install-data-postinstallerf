@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gentoo</b>'
+Comment='<span size="xx-large">Graphical file management program in GTK+ for Linux</span>'
+Comment3='
+gentoo is a file manager for Linux written from scratch in pure C. It
+uses the GTK2 toolkit for all of its interface needs. gentoo provides
+100% GUI configurability; no need to edit config files by hand and re-
+start the program. gentoo supports identifying the type of various
+files (using extension, regular expressions, and/or the file command),
+and can display files of different types with different colors and icons.
+gentoo borrows some of its look and feel from the classic Amiga
+file manager "Directory OPUS"(TM) (written by Jonathan Potter).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.obsession.se/gentoo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

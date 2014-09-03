@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>homebank-doc</b>'
+Comment='<span size="xx-large">Documentation files for homebank</span>'
+Comment3='
+Documentation files for homebank
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://homebank.free.fr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

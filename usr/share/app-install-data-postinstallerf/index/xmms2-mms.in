@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmms2-mms</b>'
+Comment='<span size="xx-large">XMMS2 Plugin for MMS audio streams</span>'
+Comment3='
+An XMMS2 Plugin for listening to Microsoft Media Services (MMS) audio streams.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

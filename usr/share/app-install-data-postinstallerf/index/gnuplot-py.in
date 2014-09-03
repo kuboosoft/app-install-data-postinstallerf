@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gnuplot-py</b>'
+Comment='<span size="xx-large">Python interface to Gnuplot</span>'
+Comment3='
+Gnuplot.py is a Python package that interfaces to gnuplot, the popular
+open-source plotting program. It allows you to use gnuplot from within
+Python to plot arrays of data from memory, data files, or mathematical
+functions.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gnuplot-py.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

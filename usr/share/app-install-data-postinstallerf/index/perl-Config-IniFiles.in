@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Config-IniFiles</b>'
+Comment='<span size="xx-large">A module for reading .ini-style configuration files</span>'
+Comment3='
+ConfigIniFiles provides a way to have readable configuration files
+outside your Perl script. Configurations can be imported (inherited,
+stacked,...), sections can be grouped, and settings can be accessed
+from a tied hash.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Config-IniFiles/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

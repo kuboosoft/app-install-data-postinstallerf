@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>kpat</b>'
+Comment='<span size="xx-large">A selection of solitaire card games</span>'
+Comment3='
+A selection of solitaire card games.
+To play patience you need, as the name suggests, patience. For simple
+games, where the way the game goes depends only upon how the cards fall,
+your patience might be the only thing you need.  There are also patience
+games where you must plan your strategy and think ahead in order to win.
+A theme common to all the games is the player must put the cards in a
+special order ? moving, turning and reordering them.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kpat'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

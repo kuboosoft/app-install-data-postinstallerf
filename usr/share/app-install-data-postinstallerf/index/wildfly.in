@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>wildfly</b>'
+Comment='<span size="xx-large">WildFly Application Server</span>'
+Comment3='
+WildFly Application Server (formerly known as JBoss Application Server) is the
+latest release in a series of WildFly offerings. WildFly Application Server, is
+a fast, powerful, implementation of the Java Enterprise Edition 6
+specification.  The state-of-the-art architecture built on the Modular Service
+Container enables services on-demand when your application requires them.
+'
+License='LGPLv2+ and ASL 2.0 and GPLv2 with exceptions'
+Screenshot=''
+Url='http://wildfly.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

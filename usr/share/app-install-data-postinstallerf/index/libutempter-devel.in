@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libutempter-devel</b>'
+Comment='<span size="xx-large">Development environment for utempter</span>'
+Comment3='
+This package contains development files required to build
+utempter-based software.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='ftp://ftp.altlinux.org/pub/people/ldv/utempter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jutils-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jutils</span>'
+Comment3='
+This package contains the API documentation for jutils.
+'
+License='BSD'
+Screenshot=''
+Url='http://java.net/projects/jutils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>slrn</b>'
+Comment='<span size="xx-large">A threaded Internet news reader</span>'
+Comment3='
+SLRN is a threaded Internet news reader. SLRN is highly customizable
+and allows users to design complex filters for sorting or killing news
+articles. SLRN works well over slow network lines. A helper utility
+for reading news offline is provided in the slrn-pull package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://slrn.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

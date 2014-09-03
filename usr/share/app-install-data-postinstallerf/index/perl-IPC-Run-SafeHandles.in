@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-IPC-Run-SafeHandles</b>'
+Comment='<span size="xx-large">Use IPC::Run and IPC::Run3 safely</span>'
+Comment3='
+IPCRun and IPCRun3 are both very upset when you try to use them under
+environments where you have STDOUT and/or STDERR tied to something else,
+such as under fastcgi.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IPC-Run-SafeHandles/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

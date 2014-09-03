@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-SDL</b>'
+Comment='<span size="xx-large">Simple DirectMedia Layer for Perl</span>'
+Comment3='
+SDL_perl is a package of Perl modules that provide both functional and
+object oriented interfaces to the Simple DirectMedia Layer for Perl 5. This
+package takes some liberties with the SDL API, and attempts to adhere to
+the spirit of both the SDL and Perl.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sdl.perl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-polish</b>'
+Comment='<span size="xx-large">Polish hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Polish in QX and UTF-8 encodings.
+These patterns are also used by Polish TeX formats MeX and
+LaMeX.
+
+date 2009-10-07 213542 +0200
+'
+License='Knuth'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

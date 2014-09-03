@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wine-fixedsys-fonts</b>'
+Comment='<span size="xx-large">Wine Fixedsys font family</span>'
+Comment3='
+Wine Fixedsys font family
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

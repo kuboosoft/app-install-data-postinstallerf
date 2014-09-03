@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmatekeyring-devel</b>'
+Comment='<span size="xx-large">Development files for libmate-keyring</span>'
+Comment3='
+The libmatekeyring-devel package contains the libraries and
+header files needed to develop applications that use libmate-keyring.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

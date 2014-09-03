@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qpid-tools</b>'
+Comment='<span size="xx-large">Management and diagnostic tools for Apache Qpid</span>'
+Comment3='
+Management and diagnostic tools for Apache Qpid brokers and clients.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

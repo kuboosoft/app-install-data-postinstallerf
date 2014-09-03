@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>morfologik-stemming-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for morfologik-stemming</span>'
+Comment3='
+This package contains javadoc for morfologik-stemming.
+'
+License='BSD'
+Screenshot=''
+Url='http://morfologik.blogspot.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-screenplay</b>'
+Comment='<span size="xx-large">A class file to typeset screenplays</span>'
+Comment3='
+The class implements the format recommended by the Academy of
+Motion Picture Arts and Sciences.
+
+date 2012-07-04 005320 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

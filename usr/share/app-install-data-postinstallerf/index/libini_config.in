@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libini_config</b>'
+Comment='<span size="xx-large">INI file parser for C</span>'
+Comment3='
+Library to process config files in INI format into a libcollection data
+structure
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

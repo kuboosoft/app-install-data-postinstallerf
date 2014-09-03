@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>springframework-instrument</b>'
+Comment='<span size="xx-large">Spring Instrumentation</span>'
+Comment3='
+The Spring Instrumentation Framework exposes performance and
+resource utilization metrics for the Spring container and
+gives you runtime control of the container.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.springframework.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-lfb</b>'
+Comment='<span size="xx-large">A Greek font with normal and bold variants</span>'
+Comment3='
+This is a Greek font written in MetaFont, with inspiration from
+the Bodoni typefaces in old books. It is stylistically a little
+more exotic than the standard textbook Greek fonts,
+particularly in glyphs like the lowercase rho and kappa. It
+aims for a rather calligraphic feel, but seems to blend well
+with Computer Modern. There is a ligature scheme which
+automatically inserts the breathings required for ancient
+texts, making the input text more readable than in some
+schemes.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

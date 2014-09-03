@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openser-mysql</b>'
+Comment='<span size="xx-large">MySQL Storage Support for the OpenSER</span>'
+Comment3='
+The openser-mysql package contains the MySQL plugin for openser, which allows
+a MySQL-Database to be used for persistent storage.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

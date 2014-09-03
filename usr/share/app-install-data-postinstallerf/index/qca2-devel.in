@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>qca2-devel</b>'
+Comment3='
+This packages contains the development files for QCA
+
+URL          http//delta.affinix.com/qca
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://delta.affinix.com/qca'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

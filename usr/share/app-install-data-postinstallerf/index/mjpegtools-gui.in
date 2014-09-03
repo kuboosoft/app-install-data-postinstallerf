@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mjpegtools-gui</b>'
+Comment='<span size="xx-large">GUI tools to manipulate MPEG data</span>'
+Comment3='
+The mjpeg programs are a set of tools that can do recording of videos
+and playback, simple cut-and-paste editing and the MPEG compression of
+audio and video under Linux.  This package contains mjpegtools GUI
+utilities.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://mjpeg.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

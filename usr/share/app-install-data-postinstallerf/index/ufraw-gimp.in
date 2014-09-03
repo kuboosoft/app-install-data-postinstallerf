@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ufraw-gimp</b>'
+Comment='<span size="xx-large">GIMP plugin to retrieve raw image data from digital cameras</span>'
+Comment3='
+The ufraw-gimp package contains a GIMP plugin for opening raw format images of
+digital cameras.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ufraw.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

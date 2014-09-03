@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-clean-plugin</b>'
+Comment='<span size="xx-large">Maven Clean Plugin</span>'
+Comment3='
+The Maven Clean Plugin is a plugin that removes files generated
+at build-time in a projects directory.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-clean-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

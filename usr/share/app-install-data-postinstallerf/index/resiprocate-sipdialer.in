@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>resiprocate-sipdialer</b>'
+Comment='<span size="xx-large">Click-to-call utility</span>'
+Comment3='
+sipdialer is a click-to-call application that uses the SIP REFER
+method to force a SIP phone (for example, the phone on your desk)
+to dial another number.  It can be registered in GConf to handle
+clicks on sip, sips and tel URIs in other applications and the
+web browser.
+reSIProcate is a framework that aims to fully implement the SIP protocol
+in first class C++.  It is intended for use in other applications,
+such as the repro SIP proxy.
+'
+License='VSL'
+Screenshot=''
+Url='http://www.resiprocate.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

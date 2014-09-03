@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tigervnc-server-module</b>'
+Comment='<span size="xx-large">TigerVNC module to Xorg</span>'
+Comment3='
+This package contains libvnc.so module to X server, allowing others
+to access the desktop on your machine.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tigervnc.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

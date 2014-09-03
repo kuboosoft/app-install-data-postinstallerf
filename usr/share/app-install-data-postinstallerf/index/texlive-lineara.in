@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-lineara</b>'
+Comment='<span size="xx-large">Linear A script fonts</span>'
+Comment3='
+The linearA package provides a simple interface to two fonts
+which include all known symbols, simple and complex, of the
+Linear A script. This way one can easily replicate Linear A
+"texts" using modern typographic technology. Note that the
+Linear A script has not been deciphered yet and probably never
+will be deciphered.
+
+date 2006-12-01 163332 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

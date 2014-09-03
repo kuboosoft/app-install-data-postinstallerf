@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>herqq</b>'
+Comment='<span size="xx-large">A software library for building UPnP devices and control points</span>'
+Comment3='
+Herqq UPnP (HUPnP) is a software library for building UPnP
+devices and control points conforming to the UPnP Device
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://herqq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rpc2-devel</b>'
+Comment='<span size="xx-large">Development files for rpc2</span>'
+Comment3='
+The rpc2-devel package contains libraries and header files for
+developing applications that use rpc2.
+
+'
+License='LGPLv2 and GPLv2'
+Screenshot=''
+Url='http://www.coda.cs.cmu.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

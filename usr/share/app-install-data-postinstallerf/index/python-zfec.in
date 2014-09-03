@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-zfec</b>'
+Comment='<span size="xx-large">A fast erasure codec with python bindings</span>'
+Comment3='
+Fast, portable, programmable erasure coding a.k.a. "forward error correction"
+the generation of redundant blocks of information such that if some blocks are
+lost then the original data can be recovered from the remaining blocks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://allmydata.org/trac/zfec'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

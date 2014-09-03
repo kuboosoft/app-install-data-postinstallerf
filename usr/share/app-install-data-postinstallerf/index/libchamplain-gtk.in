@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libchamplain-gtk</b>'
+Comment='<span size="xx-large">Gtk+ widget wrapper for libchamplain</span>'
+Comment3='
+Libchamplain-gtk is a library providing a GtkWidget to embed libchamplain
+into Gtk+ applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/libchamplain/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

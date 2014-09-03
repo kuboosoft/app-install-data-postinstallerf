@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Text-Emoticon-MSN</b>'
+Comment='<span size="xx-large">Emoticon filter of MSN Messenger</span>'
+Comment3='
+TextEmoticonMSN is a text filter that replaces text emoticons like
+"-)", ";-P", etc. to the icons of MSN Messenger, detailed in
+http//messenger.msn.com/Resource/Emoticons.aspx
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Emoticon-MSN/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

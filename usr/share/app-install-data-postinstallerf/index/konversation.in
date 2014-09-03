@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>konversation</b>'
+Comment='<span size="xx-large">A user friendly IRC client</span>'
+Comment3='
+A simple and easy to use IRC client with support for
+strikeout; multi-channel joins; away / unaway messages;
+ignore list functionality; support for foreign
+language characters; auto-connect to server; optional timestamps
+to chat windows; configurable background colors and much more
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://konversation.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

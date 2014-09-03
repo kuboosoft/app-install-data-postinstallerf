@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fence-virtd</b>'
+Comment='<span size="xx-large">Daemon which handles requests from fence-virt</span>'
+Comment3='
+This package provides the host server framework, fence_virtd,
+for fence_virt.  The fence_virtd host daemon is resposible for
+processing fencing requests from virtual machines and routing
+the requests to the appropriate physical machine for action.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fence-virt.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

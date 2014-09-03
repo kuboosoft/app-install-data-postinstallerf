@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-jaxb2-plugin-javadoc</b>'
+Comment='<span size="xx-large">API documentation for maven-jaxb2-plugin</span>'
+Comment3='
+The API documentation of maven-jaxb2-plugin.
+'
+License='BSD and ASL 2.0'
+Screenshot=''
+Url='http://java.net/projects/maven-jaxb2-plugin/pages/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-measure</b>'
+Comment='<span size="xx-large">Measure for Sugar</span>'
+Comment3='
+A tool on the XO that allows kids to indulge in "learning by doing".
+It provides an interface for the kids to connect  sensors (light, heat,
+magnetic field etc) and view their signal.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Measure'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

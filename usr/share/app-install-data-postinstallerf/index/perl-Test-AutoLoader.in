@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Test-AutoLoader</b>'
+Comment='<span size="xx-large">Testing utility for autosplit/autoloaded modules</span>'
+Comment3='
+This single-purpose module attempts to eliminate uncaught syntax errors or
+other obvious goofs in subroutines that are autosplit, and hence not looked
+at by perl -c Module.pm. Ideally, this module will become unnecessary as
+you reach full coverage of those subroutines in your unit tests. Until that
+happy day, however, this should provide a quick and dirty backstop for
+embarrassing typos.
+'
+License='GPL+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-AutoLoader/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

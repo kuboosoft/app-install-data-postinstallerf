@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ast-doc</b>'
+Comment='<span size="xx-large">Documentation for ast</span>'
+Comment3='
+C and Fortran programming documentation for ast.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://starlink.jach.hawaii.edu/starlink/AST'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

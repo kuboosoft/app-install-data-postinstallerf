@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nagios-plugins-nrpe</b>'
+Comment='<span size="xx-large">Provides nrpe plugin for Nagios</span>'
+Comment3='
+Nrpe is a system daemon that will execute various Nagios plugins
+locally on behalf of a remote (monitoring) host that uses the
+check_nrpe plugin.  Various plugins that can be executed by the
+daemon are available at
+http//sourceforge.net/projects/nagiosplug
+
+This package provides the nrpe plugin for Nagios-related applications.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nagios.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>InventorXt</b>'
+Comment='<span size="xx-large">SGI Open Inventor (TM) Motif bindings</span>'
+Comment3='
+SGI Open Inventor (TM) development files.
+
+URL          http//oss.sgi.com/projects/inventor/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://oss.sgi.com/projects/inventor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

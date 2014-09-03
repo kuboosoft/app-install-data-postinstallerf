@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>folks-devel</b>'
+Comment='<span size="xx-large">Development files for folks</span>'
+Comment3='
+The folks-devel package contains libraries and header files for
+developing applications that use folks.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://telepathy.freedesktop.org/wiki/Folks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

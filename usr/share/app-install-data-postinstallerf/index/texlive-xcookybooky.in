@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-xcookybooky</b>'
+Comment='<span size="xx-large">Typeset (potentially long) recipes</span>'
+Comment3='
+The package enables the user to typeset recipes, which could be
+greater than one page. Above the recipe text two (optional)
+pictures can be displayed. Other features are recipe name,
+energy content, portions, preparation and baking time, baking
+temperatures, recipe source and of course preparation steps and
+required ingredients. At the bottom you may insert an optional
+hint. The package depends on the Emerald fonts.
+
+date 2013-03-13 154434 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

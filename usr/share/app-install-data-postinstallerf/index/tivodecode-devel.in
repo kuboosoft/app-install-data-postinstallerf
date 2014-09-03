@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tivodecode-devel</b>'
+Comment='<span size="xx-large">A library to convert a TiVo data stream</span>'
+Comment3='
+This package contains the developer files for libtivodecode.
+
+URL          http//tivodecode.sourceforge.net/
+'
+License='BSD and QUALCOMM'
+Screenshot=''
+Url='http://tivodecode.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

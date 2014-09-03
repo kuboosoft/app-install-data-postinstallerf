@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-symfony-finder</b>'
+Comment='<span size="xx-large">Symfony Finder Component</span>'
+Comment3='
+The Finder Component finds files and directories via an intuitive fluent
+interface.
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com/doc/current/components/finder.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-urllib3</b>'
+Comment='<span size="xx-large">Python HTTP library with thread-safe connection pooling and file post</span>'
+Comment3='
+Python HTTP module with connection pooling and file POST abilities.
+'
+License='MIT'
+Screenshot=''
+Url='http://urllib3.readthedocs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

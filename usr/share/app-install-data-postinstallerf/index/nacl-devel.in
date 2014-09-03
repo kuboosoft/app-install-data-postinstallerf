@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nacl-devel</b>'
+Comment='<span size="xx-large">Development files</span>'
+Comment3='
+Include files and devel library.
+
+URL          http//nacl.cace-project.eu/
+'
+License='Public Domain'
+Screenshot=''
+Url='http://nacl.cace-project.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

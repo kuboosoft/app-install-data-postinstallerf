@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcangjie</b>'
+Comment='<span size="xx-large">Cangjie Input Method Library</span>'
+Comment3='
+Library implementing the Cangjie input method.
+
+URL          http//cangjians.github.io/projects/libcangjie
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://cangjians.github.io/projects/libcangjie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

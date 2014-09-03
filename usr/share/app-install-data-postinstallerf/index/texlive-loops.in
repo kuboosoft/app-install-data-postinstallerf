@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-loops</b>'
+Comment='<span size="xx-large">General looping macros for use with LaTeX</span>'
+Comment3='
+The package provides efficient looping macros for processing
+both csv (separated-values) and nsv/tsv (non-separated values)
+lists. CSV lists which have associated parsers may be processed
+with the tools of the package.
+
+date 2013-05-16 164913 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

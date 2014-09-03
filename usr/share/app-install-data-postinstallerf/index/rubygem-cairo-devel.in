@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-cairo-devel</b>'
+Comment='<span size="xx-large">Ruby-cairo development environment</span>'
+Comment3='
+Header files and libraries for building a extension library for the
+ruby-cairo
+
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://cairographics.org/rcairo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

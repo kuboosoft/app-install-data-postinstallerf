@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>plplot</b>'
+Comment='<span size="xx-large">Library of functions for making scientific plots</span>'
+Comment3='
+PLplot is a library of functions that are useful for making scientific
+plots.
+
+PLplot can be used from within compiled languages such as C, C++,
+FORTRAN and Java, and interactively from interpreted languages such as
+Octave, Python, Perl and Tcl.
+The PLplot library can be used to create standard x-y plots, semilog
+plots, log-log plots, contour plots, 3D surface plots, mesh plots, bar
+charts and pie charts. Multiple graphs (of the same or different sizes)
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://plplot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

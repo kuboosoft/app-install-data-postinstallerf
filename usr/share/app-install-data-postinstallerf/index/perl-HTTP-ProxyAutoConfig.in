@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-HTTP-ProxyAutoConfig</b>'
+Comment='<span size="xx-large">Use a .pac or wpad.dat file to get proxy information</span>'
+Comment3='
+HTTPProxyAutoConfig allows perl scripts that need to access the Internet
+to determine whether to do so via a proxy server. To do this, it uses proxy
+settings provided by an IT department, either on the Web or in a browsers
+.pac file on disk.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-ProxyAutoConfig/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

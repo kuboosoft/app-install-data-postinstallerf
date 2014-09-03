@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-chai-connect-middleware</b>'
+Comment='<span size="xx-large">Helpers for testing Connect middleware with Chai</span>'
+Comment3='
+Helpers for testing Connect middleware with the Chai assertion library.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jaredhanson/chai-connect-middleware'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

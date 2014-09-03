@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>instead</b>'
+Comment='<span size="xx-large">Simple text adventures/visual novels engine and game</span>'
+Comment3='
+Simple text adventures/visual novels engine and game
+Visual novel/text quest-like game in Russian with engine.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://instead.syscall.ru/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

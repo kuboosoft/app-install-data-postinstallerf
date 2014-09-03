@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ghc-shake-devel</b>'
+Comment='<span size="xx-large">Haskell shake library development files</span>'
+Comment3='
+This package provides the Haskell shake library development files.
+
+To use Shake the user writes a Haskell program that imports
+"Development.Shake", defines some build rules, and calls the
+Development.Shake.shakeArgs function. Thanks to do notation and infix
+operators, a simple Shake build system is not too dissimilar from a simple
+Makefile. However, as build systems get more complex, Shake is able to take
+advantage of the excellent abstraction facilities offered by Haskell and easily
+support much larger projects. The Shake library provides all the standard
+features available in other build systems, including automatic parallelism and
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shake'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

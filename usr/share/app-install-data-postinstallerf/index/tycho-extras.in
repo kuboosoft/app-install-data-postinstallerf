@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tycho-extras</b>'
+Comment='<span size="xx-large">Additional plugins for Tycho</span>'
+Comment3='
+A small set of plugins that work with Tycho to provide additional functionality
+when building projects of an OSGi nature.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/tycho/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

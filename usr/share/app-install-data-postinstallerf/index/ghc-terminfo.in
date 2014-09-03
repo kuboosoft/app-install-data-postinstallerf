@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-terminfo</b>'
+Comment='<span size="xx-large">Haskell bindings to the terminfo library</span>'
+Comment3='
+This library provides an interface to the terminfo database
+(via bindings to the curses library).  Terminfo allows POSIX systems to
+interact with a variety of terminals using a standard set of capabilities.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/terminfo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

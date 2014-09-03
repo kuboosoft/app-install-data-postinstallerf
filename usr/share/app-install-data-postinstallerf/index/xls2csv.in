@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xls2csv</b>'
+Comment='<span size="xx-large">A script that recodes a spreadsheets charset and saves as CSV</span>'
+Comment3='
+This script will recode a spreadsheet into a different character set
+and output the recoded data as a csv file.
+
+The script came about after many headaches from dealing with Excel
+spreadsheets from clients that were being received in various character
+sets.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/xls2csv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

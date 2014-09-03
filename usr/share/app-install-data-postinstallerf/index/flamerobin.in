@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>flamerobin</b>'
+Comment='<span size="xx-large">Graphical client for Firebird</span>'
+Comment3='
+FlameRobin is a database administration tool for Firebird DBMS based on wxgtk
+toolkit.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.flamerobin.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

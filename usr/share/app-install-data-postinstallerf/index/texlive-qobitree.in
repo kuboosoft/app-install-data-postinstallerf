@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-qobitree</b>'
+Comment='<span size="xx-large">LaTeX macros for typesetting trees</span>'
+Comment3='
+Provides commands \branch and \leaf for specifying the elements
+of the tree; you build up your tree with those commands, and
+then issue the \tree command to typeset the whole.
+
+date 2008-11-30 001640 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

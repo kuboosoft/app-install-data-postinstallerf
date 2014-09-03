@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>awesfx</b>'
+Comment='<span size="xx-large">Utility programs for the AWE32/Emu10k1 sound driver</span>'
+Comment3='
+The awesfx package contains various utility programs for controlling the
+AWE32/Emu10k1 sound driver. AWESFX includes asxfload and sfxload, the
+soundfont loaders; setfx, the chorus/reverb effect loader; aweset, a
+controller for setting parameters; and programs for converting soundfonts
+to text.
+
+If you use an AWE32 or Emu10k1 sound driver you should install the awesfx
+package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/~iwai/awedrv.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

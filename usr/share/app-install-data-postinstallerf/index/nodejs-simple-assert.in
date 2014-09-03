@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nodejs-simple-assert</b>'
+Comment='<span size="xx-large">Vanilla assertions for Node.js</span>'
+Comment3='
+A simple assert wrapper around chaijs/assertion-error. This probably
+wont be useful to the average user unless you are a minimalist; you
+probably want Chai. This software is used to avoid circular dependencies
+when testing Chais dependencies.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/chaijs/simple-assert'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

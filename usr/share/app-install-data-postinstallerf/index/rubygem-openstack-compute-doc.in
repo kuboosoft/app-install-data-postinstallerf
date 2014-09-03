@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-openstack-compute-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-openstack-compute</span>'
+Comment3='
+Documentation for rubygem-openstack-compute
+'
+License='MIT'
+Screenshot=''
+Url='https://launchpad.net/ruby-openstack-compute'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

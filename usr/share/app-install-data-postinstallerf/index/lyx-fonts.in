@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lyx-fonts</b>'
+Comment='<span size="xx-large">Lyx/MathML fonts</span>'
+Comment3='
+A collection of Math symbol fonts for lyx.
+'
+License='Copyright only and GPL+'
+Screenshot=''
+Url='http://www.lyx.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

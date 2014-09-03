@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-multiexpand</b>'
+Comment='<span size="xx-large">Variations on the primitive command \expandafter</span>'
+Comment3='
+The package provides two user commands; one that performs
+multiple expansions, and one that does multiple \expandafter
+operations, in a single macro call. The package requires eTeXs
+\numexpr command. The author suggests that the same effect
+could be provided by use of the command variant mechanisms of
+LaTeX 3 (see, for example, the interface documentation of the
+experimental LaTeX 3 kernel).
+
+date 2013-01-08 162557 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

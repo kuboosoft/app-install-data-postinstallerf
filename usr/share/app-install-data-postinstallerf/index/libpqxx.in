@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libpqxx</b>'
+Comment='<span size="xx-large">C++ client API for PostgreSQL</span>'
+Comment3='
+C++ client API for PostgreSQL. The standard front-end (in the sense of
+"language binding") for writing C++ programs that use PostgreSQL.
+Supersedes older libpq++ interface.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://pqxx.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

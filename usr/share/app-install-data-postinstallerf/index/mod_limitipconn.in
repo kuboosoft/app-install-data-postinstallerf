@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mod_limitipconn</b>'
+Comment='<span size="xx-large">Simultaneous connection limiting module for Apache</span>'
+Comment3='
+Apache module which allows web server administrators to limit the number of
+simultaneous downloads permitted from a single IP address.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://dominia.org/djao/limitipconn2.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

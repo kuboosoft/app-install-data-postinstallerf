@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bzip2-libs</b>'
+Comment='<span size="xx-large">Libraries for applications using bzip2</span>'
+Comment3='
+
+Libraries for applications using the bzip2 compression format.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.bzip.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

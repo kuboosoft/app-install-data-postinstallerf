@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Plugin-Authentication</b>'
+Comment='<span size="xx-large">Authentication framework for CGI::Application</span>'
+Comment3='
+CGIApplicationPluginAuthentication adds the ability to
+authenticate users in your CGIApplication modules. It imports one
+method called authen into your CGIApplication module. Through the
+authen method you can call all the methods of the
+CGIApplicationPluginAuthentication plugin.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Plugin-Authentication/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

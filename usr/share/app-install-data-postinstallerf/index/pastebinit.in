@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pastebinit</b>'
+Comment='<span size="xx-large">Send anything you want directly to a pastebin from the command line</span>'
+Comment3='
+A software that lets you send anything you want directly to a
+pastebin from the command line.  This software lets you send a file
+or simply the result of a command directly to the pastebin you want
+(if its supported) and gives you the URL in return.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/pastebinit'
+(if it's supported) and gives you the URL in return.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

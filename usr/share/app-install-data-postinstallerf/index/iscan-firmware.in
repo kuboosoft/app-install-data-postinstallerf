@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>iscan-firmware</b>'
+Comment='<span size="xx-large">Firmware for Epson flatbed scanners</span>'
+Comment3='
+Firmware for the following Epson flatbed scanners
+
+* GT-1500 / GT-D1000
+* Perfection 2480/2580 PHOTO / GT-F500
+* Perfection 3170 PHOTO / GT-9400
+* Perfection 3490 PHOTO / GT-F520
+* Perfection 4180 PHOTO / GT-F600
+* Perfection 4490 PHOTO / GT-X750
+* Perfection V10/V100 PHOTO / GT-S600
+* Perfection V200 PHOTO / GT-F670
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://download.ebz.epson.net/dsc/search/01/search/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

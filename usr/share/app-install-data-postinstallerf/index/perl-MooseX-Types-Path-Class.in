@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Types-Path-Class</b>'
+Comment='<span size="xx-large">A Path::Class type library for Moose</span>'
+Comment3='
+MooseXTypesPathClass creates common Moose types, coercions and option
+specifications useful for dealing with PathClass objects as Moose attributes.
+
+Coercions (see MooseUtilTypeConstraints) are made from both Str and
+ArrayRef to both PathClassDir and PathClassFile objects.  If you
+have MooseXGetopt installed, the Getopt option type ("=s") will be added
+for both PathClassDir and PathClassFile.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Types-Path-Class'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

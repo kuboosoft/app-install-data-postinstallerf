@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-gtknode</b>'
+Comment='<span size="xx-large">Erlang GTK2 binding</span>'
+Comment3='
+Erlang GTK2 binding.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/massemanet/gtknode'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

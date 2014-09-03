@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pl-xpce</b>'
+Comment='<span size="xx-large">A toolkit for developing graphical applications in Prolog</span>'
+Comment3='
+XPCE is a toolkit for developing graphical applications in Prolog and other
+interactive and dynamically typed languages. XPCE follows a rather unique
+approach of for developing GUI applications, as follows
+
+- Add object layer to Prolog
+- High level of abstraction
+- Exploit rapid Prolog development cycle
+- Platform independent programs
+'
+License='(GPLv2+ with exceptions or Artistic 2.0) and (GPLv2+ with exceptions) and LGPLv2+ and LGPLv2 and UCD and Public Domain and GPLv3+'
+Screenshot=''
+Url='http://www.swi-prolog.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libccp4-devel</b>'
+Comment='<span size="xx-large">Header files and library for developing free CCP4 programs</span>'
+Comment3='
+The CCP4 software suite is based around a library of routines which
+cover common tasks, such as file opening, parsing keyworded input,
+reading and writing of standard data formats, applying symmetry
+operations, etc. Programs in the suite call these routines which, as
+well as saving the programmer some effort, ensure that the varied
+programs in the suite have a similar look-and-feel.
+
+This package contains libraries and header files needed for program
+development.
+'
+License='LGPLv3'
+Screenshot=''
+Url='ftp://ftp.ccp4.ac.uk/opensource/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

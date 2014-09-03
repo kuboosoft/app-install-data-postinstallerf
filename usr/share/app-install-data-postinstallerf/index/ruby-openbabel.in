@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-openbabel</b>'
+Comment='<span size="xx-large">Ruby wrapper for the Open Babel library</span>'
+Comment3='
+Ruby wrapper for the Open Babel library.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://openbabel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdeaccessibility</b>'
+Comment='<span size="xx-large">KDE Accessibility</span>'
+Comment3='
+Kdeaccessibility metapackage, to ease migration to split applications.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://accessibility.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

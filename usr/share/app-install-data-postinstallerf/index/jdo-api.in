@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jdo-api</b>'
+Comment='<span size="xx-large">JDO 3.1 API</span>'
+Comment3='
+The Java Data Objects (JDO) API is a standard interface
+based Java model abstraction of persistence, developed as
+Java Specification Requests (JSR 12 and 243) under the
+auspices of the Java Community Process.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://db.apache.org/jdo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

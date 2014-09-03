@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>vorbisgain</b>'
+Comment='<span size="xx-large">Adds tags to Ogg Vorbis files to adjust the volume</span>'
+Comment3='
+VorbisGain is a utility that uses a psychoacoustic method to correct the
+volume of an Ogg Vorbis file to a predefined standardized loudness.
+
+It needs player support to work. Non-supporting players will play back
+the files without problems, but youll miss out on the benefits.
+Nowadays most good players such as ogg123, xmms and mplayer are already
+compatible.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sjeng.org/vorbisgain.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

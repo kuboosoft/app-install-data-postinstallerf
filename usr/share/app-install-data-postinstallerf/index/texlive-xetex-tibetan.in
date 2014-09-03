@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-xetex-tibetan</b>'
+Comment='<span size="xx-large">XeTeX input maps for Unicode Tibetan</span>'
+Comment3='
+The package provides a map for use with Jonathan Kews TECkit,
+to translate Tibetan to Unicode (range 0F00-0FFF).
+
+date 2013-01-15 182219 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

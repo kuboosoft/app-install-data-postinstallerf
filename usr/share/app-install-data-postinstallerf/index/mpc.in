@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mpc</b>'
+Comment='<span size="xx-large">Command-line client for MPD</span>'
+Comment3='
+A client for MPD, the Music Player Daemon. mpc connects to a MPD running
+on a machine via a network.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mpd.wikia.com/wiki/Client:Mpc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rhythmbox</b>'
+Comment='<span size="xx-large">Music Management Application</span>'
+Comment3='
+Rhythmbox is an integrated music management application based on the powerful
+GStreamer media framework. It has a number of features, including an easy to
+use music browser, searching and sorting, comprehensive audio format support
+through GStreamer, Internet Radio support, playlists and more.
+
+Rhythmbox is extensible through a plugin system.
+'
+License='GPLv2+ with exceptions and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/rhythmbox/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

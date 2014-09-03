@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wine-common</b>'
+Comment='<span size="xx-large">Common files</span>'
+Comment3='
+Common wine files and scripts.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

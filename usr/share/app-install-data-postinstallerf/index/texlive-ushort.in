@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-ushort</b>'
+Comment='<span size="xx-large">Shorter (and longer) underlines and underbars</span>'
+Comment3='
+Some engineers need underlined or twice underlined variables
+for which the usual \underline is too long. This package
+provides a generic command for creating underlines of various
+sizes and types.
+
+date 2012-04-09 092418 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

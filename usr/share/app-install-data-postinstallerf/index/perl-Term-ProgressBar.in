@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Term-ProgressBar</b>'
+Comment='<span size="xx-large">Provide a progress meter on a standard terminal</span>'
+Comment3='
+TermProgressBar provides a simple progress bar on the terminal, to let
+the user know that something is happening, roughly how much stuff has been
+done, and maybe an estimate at how long remains.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Term-ProgressBar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-pecl-cairo</b>'
+Comment='<span size="xx-large">PECL package for drawing using cairo via PHP scripts</span>'
+Comment3='
+PECL cairo is the official Cairo Graphics Library binding. It provides an
+object oriented and procedural interface for the cairo library. Support is
+currently provided for 1.4 to 1.8 versions of the library
+(1.10 is partially supported).
+
+'
+License='PHP'
+Screenshot=''
+Url='http://www.cairographics.org/cairo-php/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

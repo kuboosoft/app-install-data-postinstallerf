@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jacorb</b>'
+Comment='<span size="xx-large">The Java implementation of the OMGs CORBA standard</span>'
+Comment3='
+This package contains the Java implementation of the OMGs CORBA standard
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.jacorb.org/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

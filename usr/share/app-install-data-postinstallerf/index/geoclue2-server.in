@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geoclue2-server</b>'
+Comment='<span size="xx-large">Server for IP address geolocation</span>'
+Comment3='
+The geoclue2-server package contains the geoip-lookup and geoip-update binaries
+for running on IP address geolocation servers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/GeoClue/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

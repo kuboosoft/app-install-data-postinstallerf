@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gnubg
+Name=GNU Backgammon
+GenericName=Backgammon
+Comment=GTK or console backgammon program with analysis
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnubg.png
+Type=Application
+Categories=Game;BoardGame;GTK;

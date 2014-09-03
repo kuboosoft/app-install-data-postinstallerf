@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jj</b>'
+Comment='<span size="xx-large">A FIFO and file-system based Jabber/XMPP client</span>'
+Comment3='
+jj is more tool than traditional instant messenger client.  It can
+be easily extended with normal UNIX tools. It is perfect for bots and
+notifications.  Interaction is done by writing and reading files from
+the server directory which jj creates.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://23.fi/jj/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

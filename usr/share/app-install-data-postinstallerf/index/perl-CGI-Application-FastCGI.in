@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-FastCGI</b>'
+Comment='<span size="xx-large">For using CGI::Application under FastCGI</span>'
+Comment3='
+Inherit this module instead of CGIApplication if you want to run your cgi
+programs based on CGIApplication under FastCGI.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-FastCGI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

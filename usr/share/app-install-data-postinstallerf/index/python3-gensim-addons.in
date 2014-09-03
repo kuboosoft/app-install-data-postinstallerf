@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python3-gensim-addons</b>'
+Comment='<span size="xx-large">Highly optimized version of word2vec for gensim</span>'
+Comment3='
+This package contains the highly optimized version of word2vec from
+gensim.  It is highly recommend to use this.  If you dont need
+the highly optimized version of word2vec, it is sufficient to install
+the "python-gensim-core"-package.
+
+Gensim is a Python library for topic modelling, document indexing
+and similarity retrieval with large corpora.  Target audience is
+the natural language processing (NLP) and information retrieval
+(IR) community.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://radimrehurek.com/gensim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

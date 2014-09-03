@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>root-geom</b>'
+Comment='<span size="xx-large">Geometry library for ROOT</span>'
+Comment3='
+This package contains a library for defining geometries in ROOT.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ode-double</b>'
+Comment='<span size="xx-large">Ode physics library compiled with double precision</span>'
+Comment3='
+The ode-double package contains a version of the ODE library for simulating
+rigid body dynamics compiled with double precision.
+
+'
+License='BSD or LGPLv2+'
+Screenshot=''
+Url='http://www.ode.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

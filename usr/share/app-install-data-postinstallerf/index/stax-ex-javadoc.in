@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>stax-ex-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for stax-ex</span>'
+Comment3='
+This package contains javadoc for stax-ex.
+'
+License='CDDL or GPLv2'
+Screenshot=''
+Url='https://stax-ex.dev.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

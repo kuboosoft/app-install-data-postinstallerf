@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-mlp</b>'
+Comment='<span size="xx-large">Multi-layer perceptron extension for ROOT</span>'
+Comment3='
+This package contains the mlp library for ROOT. This library provides
+a multi-layer perceptron neural network package for ROOT.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

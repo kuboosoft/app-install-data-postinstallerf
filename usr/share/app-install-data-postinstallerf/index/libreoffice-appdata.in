@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libreoffice-appdata</b>'
+Comment='<span size="xx-large">AppData support for LibreOffice</span>'
+Comment3='
+libreoffice-appdata contains the AppData definition file for LibreOffice.
+'
+License='CC0'
+Screenshot=''
+Url='http://www.libreoffice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

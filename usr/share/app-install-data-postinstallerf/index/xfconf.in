@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xfconf</b>'
+Comment='<span size="xx-large">Hierarchical configuration system for Xfce</span>'
+Comment3='
+Xfconf is a hierarchical (tree-like) configuration system where the
+immediate child nodes of the root are called "channels".  All settings
+beneath the channel nodes are called "properties."
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

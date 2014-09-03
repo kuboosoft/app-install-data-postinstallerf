@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-argh</b>'
+Comment='<span size="xx-large">Unobtrusive argparse wrapper with natural syntax</span>'
+Comment3='
+Building a command-line interface?  Found yourself uttering ?argh!? while
+struggling with the API of argparse?  Don?t want to lose its power but don?t
+need the complexity?
+
+python-argh provides a wrapper for argparse.  Argparse is a very
+powerful tool;  python-argh just makes it easy to use.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://pypi.python.org/pypi/argh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

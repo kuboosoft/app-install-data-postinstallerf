@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-concrete-typerep</b>'
+Comment='<span size="xx-large">Binary and Hashable instances for TypeRep</span>'
+Comment3='
+Binary and Hashable instances for TypeRep.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/concrete-typerep'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

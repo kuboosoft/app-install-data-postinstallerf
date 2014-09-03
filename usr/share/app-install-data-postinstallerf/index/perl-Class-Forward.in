@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Class-Forward</b>'
+Comment='<span size="xx-large">Namespace Dispatch and Resolution</span>'
+Comment3='
+ClassForward is designed to resolve Perl namespaces from shorthand (which
+is simply a file-path-like specification). ClassForward can also be used
+to dispatch method calls using said shorthand. See the included exported
+functions for examples on how this can be used.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Forward/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

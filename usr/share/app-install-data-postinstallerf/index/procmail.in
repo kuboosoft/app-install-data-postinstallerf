@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>procmail</b>'
+Comment='<span size="xx-large">Mail processing program</span>'
+Comment3='
+Procmail can be used to create mail-servers, mailing lists, sort your
+incoming mail into separate folders/files (real convenient when subscribing
+to one or more mailing lists or for prioritising your mail), preprocess
+your mail, start any programs upon mail arrival (e.g. to generate different
+chimes on your workstation for different types of mail) or selectively
+forward certain incoming mail automatically to someone.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://www.procmail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gap-emacs</b>'
+Comment='<span size="xx-large">Edit GAP files with Emacs</span>'
+Comment3='
+This package provides Emacs add-on files to support editing GAP sources
+and running GAP from within Emacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gap-system.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

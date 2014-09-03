@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rootfs-resize</b>'
+Comment='<span size="xx-large">Root partition re-sizing service (typically for SD cards)</span>'
+Comment3='
+rootfs-resize is a root partition and file system re-sizing service
+typically used on systems running from SD cards.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://zenit.senecac.on.ca/wiki/index.php/Fedora_ARM_Secondary_Architecture/rootfs-resize'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

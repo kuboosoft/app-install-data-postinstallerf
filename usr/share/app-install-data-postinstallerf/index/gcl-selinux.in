@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gcl-selinux</b>'
+Comment='<span size="xx-large">SELinux policy for GCL images</span>'
+Comment3='
+SELinux policy for GCL images.  All programs that dump GCL images to be run on
+SELinux-enabled hosts should Require this package, and give the image the type
+gcl_exec_t.
+'
+License='GPL+ and LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/gcl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

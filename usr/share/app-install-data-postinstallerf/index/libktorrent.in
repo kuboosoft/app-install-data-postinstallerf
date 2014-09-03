@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libktorrent</b>'
+Comment='<span size="xx-large">Library providing torrent downloading code</span>'
+Comment3='
+Library providing torrent downloading code.
+
+URL          http//ktorrent.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ktorrent.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

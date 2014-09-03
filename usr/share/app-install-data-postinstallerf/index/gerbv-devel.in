@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gerbv-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development documentation for gerbv</span>'
+Comment3='
+This package contains the header files, libraries and development
+documentation for gerbv. If you like to develop programs using gerbv,
+you will need to install gerbv-devel.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://gerbv.gpleda.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

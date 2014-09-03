@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-uid2</b>'
+Comment='<span size="xx-large">Node.js module to generate strong unique IDs</span>'
+Comment3='
+Node.js module to generate strong unique IDs.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/Coreh/uid2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

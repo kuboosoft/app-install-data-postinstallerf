@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bind10-devel</b>'
+Comment='<span size="xx-large">BIND10 suite libb10-dns++ development files</span>'
+Comment3='
+BIND10 suite libb10-dns++ development files
+
+URL          http//bind10.isc.org/wiki
+'
+License='ISC'
+Screenshot=''
+Url='http://bind10.isc.org/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

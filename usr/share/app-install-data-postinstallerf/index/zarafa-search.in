@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>zarafa-search</b>'
+Comment='<span size="xx-large">Indexer search engine for the Zarafa Collaboration Platform</span>'
+Comment3='
+The zarafa-search package includes the Zarafa Indexing service for fast
+and full-text searching. Using CLucene search engine, this service makes
+an index per user of messages and attachments for the Zarafa server. At
+search queries, the server will use this index to quickly find messages,
+items and even in contents of attached documents.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

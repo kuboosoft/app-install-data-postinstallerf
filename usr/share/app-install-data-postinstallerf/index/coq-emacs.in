@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>coq-emacs</b>'
+Comment='<span size="xx-large">GNU Emacs support for Coq proof management system</span>'
+Comment3='
+This package provides GNU Emacs mode files for formatting Coq input.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://coq.inria.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

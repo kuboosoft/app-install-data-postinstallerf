@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jfreechart-swt</b>'
+Comment='<span size="xx-large">Experimental swt extension for jfreechart</span>'
+Comment3='
+Experimental swt extension for jfreechart.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jfree.org/jfreechart/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

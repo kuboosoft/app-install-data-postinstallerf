@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xfce4-icon-theme</b>'
+Comment='<span size="xx-large">Icons for Xfce</span>'
+Comment3='
+Icon theme for Xfce 4 Desktop Environment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

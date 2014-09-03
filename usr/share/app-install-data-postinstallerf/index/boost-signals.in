@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>boost-signals</b>'
+Comment='<span size="xx-large">Run-Time component of boost signals and slots library</span>'
+Comment3='
+
+Run-Time support for managed signals & slots callback implementation.
+'
+License='Boost and MIT and Python'
+Screenshot=''
+Url='http://www.boost.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

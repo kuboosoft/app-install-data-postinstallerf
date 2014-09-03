@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>emerald-themes-extra</b>'
+Comment='<span size="xx-large">Themes for Emerald, a window decorator for Compiz Fusion</span>'
+Comment3='
+Emerald is themeable window decorator and compositing
+manager for Compiz Fusion.
+
+This package contains extra themes for emerald.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://packages.linuxmint.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

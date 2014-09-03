@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libfdt-devel</b>'
+Comment='<span size="xx-large">Development headers for device tree library</span>'
+Comment3='
+This package provides development files for libfdt
+
+URL          http//git.jdl.com/gitweb/?p=dtc.git;a=summary
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.jdl.com/gitweb/?p=dtc.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

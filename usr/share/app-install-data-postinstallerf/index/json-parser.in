@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>json-parser</b>'
+Comment='<span size="xx-large">Very low footprint JSON parser written in portable ANSI C</span>'
+Comment3='
+Very low footprint JSON parser written in portable ANSI C
+
+URL          https//github.com/udp/json-parser
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/udp/json-parser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

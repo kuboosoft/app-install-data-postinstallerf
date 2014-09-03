@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dwscan</b>'
+Comment='<span size="xx-large">Displays access point information</span>'
+Comment3='
+Dwscan displays access point information in a useful manner.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://dag.wieers.com/home-made/dwscan/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

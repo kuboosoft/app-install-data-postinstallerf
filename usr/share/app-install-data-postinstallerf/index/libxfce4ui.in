@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libxfce4ui</b>'
+Comment='<span size="xx-large">Commonly used Xfce widgets</span>'
+Comment3='
+Libxfce4ui is used to share commonly used Xfce widgets among the Xfce
+applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

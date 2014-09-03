@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jmol</b>'
+Comment='<span size="xx-large">An open-source Java viewer for chemical structures in 3D</span>'
+Comment3='
+Jmol is a free, open source molecule viewer for students, educators,
+and researchers in chemistry and biochemistry.
+'
+License='LGPLv2+ and IJG and BSD'
+Screenshot=''
+Url='http://jmol.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

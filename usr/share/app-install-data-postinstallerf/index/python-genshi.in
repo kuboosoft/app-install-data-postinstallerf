@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-genshi</b>'
+Comment='<span size="xx-large">Toolkit for stream-based generation of output for the web</span>'
+Comment3='
+Genshi is a Python library that provides an integrated set of
+components for parsing, generating, and processing HTML, XML or other
+textual content for output generation on the web. The major feature is
+a template language, which is heavily inspired by Kid.
+'
+License='BSD'
+Screenshot=''
+Url='http://genshi.edgewall.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

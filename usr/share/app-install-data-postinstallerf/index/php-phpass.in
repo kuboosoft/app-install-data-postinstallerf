@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-phpass</b>'
+Comment='<span size="xx-large">Portable password hashing framework for use in PHP applications</span>'
+Comment3='
+phpass (pronounced "pH pass") is a portable public domain password hashing
+framework for use in PHP applications. It is meant to work with PHP 3 and
+above.
+
+The preferred (most secure) hashing method supported by phpass is the
+OpenBSD-style Blowfish-based bcrypt and known in PHP as CRYPT_BLOWFISH, with
+a fallback to BSDI-style extended DES-based hashes, known in PHP as
+CRYPT_EXT_DES, and a last resort fallback to MD5-based salted and variable
+iteration count password hashes implemented in phpass
+itself (also referred to as portable hashes).
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.openwall.com/phpass/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

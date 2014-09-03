@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>impressive</b>'
+Comment='<span size="xx-large">A program that displays presentation slides</span>'
+Comment3='
+Impressive is a program that displays presentation slides. But unlike
+OpenOffice.org Impress or other similar applications, it does so with
+style.
+
+Smooth alpha-blended slide transitions are provided for the sake
+of eye candy, but in addition to this, Impressive offers some unique tools
+that are really useful for presentations.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://impressive.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

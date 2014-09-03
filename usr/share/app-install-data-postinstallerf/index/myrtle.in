@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>myrtle</b>'
+Comment='<span size="xx-large">Simple programmable spreadsheet designed for learning statistics</span>'
+Comment3='
+Myrtle is a simple programmable spreadsheet and statistical analysis software
+specifically designed for learning statistics. It provides the standard
+spreadsheet functionality one would expect like multiple tabbed sheets,
+relative and absolute row and column referencing in formulas, and a large
+catalog of built-in functions. Functions specific to logic and computer
+science, mathematics, probability, and statistics are available. Students can
+easily create, customize, and update plots and graphical summaries of their
+analyses.
+
+Myrtle offers a unique bookmarking facility which allows students to create and
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/projects/myrtle'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

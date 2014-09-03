@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>coin-or-Cbc-doc</b>'
+Comment='<span size="xx-large">Documentation files for coin-or-Cbc</span>'
+Comment3='
+This package contains the documentation for coin-or-Cbc.
+'
+License='EPL'
+Screenshot=''
+Url='http://projects.coin-or.org/Cbc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

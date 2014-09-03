@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-negotiator</b>'
+Comment='<span size="xx-large">An HTTP content negotiator for Node.js</span>'
+Comment3='
+An HTTP content negotiator for Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/federomero/negotiator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

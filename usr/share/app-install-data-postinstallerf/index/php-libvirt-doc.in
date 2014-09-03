@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-libvirt-doc</b>'
+Comment='<span size="xx-large">Document of php-libvirt</span>'
+Comment3='
+PHP language bindings for Libvirt API.
+For more details see http//www.libvirt.org/php/ http//www.php.net/
+
+This package contain the document for php-libvirt.
+'
+License='PHP'
+Screenshot=''
+Url='http://libvirt.org/php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

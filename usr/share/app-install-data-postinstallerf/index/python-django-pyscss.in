@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-django-pyscss</b>'
+Comment='<span size="xx-large">Makes it easier to use PySCSS in Django</span>'
+Comment3='
+A collection of tools for making it easier to use
+pyScss within Django.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/fusionbox/django-pyscss'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

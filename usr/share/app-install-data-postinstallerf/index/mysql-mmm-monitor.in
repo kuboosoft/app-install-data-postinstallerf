@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mysql-mmm-monitor</b>'
+Comment='<span size="xx-large">MMM Monitor Server Daemon and Libraries</span>'
+Comment3='
+Monitoring daemon and libraries that do all monitoring work and make all
+decisions about roles moving and so on.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://mysql-mmm.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

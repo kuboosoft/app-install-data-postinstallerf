@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>uvcdynctrl</b>'
+Comment='<span size="xx-large">Command line interface to libwebcam</span>'
+Comment3='
+Uvcdynctrl is a command line interface for manipulating settings in
+UVC-type webcams. It uses the libwebcam library for webcam access.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://sourceforge.net/p/libwebcam/wiki/Home/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

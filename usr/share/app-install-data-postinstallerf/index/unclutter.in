@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>unclutter</b>'
+Comment='<span size="xx-large">Hide mouse cursor when idle</span>'
+Comment3='
+Unclutter hides the mouse cursor image from the screen so that it does not
+obstruct the area you are looking at. It hides the mouse cursor when it is not
+moved for a specified amount of time or no buttons are pressed on the mouse.
+Cursor image will be restored once the mouse is moved again.
+'
+License='Public Domain'
+Screenshot=''
+Url='ftp://export.lcs.mit.edu/contrib/utilities/unclutter-8.README'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

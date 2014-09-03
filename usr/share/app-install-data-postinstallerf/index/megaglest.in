@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>megaglest</b>'
+Comment='<span size="xx-large">Open Source 3d real time strategy game</span>'
+Comment3='
+MegaGlest is an open source 3D-real-time strategy game, where you control
+the armies of one of seven different factions Tech, Magic, Egyptians,
+Indians, Norsemen, Persian or Romans. The game is setup in one of 16
+naturally looking settings, which -like the unit models- are crafted with
+great appreciation for detail. Additional game data can be downloaded from
+within the game at no cost.
+'
+License='GPLv3+ and GPL+'
+Screenshot=''
+Url='http://megaglest.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

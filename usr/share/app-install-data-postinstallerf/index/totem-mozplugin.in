@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>totem-mozplugin</b>'
+Comment='<span size="xx-large">Mozilla plugin for Totem</span>'
+Comment3='
+Totem is simple movie player for the GNOME desktop.
+The mozilla plugin for Totem allows it to be embedded into a web browser.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://projects.gnome.org/totem/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

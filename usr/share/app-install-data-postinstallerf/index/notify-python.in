@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>notify-python</b>'
+Comment='<span size="xx-large">Python bindings for libnotify</span>'
+Comment3='
+Python bindings for libnotify
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.galago-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

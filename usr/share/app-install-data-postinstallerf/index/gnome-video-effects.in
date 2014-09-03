@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-video-effects</b>'
+Comment='<span size="xx-large">Collection of GStreamer video effects</span>'
+Comment3='
+A collection of GStreamer effects to be used in different GNOME Modules.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://live.gnome.org/GnomeVideoEffects'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

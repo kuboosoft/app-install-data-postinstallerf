@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cas-client-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for cas-client</span>'
+Comment3='
+This package contains javadoc for cas-client.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://www.jasig.org/cas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

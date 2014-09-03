@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fedora-dockerfiles</b>'
+Comment='<span size="xx-large">Example dockerfiles to assist standing up containers quickly</span>'
+Comment3='
+This package provides a community contributed set of examples that can
+assist in learning about Docker containers. Use these examples to
+stand up test environments using the Docker container engine.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/scollier/Fedora-Dockerfiles'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-2dplot</b>'
+Comment='<span size="xx-large">A PSTricks package for drawing 2D curves</span>'
+Comment3='
+Pst-2dplot is a pstricks package that offers an easy-to-use and
+intuitive tool for plotting 2-d curves. It defines an
+environment with commands similar to MATLAB for plotting.
+
+date 2006-12-31 094301 +0000
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

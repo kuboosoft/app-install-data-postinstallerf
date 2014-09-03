@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gambas3-gb-gmp</b>'
+Comment='<span size="xx-large">Gambas3 component package for gmp</span>'
+Comment3='
+Gambas3 component package for gmp
+'
+License='GPL+'
+Screenshot=''
+Url='http://gambas.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

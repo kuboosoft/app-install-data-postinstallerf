@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cloud-utils-growpart</b>'
+Comment='<span size="xx-large">Script for growing a partition</span>'
+Comment3='
+This package provides the growpart script for growing a partition. It is
+primarily used in cloud images in conjunction with the dracut-modules-growroot
+package to grow the root partition on first boot.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://launchpad.net/cloud-utils/trunk/0.27/+download/cloud-utils-0.27.tar.gz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pecl-cairo-devel</b>'
+Comment='<span size="xx-large">Header files for php cairo package</span>'
+Comment3='
+These are the files needed to compile programs using php cairo extension.
+
+URL          http//www.cairographics.org/cairo-php/
+'
+License='PHP'
+Screenshot=''
+Url='http://www.cairographics.org/cairo-php/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

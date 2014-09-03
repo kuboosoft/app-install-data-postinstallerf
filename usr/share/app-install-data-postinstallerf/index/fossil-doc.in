@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fossil-doc</b>'
+Comment='<span size="xx-large">Fossil documentation</span>'
+Comment3='
+Documentation in HTML format for fossil.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.fossil-scm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsemanage-static</b>'
+Comment='<span size="xx-large">Static library used to build policy manipulation tools</span>'
+Comment3='
+The semanage-static package contains the static libraries
+needed for developing applications that manipulate binary policies.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://oss.tresys.com/git/selinux.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

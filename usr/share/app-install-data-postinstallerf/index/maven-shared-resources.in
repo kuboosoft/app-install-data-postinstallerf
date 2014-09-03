@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-shared-resources</b>'
+Comment='<span size="xx-large">A collection of templates that are specific to the Maven project</span>'
+Comment3='
+This is a collection of templates that are specific to the Maven project.
+They are probably not of interest to projects other than Apache Maven.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/shared/maven-shared-resources/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

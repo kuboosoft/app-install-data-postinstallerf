@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>alevt</b>'
+Comment='<span size="xx-large">Teletext decoder/browser</span>'
+Comment3='
+AleVT is a teletext/videotext decoder and browser for the
+vbi (/dev/vbi) device and X11.  It features multiple windows,
+a page cache, regexp searching, built-in manual, and more.
+Theres also a program to get the time from teletext and
+one to capture teletext pages from scripts.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://goron.de/~froese'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

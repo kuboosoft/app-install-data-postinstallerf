@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lm_sensors-devel</b>'
+Comment='<span size="xx-large">Development files for programs which will use lm_sensors</span>'
+Comment3='
+The lm_sensors-devel package includes a header files and libraries for use
+when building applications that make use of sensor data.
+
+'
+License='LGPLv2+ and GPLv3+ and GPLv2+ and Verbatim and Public domain'
+Screenshot=''
+Url='http://www.lm-sensors.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

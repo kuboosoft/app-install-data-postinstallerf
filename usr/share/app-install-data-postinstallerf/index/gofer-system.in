@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gofer-system</b>'
+Comment='<span size="xx-large">The system plug-in</span>'
+Comment3='
+Contains the system plug-in.
+The system plug-in provides system functionality.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/gofer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

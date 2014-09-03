@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-listen</b>'
+Comment='<span size="xx-large">Listen to file modifications</span>'
+Comment3='
+The Listen gem listens to file modifications and notifies you about the
+changes. Works everywhere!
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/guard/listen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

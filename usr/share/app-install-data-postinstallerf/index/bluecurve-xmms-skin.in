@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bluecurve-xmms-skin</b>'
+Comment='<span size="xx-large">Bluecurve xmms skin</span>'
+Comment3='
+This package contains a skin for the XMMS music player that matches Bluecurve.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

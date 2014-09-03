@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hplip-common</b>'
+Comment='<span size="xx-large">Files needed by the HPLIP printer and scanner drivers</span>'
+Comment3='
+Files needed by the HPLIP printer and scanner drivers.
+
+URL          http//hplip.sourceforge.net/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hplip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

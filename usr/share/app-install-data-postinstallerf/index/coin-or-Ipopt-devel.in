@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>coin-or-Ipopt-devel</b>'
+Comment='<span size="xx-large">Development files for coin-or-Ipopt</span>'
+Comment3='
+The coin-or-Ipopt-devel package contains libraries and header files for
+developing applications that use coin-or-Ipopt.
+
+'
+License='EPL and GPLv2+'
+Screenshot=''
+Url='https://projects.coin-or.org/Ipopt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

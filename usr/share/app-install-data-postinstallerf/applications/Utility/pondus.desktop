@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n pondus
+Version=1.0
+Type=Application
+Name=Pondus
+Comment=Keep track of your weight
+Icon=/usr/share/app-install-data-postinstallerf/icons/pondus.png
+Categories=GTK;Utility;
+Terminal=false

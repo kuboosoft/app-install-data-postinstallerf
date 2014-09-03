@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pidgin-logviewer</b>'
+Comment='<span size="xx-large">User-friendly and intuitive chat log viewer for Pidgin</span>'
+Comment3='
+This project aims to present an alternative, user-friendly and intuitive way
+of viewing chat logs in Pidgin. Currently the project is in an early stage,
+and is designed as a plugin, but it eventually aims to replace Pidgins default
+log viewer.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://code.google.com/p/pidgin-logviewer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

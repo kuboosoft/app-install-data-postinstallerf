@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>x11-ssh-askpass</b>'
+Comment='<span size="xx-large">A passphrase dialog for X and not only for OpenSSH</span>'
+Comment3='
+x11-ssh-askpass is a lightweight passphrase dialog for OpenSSH or
+other open variants of SSH. In particular, x11-ssh-askpass is useful
+with the Unix port of OpenSSH by Damien Miller and others, and Damien
+includes it in his RPM packages of OpenSSH.
+
+x11-ssh-askpass uses only the stock X11 libraries (libX11, libXt) for
+its user interface. This reduces its dependencies on external libraries
+(such as GNOME or Perl/Tk). See the README for further information.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.jmknoble.net/software/x11-ssh-askpass/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

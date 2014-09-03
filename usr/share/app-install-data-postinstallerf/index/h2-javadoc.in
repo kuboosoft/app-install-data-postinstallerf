@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>h2-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for h2</span>'
+Comment3='
+This package contains the API documentation for h2.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.h2database.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

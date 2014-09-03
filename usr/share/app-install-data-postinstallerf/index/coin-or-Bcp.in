@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>coin-or-Bcp</b>'
+Comment='<span size="xx-large">Branch-Cut-Price Framework</span>'
+Comment3='
+BCP is a parallel framework for implementing branch, cut, and price algorithms
+for solving mixed integer programs (MIPs). BCP provides the user with an
+object-oriented framework that can be used to develop an efficient problem
+class specific MIP solver without all the implementational effort. involved
+with implementing a branch and bound framework from scratch.
+
+'
+License='CPL'
+Screenshot=''
+Url='http://projects.coin-or.org/Bcp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

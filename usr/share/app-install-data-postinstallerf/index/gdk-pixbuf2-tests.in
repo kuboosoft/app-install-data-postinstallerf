@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gdk-pixbuf2-tests</b>'
+Comment='<span size="xx-large">Tests for the gdk-pixbuf2 package</span>'
+Comment3='
+The gdk-pixbuf2-tests package contains tests that can be used to verify
+the functionality of the installed gdk-pixbuf2 package.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

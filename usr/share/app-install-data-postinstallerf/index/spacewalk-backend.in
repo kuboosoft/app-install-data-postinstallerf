@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spacewalk-backend</b>'
+Comment='<span size="xx-large">Common programs needed to be installed on the Spacewalk servers/proxies</span>'
+Comment3='
+Generic program files needed by the Spacewalk server machines.
+This package includes the common code required by all servers/proxies.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

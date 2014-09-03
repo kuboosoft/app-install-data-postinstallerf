@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-asa</b>'
+Comment='<span size="xx-large">Lets your class/object say it works like something else</span>'
+Comment3='
+Perl 5 doesnt natively support Java-style interfaces, and it doesnt
+support Perl 6 style roles either.
+
+You can get both of these things in half a dozen different ways via various
+CPAN modules, but they usually require that you buy into "their way" of
+implementing your code.
+This package overrides the isa() method, allowing your class to claim its a
+class its not (that is, isnt in @ISA).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/asa'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

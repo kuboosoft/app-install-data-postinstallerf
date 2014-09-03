@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>QuantLib-devel</b>'
+Comment='<span size="xx-large">QuantLib development files</span>'
+Comment3='
+Static libraries and headers for QuantLib.
+
+URL          http//www.quantlib.org
+'
+License='BSD'
+Screenshot=''
+Url='http://www.quantlib.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gtkwhiteboard</b>'
+Comment='<span size="xx-large">GTK Wiimote Whiteboard</span>'
+Comment3='
+Wii whiteboard python implementation.
+'
+License='MIT'
+Screenshot=''
+Url='http://stepd.ca/gtkwhiteboard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

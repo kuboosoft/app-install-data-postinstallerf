@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>xmlstreambuffer</b>'
+Comment='<span size="xx-large">XML Stream Buffer</span>'
+Comment3='
+A stream buffer is a stream-based representation of an XML
+info-set in Java. Stream buffers are designed to provide
+very efficient stream-based memory representations of XML
+info-sets; and be created and processed using any Java-based
+XML API.
+Conceptually a stream buffer is similar to the representation
+used in the Xerces deferred DOM implementation, with the crucial
+difference that a stream buffer does not store hierarchical
+information like parent and sibling information. The deferred
+DOM implementation reduces memory usage when large XML documents
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://java.net/projects/xmlstreambuffer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

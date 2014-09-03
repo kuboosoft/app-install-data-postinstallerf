@@ -1,0 +1,31 @@
+#!/bin/sh
+Name='<b>shared-desktop-ontologies</b>'
+Comment='<span size="xx-large">Shared ontologies needed for semantic environments</span>'
+Comment3='
+The vision of the Social Semantic Desktop defines a user?s personal
+information environment as a source and end-point of the Semantic Web
+Knowledge workers comprehensively express their information and data
+with respect to their own conceptualizations.
+
+Semantic Web languages and protocols are used to formalize these
+conceptualizations and for coordinating local and global information
+access. The Resource Description Framework serves as a common data
+representation format. With a particular focus on addressing certain
+limitations of RDF, a novel representational language akin to RDF and
+the Web Ontology Language, plus a number of other high-level
+ontologies were created.
+Together, they provide a means to build the semantic bridges necessary
+for data exchange and application integration on distributed social
+semantic desktops. Although initially designed to fulfill requirements
+for the Nepomuk project, these ontologies are useful for the semantic
+web community in general.
+'
+License='(BSD or CC-BY) and CC-BY and W3C'
+Screenshot=''
+Url='http://oscaf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

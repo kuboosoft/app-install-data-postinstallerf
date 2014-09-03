@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>tig</b>'
+Comment='<span size="xx-large">Text-mode interface for the git revision control system</span>'
+Comment3='
+Tig is a repository browser for the git revision control system that
+additionally can act as a pager for output from various git commands.
+
+When browsing repositories, it uses the underlying git commands to present the
+user with various views, such as summarized revision log and showing the commit
+with the log message, diffstat, and the diff.
+Using it as a pager, it will display input from stdin and colorize it.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://jonas.nitro.dk/tig'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

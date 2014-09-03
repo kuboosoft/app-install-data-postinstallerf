@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>autossh</b>'
+Comment='<span size="xx-large">Utility to autorestart SSH tunnels</span>'
+Comment3='
+autossh is a utility to start and monitor an ssh tunnel. If the tunnel
+dies or stops passing traffic, autossh will automatically restart it.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.harding.motd.ca/autossh/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

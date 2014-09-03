@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gnaural</b>'
+Comment='<span size="xx-large">A multi-platform programmable binaural-beat generator</span>'
+Comment3='
+Gnaural is a multi-platform programmable binaural-beat generator. It
+is actually brainwave entrainment software for creating binaural beats
+intended to be used as personal brainwave synchronization software,
+for scientific research, or by professionals. Gnaural allows for the
+creation of binaural beat tracks specifying different frequencies and
+exporting tracks into different audio formats. Gnaural runnings can
+also be linked over the internet, allowing synchronous sessions
+between many users.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnaural.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

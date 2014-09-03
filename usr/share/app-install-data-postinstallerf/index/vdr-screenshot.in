@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>vdr-screenshot</b>'
+Comment='<span size="xx-large">VDR plugin: Takes screenshots</span>'
+Comment3='
+With this plugin you can take still images of your screen. After installing
+the plugin, a new mainmenu entry "Screenshot" will show up. Each time you
+select this item, a file /var/cache/vdr/screenshot/title-yyyymmdd-hhmmss.jpg
+will be created, where title is the current transmission or the recording
+currently replayed.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.joachim-wilke.de/vdr-screenshot.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

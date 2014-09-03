@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>apache-commons-pool</b>'
+Comment='<span size="xx-large">Apache Commons Pool Package</span>'
+Comment3='
+The goal of Pool package is it to create and maintain an object (instance)
+pooling package to be distributed under the ASF license. The package should
+support a variety of pool implementations, but encourage support of an
+interface that makes these implementations interchangeable.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/pool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

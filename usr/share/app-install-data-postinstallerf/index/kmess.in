@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>kmess</b>'
+Comment='<span size="xx-large">Messaging client for MSN</span>'
+Comment3='
+KMess is an alternative MSN Messenger chat client for Linux.
+It allows Linux users to chat with friends who use MSN
+Messenger in Windows or Mac OS. The strength of KMess
+is its integration with the KDE desktop environment,
+focus on MSN Messenger specific features and an easy-to-use
+interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kmess.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

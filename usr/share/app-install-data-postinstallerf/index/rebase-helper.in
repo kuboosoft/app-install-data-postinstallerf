@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rebase-helper</b>'
+Comment='<span size="xx-large">The tool which helps you with rebase package</span>'
+Comment3='
+Rebase-Helper is a tool to help package maintainers to update
+their packages to the latest upstream version.
+It helps you to rebase existing patches on top of the new sources.
+It also builds RPMs and performs various tests on them,
+comparing to the previous version.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/phracek/rebase-helper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

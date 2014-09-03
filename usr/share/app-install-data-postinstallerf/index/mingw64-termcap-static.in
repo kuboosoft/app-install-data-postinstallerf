@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-termcap-static</b>'
+Comment='<span size="xx-large">Static version of the cross compiled termcap library</span>'
+Comment3='
+Static version of the cross compiled termcap library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='ftp://ftp.gnu.org/gnu/termcap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

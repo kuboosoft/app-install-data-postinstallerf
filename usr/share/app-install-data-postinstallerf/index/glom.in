@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>glom</b>'
+Comment='<span size="xx-large">Easy-to-use database designer and user interface</span>'
+Comment3='
+Glom lets you design database systems - the database and the user
+interface. Glom has high-level features such as relationships,
+lookups, related fields, related records, calculated fields, drop-down
+choices, searching, reports, users and groups. It has Numeric, Text,
+Date, Time, Boolean, and Image field types. Glom systems require
+almost no programming, but you may use Python for calculated fields or
+buttons. Glom uses the PostgreSQL database backend.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.glom.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

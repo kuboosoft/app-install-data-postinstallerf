@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-isodate</b>'
+Comment='<span size="xx-large">Tune the output format of dates according to language</span>'
+Comment3='
+This package provides ten output formats of the commands
+\today, \printdate, \printdateTeX, and \daterange (partly
+language dependent). Formats available are ISO (yyyy-mm-dd),
+numeric (e.g. dd.\,mm.~yyyy), short (e.g. dd.\,mm.\,yy), TeX
+(yyyy/mm/dd), original (e.g. dd. mmm yyyy), short original
+(e.g. dd. mmm yy), as well as numerical formats with Roman
+numerals for the month. The commands \printdate and
+\printdateTeX print any date. The command \daterange prints a
+date range and leaves out unnecessary year or month entries.
+This package supports German (old and new rules), Austrian, US
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

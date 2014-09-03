@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rubygem-json</b>'
+Comment='<span size="xx-large">A JSON implementation in Ruby</span>'
+Comment3='
+This is a implementation of the JSON specification according
+to RFC 4627 in Ruby.
+You can think of it as a low fat alternative to XML,
+if you want to store data to disk or transmit it over
+a network rather than use a verbose markup language.
+'
+License='Ruby or GPLv2'
+Screenshot=''
+Url='http://json.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

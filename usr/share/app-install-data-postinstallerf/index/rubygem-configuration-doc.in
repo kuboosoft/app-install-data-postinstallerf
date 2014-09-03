@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-configuration-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-configuration</span>'
+Comment3='
+This package contains documentation for rubygem-configuration.
+'
+License='Ruby or BSD'
+Screenshot=''
+Url='http://codeforpeople.com/lib/ruby/configuration/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

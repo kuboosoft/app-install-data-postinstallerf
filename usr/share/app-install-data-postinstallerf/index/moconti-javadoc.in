@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>moconti-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for moconti</span>'
+Comment3='
+This package contains the API documentation for moconti.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://hick.org/~raffi/moconti.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

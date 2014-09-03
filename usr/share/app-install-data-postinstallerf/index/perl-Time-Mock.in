@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Time-Mock</b>'
+Comment='<span size="xx-large">Replaces actual time with simulated time - alternative to Test::MockTime</span>'
+Comment3='
+This is an alternative to TestMockTime which enables test suites to
+test code at specific points in time. TestMockTime is nice, but doesnt
+allow you to accelerate the time step and doesnt deal with TimeHiRes or
+give you any way to change the time across forks.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Time-Mock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

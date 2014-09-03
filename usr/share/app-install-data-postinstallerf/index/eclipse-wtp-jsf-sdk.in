@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-wtp-jsf-sdk</b>'
+Comment='<span size="xx-large">SDK for Eclipse Webtools JSF</span>'
+Comment3='
+Documentation and source for eclipse-wtp-jsf
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/webtools/jsf/main.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

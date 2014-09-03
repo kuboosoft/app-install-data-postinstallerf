@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-reporting-exec</b>'
+Comment='<span size="xx-large">Classes to manage report plugin executions with Maven 3</span>'
+Comment3='
+Classes to manage report plugin executions with Maven 3. Contains classes for
+managing and configuring reports and their execution.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/shared/maven-reporting-exec/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

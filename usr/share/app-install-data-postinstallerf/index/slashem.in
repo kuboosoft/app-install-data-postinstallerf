@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>slashem</b>'
+Comment='<span size="xx-large">Super Lotsa Added Stuff Hack - Extended Magic</span>'
+Comment3='
+From the land before 3DFX, before VGA graphics and DOOM, before the IBM PC, way
+back in the dark ages of Unixland, there was a game. They called it Rogue.
+People played it, and found it good. From this basis, Hack was born. Soon Hack
+became Nethack, because it was developed by many people (and has nothing to do
+with hacking the internet). And people played this on many machines, from
+Unices to Macs to PCs, due to the amazing power of Open Source Code.
+
+But the DevTeam, the reclusive masterminds of Nethack, are a rather quiet
+bunch, gracing the world with new versions as they see fit, and when they see
+fit. Which is usually a new version every good number of years.
+'
+License='NGPL'
+Screenshot=''
+Url='http://slashem.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

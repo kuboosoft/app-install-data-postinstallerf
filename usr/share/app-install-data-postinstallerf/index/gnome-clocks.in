@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-clocks</b>'
+Comment='<span size="xx-large">Clock application designed for GNOME 3</span>'
+Comment3='
+Clock application designed for GNOME 3
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://live.gnome.org/GnomeClocks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>felix-scr-generator</b>'
+Comment='<span size="xx-large">Descriptor Generator Implementation</span>'
+Comment3='
+Provides the implementation to generate Declarative Services and Metatype
+Service descriptors from Java 5 Annotations and/or JavaDoc tags.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

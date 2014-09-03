@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-artwork-active</b>'
+Comment='<span size="xx-large">Artwork for Plasma Active</span>'
+Comment3='
+Artwork for Plasma Active.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://plasma-active.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

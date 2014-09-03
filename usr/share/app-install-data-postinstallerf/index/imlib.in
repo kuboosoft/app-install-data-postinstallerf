@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>imlib</b>'
+Comment='<span size="xx-large">An image loading and rendering library for X11R6</span>'
+Comment3='
+Imlib is a display depth independent image loading and rendering library.
+Imlib is designed to simplify and speed up the process of loading images and
+obtaining X Window System drawables. Imlib provides many simple manipulation
+routines which can be used for common operations.
+
+The imlib package also contains the imlib_config program, which you can use to
+configure the Imlib image loading and rendering library. Imlib_config can be
+used to control how Imlib uses color and handles gamma corrections, etc.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

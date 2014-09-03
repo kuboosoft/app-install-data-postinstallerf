@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnash-extension-mysql</b>'
+Comment='<span size="xx-large">MySQL extension for Gnash</span>'
+Comment3='
+This extension allows SWF files being played within Gnash to have direct access
+to a MySQL database. The API is similar to the standard MySQL one.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/gnash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

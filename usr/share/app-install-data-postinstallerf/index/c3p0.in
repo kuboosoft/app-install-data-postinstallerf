@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>c3p0</b>'
+Comment='<span size="xx-large">JDBC DataSources/Resource Pools</span>'
+Comment3='
+c3p0 is an easy-to-use library for augmenting traditional JDBC drivers with
+JNDI-bindable DataSources, including DataSources that implement Connection
+and Statement Pooling, as described by the jdbc3 spec and jdbc2 standard
+extension.
+'
+License='LGPLv2 or EPL'
+Screenshot=''
+Url='https://github.com/swaldman/c3p0'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gmusicbrowser</b>'
+Comment='<span size="xx-large">Jukebox for large collections of music files</span>'
+Comment3='
+Jukebox for large collections of music files
+Uses gstreamer, mpg321/ogg123/flac123  or mplayer for playback
+Main features 
+- customizable window layouts
+- artist/album lock  easily restrict playlist to current artist/album
+- easy access to related songs (same artist/album/title)
+- simple mass-tagging and mass-renaming
+- support multiple genres for each song
+- customizable labels can be set for each song
+- filters with unlimited nesting of conditions
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gmusicbrowser.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-channel-phpunit</b>'
+Comment='<span size="xx-large">Adds phpunit channel to PEAR</span>'
+Comment3='
+This package adds the phpunit channel which allows PEAR packages
+from this channel to be installed.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.phpunit.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

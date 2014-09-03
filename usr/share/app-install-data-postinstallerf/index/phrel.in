@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>phrel</b>'
+Comment='<span size="xx-large">Per Host RatE Limiter</span>'
+Comment3='
+PHREL is a Per Host RatE Limiter written in C to efficiently track the rate
+of incoming traffic on a per host basis and insert a chain into iptables when
+a configured threshold is crossed. The inserted chain may either rate limit
+or completely block the offending host for a period of time and will be
+automatically removed when the offending hosts traffic levels return to
+normal. PHREL can be used with any type of traffic, but it is particularly
+well suited to protecting name servers from random hosts that flood DNS
+requests and preventing SSH brute force login attempts.
+
+PHREL now supports IPv6 and syncronization between instances of PHREL via a
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.digitalgenesis.com/software/phrel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

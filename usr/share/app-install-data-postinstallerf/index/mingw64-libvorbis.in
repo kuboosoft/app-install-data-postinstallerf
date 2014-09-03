@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mingw64-libvorbis</b>'
+Comment='<span size="xx-large">MinGW Windows libvorbis library</span>'
+Comment3='
+Ogg Vorbis is a fully open, non-proprietary, patent- and royalty-free,
+general-purpose compressed audio format for audio and music at fixed
+and variable bitrates from 16 to 128 kbps/channel.
+
+This package contains the MinGW Windows cross compiled libvorbis library.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.xiph.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

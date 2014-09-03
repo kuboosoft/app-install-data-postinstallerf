@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>autogen-libopts</b>'
+Comment='<span size="xx-large">Automated option processing library based on autogen</span>'
+Comment3='
+Libopts is very powerful command line option parser consisting of a set of
+AutoGen templates and a run time library that nearly eliminates the hassle of
+parsing and documenting command line options.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/autogen/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

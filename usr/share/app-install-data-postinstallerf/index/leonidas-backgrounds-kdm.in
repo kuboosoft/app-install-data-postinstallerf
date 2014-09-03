@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>leonidas-backgrounds-kdm</b>'
+Comment='<span size="xx-large">Leonidas desktop background for KDM</span>'
+Comment3='
+Leonidas desktop background used in KDM.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F11_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

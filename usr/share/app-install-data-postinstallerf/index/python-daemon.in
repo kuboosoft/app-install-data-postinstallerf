@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-daemon</b>'
+Comment='<span size="xx-large">Library to implement a well-behaved Unix daemon process</span>'
+Comment3='
+This library implements the well-behaved daemon specification of PEP 3143,
+"Standard daemon process library".
+'
+License='Python'
+Screenshot=''
+Url='http://pypi.python.org/pypi/python-daemon/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

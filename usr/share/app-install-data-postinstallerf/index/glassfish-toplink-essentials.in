@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-toplink-essentials</b>'
+Comment='<span size="xx-large">Glassfish JPA Toplink Essentials</span>'
+Comment3='
+Glassfish Persistence Implementation.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://glassfish.java.net/javaee5/persistence/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-batchhttp</b>'
+Comment='<span size="xx-large">Parallel fetching of HTTP resources through MIME multipart</span>'
+Comment3='
+This packages BatchClient applies standard MIME multipart encoding to HTTP
+messages, providing a standards-conservant technique for making parallelizable
+HTTP requests over a single proxy connection.
+
+To make a batch request, open a new request on a BatchClient instance and add
+your subrequests, along with callbacks that will receive the subresponses.
+Once all parallelized requests are added, complete the request; the request is
+made and the batched subresponses are provided to your callbacks.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/saymedia/batchhttp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

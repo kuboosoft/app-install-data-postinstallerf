@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lzo-devel</b>'
+Comment='<span size="xx-large">Development files for the lzo library</span>'
+Comment3='
+LZO is a portable lossless data compression library written in ANSI C.
+It offers pretty fast compression and very fast decompression.
+This package contains development files needed for lzo.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.oberhumer.com/opensource/lzo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

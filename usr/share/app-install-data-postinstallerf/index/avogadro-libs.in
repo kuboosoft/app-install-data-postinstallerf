@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>avogadro-libs</b>'
+Comment='<span size="xx-large">Shared libraries for Avogadro</span>'
+Comment3='
+This package contains the shared libraries for the
+molecular editor Avogadro.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://avogadro.openmolecules.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

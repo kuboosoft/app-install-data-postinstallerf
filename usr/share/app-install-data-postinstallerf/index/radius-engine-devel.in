@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>radius-engine-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for Radius Engine</span>'
+Comment3='
+Development libraries and headers for Radius Engine.
+
+URL          http//radius-engine.sourceforge.net/
+'
+License='MIT'
+Screenshot=''
+Url='http://radius-engine.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

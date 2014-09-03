@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Pegex</b>'
+Comment='<span size="xx-large">Pegex Parser Generator</span>'
+Comment3='
+Pegex is a Acmeist parser framework. It is a PEG parser grammar syntax,
+combined with PCRE compatible regular expressions as the match tokens.
+Pegex draws heavily from Perl 6 rules, but works equivalently in many
+modern programming languages.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Pegex/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

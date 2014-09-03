@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pilot-link-libs</b>'
+Comment='<span size="xx-large">PalmPilot libraries</span>'
+Comment3='
+Libraries for applications communicating with PalmPilot
+
+URL          http//www.pilot-link.org/
+'
+License='GPLv2 and GPLv2+ and LGPLv2+ and Public Domain'
+Screenshot=''
+Url='http://www.pilot-link.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

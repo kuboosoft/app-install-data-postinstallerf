@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-gmutils</b>'
+Comment='<span size="xx-large">Support macros for other packages</span>'
+Comment3='
+Miscellaneous macros used by others of the authors packages.
+Contents of the package \newgif and other globals; \@ifnextcat
+and \@ifXeTeX; \(Re)storeMacro(s) to override redefinitions;
+\afterfi and friends; commands from relsize, etc.; "almost an
+environment" or redefinition of \begin (\begin* doesnt check
+if the argument environment is defined).
+
+date 2011-10-14 164222 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

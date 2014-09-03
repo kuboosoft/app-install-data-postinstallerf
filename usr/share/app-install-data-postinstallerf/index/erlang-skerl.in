@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-skerl</b>'
+Comment='<span size="xx-large">Skein hash function for Erlang, via NIFs</span>'
+Comment3='
+Skein hash function for Erlang, via NIFs.
+'
+License='Public Domain and BSD and MIT or GPL+'
+Screenshot=''
+Url='https://github.com/basho/skerl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

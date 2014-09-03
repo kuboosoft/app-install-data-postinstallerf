@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3</b>'
+Comment3='
+Python 3 is a new version of the language that is incompatible with the 2.x
+line of releases. The language is mostly the same, but many details, especially
+how built-in objects like dictionaries and strings work, have changed
+considerably, and a lot of deprecated features have finally been removed.
+
+'
+License='Python'
+Screenshot=''
+Url='http://www.python.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

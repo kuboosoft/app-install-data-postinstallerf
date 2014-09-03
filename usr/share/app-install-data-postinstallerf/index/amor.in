@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>amor</b>'
+Comment='<span size="xx-large">Amusing misuse of resources</span>'
+Comment3='
+Amusing Misuse of Resources animation that sits on top of the curent window.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdetoys/amor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

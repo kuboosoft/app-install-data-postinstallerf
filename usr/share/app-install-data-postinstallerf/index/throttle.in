@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>throttle</b>'
+Comment='<span size="xx-large">Bandwidth limiting pipe</span>'
+Comment3='
+Throttle copies the standard input to the standard output while limiting
+bandwidth to the specified maximum.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://klicman.org/throttle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kgoldrunner</b>'
+Comment='<span size="xx-large">A game of action and puzzle solving</span>'
+Comment3='
+KGoldrunner is a game of action and puzzle solving. Run through the maze,
+dodge your enemies, collect all the gold and climb up to the next level.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kgoldrunner'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

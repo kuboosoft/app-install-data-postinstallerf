@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netatalk-devel</b>'
+Comment='<span size="xx-large">Headers for Appletalk development</span>'
+Comment3='
+This package contains the header files for building Appletalk networking
+programs.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://netatalk.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

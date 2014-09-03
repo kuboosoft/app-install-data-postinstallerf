@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pkpgcounter</b>'
+Comment='<span size="xx-large">Computes number of pages or quantity of ink needed to print documents</span>'
+Comment3='
+pkpgcounter parses files and outputs the number of pages needed to print them.
+It can also, for certain file formats, compute the percentage of ink colors
+covering each page. It currently recognizes almost 20 Page Description Languages
+or file formats, including the most used ones like Postscript, PDF,
+the PCL family, DVI, OpenDocument, or even Microsoft Word, corresponding to
+hundreds of different printer drivers. This utility and Python library is often
+used as the PDL parsing engine in print accounting software like PyKota or
+JASMine, but can of course be used independently.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.pykota.com/software/pkpgcounter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

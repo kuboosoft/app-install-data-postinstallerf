@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ScientificPython-tk</b>'
+Comment='<span size="xx-large">The tk widgets from ScientificPython</span>'
+Comment3='
+This package contains the ScientificPython Tkwidgets
+'
+License='CeCILL'
+Screenshot=''
+Url='http://dirac.cnrs-orleans.fr/ScientificPython/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

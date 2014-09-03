@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fastback</b>'
+Comment='<span size="xx-large">File uploader, configureable file uploader</span>'
+Comment3='
+Fastback is a command line tool to upload files to a ticketing system, or
+other configurable URL (FTP,SCP,...).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/fastback'
+other configurable URL (FTP,SCP,...).'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

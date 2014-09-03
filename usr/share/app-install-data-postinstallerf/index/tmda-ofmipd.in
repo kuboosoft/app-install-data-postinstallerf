@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tmda-ofmipd</b>'
+Comment='<span size="xx-large">Tagged Message Delivery Agent - ofmipd server</span>'
+Comment3='
+TMDA is an open source anti-spam system and local mail delivery agent.
+
+tmda-ofmipd is an async I/O based authenticated ofmip proxy for TMDA.
+This allows users of any mail client capable of SMTP Authentication
+to "tag" their outgoing mail in the TMDA-style.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tmda.net/tmda-ofmipd.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

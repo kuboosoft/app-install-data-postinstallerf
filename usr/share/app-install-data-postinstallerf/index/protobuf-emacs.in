@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>protobuf-emacs</b>'
+Comment='<span size="xx-large">Emacs mode for Google Protocol Buffers descriptions</span>'
+Comment3='
+This package contains syntax highlighting for Google Protocol Buffers
+descriptions in the Emacs editor.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/protobuf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

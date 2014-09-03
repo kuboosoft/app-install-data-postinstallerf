@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>proftpd-postgresql</b>'
+Comment='<span size="xx-large">Module to add PostgreSQL support to the ProFTPD FTP server</span>'
+Comment3='
+Module to add PostgreSQL support to the ProFTPD FTP server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.proftpd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

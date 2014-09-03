@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sensors-lxpanel-plugin</b>'
+Comment='<span size="xx-large">Monitor temperature/voltages/fan speeds in LXDE through lm-sensors</span>'
+Comment3='
+Monitor temperature/voltages/fan speeds in LXDE using lm-sensors
+
+URL          http//danamlund.dk/sensors_lxpanel_plugin/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://danamlund.dk/sensors_lxpanel_plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libglade2</b>'
+Comment='<span size="xx-large">The libglade library for loading user interfaces</span>'
+Comment3='
+Libglade is a small library that allows a program to load its user
+interface from am XML description at runtime. Libglade uses the XML
+file format used by the GLADE user interface builder GLADE, so
+libglade acts as an alternative to GLADEs code generation
+approach. Libglade also provides a simple interface for connecting
+handlers to the various signals in the interface (on platforms where
+the gmodule library works correctly, it is possible to connect all the
+handlers with a single function call). Once the interface has been
+instantiated, libglade gives no overhead, so other than the short
+initial interface loading time, there is no performance tradeoff.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

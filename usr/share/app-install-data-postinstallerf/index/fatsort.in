@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fatsort</b>'
+Comment='<span size="xx-large">FAT sorter for FAT16 and FAT32 filesystems</span>'
+Comment3='
+Fatsort is a utility written in C to sort FAT16 and FAT32 filesystems. It is
+needed to sort files on cheap mp3 players that display files not sorted by
+their name but by the order they appear in the file allocation table (FAT).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fatsort.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

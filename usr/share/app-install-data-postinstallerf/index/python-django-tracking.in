@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-django-tracking</b>'
+Comment='<span size="xx-large">Django site visitor tracking, including basic blacklisting</span>'
+Comment3='
+django-tracking is a simple attempt at keeping track of visitors to
+Django-powered Web sites.  It also offers basic blacklisting capabilities.
+'
+License='MIT'
+Screenshot=''
+Url='https://bitbucket.org/codekoala/django-tracking/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

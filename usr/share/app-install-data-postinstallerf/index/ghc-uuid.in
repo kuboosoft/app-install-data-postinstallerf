@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-uuid</b>'
+Comment='<span size="xx-large">For creating, comparing, parsing and printing Universally Unique Identifiers</span>'
+Comment3='
+This library is useful for creating, comparing, parsing and printing
+Universally Unique Identifiers. See <http//en.wikipedia.org/wiki/UUID> for the
+general idea.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/uuid'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

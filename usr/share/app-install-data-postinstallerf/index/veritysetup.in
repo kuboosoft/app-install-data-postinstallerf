@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>veritysetup</b>'
+Comment='<span size="xx-large">A utility for setting up dm-verity volumes</span>'
+Comment3='
+The veritysetup package contains a utility for setting up
+disk verification using dm-verity kernel module.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://cryptsetup.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

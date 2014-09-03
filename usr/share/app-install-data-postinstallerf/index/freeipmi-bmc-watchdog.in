@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freeipmi-bmc-watchdog</b>'
+Comment='<span size="xx-large">IPMI BMC watchdog</span>'
+Comment3='
+Provides a watchdog daemon for OS monitoring and recovery.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/freeipmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

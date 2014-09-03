@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-cbfonts-fd</b>'
+Comment='<span size="xx-large">LaTeX font description files for the CB Greek fonts</span>'
+Comment3='
+The package provides font description files for all the many
+shapes available from the cbfonts collection. The files provide
+the means whereby the NFSS knows which fonts a LaTeX user is
+requesting.
+
+date 2013-09-10 121323 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

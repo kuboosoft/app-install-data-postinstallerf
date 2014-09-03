@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>atmel-firmware</b>'
+Comment='<span size="xx-large">Firmware for Atmel at76c50x wireless network chips</span>'
+Comment3='
+The drivers for Atmel at76c50x wireless network chips in the Linux 2.6.x kernel
+but do not include the firmware.
+This firmware needs to be loaded by the host on most cards using these chips.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://at76c503a.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

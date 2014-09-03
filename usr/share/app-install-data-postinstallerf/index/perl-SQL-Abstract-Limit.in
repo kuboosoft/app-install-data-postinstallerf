@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-SQL-Abstract-Limit</b>'
+Comment='<span size="xx-large">Portable LIMIT Emulation</span>'
+Comment3='
+Portable SQL LIMIT emulation, with support for multiple dialects and syntax
+models.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/SQL-Abstract-Limit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

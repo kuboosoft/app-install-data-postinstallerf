@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>raydium</b>'
+Comment='<span size="xx-large">Raydium is a game engine, best known for powering ManiaDrive</span>'
+Comment3='
+Raydium is a game engine. It provides a set of functions which allow quick and
+flexible games creation. There are a lot of other 3D/game engines (and some
+are very complete, such as Ogre, Crystal Space, etc). Raydium does not try to
+be as complex as these engines, but on the contrary is aiming at quick and
+simple development.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://raydium.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

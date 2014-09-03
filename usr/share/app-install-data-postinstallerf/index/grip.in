@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>grip</b>'
+Comment='<span size="xx-large">Front-end for CD rippers and Ogg Vorbis encoders</span>'
+Comment3='
+Grip is a GTK+ based front-end for CD rippers (such as cdparanoia and
+cdda2wav) and Ogg Vorbis encoders. Grip allows you to rip entire tracks or
+just a section of a track. Grip supports the CDDB protocol for
+accessing track information on disc database servers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nostatic.org/grip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

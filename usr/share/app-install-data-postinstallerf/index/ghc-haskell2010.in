@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-haskell2010</b>'
+Comment='<span size="xx-large">Haskell haskell2010 library</span>'
+Comment3='
+This package provides the Haskell haskell2010 library.
+'
+License='HaskellReport'
+Screenshot=''
+Url='http://haskell.org/ghc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mgetty</b>'
+Comment='<span size="xx-large">A getty replacement for use with data and fax modems</span>'
+Comment3='
+The mgetty package contains a "smart" getty which allows logins over a
+serial line (i.e., through a modem). If youre using a Class 2 or 2.0
+modem, mgetty can receive faxes. If you also need to send faxes,
+youll need to install the sendfax program.
+
+If youll be dialing in to your system using a modem, you should
+install the mgetty package. If youd like to send faxes using mgetty
+and your modem, youll need to install the mgetty-sendfax program. If
+you need a viewer for faxes, youll also need to install the
+mgetty-viewfax package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mgetty.greenie.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

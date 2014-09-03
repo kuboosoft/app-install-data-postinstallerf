@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-mixlib-shellout</b>'
+Comment='<span size="xx-large">Run external commands on Unix or Windows</span>'
+Comment3='
+Run external commands on Unix or Windows
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/opscode/mixlib-shellout'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

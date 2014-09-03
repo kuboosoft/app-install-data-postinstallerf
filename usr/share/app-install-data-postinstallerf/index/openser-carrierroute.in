@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openser-carrierroute</b>'
+Comment='<span size="xx-large">Routing extension suitable for carriers</span>'
+Comment3='
+A module which provides routing, balancing and blacklisting capabilities.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

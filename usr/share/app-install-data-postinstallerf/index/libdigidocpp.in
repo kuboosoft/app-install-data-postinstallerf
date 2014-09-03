@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libdigidocpp</b>'
+Comment='<span size="xx-large">Library for creating and validating BDoc and DDoc containers</span>'
+Comment3='
+libdigidocpp is a C++ library for reading, validating, and creating BDoc and
+DDoc containers. These file formats are widespread in Estonia where they are
+used for storing legally binding digital signatures.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/esteid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-t2</b>'
+Comment='<span size="xx-large">Support for using T2 encoding</span>'
+Comment3='
+The T2 bundle provides a variety of separate support functions,
+for using Cyrillic characters in LaTeX - the mathtext package,
+for using Cyrillic letters transparently in formulae - the
+citehack package, for using Cyrillic (or indeed any non-ascii)
+characters in citation keys; - support for Cyrillic in BibTeX;
+- support for Cyrillic in Makeindex; and - various items of
+font support.
+
+date 2012-06-05 145736 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

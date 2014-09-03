@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>erlang-riak_search</b>'
+Comment='<span size="xx-large">Full-text search engine based on Riak</span>'
+Comment3='
+The riak_search OTP application provides Riak with the capability to act as a
+text search engine similar to Apache?s Lucene. Previously Riak Search was a
+release in it?s own right. Since then Basho has decided it would be easier for
+our users if Search was simply a set of functionality that can be enabled via a
+config option. For that reason, if you want to use Search you?ll have to build
+a Riak release and enable it.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/riak_search'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

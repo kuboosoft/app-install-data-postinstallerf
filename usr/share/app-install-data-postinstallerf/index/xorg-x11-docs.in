@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xorg-x11-docs</b>'
+Comment='<span size="xx-large">X.Org X11 documentation</span>'
+Comment3='
+Protocol and other technical documentation for the X.Org X11 X Window System
+implementation.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

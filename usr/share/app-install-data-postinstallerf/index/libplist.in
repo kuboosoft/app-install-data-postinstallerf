@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libplist</b>'
+Comment='<span size="xx-large">Library for manipulating Apple Binary and XML Property Lists</span>'
+Comment3='
+libplist is a library for manipulating Apple Binary and XML Property Lists
+
+URL          http//www.libimobiledevice.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.libimobiledevice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

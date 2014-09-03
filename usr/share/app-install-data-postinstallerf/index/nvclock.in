@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nvclock</b>'
+Comment='<span size="xx-large">Utility that allows users to overclock NVIDIA based video cards</span>'
+Comment3='
+Nvclock allows you to tweak your Nvidia card under Linux.
+It features overclocking, hardware monitoring, tweaking
+of OpenGL settings, and much more.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://www.linuxhardware.org/nvclock'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

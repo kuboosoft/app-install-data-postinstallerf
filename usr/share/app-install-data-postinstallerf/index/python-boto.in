@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-boto</b>'
+Comment='<span size="xx-large">A simple, lightweight interface to Amazon Web Services</span>'
+Comment3='
+Boto is a Python package that provides interfaces to Amazon Web Services.
+It supports over thirty services, such as S3 (Simple Storage Service),
+SQS (Simple Queue Service), and EC2 (Elastic Compute Cloud) via their
+REST and Query APIs.  The goal of boto is to support the full breadth
+and depth of Amazon Web Services.  In addition, boto provides support
+for other public services such as Google Storage in addition to private
+cloud systems like Eucalyptus, OpenStack and Open Nebula.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/boto/boto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-glob</b>'
+Comment='<span size="xx-large">A little globber for Node.js</span>'
+Comment3='
+This is a glob implementation in pure JavaScript. It uses the minimatch library
+to do its matching.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/isaacs/node-glob'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

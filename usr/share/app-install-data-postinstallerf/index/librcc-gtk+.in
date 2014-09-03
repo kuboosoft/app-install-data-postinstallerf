@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>librcc-gtk+</b>'
+Comment='<span size="xx-large">RusXMMS Encoding Conversion Library GTK+ bindings</span>'
+Comment3='
+The librcc-gtk+ package contains GTK+ bindings for RusXMMS Encoding
+Conversion Library
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://rusxmms.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

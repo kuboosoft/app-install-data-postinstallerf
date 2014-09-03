@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tokyocabinet</b>'
+Comment='<span size="xx-large">A modern implementation of a DBM</span>'
+Comment3='
+Tokyo Cabinet is a library of routines for managing a database. It is the
+successor of QDBM. Tokyo Cabinet runs very fast. For example, the time required
+to store 1 million records is 1.5 seconds for a hash database and 2.2 seconds
+for a B+ tree database. Moreover, the database size is very small and can be up
+to 8EB. Furthermore, the scalability of Tokyo Cabinet is great.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fallabs.com/tokyocabinet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

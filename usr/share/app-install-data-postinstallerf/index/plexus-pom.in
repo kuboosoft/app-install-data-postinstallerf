@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plexus-pom</b>'
+Comment='<span size="xx-large">Root Plexus Projects POM</span>'
+Comment3='
+The Plexus project provides a full software stack for creating and
+executing software projects.  This package provides parent POM for
+Plexus packages.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/sonatype/plexus-pom/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

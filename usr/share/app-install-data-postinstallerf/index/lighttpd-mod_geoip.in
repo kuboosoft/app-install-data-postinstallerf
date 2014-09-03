@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lighttpd-mod_geoip</b>'
+Comment='<span size="xx-large">GeoIP module for lighttpd to use for location lookups</span>'
+Comment3='
+GeoIP module for lighttpd to use for location lookups.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.lighttpd.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

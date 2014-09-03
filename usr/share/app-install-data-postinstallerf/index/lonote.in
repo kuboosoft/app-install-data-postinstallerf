@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lonote</b>'
+Comment='<span size="xx-large">Personal Notebook on browser</span>'
+Comment3='
+LoNote is a personal note-taking software base on python3 and modern browser.
+Each page is saved in HTML format and the program is actually a WYSIWYG HTML
+editor specialized for note-taking convenience.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://bitbucket.org/civalin/lonote'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

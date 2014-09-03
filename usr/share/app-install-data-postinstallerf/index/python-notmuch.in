@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-notmuch</b>'
+Comment='<span size="xx-large">Python bindings for notmuch</span>'
+Comment3='
+Python bindings for notmuch.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://notmuchmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

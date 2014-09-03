@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>maven-help-plugin</b>'
+Comment='<span size="xx-large">Plugin to to get relative information about a project or the system</span>'
+Comment3='
+The Maven Help Plugin is used to get relative information about a project
+or the system. It can be used to get a description of a particular plugin,
+including the plugins mojos with their parameters and component requirements,
+the effective POM and effective settings of the current build,
+and the profiles applied to the current project being built.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-help-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

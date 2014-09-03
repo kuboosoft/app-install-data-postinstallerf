@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-rpm-spec-mode</b>'
+Comment='<span size="xx-large">Major GNU Emacs mode for editing RPM spec files</span>'
+Comment3='
+Major GNU Emacs mode for editing RPM spec files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tihlde.org/~stigb/rpm-spec-mode.el'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

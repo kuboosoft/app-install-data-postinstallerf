@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>opencryptoki-swtok</b>'
+Comment='<span size="xx-large">The software token implementation for opencryptoki</span>'
+Comment3='
+Opencryptoki implements the PKCS#11 specification v2.11 for a set of
+cryptographic hardware, such as IBM 4764 and 4765 crypto cards, and the
+Trusted Platform Module (TPM) chip. Opencryptoki also brings a software
+token implementation that can be used without any cryptographic
+hardware.
+This package brings the software token implementation to use opencryptoki
+without any specific cryptographic hardware.
+'
+License='CPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/opencryptoki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

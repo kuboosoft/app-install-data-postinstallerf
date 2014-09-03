@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eclipse-dtp</b>'
+Comment='<span size="xx-large">Eclipse Data Tools Platform</span>'
+Comment3='
+The Eclipse Data Tools Platform provides extensible frameworks and exemplary
+tools, enabling a diverse set of plug-in offerings specific to particular
+data-centric technologies and supported by the DTP ecosystem.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/datatools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

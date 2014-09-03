@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libmicrospdy</b>'
+Comment='<span size="xx-large">Lightweight library for embedding a webserver using the SPDY protocol</span>'
+Comment3='
+GNU libmicrospdy is a small C library that is supposed to make it
+easy to run a SPDY server as part of another application.
+
+The library is part of the libmicrohttpd project and source tree
+and shared its advantages of being fast aand small with a simple API.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/libmicrohttpd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

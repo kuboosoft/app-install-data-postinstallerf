@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gcc-mn10300-linux-gnu</b>'
+Comment='<span size="xx-large">Cross-build binary utilities for mn10300-linux-gnu</span>'
+Comment3='
+Cross-build GNU C compiler.
+
+Only building kernels is currently supported.  Support for cross-building
+user space programs is not currently provided as that would massively multiply
+the number of packages.
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

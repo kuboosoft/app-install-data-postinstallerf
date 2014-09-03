@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>StarCluster-doc</b>'
+Comment='<span size="xx-large">Documentation for StarCluster</span>'
+Comment3='
+Documentation for StarCluster.
+'
+License='LGPLv3 and BSD and ASL 2.0 and (MIT or BSD or GPLv2) and (MIT or GPLv2)'
+Screenshot=''
+Url='http://star.mit.edu/cluster'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

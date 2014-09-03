@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pspicture</b>'
+Comment='<span size="xx-large">PostScript picture support</span>'
+Comment3='
+A replacement for LaTeXs picture macros, that uses PostScript
+\special commands. The package is now largely superseded by
+pict2e.
+
+date 2007-03-11 165601 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

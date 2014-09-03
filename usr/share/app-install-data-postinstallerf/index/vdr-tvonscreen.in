@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vdr-tvonscreen</b>'
+Comment='<span size="xx-large">Enhanced EPG data viewer for VDR</span>'
+Comment3='
+This VDR plugin shows EPG data on VDRs OSD in a similar way as a TV
+magazine does. The channels are shown from left to right, 3 on one
+screen.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.js-home.org/vdr/tvonscreen/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

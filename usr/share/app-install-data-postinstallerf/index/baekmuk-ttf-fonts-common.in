@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>baekmuk-ttf-fonts-common</b>'
+Comment='<span size="xx-large">Common files for Korean Baekmuk TrueType fonts</span>'
+Comment3='
+
+This package provides the free Korean TrueType fonts.
+This is common files for Baekmuk Korean TrueType fonts.
+'
+License='Baekmuk'
+Screenshot=''
+Url='http://kldp.net/projects/baekmuk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

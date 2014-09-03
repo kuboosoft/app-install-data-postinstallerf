@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-tw2-forms</b>'
+Comment='<span size="xx-large">Forms for ToscaWidgets2</span>'
+Comment3='
+ToscaWidgets is a web widget toolkit for Python to aid in the creation,
+packaging and distribution of common view elements normally used in the web.
+
+tw2.forms contains the basic form widgets.
+'
+License='MIT'
+Screenshot=''
+Url='http://toscawidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

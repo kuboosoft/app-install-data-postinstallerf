@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ez-ipupdate</b>'
+Comment='<span size="xx-large">Client for Dynamic DNS Services</span>'
+Comment3='
+ez-ipupdate is a utility for updating DNS records at a number of
+different dynamic DNS services.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gusnet.cx/proj/ez-ipupdate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

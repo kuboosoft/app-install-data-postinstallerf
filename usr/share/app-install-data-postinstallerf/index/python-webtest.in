@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-webtest</b>'
+Comment='<span size="xx-large">Helper to test WSGI applications</span>'
+Comment3='
+WebTest wraps any WSGI application and makes it easy to send test
+requests to that application, without starting up an HTTP server.
+
+This provides convenient full-stack testing of applications written
+with any WSGI-compatible framework.
+'
+License='MIT'
+Screenshot=''
+Url='http://pythonpaste.org/webtest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

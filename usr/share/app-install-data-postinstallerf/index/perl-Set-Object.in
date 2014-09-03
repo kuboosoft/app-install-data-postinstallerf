@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Set-Object</b>'
+Comment='<span size="xx-large">Set of objects and strings</span>'
+Comment3='
+This modules implements a set of objects, that is, an unordered
+collection of objects without duplication.
+
+The term *objects* is applied loosely - for the sake of SetObject,
+anything that is a reference is considered an object.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Set-Object/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

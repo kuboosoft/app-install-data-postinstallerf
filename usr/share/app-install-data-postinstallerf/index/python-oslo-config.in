@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-oslo-config</b>'
+Comment='<span size="xx-large">OpenStack common configuration library</span>'
+Comment3='
+The Oslo project intends to produce a python library containing
+infrastructure code shared by OpenStack projects. The APIs provided
+by the project should be high quality, stable, consistent and generally
+useful.
+
+The oslo-config library is a command line and configuration file
+parsing library from the Oslo project.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://launchpad.net/oslo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmpdclient</b>'
+Comment='<span size="xx-large">Library for interfacing Music Player Daemon</span>'
+Comment3='
+A stable, documented, asynchronous API library for interfacing MPD
+in the C, C++ & Objective C languages.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://mpd.wikia.com/wiki/ClientLib:libmpdclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

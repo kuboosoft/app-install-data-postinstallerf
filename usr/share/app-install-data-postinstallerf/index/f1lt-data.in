@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>f1lt-data</b>'
+Comment='<span size="xx-large">F1LT data files</span>'
+Comment3='
+F1LT data files.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://bitbucket.org/pieczar/f1lt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

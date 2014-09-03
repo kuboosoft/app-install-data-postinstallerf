@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>make</b>'
+Comment='<span size="xx-large">A GNU tool which simplifies the build process for users</span>'
+Comment3='
+A GNU tool for controlling the generation of executables and other
+non-source files of a program from the programs source files. Make
+allows users to build and install packages without any significant
+knowledge about the details of the build process. The details about
+how the program should be built are provided for make in the programs
+makefile.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/make/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

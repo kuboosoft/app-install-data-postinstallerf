@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-commons-vfs-ant</b>'
+Comment='<span size="xx-large">Development files for Commons VFS</span>'
+Comment3='
+This package enables support for the Commons VFS ant tasks.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/vfs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

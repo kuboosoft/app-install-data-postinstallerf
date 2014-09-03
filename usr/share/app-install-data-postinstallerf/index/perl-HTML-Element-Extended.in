@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-HTML-Element-Extended</b>'
+Comment='<span size="xx-large">Various HTML::Element extensions</span>'
+Comment3='
+This package contains various extensions for HTMLElement.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-Element-Extended/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

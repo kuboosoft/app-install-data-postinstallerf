@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pioneers-editor</b>'
+Comment='<span size="xx-large">Pioneers Game Editor</span>'
+Comment3='
+Pioneers is a computerized version of a well known strategy board game. The
+goal of the game is to colonize an island. The players play the first
+colinists hence the name pioneers.
+
+The game editor allows maps and game descriptions to be created and
+edited graphically.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pio.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

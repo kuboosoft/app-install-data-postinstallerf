@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tinyxml2-devel</b>'
+Comment='<span size="xx-large">Development files for tinyxml2</span>'
+Comment3='
+This package contains the libraries and header files that are needed
+for writing applications with the tinyxml2 library.
+
+'
+License='zlib'
+Screenshot=''
+Url='https://github.com/leethomason/tinyxml2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

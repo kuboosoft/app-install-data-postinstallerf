@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-commons-javaflow-ant</b>'
+Comment='<span size="xx-large">Development files for Commons Javaflow</span>'
+Comment3='
+This package enables support for the Commons Javaflow ant tasks.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/sandbox/javaflow/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

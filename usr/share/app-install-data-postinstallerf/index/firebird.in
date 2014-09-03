@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>firebird</b>'
+Comment='<span size="xx-large">SQL relational database management system</span>'
+Comment3='
+This package contains common files between firebird-classic, firebird-superclassic and
+firebird-superserver. You will need this if you want to use either one.
+'
+License='Interbase'
+Screenshot=''
+Url='http://www.firebirdsql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

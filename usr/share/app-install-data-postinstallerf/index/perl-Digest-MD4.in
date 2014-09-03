@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Digest-MD4</b>'
+Comment='<span size="xx-large">Perl interface to the MD4 Algorithm</span>'
+Comment3='
+The DigestMD4 module allows you to use the RSA Data Security Inc. MD4 Message
+Digest algorithm from within Perl programs. The algorithm takes as input a
+message of arbitrary length and produces as output a 128-bit "fingerprint" or
+"message digest" of the input.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Digest-MD4/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

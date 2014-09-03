@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-jamtimes</b>'
+Comment='<span size="xx-large">Expanded Times Roman fonts</span>'
+Comment3='
+The package offers LaTeX support for the expanded Times Roman
+font, which has been used for many years in the Journal
+dAnalyse Mathematique. Mathematics support is based on the
+Belleek fonts.
+
+date 2009-11-07 095242 +0000
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

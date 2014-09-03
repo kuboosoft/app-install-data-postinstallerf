@@ -1,0 +1,19 @@
+[Desktop Entry]
+Exec=postinstaller -n ircp-tray
+Type=Application
+Name=Ircp Tray
+Comment=A simple OBEX file transfer applet
+Comment[cs]=Jednoduchý aplet pro odesílání souborů pomocí OBEX
+Comment[de]=Ein einfaches OBEX Dateiübertragungs-Applet
+Comment[es]=Miniaplicación para transferencia de ficheros con OBEX
+Comment[fr]=Un applet de transfert OBEX simple
+Comment[gl]=Miniaplicación para transferencia de ficheiros con OBEX
+Comment[he]=יישומון פשוט להעברת קבצים דרך OBEX
+Comment[it]=Una semplice applet per trasferire file via OBEX
+Comment[pl]=Prosty aplet transferu plików przez OBEX
+Comment[ru]=Простой OBEX апплет
+Comment[sv]=Ett enkelt panelprogram för filöverföring via OBEX
+Comment[zh_TW]=一個簡單的 OBEX 檔案傳輸軟體
+Icon=/usr/share/app-install-data-postinstallerf/icons/ircp-tray.png
+Terminal=false
+Categories=Utility;

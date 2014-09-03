@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>euca2ools</b>'
+Comment='<span size="xx-large">Eucalyptus/AWS-compatible command line tools</span>'
+Comment3='
+Euca2ools are command line tools used to interact with Eucalyptus,
+a service overlay designed to be interface-compatible with Amazon Web
+Services (AWS), as well as AWS itself.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.eucalyptus.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-incgraph</b>'
+Comment='<span size="xx-large">Sophisticated graphics inclusion in a PDF document</span>'
+Comment3='
+The package provides tools for including graphics at the full
+size of the output medium, or for creating "pages" whose size
+is that of the graphic they contain. A principal use case is
+documents that require inclusion of (potentially many) scans or
+photographs. Bookmarking is especially supported. The tool box
+has basic macros and a convenience user interface that wraps
+\includegraphics
+
+date 2013-01-17 112748 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

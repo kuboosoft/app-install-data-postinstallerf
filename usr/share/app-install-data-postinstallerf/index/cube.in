@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>cube</b>'
+Comment='<span size="xx-large">CUBE Uniform Behavioral Encoding generic presentation component</span>'
+Comment3='
+CUBE (CUBE Uniform Behavioral Encoding) is a generic presentation component
+suitable for displaying a wide variety of performance metrics for parallel
+programs including MPI and OpenMP applications. CUBE allows interactive
+exploration of a multidimensional performance space in a scalable fashion.
+Scalability is achieved in two ways hierarchical decomposition of individual
+dimensions and aggregation across different dimensions. All performance
+metrics are uniformly accommodated in the same display and thus provide the
+ability to easily compare the effects of different kinds of performance
+behavior.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.scalasca.org/software/cube-4.x/download.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

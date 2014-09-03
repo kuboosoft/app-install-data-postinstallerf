@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>google-noto-sans-kannada-ui-fonts</b>'
+Comment='<span size="xx-large">Free Unhinted Kannada script sans fonts</span>'
+Comment3='
+
+Noto fonts aims to remove tofu from web by providing fonts for all
+Unicode supported script. Its design goal is to achieve visual harmonization
+between multiple scripts. Noto family supports almost all script available
+in Unicode.
+Unhinted sanserif UI fonts for Kannada script.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://code.google.com/p/noto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

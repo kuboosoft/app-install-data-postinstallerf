@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>getdata-lzma</b>'
+Comment='<span size="xx-large">Enables getdata read ability of lzma compressed dirfiles</span>'
+Comment3='
+Enables getdata to read dirfiles that are encoded (compressed) with lzma.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://getdata.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

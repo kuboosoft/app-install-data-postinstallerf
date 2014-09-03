@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>clc-intercal</b>'
+Comment='<span size="xx-large">Compiler for the INTERCAL language</span>'
+Comment3='
+This package provides a Perl-based compiler for the INTERCAL programming
+language, usable either from the command line or as a Perl module.
+
+CLC-INTERCAL is designed to be almost compatible with the original (Princeton
+1972) compiler. It also implements several extensions to the original language,
+including support for object orientation, operator overloading and quantum
+computing.
+'
+License='BSD'
+Screenshot=''
+Url='http://clc.intercal.org.uk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

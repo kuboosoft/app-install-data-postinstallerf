@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>nefte</b>'
+Comment='<span size="xx-large">A lightweight, extendable, folding text editor</span>'
+Comment3='
+eFTE is an advanced programmers editor with goals of being lightweight, yet
+totally configurable. Support for user defined programming languages, menu
+systems and key bindings are provided with many common defaults already
+defined. eFTE is still a new project, however, we extend from the FTE editor
+which was first released in 1995, so eFTE is tried and true with many features
+for the programmer/text editor.
+
+This package contains nefte, the ncurses version of the editor.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://efte.cowgar.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

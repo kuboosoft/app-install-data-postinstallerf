@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>device-mapper-multipath-libs</b>'
+Comment='<span size="xx-large">The device-mapper-multipath modules and shared library</span>'
+Comment3='
+The device-mapper-multipath-libs provides the path checker
+and prioritizer modules. It also contains the multipath shared library,
+libmultipath.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://christophe.varoqui.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

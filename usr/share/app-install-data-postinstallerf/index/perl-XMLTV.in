@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-XMLTV</b>'
+Comment='<span size="xx-large">Perl modules for managing your TV viewing</span>'
+Comment3='
+XMLTV is a set of utilities to manage your TV viewing. They work with
+TV listings stored in the XMLTV format, which is based on XML. The
+idea is to separate out the backend (getting the listings) from the
+frontend (displaying them for the user), and to implement useful
+operations like picking out your favourite programmes as filters that
+read and write XML documents.
+
+This package contains the perl modules from xmltv.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xmltv.org/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

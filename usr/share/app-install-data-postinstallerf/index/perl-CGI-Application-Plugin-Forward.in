@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Plugin-Forward</b>'
+Comment='<span size="xx-large">Pass control from one run mode to another in CGI::Application</span>'
+Comment3='
+This module gives CGIApplication a forward method that passes control
+to another run mode and returns its output. This is equivalent to calling
+$self->$other_runmode, except that CGIApplications internal value of
+the current run mode is updated.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Plugin-Forward/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

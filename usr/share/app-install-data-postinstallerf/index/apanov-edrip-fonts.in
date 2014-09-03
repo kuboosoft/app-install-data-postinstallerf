@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apanov-edrip-fonts</b>'
+Comment='<span size="xx-large">A decorative contrast sans-serif font</span>'
+Comment3='
+Edrip font is a contrast sans-serif font. It is based on the Teams font
+released on 2000 by TopTeam Co. Edrip contains symbols for basic Cyrillic and
+Latin alphabets.
+'
+License='OFL'
+Screenshot=''
+Url='http://code.google.com/p/edrip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>seivot</b>'
+Comment='<span size="xx-large">Benchmarking tool for backup programs</span>'
+Comment3='
+Seivot is a program for benchmarking backup software. It was written
+for developing Obnam, but it should be possible to adapt it to also
+support other on-disk backup solutions, such as rsync or rdiff-backup.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://liw.fi/seivot/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

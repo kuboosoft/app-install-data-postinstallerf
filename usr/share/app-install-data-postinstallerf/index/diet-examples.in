@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>diet-examples</b>'
+Comment='<span size="xx-large">Examples for diet</span>'
+Comment3='
+The diet-examples package contains samples applications
+that use diet.
+'
+License='CeCILL'
+Screenshot=''
+Url='http://graal.ens-lyon.fr/~diet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

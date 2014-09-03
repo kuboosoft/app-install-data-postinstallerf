@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-ky</b>'
+Comment='<span size="xx-large">Kirghiz hunspell dictionaries</span>'
+Comment3='
+Kirghiz hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://borel.slu.edu/crubadan/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

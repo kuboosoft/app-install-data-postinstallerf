@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-dvipsconfig</b>'
+Comment='<span size="xx-large">Collection of dvips PostScript headers</span>'
+Comment3='
+This is a collection of dvips PostScript header and dvips
+config files. They control certain features of the printer,
+including A4, A3, usletter, simplex, duplex / long edge,
+duplex / short edge, screen frequencies of images, black/white
+invers, select transparency / paper for tektronix 550/560,
+manual feeder, envelope feeder, and tray 1, 2 and 3, and
+useful for measuring and eliminating paper feed errors!
+
+date 2007-03-05 220245 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

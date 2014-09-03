@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n gpick
+Version=1.0
+Name=Gpick
+Comment=Color picker
+Comment[ru]=Пипетка для снятия цвета
+GenericName=Color picker
+Icon=/usr/share/app-install-data-postinstallerf/icons/gpick.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Graphics;GTK;

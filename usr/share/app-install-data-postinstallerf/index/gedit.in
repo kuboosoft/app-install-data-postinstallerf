@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gedit</b>'
+Comment='<span size="xx-large">Text editor for the GNOME desktop</span>'
+Comment3='
+gedit is a small, but powerful text editor designed specifically for
+the GNOME desktop. It has most standard text editor functions and fully
+supports international text in Unicode. Advanced features include syntax
+highlighting and automatic indentation of source code, printing and editing
+of multiple documents in one window.
+
+gedit is extensible through a plugin system, which currently includes
+support for spell checking, comparing files, viewing CVS ChangeLogs, and
+adjusting indentation levels. Further plugins can be found in the
+gedit-plugins package.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/gedit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

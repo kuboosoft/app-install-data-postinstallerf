@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>hunt</b>'
+Comment='<span size="xx-large">Tool for demonstrating well known weaknesses in the TCP/IP protocol suite</span>'
+Comment3='
+Hunt is a program for intruding into a connection, watching it and
+resetting it. It was inpired by products like Juggernaut or T-sight
+but has several features which can not be found in these products.
+
+Note that hunt is operating on Ethernet and is best used for connections
+which can be watched through it. However, it is possible to do something
+even for hosts on another segments. The hunt doesnt distinguish between
+local network connections and connections going to/from Internet. It can
+handle all connections it sees.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://lin.fsid.cvut.cz/~kra/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

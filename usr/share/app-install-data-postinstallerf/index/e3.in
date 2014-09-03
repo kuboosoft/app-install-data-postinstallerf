@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>e3</b>'
+Comment='<span size="xx-large">Text editor with key bindings similar to WordStar, Emacs, pico, nedit, or vi</span>'
+Comment3='
+e3 is a full-screen, user-friendly text editor with an key bindings similar to
+that of either WordStar, Emacs, pico, nedit, or vi.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://sites.google.com/site/e3editor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

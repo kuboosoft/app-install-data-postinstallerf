@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libXevie-devel</b>'
+Comment='<span size="xx-large">Development files for libXevie</span>'
+Comment3='
+libXevie development package.
+
+URL          http//www.x.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

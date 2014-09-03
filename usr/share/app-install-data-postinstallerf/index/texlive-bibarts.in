@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-bibarts</b>'
+Comment='<span size="xx-large">"Arts"-style bibliographical information</span>'
+Comment3='
+The bibarts package assists in making bibliographical lists in
+the way that is common in the arts; it requires an auxiliary
+program, for which source and a DOS executable are provided.
+(Documentation is in German, though bibarts.sty does contain a
+brief introduction in English, as a comment.)
+
+date 2006-12-29 131121 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

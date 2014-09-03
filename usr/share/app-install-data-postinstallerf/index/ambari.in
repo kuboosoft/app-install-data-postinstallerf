@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ambari</b>'
+Comment='<span size="xx-large">Apache Hadoop cluster management</span>'
+Comment3='
+The Apache Ambari project is aimed at making Hadoop management
+simpler by developing software for provisioning, managing, and
+monitoring Apache Hadoop clusters. Ambari provides an intuitive,
+easy-to-use Hadoop management web UI backed by its RESTful APIs.
+'
+License='ASL 2.0 and MS-PL and MIT'
+Screenshot=''
+Url='http://ambari.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

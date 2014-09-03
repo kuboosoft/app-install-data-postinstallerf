@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>holland-common</b>'
+Comment='<span size="xx-large">Common library functionality for Holland Plugins</span>'
+Comment3='
+Library for common functionality used by holland plugins
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hollandbackup.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

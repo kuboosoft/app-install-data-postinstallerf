@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>giada</b>'
+Comment='<span size="xx-large">An audio looping machine</span>'
+Comment3='
+giada is an audio looper or ALSA/JACK using the FLTK toolit.
+Load or record up to 32 samples, choose to play them in single mode
+(drum machine) or loop mode (sequencer) and start the show with your computer
+keyboard as a controller. Giada aims to be a compact and portable virtual
+device for Linux for production use and live sets.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.monocasual.com/giada'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

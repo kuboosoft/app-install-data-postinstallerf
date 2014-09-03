@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ganglia</b>'
+Comment='<span size="xx-large">Distributed Monitoring System</span>'
+Comment3='
+Ganglia is a scalable, real-time monitoring and execution environment
+with all execution requests and statistics expressed in an open
+well-defined XML format.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://ganglia.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

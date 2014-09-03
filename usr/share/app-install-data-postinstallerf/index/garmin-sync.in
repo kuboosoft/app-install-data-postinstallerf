@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>garmin-sync</b>'
+Comment='<span size="xx-large">Download data from Garmin fitness computers</span>'
+Comment3='
+garmin-sync allows you to download information from your Garmin Edge
+and Forerunner devices.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://bugs.launchpad.net/garmin-sync'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

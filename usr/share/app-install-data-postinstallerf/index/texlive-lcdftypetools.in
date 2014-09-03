@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-lcdftypetools</b>'
+Comment='<span size="xx-large">A bundle of outline font manipulation tools</span>'
+Comment3='
+This bundle of tools comprises - Cfftot1, which translates a
+Compact Font Format (CFF) font, or a PostScript-flavored
+OpenType font, into PostScript Type 1 format. It correctly
+handles subroutines and hints; - Mmafm and mmpfb, which create
+instances of multiple-master fonts (mmafm and mmpfb were
+previously distributed in their own package, mminstance); -
+Otfinfo, which reports information about OpenType fonts, such
+as the features they support and the contents of their size
+optical size features; - Otftotfm, which creates TeX font
+metrics and encodings that correspond to a PostScript-flavored
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

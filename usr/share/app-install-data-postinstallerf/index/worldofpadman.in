@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>worldofpadman</b>'
+Comment='<span size="xx-large">World Of Padman - Comic 3D-Shooter</span>'
+Comment3='
+World of Padman (WoP) is a first-person shooter computer game available in
+both English and German. The idea is based on the Padman comic strip for the
+magazine PlayStation Games created by the professional cartoon artist Andreas
+ENTE Endres, who is also the man who made many of the maps included with the
+game in 1998. Most of the maps in the game are lilliput style.
+
+World of Padman uses the GPL licensed ioquake3 engine, however the Wop data-
+files are not freely redistributable. This package will install a World of
+Padman menu entry, which will automatically download the necessary datafiles
+(900 MB!) the first time you start World of Padman.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://padworld.myexp.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

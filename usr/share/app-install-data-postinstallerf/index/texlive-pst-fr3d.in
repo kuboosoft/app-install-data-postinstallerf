@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-fr3d</b>'
+Comment='<span size="xx-large">Draw 3-dimensional framed boxes using PSTricks</span>'
+Comment3='
+A package using PSTricks to draw three dimensional framed boxes
+using a macro \PstFrameBoxThreeD. The macro is especially
+useful for drawing 3d-seeming buttons.
+
+date 2007-02-28 000721 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

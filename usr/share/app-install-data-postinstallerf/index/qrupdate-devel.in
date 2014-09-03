@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qrupdate-devel</b>'
+Comment='<span size="xx-large">Development libraries for qrupdate</span>'
+Comment3='
+This package contains the development libraries for qrupdate.
+
+URL          http//qrupdate.sourceforge.net/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://qrupdate.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

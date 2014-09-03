@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-AppTools-doc</b>'
+Comment='<span size="xx-large">Documentation for python-AppTools</span>'
+Comment3='
+Documentation and examples for python-AppTools.
+'
+License='BSD and LGPLv2+'
+Screenshot=''
+Url='http://code.enthought.com/projects/app_tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lcm-javadoc</b>'
+Comment='<span size="xx-large">Lightweight communications and marshaling java artifacts documentation</span>'
+Comment3='
+LCM is a library for message passing and data marshaling targeted at real time
+systems where high-bandwidth and low latency are critical.
+
+This package provides the java documentation.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/lcm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>portmidi-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use portmidi</span>'
+Comment3='
+PortMedia is a set of simple clean APIs and cross-platform library
+implementations for music and other media. PortMidi sub-project provides a
+real-time MIDI input/output library. This package contains the header files
+and the documentation of PortMidi libraries.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://portmedia.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

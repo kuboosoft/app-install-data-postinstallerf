@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>lemonpos</b>'
+Comment='<span size="xx-large">Point Of Sale Application For KDE4</span>'
+Comment3='
+Lemon is an open source POS (point of sale) for Linux, and other Unix.
+It is a general POS, not targeted to a specific business.
+
+It has been developed for ease of use and customization, and to support
+bar-code scanners and ticket printers. At this point, it has been tested
+with a parallel port ticket printer (Star Micronics, SP500).
+More information on
+http//www.lemonpos.org/
+http//sourceforge.net/apps/mediawiki/lemonpos/index.php?title=Main_Page
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.lemonpos.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

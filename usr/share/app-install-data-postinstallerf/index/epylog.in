@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>epylog</b>'
+Comment='<span size="xx-large">New logs analyzer and parser</span>'
+Comment3='
+Epylog is a new log notifier and parser which runs periodically out of
+cron, looks at your logs, processes the entries in order to present
+them in a more comprehensive format, and then provides you with the
+output. It is written specifically with large network clusters in mind
+where a lot of machines (around 50 and upwards) log to the same
+loghost using syslog or syslog-ng.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/epylog/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

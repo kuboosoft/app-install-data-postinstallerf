@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>derelict-freetype</b>'
+Comment='<span size="xx-large">Libraries to use freetype</span>'
+Comment3='
+Libraries for freetype to use in D programming language.
+
+URL          http//www.dsource.org/projects/
+'
+License='Boost'
+Screenshot=''
+Url='http://www.dsource.org/projects/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

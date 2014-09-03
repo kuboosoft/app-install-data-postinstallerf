@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>haproxy</b>'
+Comment='<span size="xx-large">HA-Proxy is a TCP/HTTP reverse proxy for high availability environments</span>'
+Comment3='
+HA-Proxy is a TCP/HTTP reverse proxy which is particularly suited for high
+availability environments. Indeed, it can
+- route HTTP requests depending on statically assigned cookies
+- spread the load among several servers while assuring server persistence
+  through the use of HTTP cookies
+- switch to backup servers in the event a main one fails
+- accept connections to special ports dedicated to service monitoring
+- stop accepting connections without breaking existing ones
+- add/modify/delete HTTP headers both ways
+- block requests matching a particular pattern
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://haproxy.1wt.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

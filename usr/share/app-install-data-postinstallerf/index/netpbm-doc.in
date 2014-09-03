@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>netpbm-doc</b>'
+Comment='<span size="xx-large">Documentation for tools manipulating graphics files in netpbm supported formats</span>'
+Comment3='
+The netpbm-doc package contains a documentation in HTML format for utilities
+present in netpbm-progs package.
+
+If you need to look into the HTML documentation, you should install
+netpbm-doc.  Youll also need to install the netpbm-progs package.
+'
+License='BSD and GPLv2 and IJG and MIT and Public Domain'
+Screenshot=''
+Url='http://netpbm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

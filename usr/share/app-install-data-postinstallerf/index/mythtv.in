@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mythtv</b>'
+Comment='<span size="xx-large">A digital video recorder (DVR) application</span>'
+Comment3='
+MythTV provides a unified graphical interface for recording and viewing
+television programs. Refer to the mythtv package for more information.
+
+There are also several add-ons and themes available. In order to facilitate
+installations with smart/apt-get/yum and other related package
+resolvers this meta-package can be used to install all in one sweep.
+MythTV implements the following DVR features, and more, with a
+unified graphical interface
+'
+License='GPLv2+ and LGPLv2+ and LGPLv2 and (GPLv2 or QPL) and (GPLv2+ or LGPLv2+)'
+Screenshot=''
+Url='http://www.mythtv.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dynalink</b>'
+Comment='<span size="xx-large">Dynamic Linker Framework for Languages on the JVM</span>'
+Comment3='
+Dynalink is an invoke-dynamic-based high-level linking and
+meta-object protocol library. It enables creation of
+languages on the JVM that can easily inter-operate with
+plain Java objects and each other.
+'
+License='ASL 2.0 or BSD'
+Screenshot=''
+Url='http://szegedi.github.com/dynalink/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

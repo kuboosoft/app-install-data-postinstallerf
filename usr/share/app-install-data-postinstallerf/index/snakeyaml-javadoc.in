@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>snakeyaml-javadoc</b>'
+Comment='<span size="xx-large">API documentation for snakeyaml</span>'
+Comment3='
+This package contains API documentation for snakeyaml.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/snakeyaml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>PySolFC-cardsets</b>'
+Comment='<span size="xx-large">Various cardsets for PySolFC</span>'
+Comment3='
+This package contains various cardsets for PySolFC.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pysolfc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>holland-pgdump</b>'
+Comment='<span size="xx-large">Holland Backup Provider for PostgreSQL</span>'
+Comment3='
+This plugin allows holland to backup PostgreSQL databases via the pg_dump command.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hollandbackup.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

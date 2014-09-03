@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>paprefs</b>'
+Comment='<span size="xx-large">Management tool for PulseAudio</span>'
+Comment3='
+PulseAudio Preferences (paprefs) is a simple GTK based configuration dialog
+for the PulseAudio sound server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://freedesktop.org/software/pulseaudio/paprefs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

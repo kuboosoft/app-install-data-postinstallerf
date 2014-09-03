@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opencore-amr-devel</b>'
+Comment='<span size="xx-large">Development files for opencore-amr</span>'
+Comment3='
+The opencore-amr-devel package contains libraries and header files for
+developing applications that use opencore-amr.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/opencore-amr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sabayon-apply</b>'
+Comment='<span size="xx-large">The parts of sabayon needed on the client systems</span>'
+Comment3='
+Sabayon is a tool to help sysadmins and user change and maintain the
+default behavior of the GNOME desktop. This package contains the files
+that need to be installed on the client systems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/projects/sabayon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

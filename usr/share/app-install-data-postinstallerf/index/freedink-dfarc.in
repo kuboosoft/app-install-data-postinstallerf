@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>freedink-dfarc</b>'
+Comment='<span size="xx-large">Frontend and .dmod installer for GNU FreeDink</span>'
+Comment3='
+DFArc makes it easy to play and manage the Dink Smallwood game and
+its numerous Dink Modules (or D-Mods).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/freedink/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

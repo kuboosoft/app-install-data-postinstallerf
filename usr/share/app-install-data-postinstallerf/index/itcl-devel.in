@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>itcl-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for linking against itcl</span>'
+Comment3='
+Development headers and libraries for linking against itcl.
+
+URL          http//incrtcl.sourceforge.net/itcl/
+'
+License='TCL'
+Screenshot=''
+Url='http://incrtcl.sourceforge.net/itcl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

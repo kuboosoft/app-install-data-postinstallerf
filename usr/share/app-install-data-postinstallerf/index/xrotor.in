@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xrotor</b>'
+Comment='<span size="xx-large">Design and analysis tools for propellers and windmills</span>'
+Comment3='
+XROTOR is an interactive program for the design and analysis of propellers
+and windmills. It includes
+ 1. Design of minimum induced loss rotor (propeller or windmill)
+ 2. Prompted input of an arbitrary rotor geometry
+ 3. Interactive modification of a rotor geometry
+and many others.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://web.mit.edu/drela/Public/web/xrotor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

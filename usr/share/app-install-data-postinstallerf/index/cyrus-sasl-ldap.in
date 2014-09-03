@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cyrus-sasl-ldap</b>'
+Comment='<span size="xx-large">LDAP auxprop support for Cyrus SASL</span>'
+Comment3='
+The cyrus-sasl-ldap package contains the Cyrus SASL plugin which supports using
+a directory server, accessed using LDAP, for storing shared secrets.
+
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://asg.web.cmu.edu/sasl/sasl-library.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tuxcmd</b>'
+Comment='<span size="xx-large">Tux Commander: file manager with 2 panels side by side using GTK2</span>'
+Comment3='
+Tux Commander is open-source file manager with 2 panels side by side written
+for GTK2. The main goal of this project is to create powerful user-friendly
+file manager for Linux. Functionality can be further extended by pluggable
+VFS (virtual file system) modules.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tuxcmd.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

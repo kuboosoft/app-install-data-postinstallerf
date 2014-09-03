@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xkeyboard-config</b>'
+Comment='<span size="xx-large">X Keyboard Extension configuration data</span>'
+Comment3='
+This package contains configuration data used by the X Keyboard Extension
+(XKB), which allows selection of keyboard layouts when using a graphical
+interface.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/XKeyboardConfig'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

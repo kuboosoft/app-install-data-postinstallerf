@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-haskell-src</b>'
+Comment='<span size="xx-large">Haskell haskell-src library</span>'
+Comment3='
+This package provides the Haskell haskell-src library.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/platform'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

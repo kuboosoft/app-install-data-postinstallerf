@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ncurses-base</b>'
+Comment='<span size="xx-large">Descriptions of common terminals</span>'
+Summary      Descriptions of common terminals
+Source       ncurses-5.9-12.20130511.fc20.src.rpm
+Comment3='
+This package contains descriptions of common terminals. Other terminal
+descriptions are included in the ncurses-term package.
+'
+License='MIT'
+Screenshot=''
+Url='http://invisible-island.net/ncurses/ncurses.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

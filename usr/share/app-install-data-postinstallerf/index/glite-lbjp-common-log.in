@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glite-lbjp-common-log</b>'
+Comment='<span size="xx-large">Definitions of glite common logging formats for LB and JP</span>'
+Comment3='
+Definitions of glite common logging formats for LB and JP.
+
+URL          http//glite.cern.ch
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>groonga-server-common</b>'
+Comment='<span size="xx-large">Common packages for the Groonga server and the Groonga HTTP server</span>'
+Comment3='
+This package provides common settings for server use
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://groonga.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

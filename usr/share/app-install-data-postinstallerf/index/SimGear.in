@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>SimGear</b>'
+Comment='<span size="xx-large">Simulation library components</span>'
+Comment3='
+SimGear is a set of open-source libraries designed to be used as building
+blocks for quickly assembling 3d simulations, games, and visualization
+applications.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://simgear.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

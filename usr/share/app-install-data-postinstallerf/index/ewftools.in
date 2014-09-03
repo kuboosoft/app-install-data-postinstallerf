@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ewftools</b>'
+Comment='<span size="xx-large">Utilities for the Expert Witness Compression Format (EWF)</span>'
+Comment3='
+Several tools for reading and writing EWF files.
+It contains tools to acquire, verify and export EWF files.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libewf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

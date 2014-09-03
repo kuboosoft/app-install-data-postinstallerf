@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-simple-sendfile</b>'
+Comment='<span size="xx-large">Cross-platform sendfile system call</span>'
+Comment3='
+A Haskell cross-platform library for the sendfile system call.
+This library tries to minimize system calls,
+since they are a bottleneck for web servers.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/simple-sendfile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

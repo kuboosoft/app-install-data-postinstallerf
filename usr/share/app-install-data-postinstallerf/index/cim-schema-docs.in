@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cim-schema-docs</b>'
+Comment='<span size="xx-large">Common Information Model (CIM) Schema documentation</span>'
+Comment3='
+Common Information Model (CIM) schema documentation.
+'
+License='DMTF'
+Screenshot=''
+Url='http://www.dmtf.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

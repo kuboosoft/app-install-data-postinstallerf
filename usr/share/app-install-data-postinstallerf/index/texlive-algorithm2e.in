@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-algorithm2e</b>'
+Comment='<span size="xx-large">Floating algorithm environment with algorithmic keywords</span>'
+Comment3='
+Algorithm2e is an environment for writing algorithms. An
+algorithm becomes a floating object (like figure, table, etc.).
+The package provides macros that allow you to create different
+keywords, and a set of predefined key words is provided; you
+can change the typography of the keywords. The package allows
+vertical lines delimiting a block of instructions in an
+algorithm, and defines different sorts of algorithms such as
+Procedure or Function; the name of these functions may be
+reused in the text or in other algorithms.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

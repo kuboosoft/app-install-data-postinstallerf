@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cube-java</b>'
+Comment='<span size="xx-large">CUBE reader for Java</span>'
+Comment3='
+The cube-java package contains a CUBE reader written in Java.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.scalasca.org/software/cube-4.x/download.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

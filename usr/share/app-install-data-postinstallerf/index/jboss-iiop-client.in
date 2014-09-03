@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jboss-iiop-client</b>'
+Comment='<span size="xx-large">JBoss IIOP Client</span>'
+Comment3='
+Client library for EJB applications working against JBoss AS using
+the IIOP protocol
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/jbossiiop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

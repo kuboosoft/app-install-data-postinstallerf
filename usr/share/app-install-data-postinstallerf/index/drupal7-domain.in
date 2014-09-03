@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>drupal7-domain</b>'
+Comment='<span size="xx-large">A domain-based access control system</span>'
+Comment3='
+The Domain Access project is a suite of modules that provide tools for running
+a group of affiliated sites from one Drupal installation and a single shared
+database. The module allows you to share users, content, and configurations
+across a group of sites such as
+* example.com
+* one.example.com
+* two.example.com
+* my.example.com
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/domain'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

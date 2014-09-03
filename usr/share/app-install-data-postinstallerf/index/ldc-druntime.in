@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ldc-druntime</b>'
+Comment='<span size="xx-large">Runtime library for D</span>'
+Comment3='
+Druntime is the minimum library required to support the D programming
+language. It includes the system code required to support the garbage
+collector, associative arrays, exception handling, array vector operations,
+startup/shutdown, etc.
+
+'
+License='Boost'
+Screenshot=''
+Url='https://github.com/ldc-developers/ldc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

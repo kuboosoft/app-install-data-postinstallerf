@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-pear-CodeGen-PECL</b>'
+Comment='<span size="xx-large">Tool to generate PECL extensions from an XML description</span>'
+Comment3='
+CodeGen_PECL (formerly known as PECL_Gen) is a pure PHP replacement for
+the ext_skel shell script that comes with the PHP 4 source. It reads in
+configuration options, function prototypes and code fragments from an
+XML description file and then generates a complete ready-to-compile PECL
+extension.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/CodeGen_PECL'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

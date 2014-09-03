@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-svg-path</b>'
+Comment='<span size="xx-large">SVG path objects and parser</span>'
+Comment3='
+svg.path is a collection of objects that implement the different path
+commands in SVG, and a parser for SVG path definitions.
+'
+License='CC0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/svg.path'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

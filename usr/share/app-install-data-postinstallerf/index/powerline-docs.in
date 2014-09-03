@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>powerline-docs</b>'
+Comment='<span size="xx-large">Powerline Documentation</span>'
+Comment3='
+This package provides the powerline documentation.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/Lokaltog/powerline'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

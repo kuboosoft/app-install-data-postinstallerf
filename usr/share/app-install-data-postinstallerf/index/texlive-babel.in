@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-babel</b>'
+Comment='<span size="xx-large">Multilingual support for Plain TeX or LaTeX</span>'
+Comment3='
+The package manages culturally-determined typographical (and
+other) rules, and hyphenation patterns for a wide range of
+languages. A document may select a single language to be
+supported, or it may select several, in which case the document
+may switch from one language to another in a variety of ways.
+Babel uses contributed configuration files that provide the
+detail of what has to be done for each language. Users of XeTeX
+are advised to use polyglossia rather than Babel.
+
+date 2013-12-03 185906 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

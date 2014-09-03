@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freeradius-mysql</b>'
+Comment='<span size="xx-large">MySQL support for freeradius</span>'
+Comment3='
+This plugin provides the MySQL support for the FreeRADIUS server project.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.freeradius.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

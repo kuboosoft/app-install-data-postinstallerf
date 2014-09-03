@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-pydns</b>'
+Comment3='
+This is a another release of the pydns code, as originally written by
+Guido van Rossum, and with a hopefully nicer API bolted over the
+top of it by Anthony Baxter <anthony@interlink.com.au>.
+
+This package contains a module (dnslib) that implements a DNS
+symbolic constants used by DNS (dnstype, dnsclass, dnsopcode).
+'
+License='Python'
+Screenshot=''
+Url='http://pydns.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

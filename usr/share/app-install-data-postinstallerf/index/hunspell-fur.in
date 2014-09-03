@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-fur</b>'
+Comment='<span size="xx-large">Friulian hunspell dictionaries</span>'
+Comment3='
+Friulian hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://digilander.libero.it/paganf/coretors/dizionaris.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

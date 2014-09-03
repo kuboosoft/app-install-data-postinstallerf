@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Perl6-Slurp</b>'
+Comment='<span size="xx-large">Implemention of the Perl 6 slurp built-in</span>'
+Comment3='
+slurp takes
+
+a filename,
+a filehandle,
+a typeglob reference,
+an IOFile object, or
+a scalar reference,
+converts it to an input stream (using open() if necessary),
+and reads in the entire stream. If slurp fails to set up or
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl6-Slurp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

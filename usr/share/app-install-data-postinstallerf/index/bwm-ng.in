@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bwm-ng</b>'
+Comment='<span size="xx-large">Bandwidth Monitor NG</span>'
+Comment3='
+A small and simple console-based live network and disk io bandwidth monitor.
+
+Features
+- Supports /proc/net/dev, netstat, getifaddr, sysctl, kstat, /proc/diskstats
+/proc/partitions, IOKit, devstat and libstatgrab
+- Unlimited number of interfaces/devices supported
+- Interfaces/devices are added or removed dynamically from list
+- White-/blacklist of interfaces/devices
+- Output of KB/s, Kb/s, packets, errors, average, max and total sum
+- Output in curses, plain console, CSV or HTML
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.volker-gropp.de/?id=projects&sub=bwm-ng'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

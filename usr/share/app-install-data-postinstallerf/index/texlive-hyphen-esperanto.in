@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-esperanto</b>'
+Comment='<span size="xx-large">Esperanto hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Esperanto ISO Latin 3 and UTF-8
+encodings. Note that TeX distributions dont ship any suitable
+fonts in Latin 3 encoding, so unless you create your own font
+support or want to use MlTeX, using native Unicode engines is
+highly recommended.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

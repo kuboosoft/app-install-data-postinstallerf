@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lmfit</b>'
+Comment='<span size="xx-large">Levenberg-Marquardt least-squares minimization and curve fitting</span>'
+Comment3='
+C/C++ library for Levenberg-Marquardt least-squares minimization and curve
+fitting
+
+'
+License='BSD and CC-BY'
+Screenshot=''
+Url='http://apps.jcns.fz-juelich.de/doku/sc/lmfit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

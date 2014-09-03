@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pylast</b>'
+Comment='<span size="xx-large">A Python interface to Last.fm API compatible social networks</span>'
+Comment3='
+A Python interface to Last.fm (and other API compatible social networks)
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/pylast'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

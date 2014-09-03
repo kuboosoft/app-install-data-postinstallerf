@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jericho-html-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jericho-html</span>'
+Comment3='
+This package contains the API documentation for jericho-html.
+'
+License='EPL or LGPLv2+'
+Screenshot=''
+Url='http://jericho.htmlparser.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

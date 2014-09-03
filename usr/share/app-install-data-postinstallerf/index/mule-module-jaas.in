@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mule-module-jaas</b>'
+Comment='<span size="xx-large">Jaas Authentication providers for mule</span>'
+Comment3='
+Mule Jaas Support exposes Jaas Authentication providers and Method
+interceptors to authentication event traffic via endpoints.
+'
+License='CPAL'
+Screenshot=''
+Url='http://www.mulesoft.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

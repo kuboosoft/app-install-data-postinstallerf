@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-get</b>'
+Comment='<span size="xx-large">A slightly higher-level HTTP client for node</span>'
+Comment3='
+A slightly higher-level HTTP client for node
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/developmentseed/node-get'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

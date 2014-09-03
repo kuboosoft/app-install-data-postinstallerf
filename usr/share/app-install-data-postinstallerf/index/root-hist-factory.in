@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>root-hist-factory</b>'
+Comment='<span size="xx-large">RooFit PDFs from ROOT histograms</span>'
+Comment3='
+Create RooFit probability density functions from ROOT histograms.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

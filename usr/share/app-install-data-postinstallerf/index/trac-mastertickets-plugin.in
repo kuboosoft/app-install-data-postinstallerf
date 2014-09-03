@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>trac-mastertickets-plugin</b>'
+Comment='<span size="xx-large">Add support for ticket dependencies to Trac</span>'
+Comment3='
+This plugin adds "blocks" and "blocked by" fields to each ticket, enabling
+you to express dependencies between tickets. It also provides a
+graphviz-based dependency-graph feature for those tickets having
+dependencies specified, allowing you to visually understand the
+dependency tree. The dependency graph is viewable by clicking depgraph in
+the context (in the upper right corner) menu when viewing a ticket that
+blocks or is blocked by another ticket.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/MasterTicketsPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

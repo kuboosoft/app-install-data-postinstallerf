@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-vancouver</b>'
+Comment='<span size="xx-large">Bibliographic style file for Biomedical Journals</span>'
+Comment3='
+This BibTeX style file is generated with the docstrip utility
+and modified manually to meet the Uniform Requirements for
+Manuscripts Submitted to Biomedical Journals as published in N
+Engl J Med 1997;336309-315 (also known as the Vancouver
+style). The complete set of requirements may be viewed on the
+ICMJE web site.
+
+date 2012-02-27 002115 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

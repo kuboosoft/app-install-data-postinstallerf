@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>rngom</b>'
+Comment='<span size="xx-large">Java library for parsing RELAX NG grammars</span>'
+Comment3='
+RNGOM is an open-source Java library for parsing RELAX NG grammars.
+
+In particular, RNGOM can
+* parse the XML syntax
+* parse the compact syntax
+* check all the semantic restrictions as specified in the specification
+* parse RELAX NG into application-defined data structures
+* build a default data structure based around the binarized simple syntax or
+  another data structure that preserves more of the parsed information
+* parse foreign elements/attributes in a schema
+'
+License='MIT'
+Screenshot=''
+Url='https://rngom.dev.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

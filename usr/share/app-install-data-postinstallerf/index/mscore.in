@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mscore</b>'
+Comment='<span size="xx-large">Music Composition & Notation Software</span>'
+Comment3='
+MuseScore is a free cross platform WYSIWYG music notation program. Some
+highlights
+
+    * WYSIWYG, notes are entered on a "virtual note sheet"
+    * Unlimited number of staves
+    * Up to four voices per staff
+    * Easy and fast note entry with mouse, keyboard or MIDI
+    * Integrated sequencer and FluidSynth software synthesizer
+    * Import and export of MusicXML and Standard MIDI Files (SMF)
+    * Translated in 26 languages
+'
+License='GPLv2 and LGPLv2+ and LGPLv3 and CC-BY'
+Screenshot=''
+Url='http://musescore.org/en'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

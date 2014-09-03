@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-pst-3dplot</b>'
+Comment='<span size="xx-large">Draw 3D objects in parallel projection, using PSTricks</span>'
+Comment3='
+A package using PSTricks to draw a large variety of graphs and
+plots, including 3D maths functions. Data can be read from
+external data files, making this package a generic tool for
+graphing within TeX/LaTeX, without the need for external tools.
+
+date 2012-06-07 143618 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

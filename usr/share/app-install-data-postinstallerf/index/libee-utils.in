@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libee-utils</b>'
+Comment='<span size="xx-large">Optional utilities like libee-convert</span>'
+Comment3='
+The libee-convert utility provided by event expression library.
+'
+License='LGPLv2+ and MIT and GPL+'
+Screenshot=''
+Url='http://www.libee.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

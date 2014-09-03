@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-fnumprint</b>'
+Comment='<span size="xx-large">Print a number in appropriate format</span>'
+Comment3='
+The package defines two macros which decide to typeset a number
+either as an Arabic number or as a word (or words) for the
+number. If the number is between zero and twelve (including
+zero and twelve) then words will be used; if the number is
+outside that range, it will be typeset using the package
+numprint Words for English representation of numbers are
+generated within the package, while those for German are
+generated using the package zahl2string.
+
+date 2013-02-19 092917 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

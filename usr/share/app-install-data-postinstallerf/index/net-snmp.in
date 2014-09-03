@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>net-snmp</b>'
+Comment='<span size="xx-large">A collection of SNMP protocol tools and libraries</span>'
+Comment3='
+SNMP (Simple Network Management Protocol) is a protocol used for
+network management. The NET-SNMP project includes various SNMP tools
+an extensible agent, an SNMP library, tools for requesting or setting
+information from SNMP agents, tools for generating and handling SNMP
+traps, a version of the netstat command which uses SNMP, and a Tk/Perl
+mib browser. This package contains the snmpd and snmptrapd daemons,
+documentation, etc.
+
+You will probably also want to install the net-snmp-utils package,
+which contains NET-SNMP utilities.
+'
+License='BSD'
+Screenshot=''
+Url='http://net-snmp.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

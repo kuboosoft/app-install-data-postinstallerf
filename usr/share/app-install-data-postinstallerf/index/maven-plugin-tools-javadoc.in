@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>maven-plugin-tools-javadoc</b>'
+Comment='<span size="xx-large">Maven Plugin Tools Javadoc</span>'
+Comment3='
+The Maven Plugin Tools Javadoc provides several Javadoc taglets to be used when
+generating Javadoc.
+
+Java API documentation for maven-plugin-tools is contained in
+maven-plugin-tools-javadocs package. This package does not contain it.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugin-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

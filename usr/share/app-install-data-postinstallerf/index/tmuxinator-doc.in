@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tmuxinator-doc</b>'
+Comment='<span size="xx-large">Documentation for tmuxinator</span>'
+Comment3='
+Documentation for tmuxinator.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/aziz/tmuxinator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

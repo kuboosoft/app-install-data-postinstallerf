@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>teamd-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for teamd development</span>'
+Comment3='
+The teamd-devel package contains the header files and libraries
+necessary for developing programs using libteamdctl.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.libteam.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

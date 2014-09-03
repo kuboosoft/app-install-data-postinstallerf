@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-fp</b>'
+Comment='<span size="xx-large">Fixed point arithmetic</span>'
+Comment3='
+An extensive collection of arithmetic operations for fixed
+point real numbers of high precision.
+
+date 2009-09-26 114336 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

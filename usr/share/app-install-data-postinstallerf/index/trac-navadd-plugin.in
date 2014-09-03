@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>trac-navadd-plugin</b>'
+Comment='<span size="xx-large">Allows the addition of custom items</span>'
+Comment3='
+A trac plugin that should allow you to add custom items ("buttons")
+to both the main and the meta navigation bar.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/NavAddPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

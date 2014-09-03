@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>syncevolution-gtk</b>'
+Comment='<span size="xx-large">GTK+ GUI for syncevolution</span>'
+Comment3='
+GTK+ GUI for use with syncevolution.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://syncevolution.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

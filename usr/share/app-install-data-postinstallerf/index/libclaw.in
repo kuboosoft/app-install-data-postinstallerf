@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libclaw</b>'
+Comment='<span size="xx-large">C++ Library of various utility functions</span>'
+Comment3='
+Claw (C++ Library Absolutely Wonderful) is a C++ library of various utility
+functions. In doesnt have a particular objective but being useful to
+anyone.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://libclaw.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

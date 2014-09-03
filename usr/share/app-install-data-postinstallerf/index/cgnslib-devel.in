@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cgnslib-devel</b>'
+Comment='<span size="xx-large">Header files for cgnslib package</span>'
+Comment3='
+The cgnslib-devel package contains the header files
+for cgnslib package.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://www.cgns.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

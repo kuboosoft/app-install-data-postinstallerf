@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pesign</b>'
+Comment='<span size="xx-large">Signing utility for UEFI binaries</span>'
+Comment3='
+This package contains the pesign utility for signing UEFI binaries as
+well as other associated tools.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/vathpela/pesign'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

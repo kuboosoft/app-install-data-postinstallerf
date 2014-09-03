@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>opendbx</b>'
+Comment='<span size="xx-large">Lightweight but extensible database access library written in C</span>'
+Comment3='
+Provides an abstraction layer to all supported databases with a single, clean
+and simple interface that leads to an elegant code design automatically.
+If you want your application to support different databases with little effort,
+this is definitively the right thing for you!
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linuxnetworks.de/doc/index.php/OpenDBX'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

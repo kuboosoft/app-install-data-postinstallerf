@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>metadata-extractor-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for metadata-extractor</span>'
+Comment3='
+This package contains the API documentation for metadata-extractor.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.drewnoakes.com/code/exif/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

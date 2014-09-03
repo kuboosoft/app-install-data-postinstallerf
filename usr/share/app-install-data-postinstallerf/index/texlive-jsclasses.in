@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-jsclasses</b>'
+Comment='<span size="xx-large">Classes tailored for use with Japanese</span>'
+Comment3='
+Classes jsarticle and jsbook are provided, together with
+packages okumacro, okuverb and morisawa. These classes are
+designed to work under ASCII Corporations Japanese TeX system
+ptex.
+
+date 2013-05-27 135330 +0200
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

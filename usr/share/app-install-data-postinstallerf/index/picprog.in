@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>picprog</b>'
+Comment='<span size="xx-large">Microchip PIC serial programmer software</span>'
+Comment3='
+Picprog is a simple program for burning programs to various
+Microchip PIC microcontrollers via several types of serial port
+programmers.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.iki.fi/hyvatti/pic/picprog.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

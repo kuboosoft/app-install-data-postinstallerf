@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-cinder</b>'
+Comment='<span size="xx-large">OpenStack Volume Python libraries</span>'
+Comment3='
+OpenStack Volume (codename Cinder) provides services to manage and
+access block storage volumes for use by Virtual Machine instances.
+
+This package contains the cinder Python library.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openstack.org/software/openstack-storage/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

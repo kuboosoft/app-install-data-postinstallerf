@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>fedora-upgrade</b>'
+Comment='<span size="xx-large">Upgrade Fedora to next version using yum upgrade (unofficial tool)</span>'
+Comment3='
+Upgrade Fedora to next version using yum upgrade.
+This is attempt to automatize steps as listed here
+https//fedoraproject.org/wiki/Upgrading_Fedora_using_yum
+
+This is an unofficial tool, for official Fedora-supported
+upgrades please see the fedup tool.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/xsuchy/fedora-upgrade'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

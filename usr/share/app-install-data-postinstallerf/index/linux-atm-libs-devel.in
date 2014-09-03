@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>linux-atm-libs-devel</b>'
+Comment='<span size="xx-large">Development files for Linux ATM API library</span>'
+Comment3='
+This package contains header files and libraries for development using the
+Linux ATM API.
+
+'
+License='BSD and GPLv2 and GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://linux-atm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

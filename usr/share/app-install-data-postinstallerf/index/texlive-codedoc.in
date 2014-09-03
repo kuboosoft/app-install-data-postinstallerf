@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-codedoc</b>'
+Comment='<span size="xx-large">LaTeX code and documentation in LaTeX-format file</span>'
+Comment3='
+The CodeDoc class is an alternative to DocStrip (and others) to
+produce LaTeX code along with its documentation without
+departing from LaTeXs ordinary syntax. The documentation is
+prepared like any other LaTeX document and the code to be
+commented verbatim is simply delimited by an environment. When
+an option is turned on in the class options, this code is
+written to the desired file(s). The class also includes fully
+customizable verbatim environments which provide the author
+with separate commands to typeset the material and/or to
+execute it.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

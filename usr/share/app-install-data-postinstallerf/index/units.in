@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>units</b>'
+Comment='<span size="xx-large">A utility for converting amounts from one unit to another</span>'
+Comment3='
+Units converts an amount from one unit to another, or tells you what
+mathematical operation you need to perform to convert from one unit to
+another. The units program can handle multiplicative scale changes as
+well as conversions such as Fahrenheit to Celsius.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/units/units.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

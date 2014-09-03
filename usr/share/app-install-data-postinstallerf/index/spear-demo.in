@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spear-demo</b>'
+Comment='<span size="xx-large">Spear of Destiny Demo</span>'
+Comment3='
+This package contains the demo of id Softwares first-person shooter
+Wolfenstein 3D Spear of Destiny.
+'
+License='Distributable'
+Screenshot=''
+Url='http://www.idsoftware.com/games/wolfenstein/spear/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

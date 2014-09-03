@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libUnihan-doc</b>'
+Comment='<span size="xx-large">The libUnihan C API documents in Doxygen style</span>'
+Comment3='
+The libUnihan C API documents in Doxygen style.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libunihan'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

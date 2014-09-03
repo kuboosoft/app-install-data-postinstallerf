@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-tdclock</b>'
+Comment='<span size="xx-large">A ticking digital clock package for PDF output</span>'
+Comment3='
+A ticking digital clock package to be used in Pdf-LaTeX
+documents, for example in presentations.
+
+date 2009-06-23 130636 +0200
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

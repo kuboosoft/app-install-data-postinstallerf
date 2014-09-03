@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>makebootfat</b>'
+Comment='<span size="xx-large">Utility for creation bootable FAT disk</span>'
+Comment3='
+This utility creates a bootable FAT filesystem and populates it
+with files and boot tools.
+
+It was mainly designed to create bootable USB and Fixed disk
+for the AdvanceCD project (http//advancemame.sourceforge.net), but
+can be successfully used separately for any purposes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://advancemame.sourceforge.net/doc-makebootfat.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

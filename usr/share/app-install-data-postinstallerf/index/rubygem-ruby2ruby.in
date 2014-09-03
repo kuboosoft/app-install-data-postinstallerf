@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-ruby2ruby</b>'
+Comment='<span size="xx-large">Generate pure ruby from RubyParser compatible Sexps</span>'
+Comment3='
+ruby2ruby provides a means of generating pure ruby code easily from
+RubyParser compatible Sexps. This makes making dynamic language
+processors in ruby easier than ever!
+'
+License='MIT'
+Screenshot=''
+Url='http://seattlerb.rubyforge.org/ruby2ruby/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

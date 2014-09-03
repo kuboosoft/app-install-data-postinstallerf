@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>proxool-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for proxool</span>'
+Comment3='
+This package contains the API documentation for proxool.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://proxool.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

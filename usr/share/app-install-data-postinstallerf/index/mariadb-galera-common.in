@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mariadb-galera-common</b>'
+Comment='<span size="xx-large">The shared files required for MariaDB server and client</span>'
+Comment3='
+This package provides the essential shared files for other MariaDB packages.
+'
+License='GPLv2 with exceptions and LGPLv2 and BSD'
+Screenshot=''
+Url='http://mariadb.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

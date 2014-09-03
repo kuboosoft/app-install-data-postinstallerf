@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>hddtemp</b>'
+Comment='<span size="xx-large">Hard disk temperature tool</span>'
+Comment3='
+hddtemp is a tool that gives you the temperature of your hard drive by
+reading S.M.A.R.T. information.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/hddtemp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libechonest</b>'
+Comment='<span size="xx-large">C++ wrapper for the Echo Nest API</span>'
+Comment3='
+libechonest is a collection of C++/Qt classes designed to make a developers
+life easy when trying to use the APIs provided by The Echo Nest.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/libs/libechonest'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

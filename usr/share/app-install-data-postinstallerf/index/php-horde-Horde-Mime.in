@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Mime</b>'
+Comment='<span size="xx-large">Horde MIME Library</span>'
+Comment3='
+Provides methods for dealing with MIME (RFC 2045) and related e-mail (RFC
+822/2822/5322) standards.
+'
+License='LGPLv2 and BSD'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openjpeg2-devel-docs</b>'
+Comment='<span size="xx-large">Developer documentation for OpenJPEG 2</span>'
+Comment3='
+The openjpeg2-devel-docs package contains documentation files for developing
+applications that use OpenJPEG 2.
+'
+License='BSD and MIT'
+Screenshot=''
+Url='http://www.openjpeg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

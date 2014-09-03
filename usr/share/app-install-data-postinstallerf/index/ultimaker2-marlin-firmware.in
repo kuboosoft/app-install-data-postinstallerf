@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ultimaker2-marlin-firmware</b>'
+Comment='<span size="xx-large">Ultimaker2 firmware for the 3D printer</span>'
+Comment3='
+Ultimaker2 firmware for the 3D printer.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/Ultimaker/SecretMarlin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

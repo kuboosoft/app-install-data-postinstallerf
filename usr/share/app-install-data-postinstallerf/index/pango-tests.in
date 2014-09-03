@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pango-tests</b>'
+Comment='<span size="xx-large">Tests for the pango package</span>'
+Comment3='
+The pango-tests package contains tests that can be used to verify
+the functionality of the installed pango package.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pango.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

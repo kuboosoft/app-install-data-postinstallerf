@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-jax-rs-api</b>'
+Comment='<span size="xx-large">JAX-RS API Specification (JSR 339)</span>'
+Comment3='
+JAX-RS Java API for RESTful Web Services (JSR 339).
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://jax-rs-spec.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

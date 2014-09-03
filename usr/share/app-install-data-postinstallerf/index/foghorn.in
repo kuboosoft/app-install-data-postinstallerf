@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>foghorn</b>'
+Comment='<span size="xx-large">D-Bus to SNMP service.</span>'
+Comment3='
+Daemon that listens for D-Bus signals and translates to SNMP traps.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/foghorn.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dpkg-devel</b>'
+Comment='<span size="xx-large">Debian package management static library</span>'
+Comment3='
+This package provides the header files and static library necessary to
+develop software using dpkg, the same library used internally by dpkg.
+
+Note though, that the API is to be considered volatile, and might change
+at any time, use at your own risk.
+'
+License='GPLv2 and GPLv2+ and LGPLv2+ and Public Domain and BSD'
+Screenshot=''
+Url='http://packages.debian.org/unstable/admin/dpkg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

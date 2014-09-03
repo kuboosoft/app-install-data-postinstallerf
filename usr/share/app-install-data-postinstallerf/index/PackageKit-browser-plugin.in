@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PackageKit-browser-plugin</b>'
+Comment='<span size="xx-large">Browser Plugin for PackageKit</span>'
+Comment3='
+The PackageKit browser plugin allows web sites to offer the ability to
+users to install and update packages from configured repositories
+using PackageKit.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

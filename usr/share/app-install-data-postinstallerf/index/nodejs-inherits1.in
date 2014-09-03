@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nodejs-inherits1</b>'
+Comment='<span size="xx-large">A tiny simple way to do classic inheritance in JS - legacy version</span>'
+Comment3='
+A tiny simple way to do classic inheritance in JavaScript.
+
+This is the legacy version used by many Node.js modules for many years, and is
+retained for backward compatibility.  New modules should use the inheritance
+functionality available in core Node.js or use the new version of inherits if
+they need browser support as well.
+'
+License='WTFPL'
+Screenshot=''
+Url='https://github.com/isaacs/inherits'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

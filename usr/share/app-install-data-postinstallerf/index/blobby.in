@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>blobby</b>'
+Comment='<span size="xx-large">Volley-ball game</span>'
+Comment3='
+Blobby Volley is one of the most popular freeware games.
+Blobby Volley 2 is the continuation of this lovely game.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://blobby.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

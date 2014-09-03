@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-rkerberos</b>'
+Comment='<span size="xx-large">A Ruby interface for the the Kerberos library</span>'
+Comment3='
+The rkerberos library is an interface for the Kerberos 5 network
+authentication protocol. It wraps the Kerberos C API.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://github.com/domcleal/rkerberos'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

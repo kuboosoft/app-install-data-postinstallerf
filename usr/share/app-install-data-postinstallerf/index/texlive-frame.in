@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-frame</b>'
+Comment='<span size="xx-large">Framed boxes for Plain TeX</span>'
+Comment3='
+A jiffy file (taken from fancybox) for placing a frame around a
+box of text. The macros also provide for typesetting an empty
+box of given dimensions.
+
+date 2010-06-06 135032 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

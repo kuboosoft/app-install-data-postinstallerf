@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Mail-Sendmail</b>'
+Comment='<span size="xx-large">Simple platform independent mailer for Perl</span>'
+Comment3='
+MailSendmail is a simple platform independent library for sending
+e-mail from your perl script.  It only requires Perl 5 and a network
+connection.  MailSendmail contains mainly &sendmail, which takes a
+hash with the message to send and sends it. It is intended to be very
+easy to setup and use.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://search.cpan.org/dist/Mail-Sendmail/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lorem-ipsum-generator</b>'
+Comment='<span size="xx-large">Generates random lorem ipsum text</span>'
+Comment3='
+Lorem Ipsum Generator provides a GTK+ graphical user interface, a command-line
+interface, and a Python module that generate random "lorem ipsum" text. The
+Lorem Ipsum Generator can produce a given quantity of paragraphs or sentences
+of "lorem ipsum" text. "Lorem ipsum" text is also known as "lipsum" text.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/lorem-ipsum-generator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

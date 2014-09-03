@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nss-softokn-freebl</b>'
+Comment='<span size="xx-large">Freebl library for the Network Security Services</span>'
+Comment3='
+NSS Softoken Cryptographic Module Freebl Library
+
+Install the nss-softokn-freebl package if you need the freebl
+library.
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.mozilla.org/projects/security/pki/nss/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

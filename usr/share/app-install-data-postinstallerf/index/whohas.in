@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>whohas</b>'
+Comment='<span size="xx-large">Command line tool for query package lists</span>'
+Comment3='
+whohas is a command line tool that allows querying several package
+lists at once - currently supported are Arch, Debian, Gentoo and
+Slackware. whohas is written in Perl and was designed to help
+package maintainers find ebuilds, pkgbuilds and similar package
+definitions from other distributions to learn from.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.philippwesche.org/200811/whohas/intro.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

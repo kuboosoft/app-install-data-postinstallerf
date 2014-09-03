@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pards-devel</b>'
+Comment='<span size="xx-large">A library for PARallel programs with Dataflow Synchronization</span>'
+Comment3='
+This package contains static libraries documents and header files needed
+to develop programs which make use of pards library.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://pards.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

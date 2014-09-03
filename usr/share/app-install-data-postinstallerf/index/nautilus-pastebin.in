@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nautilus-pastebin</b>'
+Comment='<span size="xx-large">Nautilus extension to send files to a pastebin</span>'
+Comment3='
+A Nautilus extension written in Python, which allows users to
+upload text-only files to a pastebin service just by
+right-clicking on them. Users can also add their favorite service
+just by creating new presets.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://launchpad.net/nautilus-pastebin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

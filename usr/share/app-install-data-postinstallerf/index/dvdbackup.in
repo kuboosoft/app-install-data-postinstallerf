@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dvdbackup</b>'
+Comment='<span size="xx-large">Command line tool for ripping video DVDs</span>'
+Comment3='
+dvdbackup is a tool to rip video DVDs from the command line. It has
+the advantages of being small, fast, and easy to use.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://dvdbackup.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

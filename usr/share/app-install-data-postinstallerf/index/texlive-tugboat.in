@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-tugboat</b>'
+Comment='<span size="xx-large">LaTeX macros for TUGboat articles</span>'
+Comment3='
+Provides ltugboat.cls for both regular and proceedings issues
+of the TUGboat journal. The distribution also includes a BibTeX
+style appropriate for use with the classes "harvard" option.
+
+date 2013-12-23 225028 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

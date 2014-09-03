@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>myrulib</b>'
+Comment='<span size="xx-large">E-Book Library Manager</span>'
+Comment3='
+MyRuLib is an application for organizing your own collection of e-books.
+This package includes built-in CoolReader3 engine.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://myrulib.lintest.ru'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

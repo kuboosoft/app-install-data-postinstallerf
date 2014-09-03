@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-fontinst</b>'
+Comment='<span size="xx-large">Help with installing fonts for TeX and LaTeX</span>'
+Comment3='
+TeX macros for converting Adobe Font Metric files to TeX metric
+and virtual font format. Fontinst helps mainly with the number
+crunching and shovelling parts of font installation. This means
+in practice that it creates a number of files which give the
+TeX metrics (and related information) for a font family that
+(La)TeX needs to do any typesetting in these fonts. Fontinst
+furthermore makes it easy to create fonts containing glyphs
+from more than one base font, taking advantage of (e.g.)
+"expert" font sets. Fontinst cannot examine files to see if
+they contain any useful information, nor automatically search
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

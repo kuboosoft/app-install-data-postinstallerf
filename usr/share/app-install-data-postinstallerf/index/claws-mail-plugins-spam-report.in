@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>claws-mail-plugins-spam-report</b>'
+Comment='<span size="xx-large">Report spam mail to various places with Claws Mail</span>'
+Comment3='
+This plugin for Claws Mail can report spam mail to various places.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://claws-mail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kactivities</b>'
+Comment='<span size="xx-large">API for using and interacting with Activities</span>'
+Comment3='
+API for using and interacting with Activities as a consumer,
+application adding information to them or as an activity manager.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdelibs/kactivities'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

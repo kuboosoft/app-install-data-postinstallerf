@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-CPAN-Perl-Releases</b>'
+Comment='<span size="xx-large">Mapping Perl releases on CPAN to the location of the tarballs</span>'
+Comment3='
+CPANPerlReleases is a module that contains the mappings of all perl
+releases that have been uploaded to CPAN to the authors/id/ path that the
+tarballs reside in.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPAN-Perl-Releases/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

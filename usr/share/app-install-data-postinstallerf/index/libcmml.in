@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libcmml</b>'
+Comment='<span size="xx-large">Library for handling Continuous Media Markup Language</span>'
+Comment3='
+Libcmml is a library which enables the handling of documents
+written in CMML (Continuous Media Markup Language) for the
+Continuous Media Web (CMWeb).
+
+It provides a very simple API for reading files marked up with the
+Continuous Media Markup Language (CMML), and returns C structures
+containing this information in a format which can be used by an
+Annodexer for creating ANNODEX(tm) format documents (ANX).
+'
+License='BSD'
+Screenshot=''
+Url='http://www.annodex.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

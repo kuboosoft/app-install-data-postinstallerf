@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>qca-pkcs11</b>'
+Comment='<span size="xx-large">Smartcard integration for QCA</span>'
+Comment3='
+qca-pkcs11 enables QCA smartcard integration.
+The following features are supported
+ - Multiple providers.
+ - Multiple tokens.
+ - Private key signature and decryption.
+ - Keystore objects serialization.
+ - Keystore update notifications.
+ - Asker integration for token and PIN.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://delta.affinix.com/qca/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

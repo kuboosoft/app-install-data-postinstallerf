@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>color-filesystem</b>'
+Comment='<span size="xx-large">Color filesystem layout</span>'
+Comment3='
+This package provides some directories that are required/used to store color.
+'
+License='Public Domain'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

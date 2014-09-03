@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>collectd-nut</b>'
+Comment='<span size="xx-large">Network UPS Tools plugin for collectd</span>'
+Comment3='
+This plugin for collectd provides Network UPS Tools support.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

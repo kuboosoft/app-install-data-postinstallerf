@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcap</b>'
+Comment='<span size="xx-large">Library for getting and setting POSIX.1e capabilities</span>'
+Comment3='
+libcap is a library for getting and setting POSIX.1e (formerly POSIX 6)
+draft 15 capabilities.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ftp.kernel.org/pub/linux/libs/security/linux-privs/kernel-2.6/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

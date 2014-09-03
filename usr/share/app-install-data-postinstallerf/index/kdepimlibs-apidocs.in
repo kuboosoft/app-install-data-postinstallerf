@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kdepimlibs-apidocs</b>'
+Comment='<span size="xx-large">kdepimlibs API documentation</span>'
+Comment3='
+This package includes the kdepimlibs API documentation in HTML
+format for easy browsing.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Hash-WithDefaults</b>'
+Comment='<span size="xx-large">Class for hashes with key-casing requirements supporting defaults</span>'
+Comment3='
+This module implements hashes that support "defaults". That is you may
+specify several more hashes in which the data will be looked up in case it
+is not found in the current hash.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Hash-WithDefaults/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

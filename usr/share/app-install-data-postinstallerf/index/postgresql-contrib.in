@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>postgresql-contrib</b>'
+Comment='<span size="xx-large">Extension modules distributed with PostgreSQL</span>'
+Comment3='
+The postgresql-contrib package contains various extension modules that are
+included in the PostgreSQL distribution.
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

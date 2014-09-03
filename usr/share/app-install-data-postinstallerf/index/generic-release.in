@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>generic-release</b>'
+Comment='<span size="xx-large">Generic release files</span>'
+Comment3='
+Generic release files such as yum configs and various /etc/ files that
+define the release. This package explicitly is a replacement for the
+trademarked release package, if you are unable for any reason to abide by the
+trademark restrictions on that release package.
+'
+License='GPLv2'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>asn1c</b>'
+Comment='<span size="xx-large">An ASN.1 Compiler</span>'
+Comment3='
+Compiles ASN.1 data structures into C source structures that can be
+simply marshalled to/unmarshalled from BER, DER, CER, BASIC-XER,
+CXER, EXTENDED-XER, PER.
+'
+License='BSD'
+Screenshot=''
+Url='http://lionet.info/asn1c'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

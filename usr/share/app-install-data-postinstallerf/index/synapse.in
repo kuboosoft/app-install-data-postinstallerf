@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>synapse</b>'
+Comment='<span size="xx-large">A semantic launcher written in Vala</span>'
+Comment3='
+Synapse is a semantic launcher written in Vala that you can use to start
+applications as well as find and access relevant documents and files by making
+use of the Zeitgeist engine.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://synapse.zeitgeist-project.com/wiki/index.php?title=Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

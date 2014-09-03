@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>nordugrid-arc-client</b>'
+Comment='<span size="xx-large">ARC command line interface</span>'
+Comment3='
+NorduGrid is a collaboration aiming at development, maintenance and
+support of the free Grid middleware, known as the Advanced Resource
+Connector (ARC).
+
+For the regular user of any ARC-based computational grid,
+this client package contains (or depends on) all packages
+that are needed to submit jobs, query their status and
+retrieve results.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nordugrid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

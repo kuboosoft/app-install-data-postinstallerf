@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>quake3</b>'
+Comment='<span size="xx-large">Quake 3 Arena engine (ioquake3 version)</span>'
+Comment3='
+This package contains the enhanced opensource ioquake3 version of the Quake 3
+Arena engine. This engine can be used to play a number of games based on this
+engine, below is an (incomplete list)
+
+* OpenArena, Free, Open Source Quake3 like game, recommended!
+  (packagename openarena)
+* Urban Terror, gratis, but not Open Source FPS best be described as a
+  Hollywood tactical shooter, a downloader and installer including an
+  application menu entry is available in the urbanterror package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ioquake3.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pyxattr</b>'
+Comment='<span size="xx-large">Extended attributes library wrapper for Python</span>'
+Comment3='
+Python extension module wrapper for libattr. It allows to query, list,
+add and remove extended attributes from files and directories.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pyxattr.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

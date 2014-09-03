@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tclap-doc</b>'
+Comment='<span size="xx-large">API Documentation for tclap</span>'
+Comment3='
+API documentation for the Template-Only Command Line Argument Parser library
+'
+License='MIT'
+Screenshot=''
+Url='http://tclap.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

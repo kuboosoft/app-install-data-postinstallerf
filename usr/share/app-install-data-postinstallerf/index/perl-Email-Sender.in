@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Email-Sender</b>'
+Comment='<span size="xx-large">A library for sending email</span>'
+Comment3='
+EmailSender replaces the old and sometimes problematic EmailSend library,
+which did a decent job at handling very simple email sending tasks, but was not
+suitable for serious use, for a variety of reasons.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Email-Sender/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

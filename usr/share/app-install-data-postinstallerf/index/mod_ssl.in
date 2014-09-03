@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mod_ssl</b>'
+Comment='<span size="xx-large">SSL/TLS module for the Apache HTTP Server</span>'
+Comment3='
+The mod_ssl module provides strong cryptography for the Apache Web
+server via the Secure Sockets Layer (SSL) and Transport Layer
+Security (TLS) protocols.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://httpd.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

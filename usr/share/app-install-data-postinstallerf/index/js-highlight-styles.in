@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>js-highlight-styles</b>'
+Comment='<span size="xx-large">Stylesheets for use with highlight.js</span>'
+Comment3='
+Stylesheets for use with the js-highlight and nodejs-highlight-js packages.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/isagalaev/highlight.js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

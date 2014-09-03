@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-detective</b>'
+Comment='<span size="xx-large">Node.js module to find all calls to require()</span>'
+Comment3='
+Node.js module to find all calls to require(), no matter how crazily nested,
+using a proper walk of the AST.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/substack/node-detective'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

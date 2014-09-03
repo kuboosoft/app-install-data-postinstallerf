@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xorg-x11-drv-synaptics-devel</b>'
+Comment='<span size="xx-large">Xorg X11 synaptics input driver</span>'
+Comment3='
+Development files for the Synaptics TouchPad for X.Org.
+
+URL          http//www.x.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

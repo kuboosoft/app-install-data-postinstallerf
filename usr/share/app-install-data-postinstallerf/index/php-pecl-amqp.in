@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-pecl-amqp</b>'
+Comment='<span size="xx-large">Communicate with any AMQP compliant server</span>'
+Comment3='
+This extension can communicate with any AMQP spec 0-9-1 compatible server,
+such as RabbitMQ, OpenAMQP and Qpid, giving you the ability to create and
+delete exchanges and queues, as well as publish to any exchange and consume
+from any queue.
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/amqp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-Validate-Finance-CreditCard</b>'
+Comment='<span size="xx-large">Validation class for Credit Cards</span>'
+Comment3='
+Package to validate Credit Card numbers and types.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Validate_Finance_CreditCard'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

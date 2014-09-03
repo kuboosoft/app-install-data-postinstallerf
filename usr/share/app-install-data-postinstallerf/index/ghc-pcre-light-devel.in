@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-pcre-light-devel</b>'
+Comment='<span size="xx-large">Haskell pcre-light library development files</span>'
+Comment3='
+This package provides the Haskell pcre-light library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/pcre-light'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

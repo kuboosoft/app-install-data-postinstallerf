@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-gettext-el</b>'
+Comment='<span size="xx-large">Elisp source files for editing po files within GNU Emacs</span>'
+Comment3='
+This package contains the Elisp source files for editing po files within GNU
+Emacs.
+'
+License='GPLv3+ and LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/gettext/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

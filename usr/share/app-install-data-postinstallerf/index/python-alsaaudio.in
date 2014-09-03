@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-alsaaudio</b>'
+Comment='<span size="xx-large">Python Alsa Bindings</span>'
+Comment3='
+The Python-AlsaAudio package contains bindings for the ALSA sound API.
+'
+License='Python'
+Screenshot=''
+Url='http://sourceforge.net/projects/pyalsaaudio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

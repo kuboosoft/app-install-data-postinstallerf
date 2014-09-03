@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plexus-component-api</b>'
+Comment='<span size="xx-large">Plexus Component API</span>'
+Comment3='
+Plexus Component API
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://svn.codehaus.org/plexus/plexus-containers/tags/plexus-containers-1.0-alpha-15/plexus-component-api/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

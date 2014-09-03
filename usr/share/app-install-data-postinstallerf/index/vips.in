@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>vips</b>'
+Comment='<span size="xx-large">C/C++ library for processing large images</span>'
+Comment3='
+VIPS is an image processing library. It is good for very large images
+(even larger than the amount of RAM in your machine), and for working
+with color.
+
+This package should be installed if you want to use a program compiled
+against VIPS.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vips.ecs.soton.ac.uk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

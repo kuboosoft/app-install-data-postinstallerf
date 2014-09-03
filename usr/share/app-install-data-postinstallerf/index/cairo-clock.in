@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cairo-clock</b>'
+Comment='<span size="xx-large">Cairo-rendered on-screen clock</span>'
+Comment3='
+Cairo-Clock is a desktop clock using cairo for rendering and taking advantage
+of the Composite extension on newer Xorg servers.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://macslow.thepimp.net/?page_id=23'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

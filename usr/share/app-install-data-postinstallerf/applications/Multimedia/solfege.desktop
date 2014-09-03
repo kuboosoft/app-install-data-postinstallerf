@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n solfege
+Name=GNU Solfege
+GenericName=Ear training
+GenericName[de]=Gehörtraining
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/solfege.png
+Categories=GTK;AudioVideo;Audio;Education;Music;

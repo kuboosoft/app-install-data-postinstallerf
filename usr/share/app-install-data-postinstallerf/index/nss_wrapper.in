@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>nss_wrapper</b>'
+Comment='<span size="xx-large">A wrapper for the user, group and hosts NSS API</span>'
+Comment3='
+There are projects which provide daemons needing to be able to create, modify
+and delete Unix users. Or just switch user ids to interact with the system e.g.
+a user space file server. To be able to test that you need the privilege to
+modify the passwd and groups file. With nss_wrapper it is possible to define
+your own passwd and groups file which will be used by software to act correctly
+while under test.
+
+If you have a client and server under test they normally use functions to
+resolve network names to addresses (dns) or vice versa. The nss_wrappers allow
+you to create a hosts file to setup name resolution for the addresses you use
+'
+License='BSD'
+Screenshot=''
+Url='http://cwrap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

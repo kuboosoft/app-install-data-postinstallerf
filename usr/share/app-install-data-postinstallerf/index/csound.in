@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>csound</b>'
+Comment='<span size="xx-large">A sound synthesis language and library</span>'
+Comment3='
+Csound is a sound and music synthesis system, providing facilities for
+composition and performance over a wide range of platforms. It is not
+restricted to any style of music, having been used for many years in
+at least classical, pop, techno, ambient...
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://csound.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

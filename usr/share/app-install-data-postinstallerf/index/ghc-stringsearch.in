@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ghc-stringsearch</b>'
+Comment='<span size="xx-large">Fast searching, splitting and replacing of ByteStrings</span>'
+Comment3='
+This package provides several functions to quickly
+search for substrings in strict or lazy ByteStrings.
+It also provides functions for breaking or splitting
+on substrings and replacing all occurrences of a
+substring (the first in case of overlaps) with another.
+GHC before 6.10 are no longer supported, other compilers
+only if they support BangPatterns. If you need it to
+work with other compilers, send a feature request.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/stringsearch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

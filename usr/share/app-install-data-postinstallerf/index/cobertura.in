@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cobertura</b>'
+Comment='<span size="xx-large">Java tool that calculates the percentage of code accessed by tests</span>'
+Comment3='
+Cobertura is a free Java tool that calculates the percentage of code
+accessed by tests. It can be used to identify which parts of your
+Java program are lacking test coverage.
+'
+License='ASL 1.1 and GPLv2+ and MPL and ASL 2.0 and GPL+'
+Screenshot=''
+Url='http://cobertura.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-swftools</b>'
+Comment='<span size="xx-large">Python bindings for swftools</span>'
+Comment3='
+This package provides Python bindings for swftools.
+'
+License='GPLv3+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.swftools.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

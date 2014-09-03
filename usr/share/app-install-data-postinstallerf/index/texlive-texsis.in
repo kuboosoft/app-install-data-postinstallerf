@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-texsis</b>'
+Comment='<span size="xx-large">Plain TeX macros for Physicists</span>'
+Comment3='
+TeXsis is a TeX macro package which provides useful features
+for typesetting research papers and related documents. For
+example, it includes support specifically for Automatic
+numbering of equations, figures, tables and references;
+Simplified control of type sizes, line spacing, footnotes,
+running headlines and footlines, and tables of contents,
+figures and tables; Specialized document formats for research
+papers, preprints and ``e-prints, conference proceedings,
+theses, books, referee reports, letters, and memoranda;
+Simplified means of constructing an index for a book or thesis;
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

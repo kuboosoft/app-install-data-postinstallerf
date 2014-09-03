@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>crash</b>'
+Comment='<span size="xx-large">Kernel analysis utility for live systems, netdump, diskdump, kdump, LKCD or mcore dumpfiles</span>'
+Comment3='
+The core analysis suite is a self-contained tool that can be used to
+investigate either live systems, kernel core dumps created from the
+netdump, diskdump and kdump packages from Red Hat Linux, the mcore kernel patch
+offered by Mission Critical Linux, or the LKCD kernel patch.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://people.redhat.com/anderson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

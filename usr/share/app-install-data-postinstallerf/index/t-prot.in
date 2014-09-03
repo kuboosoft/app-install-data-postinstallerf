@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>t-prot</b>'
+Comment='<span size="xx-large">A filter which improves the readability of email messages and Usenet posts</span>'
+Comment3='
+t-prot (TOFU Protection) is a filter which improves the readability of email
+messages and Usenet posts by hiding some of their annoying parts. The
+annoyances it handles include mailing list footers, signatures, TOFU,
+sequences of blank lines, and repeated punctuation.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.escape.de/~tolot/mutt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

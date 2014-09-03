@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-File-CheckTree</b>'
+Comment='<span size="xx-large">Run many file-test checks on a tree</span>'
+Comment3='
+FileCheckTreevalidate() routine takes a single multi-line string
+consisting of directives, each containing a file name plus a file test to try
+on it. (The file test may also be a "cd", causing subsequent relative file
+names to be interpreted relative to that directory.) After the file test you
+may put || die to make it a fatal error if the file test fails. The default is
+|| warn.  The file test may optionally have a "! prepended to test for the
+opposite condition. If you do a cd and then list some relative file names, you
+may want to indent them slightly for readability. If you supply your own die()
+or warn() message, you can use $file to interpolate the file name.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-CheckTree/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

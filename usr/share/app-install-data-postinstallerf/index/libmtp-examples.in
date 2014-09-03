@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libmtp-examples</b>'
+Comment='<span size="xx-large">Example programs for libmtp</span>'
+Comment3='
+This package provides example programs for communicating with MTP
+devices.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libmtp.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

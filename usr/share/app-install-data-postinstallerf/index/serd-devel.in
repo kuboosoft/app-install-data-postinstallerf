@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>serd-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for serd</span>'
+Comment3='
+serd is a lightweight C library for RDF syntax which supports reading and
+writing Turtle and NTriples.
+
+This package contains the headers and development libraries for serd.
+'
+License='ISC'
+Screenshot=''
+Url='http://drobilla.net/software/serd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

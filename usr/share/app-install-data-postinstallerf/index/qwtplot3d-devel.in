@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qwtplot3d-devel</b>'
+Comment='<span size="xx-large">Development files for qwtplot3d</span>'
+Comment3='
+The qwtplot3d-devel package contains libraries and header files for
+developing applications that use qwtplot3d.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://qwtplot3d.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>magic-doc</b>'
+Comment='<span size="xx-large">Documentation for magic, A very capable VLSI layout tool</span>'
+Comment3='
+This package contains the documentation of magic in the postscript
+and some tutorials.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://opencircuitdesign.com/magic/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

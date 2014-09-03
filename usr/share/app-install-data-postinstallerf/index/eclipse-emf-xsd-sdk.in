@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-emf-xsd-sdk</b>'
+Comment='<span size="xx-large">Eclipse XSD SDK</span>'
+Comment3='
+Documentation and source for the Eclipse XML Schema Definition (XSD) plugin.
+'
+License='EPL'
+Screenshot=''
+Url='https://projects.eclipse.org/projects/modeling.emf.emf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

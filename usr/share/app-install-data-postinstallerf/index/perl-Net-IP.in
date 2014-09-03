@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Net-IP</b>'
+Comment='<span size="xx-large">Perl module for manipulation of IPv4 and IPv6 addresses</span>'
+Comment3='
+This is the NetIP module for Perl, designed to allow easy
+manipulation of IPv4 and IPv6 addresses.  Two applications using the
+NetIP module are included ipcount, an IP address mini-calculator,
+it can calculate the number of IP addresses in a prefix or all the
+prefixes contained in a given range; and iptab, which prints out a
+handy IP "cheat sheet".
+'
+License='MIT and (GPL+ or Artistic)'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-IP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

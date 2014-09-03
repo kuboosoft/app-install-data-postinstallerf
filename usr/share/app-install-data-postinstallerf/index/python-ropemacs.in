@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-ropemacs</b>'
+Comment='<span size="xx-large">Plugin for performing python refactorings in emacs</span>'
+Comment3='
+Ropemacs is a plugin for performing python refactorings in Emacs. It
+uses rope library and pymacs and supports full rope functionality.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rope.sourceforge.net/ropemacs.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

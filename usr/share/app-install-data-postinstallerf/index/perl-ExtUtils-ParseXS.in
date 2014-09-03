@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-ExtUtils-ParseXS</b>'
+Comment='<span size="xx-large">Module and a script for converting Perl XS code into C code</span>'
+Comment3='
+ExtUtilsParseXS will compile XS code into C code by embedding the
+constructs necessary to let C functions manipulate Perl values and creates
+the glue necessary to let Perl access those functions.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/ExtUtils-ParseXS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vegastrike</b>'
+Comment='<span size="xx-large">3D OpenGL spaceflight simulator</span>'
+Comment3='
+Vega Strike is a GPL 3D OpenGL Action RPG space sim that allows a player to
+trade and bounty hunt. You start in an old beat up Wayfarer cargo ship, with
+endless possibility before you and just enough cash to scrape together a life.
+Yet danger lurks in the space beyond.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://vegastrike.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

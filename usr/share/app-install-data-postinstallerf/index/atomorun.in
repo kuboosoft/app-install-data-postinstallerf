@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>atomorun</b>'
+Comment='<span size="xx-large">Jump & Run game where you have to flee an exploding nuclear bomb</span>'
+Comment3='
+Atomorun is a OpenGL Jump&Run game where you have to flee an exploding
+nuclear bomb.
+'
+License='GPL+'
+Screenshot=''
+Url='http://atomorun.whosme.de/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

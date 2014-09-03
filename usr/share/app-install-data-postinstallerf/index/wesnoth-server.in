@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wesnoth-server</b>'
+Comment='<span size="xx-large">Turn-based strategy game with a fantasy theme</span>'
+Comment3='
+This package contains the binaries for running a Wesnoth server
+for multi-player games.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.wesnoth.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

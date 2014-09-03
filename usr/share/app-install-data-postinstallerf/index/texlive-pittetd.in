@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-pittetd</b>'
+Comment='<span size="xx-large">Electronic Theses and Dissertations at Pitt</span>'
+Comment3='
+A document class for theses and dissertations. Provides patch
+files that enable pittetd to use files prepared for use with
+the pittdiss or pitthesis classes. The manual provides a
+detailed guide for users who wish to use the class to prepare
+their thesis or dissertation.
+
+date 2008-09-11 183735 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

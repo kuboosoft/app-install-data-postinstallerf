@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kazehakase-hyperestraier</b>'
+Comment='<span size="xx-large">Kazehakase search engine of hyperestraier</span>'
+Comment3='
+This package contains the search plugin of hyperstraier for
+Kazehakase.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kazehakase.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

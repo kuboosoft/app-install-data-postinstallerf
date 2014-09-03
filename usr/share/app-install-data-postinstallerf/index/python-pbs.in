@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-pbs</b>'
+Comment='<span size="xx-large">PBS/Torque python module</span>'
+Comment3='
+The python-pbs package provides pbs_python and is a wrapper class for
+the  Torque C library.  With this package you now can write
+utilities/extensions in Python instead of C.
+'
+License='OpenPBS'
+Screenshot=''
+Url='https://subtrac.sara.nl/oss/pbs_python'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

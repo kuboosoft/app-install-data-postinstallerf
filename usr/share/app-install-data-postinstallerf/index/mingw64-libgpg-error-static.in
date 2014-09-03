@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-libgpg-error-static</b>'
+Comment='<span size="xx-large">Static library for mingw64-libgpg-error development</span>'
+Comment3='
+Static library for mingw64-libgpg-error development.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='ftp://ftp.gnupg.org/gcrypt/libgpg-error/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

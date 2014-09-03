@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>kdesdk</b>'
+Comment='<span size="xx-large">The KDE Software Development Kit (SDK)</span>'
+Comment3='
+A metapackage/collection of applications and tools used by developers, including
+* cervisia a CVS frontend
+* lokalize Computer-aided translation system
+* kcachegrind a browser for data produced by profiling tools (e.g. cachegrind)
+* kompare diff tool
+* okteta binary/hex editor
+* umbrello UML modeller and UML diagram tool
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

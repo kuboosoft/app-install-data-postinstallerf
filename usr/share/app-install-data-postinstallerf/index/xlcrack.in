@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xlcrack</b>'
+Comment='<span size="xx-large">Recover lost and forgotten passwords from XLS files</span>'
+Comment3='
+xlcrack recovers lost passwords for XLS files, such as those saved by
+Excel 95. In order to do this it implements a simple XOR encryption
+algorithm common to several Microsoft Office applications.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://devel.tlrmx.org/misc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

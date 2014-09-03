@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lmdb-libs</b>'
+Comment='<span size="xx-large">Shared libraries for lmdb</span>'
+Comment3='
+The lmdb-libs package contains shared libraries necessary for running
+applications that use lmdb.
+
+'
+License='OpenLDAP'
+Screenshot=''
+Url='http://symas.com/mdb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

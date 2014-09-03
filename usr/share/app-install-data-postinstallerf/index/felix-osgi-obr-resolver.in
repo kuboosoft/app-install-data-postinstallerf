@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>felix-osgi-obr-resolver</b>'
+Comment='<span size="xx-large">Apache Felix Resolver</span>'
+Comment3='
+This package contains the Apache Felix Resolver
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/tdiesler/obr-resolver'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

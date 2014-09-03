@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>anchorman</b>'
+Comment='<span size="xx-large">The recording-studio-in-a-box</span>'
+Comment3='
+Ever wanted to run your own recording studio? Need to handle multiple streams of
+audio, video, and possibly even subtitles? Anchorman cant do that. Yet.
+However, it can stream a webcam to an icecast server. Included is support for
+suspending/resuming the stream when the device is inserted/removed.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/anchorman/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

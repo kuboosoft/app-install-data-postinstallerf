@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cryptopp</b>'
+Comment='<span size="xx-large">C++ class library of cryptographic schemes</span>'
+Comment3='
+Crypto++ Library is a free C++ class library of cryptographic schemes.
+See http//www.cryptopp.com/ for a list of supported algorithms.
+
+One purpose of Crypto++ is to act as a repository of public domain
+(not copyrighted) source code. Although the library is copyrighted as a
+compilation, the individual files in it are in the public domain.
+'
+License='Boost'
+Screenshot=''
+Url='http://www.cryptopp.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

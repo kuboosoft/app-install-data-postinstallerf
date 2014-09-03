@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>DevIL-devel</b>'
+Comment='<span size="xx-large">Development files for DevIL</span>'
+Comment3='
+Development files for DevIL
+
+URL          http//openil.sourceforge.net/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://openil.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

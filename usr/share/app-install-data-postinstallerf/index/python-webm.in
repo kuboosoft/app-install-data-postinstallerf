@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-webm</b>'
+Comment='<span size="xx-large">Python wrapper to WebM libraries</span>'
+Comment3='
+The python-webm package is an interface to the WebM video/image codec. The
+interface uses ctypes to call the libvpx/libwebm Google libraries installed in
+the system. At the moment only the libwebm library is wrapped and with some
+limitations.
+'
+License='BSD'
+Screenshot=''
+Url='https://code.google.com/p/python-webm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

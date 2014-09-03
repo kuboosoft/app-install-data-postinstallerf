@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openlmi-scripts-doc</b>'
+Comment='<span size="xx-large">OpenLMI scripts documentation</span>'
+Comment3='
+This package contains the documents for OpenLMI Scripts.
+'
+License='BSD'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

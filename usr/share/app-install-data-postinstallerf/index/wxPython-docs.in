@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wxPython-docs</b>'
+Comment='<span size="xx-large">Documentation and samples for wxPython</span>'
+Comment3='
+Documentation, samples and demo application for wxPython.
+'
+License='LGPLv2+ and wxWidgets'
+Screenshot=''
+Url='http://www.wxpython.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

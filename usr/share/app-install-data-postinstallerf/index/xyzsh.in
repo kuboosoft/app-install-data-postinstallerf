@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xyzsh</b>'
+Comment='<span size="xx-large">Interactive shell and text processing tool</span>'
+Comment3='
+xyzsh is an interactive shell and a text processing tool.
+It contains a text processing inner commands like Perl or Ruby,
+and can be used as a simple objective oriented script language.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.jp/projects/xyzsh/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>m17n-db</b>'
+Comment='<span size="xx-large">Multilingualization datafiles for m17n-lib</span>'
+Comment3='
+This package contains multilingualization (m17n) datafiles for m17n-lib
+which describe input maps, encoding maps, OpenType font data and
+font layout text rendering for languages.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/m17n'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

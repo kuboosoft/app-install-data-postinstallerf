@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-openshift-origin-msg-broker-mcollective</b>'
+Comment='<span size="xx-large">OpenShift plugin for mcollective service</span>'
+Comment3='
+OpenShift plugin for mcollective based node/gear manager
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openshift.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

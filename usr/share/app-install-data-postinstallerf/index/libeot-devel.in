@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libeot-devel</b>'
+Comment='<span size="xx-large">Development files for libeot</span>'
+Comment3='
+The libeot-devel package contains libraries and header files for
+developing applications that use libeot.
+
+'
+License='MPLv2.0'
+Screenshot=''
+Url='https://github.com/umanwizard/libeot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

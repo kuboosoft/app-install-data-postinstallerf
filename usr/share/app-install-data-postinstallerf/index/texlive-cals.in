@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-cals</b>'
+Comment='<span size="xx-large">Multipage tables with wide range of features</span>'
+Comment3='
+The package allows the user to typeset multipage tables with
+repeatable headers and footers, and with cells spanned over
+rows and columns. Decorations are supported padding,
+background color, width of separation rules. The package is
+compatible with multicol and pdfsync.
+
+date 2011-12-30 163048 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

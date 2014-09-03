@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>alsa-firmware</b>'
+Comment='<span size="xx-large">Firmware for several ALSA-supported sound cards</span>'
+Comment3='
+This package contains the firmware binaries for a number of sound cards.
+Some (but not all of these) require firmware loaders which are included in
+the alsa-tools-firmware package.
+'
+License='GPL+ and BSD and GPLv2+ and GPLv2 and LGPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tuxcmd-modules</b>'
+Comment='<span size="xx-large">Modules for Tux Commander file manager</span>'
+Comment3='
+The tuxcmd-modules package contains extra VFS (virtual file system) modules
+extending Tux Commanders functionality
+ * libarchive plugin - handles TAR/GZ/BZ2 archives
+ * ZIP plugin
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tuxcmd.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lookat</b>'
+Comment='<span size="xx-large">A user-friendly text file viewer</span>'
+Comment3='
+lookat is a program to view text files and manual pages. It is designed to be
+more user-friendly than more conventional text viewers such as less.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.wagemakers.be/english/programs/lookat'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

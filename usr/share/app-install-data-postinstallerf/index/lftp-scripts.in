@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lftp-scripts</b>'
+Comment='<span size="xx-large">Scripts for lftp</span>'
+Comment3='
+Utility scripts for use with lftp.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://lftp.yar.ru/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-PAR-Packer</b>'
+Comment='<span size="xx-large">PAR Packager</span>'
+Comment3='
+This module implements the AppPackerBackend interface, for generating
+stand-alone executables, perl scripts and PAR files.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PAR-Packer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

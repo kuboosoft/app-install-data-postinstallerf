@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cobertura-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for cobertura</span>'
+Comment3='
+This package contains the API documentation for cobertura.
+'
+License='ASL 1.1 and GPLv2+ and MPL and ASL 2.0 and GPL+'
+Screenshot=''
+Url='http://cobertura.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

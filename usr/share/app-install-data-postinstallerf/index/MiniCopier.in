@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>MiniCopier</b>'
+Comment='<span size="xx-large">Graphical copy manager</span>'
+Comment3='
+MiniCopier is a graphical copy manager. It provides more comfort and control
+over files copy operations, than basic OS functions.
+
+Features
+    * processing of the transfers one after the other
+    * add new tranfers to the queue while a copy is already being processed
+    * dynamic management of the queue of remaining transfers
+    * pause a copy
+    * skip current transfer to proceed to the next one
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.adriancourreges.com/projects/minicopier/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgnomeprintui22</b>'
+Comment='<span size="xx-large">GUI support for libgnomeprint</span>'
+Comment3='
+The libgnomeprintui package contains GTK+ widgets related to printing.
+
+URL          http//ftp.gnome.org/pub/gnome/sources/libgnomeprintui/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ftp.gnome.org/pub/gnome/sources/libgnomeprintui/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-coffee-script-source-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-coffee-script-source</span>'
+Comment3='
+Documentation for rubygem-coffee-script-source
+'
+License='MIT'
+Screenshot=''
+Url='http://jashkenas.github.com/coffee-script/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

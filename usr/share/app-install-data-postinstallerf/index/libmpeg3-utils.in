@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libmpeg3-utils</b>'
+Comment='<span size="xx-large">Utilities from libmpeg3</span>'
+Comment3='
+LibMPEG3 decodes the many many derivatives of MPEG standards into
+uncompressed data suitable for editing and playback.
+
+This package contains utility programs based on libmpeg3.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://heroinewarrior.com/libmpeg3.php3'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

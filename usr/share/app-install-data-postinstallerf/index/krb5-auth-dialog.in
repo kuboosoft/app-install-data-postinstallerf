@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>krb5-auth-dialog</b>'
+Comment='<span size="xx-large">Kerberos 5 authentication dialog</span>'
+Comment3='
+This package contains a dialog that warns the user when their Kerberos
+tickets are about to expire and lets them renew them.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://honk.sigxcpu.org/piki/projects/krb5-auth-dialog/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

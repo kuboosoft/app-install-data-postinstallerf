@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>adime-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for adime</span>'
+Comment3='
+The developmental files that must be installed in order to compile
+applications which use adime.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://adime.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

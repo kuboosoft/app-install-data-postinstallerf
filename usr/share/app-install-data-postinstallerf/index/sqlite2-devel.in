@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sqlite2-devel</b>'
+Comment='<span size="xx-large">Development files for SQLite</span>'
+Comment3='
+SQLite is a small, fast, embeddable SQL database engine that supports
+most of SQL92, including transactions with atomic commit and rollback,
+subqueries, compound queries, triggers, and views.
+This package contains static library and header files for developing
+applications using sqlite.
+
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.sqlite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gcompris-sound-en</b>'
+Comment='<span size="xx-large">GCompris voices in English</span>'
+Comment3='
+Voice samples for the GCompris games in English.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gcompris.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

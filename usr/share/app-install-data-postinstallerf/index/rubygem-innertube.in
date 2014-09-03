@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-innertube</b>'
+Comment='<span size="xx-large">A thread-safe resource pool</span>'
+Comment3='
+Innertube is a thread-safe, re-entrant resource pool, extracted from the Riak
+Ruby Client, where it was used to pool connections to Riak.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/basho/innertube'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

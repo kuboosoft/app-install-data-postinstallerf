@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-setspace</b>'
+Comment='<span size="xx-large">Set space between lines</span>'
+Comment3='
+Provides support for setting the spacing between lines in a
+document. Package options include singlespacing,
+onehalfspacing, and doublespacing. Alternatively the spacing
+can be changed as required with the \singlespacing,
+\onehalfspacing, and \doublespacing commands. Other size
+spacings also available.
+
+date 2011-12-19 124022 +0100
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

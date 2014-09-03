@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gavl-devel</b>'
+Comment='<span size="xx-large">Development files for gavl</span>'
+Comment3='
+The gavl-devel package contains libraries and header files for
+developing applications that use gavl.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gmerlin.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-tools</b>'
+Comment='<span size="xx-large">The LaTeX standard tools bundle</span>'
+Comment3='
+A collection of (variously) simple tools provided as part of
+the LaTeX required tools distribution, comprising afterpage,
+array, bm, calc, dcolumn, delarray, enumerate, fileerr,
+fontsmpl, ftnright, hhline, indentfirst, layout, longtable,
+multicol, rawfonts, showkeys, somedefs, tabularx, theorem,
+trace, varioref, verbatim, xr, and xspace.
+
+date 2012-06-06 121504 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

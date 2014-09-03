@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Test-AutoBuild-subversion</b>'
+Comment='<span size="xx-large">Subversion source repository integration for autobuild engine</span>'
+Comment3='
+Test-AutoBuild is a Perl framework for performing continuous, unattended,
+automated software builds.
+
+This sub-package provides the module for integrating with the Subversion
+version control system
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://autobuild.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

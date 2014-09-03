@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gimp-data-extras</b>'
+Comment='<span size="xx-large">Extra files for GIMP</span>'
+Comment3='
+Patterns, gradients, and other extra files for GIMP.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gimp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

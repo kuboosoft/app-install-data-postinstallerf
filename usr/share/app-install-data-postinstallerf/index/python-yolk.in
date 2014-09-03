@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-yolk</b>'
+Comment='<span size="xx-large">Command-line tool querying PyPI and Python packages installed on your system</span>'
+Comment3='
+Yolk is a Python tool for obtaining information about packages installed by
+distutils, setuptools and easy_install and querying packages on PyPI
+(Python Package Index a.k.a. The Cheese Shop).
+
+Yolk can list all the packages installed by distutils or setuptools on your
+system by Python2.5 or packages installed by setuptools if you have Python2.4.
+You can see which packages are active, non-active or in development mode and
+show you which have newer versions available by querying PyPI.
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/yolk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

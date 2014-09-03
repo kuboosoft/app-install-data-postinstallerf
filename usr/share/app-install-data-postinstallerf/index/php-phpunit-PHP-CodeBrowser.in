@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-phpunit-PHP-CodeBrowser</b>'
+Comment='<span size="xx-large">PHP_CodeBrowser for integration in Hudson and CruiseControl</span>'
+Comment3='
+PHP_CodeBrowser generates a HTML view for code browsing with highlighted and
+colored errors, parsed from XML reports generated from code-sniffer or
+phpunit.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/mayflowergmbh/PHP_CodeBrowser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

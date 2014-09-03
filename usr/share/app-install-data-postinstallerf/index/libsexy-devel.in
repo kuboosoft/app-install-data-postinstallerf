@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsexy-devel</b>'
+Comment='<span size="xx-large">Development files for libsexy</span>'
+Comment3='
+The libsexy-devel package contains libraries and header files for
+developing applications that use libsexy.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.chipx86.com/w/index.php/Libsexy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

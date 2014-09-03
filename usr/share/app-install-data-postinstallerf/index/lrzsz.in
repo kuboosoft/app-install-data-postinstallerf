@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lrzsz</b>'
+Comment='<span size="xx-large">The lrz and lsz modem communications programs</span>'
+Comment3='
+Lrzsz (consisting of lrz and lsz) is a cosmetically modified
+zmodem/ymodem/xmodem package built from the public-domain version of
+the rzsz package. Lrzsz was created to provide a working GNU
+copylefted Zmodem solution for Linux systems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ohse.de/uwe/software/lrzsz.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

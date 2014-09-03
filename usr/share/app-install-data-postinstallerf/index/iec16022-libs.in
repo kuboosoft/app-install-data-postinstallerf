@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iec16022-libs</b>'
+Comment='<span size="xx-large">ISO/IEC 16022 libraries</span>'
+Comment3='
+ISO/IEC 16022 libraries.
+
+URL          http//www.datenfreihafen.org/projects/iec16022.html
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.datenfreihafen.org/projects/iec16022.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

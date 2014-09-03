@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openjpeg</b>'
+Comment='<span size="xx-large">JPEG 2000 command line tools</span>'
+Comment3='
+OpenJPEG is an open-source JPEG 2000 codec written in C. It has been
+developed in order to promote the use of JPEG 2000, the new still-image
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/openjpeg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

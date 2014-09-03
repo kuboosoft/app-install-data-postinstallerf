@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mumble</b>'
+Comment='<span size="xx-large">Voice chat suite aimed at gamers</span>'
+Comment3='
+Mumble provides low-latency, high-quality voice communication for gamers.
+It includes game linking, so voice from other players comes
+from the direction of their characters, and has echo
+cancellation so that the sound from your loudspeakers
+wont be audible to other players.
+'
+License='BSD'
+Screenshot=''
+Url='http://mumble.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

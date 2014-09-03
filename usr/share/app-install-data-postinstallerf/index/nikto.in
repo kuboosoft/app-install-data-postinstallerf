@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nikto</b>'
+Comment='<span size="xx-large">Web server scanner</span>'
+Comment3='
+Nikto is a web server scanner which performs comprehensive tests against web
+servers for multiple items, including over 3300 potentially dangerous
+files/CGIs, versions on over 625 servers, and version specific problems
+on over 230 servers. Scan items and plugins are frequently updated and
+can be automatically updated (if desired).
+'
+License='GPLv2+ and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.cirt.net/code/nikto.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

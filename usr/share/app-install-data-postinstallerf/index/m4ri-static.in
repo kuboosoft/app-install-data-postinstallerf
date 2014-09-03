@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>m4ri-static</b>'
+Comment='<span size="xx-large">Static library files for m4ri</span>'
+Comment3='
+The m4ri-static package contains the static m4ri library.
+
+URL          http//m4ri.sagemath.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://m4ri.sagemath.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

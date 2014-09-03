@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>pandoc-citeproc</b>'
+Comment='<span size="xx-large">Citeproc support for pandoc</span>'
+Comment3='
+The pandoc-citeproc library exports functions for using the citeproc system
+with pandoc. It relies on citeproc-hs, a library for rendering bibliographic
+reference citations into a variety of styles using a macro language called
+Citation Style Language (CSL). More details on CSL can be found here
+<http//citationstyles.org/>.
+
+Currently this package includes a copy of the citeproc-hs code. When
+citeproc-hs is updated to be compatible, this package will simply depend on
+citeproc-hs.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/pandoc-citeproc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

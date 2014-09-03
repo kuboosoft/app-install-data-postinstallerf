@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cyphesis-logwatch</b>'
+Comment='<span size="xx-large">Logwatch scripts for the WorldForge game server</span>'
+Comment3='
+Logwatch scripts for the WorldForge game server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.worldforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

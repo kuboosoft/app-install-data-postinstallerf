@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ws-xmlschema</b>'
+Comment='<span size="xx-large">Apache XMLSchema</span>'
+Comment3='
+Apache XMLSchema is a light weight schema object model that can be
+used to manipulate or generate XML schema. It has very few external
+dependencies and can be easily integrated into an existing project.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ws.apache.org/commons/xmlschema20/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

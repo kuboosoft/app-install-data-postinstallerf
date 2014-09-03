@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>pydot</b>'
+Comment='<span size="xx-large">Python interface to Graphvizs Dot language</span>'
+Comment3='
+An interface for creating both directed and non directed graphs from Python.
+Currently all attributes implemented in the Dot language are supported (up
+to Graphviz 2.16).
+
+Output can be inlined in Postscript into interactive scientific environments
+like TeXmacs, or output in any of the formats supported by the Graphviz
+tools dot, neato, twopi.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/pydot/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

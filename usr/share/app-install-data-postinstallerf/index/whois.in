@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>whois</b>'
+Comment='<span size="xx-large">Improved WHOIS client</span>'
+Comment3='
+Searches for an object in a RFC 3912 database.
+
+This version of the WHOIS client tries to guess the right server to ask for
+the specified object. If no guess can be made it will connect to
+whois.networksolutions.com for NIC handles or whois.arin.net for IPv4
+addresses and network names.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linux.it/~md/software/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

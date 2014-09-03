@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>framecounter</b>'
+Comment='<span size="xx-large">A small program to count frames in RAW VC-1, MPEG-4 ASP and MPEG-4 AVC streams</span>'
+Comment3='
+A small program to count frames in RAW VC-1, MPEG-4 ASP and MPEG-4 AVC streams
+'
+License='custom'
+Screenshot=''
+Url='http://www.selur.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

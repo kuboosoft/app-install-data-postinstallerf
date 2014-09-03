@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Text-FindIndent</b>'
+Comment='<span size="xx-large">Heuristically determine the indent style</span>'
+Comment3='
+This is an experimental distribution that attempts to intuit the underlying
+indent "policy" for a text file (most likely a source code file).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-FindIndent/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

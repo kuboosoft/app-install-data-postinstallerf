@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Imager-Test</b>'
+Comment='<span size="xx-large">perl-Imagers Test module</span>'
+Comment3='
+perl-Imagers Test module
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Imager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

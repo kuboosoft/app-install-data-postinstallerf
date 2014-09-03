@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-txws</b>'
+Comment='<span size="xx-large">Twisted WebSockets wrapper</span>'
+Comment3='
+txWS (pronounced "Twisted WebSockets") is a small, short, simple library
+for adding WebSockets server support to your favorite Twisted applications.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/txWS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hibernate3</b>'
+Comment='<span size="xx-large">Relational persistence and query service</span>'
+Comment3='
+Hibernate is a powerful, ultra-high performance
+object/relational persistence and query service
+for Java.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.hibernate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

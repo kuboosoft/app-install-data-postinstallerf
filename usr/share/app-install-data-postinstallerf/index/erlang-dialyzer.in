@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-dialyzer</b>'
+Comment='<span size="xx-large">A DIscrepancy AnaLYZer for ERlang programs</span>'
+Comment3='
+A DIscrepancy AnaLYZer for ERlang programs.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

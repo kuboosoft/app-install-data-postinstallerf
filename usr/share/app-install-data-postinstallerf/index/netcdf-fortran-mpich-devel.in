@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netcdf-fortran-mpich-devel</b>'
+Comment='<span size="xx-large">NetCDF Fortran mpich development files</span>'
+Comment3='
+NetCDF Fortran parallel mpich development files
+
+URL          http//www.unidata.ucar.edu/software/netcdf/
+'
+License='NetCDF'
+Screenshot=''
+Url='http://www.unidata.ucar.edu/software/netcdf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

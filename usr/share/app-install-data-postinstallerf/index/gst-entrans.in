@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gst-entrans</b>'
+Comment='<span size="xx-large">Plug-ins and tools for transcoding and recording with GStreamer</span>'
+Comment3='
+GEntrans is a software package providing a collection of plug-ins and tools
+for the GStreamer multimedia framework specifically geared towards transcoding
+and recording purposes.
+
+GStreamer allows for easy multimedia processing and creation of multimedia
+applications, as e.g. demonstrated by a number of players and some other
+applications already built on it. The purpose here is to concentrate on using
+the framework for transcoding purposes.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gentrans.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

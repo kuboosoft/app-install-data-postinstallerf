@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal6-stringoverrides</b>'
+Comment='<span size="xx-large">Provides a quick and easy way of replacing text</span>'
+Comment3='
+Provides a quick and easy way to replace any text on a site.
+
+Features
+* Easily replace anything thats passed through t()
+* Locale support, allowing you to override strings in any language
+* Ability to import/export *.po files, for easy migration from the Locale module
+* Note that this is not a replacement to Locale as having thousands of overrides
+  can cause more pain then benefit. Use this only if you need a few easy text
+  changes.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/stringoverrides'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

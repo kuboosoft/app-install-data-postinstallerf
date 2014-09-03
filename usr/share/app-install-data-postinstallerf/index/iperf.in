@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iperf</b>'
+Comment='<span size="xx-large">Measurement tool for TCP/UDP bandwidth performance</span>'
+Comment3='
+Iperf is a tool to measure maximum TCP bandwidth, allowing the tuning of
+various parameters and UDP characteristics. Iperf reports bandwidth, delay
+jitter, datagram loss.
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/iperf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

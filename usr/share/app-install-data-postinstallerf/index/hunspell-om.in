@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-om</b>'
+Comment='<span size="xx-large">Oromo hunspell dictionaries</span>'
+Comment3='
+Oromo hunspell dictionaries.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://borel.slu.edu/crubadan/apps.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

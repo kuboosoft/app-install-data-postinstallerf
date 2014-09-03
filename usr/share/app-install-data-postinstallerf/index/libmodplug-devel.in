@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmodplug-devel</b>'
+Comment='<span size="xx-large">Development files for the Modplug mod music file format library</span>'
+Comment3='
+Development files for the Modplug mod music file format library.
+
+URL          http//modplug-xmms.sourceforge.net/
+'
+License='Public Domain'
+Screenshot=''
+Url='http://modplug-xmms.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

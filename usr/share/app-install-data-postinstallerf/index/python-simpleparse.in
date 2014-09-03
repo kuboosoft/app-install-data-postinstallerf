@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-simpleparse</b>'
+Comment='<span size="xx-large">A simple and fast parser generator</span>'
+Comment3='
+SimpleParse is a BSD-licensed Python package providing a simple and fast parser
+generator using a modified version of the mxTextTools text-tagging engine.
+SimpleParse allows you to generate parsers directly from your EBNF grammar.
+'
+License='BSD'
+Screenshot=''
+Url='http://launchpad.net/simpleparse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

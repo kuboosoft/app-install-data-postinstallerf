@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fann-devel</b>'
+Comment='<span size="xx-large">Development libraries for FANN</span>'
+Comment3='
+This package is only needed if you intend to develop and/or compile programs
+based on the FANN library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fann.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

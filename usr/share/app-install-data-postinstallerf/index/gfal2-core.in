@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gfal2-core</b>'
+Comment='<span size="xx-large">Core of the Grid File access Library 2.0</span>'
+Comment3='
+The main library of gfal2.
+the gfal2 protocol support relies on a plugin system.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

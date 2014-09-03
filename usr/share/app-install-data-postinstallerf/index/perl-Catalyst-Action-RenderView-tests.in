@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Action-RenderView-tests</b>'
+Comment='<span size="xx-large">Test suite for package perl-Catalyst-Action-RenderView</span>'
+Comment3='
+This package provides the test suite for package perl-Catalyst-Action-RenderView.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Action-RenderView/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

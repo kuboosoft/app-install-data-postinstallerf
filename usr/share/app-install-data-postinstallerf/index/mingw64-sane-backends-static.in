@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-sane-backends-static</b>'
+Comment='<span size="xx-large">Static version of the Scanner Access Now Easy (SANE) universal scanner interface.</span>'
+Comment3='
+Static version of the Scanner Access Now Easy (SANE) universal scanner interface.
+'
+License='GPLv2+ and GPLv2+ with exceptions and Public Domain'
+Screenshot=''
+Url='http://www.sane-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

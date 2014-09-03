@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mpop</b>'
+Comment='<span size="xx-large">POP3 client for recieving mail from POP3 mailboxes</span>'
+Comment3='
+mpop is a small and fast POP3 client. Features include mail filtering,
+delivery to mbox files, maildir folders or a mail delivery agent, a very
+fast POP3 implementation, many authentication methods, good TLS/SSL
+support, IPv6 support, and more.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://mpop.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

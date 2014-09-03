@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sdformat-doc</b>'
+Comment='<span size="xx-large">Documentation for sdformat</span>'
+Comment3='
+The sdformat-doc package contains development documentation for
+sdformat.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://gazebosim.org/sdf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libfc14audiodecoder-devel</b>'
+Comment='<span size="xx-large">Files needed for developing with libfc14audiodecoder</span>'
+Comment3='
+This package contains the files that are needed when building
+software that uses libfc14audiodecoder.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xmms-fc.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

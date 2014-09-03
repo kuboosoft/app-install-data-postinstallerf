@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-settings-daemon</b>'
+Comment='<span size="xx-large">The daemon sharing settings from GNOME to GTK+/KDE applications</span>'
+Comment3='
+A daemon to share settings from GNOME to other applications. It also
+handles global keybindings, as well as a number of desktop-wide settings.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/gnome-settings-daemon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

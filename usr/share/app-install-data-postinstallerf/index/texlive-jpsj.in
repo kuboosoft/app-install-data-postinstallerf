@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-jpsj</b>'
+Comment='<span size="xx-large">Document Class for Journal of the Physical Society of Japan</span>'
+Comment3='
+jpsj package
+
+date 2007-03-14 085739 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

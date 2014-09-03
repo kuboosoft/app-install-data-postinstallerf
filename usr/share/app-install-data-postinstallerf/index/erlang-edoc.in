@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-edoc</b>'
+Comment='<span size="xx-large">A utility used to generate documentation out of tags in source files</span>'
+Comment3='
+A utility used to generate documentation out of tags in source files.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

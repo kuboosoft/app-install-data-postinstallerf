@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>golang-googlecode-goprotobuf-devel</b>'
+Comment='<span size="xx-large">Go support for Google protocol buffers</span>'
+Comment3='
+This package provides  a library that implements run-time support for
+encoding (marshaling), decoding (unmarshaling), and accessing protocol
+buffers in the Go language.
+
+Install golang-googlecode-goprotobuf for the related protocol compiler plugin.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/goprotobuf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

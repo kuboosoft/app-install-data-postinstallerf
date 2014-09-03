@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>steghide</b>'
+Comment='<span size="xx-large">A steganography program</span>'
+Comment3='
+Steghide is a steganography program that is able to hide data in various kinds
+of image- and audio-files. The color- respectivly sample-frequencies are not
+changed thus making the embedding resistant against first-order statistical
+tests. Features of steghide include compression and encryption of embedded
+data,
+
+embedding of a checksum to verify the integrity of the extracted data and
+support for jpeg, bmp, wav and au files.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://steghide.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

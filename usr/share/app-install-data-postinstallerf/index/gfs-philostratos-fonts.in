@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gfs-philostratos-fonts</b>'
+Comment='<span size="xx-large">A revival of the ?Griechische Antiqua? Greek typeface</span>'
+Comment3='
+Griechische Antiqua was one of the historical Greek typefaces of the late 19th
+and early 20th century. It was designed by ?aurice ?duard Pinder, a German
+erudite artist and a member of the Academy of Science in Berlin. This is the
+most popular version which has appeared from 1870 to 1940 in the German
+speaking philological literature and in many classical and Byzantine editions
+by publishers like Teubner (in Leipzig) and Weidmann (in Berlin) such as
+Anthology of Byzantine Melos by Wilhelm von Christ and Matthaios
+Paranikas (Leipzig 1871), Epicurea, by Heinrich Usener (Leipzig 1887),
+Mitrodorous by Alfred Koerte (Leipzig 1890), Pindar by Otto Schroeder (Leipzig
+1908), ??? Aeschylus by U. von Wilamowitz-Moellendorff (Berlin 1910, 1915),
+'
+License='OFL'
+Screenshot=''
+Url='http://www.greekfontsociety.gr/pages/en_typefaces19th.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-omniORB</b>'
+Comment='<span size="xx-large">CORBA ORB for Python</span>'
+Comment3='
+Robust high-performance CORBA ORB for Python.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://omniorb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

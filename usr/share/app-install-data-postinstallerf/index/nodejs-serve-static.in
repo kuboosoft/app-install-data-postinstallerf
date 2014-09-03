@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-serve-static</b>'
+Comment='<span size="xx-large">Middleware for serving static files for Node.js and Connect</span>'
+Comment3='
+Middleware for serving static files for Node.js and Connect.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/expressjs/serve-static'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

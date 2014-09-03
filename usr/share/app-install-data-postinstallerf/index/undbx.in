@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>undbx</b>'
+Comment='<span size="xx-large">Outlook Express .dbx files extractor</span>'
+Comment3='
+UnDBX is a tool to extract, recover and undelete e-mail messages from
+Outlook Express .dbx file.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://code.google.com/p/undbx/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bareftp</b>'
+Comment='<span size="xx-large">File transfer client supporting the FTP, FTP over SSL/TLS (FTPS) and SSH</span>'
+Comment3='
+bareFTP is a file transfer client supporting the FTP, FTP over SSL/TLS (FTPS)
+and SSH File Transfer Protocol (SFTP). It is written in C#, targeting the Mono
+framework and the GNOME desktop environment. bareFTP is free and open source
+software released under the terms of the GPL license.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://www.bareftp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

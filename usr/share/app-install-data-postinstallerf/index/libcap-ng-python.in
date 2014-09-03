@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libcap-ng-python</b>'
+Comment='<span size="xx-large">Python bindings for libcap-ng library</span>'
+Comment3='
+The libcap-ng-python package contains the bindings so that libcap-ng
+and can be used by python applications.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://people.redhat.com/sgrubb/libcap-ng'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

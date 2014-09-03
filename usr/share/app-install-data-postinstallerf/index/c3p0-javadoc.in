@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>c3p0-javadoc</b>'
+Comment='<span size="xx-large">API documentation for c3p0</span>'
+Comment3='
+API documentation for c3p0.
+'
+License='LGPLv2 or EPL'
+Screenshot=''
+Url='https://github.com/swaldman/c3p0'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

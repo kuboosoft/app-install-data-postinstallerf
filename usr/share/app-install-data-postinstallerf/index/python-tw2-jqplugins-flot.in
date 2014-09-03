@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-tw2-jqplugins-flot</b>'
+Comment='<span size="xx-large">jQuery flot (plotting) for ToscaWidgets2</span>'
+Comment3='
+toscawidgets2 (tw2) aims to be a practical and useful widgets framework
+that helps people build interactive websites with compelling features, faster
+and easier. Widgets are re-usable web components that can include a template,
+server-side code and JavaScripts/CSS resources. The library aims to be
+flexible, reliable, documented, performant, and as simple as possible.
+
+flot is a pure Javascript plotting library for jQuery. It produces graphical
+plots of arbitrary data sets on-the-fly client-side.
+This module, tw2.jqplugins.flot, provides toscawidgets2 (tw2) access
+'
+License='MIT'
+Screenshot=''
+Url='http://toscawidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-compression</b>'
+Comment='<span size="xx-large">Compression middleware for Node.js and Connect</span>'
+Comment3='
+Compression middleware for Node.js and Connect.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/expressjs/compression'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

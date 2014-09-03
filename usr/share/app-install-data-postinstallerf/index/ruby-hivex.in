@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-hivex</b>'
+Comment='<span size="xx-large">Ruby bindings for hivex</span>'
+Comment3='
+ruby-hivex contains Ruby bindings for hivex.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

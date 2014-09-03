@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-HTML-FormHandler</b>'
+Comment='<span size="xx-large">HTML forms using Moose</span>'
+Comment3='
+HTMLFormHandler is a form handling class that validates HTML form data and,
+for database forms, saves it to the database on validation. It has field
+classes that can be used for creating a set of widgets and highly automatic
+templates. There are two simple rendering roles plus a set of widget roles for
+individual form and field classes. FormHandler is designed to make it easy to
+produce alternative rendering modules.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-FormHandler/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

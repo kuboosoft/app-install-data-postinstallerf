@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ncid-speak</b>'
+Comment='<span size="xx-large">NCID speak module speaks caller ID information via voice synthesis</span>'
+Comment3='
+The NCID speak module announces Caller Id information verbally, using
+the Festival text-to-speech voice synthesis system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ncid.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

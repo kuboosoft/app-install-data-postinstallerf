@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>urw-fonts</b>'
+Comment='<span size="xx-large">Free versions of the 35 standard PostScript fonts.</span>'
+Comment3='
+Free good quality versions of the 35 standard PostScript(TM) fonts,
+donated under the GPL by URW++ Design and Development GmbH.
+
+Install the urw-fonts package if you need free versions of standard
+PostScript fonts.
+'
+License='GPL+'
+Screenshot=''
+Url='http://svn.ghostscript.com/ghostscript/tags/urw-fonts-1.0.7pre44/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

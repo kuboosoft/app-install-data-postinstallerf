@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-sure</b>'
+Comment='<span size="xx-large">Assertion toolbox for python</span>'
+Comment3='
+A Python assertion toolbox that works fine with nose.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/gabrielfalcao/sure'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

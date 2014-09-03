@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>giis</b>'
+Comment='<span size="xx-large">Solution to undelete files "gET iT i sAY"</span>'
+Comment3='
+gET iT i sAY giis is an ext2/ext3 File Undelete Tool.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://giis.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

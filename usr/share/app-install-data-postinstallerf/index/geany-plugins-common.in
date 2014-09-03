@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geany-plugins-common</b>'
+Comment='<span size="xx-large">Common files used by all geany plugins</span>'
+Comment3='
+This package contains some common files which are used by every Geany plugin,
+e.g. language translations.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

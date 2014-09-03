@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>debian-keyring</b>'
+Comment='<span size="xx-large">GnuPG archive keys of the Debian archive</span>'
+Comment3='
+archive keys used for that.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://packages.debian.org/unstable/admin/debian-archive-keyring'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

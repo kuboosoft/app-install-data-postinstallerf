@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>znc-infobot</b>'
+Comment='<span size="xx-large">infobot module for ZNC IRC Bouncer</span>'
+Comment3='
+This is a user module for ZNC that provides joined
+channels with a multitude of bot commands
+'
+License='GPLv2'
+Screenshot=''
+Url='http://znc-msvc.googlecode.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

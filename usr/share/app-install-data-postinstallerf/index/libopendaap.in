@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libopendaap</b>'
+Comment='<span size="xx-large">Library for connection to iTunes music shares</span>'
+Comment3='
+Libopendaap is a library written in C which enables applications to
+discover, and connect to, iTunes music shares.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://crazney.net/programs/itunes/libopendaap.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

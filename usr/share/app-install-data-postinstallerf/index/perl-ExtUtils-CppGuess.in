@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-ExtUtils-CppGuess</b>'
+Comment='<span size="xx-large">Guess C++ compiler and flags</span>'
+Comment3='
+ExtUtilsCppGuess attempts to guess the systems C++ compiler that is
+compatible with the C compiler that your perl was built with.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/ExtUtils-CppGuess/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

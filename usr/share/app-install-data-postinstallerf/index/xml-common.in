@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xml-common</b>'
+Comment='<span size="xx-large">Common XML catalog and DTD files</span>'
+Comment3='
+The xml-common is a subpackage of sgml-common which contains
+a collection XML catalogs that are useful for processing XML,
+but that dont need to be included in main package.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.w3.org/2003/entities/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

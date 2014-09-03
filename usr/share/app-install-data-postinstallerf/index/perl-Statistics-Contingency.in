@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Statistics-Contingency</b>'
+Comment='<span size="xx-large">Calculate precision, recall, F1, accuracy, etc</span>'
+Comment3='
+The StatisticsContingency class helps you calculate several useful
+statistical measures based on 2x2 "contingency tables". I use these
+measures to help judge the results of automatic text categorization
+experiments, but they are useful in other situations as well.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Statistics-Contingency/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

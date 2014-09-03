@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nautilus-terminal</b>'
+Comment='<span size="xx-large">Terminal embedded in Nautilus</span>'
+Comment3='
+Nautilus Terminal is a terminal embedded in Nautilus, the GNOMEs file browser.
+It is always open in the current folder, and follows the navigation.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://software.flogisoft.com/nautilus-terminal/en/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

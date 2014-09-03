@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>double-conversion-devel</b>'
+Comment='<span size="xx-large">Library providing binary-decimal and decimal-binary routines for IEEE doubles</span>'
+Comment3='
+Contains header files for developing applications that use the double-conversion
+library.
+
+There is extensive documentation in src/double-conversion.h. Other
+examples can be found in test/cctest/test-conversions.cc.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/double-conversion'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

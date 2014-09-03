@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>createrepo_c-devel</b>'
+Comment='<span size="xx-large">Library for repodata manipulation</span>'
+Comment3='
+This package contains the createrepo_c C library and header files.
+These development files are for easy manipulation with a repodata.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/Tojaj/createrepo_c'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmlrpc-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for xmlrpc</span>'
+Comment3='
+Javadoc for xmlrpc.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ws.apache.org/xmlrpc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Archive-Peek</b>'
+Comment='<span size="xx-large">Peek into archives without extracting them</span>'
+Comment3='
+This module lets you peek into archives without extracting them. It currently
+supports tar files and zip files.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Archive-Peek/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

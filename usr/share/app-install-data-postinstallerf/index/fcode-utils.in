@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fcode-utils</b>'
+Comment='<span size="xx-large">Utilities for dealing with FCode</span>'
+Comment3='
+Utilities for dealing with FCode, a Forth programming language dialect
+compliant with ANS Forth.
+'
+License='GPLv2 and CPL'
+Screenshot=''
+Url='http://www.openfirmware.info/FCODE_suite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

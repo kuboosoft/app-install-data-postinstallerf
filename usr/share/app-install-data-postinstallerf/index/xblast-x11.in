@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xblast-x11</b>'
+Comment='<span size="xx-large">Lay bombs and Blast the other players of the field (X11 version)</span>'
+Comment3='
+This is the original X11 version of XBlast, a multiplayer game where the
+"purpose" is to Blast the other players of the gamefield by laying bombs close
+to them. While at the same time you must avoid being blown up yourself.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xblast.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

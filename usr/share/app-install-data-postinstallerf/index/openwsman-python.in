@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openwsman-python</b>'
+Comment='<span size="xx-large">Python bindings for openwsman client API</span>'
+Comment3='
+This package provides Python bindings to access the openwsman client
+API.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openwsman.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

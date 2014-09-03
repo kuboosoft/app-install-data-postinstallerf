@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>syntastic-matlab</b>'
+Comment='<span size="xx-large">A syntax checker for matlab programming language</span>'
+Comment3='
+Allows checking matlab sources files.
+'
+License='WTFPL'
+Screenshot=''
+Url='https://github.com/scrooloose/syntastic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

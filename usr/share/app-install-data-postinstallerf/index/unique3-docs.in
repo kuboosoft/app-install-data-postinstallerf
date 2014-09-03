@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>unique3-docs</b>'
+Comment='<span size="xx-large">Documentation for unique3</span>'
+Comment3='
+API docs for unique3.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/~ebassi/source/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

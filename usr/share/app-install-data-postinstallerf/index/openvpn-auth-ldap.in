@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openvpn-auth-ldap</b>'
+Comment='<span size="xx-large">OpenVPN plugin for LDAP authentication</span>'
+Comment3='
+The OpenVPN Auth-LDAP Plugin implements username/password authentication via
+LDAP for OpenVPN 2.x.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/openvpn-auth-ldap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-HTTP-OAI</b>'
+Comment='<span size="xx-large">API for the OAI-PMH</span>'
+Comment3='
+This is a stub module, you probably want to look at HTTPOAIHarvester or
+HTTPOAIRepository.
+'
+License='BSD'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-OAI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vdr-live-data</b>'
+Comment='<span size="xx-large">Images, themes and JavaScript for vdr-live</span>'
+Comment3='
+This package contains images, themes and JavaScript.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://projects.vdr-developer.org/projects/plg-live'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

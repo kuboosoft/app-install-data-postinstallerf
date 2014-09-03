@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-escape</b>'
+Comment='<span size="xx-large">HTML/URI/shell escaping utilities</span>'
+Comment3='
+Escape library provides several HTML/URI/shell escaping functions.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.a-k-r.org/escape'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

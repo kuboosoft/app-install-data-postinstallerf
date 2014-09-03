@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-fedora-django</b>'
+Comment='<span size="xx-large">Python modules for django applications authing to Fedora Account System</span>'
+Comment3='
+Python modules that help with building Fedora Services.  This package includes
+an auth provider to let django applications authenticate against the Fedora
+Account System.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/python-fedora/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

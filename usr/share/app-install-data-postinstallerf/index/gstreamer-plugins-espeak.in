@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gstreamer-plugins-espeak</b>'
+Comment='<span size="xx-large">A simple gstreamer plugin to use espeak</span>'
+Comment3='
+A simple gstreamer plugin to use espeak as a sound source.
+It was developed to simplify the espeak usage in the Sugar Speak activity.
+The plugin uses given text to produce audio output.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activity_Team/gst-plugins-espeak'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

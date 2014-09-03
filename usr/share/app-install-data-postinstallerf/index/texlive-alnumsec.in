@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-alnumsec</b>'
+Comment='<span size="xx-large">Alphanumeric section numbering</span>'
+Comment3='
+This package allows you to use alphanumeric section numbering,
+for instance "A. Introduction ... III. International Law". Its
+output is similar to alphanum, but you can use the standard
+LaTeX sectioning commands, so that it is possible to switch
+numbering schemes easily. Greek letters, double letters (bb)
+and different delimiters around them are supported.
+
+date 2008-05-11 022117 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

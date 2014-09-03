@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gfal2-transfer</b>'
+Comment='<span size="xx-large">File Transfer logic of gfal2</span>'
+Comment3='
+gfal2-transfer is the high level API for file transfer operations
+in gfal2. It supports third-party copy.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

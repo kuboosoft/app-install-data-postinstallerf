@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>springframework-webmvc</b>'
+Comment='<span size="xx-large">Spring Web Servlet</span>'
+Comment3='
+This package provide framework servlets, web MVC framework,
+web controllers, web views for JSP, Velocity, Tiles,
+iText and POI.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.springframework.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

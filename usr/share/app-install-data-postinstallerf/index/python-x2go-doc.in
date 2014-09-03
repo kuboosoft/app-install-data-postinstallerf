@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-x2go-doc</b>'
+Comment='<span size="xx-large">Python X2Go client API documentation</span>'
+Comment3='
+This package contains the Python X2Go client API documentation.
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://www.x2go.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

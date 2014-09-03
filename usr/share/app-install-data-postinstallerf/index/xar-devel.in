@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xar-devel</b>'
+Comment='<span size="xx-large">Development files for the eXtensible ARchiver</span>'
+Comment3='
+Development files for the eXtensible ARchiver.
+
+URL          http//code.google.com/p/xar/
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/xar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

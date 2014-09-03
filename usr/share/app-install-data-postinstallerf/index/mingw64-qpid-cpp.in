@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mingw64-qpid-cpp</b>'
+Comment='<span size="xx-large">MinGW Windows port of AMQP C++ Daemons and Libraries</span>'
+Comment3='
+MinGW cross-compiled daemons and run-time libraries for AMQP client
+applications developed using Qpid C++. Clients exchange messages with
+an AMQP message broker using the AMQP protocol.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

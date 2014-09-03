@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gdk-pixbuf2-devel</b>'
+Comment='<span size="xx-large">Development files for gdk-pixbuf</span>'
+Comment3='
+This package contains the libraries and header files that are needed
+for writing applications that are using gdk-pixbuf.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

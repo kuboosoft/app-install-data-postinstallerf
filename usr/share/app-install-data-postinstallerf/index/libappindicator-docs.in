@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libappindicator-docs</b>'
+Comment='<span size="xx-large">Documentation for libappindicator and libappindicator-gtk3</span>'
+Comment3='
+This package contains the documentation for the appindicator and
+appindicator-gtk3 libraries.
+'
+License='LGPLv2 and LGPLv3'
+Screenshot=''
+Url='https://launchpad.net/libappindicator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>proguard-gui</b>'
+Comment='<span size="xx-large">GUI for proguard</span>'
+Comment3='
+A GUI for proguard.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://proguard.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Git</b>'
+Comment='<span size="xx-large">Perl interface to Git</span>'
+Comment3='
+Perl interface to Git.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://git-scm.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

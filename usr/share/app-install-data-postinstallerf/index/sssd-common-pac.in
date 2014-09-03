@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sssd-common-pac</b>'
+Comment='<span size="xx-large">Common files needed for supporting PAC processing</span>'
+Comment3='
+Provides common files needed by SSSD providers such as IPA and Active Directory
+for handling Kerberos PACs.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

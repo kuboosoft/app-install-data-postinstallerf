@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>coco-coq</b>'
+Comment='<span size="xx-large">Coco Coq in Grostesteings base, an AGI adventure game</span>'
+Comment3='
+Grostesteing is back for troubles hes kidnapped the Coco Coqs friends
+to turn them into monsters. Coco must go inside the deadly base, avoids
+traps, free his friends and beat the bad scientist Grostesteing.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://membres.lycos.fr/agisite/coco-c.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

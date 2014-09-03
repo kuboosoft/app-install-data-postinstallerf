@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-psycopg2</b>'
+Comment='<span size="xx-large">A PostgreSQL database adapter for Python 3</span>'
+Comment3='
+This is a build of the psycopg PostgreSQL database adapter for Python 3.
+'
+License='LGPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.psycopg.org/psycopg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

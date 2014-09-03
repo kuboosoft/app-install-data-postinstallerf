@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>colorize</b>'
+Comment='<span size="xx-large">Perl script to colorize logs</span>'
+Comment3='
+This is a short perl script to colorize your logs. You can use your
+own colors, you can simply modify your config file in your home
+directory, or system-wide (/etc/colorize).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://colorize.raszi.hu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

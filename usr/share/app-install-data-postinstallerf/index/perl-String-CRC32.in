@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-String-CRC32</b>'
+Comment='<span size="xx-large">Perl interface for cyclic redundancy check generation</span>'
+Comment3='
+This packages provides a perl module to generate checksums from strings and
+from files.
+
+The checksums are the same as those calculated by ZMODEM, PKZIP, PICCHECK and
+many others.
+Theres another perl module called StringCRC, which supports calculation of
+CRC values of various widths (i.e. not just 32 bits), but the generated sums
+differ from those of the programs mentioned above.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://search.cpan.org/dist/String-CRC32/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

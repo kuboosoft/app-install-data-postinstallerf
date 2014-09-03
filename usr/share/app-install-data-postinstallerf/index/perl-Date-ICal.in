@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Date-ICal</b>'
+Comment='<span size="xx-large">Perl extension for ICalendar date objects</span>'
+Comment3='
+DateICal talks the ICal date format, and is intended to be a base class
+for other date/calendar modules that know about ICal time format also.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Date-ICal/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xfce4-power-manager</b>'
+Comment='<span size="xx-large">Power management for the Xfce desktop environment</span>'
+Comment3='
+Xfce Power Manager uses the information and facilities provided by HAL to
+display icons and handle user callbacks in an interactive Xfce session.
+Xfce Power Preferences allows authorised users to set policy and change
+preferences.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/applications/xfce4-power-manager'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

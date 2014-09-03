@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>icaro</b>'
+Comment='<span size="xx-large">Robotic Educational Project</span>'
+Comment3='
+An educational robotic software aimed to develop robotic
+and programming fundamentals.
+'
+License='GPLv3 and LGPLv2'
+Screenshot=''
+Url='http://roboticaro.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

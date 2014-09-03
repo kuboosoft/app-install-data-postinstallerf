@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-blockdiag-devel</b>'
+Comment='<span size="xx-large">Development files for python-blockdiag</span>'
+Comment3='
+Development files for python-blockdiag.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://blockdiag.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

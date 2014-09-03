@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-ufl</b>'
+Comment='<span size="xx-large">A compiler for finite element variational forms</span>'
+Comment3='
+The Unified Form Language (UFL) is a domain specific language for declaration
+of finite element discretizations of variational forms. More precisely, it
+defines a flexible interface for choosing finite element spaces and defining
+expressions for weak forms in a notation close to mathematical notation.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.fenicsproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

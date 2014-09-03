@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-geniplate</b>'
+Comment='<span size="xx-large">Template Haskell to generate Uniplate-like functions</span>'
+Comment3='
+Use template Haskell to generate Uniplate-like functions.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/geniplate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-symfony-doctrinebridge</b>'
+Comment='<span size="xx-large">Symfony Doctrine Bridge</span>'
+Comment3='
+Provides integration for Doctrine (http//www.doctrine-project.org/) with
+various Symfony components.
+
+Configuration reference
+http//symfony.com/doc/current/reference/configuration/doctrine.html
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

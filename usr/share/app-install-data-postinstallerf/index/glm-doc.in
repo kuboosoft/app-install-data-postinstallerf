@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>glm-doc</b>'
+Comment='<span size="xx-large">Documentation for glm-devel</span>'
+Comment3='
+The glm-doc package contains reference documentation and
+a programming manual for the glm-devel package.
+'
+License='MIT'
+Screenshot=''
+Url='http://glm.g-truc.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

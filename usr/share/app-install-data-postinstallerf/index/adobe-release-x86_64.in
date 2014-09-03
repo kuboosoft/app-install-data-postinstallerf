@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>adobe-release-x86_64</b>'
+Comment='<span size="xx-large">linux.adobe.com Repository Configuration</span>'
+Comment3='
+linuxdownload.adobe.com repository contains RPM packages of Adobe Linux Software
+'
+License='BSD'
+Screenshot=''
+Url='http://linuxdownload.adobe.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

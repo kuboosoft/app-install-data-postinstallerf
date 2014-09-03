@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wodim</b>'
+Comment='<span size="xx-large">A command line CD/DVD recording program</span>'
+Comment3='
+Wodim is an application for creating audio and data CDs. Wodim
+works with many different brands of CD recorders, fully supports
+multi-sessions and provides human-readable error messages.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://cdrkit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

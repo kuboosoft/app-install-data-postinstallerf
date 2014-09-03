@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>brazil-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for brazil</span>'
+Comment3='
+API documentation for brazil.
+'
+License='SPL'
+Screenshot=''
+Url='http://research.sun.com/brazil/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

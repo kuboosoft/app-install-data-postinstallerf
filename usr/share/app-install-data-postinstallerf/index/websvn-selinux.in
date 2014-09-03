@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>websvn-selinux</b>'
+Comment='<span size="xx-large">SELinux context for websvn</span>'
+Comment3='
+SElinux context for websvn.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.websvn.info'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

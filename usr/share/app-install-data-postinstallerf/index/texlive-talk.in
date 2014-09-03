@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-talk</b>'
+Comment='<span size="xx-large">A LaTeX class for presentations</span>'
+Comment3='
+The talk document class allows you to create slides for screen
+presentations or printing on transparencies. It also allows you
+to print personal notes for your talk. You can create overlays
+and display structure information (current section /
+subsection, table of contents) on your slides. The main feature
+that distinguishes talk from other presentation classes like
+beamer or prosper is that it allows the user to define an
+arbitrary number of slide styles and switch between these
+styles from slide to slide. This way the slide layout can be
+adapted to the slide content. For example, the title or
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

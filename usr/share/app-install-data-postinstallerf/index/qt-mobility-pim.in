@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qt-mobility-pim</b>'
+Comment='<span size="xx-large">Qt Mobility Personal Information Management support</span>'
+Comment3='
+Qt Mobility Personal Information Management support, including
+QtContacts, QtOrganzier, QtVersit, QtVersitOrganizer.
+
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qt.digia.com/Product/Qt-Add-Ons/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

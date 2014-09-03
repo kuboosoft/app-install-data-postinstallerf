@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-schulschriften</b>'
+Comment='<span size="xx-large">German "school scripts" from Suetterlin to the present day</span>'
+Comment3='
+Das Paket enthalt im wesentlichen die METAFONT-Quellfiles fur
+die folgenden Schulausgangsschriften Suetterlinschrift,
+Deutsche Normalschrift, Lateinische Ausgangsschrift,
+Schulausgangsschrift, Vereinfachte Ausgangsschrift. Damit ist
+es moglich, beliebige deutsche Texte in diesen Schreibschriften
+zu schreiben.
+
+date 2012-11-15 130737 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

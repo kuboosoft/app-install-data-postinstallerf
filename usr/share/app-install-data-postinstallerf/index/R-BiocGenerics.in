@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-BiocGenerics</b>'
+Comment='<span size="xx-large">Generic functions for Bioconductor</span>'
+Comment3='
+S4 generic functions needed by many other Bioconductor packages.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/BiocGenerics.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-authoraftertitle</b>'
+Comment='<span size="xx-large">Make author, etc., available after \maketitle</span>'
+Comment3='
+This jiffy package makes the author, title and date of the
+package available to the user (as \MyAuthor, etc) after the
+\maketitle command has been executed.
+
+date 2011-12-17 144104 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

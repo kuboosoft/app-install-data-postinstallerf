@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zimlib-devel</b>'
+Comment='<span size="xx-large">Development files for zimlib</span>'
+Comment3='
+The zimlib-devel package contains libraries and header files for
+developing applications that use zimlib.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openzim.org/wiki/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

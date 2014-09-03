@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>htmlunit</b>'
+Comment='<span size="xx-large">A headless web browser for automated testing</span>'
+Comment3='
+HtmlUnit is a "GUI-Less browser for Java programs". It models HTML
+documents and provides an API for automated testing of
+web applications.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://htmlunit.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

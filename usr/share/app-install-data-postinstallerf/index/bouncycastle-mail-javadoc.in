@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bouncycastle-mail-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for bouncycastle-mail</span>'
+Comment3='
+API documentation for the bouncycastle-mail package.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.bouncycastle.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

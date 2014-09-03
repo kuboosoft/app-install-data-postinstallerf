@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>docbook5-style-xsl</b>'
+Comment='<span size="xx-large">Norman Walshs XSL stylesheets for DocBook 5.X</span>'
+Comment3='
+These XSL namespace aware stylesheets allow you to transform any
+DocBook 5 document to other formats, such as HTML, manpages, FO,
+XHMTL and other formats. They are highly customizable. For more
+information see W3C page about XSL.
+'
+License='MIT and MPLv1.1'
+Screenshot=''
+Url='http://wiki.docbook.org/DocBookXslStylesheets'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

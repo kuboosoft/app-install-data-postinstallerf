@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-yui</b>'
+Comment='<span size="xx-large">Python bindings for libyui</span>'
+Comment3='
+This package provides Python language bindings to access functions of
+libyui - An User Interface engine that provides the abstraction
+from graphical user interfaces (Qt, Gtk) and text based user
+interfaces (ncurses).
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='https://github.com/libyui/libyui-bindings'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

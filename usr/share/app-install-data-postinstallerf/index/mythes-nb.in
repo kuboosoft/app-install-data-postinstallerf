@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-nb</b>'
+Comment='<span size="xx-large">Bokmaal thesaurus</span>'
+Comment3='
+Bokmaal thesaurus.
+'
+License='GPL+'
+Screenshot=''
+Url='http://spell-norwegian.alioth.debian.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Types-Structured</b>'
+Comment='<span size="xx-large">Structured Type Constraints for Moose</span>'
+Comment3='
+A structured type constraint is a standard container Moose type constraint,
+such as an ArrayRef or HashRef, which has been enhanced to allow you to
+explicitly name all the allowed type constraints inside the structure.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Types-Structured/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

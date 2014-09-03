@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>swig</b>'
+Comment='<span size="xx-large">Connects C/C++/Objective C to some high-level programming languages</span>'
+Comment3='
+Simplified Wrapper and Interface Generator (SWIG) is a software
+development tool for connecting C, C++ and Objective C programs with a
+variety of high-level programming languages.  SWIG is primarily used
+with Perl, Python and Tcl/TK, but it has also been extended to Java,
+Eiffel and Guile. SWIG is normally used to create high-level
+interpreted programming environments, systems integration, and as a
+tool for building user interfaces
+'
+License='GPLv3+ and BSD'
+Screenshot=''
+Url='http://swig.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

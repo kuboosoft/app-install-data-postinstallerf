@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>psfex</b>'
+Comment='<span size="xx-large">Model the Point Spread Function from FITS images</span>'
+Comment3='
+PSFEx (?PSF Extractor?) extracts models of the Point Spread Function (PSF)
+from FITS images processed with SExtractor and measures the quality of images.
+The generated PSF models can be used for model-fitting photometry or
+morphological analyses.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://astromatic.iap.fr/software/psfex'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

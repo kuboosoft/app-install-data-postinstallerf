@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dgc-devel</b>'
+Comment='<span size="xx-large">Library for dgc package</span>'
+Comment3='
+The dgc-devel package contains the shared library
+for dgc package.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/dgc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

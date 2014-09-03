@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-indents-devel</b>'
+Comment='<span size="xx-large">Haskell indents library development files</span>'
+Comment3='
+This package provides the development files for the Haskell indents library.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/indents'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

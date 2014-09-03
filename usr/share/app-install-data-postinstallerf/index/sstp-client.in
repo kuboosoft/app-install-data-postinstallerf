@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sstp-client</b>'
+Comment='<span size="xx-large">Secure Socket Tunneling Protocol (SSTP) Client</span>'
+Comment3='
+This is a client for the Secure Socket Tunneling Protocol, SSTP. It can be
+used to establish a SSTP connection to a Windows Server.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sstp-client.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

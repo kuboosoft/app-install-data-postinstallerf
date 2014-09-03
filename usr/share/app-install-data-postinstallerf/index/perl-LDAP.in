@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-LDAP</b>'
+Comment='<span size="xx-large">LDAP Perl module</span>'
+Comment3='
+NetLDAP is a collection of modules that implements an LDAP services API
+for Perl programs. The module may be used to search directories or perform
+maintenance functions such as adding, deleting or modifying entries.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/perl-ldap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

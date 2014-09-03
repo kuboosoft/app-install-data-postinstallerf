@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kyua-cli-tests</b>'
+Comment='<span size="xx-large">Run-time tests of the Kyua toolchain</span>'
+Comment3='
+This package installs the run-time tests for the Kyua toolchain.
+Please see the README.Fedora file in the documentation directory for further
+details on how to run the installed tests.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/kyua/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

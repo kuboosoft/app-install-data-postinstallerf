@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libfishsound</b>'
+Comment='<span size="xx-large">Simple programming interface for Xiph.Org codecs</span>'
+Comment3='
+libfishsound provides a simple programming interface for decoding and
+encoding audio data using Xiph.Org codecs (FLAC, Speex and Vorbis).
+
+libfishsound by itself is designed to handle raw codec streams from a
+lower level layer such as UDP datagrams. When these codecs are used in
+files, they are commonly encapsulated in Ogg to produce Ogg FLAC, Speex
+and Ogg Vorbis files.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.annodex.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

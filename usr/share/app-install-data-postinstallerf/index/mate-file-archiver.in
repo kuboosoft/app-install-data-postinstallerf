@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mate-file-archiver</b>'
+Comment='<span size="xx-large">MATE Desktop file archiver</span>'
+Comment3='
+Mate File Archiver is an application for creating and viewing archives files,
+such as tar or zip files.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

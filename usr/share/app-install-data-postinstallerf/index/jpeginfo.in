@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jpeginfo</b>'
+Comment='<span size="xx-large">Error-check and generate informative listings from JPEG files</span>'
+Comment3='
+Jpeginfo prints information and tests integrity of JPEG/JFIF files. It can
+generate informative listings of .jpg files, and can also be used to test
+them for errors (and optionally delete broken files).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kokkonen.net/tjko/projects.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-pst-spectra</b>'
+Comment='<span size="xx-large">Draw continuum, emission and absorption spectra with PSTricks</span>'
+Comment3='
+The package is a PSTricks extension, based on a NASA lines
+database. It allows you to draw continuum, emission and
+absorption spectra. A Total of 16 880 visible lines from 99
+elements can be displayed. The package requires the xkeyval
+package for decoding its arguments.
+
+date 2008-08-23 002516 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

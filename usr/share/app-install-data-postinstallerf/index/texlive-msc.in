@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-msc</b>'
+Comment='<span size="xx-large">Draw MSC diagrams</span>'
+Comment3='
+The package should be useful to all people that prepare their
+texts with LaTeX and want to draw Message Sequence Charts in
+their texts. The package is not an MSC editor; it simply takes
+a textual description of an MSC and draws the corresponding
+MSC. The current version of the MSC macro package supports the
+full MSC2000 language.
+
+date 2008-06-02 145239 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wine-sysvinit</b>'
+Comment='<span size="xx-large">SysV initscript for the wine binfmt handler</span>'
+Comment3='
+Register the wine binary handler for windows executables via SysV init files.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

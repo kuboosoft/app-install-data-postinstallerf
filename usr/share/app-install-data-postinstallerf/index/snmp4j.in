@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>snmp4j</b>'
+Comment='<span size="xx-large">The Object Oriented SNMP API for Java Managers and Agents</span>'
+Comment3='
+SNMP4J is an enterprise class free open source and
+state-of-the-art SNMP implementation for Java 2SE 1.4 or
+later. SNMP4J supports command generation (managers) as
+well as command responding (agents). Its clean object
+oriented design is inspired by SNMP++, which is a
+well-known SNMPv1/v2c/v3 API for C++ (see http//www.agentpp.com).
+
+The SNMP4J Java SNMP API provides the following features
+* SNMPv3 with MD5 and SHA authentication and DES, 3DES,
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.snmp4j.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

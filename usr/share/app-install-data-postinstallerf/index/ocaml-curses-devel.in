@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-curses-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-curses</span>'
+Comment3='
+The ocaml-curses-devel package contains libraries and signature files for
+developing applications that use ocaml-curses.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/ocaml-tmk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

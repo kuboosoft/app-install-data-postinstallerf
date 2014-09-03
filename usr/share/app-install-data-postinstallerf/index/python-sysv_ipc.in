@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-sysv_ipc</b>'
+Comment='<span size="xx-large">System V IPC for Python - Semaphores, Shared Memory and Message Queues</span>'
+Comment3='
+The sysv_ipc module which gives Python access to System V inter-process
+semaphores, shared memory and message queues on systems that support them.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://semanchuk.com/philip/sysv_ipc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

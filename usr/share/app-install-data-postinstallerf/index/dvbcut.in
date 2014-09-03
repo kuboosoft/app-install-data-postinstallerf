@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>dvbcut</b>'
+Comment='<span size="xx-large">Clip and convert DVB transport streams to MPEG2 program streams</span>'
+Comment3='
+dvbcut is a Qt application that allows you to select certain parts of an MPEG
+transport stream (as received via Digital Video Broadcasting, DVB) and save
+these parts into a single MPEG output file. It follows a "keyhole surgery"
+approach where the input video and audio data is mostly kept unchanged, and
+only very few frames at the beginning and/or end of the selected range are
+re-encoded in order to obtain a valid MPEG file. For MPEG video playback
+dvbcut can use Mplayer if available.
+'
+License='GPLv2+ and LGPLv2'
+Screenshot=''
+Url='http://dvbcut.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

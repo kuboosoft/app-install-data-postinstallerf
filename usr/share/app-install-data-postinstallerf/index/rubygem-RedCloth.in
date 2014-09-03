@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-RedCloth</b>'
+Comment='<span size="xx-large">Textile parser for Ruby</span>'
+Comment3='
+Textile parser for Ruby.
+'
+License='MIT'
+Screenshot=''
+Url='http://redcloth.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>librasterlite</b>'
+Comment='<span size="xx-large">Support Raster Data Sources within a SpatiaLite DB</span>'
+Comment3='
+Library that stores and retrieves huge raster coverages using a
+SpatiaLite DBMS. The package also contains CLI management tools.
+
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='https://www.gaia-gis.it/fossil/librasterlite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

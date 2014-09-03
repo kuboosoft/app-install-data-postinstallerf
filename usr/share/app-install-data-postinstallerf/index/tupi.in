@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tupi</b>'
+Comment='<span size="xx-large">2D vector-based animation environment</span>'
+Comment3='
+2D vector-based animation environment for digital artists
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.maefloresta.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libxdg-basedir-devel</b>'
+Comment='<span size="xx-large">Development files for libxdg-basedir</span>'
+Comment3='
+The libxdg-basedir-devel package contains libraries and header files for
+developing applications that use libxdg-basedir.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://n.ethz.ch/student/nevillm/download/libxdg-basedir'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

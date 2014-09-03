@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cone-devel</b>'
+Comment='<span size="xx-large">LibMAIL mail client development library</span>'
+Comment3='
+The cone-devel package the header files and library files for developing
+application using LibMAIL - a high level, C++ OO library for mail clients.
+
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.courier-mta.org/cone/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

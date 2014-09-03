@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Lingua-EN-Numbers</b>'
+Comment='<span size="xx-large">Turn "407" into "four hundred and seven", etc</span>'
+Comment3='
+LinguaENNumbers turns numbers into English text. It exports (upon
+request) two functions, num2en and num2en_ordinal. Each takes a scalar
+value and returns a scalar value. The return value is the English text
+expressing that number; or if what you provided wasnt a number, then they
+return undefined.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/Lingua-EN-Numbers/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

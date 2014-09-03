@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-language-javascript</b>'
+Comment='<span size="xx-large">Parser for JavaScript</span>'
+Comment3='
+Parses Javascript into an Abstract Syntax Tree (AST). Initially intended as
+frontend to hjsmin.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/language-javascript'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

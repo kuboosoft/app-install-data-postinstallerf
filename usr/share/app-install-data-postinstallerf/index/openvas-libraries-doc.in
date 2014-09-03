@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openvas-libraries-doc</b>'
+Comment='<span size="xx-large">Documentation for openvas-libraries</span>'
+Comment3='
+This package contains documentation for openvas-libraries.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.openvas.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

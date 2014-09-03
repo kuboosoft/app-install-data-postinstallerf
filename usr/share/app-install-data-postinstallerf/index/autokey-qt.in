@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>autokey-qt</b>'
+Comment='<span size="xx-large">AutoKey QT front end</span>'
+Comment3='
+This package contains the QT front end for autokey
+'
+License='GPLv3'
+Screenshot=''
+Url='http://autokey.googlecode.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

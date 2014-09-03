@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-homedir</b>'
+Comment='<span size="xx-large">Per-user Perl local::lib setup</span>'
+Comment3='
+perl-homedir configures the system to automatically create a ~/perl5
+directory in each users $HOME on user login.  This allows each user to
+install CPAN packages via the CPAN to their $HOME, with no additional
+configuration or privileges, and without installing them system-wide.
+
+If you want your users to be able to install and use their own Perl modules,
+install this package.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/local-lib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

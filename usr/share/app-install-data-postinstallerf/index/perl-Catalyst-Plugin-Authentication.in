@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-Authentication</b>'
+Comment='<span size="xx-large">Infrastructure plugin for the Catalyst authentication framework</span>'
+Comment3='
+The authentication plugin provides generic user support for Catalyst apps.
+It is the basis for both authentication (checking the user is who they
+claim to be), and authorization (allowing the user to do what the system
+authorizes them to do).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-Authentication/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

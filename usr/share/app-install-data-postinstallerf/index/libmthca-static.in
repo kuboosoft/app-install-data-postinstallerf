@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmthca-static</b>'
+Comment='<span size="xx-large">Development files for the libmthca driver</span>'
+Comment3='
+Static version of libmthca that may be linked directly to an
+application, which may be useful for debugging.
+
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

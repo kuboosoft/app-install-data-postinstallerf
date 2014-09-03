@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sdljava-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for sdljava</span>'
+Comment3='
+Javadoc for sdljava.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sdljava.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

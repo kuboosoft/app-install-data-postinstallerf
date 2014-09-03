@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-builder</b>'
+Comment='<span size="xx-large">Builders for MarkUp</span>'
+Comment3='
+Builder provides a number of builder objects that make creating structured
+data simple to do. Currently the following builder objects are supported
+* XML Markup
+* XML Events
+'
+License='MIT'
+Screenshot=''
+Url='http://onestepback.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hibernate-ehcache</b>'
+Comment='<span size="xx-large">Hibernate Ehcache Integration</span>'
+Comment3='
+Integration of Hibernate with Ehcache.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.hibernate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

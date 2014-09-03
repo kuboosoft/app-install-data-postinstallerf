@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-tikz-dependency</b>'
+Comment='<span size="xx-large">A library for drawing dependency graphs</span>'
+Comment3='
+The package provides a library that draws together existing
+TikZ facilities to make a comfortable environment for drawing
+dependency graphs. Basic facilities of the package include a
+lot of styling facilities, to let you personalize the look and
+feel of the graphs.
+
+date 2012-01-19 191533 +0100
+'
+License='(GPLv2 or LPPL) and (GFDL or LPPL)'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

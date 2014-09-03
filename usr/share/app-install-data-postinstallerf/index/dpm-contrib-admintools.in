@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dpm-contrib-admintools</b>'
+Comment='<span size="xx-large">DPM administration toolkit (contrib from GridPP)</span>'
+Comment3='
+This package provides a set of additional administration tools for the Disk
+Pool Manager (DPM) service.
+
+They provide easy to use commands to perform common sysadmin operations.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.gridpp.ac.uk/wiki/DPM-admin-tools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

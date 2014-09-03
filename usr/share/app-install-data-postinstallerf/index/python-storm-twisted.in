@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-storm-twisted</b>'
+Comment='<span size="xx-large">Twisted integration for python-storm</span>'
+Comment3='
+The python-storm-twisted package provides Twisted integration for python-storm.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://storm.canonical.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

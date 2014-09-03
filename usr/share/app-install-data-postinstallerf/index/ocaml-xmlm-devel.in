@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-xmlm-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-xmlm</span>'
+Comment3='
+The ocaml-xmlm-devel package contains libraries and signature files for
+developing applications that use ocaml-xmlm.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://erratique.ch/software/xmlm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

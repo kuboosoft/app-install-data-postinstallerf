@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>unittest-cpp-devel</b>'
+Comment='<span size="xx-large">Object files for development using unittest-cpp</span>'
+Comment3='
+The unittest-cpp-devel package contains the object files
+necessary for developing test programs.
+
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/unittest-cpp/unittest-cpp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

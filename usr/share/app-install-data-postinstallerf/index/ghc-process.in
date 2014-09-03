@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-process</b>'
+Comment='<span size="xx-large">Haskell process library</span>'
+Comment3='
+This package provides the Haskell process library.
+'
+License='BSD and HaskellReport'
+Screenshot=''
+Url='http://haskell.org/ghc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

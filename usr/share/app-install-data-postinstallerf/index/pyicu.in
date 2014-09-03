@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pyicu</b>'
+Comment='<span size="xx-large">Python extension wrapping IBMs ICU C++ libraries</span>'
+Comment3='
+PyICU is Python extension wrapping IBMs International Components
+for Unicode C++ library (ICU). ICU is a mature, widely used set of
+C/C++ and Java libraries providing Unicode and Globalization support
+for software applications. ICU is widely portable and gives applications
+the same results on all platforms and between C/C++ and Javasoftware.
+'
+License='MIT'
+Screenshot=''
+Url='http://pyicu.osafoundation.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

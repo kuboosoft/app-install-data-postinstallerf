@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghostscript-devel</b>'
+Comment='<span size="xx-large">Files for developing applications that use ghostscript</span>'
+Comment3='
+The header files for developing applications that use ghostscript.
+
+URL          http//www.ghostscript.com/
+'
+License='AGPLv3+ and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.ghostscript.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

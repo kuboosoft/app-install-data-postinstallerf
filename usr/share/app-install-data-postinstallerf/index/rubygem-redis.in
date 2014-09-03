@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-redis</b>'
+Comment='<span size="xx-large">A Ruby client library for Redis</span>'
+Comment3='
+A Ruby client that tries to match Redis API one-to-one, while still
+providing an idiomatic interface. It features thread-safety,
+client-side sharding, pipelining, and an obsession for performance.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/redis/redis-rb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

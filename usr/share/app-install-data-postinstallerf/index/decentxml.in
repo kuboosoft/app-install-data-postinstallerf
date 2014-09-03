@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>decentxml</b>'
+Comment='<span size="xx-large">XML parser optimized for round-tripping and code reuse</span>'
+Comment3='
+XML parser optimized for round-tripping and code reuse with main
+features being
+ * Allows 100% round-tripping, even for weird whitespace between
+   attributes in the start tag or in the end tag
+ * Suitable for building editors and filters which want/need to
+   preserve the original file layout as much as possible
+ * Error messages have line and column information
+ * Easy to reuse individual components
+ * XML 1.1 compatible
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/decentxml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

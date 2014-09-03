@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kscope-devel</b>'
+Comment='<span size="xx-large">Development files for kscope</span>'
+Comment3='
+Development files for kscope.
+
+URL          http//kscope.sourceforge.net/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kscope.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

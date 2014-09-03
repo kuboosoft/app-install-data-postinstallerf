@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-DBIx-Class-Schema-Loader</b>'
+Comment='<span size="xx-large">Dynamic definition of a DBIx::Class::Schema</span>'
+Comment3='
+DBIxClassSchemaLoader automates the definition of a
+DBIxClassSchema by scanning database table definitions
+and setting up the columns, primary keys, and relationships.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DBIx-Class-Schema-Loader/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

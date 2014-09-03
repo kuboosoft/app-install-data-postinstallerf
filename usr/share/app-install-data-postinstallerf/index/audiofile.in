@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>audiofile</b>'
+Comment='<span size="xx-large">A library for accessing various audio file formats</span>'
+Comment3='
+The Audio File library is an implementation of the Audio File Library
+from SGI, which provides an API for accessing audio file formats like
+AIFF/AIFF-C, WAVE, and NeXT/Sun .snd/.au files. This library is used
+by the EsounD daemon.
+
+Install audiofile if you are installing EsounD or you need an API for
+any of the sound file formats it can handle.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://audiofile.68k.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

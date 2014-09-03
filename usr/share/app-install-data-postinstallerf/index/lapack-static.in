@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lapack-static</b>'
+Comment='<span size="xx-large">LAPACK static libraries</span>'
+Comment3='
+LAPACK static libraries.
+
+URL          http//www.netlib.org/lapack/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.netlib.org/lapack/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

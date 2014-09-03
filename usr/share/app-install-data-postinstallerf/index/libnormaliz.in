@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnormaliz</b>'
+Comment='<span size="xx-large">Normaliz internals as a library</span>'
+Comment3='
+This package contains the normaliz internals as a library, often called
+libnormaliz.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.mathematik.uni-osnabrueck.de/normaliz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

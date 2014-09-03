@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>librep</b>'
+Comment='<span size="xx-large">A lightweight Lisp environment</span>'
+Comment3='
+This is a lightweight Lisp environment for UNIX. It contains a Lisp
+interpreter, byte-code compiler and virtual machine. Applications may
+use the Lisp interpreter as an extension language, or it may be used
+for standalone scripts.
+
+Originally inspired by Emacs Lisp, the language dialect combines many
+of the Emacs Lisp features while trying to remove some of the main
+deficiencies, with features from Common Lisp and Scheme.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sawfish.wikia.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libsmbios-devel</b>'
+Comment='<span size="xx-large">Development headers and archives</span>'
+Comment3='
+Libsmbios is a library and utilities that can be used by client programs to get
+information from standard BIOS tables, such as the SMBIOS table.
+
+This package contains the headers and .a files necessary to compile new client
+programs against libsmbios.
+'
+License='GPLv2+ or OSL 2.1'
+Screenshot=''
+Url='http://linux.dell.com/libsmbios/main'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

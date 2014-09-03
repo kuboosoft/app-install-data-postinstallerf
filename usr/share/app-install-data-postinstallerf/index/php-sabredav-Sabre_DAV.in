@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-sabredav-Sabre_DAV</b>'
+Comment='<span size="xx-large">Sabre_DAV is a WebDAV framework for PHP</span>'
+Comment3='
+SabreDAV allows you to easily add WebDAV support to a PHP application. SabreDAV
+is meant to cover the entire standard.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/sabredav'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

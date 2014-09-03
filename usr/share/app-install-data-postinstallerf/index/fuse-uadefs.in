@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fuse-uadefs</b>'
+Comment='<span size="xx-large">Pseudo file system for playing music modules as WAVs</span>'
+Comment3='
+Pseudo file system for playing music modules as WAVs. This allows audio players
+which do not support music modules, to play them.
+'
+License='GPLv2+ and Distributable'
+Screenshot=''
+Url='http://zakalwe.fi/uade'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

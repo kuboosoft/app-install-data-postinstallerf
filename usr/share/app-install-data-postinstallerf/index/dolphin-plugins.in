@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>dolphin-plugins</b>'
+Comment='<span size="xx-large">Dolphin plugins for revision control systems</span>'
+Comment3='
+Plugins for the Dolphin file manager integrating the following revision control
+systems
+* Git
+* Subversion (SVN)
+* Bazaar (Bzr)
+* Mercurial (Hg)
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/dolphin-plugins'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

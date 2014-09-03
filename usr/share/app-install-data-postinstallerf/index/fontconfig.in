@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fontconfig</b>'
+Comment='<span size="xx-large">Font configuration and customization library</span>'
+Comment3='
+Fontconfig is designed to locate fonts within the
+system and select them according to requirements specified by
+applications.
+
+'
+License='MIT and Public Domain and UCD'
+Screenshot=''
+Url='http://fontconfig.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

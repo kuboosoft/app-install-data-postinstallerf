@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>scirenderer</b>'
+Comment='<span size="xx-large">A Java rendering library based on JoGL</span>'
+Comment3='
+This Java API allows 2-D or 3-D plotting from simple 2-D graph to complex
+scenes.
+Independent library and used within Scilab software but is
+available for other application and developments.
+'
+License='CeCILL'
+Screenshot=''
+Url='http://forge.scilab.org/index.php/p/scirenderer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zookeeper-lib-devel</b>'
+Comment='<span size="xx-large">Development files for the zookeeper library</span>'
+Comment3='
+Development files for the ZooKeeper C client library.
+
+URL          http//zookeeper.apache.org/
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://zookeeper.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

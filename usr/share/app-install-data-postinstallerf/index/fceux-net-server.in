@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fceux-net-server</b>'
+Comment='<span size="xx-large">Server for the FCEUX emulator</span>'
+Comment3='
+FCEUX clients can connect to this server and play multiplayer NES games over
+the network.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fceux.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

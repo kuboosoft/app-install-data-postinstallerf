@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>epydoc</b>'
+Comment='<span size="xx-large">Automatic API documentation generation tool for Python</span>'
+Comment3='
+Epydoc  is a tool for generating API documentation for Python modules,
+based  on their docstrings. For an example of epydocs output, see the
+API  documentation for epydoc itself (html, pdf). A lightweight markup
+language  called  epytext can be used to format docstrings, and to add
+information  about  specific  fields,  such as parameters and instance
+variables.    Epydoc    also   understands   docstrings   written   in
+ReStructuredText, Javadoc, and plaintext.
+'
+License='MIT'
+Screenshot=''
+Url='http://epydoc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

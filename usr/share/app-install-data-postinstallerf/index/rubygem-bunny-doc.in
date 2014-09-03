@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-bunny-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-bunny</span>'
+Comment3='
+Documentation for rubygem-bunny
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/ruby-amqp/bunny'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

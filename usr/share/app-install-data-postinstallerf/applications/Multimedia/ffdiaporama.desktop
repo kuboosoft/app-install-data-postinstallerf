@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n ffdiaporama
+Name=ffdiaporama
+Comment=ffDiaporama is an application of creation of videos sequences established by titles, fixed or livened up.
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
+Categories=GNOME;GTK;AudioVideo;

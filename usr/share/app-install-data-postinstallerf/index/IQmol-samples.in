@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>IQmol-samples</b>'
+Comment='<span size="xx-large">Sample structures for IQmol</span>'
+Comment3='
+This package contains samples for IQmol.
+'
+License='BSD and GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://iqmol.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

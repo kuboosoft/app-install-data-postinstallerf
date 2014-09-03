@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmodman-devel</b>'
+Comment='<span size="xx-large">Development files for libmodman</span>'
+Comment3='
+The libmodman-devel package contains libraries and header files for
+developing applications that use libmodman.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/libmodman/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

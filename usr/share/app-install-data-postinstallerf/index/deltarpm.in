@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>deltarpm</b>'
+Comment='<span size="xx-large">Create deltas between rpms</span>'
+Comment3='
+A deltarpm contains the difference between an old
+and a new version of a rpm, which makes it possible
+to recreate the new rpm from the deltarpm and the old
+one. You dont have to have a copy of the old rpm,
+deltarpms can also work with installed rpms.
+'
+License='BSD'
+Screenshot=''
+Url='http://gitorious.org/deltarpm/deltarpm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

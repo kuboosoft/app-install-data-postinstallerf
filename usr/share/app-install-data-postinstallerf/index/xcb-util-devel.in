@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xcb-util-devel</b>'
+Comment='<span size="xx-large">Development and header files for xcb-util</span>'
+Comment3='
+Development files for xcb-util.
+
+URL          http//xcb.freedesktop.org
+'
+License='MIT'
+Screenshot=''
+Url='http://xcb.freedesktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

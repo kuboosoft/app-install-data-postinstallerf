@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-envlab</b>'
+Comment='<span size="xx-large">Addresses on envelopes or mailing labels</span>'
+Comment3='
+A LaTeX package for producing mailing envelopes and labels,
+including barcodes and address formatting according to the US
+Postal Service rules. Redefines the standard \makelabels
+command of the LaTeX letter documentclass.
+
+date 2009-01-23 151109 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

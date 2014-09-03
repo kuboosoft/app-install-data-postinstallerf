@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ibus-libpinyin</b>'
+Comment='<span size="xx-large">Intelligent Pinyin engine based on libpinyin for IBus</span>'
+Comment3='
+It includes a Chinese Pinyin input method and a Chinese ZhuYin (Bopomofo)
+input method based on libpinyin for IBus.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/libpinyin/ibus-libpinyin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

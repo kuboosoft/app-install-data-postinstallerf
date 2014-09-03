@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libpgf-devel</b>'
+Comment='<span size="xx-large">Development files for libpgf</span>'
+Comment3='
+The libpgf-devel package contains libraries and header files for
+developing applications that use libpgf.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.libpgf.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

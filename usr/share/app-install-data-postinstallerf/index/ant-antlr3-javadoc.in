@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ant-antlr3-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for ant-antlr3</span>'
+Comment3='
+This package contains the API documentation for ant-antlr3.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://antlr.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

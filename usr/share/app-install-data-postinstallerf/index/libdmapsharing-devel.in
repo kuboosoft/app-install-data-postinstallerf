@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libdmapsharing-devel</b>'
+Comment='<span size="xx-large">Files needed to develop applications using libdmapsharing</span>'
+Comment3='
+libdmapsharing implements the DMAP protocols. This includes support for
+DAAP and DPAP.  This package provides the libraries, include files, and
+other resources needed for developing applications using libdmapsharing.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.flyn.org/projects/libdmapsharing/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

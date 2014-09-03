@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ltsp-client</b>'
+Comment='<span size="xx-large">LTSP client</span>'
+Comment3='
+LTSP client package
+This package contains the scripts necessary to boot as a LTSP5 thin client.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://www.ltsp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

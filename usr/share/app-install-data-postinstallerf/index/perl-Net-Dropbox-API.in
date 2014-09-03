@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Net-Dropbox-API</b>'
+Comment='<span size="xx-large">A dropbox API interface</span>'
+Comment3='
+The Dropbox API is a OAuth based API. It is abstracted as much away
+as possible so you should not need to know too much about it.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-Dropbox-API/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-cpio</b>'
+Comment='<span size="xx-large">A Python module for accessing cpio archives</span>'
+Comment3='
+This is a Python module for accessing cpio archives.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://developer.berlios.de/projects/python-cpio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

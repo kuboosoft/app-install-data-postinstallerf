@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-imac</b>'
+Comment='<span size="xx-large">International Modal Analysis Conference format</span>'
+Comment3='
+A set of files for producing correctly formatted documents for
+the International Modal Analysis Conference. The bundle
+provides a LaTeX package and a BibTeX style file.
+
+date 2010-03-06 173022 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

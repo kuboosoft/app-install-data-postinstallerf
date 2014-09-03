@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rsyslog-udpspoof</b>'
+Comment='<span size="xx-large">Provides the omudpspoof module</span>'
+Comment3='
+This module is similar to the regular UDP forwarder, but permits to
+spoof the sender address. Also, it enables to circle through a number
+of source ports.
+'
+License='(GPLv3+ and ASL 2.0)'
+Screenshot=''
+Url='http://www.rsyslog.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

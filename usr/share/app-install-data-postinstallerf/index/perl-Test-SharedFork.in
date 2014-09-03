@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-SharedFork</b>'
+Comment='<span size="xx-large">Fork test</span>'
+Comment3='
+TestSharedFork is utility module for TestBuilder. It manages testing
+by keeping the test count consistent between parent and child processes.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-SharedFork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

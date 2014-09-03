@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lua-event</b>'
+Comment='<span size="xx-large">This is a binding of libevent to Lua</span>'
+Comment3='
+This package contains the bindings for libevent, a synchronous event
+notification library that provides a mechanism to execute a callback function
+when a specific event occurs on a file descriptor or after a timeout has been
+reached.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://github.com/harningt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-pst-soroban</b>'
+Comment='<span size="xx-large">Draw a Soroban using PSTricks</span>'
+Comment3='
+The package uses PSTricks to draw a Japanese abacus, or
+soroban. The soroban is still used in Japan today.
+
+date 2008-08-23 002516 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

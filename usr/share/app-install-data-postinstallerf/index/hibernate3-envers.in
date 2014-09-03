@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hibernate3-envers</b>'
+Comment='<span size="xx-large">Hibernate support for entity auditing</span>'
+Comment3='
+Hibernate support for entity auditing.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.hibernate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

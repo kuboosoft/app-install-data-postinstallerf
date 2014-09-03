@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-transaction-simple-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-transaction-simple</span>'
+Comment3='
+This package contains documentation for rubygem-transaction-simple.
+'
+License='MIT'
+Screenshot=''
+Url='http://trans-simple.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

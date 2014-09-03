@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-cv</b>'
+Comment='<span size="xx-large">A package for creating a curriculum vitae</span>'
+Comment3='
+The package is distributed with two example files; they (and
+their formatted output) constitute the only real documentation.
+Note that cv is just a package you choose the overall
+formatting by deciding which class to use, while the package
+provides the detailed formatting.
+
+date 2008-06-30 223702 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

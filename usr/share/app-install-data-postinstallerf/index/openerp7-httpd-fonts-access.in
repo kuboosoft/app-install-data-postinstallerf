@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openerp7-httpd-fonts-access</b>'
+Comment='<span size="xx-large">Apache configuration to allow fonts access</span>'
+Comment3='
+Allow web application to access the /usr/share/fonts directory tree.
+'
+License='AGPLv3 and GPLv3 and BSD and Beerware'
+Screenshot=''
+Url='http://www.openerp.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

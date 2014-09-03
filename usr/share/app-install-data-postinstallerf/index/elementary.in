@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>elementary</b>'
+Comment='<span size="xx-large">Basic widget set that is easy to use based on EFL</span>'
+Comment3='
+Elementary is a widget set. It is a new-style of widget set much more canvas
+object based than anything else.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.enlightenment.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

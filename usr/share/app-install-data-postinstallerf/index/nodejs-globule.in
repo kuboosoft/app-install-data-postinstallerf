@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-globule</b>'
+Comment='<span size="xx-large">An easy-to-use wildcard globbing library for Node.js</span>'
+Comment3='
+An easy-to-use wildcard globbing library for Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/cowboy/node-globule'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

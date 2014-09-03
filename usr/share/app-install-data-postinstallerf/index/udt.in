@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>udt</b>'
+Comment='<span size="xx-large">UDP based Data Transfer Protocol</span>'
+Comment3='
+UDT is a reliable UDP based application level data transport protocol
+for distributed data intensive applications over wide area high-speed
+networks. UDT uses UDP to transfer bulk data with its own reliability
+control and congestion control mechanisms. The new protocol can
+transfer data at a much higher speed than TCP does. UDT is also a
+highly configurable framework that can accommodate various congestion
+control algorithms.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://udt.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

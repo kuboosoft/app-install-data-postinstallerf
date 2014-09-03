@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>openbabel-gui</b>'
+Comment='<span size="xx-large">Chemistry software file format converter - GUI version</span>'
+Comment3='
+Open Babel is a free, open-source version of the Babel chemistry file
+translation program. Open Babel is a project designed to pick up where
+Babel left off, as a cross-platform program and library designed to
+interconvert between many file formats used in molecular modeling,
+computational chemistry, and many related areas.
+
+This package contains the graphical interface.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://openbabel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

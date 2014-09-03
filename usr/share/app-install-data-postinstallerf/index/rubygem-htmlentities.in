@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-htmlentities</b>'
+Comment='<span size="xx-large">A module for encoding and decoding (X)HTML entities</span>'
+Comment3='
+HTMLEntities is a simple library to facilitate encoding and
+decoding of named (&yacute; and so on) or numerical (&#123; or &#x12a;)
+entities in HTML and XHTML documents.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/threedaymonk/htmlentities'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

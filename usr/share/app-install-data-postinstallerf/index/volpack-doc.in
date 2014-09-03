@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>volpack-doc</b>'
+Comment='<span size="xx-large">Documentation and examples for help using volpack</span>'
+Comment3='
+The volpack-doc package contains docs and examples helpful for developing
+programs using the volpack volume rendering library.
+'
+License='BSD'
+Screenshot=''
+Url='http://amide.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-ltabptch</b>'
+Comment='<span size="xx-large">Bug fix for longtable</span>'
+Comment3='
+A patch for LaTeX bugs tools/3180 and tools/3480. The patch
+applies to version 4.11 of longtable.
+
+date 2010-03-07 163525 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

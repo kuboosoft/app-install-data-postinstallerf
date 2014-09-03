@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Text-Soundex</b>'
+Comment='<span size="xx-large">Implementation of the soundex algorithm</span>'
+Comment3='
+Soundex is a phonetic algorithm for indexing names by sound, as pronounced in
+English. This module implements the original soundex algorithm developed by
+Robert Russell and Margaret Odell, as well as a variation called "American
+Soundex".
+'
+License='Copyright only'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Soundex/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

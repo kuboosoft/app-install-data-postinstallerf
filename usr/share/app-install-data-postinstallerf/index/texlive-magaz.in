@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-magaz</b>'
+Comment='<span size="xx-large">Magazine layout</span>'
+Comment3='
+The current version does special formatting for the first line
+of text in a paragraph. The package is part of a larger body of
+tools which remain in preparation.
+
+date 2011-11-29 110224 +0100
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

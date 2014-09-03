@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>matreshka-amf-dd-devel</b>'
+Comment='<span size="xx-large">Devel package for Matreshka-dd</span>'
+Comment3='
+Devel package for Matreshka-dd
+
+URL          http//forge.ada-ru.org/matreshka
+'
+License='BSD'
+Screenshot=''
+Url='http://forge.ada-ru.org/matreshka'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

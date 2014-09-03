@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-MissingH</b>'
+Comment='<span size="xx-large">Large utility library</span>'
+Comment3='
+MissingH is a library of all sorts of utility functions for
+Haskell programmers. It is written in pure Haskell and thus
+should be extremely portable and easy to use.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/MissingH'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

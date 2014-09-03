@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ovirt-node-recipe</b>'
+Comment='<span size="xx-large">Recipes for building and running oVirt Node images</span>'
+Comment3='
+This package provides recipe (Kickstart files), client tools,
+documentation for building and running an oVirt Node image.
+This package is not to be installed on the oVirt Node,
+however on a development machine to help to build the image.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

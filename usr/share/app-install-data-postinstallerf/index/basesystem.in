@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>basesystem</b>'
+Comment='<span size="xx-large">The skeleton package which defines a simple Fedora system</span>'
+Comment3='
+Basesystem defines the components of a basic Fedora system (for
+example, the package installation order to use during bootstrapping).
+Basesystem should be in every installation of a system, and it
+should never be removed.
+'
+License='Public Domain'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

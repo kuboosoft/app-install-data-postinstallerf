@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libigtl-doc</b>'
+Comment='<span size="xx-large">Documentation for libigtl</span>'
+Comment3='
+The libigtl-doc package contains documentation for libigtl
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/openigtlink/OpenIGTLink/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

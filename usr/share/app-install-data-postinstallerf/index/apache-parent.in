@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-parent</b>'
+Comment='<span size="xx-large">Parent pom file for Apache projects</span>'
+Comment3='
+This package contains the parent pom file for apache projects.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

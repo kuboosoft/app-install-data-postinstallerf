@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-nn</b>'
+Comment='<span size="xx-large">Nynorsk thesaurus</span>'
+Comment3='
+Nynorsk thesaurus.
+'
+License='GPL+'
+Screenshot=''
+Url='http://spell-norwegian.alioth.debian.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

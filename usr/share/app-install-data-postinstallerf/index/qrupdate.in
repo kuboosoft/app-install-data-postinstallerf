@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qrupdate</b>'
+Comment='<span size="xx-large">A Fortran library for fast updates of QR and Cholesky decompositions</span>'
+Comment3='
+qrupdate is a Fortran library for fast updates of QR and Cholesky
+decompositions.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://qrupdate.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

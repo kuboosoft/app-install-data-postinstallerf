@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gdal-devel</b>'
+Comment='<span size="xx-large">Development files for the GDAL file format library</span>'
+Comment3='
+This package contains development files for GDAL.
+
+URL          http//www.gdal.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gdal.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

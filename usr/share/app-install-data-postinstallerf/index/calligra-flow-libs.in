@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>calligra-flow-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for calligra-flow</span>'
+Comment3='
+Runtime libraries for calligra-flow.
+
+URL          http//www.calligra-suite.org/
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.calligra-suite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

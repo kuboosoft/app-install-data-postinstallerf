@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openttd</b>'
+Comment='<span size="xx-large">Transport system simulation game</span>'
+Comment3='
+OpenTTD is modeled after a popular transportation business simulation game
+by Chris Sawyer and enhances the game experience dramatically. Many features
+were inspired by TTDPatch while others are original.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.openttd.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

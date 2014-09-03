@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>puppet-gluster-doc</b>'
+Comment='<span size="xx-large">A Puppet module for GlusterFS</span>'
+Comment3='
+This package contains the documentation for puppet-gluster.
+'
+License='AGPLv3+'
+Screenshot=''
+Url='https://github.com/purpleidea/puppet-gluster'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

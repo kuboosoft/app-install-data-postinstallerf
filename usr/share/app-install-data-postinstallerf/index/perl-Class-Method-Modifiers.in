@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Class-Method-Modifiers</b>'
+Comment='<span size="xx-large">Provides Moose-like method modifiers</span>'
+Comment3='
+Method modifiers are a powerful feature from the CLOS (Common Lisp Object
+System) world.
+
+In its most basic form, a method modifier is just a method that calls
+$self->SUPERfoo(@_). I for one have trouble remembering that exact
+invocation, so my classes seldom re-dispatch to their base classes. Very
+bad!
+ClassMethodModifiers provides three modifiers before, around,
+and after. before and after are run just before and after the method
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Method-Modifiers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

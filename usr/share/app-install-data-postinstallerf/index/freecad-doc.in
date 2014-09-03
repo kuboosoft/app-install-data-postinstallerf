@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>freecad-doc</b>'
+Comment='<span size="xx-large">Extended documentation for FreeCAD</span>'
+Comment3='
+End user documentation for FreeCAD
+'
+License='GPLv3+ with exception'
+Screenshot=''
+Url='http://sourceforge.net/apps/mediawiki/free-cad/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vhd2vl</b>'
+Comment='<span size="xx-large">VHDL to Verilog translator</span>'
+Comment3='
+vhd2vl is a VHDL to Verilog translation program.
+It targets the translation of synthetisable RTL.
+While far from complete it supports a useful
+subset of VHDL, sufficient for complex designs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://doolittle.icarus.com/~larry/vhd2vl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

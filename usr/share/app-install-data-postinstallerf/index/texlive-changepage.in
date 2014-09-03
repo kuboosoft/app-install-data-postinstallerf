@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-changepage</b>'
+Comment='<span size="xx-large">Margin adjustment and detection of odd/even pages</span>'
+Comment3='
+The package provides commands to change the page layout in the
+middle of a document, and to robustly check for typesetting on
+odd or even pages. Instructions for use are at the end of the
+file. The package is an extraction of code from the memoir
+class, whose user interface it shares. It is intended the this
+package will eventually replace the chngpage package, which is
+distributed with the package.
+
+date 2009-11-09 141605 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

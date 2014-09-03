@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libchamplain</b>'
+Comment='<span size="xx-large">Map view for Clutter</span>'
+Comment3='
+Libchamplain is a C library aimed to provide a ClutterActor to display
+rasterized maps.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/libchamplain/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

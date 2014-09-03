@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-pysvn</b>'
+Comment='<span size="xx-large">Pythonic style bindings for Subversion</span>'
+Comment3='
+Pythonic style bindings for Subversion
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://pysvn.tigris.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

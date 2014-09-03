@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>smooks-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for smooks</span>'
+Comment3='
+API documentation for smooks.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.smooks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

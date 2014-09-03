@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>squirrelmail</b>'
+Comment='<span size="xx-large">webmail client written in php</span>'
+Comment3='
+SquirrelMail is a basic webmail package written in PHP4. It
+includes built-in pure PHP support for the IMAP and SMTP protocols, and
+all pages render in pure HTML 4.0 (with no JavaScript) for maximum
+compatibility across browsers.  It has very few requirements and is very
+easy to configure and install.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.squirrelmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

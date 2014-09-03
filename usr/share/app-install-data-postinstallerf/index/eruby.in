@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eruby</b>'
+Comment='<span size="xx-large">An interpreter of embedded Ruby language</span>'
+Comment3='
+eRuby interprets a Ruby code embedded text file. For example, eRuby
+enables you to embed a Ruby code to a HTML file.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.modruby.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

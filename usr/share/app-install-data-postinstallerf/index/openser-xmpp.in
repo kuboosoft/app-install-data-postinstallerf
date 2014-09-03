@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openser-xmpp</b>'
+Comment='<span size="xx-large">Gateway between OpenSER and a jabber server</span>'
+Comment3='
+This modules is a gateway between Openser and a jabber server. It enables
+the exchange of instant messages between SIP clients and XMPP(jabber)
+clients.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

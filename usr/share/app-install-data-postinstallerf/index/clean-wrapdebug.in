@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clean-wrapdebug</b>'
+Comment='<span size="xx-large">A wrapper to emit more data types with debugging</span>'
+Comment3='
+A library to extend the debugging capabilities of Clean
+'
+License='LGPLv2+ or BSD'
+Screenshot=''
+Url='http://wiki.clean.cs.ru.nl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

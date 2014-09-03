@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-xss-sanitize-devel</b>'
+Comment='<span size="xx-large">Haskell xss-sanitize library development files</span>'
+Comment3='
+This package provides the Haskell xss-sanitize library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/xss-sanitize'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

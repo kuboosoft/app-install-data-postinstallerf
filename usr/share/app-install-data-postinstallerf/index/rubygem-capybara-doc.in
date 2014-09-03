@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-capybara-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-capybara</span>'
+Comment3='
+Documentation for rubygem-capybara
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jnicklas/capybara'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

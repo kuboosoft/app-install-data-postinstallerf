@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-gdk_pixbuf2-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-gdk_pixbuf2</span>'
+Comment3='
+This package contains documentation for rubygem-gdk_pixbuf2.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

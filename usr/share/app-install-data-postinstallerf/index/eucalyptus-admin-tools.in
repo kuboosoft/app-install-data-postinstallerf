@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>eucalyptus-admin-tools</b>'
+Comment3='
+Eucalyptus is a service overlay that implements elastic computing
+using existing resources. The goal of Eucalyptus is to allow sites
+with existing clusters and server infrastructure to co-host an elastic
+computing service that is interface-compatible with Amazon AWS.
+
+This package contains command line tools necessary for managing a
+Eucalyptus cluster.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.eucalyptus.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

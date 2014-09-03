@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mediawiki-HTTP302Found</b>'
+Comment='<span size="xx-large">Forces an external HTTP 302 redirect instead of internal redirects</span>'
+Comment3='
+Pushes a HTTP code 302 (Found) to the browser when there is a redirect instead
+of handling it internally. The end user will not notice any difference (other
+than the address to the page having an ?rd=Redirecting_page bit at the end).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mediawiki.org/wiki/Extension:HTTP302Found'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

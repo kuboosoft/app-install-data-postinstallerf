@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdrm</b>'
+Comment='<span size="xx-large">Direct Rendering Manager runtime library</span>'
+Comment3='
+Direct Rendering Manager runtime library
+
+URL          http//dri.sourceforge.net
+'
+License='MIT'
+Screenshot=''
+Url='http://dri.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

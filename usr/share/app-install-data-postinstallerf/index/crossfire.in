@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>crossfire</b>'
+Comment='<span size="xx-large">Server for hosting crossfire games</span>'
+Comment3='
+Crossfire is a highly graphical role-playing adventure game with
+characteristics reminiscent of rogue, nethack, omega, and gauntlet.
+It has multiplayer capability and presently runs under X11.
+
+This package contains the server for hosting crossfire games over a
+public or private network.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://crossfire.real-time.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

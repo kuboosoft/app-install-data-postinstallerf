@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdsm-hook-promisc</b>'
+Comment='<span size="xx-large">Network interface promiscuous mode support for VDSM</span>'
+Comment3='
+VDSM promiscuous mode let user define a VM interface that will capture
+all network traffic.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/wiki/Vdsm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nload</b>'
+Comment='<span size="xx-large">A tool can monitor network traffic and bandwidth usage in real time</span>'
+Comment3='
+nload is a console application which monitors network traffic and bandwidth
+usage in real time. It visualizes the in and outgoing traffic using two graphs
+and provides additional info like total amount of transfered data and min/max
+network usage.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.roland-riegel.de/nload/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

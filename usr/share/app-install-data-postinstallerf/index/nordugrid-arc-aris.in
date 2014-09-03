@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nordugrid-arc-aris</b>'
+Comment='<span size="xx-large">ARC local information system</span>'
+Comment3='
+NorduGrid is a collaboration aiming at development, maintenance and
+support of the free Grid middleware, known as the Advanced Resource
+Connector (ARC).
+
+This package contains the LDAP based information system for ARC.
+This package is not self-contained but is closely connected to
+nordugrid-arc-arex.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nordugrid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

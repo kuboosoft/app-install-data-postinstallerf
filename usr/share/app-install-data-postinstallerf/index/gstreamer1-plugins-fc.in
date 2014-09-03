@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gstreamer1-plugins-fc</b>'
+Comment='<span size="xx-large">Future Composer input plugin for GStreamer 1.0.x</span>'
+Comment3='
+This is an input plugin for GStreamer which can play back Future Composer
+music files from AMIGA. Song-length detection and seek are implemented, too.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xmms-fc.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

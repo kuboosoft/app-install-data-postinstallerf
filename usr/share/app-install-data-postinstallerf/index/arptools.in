@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>arptools</b>'
+Comment='<span size="xx-large">Collection of libnet and libpcap based ARP utilities</span>'
+Comment3='
+ARP Tools is collection of libnet and libpcap based ARP utilities. It
+currently contains ARP Discover (arpdiscover), an Ethernet scanner based on
+ARP protocol; ARP Flood (arpflood), an ARP request flooder; and ARP Poison
+(arppoison), for poisoning switches MAC address tables.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.burghardt.pl/wiki/software/arp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

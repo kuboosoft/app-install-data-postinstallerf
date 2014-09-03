@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Plugin-AutoRunmode</b>'
+Comment='<span size="xx-large">CGI::App plugin to automatically register runmodes</span>'
+Comment3='
+This plugin for CGIApplication provides easy ways to setup run modes. You
+can just write the method that implement a run mode, you do not have to
+explicitly register it with CGIApp anymore.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Plugin-AutoRunmode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xfce4-panel</b>'
+Comment='<span size="xx-large">Next generation panel for Xfce</span>'
+Comment3='
+This package includes the panel for the Xfce desktop environment.
+
+URL          http//www.xfce.org/
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-dependor</b>'
+Comment='<span size="xx-large">Simplify dependency injection in Ruby</span>'
+Comment3='
+Dependor is not a framework for Dependency Injection, but something that
+reduces duplication a little bit when doing manual dependency injection in
+settings like Rails apps.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/psyho/dependor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

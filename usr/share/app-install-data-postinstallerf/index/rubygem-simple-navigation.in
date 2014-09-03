@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rubygem-simple-navigation</b>'
+Comment='<span size="xx-large">Ruby library for creating navigation for your Rails or Sinatra application</span>'
+Comment3='
+With the simple-navigation
+mkdir -p ./usr/share/gems
+
+gem install \
+        -V \
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/andi/simple-navigation'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

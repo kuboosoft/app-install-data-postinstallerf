@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-fep</b>'
+Comment='<span size="xx-large">IBus client for text terminals (non frame buffer)</span>'
+Comment3='
+ibus-fep is an IBus client that runs on text terminals such as xterm.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/ueno/ibus-fep'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

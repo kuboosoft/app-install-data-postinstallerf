@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xfig-plain</b>'
+Comment='<span size="xx-large">Plain Xaw version of xfig</span>'
+Comment3='
+Plain Xaw version of xfig, an X Window System tool for creating basic vector
+graphics, including bezier curves, lines, rulers and more. The normal xfig
+package uses the more modern / prettier looking Xaw3d toolkit, whereas this
+version uses the very basic Xaw toolkit. Unless you really know you want this
+version you probably dont want this version.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.xfig.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

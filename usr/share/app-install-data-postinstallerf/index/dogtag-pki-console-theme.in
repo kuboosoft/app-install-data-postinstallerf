@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>dogtag-pki-console-theme</b>'
+Comment='<span size="xx-large">Certificate System - PKI Console User Interface</span>'
+Comment3='
+This PKI Console User Interface contains
+the Dogtag textual and graphical user interface for the PKI Console.
+
+This package is used by the Dogtag Certificate System.
+Several PKI packages require a "virtual" theme component.  These
+"virtual" theme components are "Provided" by various theme "flavors"
+including "dogtag", "redhat", and "ipa".  Consequently,
+all "dogtag", "redhat", and "ipa" theme components MUST be
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pki.fedoraproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

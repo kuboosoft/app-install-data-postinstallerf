@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-turkmen</b>'
+Comment='<span size="xx-large">Turkmen hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Turkmen in T1/EC and UTF-8 encodings.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

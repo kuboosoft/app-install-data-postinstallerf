@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cmusphinx3-doc</b>'
+Comment='<span size="xx-large">Doxygen documentation for cmusphinx3</span>'
+Comment3='
+Doxygen documentation for cmusphinx3.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.cmusphinx.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

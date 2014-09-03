@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libffado</b>'
+Comment='<span size="xx-large">Free firewire audio driver library</span>'
+Comment3='
+The FFADO project aims to provide a generic, open-source solution for the
+support of FireWire based audio devices for the Linux platform. It is the
+successor of the FreeBoB project.
+
+'
+License='LGPLv2+ and (GPLv2 or GPLv3)'
+Screenshot=''
+Url='http://www.ffado.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

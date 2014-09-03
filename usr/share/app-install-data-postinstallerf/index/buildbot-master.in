@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>buildbot-master</b>'
+Comment='<span size="xx-large">Build/test automation system</span>'
+Comment3='
+The BuildBot is a system to automate the compile/test cycle required by
+most software projects to validate code changes. By automatically
+rebuilding and testing the tree each time something has changed, build
+problems are pinpointed quickly, before other developers are
+inconvenienced by the failure.
+
+This package contains only the buildmaster implementation.
+The buildbot-slave package contains the buildslave.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://buildbot.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

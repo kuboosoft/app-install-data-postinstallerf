@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nagios-plugins-dpm-disk</b>'
+Comment='<span size="xx-large">Nagios probes to be run in the DPM disk nodes</span>'
+Comment3='
+This package provides the LCGDM nagios probes to be run in the grid
+Disk Pool Manager (DPM) disk nodes.
+They cover monitoring of the status of the different daemons, log file
+analysis, host certificate checks, etc.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm/wiki/Dpm/Admin/Monitoring'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

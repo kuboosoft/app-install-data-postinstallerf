@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ocsinventory-reports</b>'
+Comment='<span size="xx-large">OCS Inventory NG - Communication server</span>'
+Comment3='
+This package provides the Administration console, which will allow
+administrators to query the database server through their favorite browser.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.ocsinventory-ng.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-django-keyedcache</b>'
+Comment='<span size="xx-large">Utilities for simplified development of cache aware objects</span>'
+Comment3='
+Django Keyedcache provides utilities and class mixins for simplified development
+of cache-aware objects. Used in Satchmo
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/django-keyedcache'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

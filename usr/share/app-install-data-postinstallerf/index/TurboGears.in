@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>TurboGears</b>'
+Comment='<span size="xx-large">Back-to-front web development in Python</span>'
+Comment3='
+TurboGears brings together four major pieces to create an easy to install, easy
+to use web megaframework. It covers everything from front end (MochiKit
+JavaScript for the browser, Genshi for templates in Python) to the controllers
+(CherryPy) to the back end (SQLAlchemy).
+
+The TurboGears project is focused on providing documentation and integration
+with these tools without losing touch with the communities that already exist
+around those tools.
+TurboGears is easy to use for a wide range of web applications.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.turbogears.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

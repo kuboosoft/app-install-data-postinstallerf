@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nant</b>'
+Comment='<span size="xx-large">NAnt is a build tool for Mono and .NET</span>'
+Comment3='
+NAnt is a free .NET build tool. In theory it is kind of like make
+without makes wrinkles. In practice its a lot like Ant.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://nant.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

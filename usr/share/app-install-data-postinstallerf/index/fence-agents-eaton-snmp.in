@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-eaton-snmp</b>'
+Comment='<span size="xx-large">Fence agent for Eaton network power switches</span>'
+Comment3='
+The fence-agents-eaton-snmp package contains a fence agent for Eaton network power switches that are accessed via the SNMP protocol.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-tablor</b>'
+Comment='<span size="xx-large">Create tables of signs and of variations</span>'
+Comment3='
+The package allows the user to use the computer algebra system
+XCAS to generate tables of signs and of variations (the actual
+plotting of the tables uses the MetaPost macro package
+tableauVariations). Tables with forbidden regions may be
+developed using the package. A configuration file permits some
+configuration of the language to be used in the diagrams. The
+tablor package requires that shell escape be enabled.
+
+date 2013-10-07 183911 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>kdeutils-minimal</b>'
+Comment='<span size="xx-large">Minimal set of KDE Utilities</span>'
+Comment3='
+Minimal set of utilites for KDE 4.
+Includes
+  * ark tar/gzip archive manager
+  * kcalc scientific calculator
+  * kdf view disk usage
+  * kgpg gpg gui
+  * ktimer task scheduler
+  * kwallet kde wallet management tool
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

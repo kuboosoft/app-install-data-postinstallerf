@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>minisat2-devel</b>'
+Comment='<span size="xx-large">Development files for minisat2</span>'
+Comment3='
+The minisat2-devel package contains libraries and header files for
+developing applications that use minisat2.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://minisat.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

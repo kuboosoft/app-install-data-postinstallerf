@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmcrypt</b>'
+Comment='<span size="xx-large">Encryption algorithms library</span>'
+Comment3='
+Libmcrypt is a thread-safe library providing a uniform interface
+to access several block and stream encryption algorithms.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mcrypt.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

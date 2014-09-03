@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-flagderiv</b>'
+Comment='<span size="xx-large">Flag style derivation package</span>'
+Comment3='
+The flagderiv package is used to create mathematical
+derivations using the flag/flagpole notation. The package
+features an intuitive command syntax, opening and closing
+multiple flagpoles, different comment styles, customizable
+symbols and label namespaces.
+
+date 2007-02-22 164905 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

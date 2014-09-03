@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tpm-quote-tools</b>'
+Comment='<span size="xx-large">TPM-based attestation using the TPM quote operation (tools)</span>'
+Comment3='
+TPM Quote Tools is a collection of programs that provide support
+for TPM based attestation using the TPM quote operation.
+'
+License='BSD'
+Screenshot=''
+Url='http://sf.net/projects/tpmquotetools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

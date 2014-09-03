@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libfplll-tools</b>'
+Comment='<span size="xx-large">Command line tools that use libfplll</span>'
+Comment3='
+The libfplll-tools package contains command-line tools that expose
+the functionality of libfplll.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://perso.ens-lyon.fr/damien.stehle/fplll/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

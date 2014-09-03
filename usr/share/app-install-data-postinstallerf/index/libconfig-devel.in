@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libconfig-devel</b>'
+Comment='<span size="xx-large">Development files for libconfig</span>'
+Comment3='
+Development libraries and headers for developing software against
+libconfig.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.hyperrealm.com/libconfig/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

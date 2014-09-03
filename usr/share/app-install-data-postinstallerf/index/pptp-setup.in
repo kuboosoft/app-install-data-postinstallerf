@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pptp-setup</b>'
+Comment='<span size="xx-large">PPTP Tunnel Configuration Script</span>'
+Comment3='
+This package provides a simple configuration script for setting up PPTP
+tunnels.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pptpclient.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Email-Abstract</b>'
+Comment='<span size="xx-large">Unified interface to mail representations</span>'
+Comment3='
+"EmailAbstract" provides module writers with the ability to write
+representation-independent mail handling code. For instance, in the
+cases of "MailThread" or "MailListDetector", a key part of the code
+involves reading the headers from a mail object. Where previously one
+would either have to specify the mail class required, or to build a new
+object from scratch, "EmailAbstract" can be used to perform certain
+simple operations on an object regardless of its underlying
+representation.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Email-Abstract/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

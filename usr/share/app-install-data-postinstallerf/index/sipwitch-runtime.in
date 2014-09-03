@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sipwitch-runtime</b>'
+Comment='<span size="xx-large">Runtime library support for sipwitch</span>'
+Comment3='
+Runtime library required for sipwitch development and for using the server.
+This is available as a separate package so that one building sipwitch plugins
+with the required devel package does not also require installing a server
+image.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/sipwitch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

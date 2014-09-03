@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libassuan-devel</b>'
+Comment='<span size="xx-large">GnuPG IPC library</span>'
+Comment3='
+This is the IPC static library used by GnuPG 2, GPGME and a few other
+packages.
+
+This package contains files needed to develop applications using libassuan.
+'
+License='LGPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://www.gnupg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

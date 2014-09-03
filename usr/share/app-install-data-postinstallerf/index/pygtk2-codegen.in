@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pygtk2-codegen</b>'
+Comment='<span size="xx-large">The code generation program for PyGTK</span>'
+Comment3='
+This package contains the C code generation program for PyGTK.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pygtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

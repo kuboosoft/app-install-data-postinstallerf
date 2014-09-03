@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ladspa-wasp-plugins</b>'
+Comment='<span size="xx-large">Wave Sculpting Plugins</span>'
+Comment3='
+The Wave Sculpting Plugins (WASP) is a set of LADSPA plugins which includes both
+processors and generators. While being pretty simple and not CPU-hungry, they
+incorporate such interesting algorithms as a multi-mode wave shaper, noisifier,
+clipping booster and variable noise source.
+
+WASP is now part of the hydrogen drum machine.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.hydrogen-music.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

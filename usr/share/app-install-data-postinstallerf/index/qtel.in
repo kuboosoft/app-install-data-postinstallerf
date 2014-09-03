@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qtel</b>'
+Comment='<span size="xx-large">The Qt EchoLink Client</span>'
+Comment3='
+This package contains Qtel, the Qt EchoLink client. It is an implementation of
+the EchoLink software in Qt. This is only an EchoLink client, that is it can
+not be connected to a transciever to create a link. If it is a pure link node
+you want, install the svxlink-server package.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://svxlink.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>kanjistrokeorders-fonts</b>'
+Comment='<span size="xx-large">Font to view stroke order diagrams for Kanji, Kana and etc</span>'
+Comment3='
+This font will assist people who are learning kanji, and will help teachers of
+Japanese in the preparation of classroom material.
+In the parts of your document where you want the kanji to be annotated with
+stroke order numbers simply set your document s font to KanjiStrokeOrders.
+You will need to set the size of the font to be large to allow the stroke
+order numbers to show up 100pt seems to be the minimum usable size.
+'
+License='BSD'
+Screenshot=''
+Url='http://sites.google.com/site/nihilistorguk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-zip-archive</b>'
+Comment='<span size="xx-large">Library for creating and modifying zip archives</span>'
+Comment3='
+The zip-archive library provides functions for creating, modifying,
+and extracting files from zip archives.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/zip-archive'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

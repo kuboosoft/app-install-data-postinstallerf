@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-or</b>'
+Comment='<span size="xx-large">Odia hunspell dictionaries</span>'
+Comment3='
+Odia hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://gitorious.org/hunspell_dictionaries'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-tables</b>'
+Comment='<span size="xx-large">Hierarchical datasets in Python</span>'
+Comment3='
+PyTables is a package for managing hierarchical datasets and designed
+to efficiently and easily cope with extremely large amounts of data.
+
+This is the version for Python 3.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.pytables.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

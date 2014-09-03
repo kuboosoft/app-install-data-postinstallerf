@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tncfhh-devel</b>'
+Comment='<span size="xx-large">Development files for TNC</span>'
+Comment3='
+This package contains the header files needed for developing
+IMC and IMV pairs.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://trust.inform.fh-hannover.de/joomla/index.php/projects/tncfhh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

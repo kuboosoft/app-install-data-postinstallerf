@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-windmill</b>'
+Comment='<span size="xx-large">A web application testing framework</span>'
+Comment3='
+Windmill is an open source AJAX Web UI Testing framework. It
+implements cross browser testing, in-browser recording and playback,
+and functionality for fast accurate debugging and test environment
+integration.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://getwindmill.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gmqpak</b>'
+Comment='<span size="xx-large">Standalone Quake PAK file utility</span>'
+Comment3='
+Standalone Quake PAK file utility supporting the extraction of files,
+directories, or whole PAKs, as well as the opposite (creation of PAK files).
+'
+License='MIT'
+Screenshot=''
+Url='http://graphitemaster.github.io/gmqcc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

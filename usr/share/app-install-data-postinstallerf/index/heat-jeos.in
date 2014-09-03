@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>heat-jeos</b>'
+Comment='<span size="xx-large">This software provides the ability to create JEOS images for Heat</span>'
+Comment3='
+This is a project for creating Just Enough Operating System images
+for heat.
+
+This project supports the following features
+- Creates TDL files for use with oz
+- Creates compressed qcow2 files for use with libvirt/glance
+- Registers image files with glance
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/sdake/heat-jeos'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

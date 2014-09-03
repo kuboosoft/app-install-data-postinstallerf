@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bitmap-fangsongti-fonts</b>'
+Comment='<span size="xx-large">Selected CJK bitmap fonts for Anaconda</span>'
+Comment3='
+bitmap-fonts-cjk package contains bitmap fonts used by Anaconda. They are
+selected from the xorg packages, and the font encoding are converted from
+native encoding to ISO10646. They are only intended to be used in Anaconda.
+'
+License='MIT'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

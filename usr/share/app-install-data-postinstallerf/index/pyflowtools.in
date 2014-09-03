@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pyflowtools</b>'
+Comment='<span size="xx-large">An interface to OSU FlowTools</span>'
+Comment3='
+Python bindings to OSU Flow-Tools library
+
+This is an interface which allows one to read flows stored by
+OSU FlowTools into python program for further analysis.
+'
+License='GPL+'
+Screenshot=''
+Url='http://pyflowtools.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

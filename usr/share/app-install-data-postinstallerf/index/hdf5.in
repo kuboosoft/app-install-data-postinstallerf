@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>hdf5</b>'
+Comment='<span size="xx-large">A general purpose library and file format for storing scientific data</span>'
+Comment3='
+HDF5 is a general purpose library and file format for storing scientific data.
+HDF5 can store two primary objects datasets and groups. A dataset is
+essentially a multidimensional array of data elements, and a group is a
+structure for organizing objects in an HDF5 file. Using these two basic
+objects, one can create and store almost any kind of scientific data
+structure, such as images, arrays of vectors, and structured and unstructured
+grids. You can also mix and match them in HDF5 files according to your needs.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.hdfgroup.org/HDF5/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

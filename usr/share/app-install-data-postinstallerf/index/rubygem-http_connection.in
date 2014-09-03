@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-http_connection</b>'
+Comment='<span size="xx-large">RightScales robust HTTP/S connection module</span>'
+Comment3='
+RightscaleHttpConnection is a robust HTTP(S) library. It implements a retry
+algorithm for low-level network errors.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/appoxy/http_connection'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

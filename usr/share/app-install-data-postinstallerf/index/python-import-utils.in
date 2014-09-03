@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-import-utils</b>'
+Comment='<span size="xx-large">A module that supports simple programmatic module imports</span>'
+Comment3='
+Utilities for loading modules, supporting programmatic imports of types
+>>>from import_utils import import_module_from, import_module
+>>>import x as mod_x
+>>>mod_x = import_module(x)
+>>>
+>>>import x.y as mod_xy
+>>>mod_xy = import_module(x.y)
+>>>from x.y import z
+>>>z = import_module_from(x.y.z)
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/import-utils/0.0.1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

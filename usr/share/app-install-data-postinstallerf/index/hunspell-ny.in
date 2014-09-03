@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-ny</b>'
+Comment='<span size="xx-large">Chichewa hunspell dictionaries</span>'
+Comment3='
+Chichewa hunspell dictionaries.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/en/project/chicspell'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

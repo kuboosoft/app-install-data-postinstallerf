@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sfntly</b>'
+Comment='<span size="xx-large">A Library for Using, Editing, and Creating SFNT-based Fonts</span>'
+Comment3='
+sfntly is a Java library for using, editing, and creating sfnt
+container based fonts (e.g. OpenType, TrueType). This library
+was initially created by Googles Font Team.
+
+The basic features of sfntly are the reading, editing,
+and writing of an sfnt container font.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/sfntly/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

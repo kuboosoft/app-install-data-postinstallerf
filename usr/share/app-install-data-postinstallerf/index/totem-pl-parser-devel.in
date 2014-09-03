@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>totem-pl-parser-devel</b>'
+Comment='<span size="xx-large">Development files for totem-pl-parser</span>'
+Comment3='
+The totem-pl-parser-devel package contains libraries and header files for
+developing applications that use totem-pl-parser.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/projects/totem/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

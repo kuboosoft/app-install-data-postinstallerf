@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libsemanage-python</b>'
+Comment='<span size="xx-large">semanage python bindings for libsemanage</span>'
+Comment3='
+The libsemanage-python package contains the python bindings for developing
+SELinux management applications.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://oss.tresys.com/git/selinux.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

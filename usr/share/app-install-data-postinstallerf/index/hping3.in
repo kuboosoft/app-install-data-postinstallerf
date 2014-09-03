@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>hping3</b>'
+Comment='<span size="xx-large">TCP/IP stack auditing and much more</span>'
+Comment3='
+hping3 is a network tool able to send custom TCP/IP packets and to
+display target replies like ping do with ICMP replies. hping3 can handle
+fragmentation, and almost arbitrary packet size and content, using the
+command line interface.
+Since version 3, hping implements scripting capabilties
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.hping.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

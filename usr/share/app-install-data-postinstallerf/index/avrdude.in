@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>avrdude</b>'
+Comment='<span size="xx-large">Software for programming Atmel AVR Microcontroller</span>'
+Comment3='
+AVRDUDE is a program for programming Atmels AVR CPUs. It can program the
+Flash and EEPROM, and where supported by the serial programming protocol, it
+can program fuse and lock bits. AVRDUDE also supplies a direct instruction
+mode allowing one to issue any programming instruction to the AVR chip
+regardless of whether AVRDUDE implements that specific feature of a
+particular chip.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/avrdude'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openstack-java-swift-model</b>'
+Comment='<span size="xx-large">OpenStack Java Swift Model</span>'
+Comment3='
+This package contains the OpenStack Java Swift Model.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/woorea/openstack-java-sdk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

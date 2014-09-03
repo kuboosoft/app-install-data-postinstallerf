@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-colander</b>'
+Comment='<span size="xx-large">A simple schema-based serialization and deserialization library</span>'
+Comment3='
+An extensible package which can be used to
+
+- deserialize and validate a data structure composed of strings, mappings,
+  and lists.
+- serialize an arbitrary data structure to a data structure composed of
+  strings, mappings, and lists.
+It runs on Python 2.6, 2.7 and 3.2.
+Please see http//docs.pylonsproject.org/projects/colander/en/latest/ for
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/colander'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

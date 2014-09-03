@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-libmng</b>'
+Comment='<span size="xx-large">MinGW Windows libmng library</span>'
+Comment3='
+MinGW Windows libmng library.
+'
+License='zlib'
+Screenshot=''
+Url='http://www.libmng.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

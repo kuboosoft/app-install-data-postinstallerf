@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-IPC-DirQueue</b>'
+Comment='<span size="xx-large">Disk-based many-to-many task queue</span>'
+Comment3='
+This module implements a FIFO queueing infrastructure, using a directory as
+the communications and storage media. No daemon process is required to
+manage the queue; all communication takes place via the filesystem.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IPC-DirQueue/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libselinux-python3</b>'
+Comment='<span size="xx-large">SELinux python 3 bindings for libselinux</span>'
+Comment3='
+The libselinux-python3 package contains python 3 bindings for developing
+SELinux applications.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://oss.tresys.com/git/selinux.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

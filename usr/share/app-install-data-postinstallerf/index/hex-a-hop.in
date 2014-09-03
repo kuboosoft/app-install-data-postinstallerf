@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hex-a-hop</b>'
+Comment='<span size="xx-large">Puzzle game based on hexagonal tiles</span>'
+Comment3='
+Hex-a-Hop is a hexagonal tile-based puzzle game with one simple goal
+you just have to find a way to destroy all the green tiles and step on
+a safe tile at the end.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://sourceforge.net/projects/hexahop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

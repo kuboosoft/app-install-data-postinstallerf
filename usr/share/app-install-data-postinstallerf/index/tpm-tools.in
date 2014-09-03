@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tpm-tools</b>'
+Comment='<span size="xx-large">Management tools for the TPM hardware</span>'
+Comment3='
+tpm-tools is a group of tools to manage and utilize the Trusted Computing
+Groups TPM hardware. TPM hardware can create, store and use RSA keys
+securely (without ever being exposed in memory), verify a platforms
+software state using cryptographic hashes and more.
+
+'
+License='CPL'
+Screenshot=''
+Url='http://trousers.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

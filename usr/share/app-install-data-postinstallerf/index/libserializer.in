@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libserializer</b>'
+Comment='<span size="xx-large">JFreeReport General Serialization Framework</span>'
+Comment3='
+Libserializer contains a general serialization framework that simplifies the
+task of writing custom java serialization handlers.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://reporting.pentaho.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

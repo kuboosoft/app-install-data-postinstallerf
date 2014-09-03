@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>hivex</b>'
+Comment='<span size="xx-large">Read and write Windows Registry binary hive files</span>'
+Comment3='
+Hive files are the undocumented binary files that Windows uses to
+store the Windows Registry on disk.  Hivex is a library that can read
+and write to these files.
+
+hivexsh is a shell you can use to interactively navigate a hive
+binary file.
+hivexregedit lets you export and merge to the textual regedit
+format.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

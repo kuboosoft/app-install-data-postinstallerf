@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-mfware</b>'
+Comment='<span size="xx-large">Supporting tools for use with Metafont</span>'
+Comment3='
+A collection of programs (as web source) for processing the
+output of Metafont.
+
+date 2012-06-24 110844 +0200
+'
+License='Knuth'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

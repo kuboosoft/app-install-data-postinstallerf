@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>trytond-sqlite</b>'
+Comment='<span size="xx-large">SQLite support for Tryton Server</span>'
+Comment3='
+SQLite support for Tryton Server.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.tryton.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

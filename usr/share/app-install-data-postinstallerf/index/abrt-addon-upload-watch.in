@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>abrt-addon-upload-watch</b>'
+Comment='<span size="xx-large">abrts upload addon</span>'
+Comment3='
+This package contains hook for uploaded problems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

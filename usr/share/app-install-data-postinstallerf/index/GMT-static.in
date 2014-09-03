@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>GMT-static</b>'
+Comment='<span size="xx-large">Static libraries for GMT</span>'
+Comment3='
+The GMT-static package contains static libraries for developing
+applications that use GMT.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gmt.soest.hawaii.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>alsa-plugins-samplerate</b>'
+Comment='<span size="xx-large">External rate converter plugin for ALSA</span>'
+Comment3='
+This plugin is an external rate converter using libsamplerate by Erik de
+Castro Lopo.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

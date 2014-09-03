@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dex</b>'
+Comment='<span size="xx-large">Dextrous text editor</span>'
+Comment3='
+dex is a small and easy to use text editor. Colors and bindings can be
+fully customized to your liking. It has some features useful to
+programmers, like ctags support and it can parse compiler errors, but
+it does not aim to become an IDE.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/tihirvon/dex'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

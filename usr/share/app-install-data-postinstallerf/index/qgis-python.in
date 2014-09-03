@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qgis-python</b>'
+Comment='<span size="xx-large">Python integration and plug-ins for Quantum GIS</span>'
+Comment3='
+Python integration and plug-ins for Quantum GIS.
+
+URL          http//www.qgis.org
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.qgis.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

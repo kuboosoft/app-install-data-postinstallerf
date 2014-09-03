@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>darkhttpd</b>'
+Comment='<span size="xx-large">A secure, lightweight, fast, single-threaded HTTP/1.1 server</span>'
+Comment3='
+darkhttpd is a secure, lightweight, fast, single-threaded HTTP/1.1 server.
+
+Features
+Simple to set up.
+Single binary, no other files, no installation needed.
+Standalone, doesnt need inetd or ucspi-tcp.
+No messing around with config files - all you have to specify is the www root.
+Written in C - efficient and portable.
+Small memory footprint.
+Event loop, single threaded - no fork() or pthreads.
+'
+License='BSD'
+Screenshot=''
+Url='http://unix4lyfe.org/darkhttpd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

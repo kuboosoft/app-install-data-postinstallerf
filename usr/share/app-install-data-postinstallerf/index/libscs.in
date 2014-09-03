@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libscs</b>'
+Comment='<span size="xx-large">Software Carry-Save Multiple-Precision Library</span>'
+Comment3='
+The Software Carry-Save (SCS) Library is a fast and lightweight
+multiple-precision library.
+
+SCSLib has the following features
+- Multiple-precision
+SCSLib is a fixed-precision library, where precision is selected at
+compile-time. Out-of-the-box, the library ensures 210 bits of precision
+(quad-double).
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.ens-lyon.fr/LIP/Arenaire/Ware/SCSLib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

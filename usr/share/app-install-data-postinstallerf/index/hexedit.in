@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hexedit</b>'
+Comment='<span size="xx-large">A hexadecimal file viewer and editor</span>'
+Comment3='
+Hexedit shows a file both in ASCII and in hexadecimal. The file can be a device
+as the file is read a piece at a time. Hexedit can be used to modify the file
+and search through it.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rigaux.org/hexedit.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

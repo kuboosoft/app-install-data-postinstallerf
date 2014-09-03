@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>nodejs-passport-oauth</b>'
+Comment='<span size="xx-large">OAuth 1.0 and 2.0 authentication strategies for Passport</span>'
+Comment3='
+General-purpose OAuth 1.0 and OAuth 2.0 authentication strategies for
+Passport.
+
+This module lets you authenticate using OAuth in your Node.js
+applications. By plugging into Passport, OAuth authentication can be
+easily and unobtrusively integrated into any application or framework
+that supports Connect-style middleware, including Express.
+Note that this strategy provides generic OAuth support. In many cases,
+a provider-specific strategy can be used instead, which cuts down on
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jaredhanson/passport-oauth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

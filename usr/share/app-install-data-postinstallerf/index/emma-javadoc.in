@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emma-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for emma</span>'
+Comment3='
+Javadoc for emma.
+'
+License='CPL'
+Screenshot=''
+Url='http://emma.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

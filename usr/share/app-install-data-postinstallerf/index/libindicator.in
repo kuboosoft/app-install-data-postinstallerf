@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libindicator</b>'
+Comment='<span size="xx-large">Shared functions for Ayatana indicators</span>'
+Comment3='
+A set of symbols and convenience functions that all Ayatana indicators are
+likely to use.
+
+'
+License='GPLv3'
+Screenshot=''
+Url='https://launchpad.net/libindicator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

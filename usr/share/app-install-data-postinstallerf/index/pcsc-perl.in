@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pcsc-perl</b>'
+Comment='<span size="xx-large">Perl interface to the PC/SC smart card library</span>'
+Comment3='
+This library allows to communicate with a smart card using PC/SC
+interface (pcsc-lite) from a Perl script.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ludovic.rousseau.free.fr/softwares/pcsc-perl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

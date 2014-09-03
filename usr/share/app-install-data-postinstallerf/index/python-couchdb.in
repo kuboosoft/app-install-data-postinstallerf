@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-couchdb</b>'
+Comment='<span size="xx-large">A Python library for working with CouchDB</span>'
+Comment3='
+Providing a convenient high level interface for the CouchDB server.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/couchdb-python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

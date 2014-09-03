@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>russianfedora-free-release</b>'
+Comment='<span size="xx-large">Russian Fedora (free) Repository Configuration</span>'
+Comment3='
+Russian Fedora repository contains open source and other distributable software for
+Fedora. It based on Tigro repository.
+
+This package contains the Russian Fedora GPG key as well as Yum package manager
+configuration files for Russian Fedoras "free" repository, which holds only
+software that is considered as Open Source Software according to the Fedora
+packaging guidelines.
+'
+License='BSD'
+Screenshot=''
+Url='http://russianfedora.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

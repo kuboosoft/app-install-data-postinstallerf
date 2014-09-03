@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ftplib-devel</b>'
+Comment='<span size="xx-large">Development files for ftplib</span>'
+Comment3='
+Development libraries and headers for ftplib.
+
+URL          http//nbpfaus.net/~pfau/ftplib/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://nbpfaus.net/~pfau/ftplib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-widgetTools</b>'
+Comment='<span size="xx-large">Bioconductor tools to support tcltk widgets</span>'
+Comment3='
+This package contains tools to support the construction of tcltk widgets.
+
+This library is part of the bioconductor (bioconductor.org) project
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/widgetTools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

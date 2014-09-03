@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-DateTime-Event-Recurrence</b>'
+Comment='<span size="xx-large">DateTime::Set extension for create basic recurrence sets</span>'
+Comment3='
+This module provides convenience methods that let you easily create
+DateTimeSet objects for various recurrences, such as "once a month" or
+"every day". You can also create more complicated recurrences, such as
+"every Monday, Wednesday and Thursday at 1000 AM and 200 PM".
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-Event-Recurrence/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

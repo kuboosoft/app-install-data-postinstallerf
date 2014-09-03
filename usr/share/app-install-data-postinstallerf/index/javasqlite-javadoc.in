@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>javasqlite-javadoc</b>'
+Comment='<span size="xx-large">API documentation for javasqlite</span>'
+Comment3='
+API documentation for javasqlite.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.ch-werner.de/javasqlite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

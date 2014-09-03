@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>darkserver-kojiplugin</b>'
+Comment='<span size="xx-large">The koji plugin for darkserver</span>'
+Comment3='
+The koji plugin for darkserver.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/kushaldas/darkserver'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

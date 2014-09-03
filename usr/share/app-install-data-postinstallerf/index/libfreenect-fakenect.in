@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libfreenect-fakenect</b>'
+Comment='<span size="xx-large">Library to play back recorded data for libfreenect</span>'
+Comment3='
+Fakenect consists of a "record" program to save dumps from the kinect sensor
+and a library that can be linked to, providing an interface compatible with
+freenect.  This allows you to save data and repeat for experiments, debug
+problems, share datasets, and experiment with the kinect without having one.
+'
+License='GPLv2+ or ASL 2.0'
+Screenshot=''
+Url='http://www.openkinect.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>chicken-libs</b>'
+Comment='<span size="xx-large">Chicken Scheme runtime library</span>'
+Comment3='
+The Chicken Scheme runtime library, linked to by programs compiled with
+Chicken.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://call-cc.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

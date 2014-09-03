@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qwtpolar-devel</b>'
+Comment='<span size="xx-large">Development Libraries for qwtpolar</span>'
+Comment3='
+This package contains the files necessary
+to develop applications using QwtPolar.
+
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qwtpolar.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

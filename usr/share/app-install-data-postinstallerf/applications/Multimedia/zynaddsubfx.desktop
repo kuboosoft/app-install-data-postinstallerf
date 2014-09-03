@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n zynaddsubfx
+Name=ZynAddSubFX Software Synthesizer
+Name[pt]=Sintetizador por Software ZynAddSubFX
+Comment=ZynAddSubFX Software Synthesizer
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_zynaddsubfx.png
+Categories=Application;AudioVideo;Audio;

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mmapper</b>'
+Comment='<span size="xx-large">Graphical MUME mapper</span>'
+Comment3='
+MMapper is a graphical mapper for a MUD named MUME (Multi-Users in Middle
+Earth). The game is traditionally played in a text-only mode, but MMapper tries
+to represent the virtual world in user-friendly graphical environment. It acts
+as a proxy between a telnet client and a MUD server, being able to analyze game
+data in real time and show players position in a map.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/mmapper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

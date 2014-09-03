@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>crossfire-doc</b>'
+Comment='<span size="xx-large">Documentation files for Crossfire</span>'
+Comment3='
+Documentation files for the crossfire game.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://crossfire.real-time.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

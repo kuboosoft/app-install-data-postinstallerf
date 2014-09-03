@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libnss-pgsql</b>'
+Comment3='
+See /usr/share/doc/libnss-pgsql-1.5.0/nss-pgsql.html for the config file.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://pgfoundry.org/projects/sysauth/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

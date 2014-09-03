@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>voro++-doc</b>'
+Comment='<span size="xx-large">voro++ documentation</span>'
+Comment3='
+Documentation for voro++.
+'
+License='LBNL BSD'
+Screenshot=''
+Url='http://math.lbl.gov/voro++/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

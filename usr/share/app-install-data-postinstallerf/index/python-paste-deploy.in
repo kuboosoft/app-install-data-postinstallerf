@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-paste-deploy</b>'
+Comment='<span size="xx-large">Load, configure, and compose WSGI applications and servers</span>'
+Comment3='
+This tool provides code to load WSGI applications and servers from
+URIs; these URIs can refer to Python Eggs for INI-style configuration
+files.  PasteScript provides commands to serve applications based on
+this configuration file.
+'
+License='MIT'
+Screenshot=''
+Url='http://pythonpaste.org/deploy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

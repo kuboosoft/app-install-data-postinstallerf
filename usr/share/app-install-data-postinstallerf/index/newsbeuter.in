@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>newsbeuter</b>'
+Comment='<span size="xx-large">Configurable text-based feed reader</span>'
+Comment3='
+Newsbeuter is a feed reader for text terminals.  Newsbeuters great
+configurability and vast number of features make it a perfect choice for people
+that need a slick and fast feed reader that can be completely controlled via
+keyboard.
+'
+License='MIT'
+Screenshot=''
+Url='http://newsbeuter.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

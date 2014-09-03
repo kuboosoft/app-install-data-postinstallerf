@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lightdm-kde</b>'
+Comment='<span size="xx-large">LightDM KDE Greeter</span>'
+Comment3='
+A LightDM greeter for KDE.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/base/lightdm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-horde-turba</b>'
+Comment='<span size="xx-large">A web based address book</span>'
+Comment3='
+Turba is the Horde contact management application. Leveraging the Horde
+framework to provide seamless integration with IMP and other Horde
+applications, it supports storing contacts in SQL, LDAP, Kolab, and IMSP
+address books.
+'
+License='ASL 1.0'
+Screenshot=''
+Url='http://www.horde.org/apps/turba'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

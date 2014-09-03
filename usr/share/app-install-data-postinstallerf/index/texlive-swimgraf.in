@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-swimgraf</b>'
+Comment='<span size="xx-large">Graphical/textual representations of swimming performances</span>'
+Comment3='
+The package provides two macros that produce representations of
+a swimmers performances. The user records data in a text file
+and specifies as arguments of the macros the date range of
+interest. The macros extract the relevant information from the
+file and process it \swimgraph produces a graph of the times
+in a single swimming event (specified as an argument), plotting
+long course and short course times in separate lines. Records
+and qualifying times, stored in text files, may optionally be
+included on the graph. \swimtext produces a written record of
+the times in all events. Files of current world and Canadian
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

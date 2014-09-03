@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jack-rack</b>'
+Comment='<span size="xx-large">Stereo LADSPA effects rack for the JACK audio API</span>'
+Comment3='
+JACK Rack is a stereo LADSPA effects rack for the JACK audio API.  It uses
+GTK+ 2 for the gui. LADSPA version 1.1 is needed.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://jack-rack.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

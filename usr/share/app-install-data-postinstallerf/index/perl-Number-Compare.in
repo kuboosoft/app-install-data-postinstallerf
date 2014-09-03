@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Number-Compare</b>'
+Comment='<span size="xx-large">Perl module for numeric comparisons</span>'
+Comment3='
+NumberCompare compiles a simple comparison to an anonymous subroutine,
+which you can call with a value to be tested again.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Number-Compare/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

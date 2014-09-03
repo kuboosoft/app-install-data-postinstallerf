@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsvm-python</b>'
+Comment='<span size="xx-large">Python tools and interfaces for libsvm</span>'
+Comment3='
+Python tools and interfaces for libsvm.
+Install this package if you want to develop
+programs with libsvm in Python.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.csie.ntu.edu.tw/~cjlin/libsvm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

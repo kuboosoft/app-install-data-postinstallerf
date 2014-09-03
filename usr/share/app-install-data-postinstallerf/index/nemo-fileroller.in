@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nemo-fileroller</b>'
+Comment='<span size="xx-large">File Roller extension for Nemo</span>'
+Comment3='
+This package contains the file-roller extension for the Nemo.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cinnamon.linuxmint.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

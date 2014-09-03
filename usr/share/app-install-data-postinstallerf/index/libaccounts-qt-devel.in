@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libaccounts-qt-devel</b>'
+Comment='<span size="xx-large">Development files for accounts-qt</span>'
+Comment3='
+Headers, development libraries and documentation for accounts-qt.
+
+URL          http//code.google.com/p/accounts-sso/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://code.google.com/p/accounts-sso/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

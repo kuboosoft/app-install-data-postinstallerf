@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lifeograph</b>'
+Comment='<span size="xx-large">A diary program</span>'
+Comment3='
+Lifeograph is a diary program to take personal notes on life. It has all
+essential functionality expected in a diary program and strives to have
+a clean and streamlined user interface.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://lifeograph.wikidot.com/start'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

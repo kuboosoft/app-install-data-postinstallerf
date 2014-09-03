@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libint-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for libint</span>'
+Comment3='
+This package contains development headers and libraries for libint.
+It also contains a programmers manual.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/p/libint'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

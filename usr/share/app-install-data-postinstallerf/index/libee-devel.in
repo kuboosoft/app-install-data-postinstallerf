@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libee-devel</b>'
+Comment='<span size="xx-large">Development files for libee</span>'
+Comment3='
+This package provides files required for development with libee,
+the event expression library used by the rsyslog daemon.
+
+'
+License='LGPLv2+ and MIT and GPL+'
+Screenshot=''
+Url='http://www.libee.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

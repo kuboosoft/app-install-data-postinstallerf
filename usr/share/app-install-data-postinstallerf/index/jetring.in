@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jetring</b>'
+Comment='<span size="xx-large">GPG keyring maintenance using changesets</span>'
+Comment3='
+jetring is a collection of tools that allow for GPG keyrings to be maintained
+using changesets. It was developed with the Debian keyring in mind, and aims to
+solve the problem that a GPG keyring is a binary blob thats hard for multiple
+people to collaboratively edit.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://joeyh.name/code/jetring/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

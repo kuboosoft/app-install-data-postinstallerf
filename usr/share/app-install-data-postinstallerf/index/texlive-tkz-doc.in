@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-tkz-doc</b>'
+Comment='<span size="xx-large">Documentation macros for the TKZ series of packages</span>'
+Comment3='
+This bundle offers a documentation class (tkz-doc) and a
+package (tkzexample). These files are used in the documentation
+of the authors packages tkz-tab and tkz-linknodes.
+
+date 2011-06-05 231023 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

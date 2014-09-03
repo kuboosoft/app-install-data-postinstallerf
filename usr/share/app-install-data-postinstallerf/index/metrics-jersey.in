@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>metrics-jersey</b>'
+Comment='<span size="xx-large">Metrics Integration for Jersey</span>'
+Comment3='
+A set of class providing Metrics integration for Jersey,
+the reference JAX-RS implementation.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://metrics.codahale.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

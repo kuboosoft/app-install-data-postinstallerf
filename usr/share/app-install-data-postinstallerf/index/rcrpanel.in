@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rcrpanel</b>'
+Comment='<span size="xx-large">Lay out front panel for electronics project</span>'
+Comment3='
+rcrpanel is an application to lay out a front panel for a radio or similar
+electronics device.  rcrpanel can provide dials for potentiometers or variable
+capacitors as well as lay out cutouts for switches and jacks.  rcrpanel
+accepts a panel description file and produces PostScript output.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gitorious.org/panel-dial/rcrpanel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

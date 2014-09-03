@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>multican</b>'
+Comment='<span size="xx-large">Remote control utility for Canon cameras</span>'
+Comment3='
+Multican is Canon EOS class USB remote control utility for 300D, 350D,
+30D, 20D and 5D. It is possible to control more of Canon cameras in
+the same time up to six cameras attached. Multican allows scripted
+remote control of multiple cameras.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://multican.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

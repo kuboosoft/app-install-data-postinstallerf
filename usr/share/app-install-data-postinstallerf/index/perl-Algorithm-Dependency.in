@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Algorithm-Dependency</b>'
+Comment='<span size="xx-large">Algorithmic framework for implementing dependency trees</span>'
+Comment3='
+AlgorithmDependency is a framework for creating simple read-only
+dependency hierarchies, where you have a set of items that rely on other
+items in the set, and require actions on them as well.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Algorithm-Dependency/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

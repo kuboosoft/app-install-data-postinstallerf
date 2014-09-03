@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-HTML-FormatText-WithLinks-AndTables</b>'
+Comment='<span size="xx-large">Converts HTML to Text with tables in tact</span>'
+Comment3='
+This module was inspired by HTMLFormatTextWithLinks which has proven to
+be a useful "lynx -dump" work-alike. However one frustration was that no
+other HTML converters I came across had the ability to deal effectively
+with HTML <TABLE>s. This module can in a rudimentary sense do so. The aim
+was to provide facility to take a simple HTML based email template, and to
+also convert it to text with the <TABLE> structure intact for inclusion as
+"multi-part/alternative" content. Further, it will preserve both the
+formatting specified by the <TD> tags "align" attribute, and will also
+preserve multi-line text inside of a <TD> element provided it is broken
+using <BR/> tags.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-FormatText-WithLinks-AndTables/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

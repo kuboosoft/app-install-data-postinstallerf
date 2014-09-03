@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-rdiscount-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rdiscount</span>'
+Comment3='
+This package contains Rakefile, test directory and documentation for
+rubygem-rdiscount.
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://github.com/rtomayko/rdiscount'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

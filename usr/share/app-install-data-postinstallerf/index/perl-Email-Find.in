@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Email-Find</b>'
+Comment='<span size="xx-large">Find RFC 822 email addresses in plain text</span>'
+Comment3='
+EmailFind is a module for finding a *subset* of RFC 822 email
+addresses in arbitrary text (see the section on "CAVEATS"). The
+addresses it finds are not guaranteed to exist or even actually be email
+addresses at all (see the section on "CAVEATS"), but they will be valid
+RFC 822 syntax.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Email-Find/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zarafa-utils</b>'
+Comment='<span size="xx-large">Zarafa Utilities for administration and management</span>'
+Comment3='
+The zarafa-utils package includes various administration and management
+utilities for the Zarafa Open Source Collaboration environment including
+reporting, user and password management.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

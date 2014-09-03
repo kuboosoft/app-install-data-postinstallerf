@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-ametsoc</b>'
+Comment='<span size="xx-large">Official American Meteorological Society Latex Template</span>'
+Comment3='
+This package contains all the files necessary to write an
+article using latex for the American Meteorological Society
+journals. The article and bibliography style files are provided
+along with two PDFs describing the use of the files and a blank
+template for authors to use in writing their article. Also
+available is a separate style file used to format a two-column,
+journal page layout draft for the authors personal use.
+
+date 2008-09-04 001412 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

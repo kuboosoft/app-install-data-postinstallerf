@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-prefork</b>'
+Comment='<span size="xx-large">Optimized module loading for forking or non-forking processes</span>'
+Comment3='
+Optimized module loading for forking or non-forking processes
+
+prefork.pm is intended to serve as a central and optional marshalling
+point for state detection (are we running in compile-time or run-time
+mode) and to act as a relatively light-weight module loader.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/prefork/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kiten</b>'
+Comment='<span size="xx-large">Japanese Reference/Study Tool</span>'
+Comment3='
+Japanese Reference/Study Tool.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdeedu/kiten'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

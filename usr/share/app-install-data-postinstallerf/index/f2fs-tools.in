@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>f2fs-tools</b>'
+Comment='<span size="xx-large">Tools for Flash-Friendly File System (F2FS)</span>'
+Comment3='
+NAND flash memory-based storage devices, such as SSD, and SD cards,
+have been widely being used for ranging from mobile to server systems.
+Since they are known to have different characteristics from the
+conventional rotational disks,a file system, an upper layer to
+the storage device, should adapt to the changes
+from the sketch.
+
+F2FS is a new file system carefully designed for the
+NAND flash memory-based storage devices.
+We chose a log structure file system approach,
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/f2fs-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

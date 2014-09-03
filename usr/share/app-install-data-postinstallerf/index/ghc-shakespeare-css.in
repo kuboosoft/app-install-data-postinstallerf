@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ghc-shakespeare-css</b>'
+Comment='<span size="xx-large">Compile-time variable interpolation for CSS</span>'
+Comment3='
+Shakespeare is a template family for type-safe, efficient templates with simple
+variable interpolation. Shakespeare templates can be used inline with a
+quasi-quoter or in an external file. Shakespeare interpolates variables
+according to the type being inserted. In this case, the variable type needs a
+ToCss instance.
+
+This package contains 2 css template languages. The Cassius language uses
+whitespace to avoid the need for closing brackets and semi-colons.
+Lucius does not care about whitespace and is a strict superset of css.
+There are also some significant conveniences added for css.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shakespeare-css'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

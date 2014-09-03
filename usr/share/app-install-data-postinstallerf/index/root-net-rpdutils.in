@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>root-net-rpdutils</b>'
+Comment='<span size="xx-large">Authentication utilities used by rootd and proofd</span>'
+Comment3='
+This package contains authentication utilities used by rootd and proofd.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

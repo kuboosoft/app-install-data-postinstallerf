@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-Biobase</b>'
+Comment='<span size="xx-large">Base functions for Bioconductor</span>'
+Comment3='
+Base functions for Bioconductor (bioconductor.org). Biobase provides
+functions that are needed by many other Bioconductor packages or which
+replace R functions.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/Biobase.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

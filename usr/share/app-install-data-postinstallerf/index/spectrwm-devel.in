@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>spectrwm-devel</b>'
+Comment='<span size="xx-large">Spectrwm development files</span>'
+Comment3='
+Contains development files used by spectrwm.
+
+URL          https//opensource.conformal.com/wiki/spectrwm
+'
+License='ISC'
+Screenshot=''
+Url='https://opensource.conformal.com/wiki/spectrwm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

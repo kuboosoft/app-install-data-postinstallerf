@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libiptcdata-python</b>'
+Comment='<span size="xx-large">Python bindings for libiptcdata</span>'
+Comment3='
+The libiptcdata-python package contains a Python module that allows Python
+applications to use the libiptcdata API for reading and writing IPTC
+metadata in images.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libiptcdata.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

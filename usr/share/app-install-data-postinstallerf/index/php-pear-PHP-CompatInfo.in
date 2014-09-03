@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-pear-PHP-CompatInfo</b>'
+Comment='<span size="xx-large">Find out version and extensions required for a piece of code to run</span>'
+Comment3='
+PHP_CompatInfo will parse a file/folder/script/array to find out the
+minimum version and extensions required for it to run. Features advanced
+debug output which shows which functions require which version and CLI
+output script
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/PHP_CompatInfo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

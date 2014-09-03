@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>kshisen</b>'
+Comment='<span size="xx-large">Shisen-Sho Mahjongg-like tile game</span>'
+Comment3='
+Shisen-Sho is a solitaire-like game played using the standard set of Mahjong
+tiles. Unlike Mahjong however, Shisen-Sho has only one layer of scrambled tiles.
+You can remove matching pieces if they can be connected with a line with at most
+two bends in it. At the same time, the line must not cross any other tiles.
+To win a game of Shisen-Sho the player has to remove all the tiles from the
+game board
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kshisen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

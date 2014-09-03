@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-mozrunner</b>'
+Comment='<span size="xx-large">Reliable start/stop/configuration of Mozilla Applications (Firefox, Thunderbird)</span>'
+Comment3='
+Mozrunner is a Python package which handles running of Mozilla
+applications.  Mozrunner utilizes mozprofile for managing application
+profiles and mozprocess for robust process control.  Mozrunner may be
+used from the command line or programmatically as an API.
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='https://wiki.mozilla.org/Auto-tools/Projects/MozBase'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

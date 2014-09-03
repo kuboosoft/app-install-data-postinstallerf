@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-ebloom</b>'
+Comment='<span size="xx-large">A NIF wrapper around a basic bloom filter</span>'
+Comment3='
+A NIF wrapper around a basic bloom filter.
+'
+License='ASL 2.0 and CPL'
+Screenshot=''
+Url='https://github.com/basho/ebloom'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

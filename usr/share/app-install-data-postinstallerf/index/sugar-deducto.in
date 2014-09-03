@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sugar-deducto</b>'
+Comment='<span size="xx-large">A learning activity aimed towards improving children?s skills to deducing logic</span>'
+Comment3='
+A learning activity aimed towards improving childrens skills
+to deducing logic through pattern recognition.
+'
+License='GPLv3+ and MIT'
+Screenshot=''
+Url='http://activities.sugarlabs.org/en-US/sugar/addon/4220'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

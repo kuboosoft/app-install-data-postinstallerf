@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sigul</b>'
+Comment='<span size="xx-large">A signing server and related software client</span>'
+Comment3='
+A signing server, which lets authorized users sign data without having any
+access to the necessary private key, a client for the server, and a "bridge"
+that connects the two.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/sigul/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

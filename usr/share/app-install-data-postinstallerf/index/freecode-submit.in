@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>freecode-submit</b>'
+Comment='<span size="xx-large">A tool help submit release information to freecode.com</span>'
+Comment3='
+freecode-submit is a script that supports remote submission of release
+updates to Freecode via its JSON API. It is intended for use in project
+release scripts. It reads the metadata from an RFC-2822-like message on
+standard input, possibly with overrides by command-line switches. It
+supersedes freshmeat-submit, which no longer works following the site
+name change.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.catb.org/~esr/freecode-submit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

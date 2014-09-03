@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fftw-doc</b>'
+Comment='<span size="xx-large">FFTW library manual</span>'
+Comment3='
+This package contains the manual for the FFTW fast Fourier transform
+library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fftw.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>abook</b>'
+Comment='<span size="xx-large">Text-based addressbook program for mutt</span>'
+Comment3='
+Abook is a small and powerful text-based addressbook program
+designed for use with the mutt mail client.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://abook.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-netlib</b>'
+Comment='<span size="xx-large">Collection of network utility classes</span>'
+Comment3='
+Netlib is a collection of network utility classes, used by the pathod and
+mitmproxy projects. It differs from other projects in some fundamental
+respects, because both pathod and mitmproxy often need to violate standards.
+This means that protocols are implemented as small, well-contained and flexible
+functions, and are designed to allow misbehaviour when needed.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/mitmproxy/netlib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

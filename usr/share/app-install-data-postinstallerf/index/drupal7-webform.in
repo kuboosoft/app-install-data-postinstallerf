@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal7-webform</b>'
+Comment='<span size="xx-large">Webform is the module for making surveys in Drupal</span>'
+Comment3='
+Webform is the module for making surveys in Drupal.
+After a submission, users may be sent an e-mail "receipt"
+as well as sending a notification to administrators.
+Results can be exported into Excel or other spreadsheet applications.
+
+Webform also provides some basic statistical review
+and has and extensive API for expanding its features.
+This package provides the following Drupal module
+* webform
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/webform'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

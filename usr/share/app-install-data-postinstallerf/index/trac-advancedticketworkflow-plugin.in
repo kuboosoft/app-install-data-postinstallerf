@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>trac-advancedticketworkflow-plugin</b>'
+Comment='<span size="xx-large">Advanced workflow operations Trac plugin</span>'
+Comment3='
+A Trac plugin which provides a number of advanced operations for customizable
+workflows that are similar to the operations provided in the customizeable
+workflow of the core Trac system.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/AdvancedTicketWorkflowPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

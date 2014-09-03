@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-i18n-Dutch</b>'
+Comment='<span size="xx-large">Dutch(nl) language support for KDE3</span>'
+Comment3='
+Dutch(nl) language support for KDE3.
+'
+License='GFDL'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

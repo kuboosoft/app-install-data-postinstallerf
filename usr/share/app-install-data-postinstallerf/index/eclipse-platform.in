@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-platform</b>'
+Comment='<span size="xx-large">Eclipse platform common files</span>'
+Comment3='
+The Eclipse Platform is the base of all IDE plugins.  This does not include the
+Java Development Tools or the Plugin Development Environment.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

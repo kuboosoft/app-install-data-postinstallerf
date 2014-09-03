@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>geany-plugins-geanyprj</b>'
+Comment='<span size="xx-large">Provides an alternate project management tool for Geany</span>'
+Comment3='
+Geanyprj provides an alternate project management approach to Geanys built-in
+project facility. The idea is to be less a "session manager" as the built-in
+project management does It allows/requires you to manually open and close
+project and allows you to store project files in different locations from
+project sources.
+
+Geanyprj takes a different approach
+It never saves session information, so that project files can be stored in
+version control without constant noise from changes of opened files or cursor
+position. You also will never have to open/close projects manually. If a
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

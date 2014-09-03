@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hawknl-devel</b>'
+Comment='<span size="xx-large">Development files for hawknl</span>'
+Comment3='
+The hawknl-devel package contains libraries and header files for
+developing applications that use hawknl.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.hawksoft.com/hawknl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

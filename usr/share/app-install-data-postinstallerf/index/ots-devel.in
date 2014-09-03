@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ots-devel</b>'
+Comment='<span size="xx-large">Libraries and include files for developing with libots</span>'
+Comment3='
+This package provides the necessary development libraries and include
+files to allow you to develop with libots.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libots.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

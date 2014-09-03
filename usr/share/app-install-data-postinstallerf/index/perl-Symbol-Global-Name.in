@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Symbol-Global-Name</b>'
+Comment='<span size="xx-large">Finds name and type of a global variable</span>'
+Comment3='
+Lookups symbol table to find an element by reference.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Symbol-Global-Name/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

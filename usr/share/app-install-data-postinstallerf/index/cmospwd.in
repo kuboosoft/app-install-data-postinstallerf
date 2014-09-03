@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>cmospwd</b>'
+Comment='<span size="xx-large">BIOS password cracker utility</span>'
+Comment3='
+CmosPwd decrypts password stored in cmos used to access BIOS SETUP.
+Works with the following BIOSes
+
+    * ACER/IBM BIOS
+    * AMI BIOS
+    * AMI WinBIOS 2.5
+    * Award 4.5x/4.6x/6.0
+    * Compaq (1992)
+    * Compaq (New version)
+    * IBM (PS/2, Activa, Thinkpad)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.cgsecurity.org/wiki/CmosPwd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

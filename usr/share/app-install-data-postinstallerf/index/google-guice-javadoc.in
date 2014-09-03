@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>google-guice-javadoc</b>'
+Comment='<span size="xx-large">API documentation for Guice</span>'
+Comment3='
+This package provides API documentation for Guice.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/sonatype/sisu-guice'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

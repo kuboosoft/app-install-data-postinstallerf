@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libreadline-java</b>'
+Comment='<span size="xx-large">Java wrapper for the EditLine library</span>'
+Comment3='
+libreadline-java provides Java bindings for libedit though a JNI
+wrapper.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://java-readline.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mhwaveedit</b>'
+Comment='<span size="xx-large">Sound editing program</span>'
+Comment3='
+mhWaveEdit is a graphical program for editing sound files. It is completely
+free (GPL).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gna.org/projects/mhwaveedit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

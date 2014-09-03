@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>jna</b>'
+Comment='<span size="xx-large">Pure Java access to native libraries</span>'
+Comment3='
+JNA provides Java programs easy access to native shared libraries
+(DLLs on Windows) without writing anything but Java code. JNAs
+design aims to provide native access in a natural way with a
+minimum of effort. No boilerplate or generated code is required.
+While some attention is paid to performance, correctness and ease
+of use take priority.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://jna.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

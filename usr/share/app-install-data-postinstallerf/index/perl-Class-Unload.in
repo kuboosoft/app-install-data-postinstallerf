@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Class-Unload</b>'
+Comment='<span size="xx-large">Unload given class</span>'
+Comment3='
+Unloads the given class by clearing out its symbol table and removing it
+from %INC.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Unload/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

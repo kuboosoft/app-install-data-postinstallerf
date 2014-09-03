@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>groonga-php</b>'
+Comment='<span size="xx-large">PHP language binding for Groonga</span>'
+Comment3='
+PHP language binding for Groonga
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://groonga.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

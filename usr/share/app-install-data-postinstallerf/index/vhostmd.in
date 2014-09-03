@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vhostmd</b>'
+Comment='<span size="xx-large">Virtualization host metrics daemon</span>'
+Comment3='
+vhostmd provides a "metrics communication channel" between a host and
+its hosted virtual machines, allowing limited introspection of host
+resource usage from within virtual machines.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gitorious.org/vhostmd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

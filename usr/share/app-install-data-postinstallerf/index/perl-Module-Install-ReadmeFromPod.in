@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Module-Install-ReadmeFromPod</b>'
+Comment='<span size="xx-large">Module::Install extension to automatically convert POD to a README</span>'
+Comment3='
+ModuleInstallReadmeFromPod is a ModuleInstall extension that
+generates a README file automatically from an indicated file containing
+POD, whenever the author runs Makefile.PL. Several output formats are
+supported plain-text, HTML, PDF or manual page.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Install-ReadmeFromPod/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

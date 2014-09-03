@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-common-uim</b>'
+Comment='<span size="xx-large">Common package for Emacsen support for Uim</span>'
+Comment3='
+This package provides an utility to use Emacsen support for Uim.
+'
+License='BSD and LGPLv2+ and (BSD or LGPLv2)'
+Screenshot=''
+Url='http://code.google.com/p/uim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

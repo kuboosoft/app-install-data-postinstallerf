@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>opensaml-java-xmltooling</b>'
+Comment='<span size="xx-large">Java XMLTooling library</span>'
+Comment3='
+Java XMLTooling is a low-level library that may be used to construct libraries
+that allow developers to work with XML in a Java beans manner.
+'
+License='ASL 2.0 and W3C'
+Screenshot=''
+Url='http://www.opensaml.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-xmlparser</b>'
+Comment='<span size="xx-large">Ruby bindings to the Expat XML parsing library</span>'
+Comment3='
+Ruby bindings to the Expat XML parsing library.
+'
+License='GPLv2+ and ( Ruby or GPLv2+ or MIT ) and ( GPLv2+ or Artistic )'
+Screenshot=''
+Url='http://rubygems.org/gems/xmlparser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

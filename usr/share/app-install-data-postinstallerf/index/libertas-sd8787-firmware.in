@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libertas-sd8787-firmware</b>'
+Comment='<span size="xx-large">Firmware for Marvell Libertas SD 8787 Network Adapter</span>'
+Comment3='
+Firmware for Marvell Libertas SD 8787 Network Adapter
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

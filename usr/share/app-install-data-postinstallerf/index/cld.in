@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cld</b>'
+Comment='<span size="xx-large">Coarse locking service for hail</span>'
+Comment3='
+Coarse locking daemon for cloud computing.  This software provides
+a cache-coherent, highly-available distributed file system for small
+files.
+
+CLDs primary uses include consensus service (election of a master,
+with fail-over, also known as lock service), reliable name space,
+and reliable small file storage.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hail.wiki.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

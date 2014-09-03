@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Tk-CursorControl</b>'
+Comment='<span size="xx-large">Manipulate the mouse cursor programmatically</span>'
+Comment3='
+This module offers a Tk programmer the functionality of warping, moving,
+confining or hiding a mouse cursor.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Tk-CursorControl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

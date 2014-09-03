@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>warzone2100</b>'
+Comment='<span size="xx-large">Innovative 3D real-time strategy</span>'
+Comment3='
+Warzone 2100 was an innovative 3D real-time strategy game back in 1999, and
+most will agree it didnt enjoy the commercial success it should have had. The
+games source code was liberated on December 6th, 2004, under a GPL license
+(see COPYING in this directory for details). Soon after that, the Warzone 2100
+ReDev project was formed to take care of its future.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://wz2100.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

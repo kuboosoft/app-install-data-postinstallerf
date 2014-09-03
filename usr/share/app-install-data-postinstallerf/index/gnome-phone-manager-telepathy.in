@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnome-phone-manager-telepathy</b>'
+Comment='<span size="xx-large">Telepathy connection manager to send and receive SMSes</span>'
+Comment3='
+This program will connect to your mobile phone over a serial port,
+either via a cable, infrared (IrDA) or Bluetooth connection.
+
+This plugin to Telepathy allows you to send and receive messages using any
+Instant Messaging application that uses Telepathy, such as Empathy.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://live.gnome.org/PhoneManager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

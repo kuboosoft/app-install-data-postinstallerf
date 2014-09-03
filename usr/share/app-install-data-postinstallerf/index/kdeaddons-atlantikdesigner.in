@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdeaddons-atlantikdesigner</b>'
+Comment='<span size="xx-large">Atlantik Designer</span>'
+Comment3='
+This package includes a game board designer for Atlantik.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

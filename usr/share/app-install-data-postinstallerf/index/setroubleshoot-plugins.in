@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>setroubleshoot-plugins</b>'
+Comment='<span size="xx-large">Analysis plugins for use with setroubleshoot</span>'
+Comment3='
+This package provides a set of analysis plugins for use with
+setroubleshoot. Each plugin has the capacity to analyze SELinux AVC
+data and system data to provide user friendly reports describing how
+to interpret SELinux AVC denials.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/setroubleshoot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

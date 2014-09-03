@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>firewall-applet</b>'
+Comment='<span size="xx-large">Firewall panel applet</span>'
+Comment3='
+The firewall panel applet provides a status information of firewalld and also
+the firewall settings.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/firewalld'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

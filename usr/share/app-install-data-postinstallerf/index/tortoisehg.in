@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tortoisehg</b>'
+Comment='<span size="xx-large">Mercurial GUI command line tool thg</span>'
+Comment3='
+This package contains the thg command line tool, which provides a graphical
+user interface to the Mercurial distributed revision control system.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://tortoisehg.bitbucket.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

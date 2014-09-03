@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>postgresql-libs</b>'
+Comment='<span size="xx-large">The shared libraries required for any PostgreSQL clients</span>'
+Comment3='
+The postgresql-libs package provides the essential shared libraries for any
+PostgreSQL client program or interface. You will need to install this package
+to use any other PostgreSQL package or any clients that need to connect to a
+PostgreSQL server.
+
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

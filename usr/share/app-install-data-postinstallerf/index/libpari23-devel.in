@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libpari23-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for PARI development</span>'
+Comment3='
+Header files and libraries for PARI development with the old version 2.3.x
+API.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://pari.math.u-bordeaux.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

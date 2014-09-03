@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-simplecov</b>'
+Comment='<span size="xx-large">Code coverage analysis tool for Ruby 1.9</span>'
+Comment3='
+Code coverage for Ruby 1.9 with a powerful configuration library and automatic
+merging of coverage across test suites
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/colszowka/simplecov'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

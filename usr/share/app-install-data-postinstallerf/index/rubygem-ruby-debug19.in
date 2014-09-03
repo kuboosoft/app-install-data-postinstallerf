@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ruby-debug19</b>'
+Comment='<span size="xx-large">Command line interface (CLI) for ruby-debug-base</span>'
+Comment3='
+A generic command line interface for ruby-debug.
+'
+License='BSD'
+Screenshot=''
+Url='http://rubyforge.org/projects/ruby-debug19/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

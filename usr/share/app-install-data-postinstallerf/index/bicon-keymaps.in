@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bicon-keymaps</b>'
+Comment='<span size="xx-large">Keymap Files for BiCon</span>'
+Comment3='
+The bicon-keymaps package contains the keymap files for BiCon.
+'
+License='LGPLv2+ and Python'
+Screenshot=''
+Url='http://www.arabeyes.org/project.php?proj=BiCon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-cm-super</b>'
+Comment='<span size="xx-large">CM-Super family of fonts</span>'
+Comment3='
+CM-Super family of fonts are Adobe Type 1 fonts that replace
+the T1/TS1-encoded Computer Modern (EC/TC), T1/TS1-encoded
+Concrete, T1/TS1-encoded CM bright and LH fonts (thus
+supporting all European languages except Greek, and all
+Cyrillic-based languages), and bringing many ameliorations in
+typesetting quality. The fonts exhibit the same metrics as the
+MetaFont-encoded originals.
+
+date 2008-01-16 213111 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

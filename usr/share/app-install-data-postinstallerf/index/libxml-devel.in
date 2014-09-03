@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libxml-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. to build old libxml-based applications</span>'
+Comment3='
+Libraries, includes, etc. to build old libxml-based applications.
+
+URL          http//veillard.com/XML/
+'
+License='LGPLv2+ or W3C'
+Screenshot=''
+Url='http://veillard.com/XML/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

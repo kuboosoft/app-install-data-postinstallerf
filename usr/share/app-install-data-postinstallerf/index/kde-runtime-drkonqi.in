@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-runtime-drkonqi</b>'
+Comment='<span size="xx-large">DrKonqi KDE crash handler</span>'
+Comment3='
+DrKonqi KDE crash handler.
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

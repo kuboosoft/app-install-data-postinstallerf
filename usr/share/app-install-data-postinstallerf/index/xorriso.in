@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>xorriso</b>'
+Comment='<span size="xx-large">ISO-9660 and Rock Ridge image manipulation tool</span>'
+Comment3='
+Xorriso is a program which copies file objects from POSIX compliant
+filesystems into Rock Ridge enhanced ISO-9660 filesystems and allows
+session-wise manipulation of such filesystems. It can load management
+information of existing ISO images and it writes the session results
+to optical media or to filesystem objects. Vice versa xorriso is able
+to copy file objects out of ISO-9660 filesystems.
+
+Filesystem manipulation capabilities surpass those of mkisofs. Xorriso
+is especially suitable for backups, because of its high fidelity of
+file attribute recording and its incremental update sessions. Optical
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://scdbackup.sourceforge.net/xorriso_eng.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

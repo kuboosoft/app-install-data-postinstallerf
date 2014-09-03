@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-ifmtarg</b>'
+Comment='<span size="xx-large">If-then-else command for processing potentially empty arguments</span>'
+Comment3='
+ifmtarg package
+
+date 2010-07-10 164723 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

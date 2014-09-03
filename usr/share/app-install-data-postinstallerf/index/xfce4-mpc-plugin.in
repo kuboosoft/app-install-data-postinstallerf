@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xfce4-mpc-plugin</b>'
+Comment='<span size="xx-large">MPD client for the Xfce panel</span>'
+Comment3='
+A simple client plugin for MPD, the Music Player Daemon.
+'
+License='ISC'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qasconfig</b>'
+Comment='<span size="xx-large">ALSA configuration browser</span>'
+Comment3='
+Browser for the ALSA configuration tree.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://xwmw.org/qastools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Devel-Profiler</b>'
+Comment='<span size="xx-large">Perl profiler compatible with dprofpp</span>'
+Comment3='
+This module implements a Perl profiler that outputs profiling data in a
+format compatible with dprofpp, DevelDProfs profile analysis tool. It is
+meant to be a drop-in replacement for DevelDProf.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Profiler/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

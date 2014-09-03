@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jenkins-crypto-util-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jenkins-crypto-util</span>'
+Comment3='
+This package provides the API documentation for jenkins-crypto-util.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jenkinsci/lib-crypto-util'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

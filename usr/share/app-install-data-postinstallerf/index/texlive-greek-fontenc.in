@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-greek-fontenc</b>'
+Comment='<span size="xx-large">LICR macros and encoding definition files for Greek</span>'
+Comment3='
+The package provides Greek LICR macro definitions and encoding
+definition files for Greek text font encodings for use with
+fontenc.
+
+date 2013-12-02 175953 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

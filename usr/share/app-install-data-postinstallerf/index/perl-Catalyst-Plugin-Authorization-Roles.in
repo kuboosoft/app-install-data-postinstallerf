@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-Authorization-Roles</b>'
+Comment='<span size="xx-large">Role based authorization for Catalyst based on Catalyst::Plugin::Authentication</span>'
+Comment3='
+Role based access control is very simple every user has a list of roles,
+which that user is allowed to assume, and every restricted part of the app
+makes an assertion about the necessary roles.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-Authorization-Roles/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

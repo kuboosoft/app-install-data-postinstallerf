@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>R-DynDoc</b>'
+Comment='<span size="xx-large">Functions for dynamic documents</span>'
+Comment3='
+A set of functions to create and interact with dynamic documents and
+vignettes.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/DynDoc.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

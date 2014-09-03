@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glue-validator</b>'
+Comment='<span size="xx-large">A validation framework for Grid information providers</span>'
+Comment3='
+A validation framework for Grid information providers.
+This framework validates the information return against the GLUE information
+model from the Open Grid Forum.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://cern.ch/glue'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

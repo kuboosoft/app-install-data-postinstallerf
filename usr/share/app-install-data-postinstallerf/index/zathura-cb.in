@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zathura-cb</b>'
+Comment='<span size="xx-large">Comic book support for zathura</span>'
+Comment3='
+The zathura-cb plugin adds comic book archive support to zathura.
+'
+License='zlib'
+Screenshot=''
+Url='http://pwmt.org/projects/zathura/plugins/zathura-cb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

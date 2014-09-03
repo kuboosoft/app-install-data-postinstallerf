@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libical</b>'
+Comment='<span size="xx-large">Reference implementation of the iCalendar data type and serialization format</span>'
+Comment3='
+Reference implementation of the iCalendar data type and serialization format
+used in dozens of calendaring and scheduling products.
+
+'
+License='LGPLv2 or MPLv1.1'
+Screenshot=''
+Url='http://freeassociation.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gtksourceviewmm3-doc</b>'
+Comment='<span size="xx-large">Developers documentation for the gtksourceviewmm3 library</span>'
+Comment3='
+This package contains developers documentation for the Gtksourceviewmm
+library. Gtksourceviewmm is the C++ API for the Gtksourceview library.
+
+The documentation can be viewed either through the devhelp
+documentation browser or through a web browser.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/gtksourceviewmm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libc-client</b>'
+Comment='<span size="xx-large">UW C-client mail library</span>'
+Comment3='
+Provides a common API for accessing mailboxes.
+
+URL          http//www.washington.edu/imap/
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.washington.edu/imap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

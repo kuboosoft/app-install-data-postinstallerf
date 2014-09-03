@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sipwitch-devel</b>'
+Comment='<span size="xx-large">Headers for building sipwitch plugins</span>'
+Comment3='
+Header files for building plugins that interface with sipwitch. This might be
+used for externally creating sipwitch modules, though normally modules are
+found or added to the core distribution directly.  This may also be for
+developing external application services which need to communicate with a
+running sipwitch daemon instance.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/sipwitch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

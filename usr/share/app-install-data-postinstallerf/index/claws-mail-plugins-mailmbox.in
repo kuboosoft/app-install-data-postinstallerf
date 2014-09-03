@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>claws-mail-plugins-mailmbox</b>'
+Comment='<span size="xx-large">Add support for mailboxes in mbox format to Claws Mail</span>'
+Comment3='
+This plugin provides direct support for mailboxes in mbox format.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://claws-mail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

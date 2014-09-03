@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>monodevelop-vala</b>'
+Comment='<span size="xx-large">MonoDevelop vala Addin</span>'
+Comment3='
+Vala Addin for MonoDevelop.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.monodevelop.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

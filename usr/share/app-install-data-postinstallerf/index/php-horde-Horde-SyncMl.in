@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-SyncMl</b>'
+Comment='<span size="xx-large">Horde_SyncMl provides an API for processing SyncML requests</span>'
+Comment3='
+Classes for implementing a SyncML server.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

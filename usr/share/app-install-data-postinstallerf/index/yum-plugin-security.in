@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>yum-plugin-security</b>'
+Comment='<span size="xx-large">Yum plugin to enable security filters</span>'
+Comment3='
+to yum and the list-security and info-security commands.
+The options make it possible to limit list/upgrade of packages to specific
+security relevant ones. The commands give you the security information.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

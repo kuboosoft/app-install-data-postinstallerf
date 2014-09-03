@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>konsole-part</b>'
+Comment='<span size="xx-large">Konsole kpart plugin</span>'
+Comment3='
+Konsole kpart plugin.
+'
+License='GPLv2 and GFDL'
+Screenshot=''
+Url='http://konsole.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

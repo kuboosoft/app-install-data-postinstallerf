@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-qt5-qtbase-static</b>'
+Comment='<span size="xx-large">Static version of the mingw64-qt5-qtbase library</span>'
+Comment3='
+Static version of the mingw64-qt5-qtbase library.
+'
+License='GPLv3 with exceptions or LGPLv2 with exceptions'
+Screenshot=''
+Url='http://www.qtsoftware.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

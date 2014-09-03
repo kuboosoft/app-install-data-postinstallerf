@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-bytestring</b>'
+Comment='<span size="xx-large">Haskell bytestring library</span>'
+Comment3='
+This package provides the Haskell bytestring library.
+'
+License='BSD and HaskellReport'
+Screenshot=''
+Url='http://haskell.org/ghc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

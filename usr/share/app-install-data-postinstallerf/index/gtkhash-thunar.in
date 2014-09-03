@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gtkhash-thunar</b>'
+Comment='<span size="xx-large">GtkHash extension for Thunar</span>'
+Comment3='
+GtkHash extension for the Thunar file manger. It adds adds an additional tab
+called "Digests" to the file properties dialog.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gtkhash.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

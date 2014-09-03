@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>debugmode</b>'
+Comment='<span size="xx-large">Scripts for running in debugging mode</span>'
+Comment3='
+The debugmode package contains some basic scripts that are used to run
+the system in a debugging mode.
+
+Currently, this consists of various memory checking code.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/releases/i/n/initscripts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

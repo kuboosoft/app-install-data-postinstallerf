@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>koji-hub-plugins</b>'
+Comment='<span size="xx-large">Koji hub plugins</span>'
+Comment3='
+Plugins to the koji XMLRPC interface
+'
+License='LGPLv2 and GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/koji'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

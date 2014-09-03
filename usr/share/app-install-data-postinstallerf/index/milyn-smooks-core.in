@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>milyn-smooks-core</b>'
+Comment='<span size="xx-large">Content Filtering and Serialisation Framework</span>'
+Comment3='
+Smooks is a framework for "fragment based" filtering and
+serialisation of XML (.. XHTML/HTML etc).  It allows you perform
+transformation and analysis on messages using different technologies
+(Java, Groovy, XSLT, StringTemplate, etc) both separately and in
+collaboration i.e. it allows you mix technologies within the scope
+of a single message transformation.
+Smooks can also be used simply as an XML analysis tool.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.smooks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

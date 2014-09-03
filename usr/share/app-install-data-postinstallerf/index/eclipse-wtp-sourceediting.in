@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eclipse-wtp-sourceediting</b>'
+Comment='<span size="xx-large">WTP Source Editing</span>'
+Comment3='
+WTP Source editing tools provide support for editing typical "web" languages
+and the mixing of them. XML, XML Schema, XSL, HTML, CSS, DTD, and JSP
+resources, as well as an XML Perspective.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/projects/project.php?id=webtools.sourceediting'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

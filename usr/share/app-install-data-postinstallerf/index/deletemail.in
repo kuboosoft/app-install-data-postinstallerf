@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>deletemail</b>'
+Comment='<span size="xx-large">A non-interactive tool for deleting mails</span>'
+Comment3='
+deletemail is a non-interactive tool for removing mail which is older
+than a configurable number of days from one or more IMAP mailboxes. By
+default, mail which is not marked as seen on the server will not be
+deleted. If, for example, fetchmail is used for receiving mail from an
+IMAP server, deletemail might be useful, since fetchmail deletes mail
+either immediately or not at all. Thus, you could use fetchmails keep
+option (so that fetchmail never deletes anything) and let deletemail
+handle the removal of mail. Currently, the IMAP4 and IMAP4rev1 protocols
+are supported, optionally using SSL/TLS for secure IMAP connections.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.jhweiss.de/software/deletemail.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

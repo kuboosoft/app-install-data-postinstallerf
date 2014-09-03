@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nuvola-icon-theme</b>'
+Comment='<span size="xx-large">Nuvola icon theme</span>'
+Comment3='
+Nuvola icon theme.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

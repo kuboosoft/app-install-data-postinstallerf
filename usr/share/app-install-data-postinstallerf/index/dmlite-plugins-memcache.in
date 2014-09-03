@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dmlite-plugins-memcache</b>'
+Comment='<span size="xx-large">Memcached plugin for dmlite</span>'
+Comment3='
+This package provides the memcached plug-in for dmlite. It provides a
+memcached based implementation of the NS interface.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

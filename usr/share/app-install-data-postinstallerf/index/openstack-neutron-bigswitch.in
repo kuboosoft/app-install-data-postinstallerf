@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>openstack-neutron-bigswitch</b>'
+Comment='<span size="xx-large">Neutron Big Switch plugin</span>'
+Comment3='
+Neutron provides an API to dynamically request and configure virtual
+networks.
+
+This package contains the neutron plugin that implements virtual
+networks using the FloodLight Openflow Controller or the Big Switch
+Networks Controller.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://launchpad.net/neutron/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

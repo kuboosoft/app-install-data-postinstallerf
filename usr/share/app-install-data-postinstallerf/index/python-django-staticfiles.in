@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-django-staticfiles</b>'
+Comment='<span size="xx-large">A Django app that provides helpers for serving static files</span>'
+Comment3='
+This is a Django app that provides helpers for serving static files.
+The main website for django-staticfiles is github.com/jezdez/django-staticfiles
+where you can also file tickets.
+'
+License='BSD'
+Screenshot=''
+Url='http://django-staticfiles.readthedocs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

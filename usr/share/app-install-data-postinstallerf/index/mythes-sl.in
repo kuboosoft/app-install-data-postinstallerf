@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-sl</b>'
+Comment='<span size="xx-large">Slovenian thesaurus</span>'
+Comment3='
+Slovenian thesaurus.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.tezaver.si/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtick</b>'
+Comment='<span size="xx-large">Metronome application</span>'
+Comment3='
+gtick is a small metronome application written for Linux and UN*X supporting
+different meters (2/4, 3/4, 4/4) and speeds ranging from 30 to 250 bpm. It
+utilizes GTK+ and OSS (ALSA compatible) or Pulseaudio.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.antcom.de/gtick/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

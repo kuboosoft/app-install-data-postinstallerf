@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>utrac-devel</b>'
+Comment='<span size="xx-large">Library and file header for utrac</span>'
+Comment3='
+The utrac-devel package includes the static library and the header files
+for compiling programs that use the utrac library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://utrac.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

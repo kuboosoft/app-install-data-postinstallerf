@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lxpanel</b>'
+Comment='<span size="xx-large">A lightweight X11 desktop panel</span>'
+Comment3='
+lxpanel is a lightweight X11 desktop panel. It works with any ICCCM / NETWM
+compliant window manager (eg sawfish, metacity, xfwm4, kwin) and features a
+tasklist, pager, launchbar, clock, menu and sytray.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lxde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

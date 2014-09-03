@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>migrationtools</b>'
+Comment='<span size="xx-large">Migration scripts for LDAP</span>'
+Comment3='
+The MigrationTools are a set of Perl scripts for migrating users, groups,
+aliases, hosts, netgroups, networks, protocols, RPCs, and services from
+existing nameservices (flat files, NIS, and NetInfo) to LDAP.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.padl.com/OSS/MigrationTools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

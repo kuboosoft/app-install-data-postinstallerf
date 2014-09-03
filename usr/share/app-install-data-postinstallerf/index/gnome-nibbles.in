@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-nibbles</b>'
+Comment='<span size="xx-large">GNOME Nibbles game</span>'
+Comment3='
+Pilot a worm around a maze trying to collect diamonds and at the same time
+avoiding the walls and yourself. With each diamond your worm grows longer and
+navigation becomes more and more difficult. Playable by up to four people.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://live.gnome.org/Nibbles'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-CPANPLUS-Dist-Build</b>'
+Comment='<span size="xx-large">Module::Build extension for CPANPLUS</span>'
+Comment3='
+CPANPLUSDistBuild is a distribution class for ModuleBuild related
+modules. With this package, you can create, install and uninstall
+ModuleBuild-based perl modules by calling CPANPLUSDist methods.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPANPLUS-Dist-Build/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

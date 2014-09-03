@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-doc</b>'
+Comment='<span size="xx-large">Documentation for ruby</span>'
+Comment3='
+This package contains documentation for ruby.
+'
+License='(Ruby or BSD) and Public Domain'
+Screenshot=''
+Url='http://ruby-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

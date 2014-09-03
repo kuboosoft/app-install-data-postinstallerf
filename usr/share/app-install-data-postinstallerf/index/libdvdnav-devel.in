@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdvdnav-devel</b>'
+Comment='<span size="xx-large">Development files for libdvdnav</span>'
+Comment3='
+libdvdnav-devel contains the files necessary to build packages that use the
+libdvdnav library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dvdnav.mplayerhq.hu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>pcp-doc</b>'
+Comment='<span size="xx-large">Documentation and tutorial for the Performance Co-Pilot</span>'
+Comment3='
+Documentation and tutorial for the Performance Co-Pilot
+Performance Co-Pilot (PCP) provides a framework and services to support
+system-level performance monitoring and performance management.
+
+The pcp-doc package provides useful information on using and
+configuring the Performance Co-Pilot (PCP) toolkit for system
+level performance management.  It includes tutorials, HOWTOs,
+and other detailed documentation about the internals of core
+PCP utilities and daemons, and the PCP graphical tools.
+'
+License='GPLv2+ and LGPLv2+ and LGPLv2+ with exceptions'
+License='GPLv2+ and LGPLv2.1+'
+Screenshot=''
+Url='http://oss.sgi.com/projects/pcp'
+Url='http://www.performancecopilot.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

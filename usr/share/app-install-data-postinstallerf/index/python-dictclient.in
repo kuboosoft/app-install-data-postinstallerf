@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-dictclient</b>'
+Comment='<span size="xx-large">Python client for DICT protocol</span>'
+Comment3='
+A client library for the DICT protocol.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gopher.quux.org:70/devel/dictclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

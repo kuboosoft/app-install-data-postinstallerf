@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hsqldb-demo</b>'
+Comment='<span size="xx-large">Demo for hsqldb</span>'
+Comment3='
+Demonstrations and samples for hsqldb.
+'
+License='BSD'
+Screenshot=''
+Url='http://hsqldb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xz-java</b>'
+Comment='<span size="xx-large">Java implementation of XZ data compression</span>'
+Comment3='
+A complete implementation of XZ data compression in Java.
+
+It features full support for the .xz file format specification version 1.0.4,
+single-threaded streamed compression and decompression, single-threaded
+decompression with limited random access support, raw streams (no .xz headers)
+for advanced users, including LZMA2 with preset dictionary.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tukaani.org/xz/java.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

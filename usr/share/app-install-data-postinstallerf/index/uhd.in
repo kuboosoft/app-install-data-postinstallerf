@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>uhd</b>'
+Comment='<span size="xx-large">Universal Hardware Driver for Ettus Research products</span>'
+Comment3='
+The UHD is the universal hardware driver for Ettus Research products.
+The goal of the UHD is to provide a host driver and API for current and
+future Ettus Research products. It can be used standalone without GNU Radio.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.ettus.com/redmine/ettus/projects/uhd/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

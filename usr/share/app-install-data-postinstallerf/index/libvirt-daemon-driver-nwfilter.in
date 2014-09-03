@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-driver-nwfilter</b>'
+Comment='<span size="xx-large">Nwfilter driver plugin for the libvirtd daemon</span>'
+Comment3='
+The nwfilter driver plugin for the libvirtd daemon, providing
+an implementation of the firewall APIs using the ebtables,
+iptables and ip6tables capabilities
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

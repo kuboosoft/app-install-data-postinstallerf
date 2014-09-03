@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-flup</b>'
+Comment='<span size="xx-large">Random assortment of WSGI servers for python</span>'
+Comment3='
+This package contains classes to create WSGI servers in python, e.g. fastcgi.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac.saddi.com/flup'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

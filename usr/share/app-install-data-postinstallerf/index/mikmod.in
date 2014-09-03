@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mikmod</b>'
+Comment='<span size="xx-large">Console music module player</span>'
+Comment3='
+MikMod is one of the best and most well known MOD music file players
+for UNIX-like systems.  This particular distribution is intended to
+compile fairly painlessly in a Linux environment. MikMod uses the OSS
+/dev/dsp driver including all recent kernels for output, and will also
+write .wav files. Supported file formats include MOD, STM, S3M, MTM,
+XM, ULT, and IT.  The player uses ncurses for console output and
+supports transparent loading from gzip/pkzip/zoo archives and the
+loading/saving of playlists.
+
+Install the mikmod package if you need a MOD music file player.
+'
+License='GPLv2 and LGPLv2+'
+Screenshot=''
+Url='http://mikmod.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

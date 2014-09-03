@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-CPAN-DistnameInfo</b>'
+Comment='<span size="xx-large">Extract distribution name and version from a distribution filename</span>'
+Comment3='
+Many online services that are centered around CPAN attempt to
+associate multiple uploads by extracting a distribution name from the
+filename of the upload. For most distributions this is easy as they
+have used ExtUtilsMakeMaker or ModuleBuild to create the
+distribution, which results in a uniform name. But sadly not all
+uploads are created in this way.
+
+CPANDistnameInfo uses heuristics that have been learnt by
+http//search.cpan.org/ to extract the distribution name and version
+from filenames and also report if the version is to be treated as a
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPAN-DistnameInfo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

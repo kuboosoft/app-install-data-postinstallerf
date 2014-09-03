@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nbdkit-devel</b>'
+Comment='<span size="xx-large">Development files and documentation for nbdkit</span>'
+Comment3='
+This package contains development files and documentation
+for nbdkit.  Install this package if you want to develop
+plugins for nbdkit.
+
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/libguestfs/nbdkit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>truezip-file</b>'
+Comment='<span size="xx-large">TrueZip File*</span>'
+Comment3='
+This module provides the TFile* classes for simple, uniform,
+transparent, thread-safe, read/write access to archive files
+as if they were virtual directories in a file system path.
+
+This module also provides Swing GUI classes for viewing file
+trees and choosing entries in archive files.
+'
+License='EPL'
+Screenshot=''
+Url='http://truezip.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

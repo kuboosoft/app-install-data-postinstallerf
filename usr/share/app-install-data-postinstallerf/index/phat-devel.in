@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>phat-devel</b>'
+Comment='<span size="xx-large">Header files for PHAT</span>'
+Comment3='
+Header files and additional libraries used for developing applications
+with the PHAT Audio Toolkit.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://phat.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

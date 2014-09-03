@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>activemq-protobuf</b>'
+Comment='<span size="xx-large">ActiveMQ Protocol Buffers</span>'
+Comment3='
+A Simpler Protocol Buffer Java API.
+Comes with a built in proto file
+compiler and Java source code generator.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://activemq.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

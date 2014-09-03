@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jglobus-axisg</b>'
+Comment='<span size="xx-large">Globus Java - Apache AXIS support</span>'
+Comment3='
+Globus Java library with Apache AXIS support
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/jglobus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

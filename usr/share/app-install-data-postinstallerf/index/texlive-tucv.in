@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-tucv</b>'
+Comment='<span size="xx-large">Support for typesetting a CV or resumee</span>'
+Comment3='
+The package provides commands for typesetting a CV or resume.
+It provides commands for general-purpose headings, entries, and
+item/description pairs, as well as more specific commands for
+formatting sections, with explicit inclusion of school, degree,
+employer, job, conference, and publications entries. It tends
+to produce a somewhat long and quite detailed document but may
+also be suitable to support a shorter resume.
+
+date 2010-12-06 214344 +0100
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

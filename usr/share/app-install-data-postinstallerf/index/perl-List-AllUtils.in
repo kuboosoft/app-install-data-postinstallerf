@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-List-AllUtils</b>'
+Comment='<span size="xx-large">Combines List::Util and List::MoreUtils</span>'
+Comment3='
+Are you sick of trying to remember whether a particular helper is defined
+in ListUtil or ListMoreUtils? I sure am. Now you dont have to remember.
+This module will export all of the functions that either of those two
+modules defines.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/List-AllUtils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

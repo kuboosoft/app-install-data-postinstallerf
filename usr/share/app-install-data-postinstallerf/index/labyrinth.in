@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>labyrinth</b>'
+Comment='<span size="xx-large">A light weight mind mapping tool</span>'
+Comment3='
+Labyrinth is a lightweight mind-mapping tool, written in Python using Gtk and
+Cairo to do the drawing. It is intended to be as light and intuitive as
+possible, but still provide a wide range of powerful features.
+
+A mind-map is a diagram used to represent words, ideas, tasks or other items
+linked to and arranged radially around a central key word or idea. It is used
+to generate, visualize, structure and classify ideas, and as an aid in study,
+organization, problem solving, and decision making. (From Wikipedia)
+Currently, Labyrinth provides 3 different types of thoughts, or nodes - Text,
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/labyrinth-team/labyrinth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-pracjourn</b>'
+Comment='<span size="xx-large">Typeset articles for PracTeX</span>'
+Comment3='
+The pracjourn class is used for typesetting articles in the
+PracTeX Journal. It is based on the article class with
+modifications to allow for more flexible front-matter and
+revision control, among other small changes.
+
+date 2008-11-30 133117 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

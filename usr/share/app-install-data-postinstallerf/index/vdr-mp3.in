@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdr-mp3</b>'
+Comment='<span size="xx-large">Sound playback plugin for VDR</span>'
+Comment3='
+The MP3 plugin adds audio playback capability to VDR.  Supported audio
+formats are those supported by libmad, libsndfile and libvorbis.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.muempf.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

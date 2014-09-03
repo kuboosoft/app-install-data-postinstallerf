@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-text-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-text</span>'
+Comment3='
+Documentation for rubygem-text
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/threedaymonk/text'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>community-mysql-embedded</b>'
+Comment='<span size="xx-large">MySQL as an embeddable library</span>'
+Comment3='
+MySQL is a multi-user, multi-threaded SQL database server. This
+package contains a version of the MySQL server that can be embedded
+into a client application instead of running as a separate process.
+
+'
+License='GPLv2 with exceptions and LGPLv2 and BSD'
+Screenshot=''
+Url='http://www.mysql.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

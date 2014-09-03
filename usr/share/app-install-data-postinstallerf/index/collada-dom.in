@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>collada-dom</b>'
+Comment='<span size="xx-large">COLLADA Document Object Model Library</span>'
+Comment3='
+COLLADA is a royalty-free XML schema that enables digital asset exchange
+within the interactive 3D industry. The COLLADA Document Object Model
+(COLLADA DOM) is an application programming interface (API) that provides
+a C++ object representation of a COLLADA XML instance document.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.collada.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zarafa-spooler</b>'
+Comment='<span size="xx-large">Mail Spooler for the Zarafa Collaboration Platform</span>'
+Comment3='
+The zarafa-spooler package includes the Zarafa Spooler service which is
+responsible for converting the Zarafa e-mails from outboxes to Internet
+Mail and send it using the configured SMTP server to the recipients.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

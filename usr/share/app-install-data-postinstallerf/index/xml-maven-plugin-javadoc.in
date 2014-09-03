@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xml-maven-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for xml-maven-plugin</span>'
+Comment3='
+This package contains the API documentation for xml-maven-plugin.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mojo.codehaus.org/xml-maven-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

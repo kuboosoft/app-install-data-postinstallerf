@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Goo-Canvas</b>'
+Comment='<span size="xx-large">Perl interface to the GooCanvas</span>'
+Comment3='
+GTK+ doest has an buildin canvas widget. GooCanvas is wonderful. It is easy to use
+and has powerful and extensible way to create items in canvas. Just try it.
+For more documents, please read GooCanvas Manual and the demo programs provided
+in the source distribution in both perl-GooCanvas and GooCanvas.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Goo-Canvas/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

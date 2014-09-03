@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-childprocess</b>'
+Comment='<span size="xx-large">A simple and reliable gem for controlling external programs</span>'
+Comment3='
+This gem aims at being a simple and reliable solution for controlling external
+programs running in the background on any Ruby / OS combination.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jarib/childprocess'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

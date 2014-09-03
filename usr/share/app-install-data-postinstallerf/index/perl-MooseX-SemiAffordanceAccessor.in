@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-MooseX-SemiAffordanceAccessor</b>'
+Comment3='
+This module does not provide any methods. Simply loading it changes the
+default naming policy for the loading class so that accessors are
+separated into get and set methods. The get methods have the same name
+as the accessor, while set methods are prefixed with "set_".If you
+define an attribute with a leading underscore, then the set method will
+start with "_set_".If you explicitly set a "reader" or "writer" name
+when creating an attribute, then that attributes naming scheme is left
+unchanged.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-SemiAffordanceAccessor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

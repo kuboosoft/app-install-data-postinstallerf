@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ekg2-voip</b>'
+Comment='<span size="xx-large">GSM VoIP protocol plugin for ekg2</span>'
+Comment3='
+GSM VoIP protocol plugin for ekg2.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.ekg2.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-expect-dot-js</b>'
+Comment='<span size="xx-large">Behavior-driven development (BDD) style assertions for Node.js and the browser</span>'
+Comment3='
+Behavior-driven development (BDD) style assertions for Node.js and the browser.
+'
+License='MIT'
+Screenshot=''
+Url='https://npmjs.org/package/expect.js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

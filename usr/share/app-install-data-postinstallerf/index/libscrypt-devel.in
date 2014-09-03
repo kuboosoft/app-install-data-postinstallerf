@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libscrypt-devel</b>'
+Comment='<span size="xx-large">Development files for libscrypt</span>'
+Comment3='
+The libscrypt-devel package contains libraries and header files for
+developing applications that use libscrypt.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.lolware.net/libscrypt.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

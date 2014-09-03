@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qt4-theme-quarticurve</b>'
+Comment='<span size="xx-large">Unofficial port of the Bluecurve widget theme to Qt 4</span>'
+Comment3='
+Quarticurve is an unofficial port of Red Hats Bluecurve Qt 3 widget theme to
+Qt 4.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde-look.org/content/show.php/Quarticurve?content=59884'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

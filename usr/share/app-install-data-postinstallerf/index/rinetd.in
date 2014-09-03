@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rinetd</b>'
+Comment='<span size="xx-large">TCP redirection server</span>'
+Comment3='
+rinetd is a daemon which redirects TCP connections from one IP address
+and port to another IP address and port. This daemon is often used to
+access services behind a firewall.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.boutell.com/rinetd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

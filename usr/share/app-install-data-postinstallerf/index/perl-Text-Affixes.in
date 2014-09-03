@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Text-Affixes</b>'
+Comment='<span size="xx-large">Prefixes and suffixes analysis of text</span>'
+Comment3='
+Provides methods for prefixes and suffixes analysis of text.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Affixes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

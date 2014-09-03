@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openCOLLADA-devel</b>'
+Comment='<span size="xx-large">Include files for openCOLLADA development</span>'
+Comment3='
+This package provides the include files necessary to build and
+develop with the openCOLLADA export and import libraries.
+
+'
+License='MIT'
+Screenshot=''
+Url='https://collada.org/mediawiki/index.php/OpenCOLLADA'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

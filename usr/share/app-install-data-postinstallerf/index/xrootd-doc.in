@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xrootd-doc</b>'
+Comment='<span size="xx-large">Developer documentation for the xrootd libraries</span>'
+Comment3='
+This package contains the API documentation of the xrootd libraries.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://xrootd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

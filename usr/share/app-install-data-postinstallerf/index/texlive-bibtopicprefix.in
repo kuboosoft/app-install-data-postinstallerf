@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-bibtopicprefix</b>'
+Comment='<span size="xx-large">Prefix references to bibliographies produced by bibtopic</span>'
+Comment3='
+The package permits users to apply prefixes (fixed strings) to
+references to entries in bibliographies produced by the
+bibtopic package.
+
+date 2008-08-17 010050 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

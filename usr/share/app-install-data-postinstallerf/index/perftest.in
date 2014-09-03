@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perftest</b>'
+Comment='<span size="xx-large">IB Performance Tests</span>'
+Comment3='
+Perftest is a collection of simple test programs designed to utilize
+RDMA communications and provide performance numbers over those RDMA
+connections.  It does not work on normal TCP/IP networks, only on
+RDMA networks.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

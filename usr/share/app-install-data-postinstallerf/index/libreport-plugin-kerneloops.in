@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libreport-plugin-kerneloops</b>'
+Comment='<span size="xx-large">libreports kerneloops reporter plugin</span>'
+Comment3='
+This package contains plugin which sends kernel crash information to specified
+server, usually to kerneloops.org.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

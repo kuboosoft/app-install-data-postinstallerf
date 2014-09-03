@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>postgresql-test</b>'
+Comment='<span size="xx-large">The test suite distributed with PostgreSQL</span>'
+Comment3='
+The postgresql-test package contains files needed for various tests for the
+PostgreSQL database management system, including regression tests and
+benchmarks.
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

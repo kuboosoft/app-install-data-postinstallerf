@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-ngram-doc</b>'
+Comment='<span size="xx-large">Documentation-files for python-ngram</span>'
+Comment3='
+This package contains the documentation-files for python-ngram.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://github.com/gpoulter/python-ngram'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Date-Holidays-DE</b>'
+Comment='<span size="xx-large">Perl module to determine German holidays</span>'
+Comment3='
+A perl module that creates a list of German holidays in a given year.
+It knows about special holiday regulations for all of Germanys federal
+states and also about "semi-holidays" and religious "silent days" that
+will be treated as holidays on request. Holidays that occur on weekends
+can be excluded from the generated list. The generated list can also be
+freely formatted using regular strftime() format definitions.
+'
+License='MIT'
+Screenshot=''
+Url='http://search.cpan.org/dist/Date-Holidays-DE/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

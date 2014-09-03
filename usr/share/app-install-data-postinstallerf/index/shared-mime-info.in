@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>shared-mime-info</b>'
+Comment='<span size="xx-large">Shared MIME information database</span>'
+Comment3='
+This is the freedesktop.org shared MIME info database.
+
+Many programs and desktops use the MIME system to represent the types of
+files. Frequently, it is necessary to work out the correct MIME type for
+a file. This is generally done by examining the files name or contents,
+and looking up the correct MIME type in a database.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://freedesktop.org/Software/shared-mime-info'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

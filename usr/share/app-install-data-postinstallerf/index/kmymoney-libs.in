@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kmymoney-libs</b>'
+Comment='<span size="xx-large">Run-time libraries for kmymoney</span>'
+Comment3='
+Run-time libraries for kmymoney.
+
+URL          http//kmymoney2.sourceforge.net/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kmymoney2.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

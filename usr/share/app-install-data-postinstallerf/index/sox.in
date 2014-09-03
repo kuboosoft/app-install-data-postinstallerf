@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sox</b>'
+Comment='<span size="xx-large">A general purpose sound file conversion tool</span>'
+Comment3='
+SoX (Sound eXchange) is a sound file format converter SoX can convert
+between many different digitized sound formats and perform simple
+sound manipulation functions, including sound effects.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sox.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

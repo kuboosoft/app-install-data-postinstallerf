@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lmms-vst</b>'
+Comment='<span size="xx-large">VST hosting plugin for lmms</span>'
+Comment3='
+This package contains the necessary files to host VST plugins.
+'
+License='GPLv2+ and GPLv2 and (GPLv2+ or MIT) and GPLv3+ and MIT and LGPLv2+ and (LGPLv2+ with exceptions) and Copyright only'
+Screenshot=''
+Url='http://lmms.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

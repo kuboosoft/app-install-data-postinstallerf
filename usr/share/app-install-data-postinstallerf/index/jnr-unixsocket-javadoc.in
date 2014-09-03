@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jnr-unixsocket-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jnr-unixsocket</span>'
+Comment3='
+This package contains the API documentation for jnr-unixsocket.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/jnr/jnr-unixsocket/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

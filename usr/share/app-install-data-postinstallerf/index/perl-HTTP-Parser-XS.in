@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-HTTP-Parser-XS</b>'
+Comment='<span size="xx-large">A fast, primitive HTTP request parser</span>'
+Comment3='
+HTTPParserXS is a fast, primitive HTTP request parser that can
+be used either for writing a synchronous HTTP server or an event-
+driven server.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-Parser-XS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

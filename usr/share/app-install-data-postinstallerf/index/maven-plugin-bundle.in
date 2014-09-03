@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>maven-plugin-bundle</b>'
+Comment='<span size="xx-large">Maven Bundle Plugin</span>'
+Comment3='
+Provides a maven plugin that supports creating an OSGi bundle
+from the contents of the compilation classpath along with its
+resources and dependencies. Plus a zillion other features.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

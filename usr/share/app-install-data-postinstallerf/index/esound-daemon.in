@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>esound-daemon</b>'
+Comment='<span size="xx-large">EsounD daemon</span>'
+Comment3='
+EsounD, the Enlightened Sound Daemon, is a server process that mixes
+several audio streams for playback by a single audio device. For
+example, if youre listening to music on a CD and you receive a
+sound-related event from IM client, the two applications wont have to
+queue for the use of your sound card.
+The daemon functionality was replaced with PulseAudio (PA) and the binary
+was dropped from Fedora in October 2007. However, on PA-disabled systems
+the daemon functionality was completely missing and therefore
+reintroduced to Fedora in June 2013 in form of subpackage.
+The daemon cannot run on PA-enabled systems.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='ftp://ftp.gnome.org/pub/GNOME/sources/esound'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

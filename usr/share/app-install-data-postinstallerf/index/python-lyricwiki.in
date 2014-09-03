@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-lyricwiki</b>'
+Comment='<span size="xx-large">A Python interface to the http://lyrics.wikia.com</span>'
+Comment3='
+A Python interface which provides simple access to lyrics from
+http//lyrics.wikia.com
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/lyricwiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

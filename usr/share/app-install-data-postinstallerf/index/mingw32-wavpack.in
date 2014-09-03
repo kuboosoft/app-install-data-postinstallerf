@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mingw32-wavpack</b>'
+Comment='<span size="xx-large">Completely open audiocodec</span>'
+Comment3='
+WavPack is a completely open audio compression format providing lossless,
+high-quality lossy, and a unique hybrid compression mode. Although the
+technology is loosely based on previous versions of WavPack, the new
+version 4 format has been designed from the ground up to offer unparalleled
+performance and functionality.
+
+This package is MinGW compiled wavpack library for the Win32 target.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.wavpack.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

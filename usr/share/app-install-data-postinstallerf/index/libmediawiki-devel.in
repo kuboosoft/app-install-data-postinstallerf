@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmediawiki-devel</b>'
+Comment='<span size="xx-large">Development files for libmediawiki</span>'
+Comment3='
+Development files for libmediawiki.
+
+URL          http//www.digikam.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.digikam.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

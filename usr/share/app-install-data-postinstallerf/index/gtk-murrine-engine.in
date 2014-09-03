@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gtk-murrine-engine</b>'
+Comment='<span size="xx-large">Murrine GTK2 engine</span>'
+Comment3='
+Murrine Engine is a Gtk2 theme engine, using the Cairo vector graphics
+library. It comes by default with a modern glassy look, inspired by
+Venetian glass artworks, and is extremely customizable.
+
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='http://www.cimitan.com/murrine/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

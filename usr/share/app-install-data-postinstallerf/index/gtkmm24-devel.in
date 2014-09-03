@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtkmm24-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use gtkmm24.</span>'
+Comment3='
+This package contains the static libraries and header files needed for
+developing gtkmm applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

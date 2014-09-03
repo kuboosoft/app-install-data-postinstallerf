@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pmars</b>'
+Comment='<span size="xx-large">Portable corewar system with ICWS94 extensions</span>'
+Comment3='
+pMARS is a Memory Array Redcode Simulator (MARS) for corewar.
+
+    * portable, run it on your Mac at home or VAX at work
+    * free and comes with source
+    * core displays for DOS, Mac and UNIX
+    * implements a new redcode dialect, ICWS94, while remaining compatible
+      with ICWS88
+    * powerful redcode extensions multi-line EQUates, FOR/ROF text repetition
+    * one of the fastest simulators written in a high level language
+    * full-featured, programmable debugger
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.koth.org/pmars/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

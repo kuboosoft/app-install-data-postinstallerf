@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-biblatex-source-division-doc</b>'
+Comment='<span size="xx-large">Documentation for biblatex-source-division</span>'
+Comment3='
+Documentation for biblatex-source-division
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

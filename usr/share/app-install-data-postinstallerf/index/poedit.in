@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>poedit</b>'
+Comment='<span size="xx-large">GUI editor for GNU gettext .po files</span>'
+Comment3='
+This program is GUI frontend to GNU Gettext utilities and catalogs
+editor/source code parser. It helps with translating application into
+another language.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.poedit.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

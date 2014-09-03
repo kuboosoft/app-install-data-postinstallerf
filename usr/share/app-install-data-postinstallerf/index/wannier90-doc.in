@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wannier90-doc</b>'
+Comment='<span size="xx-large">Documentation for Wannier90</span>'
+Comment3='
+This package contains the tutorial and users guide for Wannier90.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.wannier.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

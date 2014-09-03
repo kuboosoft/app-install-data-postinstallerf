@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>dsniff</b>'
+Comment='<span size="xx-large">Tools for network auditing and penetration testing</span>'
+Comment3='
+A collection of tools for network auditing and penetration testing. Dsniff,
+filesnarf, mailsnarf, msgsnarf, urlsnarf and webspy allow to passively monitor
+a network for interesting data (passwords, e-mail, files). Arpspoof, dnsspoof
+and macof facilitate the interception of network traffic normally unavailable
+to an attacker (e.g, due to layer-2 switching). Sshmitm and webmitm implement
+active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions
+by exploiting weak bindings in ad-hoc PKI.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.monkey.org/~dugsong/dsniff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

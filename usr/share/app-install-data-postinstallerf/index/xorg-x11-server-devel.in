@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xorg-x11-server-devel</b>'
+Comment='<span size="xx-large">SDK for X server driver module development</span>'
+Comment3='
+The SDK package provides the developmental files which are necessary for
+developing X server driver modules, and for compiling driver modules
+outside of the standard X11 source code tree.  Developers writing video
+drivers, input drivers, or other X modules should install this package.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

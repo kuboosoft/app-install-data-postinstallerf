@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lohit-oriya-fonts</b>'
+Comment='<span size="xx-large">Free Oriya Font</span>'
+Comment3='
+This package provides a free Oriya truetype/opentype font.
+'
+License='OFL'
+Screenshot=''
+Url='https://fedorahosted.org/lohit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

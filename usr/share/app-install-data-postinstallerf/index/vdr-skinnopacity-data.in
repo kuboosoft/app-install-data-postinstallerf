@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vdr-skinnopacity-data</b>'
+Comment='<span size="xx-large">Icons files for vdr-skinnopacity</span>'
+Comment3='
+This package contains icons files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.vdr-developer.org/projects/skin-nopacity'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

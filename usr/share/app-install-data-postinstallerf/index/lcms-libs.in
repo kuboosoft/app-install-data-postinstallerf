@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lcms-libs</b>'
+Comment='<span size="xx-large">Library for lcms</span>'
+Comment3='
+The lcms-libs package contains library for lcms.
+
+URL          http//www.littlecms.com/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.littlecms.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

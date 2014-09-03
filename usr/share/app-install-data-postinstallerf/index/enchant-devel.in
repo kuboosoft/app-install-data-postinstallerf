@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>enchant-devel</b>'
+Comment='<span size="xx-large">Support files necessary to compile applications with libenchant.</span>'
+Comment3='
+Libraries, headers, and support files necessary to compile applications using libenchant.
+
+URL          http//www.abisource.com/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.abisource.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

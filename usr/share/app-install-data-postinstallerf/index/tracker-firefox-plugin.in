@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tracker-firefox-plugin</b>'
+Comment='<span size="xx-large">A simple bookmark exporter for Tracker</span>'
+Comment3='
+This Firefox addon exports your bookmarks to Tracker, so that you can search
+for them for example using tracker-needle.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/tracker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

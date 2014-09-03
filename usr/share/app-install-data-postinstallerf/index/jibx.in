@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jibx</b>'
+Comment='<span size="xx-large">Framework for binding XML data to Java objects</span>'
+Comment3='
+JiBX is a framework for binding XML data to Java objects. It lets you
+work with data from XML documents using your own class structures.
+'
+License='BSD and ASL 1.1'
+Screenshot=''
+Url='http://sourceforge.net/projects/jibx/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

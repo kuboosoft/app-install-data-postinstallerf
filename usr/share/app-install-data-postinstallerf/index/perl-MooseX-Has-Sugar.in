@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Has-Sugar</b>'
+Comment='<span size="xx-large">Sugar syntax for moose has fields</span>'
+Comment3='
+Moose "has" syntax is generally fine, but sometimes one gets bothered with
+the constant typing of string quotes for things. The MooseXTypes module
+exists and in many ways reduces the need for constant string creation.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Has-Sugar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

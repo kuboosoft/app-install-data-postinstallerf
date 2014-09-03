@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cksfv</b>'
+Comment='<span size="xx-large">Utility to manipulate SFV files</span>'
+Comment3='
+cksfv is a utility that can create and use SFV files. SFV (Simple File
+Verification) files are used to verify file integrity using CRC32
+checksums.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://zakalwe.fi/~shd/foss/cksfv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

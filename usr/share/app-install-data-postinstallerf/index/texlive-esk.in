@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-esk</b>'
+Comment='<span size="xx-large">Package to encapsulate Sketch files in LaTeX sources</span>'
+Comment3='
+The ESK package allows to encapsulate Sketch files in LaTeX
+sources. This is very useful for keeping illustrations in sync
+with the text. It also frees the user from inventing
+descriptive names for new files that fit into the confines of
+file system conventions. Sketch is a 3D scene description
+language by Eugene K. Ressler and can generate TikZ and
+PSTricks code. ESK behaves in a similar fashion to EMP (which
+encapsulates Metapost files), and was in fact developed from
+it.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>whatsup</b>'
+Comment='<span size="xx-large">Node up/down detection utility</span>'
+Comment3='
+Whatsup is a cluster node up/down detection utility.
+
+Whatsup can quickly calculate and output the up and down nodes of a cluster.
+Whatsup allows some tools, such as Pdsh, to operate more quickly by
+not operating on down nodes. Whatsup calculates the up and down nodes of a
+cluster through one of several possible backend tools
+and several optional cluster node databases.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://computing.llnl.gov/linux/whatsup.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

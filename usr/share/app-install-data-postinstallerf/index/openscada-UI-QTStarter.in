@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openscada-UI-QTStarter</b>'
+Comment='<span size="xx-large">Open SCADA QT Starter</span>'
+Comment3='
+The openscada-UI-QTStarter Allow QT GUI starter. It is single for
+all QT GUI modules!
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

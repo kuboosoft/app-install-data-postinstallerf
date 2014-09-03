@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnash-devel</b>'
+Comment='<span size="xx-large">Gnash header files</span>'
+Comment3='
+Gnash header files can be used to write external Gnash extensions or to embed
+the Gnash GTK+ widget into a C/C++ application.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/gnash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dustin-dustismo-roman-fonts</b>'
+Comment='<span size="xx-large">General purpose serif font</span>'
+Comment3='
+General purpose fonts by Dustin Norlander available in
+serif and sans-serif versions. The fonts cover all European Latin characters.
+
+General purpose serif font with bold, italic and bold-italic variations
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.dustismo.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

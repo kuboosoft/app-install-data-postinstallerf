@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-tgmochikit</b>'
+Comment='<span size="xx-large">MochiKit JavaScript library packaged for TurboGears widgets</span>'
+Comment3='
+MochiKit is a highly-documented and well-tested suite of JavaScript libraries
+that will help you get stuff done, fast.
+
+tgmochikit packages the MochiKit library for use by TurboGears Widgets.
+'
+License='BSD and (MIT or AFL)'
+Screenshot=''
+Url='http://docs.turbogears.org/tgMochiKit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

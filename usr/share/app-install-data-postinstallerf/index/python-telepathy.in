@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-telepathy</b>'
+Comment='<span size="xx-large">Python libraries for Telepathy</span>'
+Comment3='
+Python libraries for use in Telepathy clients and connection managers.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://telepathy.freedesktop.org/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-float</b>'
+Comment='<span size="xx-large">Improved interface for floating objects</span>'
+Comment3='
+Improves the interface for defining floating objects such as
+figures and tables. Introduces the boxed float, the ruled float
+and the plaintop float. You can define your own floats and
+improve the behaviour of the old ones. The package also
+provides the H float modifier option of the obsolete here
+package. You can select this as automatic default with
+\floatplacement{figure}{H}.
+
+date 2009-09-26 093353 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

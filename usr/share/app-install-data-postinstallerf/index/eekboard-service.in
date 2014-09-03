@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eekboard-service</b>'
+Comment='<span size="xx-large">Runtime service for eekboard</span>'
+Comment3='
+This package contains the D-Bus service for eekboard
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/eekboard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

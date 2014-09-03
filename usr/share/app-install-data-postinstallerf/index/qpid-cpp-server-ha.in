@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qpid-cpp-server-ha</b>'
+Comment='<span size="xx-large">Provides extensions to the AMQP message broker to provide high availability</span>'
+Comment3='
+Provides extensions to the AMQP message broker to provide high availability.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

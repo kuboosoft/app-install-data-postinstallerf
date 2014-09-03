@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ghc-shakespeare-js</b>'
+Comment='<span size="xx-large">Compile-time variable interpolation for Javascript</span>'
+Comment3='
+Shakespeare is a template family for type-safe, efficient templates with simple
+variable interpolation. Shakespeare templates can be used inline with a
+quasi-quoter or in an external file. Shakespeare interpolates variables
+according to the type being inserted. In this case, the variable type needs a
+ToJavascript instance.
+
+shakespeare-javascript is also known as Julius, and passes through plain
+javascript.
+There is also a shakespeare version for CoffeeScript, TypeScript, and Roy, all
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shakespeare-js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

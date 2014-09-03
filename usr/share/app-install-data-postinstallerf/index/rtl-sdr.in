@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rtl-sdr</b>'
+Comment='<span size="xx-large">SDR utilities for Realtek RTL2832 based DVB-T dongles</span>'
+Comment3='
+This package can turn your RTL2832 based DVB-T dongle into a SDR receiver.
+
+URL          http//sdr.osmocom.org/trac/wiki/rtl-sdr
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sdr.osmocom.org/trac/wiki/rtl-sdr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

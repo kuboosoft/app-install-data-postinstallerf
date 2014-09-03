@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Image</b>'
+Comment='<span size="xx-large">Horde Image API</span>'
+Comment3='
+An Image utility API, with backends for
+* GD
+* GIF
+* PNG
+* SVG
+* SWF
+* ImageMagick convert command line tool
+* Imagick Extension
+
+Optional dependency php-pecl-imagick
+'
+License='GPLv2+ and LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

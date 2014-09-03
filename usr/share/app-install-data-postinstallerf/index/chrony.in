@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>chrony</b>'
+Comment='<span size="xx-large">An NTP client/server</span>'
+Comment3='
+A client/server for the Network Time Protocol, this program keeps your
+computers clock accurate. It was specially designed to support
+systems with intermittent internet connections, but it also works well
+in permanently connected environments. It can use also hardware reference
+clocks, system real-time clock or manual input as time references.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://chrony.tuxfamily.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

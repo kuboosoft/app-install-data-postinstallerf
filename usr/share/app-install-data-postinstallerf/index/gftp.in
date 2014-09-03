@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gftp</b>'
+Comment='<span size="xx-large">A multi-threaded FTP client for the X Window System</span>'
+Comment3='
+gFTP is a multi-threaded FTP client for the X Window System. gFTP
+supports simultaneous downloads, resumption of interrupted file
+transfers, file transfer queues to allow downloading of multiple
+files, support for downloading entire directories/subdirectories,
+a bookmarks menu to allow quick connection to FTP sites, caching of
+remote directory listings, local and remote chmod, drag and drop,
+a connection manager and much more.
+
+Install gftp if you need a graphical FTP client.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gftp.seul.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

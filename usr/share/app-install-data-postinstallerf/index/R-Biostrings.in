@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-Biostrings</b>'
+Comment='<span size="xx-large">String objects representing biological sequences</span>'
+Comment3='
+Memory efficient string containers, string matching algorithms, and other
+utilities, for fast manipulation of large biological sequences or set of
+sequences.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/Biostrings.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

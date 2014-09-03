@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>rubygem-ancestry</b>'
+Comment='<span size="xx-large">Organize ActiveRecord model into a tree structure</span>'
+Comment3='
+Ancestry allows the records of a ActiveRecord model to be organized in a tree
+structure, using a single, intuitively formatted database column. It exposes
+all the standard tree structure relations (ancestors, parent, root, children,
+siblings, descendants) and all of them can be fetched in a single sql query.
+Additional features are named_scopes, integrity checking, integrity restoration,
+arrangement of (sub)tree into hashes and different strategies for dealing with
+orphaned records.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/stefankroes/ancestry'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

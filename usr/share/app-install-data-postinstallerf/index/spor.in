@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>spor</b>'
+Comment='<span size="xx-large">Store file modes (permission/ownership) recursively</span>'
+Comment3='
+Spor recursively walks into a given directory, storing file mode & ownership
+information in a flat-file database for future retrievals. It was firstly
+intended to use with backup & version control scripts, and it provides a
+simple and safe method to save and restore particular meta-data information
+of a given directory.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/spor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

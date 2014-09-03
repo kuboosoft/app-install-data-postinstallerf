@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dpsearch</b>'
+Comment='<span size="xx-large">DataparkSearch Engine</span>'
+Comment3='
+DataparkSearch Engine is a full-featured open source web-based
+search engine released under the GNU General Public License
+and designed to organize search within a website, group of
+websites, intranet or local system.
+'
+License='GPLv2+'
+search engine released under the GNU General Public License'
+Screenshot=''
+Url='http://www.dataparksearch.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

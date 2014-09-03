@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mingw64-atkmm</b>'
+Comment='<span size="xx-large">MinGW Windows C++ interface for the ATK library</span>'
+Comment3='
+atkmm provides a C++ interface for the ATK library. Highlights
+include type-safe callbacks, widgets extensible via inheritance and a
+comprehensive set of widget classes that can be freely combined to
+quickly create complex user interfaces.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

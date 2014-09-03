@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ascend</b>'
+Comment='<span size="xx-large">ASCEND modelling environment</span>'
+Comment3='
+ASCEND IV is both a large-scale object-oriented mathematical
+modeling environment and a strongly typed mathematical modeling
+language. Although ASCEND has primarily been developed by Chemical
+Engineers, great care has been exercised to assure that it is
+domain independent. ASCEND can support modeling activities in
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ascend4.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gvfs-fuse</b>'
+Comment='<span size="xx-large">FUSE support for gvfs</span>'
+Comment3='
+This package provides support for applications not using gio
+to access the gvfs filesystems.
+'
+License='GPLv3 and LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

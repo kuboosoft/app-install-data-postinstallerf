@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-RRDtool</b>'
+Comment='<span size="xx-large">RRDTool for Ruby</span>'
+Comment3='
+Generate RRDTool Databases from Ruby
+'
+License='MIT'
+Screenshot=''
+Url='http://rubyforge.org/projects/rubyrrdtool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

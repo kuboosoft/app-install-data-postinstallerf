@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-eqnarray</b>'
+Comment='<span size="xx-large">More generalised equation arrays with numbering</span>'
+Comment3='
+Defines an equationarray environment, that allows more than
+three columns, but otherwise behaves like LaTeXs eqnarray
+environment. This environment is similar, in some ways, to the
+align environment of amsmath. The package requires the array
+package.
+
+date 2010-12-02 110056 +0100
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

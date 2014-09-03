@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-LightweightPicasaAPI</b>'
+Comment='<span size="xx-large">A lightweight API for Picasa in PHP</span>'
+Comment3='
+PHP wrapper for Googles Picasa Data API, which is implemented using
+Atom feeds in XML.  The package is meant to make it easy for PHP
+developers to integrate their own applications with Picasa.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://cameronhinkle.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

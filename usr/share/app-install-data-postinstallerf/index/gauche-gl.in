@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gauche-gl</b>'
+Comment='<span size="xx-large">OpenGL binding for Gauche</span>'
+Comment3='
+OpenGL binding for Gauche.
+'
+License='BSD'
+Screenshot=''
+Url='http://practical-scheme.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

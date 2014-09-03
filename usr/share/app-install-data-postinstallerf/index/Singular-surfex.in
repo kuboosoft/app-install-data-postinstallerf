@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>Singular-surfex</b>'
+Comment='<span size="xx-large">Singular java interface</span>'
+Comment3='
+This package contains the Singular java interface.
+'
+License='BSD and LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.singular.uni-kl.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

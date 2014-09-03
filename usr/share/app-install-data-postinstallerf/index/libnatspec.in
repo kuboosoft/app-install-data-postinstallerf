@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libnatspec</b>'
+Comment='<span size="xx-large">Library for national and language-specific issues</span>'
+Comment3='
+Library for national and language-specific issues.
+This library provides userful functions for
+mount, submount, mkisofs, multimedia players.
+This library try to help resolve charset hell (encoding problem)
+in a various programs depends on locale and messages.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/natspec'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libsigrokdecode-doc</b>'
+Comment='<span size="xx-large">API documentation for libsigrokdecode</span>'
+Comment3='
+The libsigrokdecode-doc package contains documentation for developing software
+using libsigrokdecode.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.sigrok.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

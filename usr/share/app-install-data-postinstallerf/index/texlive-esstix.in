@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-esstix</b>'
+Comment='<span size="xx-large">PostScript versions of the ESSTIX, with macro support</span>'
+Comment3='
+These fonts represent translation to PostScript Type 1 of the
+ESSTIX fonts. ESSTIX seem to have been a precursor to the STIX
+project, and were donated by Elsevier to that project. The
+accompanying virtual fonts with customized metrics and LaTeX
+support files allow their use as calligraphic, fraktur and
+double-struck (blackboard bold) in maths mode.
+
+date 2011-05-10 110500 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

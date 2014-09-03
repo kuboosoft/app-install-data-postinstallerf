@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fishpoke</b>'
+Comment='<span size="xx-large">Client programs for fishpolld server</span>'
+Comment3='
+Client for the Fishpoll server. The fishpoke program is used to
+trigger a poll immediately instead of waiting for the configured
+polling interval.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.fishsoup.net/cgit/fishpoll/tree/README'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-assertEquals</b>'
+Comment='<span size="xx-large">assertEquals is an epic testing interface for Python</span>'
+Comment3='
+assertEquals is an interface for running tests written with the Python
+standard librarys unittest module. It used to be named testosterone.
+It delivers summary and detail reports on TestCases discovered in
+module-space, via both a command-line and a curses(3) interface. The
+interactive mode is the default, but it depends on the non-interactive mode.
+For debugging, static tracebacks and interactive Python debugger (Pdb)
+sessions are available in both scripted and interactive modes.
+'
+License='BSD'
+Screenshot=''
+Url='http://whit537.github.io/assertEquals'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

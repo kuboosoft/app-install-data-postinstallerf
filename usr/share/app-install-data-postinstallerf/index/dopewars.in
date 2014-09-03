@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>dopewars</b>'
+Comment='<span size="xx-large">A drug dealing game</span>'
+Comment3='
+Based on John E. Dells old Drug Wars game, dopewars is a simulation of an
+imaginary drug market. dopewars is an All-American game which features
+buying, selling, and trying to get past the cops!
+
+The first thing you need to do is pay off your debt to the Loan Shark. After
+that, your goal is to make as much money as possible (and stay alive)! You
+have one month of game time to make your fortune.
+dopewars supports multiple players via. TCP/IP. Chatting to and fighting
+with other players (computer or human) is supported; check the command line
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dopewars.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

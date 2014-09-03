@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tkgate</b>'
+Comment='<span size="xx-large">An event driven digital circuit simulator</span>'
+Comment3='
+TkGate is a event driven digital circuit simulator
+based on Verilog. TkGate
+supports a wide range of primitive circuit elements as
+well as user-defined modules for hierarchical design.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tkgate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

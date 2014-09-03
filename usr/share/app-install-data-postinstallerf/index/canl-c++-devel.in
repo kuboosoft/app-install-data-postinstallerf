@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>canl-c++-devel</b>'
+Comment='<span size="xx-large">EMI Common Authentication library - development files for C++</span>'
+Comment3='
+This package contains development libraries and header files for EMI caNl
+C++ bindings.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nordugrid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

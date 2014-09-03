@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-figflow</b>'
+Comment='<span size="xx-large">Flow text around a figure</span>'
+Comment3='
+Provides a Plain TeX macro \figflow that allows one to insert a
+figure into an area inset into a paragraph. Command arguments
+are width and height of the figure, and the figure (and its
+caption) itself. Usage details are to be found in the TeX file
+itself. The package does not work with LaTeX; packages such as
+wrapfig, floatflt and picins support the needs of LaTeX users
+in this area.
+
+date 2011-02-18 104252 +0100
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

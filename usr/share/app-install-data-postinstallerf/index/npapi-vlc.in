@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>npapi-vlc</b>'
+Comment='<span size="xx-large">NPAPI plugin for libvlc</span>'
+Comment3='
+NPAPI plugin for libvlc.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.videolan.org/?p=npapi-vlc.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>limph-common</b>'
+Comment='<span size="xx-large">Common config file for Limph and Limph-hostagent</span>'
+Comment3='
+The Limph and Limph-hostagent config file.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://limph.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

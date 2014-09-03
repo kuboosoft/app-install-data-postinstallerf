@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>maven-dependency-plugin</b>'
+Comment='<span size="xx-large">Plugin to manipulate, copy and unpack local and remote artifacts</span>'
+Comment3='
+
+The dependency plugin provides the capability to manipulate
+artifacts. It can copy and/or unpack artifacts from local or remote
+repositories to a specified location.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-dependency-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-croatian</b>'
+Comment='<span size="xx-large">Croatian hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Croatian in T1/EC and UTF-8 encodings.
+
+date 2011-06-08 000248 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

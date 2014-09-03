@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-IPTables-ChainMgr</b>'
+Comment='<span size="xx-large">Perl extension for manipulating iptables policies</span>'
+Comment3='
+The IPTablesChainMgr package provides an interface to manipulate iptables
+policies on Linux systems through the direct execution of iptables
+commands. Although making a perl extension of libiptc provided by the iptables
+project is possible, it is easy to just execute iptables commands directly in
+order to both parse and change the configuration of the policy. Further, this
+simplifies installation since the only external requirement is (in the spirit
+of scripting) to be able to point IPTablesChainMgr at an installed iptables
+binary instead of having to compile against a library.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://www.cipherdyne.org/modules/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

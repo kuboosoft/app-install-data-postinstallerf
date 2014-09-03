@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>jide-oss</b>'
+Comment='<span size="xx-large">Swing component library built on top of Java/Swing</span>'
+Comment3='
+JIDE Common Layer is Swing component library built on top of Java/Swing.
+It is also the foundation of other component products from JIDE.
+This project has over 30 Swing components and over 100k lines of code.
+It greatly enhanced the default component set provided by Swing and allow
+developers to focus on business logic layer instead of making components.
+
+JIDE Common Layer was originally developed by JIDE Software developers
+as a foundation in order to build other more advanced components.
+In April of 2007, JIDE Software decided to open source this common layer
+so that more and more developers can leverage them instead of wasting time
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://jide-oss.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

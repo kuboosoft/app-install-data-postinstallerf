@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cinnamon-translations</b>'
+Comment='<span size="xx-large">Translations for Cinnamon and Nemo</span>'
+Comment3='
+Translations for Cinnamon and Nemo
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cinnamon.linuxmint.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

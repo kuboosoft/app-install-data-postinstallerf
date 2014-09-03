@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>hfsutils-x11</b>'
+Comment='<span size="xx-large">A Tk-based front end for browsing and copying files</span>'
+Comment3='
+The hfsutils-x11 package includes a Tk-based front end for browsing
+and copying files, and a Tcl package and interface for scriptable access
+to volumes.  A C library for low-level access to volumes is included in the
+hfsutils-devel package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mars.org/home/rob/proj/hfs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

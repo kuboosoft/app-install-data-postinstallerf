@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>crlibm-devel</b>'
+Comment='<span size="xx-large">Development files for crlibm</span>'
+Comment3='
+The crlibm-devel package contains libraries and header files for
+developing applications that use crlibm.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://lipforge.ens-lyon.fr/www/crlibm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

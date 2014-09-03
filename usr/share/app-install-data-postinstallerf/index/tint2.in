@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tint2</b>'
+Comment='<span size="xx-large">A lightweight X11 desktop panel and task manager</span>'
+Comment3='
+tint2 is a simple panel/taskbar made for modern X window managers. It was
+specifically made for Openbox3 but should also work with other window managers
+(GNOME, KDE, etc...). Its based on ttm code http//code.google.com/p/ttm/.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://code.google.com/p/tint2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

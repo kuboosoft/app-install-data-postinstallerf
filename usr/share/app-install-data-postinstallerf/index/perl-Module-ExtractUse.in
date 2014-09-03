@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Module-ExtractUse</b>'
+Comment='<span size="xx-large">Find out what modules are used</span>'
+Comment3='
+ModuleExtractUse is basically a ParseRecDescent grammar to parse Perl
+code. It tries very hard to find all modules (whether pragmas, Core, or
+from CPAN) used by the parsed code.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-ExtractUse/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

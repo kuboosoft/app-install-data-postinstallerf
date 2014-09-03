@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>asterisk-tds</b>'
+Comment='<span size="xx-large">Modules for Asterisk that use FreeTDS</span>'
+Comment3='
+Modules for Asterisk that use FreeTDS.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.asterisk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

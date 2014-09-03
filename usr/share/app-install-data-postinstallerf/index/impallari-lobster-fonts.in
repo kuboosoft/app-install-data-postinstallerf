@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>impallari-lobster-fonts</b>'
+Comment='<span size="xx-large">Hand written font with various ligatures for better connecting of letters</span>'
+Comment3='
+Hand written font with various ligatures for better connecting
+of letters.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.impallari.com/lobster/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

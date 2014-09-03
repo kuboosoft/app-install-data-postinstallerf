@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-oscola</b>'
+Comment='<span size="xx-large">BibLaTeX style for the Oxford Standard for the Citation of Legal Authorities</span>'
+Comment3='
+The package provides a set of style files for use with Biblatex
+(v 2+) and Biber (v 1+) to produce citations and bibliographies
+in accordance with the widely-used Oxford Standard for the
+Citation of Legal Authorities. It also includes facilities for
+constructing tables of cases and legislation from citations (in
+conjunction with appropriate indexing packages).
+
+date 2013-10-22 180949 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-vcr</b>'
+Comment='<span size="xx-large">Record test suite HTTP interactions and replay during future test runs</span>'
+Comment3='
+VCR provides a simple API to record and replay your test suites HTTP
+interactions.  It works with a variety of HTTP client libraries, HTTP stubbing
+libraries and testing frameworks.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/myronmarston/vcr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

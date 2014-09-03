@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gauche-devel</b>'
+Comment='<span size="xx-large">Development files for Gauche</span>'
+Comment3='
+Development files for Gauche.
+
+URL          http//practical-scheme.net/gauche/index.html
+'
+License='BSD'
+Screenshot=''
+Url='http://practical-scheme.net/gauche/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

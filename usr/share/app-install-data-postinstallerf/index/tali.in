@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tali</b>'
+Comment='<span size="xx-large">GNOME Tali game</span>'
+Comment3='
+Sort of poker with dice and less money. An ancient Roman game.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://live.gnome.org/Tali'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

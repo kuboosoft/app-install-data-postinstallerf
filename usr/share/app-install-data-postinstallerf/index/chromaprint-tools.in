@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>chromaprint-tools</b>'
+Comment='<span size="xx-large">Chromaprint audio fingerprinting tools</span>'
+Comment3='
+Chromaprint library is the core component of the AcoustID project. Its a
+client-side library that implements a custom algorithm for extracting
+fingerprints from raw audio sources.
+
+This is a set of Chromaprint tools related to acoustic fingerprinting
+featuring fpcalc an standalone AcoustID tool used by Picard.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.acoustid.org/chromaprint/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

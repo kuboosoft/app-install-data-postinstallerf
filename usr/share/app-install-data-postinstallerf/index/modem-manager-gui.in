@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>modem-manager-gui</b>'
+Comment='<span size="xx-large">Graphical interface for ModemManager</span>'
+Comment3='
+This program is a simple graphical interface for Modem Manager
+daemon dbus interface.
+Current features
+- View device information Operator name, Mode, IMEI, IMSI,
+  Signal level.
+- Send and receive SMS messages with long massages
+  concatenation and store messages in database.
+- Send USSD requests and read answers in GSM7 and UCS2 formats
+  converted to system UTF8 charset.
+- Scan available mobile networks.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://linuxonly.ru/cms/page.php?7'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

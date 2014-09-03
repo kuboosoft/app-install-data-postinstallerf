@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mona-devel</b>'
+Comment='<span size="xx-large">Header files for developing applications with Mona</span>'
+Comment3='
+Header files for developing applications that use the Mona libraries.
+
+URL          http//www.brics.dk/mona/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.brics.dk/mona/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-llvm</b>'
+Comment='<span size="xx-large">MinGW LLVM (Low Level Virtual Machine)</span>'
+Comment3='
+MingGW shared libraries for the LLVM compiler infrastructure.
+'
+License='NCSA'
+Screenshot=''
+Url='http://llvm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

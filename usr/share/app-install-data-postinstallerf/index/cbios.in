@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cbios</b>'
+Comment='<span size="xx-large">A third party BIOS compatible with the MSX BIOS</span>'
+Comment3='
+C-BIOS is a BIOS compatible with the MSX BIOS written from scratch by BouKiCHi.
+It is available for free, including its source code and can be shipped with MSX
+emulators so they are usable out-of-the-box without copyright issues.
+'
+License='BSD'
+Screenshot=''
+Url='http://cbios.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

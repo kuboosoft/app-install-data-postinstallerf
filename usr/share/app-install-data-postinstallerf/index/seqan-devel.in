@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>seqan-devel</b>'
+Comment='<span size="xx-large">SeqAn development files</span>'
+Comment3='
+Developer files for SeqAn, in the form for C header files.
+
+URL          http//www.seqan.de/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.seqan.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

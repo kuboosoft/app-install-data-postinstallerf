@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>nessus-core</b>'
+Comment='<span size="xx-large">Network vulnerability scanner</span>'
+Comment3='
+Nessus is the worlds most popular vulnerability scanner used in over 75,000
+organizations world-wide. Many of the worlds largest organizations are
+realizing significant cost savings by using Nessus to audit business-critical
+enterprise devices and applications.
+
+The "Nessus" Project was started by Renaud Deraison in 1998 to provide to the
+internet community a free, powerful, up-to-date and easy to use remote
+security scanner. Nessus is currently rated among the top products of its type
+throughout the security industry and is endorsed by professional information
+security organizations such as the SANS Institute.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nessus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

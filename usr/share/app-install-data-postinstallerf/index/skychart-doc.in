@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>skychart-doc</b>'
+Comment='<span size="xx-large">Documentation files for Skychart</span>'
+Comment3='
+Documentation files from the official Skychart wiki provided
+within the program as an offline copy.
+'
+License='CC-BY-SA or GFDL'
+Screenshot=''
+Url='http://www.ap-i.net/skychart/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

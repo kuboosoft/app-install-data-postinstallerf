@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>wordwarvi</b>'
+Comment='<span size="xx-large">Side-scrolling shoot em up 80s style arcade game</span>'
+Comment3='
+Word War vi is your basic side-scrolling shoot em up 80s style arcade game.
+You pilot your "vi"per craft through core memory, rescuing lost .swp files,
+avoiding OS defenses, and wiping out those memory hogging emacs processes.
+When all the lost .swp files are rescued, head for the socket which will take
+you to the next node in the cluster.
+
+Note Obviously, emacs is a fine editor and this is all very tongue in cheek,
+so dont be getting all bent out of shape because you like emacs better than
+vi, mmm-kay?
+'
+License='GPLv2+ and CC-BY and CC-BY-SA'
+Screenshot=''
+Url='http://wordwarvi.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>greyhounds</b>'
+Comment='<span size="xx-large">Greyhounds is a greyhounds racing and breeding game</span>'
+Comment3='
+Greyhounds is a greyhound racing and breeding game. Your goal is to
+acquire fast and talented greyhounds and be successful with them in the
+races; your two possibilities for doing so are breeding and trading.
+Ultimately you should aim at winning the Champions Trophy. You might
+also consider establishing a record that lasts to the end of times a
+worthy goal.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/byghound'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

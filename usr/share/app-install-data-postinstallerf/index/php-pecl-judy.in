@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-pecl-judy</b>'
+Comment='<span size="xx-large">PHP Judy implements sparse dynamic arrays</span>'
+Comment3='
+PHP Judy implements sparse dynamic arrays (aka Judy Arrays).
+This extension is based on the Judy C library. A Judy array
+consumes memory only when it is populated, yet can grow to
+take advantage of all available memory if desired. Judys key
+benefits are scalability, high performance, and memory efficiency.
+
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/Judy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

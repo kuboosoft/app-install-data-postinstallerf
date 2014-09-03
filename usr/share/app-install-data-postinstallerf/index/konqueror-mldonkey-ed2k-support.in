@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>konqueror-mldonkey-ed2k-support</b>'
+Comment='<span size="xx-large">Easy way to download a ed2k-link from Konqueror</span>'
+Comment3='
+This package contains tool which gives you an easy way to add an ed2k-link
+(like ed2k//|file|filename.exe|21352658|72b0b287cab7d875ccc1d89ebe910b9g|)
+with a single click to your mldonkey download queue.
+You need to edit /etc/sysconfig/mldonkey_submit
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mldonkey.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

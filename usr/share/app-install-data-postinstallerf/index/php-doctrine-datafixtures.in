@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-doctrine-datafixtures</b>'
+Comment='<span size="xx-large">Data Fixtures for all Doctrine Object Managers</span>'
+Comment3='
+This extension aims to provide a simple way to manage and execute the loading
+of data fixtures for the Doctrine ORM or ODM.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/doctrine/data-fixtures'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

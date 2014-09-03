@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pam-devel</b>'
+Comment='<span size="xx-large">Files needed for developing PAM-aware applications and modules for PAM</span>'
+Comment3='
+PAM (Pluggable Authentication Modules) is a system security tool that
+allows system administrators to set authentication policy without
+having to recompile programs that handle authentication. This package
+contains header files used for building both PAM-aware applications
+and modules for use with the PAM system.
+
+'
+License='BSD and GPLv2+'
+Screenshot=''
+Url='http://www.linux-pam.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kate-plugin-cpphelper</b>'
+Comment='<span size="xx-large">Plugin for Kate to simplify C/C++ programming</span>'
+Comment3='
+This plugin is intended to simplify the hard life of C/C++ programmers who
+use Kate to write code.
+It has C++ code completion (clang based), #include files completion, smarter
+replacement for standard Open Header plugin, and few other neat features.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/zaufi/kate-cpp-helper-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

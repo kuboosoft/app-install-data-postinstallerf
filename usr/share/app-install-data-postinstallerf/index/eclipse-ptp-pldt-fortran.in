@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-ptp-pldt-fortran</b>'
+Comment='<span size="xx-large">PTP Parallel Language Development Tools Fortran Support</span>'
+Comment3='
+Adds a range of static analysis and programming assistance tools for Fortran.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/ptp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

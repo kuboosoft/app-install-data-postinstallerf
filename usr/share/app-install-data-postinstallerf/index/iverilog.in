@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iverilog</b>'
+Comment='<span size="xx-large">Icarus Verilog is a verilog compiler and simulator</span>'
+Comment3='
+Icarus Verilog is a Verilog compiler that generates a variety of
+engineering formats, including simulation. It strives to be true
+to the IEEE-1364 standard.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://iverilog.icarus.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mosquitto-python</b>'
+Comment='<span size="xx-large">Python bindings for mosquitto</span>'
+Comment3='
+Python bindings for mosquitto
+'
+License='BSD'
+Screenshot=''
+Url='http://mosquitto.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

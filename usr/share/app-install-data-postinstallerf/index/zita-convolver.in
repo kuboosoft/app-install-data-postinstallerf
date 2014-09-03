@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zita-convolver</b>'
+Comment='<span size="xx-large">Convolution engine library</span>'
+Comment3='
+zita-convolver is a fast, partitioned convolution engine library.
+
+URL          http//kokkinizita.linuxaudio.org/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://kokkinizita.linuxaudio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

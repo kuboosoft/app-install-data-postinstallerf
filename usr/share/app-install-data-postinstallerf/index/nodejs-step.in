@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-step</b>'
+Comment='<span size="xx-large">A simple control-flow library for Node.js</span>'
+Comment3='
+A simple control-flow library for Node.js that makes parallel
+execution, serial execution, and error handling painless.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/creationix/step'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

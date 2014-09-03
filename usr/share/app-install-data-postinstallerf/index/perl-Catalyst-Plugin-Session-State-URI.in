@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-Session-State-URI</b>'
+Comment='<span size="xx-large">Saves session IDs by rewriting URIs delivered to the client</span>'
+Comment3='
+CatalystPluginSessionStateURI - Saves session IDs by rewriting URIs
+delivered to the client, and extracting the session ID from requested URIs.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-Session-State-URI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libfishsound-tools</b>'
+Comment='<span size="xx-large">Sample programs bundled with libfishsound</span>'
+Comment3='
+The libfishsound-tools package contains sample programs that use libfishsound.
+The source code for these are included in libfishsound-doc.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.annodex.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

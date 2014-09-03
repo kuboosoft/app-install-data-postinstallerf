@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnome-libs</b>'
+Comment='<span size="xx-large">The main GNOME1 libraries</span>'
+Comment3='
+GNOME (GNU Network Object Model Environment) is a user-friendly set of GUI
+applications and desktop tools to be used in conjunction with a window manager
+for the X Window System. The gnome-libs package includes libraries that are
+needed to run GNOME 1 applications.
+
+'
+License='LGPLv2+ and BSD with advertising and (LGPLv2+ and BSD with advertising)'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

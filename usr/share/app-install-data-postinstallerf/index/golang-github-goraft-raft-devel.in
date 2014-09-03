@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>golang-github-goraft-raft-devel</b>'
+Comment='<span size="xx-large">A Go implementation of the Raft distributed consensus protocol</span>'
+Comment3='
+A Go implementation of the Raft distributed consensus protocol
+
+This package contains library source intended for building other packages
+which use goraft/raft.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/goraft/raft'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

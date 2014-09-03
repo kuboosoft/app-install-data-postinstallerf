@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Devel-Hide</b>'
+Comment='<span size="xx-large">Forces the unavailability of specified Perl modules (for testing)</span>'
+Comment3='
+Given a list of Perl modules/filenames, this module makes require and
+use statements fail (no matter the specified files/modules are
+installed or not).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Hide/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

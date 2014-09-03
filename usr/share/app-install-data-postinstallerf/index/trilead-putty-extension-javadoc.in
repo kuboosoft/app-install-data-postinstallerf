@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>trilead-putty-extension-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for trilead-putty-extension</span>'
+Comment3='
+This package contains API javadoc documentation for trilead-putty-extension
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kohsuke/trilead-putty-extension'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

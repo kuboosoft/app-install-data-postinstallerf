@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sha-devel</b>'
+Comment='<span size="xx-large">Development files for sha</span>'
+Comment3='
+This package contains the libraries needed to develop applications
+that use sha
+
+'
+License='BSD'
+Screenshot=''
+Url='http://hg.saddi.com/sha-asaddi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

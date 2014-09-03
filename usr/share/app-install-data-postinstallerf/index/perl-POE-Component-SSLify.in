@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-SSLify</b>'
+Comment='<span size="xx-large">Makes using SSL in the world of POE easy!</span>'
+Comment3='
+This component represents the standard way to do SSL in POE.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-SSLify/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

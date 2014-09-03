@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-marble</b>'
+Comment='<span size="xx-large">Exerimental python bindings for Marble</span>'
+Comment3='
+Exerimental python bindings for Marble.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://edu.kde.org/marble/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

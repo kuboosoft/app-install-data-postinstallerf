@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-desktop-sharp</b>'
+Comment='<span size="xx-large">.NET language binding for mono</span>'
+Comment3='
+GnomeDesktop is a .NET language binding for assorted
+GNOME libraries from the desktop release.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.mono-project.com/GtkSharp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

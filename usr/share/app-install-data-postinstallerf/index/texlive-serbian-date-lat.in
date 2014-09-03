@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-serbian-date-lat</b>'
+Comment='<span size="xx-large">Updated date typesetting for Serbian</span>'
+Comment3='
+Babel defines dates for Serbian texts, in Latin script. The
+style it uses does not match current practices. The present
+package defines a \date command that solves the problem.
+
+date 2011-06-24 102905 +0200
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plasma-applet-kimpanel</b>'
+Comment='<span size="xx-large">Plasma applet for input methods</span>'
+Comment3='
+Plasma applet for input methods, including ibus.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

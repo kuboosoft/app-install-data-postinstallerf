@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-pydev-mylyn</b>'
+Comment='<span size="xx-large">Pydev Mylyn Focused UI</span>'
+Comment3='
+Mylyn Task-Focused UI extensions for Pydev.
+'
+License='EPL'
+Screenshot=''
+Url='http://pydev.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>typesafe-config</b>'
+Comment='<span size="xx-large">Configuration library for JVM languages</span>'
+Comment3='
+Configuration library for JVM languages.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/typesafehub/config/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

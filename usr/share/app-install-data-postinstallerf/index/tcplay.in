@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tcplay</b>'
+Comment='<span size="xx-large">Utility to create/open/map TrueCrypt-compatible volumes</span>'
+Comment3='
+The tcplay utility provides full support for creating and opening/mapping
+TrueCrypt-compatible volumes.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/bwalex/tc-play'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

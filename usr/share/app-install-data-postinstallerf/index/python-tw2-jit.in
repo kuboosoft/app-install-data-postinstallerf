@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-tw2-jit</b>'
+Comment='<span size="xx-large">Javascript Infovis Toolkit (JIT) for ToscaWidgets2</span>'
+Comment3='
+toscawidgets2 (tw2) aims to be a practical and useful widgets framework
+that helps people build interactive websites with compelling features, faster
+and easier. Widgets are re-usable web components that can include a template,
+server-side code and JavaScripts/CSS resources. The library aims to be
+flexible, reliable, documented, performant, and as simple as possible.
+
+The JavaScript InfoVis Toolkit (thejit) is a javascript library that
+provides web standard based tools to create interactive data visualizations
+for the Web.  It is pretty, interactive, and fast.
+'
+License='MIT'
+Screenshot=''
+Url='http://toscawidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

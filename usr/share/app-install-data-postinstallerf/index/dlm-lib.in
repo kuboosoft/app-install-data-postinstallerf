@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dlm-lib</b>'
+Comment='<span size="xx-large">Library for dlm</span>'
+Comment3='
+The dlm-lib package contains the libraries needed to use the dlm
+from userland applications.
+
+'
+License='GPLv2 and GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/cluster'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

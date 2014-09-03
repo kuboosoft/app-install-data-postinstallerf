@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openssh-server</b>'
+Comment='<span size="xx-large">An open source SSH server daemon</span>'
+Comment3='
+OpenSSH is a free version of SSH (Secure SHell), a program for logging
+into and executing commands on a remote machine. This package contains
+the secure shell daemon (sshd). The sshd daemon allows SSH clients to
+securely connect to your SSH server.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openssh.com/portable.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tennix</b>'
+Comment='<span size="xx-large">A simple tennis game</span>'
+Comment3='
+Tennix! is a SDL port of a simple tennis game.
+It features a two-player game mode and a single-player mode
+against the computer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://icculus.org/tennix/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

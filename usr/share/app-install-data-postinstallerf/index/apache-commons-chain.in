@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>apache-commons-chain</b>'
+Comment='<span size="xx-large">An implementation of the GoF Chain of Responsibility pattern</span>'
+Comment3='
+A popular technique for organizing the execution of complex
+processing flows is the "Chain of Responsibility" pattern, as
+described (among many other places) in the classic "Gang of Four"
+design patterns book. Although the fundamental API contracts
+required to implement this design pattern are extremely simple,
+it is useful to have a base API that facilitates using the pattern,
+and (more importantly) encouraging composition of command
+implementations from multiple diverse sources.
+Towards that end, the Chain API models a computation as a series
+of "commands" that can be combined into a "chain". The API for a
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/chain/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

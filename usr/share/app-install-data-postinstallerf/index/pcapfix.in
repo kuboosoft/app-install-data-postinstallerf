@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pcapfix</b>'
+Comment='<span size="xx-large">A tool for repairing corrupted pcap files</span>'
+Comment3='
+pcapfix is a repair tool for corrupted pcap files. It checks for an intact pcap
+global header and repairs it if there are any corrupted bytes. If one is not
+present, one is created and added to the beginning of the file. It then tries
+to find pcap packet headers, and checks and repairs them.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://f00l.de/pcapfix'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

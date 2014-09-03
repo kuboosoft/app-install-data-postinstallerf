@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Math-Random-MT-Auto</b>'
+Comment='<span size="xx-large">Auto-seeded Mersenne Twister PRNGs</span>'
+Comment3='
+The Mersenne Twister is a fast pseudo-random number generator (PRNG) that is
+capable of providing large volumes (> 10^6004) of "high quality"
+pseudo-random data to applications that may exhaust available "truly" random
+data sources or system-provided PRNGs such as rand.
+'
+License='BSD'
+Screenshot=''
+Url='http://search.cpan.org/dist/Math-Random-MT-Auto/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

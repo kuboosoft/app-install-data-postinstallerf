@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tkimg-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. used to develop an application with tkimg</span>'
+Comment3='
+These are the header files needed to develop a tkimg application
+
+URL          http//sourceforge.net/projects/tkimg
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/tkimg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

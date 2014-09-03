@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pitivi</b>'
+Comment='<span size="xx-large">Non-linear video editor</span>'
+Comment3='
+Pitivi is an application using the GStreamer multimedia framework to
+manipulate a large set of multimedia sources.
+
+At this level of development it can be compared to a classic video editing
+program.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pitivi.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

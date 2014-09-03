@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-DBD-SQLite</b>'
+Comment='<span size="xx-large">SQLite DBI Driver</span>'
+Comment3='
+SQLite is a public domain RDBMS database engine that you can find at
+http//www.hwaci.com/sw/sqlite/.
+
+This module provides a SQLite RDBMS module that uses the system SQLite
+libraries.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DBD-SQLite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

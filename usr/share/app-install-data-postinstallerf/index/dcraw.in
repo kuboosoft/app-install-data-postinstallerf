@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dcraw</b>'
+Comment='<span size="xx-large">Tool for decoding raw image data from digital cameras</span>'
+Comment3='
+This package contains dcraw, a command line tool to decode raw image data
+downloaded from digital cameras.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cybercom.net/~dcoffin/dcraw'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

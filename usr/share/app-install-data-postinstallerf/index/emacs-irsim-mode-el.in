@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-irsim-mode-el</b>'
+Comment='<span size="xx-large">Source files for Emacs-irsim-mode under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for
+use with Emacs-irsim-mode.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/irsim-mode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

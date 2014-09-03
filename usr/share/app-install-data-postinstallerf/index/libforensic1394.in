@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libforensic1394</b>'
+Comment='<span size="xx-large">A library for performing live memory forensics over firewire</span>'
+Comment3='
+An library for performing live memory forensics over the IEEE 1394 (FireWire)
+interface. libforensic1394 improves upon existing libraries by providing a
+simple and clean interface to the the direct memory access functionality
+available over FireWire.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://freddie.witherden.org/tools/libforensic1394/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ipvsadm</b>'
+Comment='<span size="xx-large">Utility to administer the Linux Virtual Server</span>'
+Comment3='
+ipvsadm is a utility to administer the IP Virtual Server services
+offered by the Linux kernel.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://kernel.org/pub/linux/utils/kernel/ipvsadm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

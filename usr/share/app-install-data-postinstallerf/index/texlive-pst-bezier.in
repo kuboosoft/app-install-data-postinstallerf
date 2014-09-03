@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-bezier</b>'
+Comment='<span size="xx-large">Draw Bezier curves</span>'
+Comment3='
+The package provides a macro \psbcurve for drawing a Bezier
+curve. Provision is made for full control of over all the
+control points of the curve.
+
+date 2009-02-01 173735 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

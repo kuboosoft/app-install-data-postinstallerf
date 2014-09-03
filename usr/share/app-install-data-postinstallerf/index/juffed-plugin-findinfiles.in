@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>juffed-plugin-findinfiles</b>'
+Comment='<span size="xx-large">FindInFiles plugin for juffed</span>'
+Comment3='
+Find files dock plugin.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

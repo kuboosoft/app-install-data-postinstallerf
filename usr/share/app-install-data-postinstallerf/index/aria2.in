@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>aria2</b>'
+Comment='<span size="xx-large">High speed download utility with resuming and segmented downloading</span>'
+Comment3='
+aria2 is a download utility with resuming and segmented downloading.
+Supported protocols are HTTP/HTTPS/FTP/BitTorrent. It also supports Metalink
+version 3.0.
+
+Currently it has following features
+- HTTP/HTTPS GET support
+- HTTP Proxy support
+- HTTP BASIC authentication support
+- HTTP Proxy authentication support
+- FTP support(active, passive mode)
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://aria2.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

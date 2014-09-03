@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>condor-procd</b>'
+Comment='<span size="xx-large">HTCondor Process tracking Daemon</span>'
+Comment3='
+A daemon for tracking child processes started by a parent.
+Part of HTCondor, but able to be stand-alone
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.cs.wisc.edu/condor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

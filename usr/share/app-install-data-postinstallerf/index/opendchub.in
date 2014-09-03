@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opendchub</b>'
+Comment='<span size="xx-large">An Open Source Linux/Unix version of the hub software for Direct Connect</span>'
+Comment3='
+Opendchub is the hub software for Direct Connect P2P network.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://opendchub.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

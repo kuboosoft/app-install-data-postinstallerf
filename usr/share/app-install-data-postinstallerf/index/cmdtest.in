@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cmdtest</b>'
+Comment='<span size="xx-large">Black-box testing for Unix command line tools</span>'
+Comment3='
+cmdtest black box tests Unix command line tools. Roughly, it is given
+a command line and input files, and the expected output, and it
+verifies that the command line produces the expected output. If not,
+it reports a problem, and shows the differences.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://liw.fi/cmdtest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

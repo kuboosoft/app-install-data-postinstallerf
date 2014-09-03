@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gcin-im-client</b>'
+Comment='<span size="xx-large">Im client library for gcin</span>'
+Comment3='
+The package provides im client library for gcin.
+
+URL          http//hyperrate.com/dir.php?eid=67
+'
+License='LGPLv2+ and (QPL or GPLv2) and MIT and Array'
+Screenshot=''
+Url='http://hyperrate.com/dir.php?eid=67'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

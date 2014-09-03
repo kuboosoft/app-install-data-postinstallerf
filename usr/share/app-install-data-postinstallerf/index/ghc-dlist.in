@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-dlist</b>'
+Comment='<span size="xx-large">Haskell differences lists</span>'
+Comment3='
+Differences lists a list-like type supporting O(1) append.
+This is particularly useful for efficient logging and pretty
+printing, (e.g. with the Writer monad), where list append
+quickly becomes too expensive.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/dlist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

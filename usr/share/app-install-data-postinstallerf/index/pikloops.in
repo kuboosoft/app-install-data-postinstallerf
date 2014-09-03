@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pikloops</b>'
+Comment='<span size="xx-large">Code generator for PIC delays</span>'
+Comment3='
+PiKLoop generate for you code to create delays for Microchip PIC
+microcontrollers. It is an useful companion for Pikdev or Piklab IDE.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pikloops.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

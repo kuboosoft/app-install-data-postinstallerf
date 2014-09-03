@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ppl-static</b>'
+Comment='<span size="xx-large">Static archives for the Parma Polyhedra Library C and C++ interfaces</span>'
+Comment3='
+The static archives for the Parma Polyhedra Library C and C++ interfaces.
+
+URL          http//www.cs.unipr.it/ppl/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.cs.unipr.it/ppl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

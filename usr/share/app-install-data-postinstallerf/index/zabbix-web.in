@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zabbix-web</b>'
+Comment='<span size="xx-large">Zabbix Web Frontend</span>'
+Comment3='
+The php frontend to display the Zabbix web interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.zabbix.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

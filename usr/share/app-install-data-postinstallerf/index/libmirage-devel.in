@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libmirage-devel</b>'
+Comment='<span size="xx-large">A CD-ROM image access library</span>'
+Comment3='
+This is libMirage library, a CD-ROM image access library, and part of the
+userspace-cdemu suite, a free, GPL CD/DVD-ROM device emulator for linux. It is
+written in C and based on GLib.
+
+This package contains files needed to develop with libMirage.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cdemu.sourceforge.net/pkg_libmirage.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

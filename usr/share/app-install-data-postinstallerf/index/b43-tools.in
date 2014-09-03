@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>b43-tools</b>'
+Comment='<span size="xx-large">Tools for the Broadcom 43xx series WLAN chip</span>'
+Comment3='
+Tools for the Broadcom 43xx series WLAN chip.
+'
+License='GPLv2 and GPLv2+ and GPLv3'
+Screenshot=''
+Url='http://bues.ch/gitweb?p=b43-tools.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-pip</b>'
+Comment='<span size="xx-large">Perl Installation Program, for scripted and distribution installation</span>'
+Comment3='
+The pip ("Perl Installation Program") console application is used to
+install Perl distributions in a wide variety of formats, both from CPAN and
+from external third-party locations, while supporting module dependencies
+that go across the boundary from third-party to CPAN.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/pip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ocaml-labltk-devel</b>'
+Comment='<span size="xx-large">Development files for labltk</span>'
+Comment3='
+Labltk is a library for interfacing OCaml with the scripting language
+Tcl/Tk.
+
+This package contains the development files.  It includes the ocaml
+browser for code editing and library browsing.
+'
+License='QPL and (LGPLv2+ with exceptions)'
+Screenshot=''
+Url='http://www.ocaml.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

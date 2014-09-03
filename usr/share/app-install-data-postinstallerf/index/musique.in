@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>musique</b>'
+Comment='<span size="xx-large">A music player designed by and for people that love music</span>'
+Comment3='
+Musique unclutters your music listening experience with a clean and innovative
+interface. Musique automatically fixes misspellings in titles and artist names,
+freeing you from the hassle of manually tagging your files.
+
+Features
+* Look them in the face. Browse your collection by artists pictures and album
+  covers.
+* Lyrics. Musique will find and show the song lyrics in the Info View, hiding
+  everything but whats related to the currently playing track.
+'
+License='GPLv3+ and LGPLv2+'
+Screenshot=''
+Url='http://flavio.tordini.org/musique'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

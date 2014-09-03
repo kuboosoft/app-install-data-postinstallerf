@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-highline-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-highline</span>'
+Comment3='
+Documentation for rubygem-highline
+'
+License='GPLv2+ or Ruby'
+Screenshot=''
+Url='http://highline.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

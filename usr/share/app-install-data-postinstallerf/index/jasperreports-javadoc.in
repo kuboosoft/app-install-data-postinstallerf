@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jasperreports-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jasperreports</span>'
+Comment3='
+This package contains javadoc for jasperreports.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://jasperforge.org/projects/jasperreports/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

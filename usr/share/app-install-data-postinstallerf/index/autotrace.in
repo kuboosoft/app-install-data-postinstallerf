@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>autotrace</b>'
+Comment='<span size="xx-large">Utility for converting bitmaps to vector graphics</span>'
+Comment3='
+AutoTrace is a program for converting bitmaps to vector graphics.
+
+Supported input formats include BMP, TGA, PNM, PPM, and any format
+supported by ImageMagick, whereas output can be produced in
+Postscript, SVG, xfig, SWF, and others.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://autotrace.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

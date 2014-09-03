@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>geany-plugins-devhelp</b>'
+Comment='<span size="xx-large">API documentation browser in Geany</span>'
+Comment3='
+This plugin embeds an API documentation browser and search functionality
+directly into Geanys user interface.  In case you didnt know, Devhelp is an
+API documentation browser mainly aimed at GNOME-related libraries, although
+there are Devhelp books for a wide range of library APIs.  Check your package
+manager and/or Google and you should have no trouble finding books that can
+be viewed with Devhelp.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

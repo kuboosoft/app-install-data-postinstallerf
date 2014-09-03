@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ocsinventory-ipdiscover</b>'
+Comment='<span size="xx-large">Open Computer and Software Inventory Next Generation client</span>'
+Comment3='
+Open Computer and Software Inventory Next Generation is an application
+designed to help a network or system administrator keep track of computer
+configuration and software installed on the network.
+
+It also allows deploying softwares, commands or files on Windows and
+Linux client computers.
+ocsinventory-ipdiscover provide the ipdiscover command used by
+client agent for Linux.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ocsinventory.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

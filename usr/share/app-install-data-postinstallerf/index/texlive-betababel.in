@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-betababel</b>'
+Comment='<span size="xx-large">Insert ancient greek text coded in Beta Code</span>'
+Comment3='
+The betababel package extends the babel polutonikogreek option
+to provide a simple way to insert ancient Greek texts with
+diacritical characters into your document using the commonly
+used Beta Code transliteration. You can directly insert Beta
+
+date 2009-03-27 131514 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

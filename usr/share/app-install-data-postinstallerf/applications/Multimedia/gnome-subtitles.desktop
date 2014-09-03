@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n gnome-subtitles
+Version=1.0
+Name=Gnome Subtitles
+GenericName=Subtitle Editor
+Comment=Video subtitling for the GNOME desktop
+Icon=/usr/share/app-install-data-postinstallerf/icons/gnome-subtitles.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Video;AudioVideo;AudioVideoEditing;

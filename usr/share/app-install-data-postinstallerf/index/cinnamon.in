@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cinnamon</b>'
+Comment='<span size="xx-large">Window management and application launching for GNOME</span>'
+Comment3='
+Cinnamon is a Linux desktop which provides advanced
+ innovative features and a traditional user experience.
+
+The desktop layout is similar to Gnome 2.
+The underlying technology is forked from Gnome Shell.
+The emphasis is put on making users feel at home and providing
+ them with an easy to use and comfortable desktop experience.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://cinnamon.linuxmint.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

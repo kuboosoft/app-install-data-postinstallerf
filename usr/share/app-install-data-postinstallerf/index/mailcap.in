@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mailcap</b>'
+Comment='<span size="xx-large">Helper application and MIME type associations for file types</span>'
+Comment3='
+The mailcap file is used by the metamail program.  Metamail reads the
+mailcap file to determine how it should display non-text or multimedia
+material.  Basically, mailcap associates a particular type of file
+with a particular program that a mail agent or other program can call
+in order to handle the file.  Mailcap should be installed to allow
+certain programs to be able to handle non-text files.
+
+Also included in this package is the mime.types file which contains a
+list of MIME types and their filename "extension" associations, used
+by several applications e.g. to determine MIME types for filenames.
+'
+License='Public Domain and MIT'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/mailcap.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

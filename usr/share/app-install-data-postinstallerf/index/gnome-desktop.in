@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnome-desktop</b>'
+Comment='<span size="xx-large">Shared code among gnome-panel, gnome-session, nautilus, etc</span>'
+Comment3='
+The gnome-desktop package contains an internal library
+(libgnomedesktop) used to implement some portions of the GNOME
+desktop, and also some data files and other shared components of the
+GNOME user environment.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

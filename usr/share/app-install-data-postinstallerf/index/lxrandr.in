@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>lxrandr</b>'
+Comment='<span size="xx-large">Simple monitor configuration tool</span>'
+Comment3='
+LXRandR is a simple monitor configuration tool utilizing X RandR extension.
+Its a GUI frontend of the command line program xrandr and manages screen
+resolution and external monitors. When you run LXRandR with an external
+monitor or projector connected, its GUI will change and show you some options
+to quickly configure the external device.
+
+LXRandR is the standard screen manager of LXDE, the Lightweight X11 Desktop
+Environment, but can be used in other desktop environments as well.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://lxde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

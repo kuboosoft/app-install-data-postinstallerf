@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-archy</b>'
+Comment='<span size="xx-large">Renders nested hierarchies with unicode pipes</span>'
+Comment3='
+Render nested hierarchies with unicode pipes, `npm ls` style.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/substack/node-archy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

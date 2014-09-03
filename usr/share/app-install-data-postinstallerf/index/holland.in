@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>holland</b>'
+Comment='<span size="xx-large">Pluggable Backup Framework</span>'
+Comment3='
+A pluggable backup framework which focuses on, but is not limited to, highly
+configurable database backups.
+'
+License='BSD'
+Screenshot=''
+Url='http://hollandbackup.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

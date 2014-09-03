@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rails_warden-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rails_warden</span>'
+Comment3='
+Documentation for rubygem-rails_warden
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/hassox/rails_warden'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

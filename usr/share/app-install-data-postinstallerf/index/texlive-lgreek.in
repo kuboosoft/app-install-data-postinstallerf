@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-lgreek</b>'
+Comment='<span size="xx-large">LaTeX macros for using Silvio Levys Greek fonts</span>'
+Comment3='
+A conversion of Silvio Levys Plain TeX macros for use with
+LaTeX.
+
+date 2011-03-14 202738 +0100
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

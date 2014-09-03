@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-ctrldaemon</b>'
+Comment='<span size="xx-large">Service command wrapper for Python</span>'
+Comment3='
+Service command wrapper for Python
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/yograterol/python-ctrldaemon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

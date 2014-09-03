@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>selinux-policy-devel</b>'
+Comment='<span size="xx-large">SELinux policy devel</span>'
+Comment3='
+SELinux policy development and man page package
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://oss.tresys.com/repos/refpolicy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

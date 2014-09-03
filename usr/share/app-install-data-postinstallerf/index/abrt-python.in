@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>abrt-python</b>'
+Comment='<span size="xx-large">ABRT Python API</span>'
+Comment3='
+High-level API for querying, creating and manipulating
+problems handled by ABRT in Python.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

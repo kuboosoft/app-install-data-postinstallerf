@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libyui-devel-common</b>'
+Comment='<span size="xx-large">Common files needed for developing with libyui</span>'
+Comment3='
+Common files needed for developing with libyui, e.g. headers and CMake-macros.
+'
+License='(LGPLv2 or LGPLv3) and MIT'
+Screenshot=''
+Url='https://github.com/libyui/libyui'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

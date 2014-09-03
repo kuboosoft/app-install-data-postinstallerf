@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fedora-arm-installer</b>'
+Comment='<span size="xx-large">Writes binary image files to any specified block device</span>'
+Comment3='
+Allows one to first select a source image (local or remote). The image must be
+a binary file containing [MBR + Partitions + File Systems + Data]. A
+destination block device should then be selected for final installation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/Fedora_ARM_Installer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

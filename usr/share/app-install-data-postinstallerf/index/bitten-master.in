@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>bitten-master</b>'
+Comment='<span size="xx-large">A continuous integration plugin for Trac</span>'
+Comment3='
+Bitten is a Python-based framework for collecting various software metrics via
+continuous integration. It builds on Trac to provide an integrated web-based
+user interface.
+
+This package includes the Bitten master. It integrates into Trac and will
+supply Bitten slaves with build orders.
+'
+License='BSD'
+Screenshot=''
+Url='http://bitten.edgewall.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

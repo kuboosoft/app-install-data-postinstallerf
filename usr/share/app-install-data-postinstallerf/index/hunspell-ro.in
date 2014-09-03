@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-ro</b>'
+Comment='<span size="xx-large">Romanian hunspell dictionaries</span>'
+Comment3='
+Romanian hunspell dictionaries.
+'
+License='GPLv2+ or LGPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://rospell.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

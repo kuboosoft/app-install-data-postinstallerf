@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-cclicenses</b>'
+Comment='<span size="xx-large">Typeset Creative Commons licence logos</span>'
+Comment3='
+The cclicenses package helps users typesetting Creative Commons
+logos in LaTeX. It defines some commands useful to quickly
+write these logos, related to CC licences versions 1.0 and 2.0.
+
+date 2008-08-17 135626 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

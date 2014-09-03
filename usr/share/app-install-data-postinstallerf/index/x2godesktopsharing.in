@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>x2godesktopsharing</b>'
+Comment='<span size="xx-large">Share X11 desktops with other users via X2Go</span>'
+Comment3='
+X2Go Desktop Sharing is an X2Go add-on tool that allows a user to
+grant other X2Go users access to the current session (shadow session
+support). The current session may be an X2Go session itself or simply
+a local X11 session.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.x2go.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

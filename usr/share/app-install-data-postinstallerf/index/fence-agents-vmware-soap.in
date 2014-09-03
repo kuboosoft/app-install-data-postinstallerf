@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-vmware-soap</b>'
+Comment='<span size="xx-large">Fence agent for VMWare with SOAP API v4.1+</span>'
+Comment3='
+The fence-agents-vmware-soap package contains a fence agent for VMWare with SOAP API v4.1+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

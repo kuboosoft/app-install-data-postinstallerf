@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dfu-programmer</b>'
+Comment='<span size="xx-large">A Device Firmware Update based USB programmer for Atmel chips</span>'
+Comment3='
+A linux based command-line programmer for Atmel chips with a USB
+bootloader supporting ISP. This is a mostly Device Firmware Update
+(DFU) 1.0 compliant user-space application. Supports all DFU enabled
+Atmel chips with USB support.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dfu-programmer.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

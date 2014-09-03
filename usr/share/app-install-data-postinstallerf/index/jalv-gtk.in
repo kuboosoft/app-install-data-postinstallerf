@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jalv-gtk</b>'
+Comment='<span size="xx-large">GTK implementation of jalv</span>'
+Comment3='
+jalv-gtk is an LV2 host for GTK LV2 plugins
+'
+License='MIT'
+Screenshot=''
+Url='http://drobilla.net/software/jalv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

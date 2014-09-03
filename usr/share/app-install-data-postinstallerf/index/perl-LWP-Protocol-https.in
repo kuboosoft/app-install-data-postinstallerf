@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-LWP-Protocol-https</b>'
+Comment='<span size="xx-large">Provide HTTPS support for LWP::UserAgent</span>'
+Comment3='
+The LWPProtocolhttps module provides support for using HTTPS schemed
+URLs with LWP. This module is a plug-in to the LWP protocol handling, so
+you dont use it directly. Once the module is installed LWP is able to
+access sites using HTTP over SSL/TLS.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/LWP-Protocol-https/'
+URLs with LWP. This module is a plug-in to the LWP protocol handling, so'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

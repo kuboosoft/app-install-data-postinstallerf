@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Module-Compile</b>'
+Comment='<span size="xx-large">Perl Module Compilation</span>'
+Comment3='
+This module provides a system for writing modules that compile other
+Perl modules.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Compile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

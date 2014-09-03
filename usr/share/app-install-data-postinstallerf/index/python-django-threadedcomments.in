@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-django-threadedcomments</b>'
+Comment='<span size="xx-large">A simple yet flexible threaded commenting system for Django</span>'
+Comment3='
+Django-threadedcomments is a Django application which allows for the
+simple creation of a threaded commenting system. It is flexible as well,
+partly due to its use of the same facilities that any other Django
+application would use.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/django-threadedcomments'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

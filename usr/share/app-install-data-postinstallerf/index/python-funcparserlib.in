@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-funcparserlib</b>'
+Comment='<span size="xx-large">Recursive descent parsing library based on functional combinators</span>'
+Comment3='
+Parser combinators are just higher-order functions that take parsers as their
+arguments and return them as result values. Parser combinators are
+* First-class values
+* Extremely composable
+* Tend to make the code quite compact
+* Resemble the readable notation of xBNF grammars
+
+Parsers made with funcparserlib are pure-Python LL(*) parsers. It means that
+its very easy to write them without thinking about look-aheads and all that
+hardcore parsing stuff. But the recursive descent parsing is a rather slow
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/funcparserlib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

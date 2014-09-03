@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libnjb-examples</b>'
+Comment='<span size="xx-large">Example programs for libnjb</span>'
+Comment3='
+This package provides example programs for communicating with the
+Creative Nomad Jukebox and Dell DJ line of MP3 players.
+'
+License='BSD'
+Screenshot=''
+Url='http://libnjb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

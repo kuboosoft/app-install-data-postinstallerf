@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pacemaker</b>'
+Comment='<span size="xx-large">Scalable High-Availability cluster resource manager</span>'
+Comment3='
+Pacemaker is an advanced, scalable High-Availability cluster resource
+manager for Corosync, CMAN and/or Linux-HA.
+
+It supports more than 16 node clusters with significant capabilities
+for managing resources and dependencies.
+It will run scripts at initialization, when machines go up or down,
+when related resources fail and can be configured to periodically check
+resource health.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.clusterlabs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

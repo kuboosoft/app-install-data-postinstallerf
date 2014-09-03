@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kobo-worker</b>'
+Comment='<span size="xx-large">Worker daemon processing tasks submitted to the hub</span>'
+Comment3='
+Worker daemon processing tasks submitted to the hub.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/kobo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

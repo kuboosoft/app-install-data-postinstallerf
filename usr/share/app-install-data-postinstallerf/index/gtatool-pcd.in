@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gtatool-pcd</b>'
+Comment='<span size="xx-large">Module to import/export point cloud data</span>'
+Comment3='
+This sub-package contains the necessary module to import and export
+point cloud data via pcl.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gta.nongnu.org/gtatool.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

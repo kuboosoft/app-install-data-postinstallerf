@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vile-common</b>'
+Comment='<span size="xx-large">The common files needed by any version of the VIM editor</span>'
+Comment3='
+vile is a text editor which is extremely compatible with vi in terms of "finger
+feel".  In addition, it has extended capabilities in many areas, notably
+multi-file editing and viewing, syntax highlighting, and key rebinding.
+vile-common provides the files needed for all versions of vile.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://invisible-island.net/vile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

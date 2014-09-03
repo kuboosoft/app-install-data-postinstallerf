@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>resiprocate-b2bua</b>'
+Comment='<span size="xx-large">Basic SIP B2BUA</span>'
+Comment3='
+Provides a simple SIP B2BUA configured from a static XML file.
+reSIProcate is a framework that aims to fully implement the SIP protocol
+in first class C++.  It is intended for use in other applications,
+such as the repro SIP proxy.
+'
+License='VSL'
+Screenshot=''
+Url='http://www.resiprocate.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

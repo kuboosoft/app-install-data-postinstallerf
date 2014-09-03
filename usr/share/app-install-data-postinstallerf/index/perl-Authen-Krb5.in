@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Authen-Krb5</b>'
+Comment='<span size="xx-large">Krb5 Perl module</span>'
+Comment3='
+AuthenKrb5 is an object oriented interface to the Kerberos 5 API. Both
+the implementation and documentation are nowhere near complete, and may
+require previous experience with Kerberos 5 programming. Most of the
+functions here are documented in detail in the Kerberos 5 API
+documentation.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Krb5/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

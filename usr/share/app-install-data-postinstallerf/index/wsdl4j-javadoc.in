@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wsdl4j-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for wsdl4j</span>'
+Comment3='
+Javadoc for wsdl4j.
+'
+License='CPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/wsdl4j'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

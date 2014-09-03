@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n radiotray
+Name=Radio Tray
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/radiotray.png
+Type=Application
+Categories=AudioVideo;Audio;Player;GTK;

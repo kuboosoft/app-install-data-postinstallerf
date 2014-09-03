@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pngcrush</b>'
+Comment='<span size="xx-large">Optimizer for PNG (Portable Network Graphics) files</span>'
+Comment3='
+pngcrush is a commandline optimizer for PNG (Portable Network Graphics) files.
+Its main purpose is to reduce the size of the PNG IDAT datastream by trying
+various compression levels and PNG filter methods. It also can be used to
+remove unwanted ancillary chunks, or to add certain chunks including gAMA,
+tRNS, iCCP, and textual chunks.
+'
+License='zlib'
+Screenshot=''
+Url='http://pmt.sourceforge.net/pngcrush/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

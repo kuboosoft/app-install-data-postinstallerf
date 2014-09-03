@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sqlcli</b>'
+Comment='<span size="xx-large">A command-line SQL query utility</span>'
+Comment3='
+This is a tool that uses SQLAlchemy to execute SQL queries against a SQL
+database specified via a URL or an INI-style file (such as those used by most
+of the OpenStack services).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://github.com/larsks/sqlcli/'
+database specified via a URL or an INI-style file (such as those used by most'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

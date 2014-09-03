@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>YafaRay-blender</b>'
+Comment='<span size="xx-large">Blender integration scripts</span>'
+Comment3='
+YafRay uses a python-coded settings interface to set
+lighting and rendering parameters. This settings interface
+is launched by an entry automatically added to the Blender Render menu.
+'
+License='LGPLv2.1'
+Screenshot=''
+Url='http://www.yafray.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

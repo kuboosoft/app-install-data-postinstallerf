@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>StarCluster</b>'
+Comment='<span size="xx-large">Tool for managing computing clusters hosted on Amazons EC2</span>'
+Comment3='
+StarCluster is an open source cluster-computing toolkit for Amazon?s Elastic
+Compute Cloud (EC2).
+
+StarCluster has been designed to automate and simplify the process of
+building, configuring, and managing clusters of virtual machines on Amazon?s
+EC2 cloud. StarCluster allows anyone to easily create a cluster computing
+environment in the cloud suited for distributed and parallel computing
+applications and systems.
+'
+License='LGPLv3 and LGPLv2+ and (MIT or BSD or GPLv2) and (MIT or GPLv2)'
+Screenshot=''
+Url='http://star.mit.edu/cluster'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

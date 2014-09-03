@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-ancientgreek</b>'
+Comment='<span size="xx-large">Ancient Greek hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Ancient Greek in LGR and UTF-8
+encodings, including support for (obsolete) Ibycus font
+encoding. Patterns in UTF-8 use two code positions for each of
+the vowels with acute accent (a.k.a tonos, oxia), e.g., U+03AE,
+U+1F75 for eta.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

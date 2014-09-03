@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-publicsuffixlist</b>'
+Comment='<span size="xx-large">Library of effective TLDs</span>'
+Comment3='
+Check if a given string is a domain suffix.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/publicsuffixlist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

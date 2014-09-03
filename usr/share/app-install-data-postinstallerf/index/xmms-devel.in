@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmms-devel</b>'
+Comment='<span size="xx-large">Files required for XMMS plug-in development</span>'
+Comment3='
+Files needed for building plug-ins for the X MultiMedia System.
+
+URL          http//legacy.xmms2.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://legacy.xmms2.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

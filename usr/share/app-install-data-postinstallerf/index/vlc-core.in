@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vlc-core</b>'
+Comment='<span size="xx-large">VLC media player core</span>'
+Comment3='
+VLC media player core components
+
+URL          http//www.videolan.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.videolan.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

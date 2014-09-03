@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>bitstream-vera-fonts-common</b>'
+Comment='<span size="xx-large">Common files of the Bitstream Vera font set</span>'
+Comment3='
+
+The Vera fonts are high-quality Latin fonts donated by Bitstream.
+These fonts have been released under a liberal license, see the
+licensing FAQ in COPYRIGHT.TXT or the online up-to-date version
+at http//www.gnome.org/fonts/ for details.
+This package consists of files used by other bitstream-vera-fonts packages.
+'
+License='Bitstream Vera'
+Screenshot=''
+Url='http://www.gnome.org/fonts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

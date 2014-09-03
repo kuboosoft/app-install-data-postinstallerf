@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ws-commons-util</b>'
+Comment='<span size="xx-large">Common utilities from the Apache Web Services Project</span>'
+Comment3='
+This is version 1.0.1 of the common utilities from the Apache Web
+Services Project.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://apache.osuosl.org/ws/commons/util/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

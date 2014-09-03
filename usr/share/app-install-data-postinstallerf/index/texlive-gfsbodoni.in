@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-gfsbodoni</b>'
+Comment='<span size="xx-large">A Greek and Latin font based on Bodoni</span>'
+Comment3='
+Bodonis Greek fonts in the 18th century broke, for the first
+time, with the Byzantine cursive tradition of Greek fonts. GFS
+Bodoni resurrects his work for general use. The font family
+supports both Greek and Latin letters. LaTeX support of the
+fonts is provided, offering OT1, T1 and LGR encodings. The
+fonts themselves are provided in Adobe Type 1 and OpenType
+formats.
+
+date 2012-05-17 112216 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

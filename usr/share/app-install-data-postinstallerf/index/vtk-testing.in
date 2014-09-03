@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vtk-testing</b>'
+Comment='<span size="xx-large">Testing programs for VTK</span>'
+Comment3='
+Testing programs for VTK
+'
+License='BSD'
+Screenshot=''
+Url='http://vtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

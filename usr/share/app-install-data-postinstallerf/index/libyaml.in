@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libyaml</b>'
+Comment='<span size="xx-large">YAML 1.1 parser and emitter written in C</span>'
+Comment3='
+YAML is a data serialization format designed for human readability and
+interaction with scripting languages.  LibYAML is a YAML parser and
+emitter written in C.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://pyyaml.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

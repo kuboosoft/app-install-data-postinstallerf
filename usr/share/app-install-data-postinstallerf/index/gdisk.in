@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gdisk</b>'
+Comment='<span size="xx-large">An fdisk-like partitioning tool for GPT disks</span>'
+Comment3='
+An fdisk-like partitioning tool for GPT disks. GPT fdisk features a
+command-line interface, fairly direct manipulation of partition table
+structures, recovery tools to help you deal with corrupt partition
+tables, and the ability to convert MBR disks to GPT format.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.rodsbooks.com/gdisk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

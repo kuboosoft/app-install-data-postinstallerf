@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-capybara</b>'
+Comment='<span size="xx-large">Simplify the process of integration testing Rack applications</span>'
+Comment3='
+Capybara is an integration testing tool for rack based web applications. It
+simulates how a user would interact with a website.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jnicklas/capybara'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mapnik</b>'
+Comment='<span size="xx-large">Free Toolkit for developing mapping applications</span>'
+Comment3='
+Mapnik is a Free Toolkit for developing mapping applications.
+Its written in C++ and there are Python bindings to
+facilitate fast-paced agile development. It can comfortably
+be used for both desktop and web development, which was something
+I wanted from the beginning.
+
+Mapnik is about making beautiful maps. It uses the AGG library
+and offers world class anti-aliasing rendering with subpixel
+accuracy for geographic data. It is written from scratch in
+modern C++ and doesnt suffer from design decisions made a decade
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mapnik.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

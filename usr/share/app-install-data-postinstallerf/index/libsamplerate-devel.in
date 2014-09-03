@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libsamplerate-devel</b>'
+Comment='<span size="xx-large">Development related files for libsamplerate</span>'
+Comment3='
+Secret Rabbit Code is a sample rate converter for audio. It is capable
+of arbitrary and time varying conversions. It can downsample by a
+factor of 12 and upsample by the same factor. The ratio of input and
+output sample rates can be a real number. The conversion ratio can
+also vary with time for speeding up and slowing down effects.
+This package contains development files for libsamplerate
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mega-nerd.com/SRC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

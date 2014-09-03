@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Perl-Critic-More</b>'
+Comment='<span size="xx-large">Supplemental policies for Perl::Critic</span>'
+Comment3='
+This is a collection of PerlCritic policies that are not included in the
+PerlCritic core for a variety of reasons.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic-More/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

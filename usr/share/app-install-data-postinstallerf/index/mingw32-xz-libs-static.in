@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-xz-libs-static</b>'
+Comment='<span size="xx-large">Static version of the xz library</span>'
+Comment3='
+Static version of the xz library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tukaani.org/xz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>netty4-javadoc</b>'
+Comment='<span size="xx-large">API documentation for netty4</span>'
+Comment3='
+API documentation for netty4.
+'
+License='ASL 2.0 and BSD and MIT'
+Screenshot=''
+Url='https://netty.io/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

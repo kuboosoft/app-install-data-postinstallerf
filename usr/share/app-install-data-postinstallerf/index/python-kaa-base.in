@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-kaa-base</b>'
+Comment='<span size="xx-large">The Kaa Media - base package for python</span>'
+Comment3='
+kaa.base is an LGPL-licensed generic application framework, providing the
+foundation for other modules within Kaa, and can be used in any type of project,
+from small event-driven tools, to larger, complex applications.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freevo.org/kaa'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

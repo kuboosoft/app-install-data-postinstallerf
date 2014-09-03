@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apr-util-nss</b>'
+Comment='<span size="xx-large">APR utility library NSS crytpo support</span>'
+Comment3='
+This package provides the NSS crypto support for the apr-util.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://apr.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

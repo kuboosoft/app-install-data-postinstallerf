@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mmsrip</b>'
+Comment='<span size="xx-large">MMS Streams Recorder</span>'
+Comment3='
+MMSRIP is a pure useless program which allows you to save on your hard-disk
+the content being streamed by an MMS server. This program has been written
+for personnal use, so dont blame me if you think I am stupid doing such
+tool for the others.
+'
+License='GPL'
+Screenshot=''
+Url='http://nbenoit.tuxfamily.org/projects.php?rq=mmsrip'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

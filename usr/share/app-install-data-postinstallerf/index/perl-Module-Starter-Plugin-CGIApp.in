@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Module-Starter-Plugin-CGIApp</b>'
+Comment='<span size="xx-large">Template based module starter for CGI apps</span>'
+Comment3='
+This is a plugin for ModuleStarter that builds you a skeleton
+CGIApplication module with all the extra files needed to package it for
+CPAN. You can customize the output using HTMLTemplate.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Starter-Plugin-CGIApp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>je-examples-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for je-examples</span>'
+Comment3='
+This package contains javadoc for je-examples.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.oracle.com/us/products/database/berkeley-db/je/overview/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

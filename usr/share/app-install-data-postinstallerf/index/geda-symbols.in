@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geda-symbols</b>'
+Comment='<span size="xx-large">Electronic symbols for gEDA</span>'
+Comment3='
+This package contains a bunch of symbols of electronic devices
+used by gschem, the gEDA project schematic editor.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gpleda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

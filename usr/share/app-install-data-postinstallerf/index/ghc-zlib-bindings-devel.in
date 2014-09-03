@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-zlib-bindings-devel</b>'
+Comment='<span size="xx-large">Haskell zlib-bindings library development files</span>'
+Comment3='
+This package provides the Haskell zlib-bindings library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/zlib-bindings'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gudev-sharp</b>'
+Comment='<span size="xx-large">C# bindings for gudev</span>'
+Comment3='
+C# bindings for gudev
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://github.com/mono/gudev-sharp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rbldnsd</b>'
+Comment='<span size="xx-large">Small, fast daemon to serve DNSBLs</span>'
+Comment3='
+Rbldnsd is a small, authoritative-only DNS nameserver designed to serve
+DNS-based blocklists (DNSBLs). It may handle IP-based and name-based
+blocklists.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.corpit.ru/mjt/rbldnsd.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

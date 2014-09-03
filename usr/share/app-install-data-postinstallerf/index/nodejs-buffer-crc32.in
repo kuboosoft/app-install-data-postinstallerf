@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nodejs-buffer-crc32</b>'
+Comment='<span size="xx-large">A pure JavaScript CRC32 algorithm that plays nice with binary data</span>'
+Comment3='
+This Node.js module provides a pure JavaScript CRC32 algorithm that works
+with binary data and fancy character sets, output buffers, signed or unsigned
+data and also has tests.
+
+It is derived from the sample CRC implementation in the PNG specification
+http//www.w3.org/TR/PNG/#D-CRCAppendix
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/brianloveswords/buffer-crc32'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

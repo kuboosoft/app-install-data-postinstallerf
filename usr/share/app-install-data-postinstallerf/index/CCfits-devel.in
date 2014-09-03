@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>CCfits-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use CCfits</span>'
+Comment3='
+These are the header files and libraries needed to develop a CCfits
+application.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

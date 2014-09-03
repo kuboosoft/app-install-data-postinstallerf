@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-tikz-qtree</b>'
+Comment='<span size="xx-large">Use existing qtree syntax for trees in TikZ</span>'
+Comment3='
+The package provides a macro for drawing trees with TikZ using
+the easy syntax of Alexis Dimitriadis Qtree. It improves on
+TikZs standard tree-drawing facility by laying out tree nodes
+without collisions; it improves on Qtree by adding lots of
+features from TikZ (for example, edge labels, arrows between
+nodes); and it improves on pst-qtree in being usable with
+pdfTeX and XeTeX.
+
+date 2012-04-23 112352 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

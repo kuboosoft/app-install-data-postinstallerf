@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwnck-devel</b>'
+Comment='<span size="xx-large">Libraries and headers for libwnck</span>'
+Comment3='
+The libwnck-devel package contains libraries and header files for
+developing applications that use libwnck.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/libwnck/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

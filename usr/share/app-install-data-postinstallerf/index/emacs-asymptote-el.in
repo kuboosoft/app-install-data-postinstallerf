@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>emacs-asymptote-el</b>'
+Comment='<span size="xx-large">Elisp source files for asymptote under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for asymptote under GNU Emacs. You
+do not need to install this package to run asymptote. Install the emacs-asymptote
+package to use asymptote with GNU Emacs.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://asymptote.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

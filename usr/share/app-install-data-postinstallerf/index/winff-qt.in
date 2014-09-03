@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>winff-qt</b>'
+Comment='<span size="xx-large">Graphical video and audio batch converter using ffmpeg</span>'
+Comment3='
+WinFF is a GUI for the command line video converter FFMPEG.
+It will convert most any video file that FFmpeg will convert.
+WinFF does multiple files in multiple formats at one time.
+You can for example convert mpegs, flvs, and movs
+all into avis all at once.
+'
+License='GPLv3.0'
+Screenshot=''
+Url='http://code.google.com/p/winff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fslint</b>'
+Comment='<span size="xx-large">File System "lint" discovery and cleaning utility</span>'
+Comment3='
+FSlint is a utility to find redundant disk usage like duplicate files
+for example. It can be used to reclaim disk space and fix other problems
+like file naming issues and bad symlinks etc.
+It includes a GTK+ GUI as well as a command line interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.pixelbeat.org/fslint/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

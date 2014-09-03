@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nodejs-sax</b>'
+Comment='<span size="xx-large">A streaming SAX-style XML parser in JavaScript for Node.js</span>'
+Comment3='
+This is a SAX-style streaming XML parser in JavaScript for Node.js.
+
+It is
+ - A very simple tool to parse through an XML string.
+ - A stepping stone to a streaming HTML parser.
+ - A handy way to deal with RSS and other mostly-ok-but-kinda-broken XML docs.
+'
+License='BSD and W3C'
+Screenshot=''
+Url='https://github.com/isaacs/sax-js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

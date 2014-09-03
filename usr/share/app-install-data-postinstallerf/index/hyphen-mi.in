@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-mi</b>'
+Comment='<span size="xx-large">Maori hyphenation rules</span>'
+Comment3='
+Maori hyphenation rules.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://papakupu.maori.nz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

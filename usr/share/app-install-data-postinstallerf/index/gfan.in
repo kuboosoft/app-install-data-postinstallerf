@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gfan</b>'
+Comment='<span size="xx-large">Software for Computing Gr?bner Fans and Tropical Varieties</span>'
+Comment3='
+The software computes all marked reduced Gr?bner bases of an ideal.
+Their union is a universal Gr?bner basis. Gfan contains algorithms for
+computing this complex for general ideals and specialized algorithms
+for tropical curves, tropical hypersurfaces and tropical varieties of
+prime ideals. In addition to the above core functions the package
+contains many tools which are useful in the study of Gr?bner bases,
+initial ideals and tropical geometry. Among these are an interactive
+traversal program for Gr?bner fans and programs for graphical renderings.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.math.tu-berlin.de/~jensen/software/gfan/gfan.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

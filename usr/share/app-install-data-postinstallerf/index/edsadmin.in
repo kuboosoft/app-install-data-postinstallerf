@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>edsadmin</b>'
+Comment='<span size="xx-large">An LDAP server administration tool</span>'
+Comment3='
+Erudite Directory Services are intended to be the best and fastest way for an
+administrator to take advantage of the directory services options on Free
+operating systems.
+
+The EDS Admin tool is part of that goal. It allows admins to quickly and
+easily connect to and manage their directory servers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://edsadmin.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

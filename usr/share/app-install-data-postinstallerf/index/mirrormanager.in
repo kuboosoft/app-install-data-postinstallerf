@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mirrormanager</b>'
+Comment='<span size="xx-large">Fedora mirror management system</span>'
+Comment3='
+MirrorManager tracks all the content provided on a master mirror
+server, and that of all public and private mirrors of that content.
+This package contains the application server, database schema and
+hosted tools.
+'
+License='MIT and GPLv2'
+Screenshot=''
+Url='http://fedorahosted.org/mirrormanager'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

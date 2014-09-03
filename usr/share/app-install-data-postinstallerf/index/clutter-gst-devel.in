@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>clutter-gst-devel</b>'
+Comment='<span size="xx-large">clutter-gst development environment</span>'
+Comment3='
+Header files and libraries for building a extension library for the
+clutter-gst
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.clutter-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

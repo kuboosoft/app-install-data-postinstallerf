@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tong</b>'
+Comment='<span size="xx-large">A mixture of two classic games</span>'
+Comment3='
+TONG is the result of intermixing two classic games, capitalizing on the
+essential qualities of each and adding new twists of its own to make an
+explosive chemical reaction out of it all.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/tong'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

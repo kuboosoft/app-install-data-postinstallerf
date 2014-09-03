@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>freqtweak</b>'
+Comment='<span size="xx-large">Realtime audio frequency spectral manipulation</span>'
+Comment3='
+FreqTweak is a tool for FFT-based realtime audio spectral manipulation
+and display. It provides several algorithms for processing audio data
+in the frequency domain and a highly interactive GUI to manipulate the
+associated filters for each. It also provides high-resolution spectral
+displays in the form of scrolling-raster spectragrams and energy vs
+frequency plots displaying both pre- and post-processed spectra.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://freqtweak.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rcssserver3d</b>'
+Comment='<span size="xx-large">Robocup 3D Soccer Simulation Server</span>'
+Comment3='
+The RoboCup Soccer Simulator is a research and educational tool for multi-agent
+systems and artificial intelligence. It enables for two teams of 11 simulated
+autonomous robotic players to play soccer (football).
+
+This package contains the 3D version of the simulator.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/simspark/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

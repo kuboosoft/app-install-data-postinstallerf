@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Class-Factory-Util</b>'
+Comment='<span size="xx-large">Provide utility methods for factory classes</span>'
+Comment3='
+This module exports utility functions that are useful for factory classes.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Factory-Util'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

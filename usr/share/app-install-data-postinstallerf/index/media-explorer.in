@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>media-explorer</b>'
+Comment='<span size="xx-large">Media center application</span>'
+Comment3='
+Media explorer is a media center application for Linux, originally
+targeted towards MeeGo.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://media-explorer.github.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

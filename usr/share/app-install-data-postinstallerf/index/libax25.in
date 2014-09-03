@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libax25</b>'
+Comment='<span size="xx-large">AX.25 library for hamradio applications</span>'
+Comment3='
+libax25 is a library for ham radio applications that use the ax25 protocol.
+Included are routines to do ax25 address parsing, common ax25 application
+config file parsing, etc.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ax25.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

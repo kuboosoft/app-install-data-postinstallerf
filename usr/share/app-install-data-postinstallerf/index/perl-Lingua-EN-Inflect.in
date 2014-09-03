@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Lingua-EN-Inflect</b>'
+Comment='<span size="xx-large">Convert singular to plural, select "a" or "an"</span>'
+Comment3='
+Convert singular to plural, select "a" or "an".
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Lingua-EN-Inflect/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

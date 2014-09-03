@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-pyshp</b>'
+Comment='<span size="xx-large">Pure Python 3 read/write support for ESRI Shapefile format</span>'
+Comment3='
+Pure Python read/write support for ESRI Shapefile format
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/pyshp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

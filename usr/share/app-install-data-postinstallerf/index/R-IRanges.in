@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>R-IRanges</b>'
+Comment='<span size="xx-large">Low-level containers for storing sets of integer ranges</span>'
+Comment3='
+The IRanges class and its extensions are low-level containers
+for storing sets of integer ranges. A typical use of these containers
+in biology is for representing a set of chromosome regions.
+More specific extensions of the IRanges class will typically
+allow the storage of additional information attached to each
+chromosome region as well as a hierarchical relationship between
+these regions.
+'
+License='Artistic 2.0 and Copyright only'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/IRanges.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

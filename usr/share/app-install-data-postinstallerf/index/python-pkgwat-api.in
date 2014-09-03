@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-pkgwat-api</b>'
+Comment='<span size="xx-large">Python API for querying the fedora packages webapp</span>'
+Comment3='
+Python API for pkgwat
+http//pypi.python.org/pypi/pkgwat.cli
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/pkgwat.api'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

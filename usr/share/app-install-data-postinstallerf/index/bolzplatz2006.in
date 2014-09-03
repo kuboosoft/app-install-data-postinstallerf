@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bolzplatz2006</b>'
+Comment='<span size="xx-large">Slam Soccer 2006 is a funny football game in 3D-comic-style</span>'
+Comment3='
+Slam Soccer 2006 is a funny football game in
+3D-comic-style - and its for free!
+
+* Freeware and open source
+* Funny 3d-comic-style
+* Enthralling stadium atmosphere
+* Keyboard and gamepad control
+* 2-player mode
+* Career and world cup
+* Register in the online hall of fame
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bolzplatz2006.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

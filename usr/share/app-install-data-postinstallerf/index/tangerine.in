@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tangerine</b>'
+Comment='<span size="xx-large">Personal DAAP server</span>'
+Comment3='
+Tangerine is an application that allows you to publish music over the local
+network, using DAAP. For typical configurations, a graphical tool is included.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://launchpad.net/tangerine/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

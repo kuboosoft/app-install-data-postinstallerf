@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libimobiledevice-devel</b>'
+Comment='<span size="xx-large">Development package for libimobiledevice</span>'
+Comment3='
+Files for development with libimobiledevice.
+
+URL          http//www.libimobiledevice.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.libimobiledevice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

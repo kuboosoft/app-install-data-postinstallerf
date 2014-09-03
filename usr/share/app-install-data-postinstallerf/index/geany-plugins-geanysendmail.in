@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>geany-plugins-geanysendmail</b>'
+Comment='<span size="xx-large">Send E-Mails from within Geany</span>'
+Comment3='
+GeanySendMail is a little plugin to send a document as attachment using the
+preferred mail client from inside Geany. It is similar to the envelope symbol
+of most office tools and requires a mail client that supports remote calls.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

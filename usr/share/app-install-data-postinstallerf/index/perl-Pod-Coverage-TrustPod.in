@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Pod-Coverage-TrustPod</b>'
+Comment='<span size="xx-large">Allow a modules pod to contain Pod::Coverage hints</span>'
+Comment3='
+This is a PodCoverage subclass (actually, a subclass of
+PodCoverageCountParents) that allows the POD itself to declare certain
+symbol names trusted.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Pod-Coverage-TrustPod/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

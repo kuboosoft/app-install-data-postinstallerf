@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kolf-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for kolf</span>'
+Comment3='
+Runtime libraries for kolf.
+
+URL          https//projects.kde.org/projects/kde/kdegames/kolf
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kolf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

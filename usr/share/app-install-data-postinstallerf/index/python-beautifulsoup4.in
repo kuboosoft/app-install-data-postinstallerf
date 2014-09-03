@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-beautifulsoup4</b>'
+Comment='<span size="xx-large">HTML/XML parser for quick-turnaround applications like screen-scraping</span>'
+Comment3='
+Beautiful Soup is a Python HTML/XML parser designed for quick
+turnaround projects like screen-scraping. Three features make it
+powerful
+
+Beautiful Soup wont choke if you give it bad markup.
+Beautiful Soup provides a few simple methods and Pythonic idioms for
+navigating, searching, and modifying a parse tree.
+Beautiful Soup automatically converts incoming documents to Unicode
+'
+License='MIT'
+Screenshot=''
+Url='http://www.crummy.com/software/BeautifulSoup/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

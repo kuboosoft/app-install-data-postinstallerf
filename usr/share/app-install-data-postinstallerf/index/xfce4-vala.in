@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xfce4-vala</b>'
+Comment='<span size="xx-large">Vala bindings for the Xfce framework</span>'
+Comment3='
+Xfce4 Vala provides bindings for the Xfce framework
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://wiki.xfce.org/vala-bindings'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

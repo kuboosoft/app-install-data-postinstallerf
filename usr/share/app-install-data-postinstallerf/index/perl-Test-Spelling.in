@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-Spelling</b>'
+Comment='<span size="xx-large">Check for spelling errors in POD files</span>'
+Comment3='
+"TestSpelling" lets you check the spelling of a POD file, and report
+its results in standard "TestSimple" fashion. This module requires the
+hunspell program.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Spelling/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

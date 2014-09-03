@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libpst-python</b>'
+Comment='<span size="xx-large">Python bindings for libpst</span>'
+Comment3='
+The libpst-python package allows you to use the libpst shared object
+from python code.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.five-ten-sg.com/libpst/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

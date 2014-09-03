@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>geany-plugins-geanyextrasel</b>'
+Comment='<span size="xx-large">Additional features for selecting code</span>'
+Comment3='
+Geanyextrasel provides some special features for selecting code, e.g. from
+opening brace to closed brace and so on. This plugin will be very useful for
+you if youre a programmer and working with much sourcecodes.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-case-insensitive</b>'
+Comment='<span size="xx-large">Case insensitive string comparison</span>'
+Comment3='
+The module Data.CaseInsensitive provides the CI type constructor
+which can be parameterised by a string-like type like String,
+ByteString, Text, etc.  Comparisons of values of the resulting
+type will be insensitive to cases.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/case-insensitive'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

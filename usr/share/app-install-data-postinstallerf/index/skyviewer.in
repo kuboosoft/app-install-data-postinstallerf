@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>skyviewer</b>'
+Comment='<span size="xx-large">Program to display HEALPix-based skymaps in FITS files</span>'
+Comment3='
+SkyViewer is an OpenGL based program to display HEALPix-based skymaps,
+saved in FITS format files. The loaded skymaps can be viewed either on a 3D
+sphere or as a Mollweide projection. In either case, realtime panning and
+zooming are supported, along with rotations for the 3D sphere view,
+assuming you have a strong enough graphics card.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://lambda.gsfc.nasa.gov/toolbox/tb_skyviewer_ov.cfm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

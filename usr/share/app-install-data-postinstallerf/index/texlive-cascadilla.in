@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-cascadilla</b>'
+Comment='<span size="xx-large">Typeset papers conforming to the stylesheet of the Cascadilla Proceedings Project</span>'
+Comment3='
+The class provides an extension of the standard LaTeX article
+class that may be used to typeset papers conforming to the
+stylesheet of the Cascadilla Proceedings Project, which is used
+by a number of linguistics conference proceedings (e.g.,
+WCCFL).
+
+date 2012-01-18 172655 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

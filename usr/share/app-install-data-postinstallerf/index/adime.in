@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>adime</b>'
+Comment='<span size="xx-large">Allegro Dialogs Made Easy</span>'
+Comment3='
+Adime is a portable add-on library for Allegro with functions for generating
+Allegro dialogs in a very simple way. Its main purpose is to give as easy an
+API as possible to people who want dialogs for editing many kinds of input
+data.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://adime.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

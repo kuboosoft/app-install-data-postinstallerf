@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lightdm-qt-devel</b>'
+Comment='<span size="xx-large">Development files for lightdm-qt</span>'
+Comment3='
+Development files for lightdm-qt.
+
+URL          https//launchpad.net/lightdm/
+'
+License='(LGPLv2 or LGPLv3) and GPLv3+'
+Screenshot=''
+Url='https://launchpad.net/lightdm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

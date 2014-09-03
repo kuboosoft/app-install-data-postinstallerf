@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fuse-libs</b>'
+Comment='<span size="xx-large">File System in Userspace (FUSE) libraries</span>'
+Comment3='
+Devel With FUSE it is possible to implement a fully functional filesystem in a
+userspace program. This package contains the FUSE libraries.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fuse.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>coin-or-Cbc</b>'
+Comment='<span size="xx-large">Coin-or branch and cut</span>'
+Comment3='
+Cbc (Coin-or branch and cut) is an open-source mixed integer programming
+solver written in C++. It can be used as a callable library or using a
+stand-alone executable. It can be called through AMPL (natively), GAMS
+(using the links provided by the "Optimization Services" and "GAMSlinks"
+projects), MPL (through the "CoinMP" project), AIMMS (through the "AIMMSlinks"
+project), or "PuLP".
+
+Cbc links to a number of other COIN projects for additional functionality,
+including
+'
+License='EPL'
+Screenshot=''
+Url='http://projects.coin-or.org/Cbc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

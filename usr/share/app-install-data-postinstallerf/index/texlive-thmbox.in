@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-thmbox</b>'
+Comment='<span size="xx-large">Decorate theorem statements</span>'
+Comment3='
+The package defines an environment thmbox that presents
+theorems, definitions and similar objects in boxes decorated
+with frames and various aesthetic features. The standard macro
+\newtheorem may be redefined to use the environment.
+
+date 2009-03-25 085529 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

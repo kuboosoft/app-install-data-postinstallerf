@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-libgsf</b>'
+Comment='<span size="xx-large">MinGW build of structured file editing library</span>'
+Comment3='
+MinGW Windows port of the library for reading and writing structured files.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

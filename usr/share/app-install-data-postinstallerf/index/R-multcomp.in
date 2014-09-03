@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-multcomp</b>'
+Comment='<span size="xx-large">Simultaneous inference for general linear hypotheses R Package</span>'
+Comment3='
+This R package contains functions for simultaneous tests and confidence
+intervals for general linear hypotheses in parametric models, including
+linear, generalized linear, linear mixed effects, and survival models.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/multcomp/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

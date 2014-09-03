@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-gettext_i18n_rails-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-gettext_i18n_rails</span>'
+Comment3='
+Documentation for rubygem-gettext_i18n_rails
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/grosser/gettext_i18n_rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

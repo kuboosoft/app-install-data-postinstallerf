@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>icfg</b>'
+Comment='<span size="xx-large">Command line utility to edit network configuration (icfg-*) files</span>'
+Comment3='
+This is a utility for manipulating SysV network interface configuration files
+(the files matching the glob /etc/sysconfig/network-scripts/icfg-*).  These are
+text based files, that are normally easily edited by hand, but in many
+environments hand editing is not desirable (for instance, during kickstart
+installations).  Icfg creates a scriptable interface to allow an admin to
+provision a systems network interfaces during install, without having to fall
+back to using a series of sed and awk commands
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/icfg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

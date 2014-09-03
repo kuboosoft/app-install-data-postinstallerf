@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gdal-libs</b>'
+Comment='<span size="xx-large">GDAL file format library</span>'
+Comment3='
+This package contains the GDAL file format library.
+
+URL          http//www.gdal.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gdal.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

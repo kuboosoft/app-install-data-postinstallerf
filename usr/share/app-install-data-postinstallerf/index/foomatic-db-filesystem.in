@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>foomatic-db-filesystem</b>'
+Comment='<span size="xx-large">Directory layout for the foomatic package</span>'
+Comment3='
+
+Directory layout for the foomatic package.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.openprinting.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

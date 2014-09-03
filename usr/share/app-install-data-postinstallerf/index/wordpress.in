@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wordpress</b>'
+Comment='<span size="xx-large">Blog tool and publishing platform</span>'
+Comment3='
+Wordpress is an online publishing / weblog package that makes it very easy,
+almost trivial, to get information out to people on the web.
+
+Important information in /usr/share/doc/wordpress/README.fedora
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.wordpress.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

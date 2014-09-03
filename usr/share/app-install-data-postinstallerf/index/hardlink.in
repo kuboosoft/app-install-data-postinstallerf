@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hardlink</b>'
+Comment='<span size="xx-large">Create a tree of hardlinks</span>'
+Comment3='
+hardlink is used to create a tree of hard links.
+Its used by kernel installation to dramatically reduce the
+amount of diskspace used by each kernel package installed.
+'
+License='GPL+'
+Screenshot=''
+Url='http://pkgs.fedoraproject.org/gitweb/?p=hardlink.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

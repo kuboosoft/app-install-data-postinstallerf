@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>LibRaw</b>'
+Comment='<span size="xx-large">Library for reading RAW files obtained from digital photo cameras</span>'
+Comment3='
+LibRaw is a library for reading RAW files obtained from digital photo
+cameras (CRW/CR2, NEF, RAF, DNG, and others).
+
+LibRaw is based on the source codes of the dcraw utility, where part of
+drawbacks have already been eliminated and part will be fixed in future.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.libraw.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

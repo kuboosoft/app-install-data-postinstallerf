@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-syntax</b>'
+Comment='<span size="xx-large">Creation of syntax diagrams</span>'
+Comment3='
+Create syntax diagrams using special environments and commands
+to represent the diagram structure.
+
+date 2009-10-01 195335 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

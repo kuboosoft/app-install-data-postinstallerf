@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmpc-devel</b>'
+Comment='<span size="xx-large">Header and shared development libraries for MPC</span>'
+Comment3='
+Header files and shared object symlinks for MPC is a C library.
+
+URL          http//www.multiprecision.org/
+'
+License='LGPLv3+ and GFDL'
+Screenshot=''
+Url='http://www.multiprecision.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

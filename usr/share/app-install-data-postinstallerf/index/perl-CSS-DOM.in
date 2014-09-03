@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CSS-DOM</b>'
+Comment='<span size="xx-large">Document Object Model for Cascading Style Sheets</span>'
+Comment3='
+This set of modules provides the CSS-specific interfaces described in
+the W3C DOM recommendation.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CSS-DOM/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tntnet</b>'
+Comment='<span size="xx-large">A web application server for web applications</span>'
+Comment3='
+A web application server for web applications
+
+URL          http//www.tntnet.org/
+'
+License='LGPLv2+ and GPLv2+ and zlib'
+Screenshot=''
+Url='http://www.tntnet.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

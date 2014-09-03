@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vicious</b>'
+Comment='<span size="xx-large">Modular widget library for awesome</span>'
+Comment3='
+Vicious widget types are a framework for creating your own awesome widgets.
+Vicious contains modules that gather data about your system, and a few helper
+functions that make it easier to register timers, suspend widgets and so on.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.sysphere.org/vicious/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

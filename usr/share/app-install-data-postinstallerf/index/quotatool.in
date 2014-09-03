@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>quotatool</b>'
+Comment='<span size="xx-large">Command-line utility for filesystem quotas</span>'
+Comment3='
+Quotatool is a utility to manipulate filesystem quotas from the commandline.
+Most quota-utilities are interactive, requiring manual intervention from the
+user. Quotatool on the other hand is not, making it suitable for use in
+scripts and other non-interactive situations.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://quotatool.ekenberg.se'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

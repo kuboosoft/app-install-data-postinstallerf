@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plplot-ada-devel</b>'
+Comment='<span size="xx-large">Development files for using PLplot Ada bindings</span>'
+Comment3='
+Development files for using PLplot Ada bindings.
+
+URL          http//plplot.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://plplot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

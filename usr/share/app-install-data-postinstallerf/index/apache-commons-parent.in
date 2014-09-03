@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-commons-parent</b>'
+Comment='<span size="xx-large">Apache Commons Parent Pom</span>'
+Comment3='
+The Project Object Model files for the apache-commons packages.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://svn.apache.org/repos/asf/commons/proper/commons-parent/tags/commons-parent-32/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>coffee-script-common</b>'
+Comment='<span size="xx-large">A programming that transcompiles to JavaScript - core compiler</span>'
+Comment3='
+This is the core compiler for the CoffeeScript language, suitable for use in
+browsers or by other JavaScript implementations.
+
+For the primary compiler and cake utility used in conjunction with Node.js,
+install the coffee-script package.
+'
+License='MIT'
+Screenshot=''
+Url='http://coffeescript.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

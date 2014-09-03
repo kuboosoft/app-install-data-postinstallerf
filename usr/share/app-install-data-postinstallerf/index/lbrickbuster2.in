@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>lbrickbuster2</b>'
+Comment='<span size="xx-large">Brickbuster arcade game</span>'
+Comment3='
+The successor to LBrickBuster offers you a new challenge in more than 50 levels
+with loads of new bonuses (goldshower, joker, explosive balls, bonus magnet
+...), maluses (chaos, darkness, weak balls, malus magnet ...) and special
+bricks (growing bricks, explosive bricks, regenerative bricks ...). If you
+are still hungry for more after that you can create your own levelsets with
+the integrated level editor.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lgames.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

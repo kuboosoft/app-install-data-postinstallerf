@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-net-http-digest_auth-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-net-http-digest_auth</span>'
+Comment3='
+Documentation for rubygem-net-http-digest_auth
+'
+License='MIT'
+Screenshot=''
+Url='http://docs.seattlerb.org/net-http-digest_auth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

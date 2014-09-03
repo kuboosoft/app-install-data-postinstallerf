@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>echo-artist</b>'
+Comment='<span size="xx-large">Automation tools for echo-icon-theme artists</span>'
+Comment3='
+Set of scripts for echo-icon-theme artists useful for setting up and maitaining
+their local git repository and creating and adding new icon sets to it.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/echo-icon-theme/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

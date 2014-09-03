@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nautilus-dropbox</b>'
+Comment='<span size="xx-large">Dropbox integration for Nautilus</span>'
+Comment3='
+Nautilus Dropbox is an extension that integrates
+the Dropbox web service with your GNOME Desktop.
+
+Check us out at https//www.dropbox.com/
+'
+License='GPLv3'
+Screenshot=''
+Url='https://www.dropbox.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

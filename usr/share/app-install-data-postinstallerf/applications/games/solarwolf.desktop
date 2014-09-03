@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=postinstaller -n solarwolf
+Version=1.0
+Type=Application
+Name=SolarWolf
+Icon=/usr/share/app-install-data-postinstallerf/icons/solarwolf.png
+Categories=Application;Game;ArcadeGame

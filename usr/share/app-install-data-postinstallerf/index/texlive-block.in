@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-block</b>'
+Comment='<span size="xx-large">A block letter style for the letter class</span>'
+Comment3='
+A style file for use with the letter class that overwrites the
+\opening and \closing macros so that letters can be styled with
+the block letter style instead of the default style. Thus, the
+return address, the closing, and the signature appear flushed
+on the left margin.
+
+date 2010-02-26 111749 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

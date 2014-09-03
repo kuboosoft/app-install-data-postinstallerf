@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>packmol</b>'
+Comment='<span size="xx-large">Packing optimization for molecular dynamics simulations</span>'
+Comment3='
+Packmol creates an initial point for molecular dynamics simulations by
+packing molecules in defined regions of space. The packing guarantees
+that short range repulsive interactions do not disrupt the
+simulations.
+
+The great variety of types of spatial constraints that can be
+attributed to the molecules, or atoms within the molecules, makes it
+easy to create ordered systems, such as lamellar, spherical or tubular
+lipid layers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ime.unicamp.br/~martinez/packmol/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

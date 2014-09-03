@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>shinken-arbiter</b>'
+Comment='<span size="xx-large">Shinken Arbiter</span>'
+Comment3='
+Shinken arbiter daemon
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://www.shinken-monitoring.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

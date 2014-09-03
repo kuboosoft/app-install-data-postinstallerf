@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>git-cal</b>'
+Comment='<span size="xx-large">GitHub-like contributions calendar on terminal</span>'
+Comment3='
+git-cal is a simple script to view commits calendar (similar to GitHub
+contributions calendar) on command line.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/k4rthik/git-cal'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

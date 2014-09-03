@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libusbx-devel</b>'
+Comment='<span size="xx-large">Development files for libusbx</span>'
+Comment3='
+The libusbx-devel package contains libraries and header files for
+developing applications that use libusbx.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libusb.info'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

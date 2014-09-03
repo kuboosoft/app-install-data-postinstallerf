@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>milter-regex</b>'
+Comment='<span size="xx-large">Milter plug-in for regular expression filtering</span>'
+Comment3='
+Milter-regex is a milter based filter that makes it possible to filter
+emails using regular expressions.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.benzedrine.cx/milter-regex.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

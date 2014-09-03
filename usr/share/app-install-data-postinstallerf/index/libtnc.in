@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libtnc</b>'
+Comment='<span size="xx-large">Library implementation of the Trusted Network Connect (TNC) specification</span>'
+Comment3='
+This library provides functions for loading and interfacing with loadable IMC
+Integrity Measurement Collector (IMC) and Integrity Measurement Verifier (IMV)
+modules as required by the Trusted Network Computing (TNC) IF-IMC and IF-IMV
+interfaces as described in https//www.trustedcomputinggroup.org/specs/TNC
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://libtnc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

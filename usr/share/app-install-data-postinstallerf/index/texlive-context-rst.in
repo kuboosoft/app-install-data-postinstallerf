@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-context-rst</b>'
+Comment='<span size="xx-large">Process reStructuredText with ConTeXt</span>'
+Comment3='
+The package provides a converter and module for typesetting
+reStructuredText with ConTeXt. The module uses several lua
+scripts in doing its work. Documentation is supplied in rst,
+which seems to be readable as text, but...
+
+date 2011-10-03 110620 +0200
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

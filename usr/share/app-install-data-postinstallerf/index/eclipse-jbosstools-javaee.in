@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools-javaee</b>'
+Comment='<span size="xx-large">JBoss JavaEE Tools</span>'
+Comment3='
+JavaEE Tools provides Eclipse plugins for features related to development
+on JavaEE. This includes CDI, Seam, JSF and Struts.
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

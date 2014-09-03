@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-paper</b>'
+Comment='<span size="xx-large">Versions of article class, tuned for scholarly publications</span>'
+Comment3='
+A pair of classes derived from article, tuned for producing
+papers for journals. The classes introduce new layout options
+and font commands for sections/parts, and define a new keywords
+environment, subtitle and institution commands for the title
+section and new commands for revisions.
+
+date 2012-01-13 090817 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

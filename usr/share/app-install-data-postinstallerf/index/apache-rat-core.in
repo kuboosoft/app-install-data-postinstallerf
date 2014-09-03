@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apache-rat-core</b>'
+Comment='<span size="xx-large">Core functionality for apache-rat</span>'
+Comment3='
+The core functionality of RAT, shared by the Ant tasks, and the Maven plugin.
+It also includes a wrapper script "apache-rat" that should be the equivalent
+to running upstreams "java -jar apache-rat.jar".
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://creadur.apache.org/rat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cdargs</b>'
+Comment='<span size="xx-large">The shell cd with bookmarks and browser</span>'
+Comment3='
+Enables the user to quickly change working directory by navigating cd arguments
+and expanding the shell built-in cd with bookmarks and browser.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.skamphausen.de/cgi-bin/ska/CDargs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

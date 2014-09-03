@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmbim-devel</b>'
+Comment='<span size="xx-large">Header files for adding MBIM support to applications that use glib</span>'
+Comment3='
+This package contains the header and pkg-config files for developing
+applications using MBIM functionality from applications that use glib.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/software/libmbim'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

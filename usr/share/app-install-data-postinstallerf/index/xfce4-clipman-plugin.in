@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfce4-clipman-plugin</b>'
+Comment='<span size="xx-large">Clipboard manager plugin for the Xfce panel</span>'
+Comment3='
+This is a simple cliboard history for Xfce panel. It includes a "Clear
+clipboard" option, and a drag-and-drop paste feature.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-clipman-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

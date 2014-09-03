@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ht-alegreya-fonts</b>'
+Comment='<span size="xx-large">A Serif typeface originally intended for literature</span>'
+Comment3='
+
+Alegreya was chosen as one of 53 "Fonts of the Decade" at the ATypI Letter2
+competition in September 2011, and one of the top 14 text type systems. It
+was also selected in the 2nd Bienal Iberoamericana de Dise?o, competition
+held in Madrid in 2010. Alegreya is a typeface originally intended for
+literature. Among its crowning characteristics, it conveys a dynamic and
+varied rhythm which facilitates the reading of long texts. Also, it
+provides freshness to the page while referring to the calligraphic letter,
+not as a literal interpretation, but rather in a contemporary typographic
+language. The italic has just as much care and attention to detail in the
+'
+License='OFL'
+Screenshot=''
+Url='http://www.huertatipografica.com.ar/tipografias/alegreya/ejemplos.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hugin-base</b>'
+Comment='<span size="xx-large">Command-line tools and libraries required by hugin</span>'
+Comment3='
+Command-line tools used to generate panoramic images, install this package
+separately from hugin if you want to batch-process hugin projects on a machine
+without a GUI environment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hugin.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

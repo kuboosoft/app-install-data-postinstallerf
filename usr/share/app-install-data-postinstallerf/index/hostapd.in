@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>hostapd</b>'
+Comment='<span size="xx-large">IEEE 802.11 AP, IEEE 802.1X/WPA/WPA2/EAP/RADIUS Authenticator</span>'
+Comment3='
+hostapd is a user space daemon for access point and authentication servers. It
+implements IEEE 802.11 access point management, IEEE 802.1X/WPA/WPA2/EAP
+Authenticators and RADIUS authentication server.
+
+hostapd is designed to be a "daemon" program that runs in the back-ground and
+acts as the backend component controlling authentication. hostapd supports
+separate frontend programs and an example text-based frontend, hostapd_cli, is
+included with hostapd.
+'
+License='BSD'
+Screenshot=''
+Url='http://w1.fi/hostapd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xbindkeys</b>'
+Comment='<span size="xx-large">Binds keys or mouse buttons to shell commands under X</span>'
+Comment3='
+xbindkeys is a program that allows you to launch shell commands
+with your keyboard or mouse under X. It links commands to keys
+or mouse buttons using a simple configuration file, and is
+independent of the window manager.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/xbindkeys/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

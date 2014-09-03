@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bamf-devel</b>'
+Comment='<span size="xx-large">Development files for bamf</span>'
+Comment3='
+The bamf-devel package contains libraries and header files for
+developing applications that use bamf.
+
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='https://launchpad.net/bamf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

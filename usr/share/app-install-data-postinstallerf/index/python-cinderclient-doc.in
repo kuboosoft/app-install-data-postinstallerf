@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-cinderclient-doc</b>'
+Comment='<span size="xx-large">Documentation for OpenStack Nova API Client</span>'
+Comment3='
+Client library (cinderclient python module) and command line utility
+(cinder) for interacting with OpenStack Cinder (Block Storage) API.
+
+This package contains auto-generated documentation.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/openstack/python-cinderclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

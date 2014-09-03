@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal7-title</b>'
+Comment='<span size="xx-large">Replaces entity legacy fields with regular fields</span>'
+Comment3='
+While working on the new content translation system
+(http//api.drupal.org/api/group/field_language/7) for Drupal 7, we (the Drupal
+core i18n team) faced the need to convert node titles to the Field API in order
+to make nodes fully translatable.
+
+We were not able to make this happen in Drupal 7 core so we decided to find a
+solution for this in contrib the idea is replacing node titles with fields ?
+la Automatic Nodetitles (http//drupal.org/project/auto_nodetitle).
+This will be exploited by the related Entity Translation
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/title'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

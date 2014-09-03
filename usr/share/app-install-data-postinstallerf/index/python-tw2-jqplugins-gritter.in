@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-tw2-jqplugins-gritter</b>'
+Comment='<span size="xx-large">jQuery gritter (growl-like pop-ups) for ToscaWidgets2</span>'
+Comment3='
+This module provides growl like pop-ups with the gritter plugin for
+python-tw2-jqplugins-ui.
+'
+License='MIT'
+Screenshot=''
+Url='http://toscawidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

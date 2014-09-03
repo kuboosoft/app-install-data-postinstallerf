@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>f2c</b>'
+Comment='<span size="xx-large">A Fortran 77 to C/C++ conversion program</span>'
+Comment3='
+F2c converts Fortran 77 source code to C or C++ source files. If no
+Fortran files are named on the command line, f2c can read Fortran from
+standard input and write C to standard output.
+'
+License='MIT'
+Screenshot=''
+Url='http://netlib.org/f2c/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

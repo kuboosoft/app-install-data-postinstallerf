@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n cssed
+Name=Cssed Editor
+Name[en]=Cssed Editor
+Name[es]=Editor Cssed
+Comment=Css and Web Development Editor
+Icon=/usr/share/app-install-data-postinstallerf/icons/cssed.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Development;

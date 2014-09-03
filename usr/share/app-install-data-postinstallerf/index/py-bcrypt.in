@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>py-bcrypt</b>'
+Comment='<span size="xx-large">Python bindings for OpenBSDs Blowfish password hashing code</span>'
+Comment3='
+python-bcrypt is a Python wrapper of OpenBSDs Blowfish password hashing
+code, as described in "A Future-Adaptable Password Scheme" by Niels
+Provos and David Mazi?res.
+
+This system hashes passwords using a version of Bruce Schneiers Blowfish
+block cipher with modifications designed to raise the cost of off-line
+password cracking and frustrate fast hardware implementation. The
+computation cost of the algorithm is parametised, so it can be increased
+as computers get faster. The intent is to make a compromise of a password
+database less likely to result in an attacker gaining knowledge of the
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://code.google.com/p/py-bcrypt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

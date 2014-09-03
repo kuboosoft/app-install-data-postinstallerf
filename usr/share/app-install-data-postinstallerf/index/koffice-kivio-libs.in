@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>koffice-kivio-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for koffice-kivio</span>'
+Comment3='
+Runtime libraries for koffice-kivio.
+
+URL          http//www.koffice.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.koffice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-openssl-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW port of the OpenSSL toolkit</span>'
+Comment3='
+Static version of the MinGW port of the OpenSSL toolkit.
+'
+License='OpenSSL'
+Screenshot=''
+Url='http://www.openssl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

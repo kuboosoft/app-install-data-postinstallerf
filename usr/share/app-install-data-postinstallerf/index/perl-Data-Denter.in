@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Data-Denter</b>'
+Comment='<span size="xx-large">An alternative to Data::Dumper and Storable</span>'
+Comment3='
+The main problem with DataDumper (one of my all-time favorite modules)
+is that you have to use eval() to deserialize the data youve dumped.
+This is great if you can trust the data youre evaling, but horrible if
+you cant. A good alternative is Storable.pm. It can safely thaw your
+frozen data.  But if you want to read/edit the frozen data, youre out of
+luck, because Storable uses a binary format. Even DataDumpers output
+can be a little cumbersome for larger data objects. Enter DataDenter.
+
+DataDenter is yet another Perl data serializer/deserializer. It formats
+nested data structures in an indented fashion. It is optimized for human
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Data-Denter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kcemirror</b>'
+Comment='<span size="xx-large">Remote display control for PocketPC devices</span>'
+Comment3='
+KCEMirror shows on your Linux computer a window with the display of your
+Pocket PC device. You can control it remotely this way.
+'
+License='MIT'
+Screenshot=''
+Url='http://synce.sourceforge.net/synce/kde/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

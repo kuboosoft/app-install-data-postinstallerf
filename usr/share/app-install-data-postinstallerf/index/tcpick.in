@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>tcpick</b>'
+Comment='<span size="xx-large">A tcp stream sniffer, tracker and capturer</span>'
+Comment3='
+tcpick is a textmode sniffer that can track tcp streams and saves
+the data captured in files or displays them in the terminal. Useful
+for picking files in a passive way.
+
+It can store all connections in different files, or it can display
+all the stream on the terminal. It is useful to keep track of what
+users of a network are doing, and is usable with textmode tools
+like grep, sed and awk. It can handle eth and ppp interfaces.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tcpick.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Memory</b>'
+Comment='<span size="xx-large">Zend Framework 2: Memory Component</span>'
+Comment3='
+Zend Framework 2 Memory Component
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

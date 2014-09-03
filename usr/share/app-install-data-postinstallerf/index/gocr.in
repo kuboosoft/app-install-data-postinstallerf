@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gocr</b>'
+Comment='<span size="xx-large">GNU Optical Character Recognition program</span>'
+Comment3='
+GOCR is an OCR (Optical Character Recognition) program, developed under the
+GNU Public License. It converts scanned images of text back to text files.
+Joerg Schulenburg started the program, and now leads a team of developers.
+
+GOCR can be used with different front-ends, which makes it very easy to port
+to different OSes and architectures. It can open many different image
+formats, and its quality have been improving in a daily basis.
+'
+License='GPLv2+'
+GNU Public License. It converts scanned images of text back to text files.'
+Screenshot=''
+Url='http://jocr.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

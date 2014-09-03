@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-sphinx-doc</b>'
+Comment='<span size="xx-large">Documentation for python-sphinx</span>'
+Comment3='
+Sphinx is a tool that makes it easy to create intelligent and
+beautiful documentation for Python projects (or other documents
+consisting of multiple reStructuredText sources), written by Georg
+Brandl. It was originally created to translate the new Python
+documentation, but has now been cleaned up in the hope that it will be
+useful to many other projects.
+
+This package contains documentation in reST and HTML formats.
+'
+License='BSD'
+Screenshot=''
+Url='http://sphinx.pocoo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

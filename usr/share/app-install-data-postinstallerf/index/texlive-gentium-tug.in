@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-gentium-tug</b>'
+Comment='<span size="xx-large">Gentium fonts (in two formats) and support files</span>'
+Comment3='
+Gentium is a typeface family designed to enable the diverse
+ethnic groups around the world who use the Latin, Cyrillic and
+Greek scripts to produce readable, high-quality publications.
+It supports a wide range of Latin- and Cyrillic-based
+alphabets. The package consists of - The original (unaltered)
+GentiumPlus, GentiumBook, and other Gentium-family fonts in
+TrueType format, as developed by SIL and released under the OFL
+(see OFL.txt and OFL-FAQ.txt); - Converted fonts in PostScript
+Type 1 format, released under the same terms. These incorporate
+the name "Gentium" by permission of SIL given to the TeX Users
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

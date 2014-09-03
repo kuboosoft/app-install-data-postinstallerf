@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-chbibref</b>'
+Comment='<span size="xx-large">Change the Bibliography/References title</span>'
+Comment3='
+Defines a single command, \setbibref, which sets whichever of
+\bibname and \refname is in use. (\bibname is used in book.cls
+and report.cls, and \refname is used in article.cls.)
+
+date 2010-02-23 161611 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

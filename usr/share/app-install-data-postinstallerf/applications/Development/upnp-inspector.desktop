@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n upnp-inspector
+Version=1.0
+Categories=Development;
+Icon=/usr/share/app-install-data-postinstallerf/icons/inspector.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Name=UPnP Inspector
+Comment= DLNA/UPnP device and service analyzer,control-point and test-tool

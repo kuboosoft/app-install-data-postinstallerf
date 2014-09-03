@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-cximage-static</b>'
+Comment='<span size="xx-large">MinGW Windows CxImage manipulation static library</span>'
+Comment3='
+Cross compiled static CxImage library.
+'
+License='zlib'
+Screenshot=''
+Url='http://sourceforge.net/projects/cximage'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

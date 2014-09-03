@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>polymake-devel</b>'
+Comment='<span size="xx-large">Development files for polymake</span>'
+Comment3='
+This package contains header files and libraries for developing
+plugins (applications) that use polymake.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://polymake.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

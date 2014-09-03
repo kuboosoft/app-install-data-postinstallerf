@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-beamerthemenirma</b>'
+Comment='<span size="xx-large">A Beamer theme for academic presentations</span>'
+Comment3='
+The package developed for academic purposes. The distribution
+includes nothing more than style file needed for preparing
+presentations.
+
+date 2010-12-16 011522 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

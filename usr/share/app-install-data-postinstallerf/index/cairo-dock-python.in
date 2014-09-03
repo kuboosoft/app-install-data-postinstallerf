@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cairo-dock-python</b>'
+Comment='<span size="xx-large">Python binding for cairo-dock</span>'
+Comment3='
+This package contains Python binding files for cairo-dock
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.glx-dock.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

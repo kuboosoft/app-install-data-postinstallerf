@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-backports-lzma</b>'
+Comment='<span size="xx-large">Backport of Python 3.3s lzma module</span>'
+Comment3='
+This is a backport of the "lzma" module included in Python 3.3 or later by
+Nadeem Vawda and Per Oyvind Karlsen, which provides a Python wrapper for XZ
+Utils (aka LZMA Utils v2) by Igor Pavlov.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/peterjc/backports.lzma'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

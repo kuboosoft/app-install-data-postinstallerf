@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>inksmoto</b>'
+Comment='<span size="xx-large">The new xmoto level editor for Inkscape</span>'
+Comment3='
+Inksmoto Level Editor is the new xmoto level editor. It uses Inkscape to
+draw levels, then it allows you to save your drawing as a xmoto level
+(.lvl file). It also allow you to edit xmoto level properties from
+within Inkscape such as make background block, strawberries, ...
+
+Inksmoto Level Editor is written in Python, its an Inkscape extension.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://xmoto.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ktechlab</b>'
+Comment='<span size="xx-large">Development and simulation of micro-controllers and electronic circuits</span>'
+Comment3='
+KTechlab is a development and simulation environment for micro-controllers
+and electronic circuits. KTechlab consists of several well-integrated
+components A circuit simulator, capable of simulating logic, linear devices
+and some nonlinear devices. Integration with gpsim, allowing PICs to be
+simulated in circuit. A schematic editor, which provides a rich real-time
+feedback of the simulation. A flowchart editor, allowing PIC programs to be
+constructed visually. MicroBASIC; a BASIC-like compiler for PICs, written as
+a companion program to KTechlab. An embedded Kate part, which provides a
+powerful editor for PIC programs. Integrated assembler and disassembler via
+gpasm and gpdasm.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/ktechlab/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

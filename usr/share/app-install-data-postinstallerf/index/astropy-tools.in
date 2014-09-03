@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>astropy-tools</b>'
+Comment='<span size="xx-large">Astropy utility tools</span>'
+Comment3='
+Utilities provided by Astropy volint for validating a Virtual Observatory
+files, wcslint for validating the WCS keywords in a FITS file.
+'
+License='BSD'
+Screenshot=''
+Url='http://astropy.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

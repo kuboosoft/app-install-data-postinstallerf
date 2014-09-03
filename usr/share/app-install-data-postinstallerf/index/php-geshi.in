@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-geshi</b>'
+Comment='<span size="xx-large">Generic syntax highlighter</span>'
+Comment3='
+GeSHi aims to be a simple but powerful highlighting class, with the following
+goals
+    * Support for a wide range of popular languages
+    * Easy to add a new language for highlighting
+    * Highly customisable output formats
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qbnz.com/highlighter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

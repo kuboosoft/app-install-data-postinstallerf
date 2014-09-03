@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghostscript-chinese-zh_CN</b>'
+Comment='<span size="xx-large">Ghostscript Simplified Chinese fonts configuration files</span>'
+Comment3='
+
+ghostscript font configuration files for Chinese fonts.
+For Simplified Chinese.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/CJKUnifonts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

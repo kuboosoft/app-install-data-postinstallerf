@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gq</b>'
+Comment='<span size="xx-large">Graphical LDAP directory browser and editor</span>'
+Comment3='
+GQ is a graphical browser for LDAP directories and schemas.  Using GQ,
+an administrator can search through a directory and modify objects
+stored in that directory.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/gqclient/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

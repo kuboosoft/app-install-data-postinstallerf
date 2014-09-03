@@ -1,0 +1,23 @@
+[Desktop Entry]
+Exec=postinstaller -n diffuse
+Name=Diffuse Merge Tool
+Name[de]=Diffuse Mischwerkzeug
+Name[es]=Diffuse utillaje de textos
+Name[it]=Diffuse - strumento di unione
+Name[ja]=Diffuse マージツール
+Name[ko]=Diffuse 병합도구
+Name[ru]=Diffuse Инструмент Слияния
+Name[zh_CN]=Diffuse 比较合并工具
+Comment=Graphical tool for merging and comparing text files
+Comment[de]=Werzeug zum Mischen und Vergleichen von Textdateien
+Comment[es]=Un utillaje para juntar y comparar archivos de texto
+Comment[it]=Strumento grafico per l unione e il confronto di file
+Comment[ja]=テキストファイルをマージして比較するためのグラフィックツール
+Comment[ko]=텍스트 파일을 병합하고 비교하기위한 도구
+Comment[ru]=Графический инструмент для слияния и сравнения текстовых файлов
+Comment[zh_CN]=图形化的比较和合并文本文件的工具
+Icon=/usr/share/app-install-data-postinstallerf/icons/diffuse.png
+Terminal=false
+Type=Application
+Categories=Development;GTK;
+StartupNotify=true

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>scim-thai</b>'
+Comment='<span size="xx-large">Thai Input Method Engine for SCIM</span>'
+Comment3='
+SCIM-Thai is a SCIM IMEngine module for Thai, based on the libthai library.
+
+Currently, it supports Ketmanee, TIS-820.2538, and Pattachote keybaord layouts
+and can validate input sequences at 3 levels of strictness.
+For applications that support surrounding text retrieval/deleting,
+it also corrects invalid input sequences.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://linux.thai.net/projects/scim-thai'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

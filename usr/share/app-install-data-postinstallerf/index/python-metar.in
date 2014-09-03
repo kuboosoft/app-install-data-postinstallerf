@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-metar</b>'
+Comment='<span size="xx-large">Coded METAR weather reports parser for Python</span>'
+Comment3='
+Python package that parses coded METAR weather reports.
+'
+License='MIT'
+Screenshot=''
+Url='http://homepage.mac.com/wtpollard/Software/FileSharing4.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

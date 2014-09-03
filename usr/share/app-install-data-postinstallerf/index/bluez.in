@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bluez</b>'
+Comment='<span size="xx-large">Bluetooth utilities</span>'
+Comment3='
+Utilities for use in Bluetooth applications
+	- hcitool
+	- hciattach
+	- hciconfig
+	- bluetoothd
+	- l2ping
+	- rfcomm
+	- sdptool
+	- bccmd
+	- bluetoothctl
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bluez.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

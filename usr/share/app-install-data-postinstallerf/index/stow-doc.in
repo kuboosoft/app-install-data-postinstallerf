@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>stow-doc</b>'
+Comment='<span size="xx-large">Documentation for Stow</span>'
+Comment3='
+This package contains the documentation for GNU Stow.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/stow/stow.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

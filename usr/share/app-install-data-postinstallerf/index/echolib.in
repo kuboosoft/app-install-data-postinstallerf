@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>echolib</b>'
+Comment='<span size="xx-large">EchoLink communications library</span>'
+Comment3='
+EchoLib is a library that is used as a base for writing EchoLink applications.
+It implements the directory server protocol as well as the station to station
+protocol. EchoLink is used to link ham radio stations together over the
+Internet.
+
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://svxlink.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

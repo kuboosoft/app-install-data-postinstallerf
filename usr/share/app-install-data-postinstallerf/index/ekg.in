@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ekg</b>'
+Comment='<span size="xx-large">A client compatible with Gadu-Gadu</span>'
+Comment3='
+EKG ("Eksperymentalny Klient Gadu-Gadu") is an open source gadu-gadu
+client for UNIX systems. Gadu-Gadu is an instant messaging program,
+very popular in Poland.
+
+EKG features include
+  - irssi-like ncurses interface
+  - sending and receiving files
+  - voice conversations
+  - launching shell commands on certain events
+  - reading input from pipe
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ekg.chmurka.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

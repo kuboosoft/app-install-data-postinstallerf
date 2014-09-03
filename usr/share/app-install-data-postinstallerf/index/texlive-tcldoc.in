@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-tcldoc</b>'
+Comment='<span size="xx-large">Doc/docstrip for tcl</span>'
+Comment3='
+The tclldoc package and class simplify the application of the
+doc/docstrip style of literate programming with Dr. John
+Ousterhouts Tool Command Language (Tcl, pronounced "tickle",
+a.k.a. The Cool Language). The tclldoc package is a bit like
+the doc package is for LaTeX, whereas the tclldoc class more
+parallels the ltxdoc class.
+
+date 2007-02-28 000205 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

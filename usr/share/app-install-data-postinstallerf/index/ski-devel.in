@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ski-devel</b>'
+Comment='<span size="xx-large">Development files for the ski simulator</span>'
+Comment3='
+The ski-devel package includes the static libraries and header files
+for the support library for the Ski simulator.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ski.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnasl-devel</b>'
+Comment='<span size="xx-large">Nessus Attack Scripting Language header files</span>'
+Comment3='
+The libnasl-devel package contains the files needed for development
+with libnasl.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nessus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

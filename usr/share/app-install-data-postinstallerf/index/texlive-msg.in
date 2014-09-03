@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-msg</b>'
+Comment='<span size="xx-large">A package for LaTeX localisation</span>'
+Comment3='
+The package is designed to localise any document class or
+package. This should be very useful for end-users who could
+obtain messages in their own preferred language. It is really
+easy to use by writers of other classes and packages.
+Volunteers are urged to test the package, report, and even to
+localise the message file to their own language. Documentation
+is provided in English.
+
+date 2006-11-16 175510 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

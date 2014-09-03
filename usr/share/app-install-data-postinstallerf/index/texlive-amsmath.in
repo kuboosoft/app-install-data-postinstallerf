@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-amsmath</b>'
+Comment='<span size="xx-large">AMS mathematical facilities for LaTeX</span>'
+Comment3='
+The package provides the principal packages in the AMS-LaTeX
+distribution. It adapts for use in LaTeX most of the
+mathematical features found in AMS-TeX; it is highly
+recommendsd as an adjunct to serious mathematical typesetting
+in LaTeX. When amsmath is loaded, AMS-LaTeX packages amsbsy
+(for bold symbols), amsopn (for operator names) and amstext
+(for text embdedded in mathematics) are also loaded. Amsmath is
+part of the LaTeX required distribution; however, several
+contributed packages add still further to its appeal; examples
+are empheq, which provides functions for decorating and
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>RunSnakeRun</b>'
+Comment='<span size="xx-large">GUI Viewer for Python profiling runs</span>'
+Comment3='
+RunSnakeRun is a small GUI utility that allows you to view (Python) "cProfile"
+or "Profile" profiler dumps in a sortable GUI view.  It allows you to explore
+the profiler information using a "square map" visualization or sortable tables
+of data.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.vrplumber.com/programming/runsnakerun/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

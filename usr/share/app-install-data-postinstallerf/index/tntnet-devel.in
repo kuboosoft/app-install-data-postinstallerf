@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tntnet-devel</b>'
+Comment='<span size="xx-large">Development files for tntnet</span>'
+Comment3='
+Development files for tntnet
+
+URL          http//www.tntnet.org/
+'
+License='LGPLv2+ and GPLv2+ and zlib'
+Screenshot=''
+Url='http://www.tntnet.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

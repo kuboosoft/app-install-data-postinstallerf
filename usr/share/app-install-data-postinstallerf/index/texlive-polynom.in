@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-polynom</b>'
+Comment='<span size="xx-large">Macros for manipulating polynomials</span>'
+Comment3='
+The polynom package implements macros for manipulating
+polynomials, for example it can typeset long polynomial
+divisions. The main test case and application is the polynomial
+ring in one variable with rational coefficients.
+
+date 2007-01-13 234525 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

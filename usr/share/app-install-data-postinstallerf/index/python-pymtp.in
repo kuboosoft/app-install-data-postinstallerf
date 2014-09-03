@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-pymtp</b>'
+Comment='<span size="xx-large">A Pythonic wrapper around libmtp</span>'
+Comment3='
+A Pythonic wrapper around libmtp, allowing python applications to communicate
+with MTP devices.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://pypi.python.org/pypi/PyMTP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

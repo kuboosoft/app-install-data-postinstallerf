@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-egenix-mx-base</b>'
+Comment='<span size="xx-large">A collection of Python software tools</span>'
+Comment3='
+The mx extensions for Python are a collection of Python software tools
+which enhance Pythons usability in many areas.
+
+'
+License='eGenix'
+Screenshot=''
+Url='http://www.egenix.com/products/python/mxBase/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

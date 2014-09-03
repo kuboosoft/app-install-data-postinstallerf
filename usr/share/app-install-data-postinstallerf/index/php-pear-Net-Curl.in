@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-Net-Curl</b>'
+Comment='<span size="xx-large">OO interface to PHPs cURL extension</span>'
+Comment3='
+Provides an Object-Oriented interface to PHPs curl extension.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Net_Curl'
+Summary     : OO interface to PHP's cURL extension'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

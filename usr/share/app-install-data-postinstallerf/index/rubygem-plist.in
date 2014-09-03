@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-plist</b>'
+Comment='<span size="xx-large">All-purpose Property List manipulation library</span>'
+Comment3='
+Plist is a library to manipulate Property List files, also known as plists.
+It can parse plist files into native Ruby data structures as well as
+generating new plist files from your Ruby objects.
+'
+License='MIT'
+Screenshot=''
+Url='http://plist.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

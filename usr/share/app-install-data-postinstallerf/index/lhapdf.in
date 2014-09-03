@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>lhapdf</b>'
+Comment='<span size="xx-large">Les Houches Accord PDF Interface</span>'
+Comment3='
+LHAPDF provides a unified and easy to use interface to modern PDF
+sets. It is designed to work not only with individual PDF sets but
+also with the more recent multiple "error" sets. It can be viewed as
+the successor to PDFLIB, incorporating many of the older sets found in
+the latter, including pion and photon PDFs. In LHAPDF the computer
+code and input parameters/grids are separated thus allowing more easy
+updating and no limit to the expansion possibilities.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lhapdf.hepforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

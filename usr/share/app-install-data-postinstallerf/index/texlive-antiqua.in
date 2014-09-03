@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-antiqua</b>'
+Comment='<span size="xx-large">URW Antiqua condensed font, for use with TeX</span>'
+Comment3='
+The directory contains a copy of the Type 1 font "URW Antiqua
+2051 Regular Condensed" released under the GPL by URW, with
+supporting files for use with (La)TeX.
+
+date 2011-10-11 171732 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

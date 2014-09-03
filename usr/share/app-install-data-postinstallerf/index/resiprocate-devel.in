@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>resiprocate-devel</b>'
+Comment='<span size="xx-large">reSIProcate development files</span>'
+Comment3='
+Resiprocate SIP Stack development files.
+
+URL          http//www.resiprocate.org
+'
+License='VSL'
+Screenshot=''
+Url='http://www.resiprocate.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

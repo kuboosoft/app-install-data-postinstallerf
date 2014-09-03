@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Runtime-scripts</b>'
+Comment='<span size="xx-large">Scripts for perl-Catalyst-Runtime</span>'
+Comment3='
+
+The perl-Catalyst-Runtime-scripts package contains scripts distributed with
+perl-Catalyst-Runtime but generally used for developing Catalyst applications.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Runtime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

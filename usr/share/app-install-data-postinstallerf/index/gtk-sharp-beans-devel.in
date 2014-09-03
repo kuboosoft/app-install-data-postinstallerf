@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk-sharp-beans-devel</b>'
+Comment='<span size="xx-large">Development files for gtk-sharp-beans</span>'
+Comment3='
+Development files for gtk-sharp-beans
+
+URL          http//github.com/mono/gtk-sharp-beans
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://github.com/mono/gtk-sharp-beans'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

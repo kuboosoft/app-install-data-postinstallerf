@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-bigmemory-devel</b>'
+Comment='<span size="xx-large">Development headers for R-bigmemory</span>'
+Comment3='
+Development headers for R-bigmemory.
+
+URL          http//cran.r-project.org/web/packages/bigmemory/index.html
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/bigmemory/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

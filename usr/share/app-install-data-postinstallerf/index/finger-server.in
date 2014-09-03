@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>finger-server</b>'
+Comment='<span size="xx-large">The finger daemon</span>'
+Comment3='
+Finger is a utility which allows users to see information about system
+users (login name, home directory, name, how long theyve been logged
+in to the system, etc.).  The finger-server package includes a standard
+finger server. The server daemon (fingerd) must be started using
+systemctl to receive finger requests.
+
+You should install finger-server if your system is used by multiple users
+and youd like finger information to be available.
+'
+License='BSD'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

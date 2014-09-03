@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>htmlunit-javadoc</b>'
+Comment='<span size="xx-large">API documentation for htmlunit</span>'
+Comment3='
+This package contains the API documentation for htmlunit.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://htmlunit.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

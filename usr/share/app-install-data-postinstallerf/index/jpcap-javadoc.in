@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jpcap-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jpcap</span>'
+Comment3='
+This package contains the API documentation for jpcap.
+'
+License='LGPLv2+ and BSD with advertising'
+Screenshot=''
+Url='http://netresearch.ics.uci.edu/kfujii/jpcap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

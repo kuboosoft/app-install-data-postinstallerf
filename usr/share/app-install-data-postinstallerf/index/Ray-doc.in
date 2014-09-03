@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>Ray-doc</b>'
+Comment='<span size="xx-large">Documentation files</span>'
+Comment3='
+Ray is a parallel software that computes de novo genome assemblies with
+next-generation sequencing data.
+Ray is written in C++ and can run in parallel on numerous interconnected
+computers using the message-passing interface (MPI) standard.
+This sub-package includes documentation files.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://denovoassembler.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

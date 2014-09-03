@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>luarocks</b>'
+Comment='<span size="xx-large">A deployment and management system for Lua modules</span>'
+Comment3='
+LuaRocks allows you to install Lua modules as self-contained packages
+called "rocks", which also contain version dependency
+information. This information is used both during installation, so
+that when one rock is requested all rocks it depends on are installed
+as well, and at run time, so that when a module is required, the
+correct version is loaded. LuaRocks supports both local and remote
+repositories, and multiple local rocks trees.
+'
+License='MIT'
+Screenshot=''
+Url='http://luarocks.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

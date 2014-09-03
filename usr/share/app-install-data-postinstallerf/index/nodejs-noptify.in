@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-noptify</b>'
+Comment='<span size="xx-large">A wrapper for the nopt module with a commander-like API</span>'
+Comment3='
+A wrapper for the nopt module with a commander-like API.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/mklabs/noptify'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

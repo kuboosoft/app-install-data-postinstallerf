@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-forarray</b>'
+Comment='<span size="xx-large">Using array structures in LaTeX</span>'
+Comment3='
+The package provides functionality for processing lists and
+array structures in LaTeX. Arrays can contain characters as
+well as TeX and LaTeX commands, nesting of arrays is possible,
+and arrays are processed within the same brace level as their
+surrounding environment. Array levels can be delimited by
+characters or control sequences defined by the user. Practical
+uses of this package include data management, construction of
+lists and tables, and calculations based on the contents of
+lists and arrays.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-mla-paper</b>'
+Comment='<span size="xx-large">Proper MLA formatting</span>'
+Comment3='
+The package formats articles using the MLA style. The aim is
+that students and other academics in the humanities should be
+able to typeset their materials, properly, with minimal effort
+on their part.
+
+date 2010-12-30 152117 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

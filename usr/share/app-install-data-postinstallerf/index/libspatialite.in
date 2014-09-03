@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libspatialite</b>'
+Comment='<span size="xx-large">Enables SQLite to support spatial data</span>'
+Comment3='
+SpatiaLite is a a library extending the basic SQLite core
+in order to get a full fledged Spatial DBMS, really simple
+and lightweight, but mostly OGC-SFS compliant.
+
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='https://www.gaia-gis.it/fossil/libspatialite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tracker-ui-tools</b>'
+Comment='<span size="xx-large">Tracker search tool(s)</span>'
+Comment3='
+Graphical frontend to tracker search (tracker-needle) and configuration
+(tracker-preferences) facilities.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/tracker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

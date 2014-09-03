@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>js-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development documentation for js</span>'
+Comment3='
+This package contains the header files, static libraries and development
+documentation for js. If you like to develop programs using js,
+you will need to install js-devel.
+
+'
+License='GPLv2+ or LGPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://www.mozilla.org/js/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

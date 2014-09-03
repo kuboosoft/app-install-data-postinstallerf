@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>enlightenment-data</b>'
+Comment='<span size="xx-large">Enlightenment data files</span>'
+Comment3='
+Contains data files for Enlightenment
+'
+License='BSD'
+Screenshot=''
+Url='http://enlightenment.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

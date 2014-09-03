@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>freetype-devel</b>'
+Comment='<span size="xx-large">FreeType development libraries and header files</span>'
+Comment3='
+The freetype-devel package includes the static libraries and header files
+for the FreeType font rendering engine.
+
+Install freetype-devel if you want to develop programs which will use
+FreeType.
+'
+License='(FTL or GPLv2+) and BSD and MIT and Public Domain and zlib with acknowledgement'
+Screenshot=''
+Url='http://www.freetype.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

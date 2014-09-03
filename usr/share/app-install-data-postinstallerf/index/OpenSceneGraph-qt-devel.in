@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>OpenSceneGraph-qt-devel</b>'
+Comment='<span size="xx-large">OSG Qt development files</span>'
+Comment3='
+Development files for OSG Qt bindings.
+
+URL          http//www.openscenegraph.org/
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.openscenegraph.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

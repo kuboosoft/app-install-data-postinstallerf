@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>smesh</b>'
+Comment='<span size="xx-large">OpenCascade based MESH framework</span>'
+Comment3='
+A complete OpenCascade based MESH framework.
+
+NOTE Fortran support (f2c) has been disabled. If it is needed please open a
+bug against the smesh component  at http//bugzilla.redhat.com
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://sourceforge.net/projects/salomesmesh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

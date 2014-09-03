@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gxine-mozplugin</b>'
+Comment='<span size="xx-large">Mozilla plugin for gxine</span>'
+Comment3='
+This plugin allows gxine to be embedded in a web browser.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xine-project.org/home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>setools-devel</b>'
+Comment='<span size="xx-large">Policy analysis development files for SELinux</span>'
+Comment3='
+SETools is a collection of graphical tools, command-line tools, and
+libraries designed to facilitate SELinux policy analysis.
+
+This package includes header files and archives for the following
+libraries
+  libapol       policy analysis library
+  libpoldiff    semantic policy difference library
+  libqpol       library that abstracts policy internals
+  libseaudit    parse and filter SELinux audit messages in log files
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://oss.tresys.com/projects/setools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>klt-devel</b>'
+Comment='<span size="xx-large">This package contains development files for klt</span>'
+Comment3='
+This package provides headers and shared libraries for klt
+
+URL          http//www.ces.clemson.edu/~stb/klt/index.html
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.ces.clemson.edu/~stb/klt/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

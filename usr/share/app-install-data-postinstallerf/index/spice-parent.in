@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spice-parent</b>'
+Comment='<span size="xx-large">Sonatype Spice Components</span>'
+Comment3='
+Spice components and libraries are common components
+used throughout the Sonatype Forge.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://svn.sonatype.org/spice/tags/spice-parent-15'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

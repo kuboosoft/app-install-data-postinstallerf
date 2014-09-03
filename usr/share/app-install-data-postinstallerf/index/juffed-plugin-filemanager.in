@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>juffed-plugin-filemanager</b>'
+Comment='<span size="xx-large">FileManager plugin for juffed</span>'
+Comment3='
+Simple filemanager dock plugin.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

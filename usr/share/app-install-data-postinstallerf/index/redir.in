@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>redir</b>'
+Comment='<span size="xx-large">Redirect TCP connections</span>'
+Comment3='
+a port redirector, used to forward incoming connections to somewhere else.
+by far the cleanest piece of code here, because someone else liked it
+enough to fix it.
+'
+License='GPL+'
+Screenshot=''
+Url='http://sammy.net/~sammy/hacks/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>why-xemacs-el</b>'
+Comment='<span size="xx-large">XEmacs source file for why support</span>'
+Comment3='
+This package contains the XEmacs source file for the XEmacs why support.
+This package is not needed to use the Emacs support.
+'
+License='LPGLv2 with exceptions'
+Screenshot=''
+Url='http://why.lri.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

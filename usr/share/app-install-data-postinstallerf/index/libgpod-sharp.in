@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgpod-sharp</b>'
+Comment='<span size="xx-large">C#/.NET library to access iPod content</span>'
+Comment3='
+C#/.NET library to access iPod content.  Provides bindings to the libgpod
+library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkpod.org/libgpod.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-greenlet</b>'
+Comment='<span size="xx-large">Lightweight in-process concurrent programming</span>'
+Comment3='
+The greenlet package is a spin-off of Stackless, a version of CPython
+that supports micro-threads called "tasklets". Tasklets run
+pseudo-concurrently (typically in a single or a few OS-level threads)
+and are synchronized with data exchanges on "channels".
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/greenlet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gst-editing-services</b>'
+Comment='<span size="xx-large">Gstreamer editing services</span>'
+Comment3='
+This is a high-level library for facilitating the creation of audio/video
+non-linear editors.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://cgit.freedesktop.org/gstreamer/gst-editing-services/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

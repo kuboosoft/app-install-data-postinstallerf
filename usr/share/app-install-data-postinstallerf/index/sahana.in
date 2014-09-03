@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sahana</b>'
+Comment='<span size="xx-large">Sahana is a free open source disaster management application</span>'
+Comment3='
+Sahana is a free and open source Disaster Management
+System.It mainly facilitates management of Missing people,
+disaster victims, Managing and administrating various
+organisations, managing camps and managing requests and
+assistance in the proper distribution of resources.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.sahana.lk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

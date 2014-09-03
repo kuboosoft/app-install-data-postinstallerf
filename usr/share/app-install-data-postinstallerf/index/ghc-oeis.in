@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-oeis</b>'
+Comment='<span size="xx-large">Interface to the Online Encyclopedia of Integer Sequences</span>'
+Comment3='
+Interface to the Online Encyclopedia of Integer Sequences.
+See <http//oeis.org/>.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/oeis'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-proto-list</b>'
+Comment='<span size="xx-large">A list of objects bound by prototype chain</span>'
+Comment3='
+A list of objects bound by prototype chain.  Used for the Node.js package
+manager (npm) configuration.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/isaacs/proto-list'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

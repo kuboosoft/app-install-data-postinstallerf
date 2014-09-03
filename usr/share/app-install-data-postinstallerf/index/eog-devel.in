@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>eog-devel</b>'
+Comment='<span size="xx-large">Support for developing plugins for the eog image viewer</span>'
+Comment3='
+The Eye of GNOME image viewer (eog) is the official image viewer for the
+GNOME desktop. This package allows you to develop plugins that add new
+functionality to eog.
+
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/eog/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

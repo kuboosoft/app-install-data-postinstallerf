@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sympy</b>'
+Comment='<span size="xx-large">A Python library for symbolic mathematics</span>'
+Comment3='
+SymPy aims to become a full-featured computer algebra system (CAS)
+while keeping the code as simple as possible in order to be
+comprehensible and easily extensible. SymPy is written entirely in
+Python and does not require any external libraries.
+'
+License='BSD'
+Screenshot=''
+Url='http://sympy.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

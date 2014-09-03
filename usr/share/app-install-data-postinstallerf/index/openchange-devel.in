@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openchange-devel</b>'
+Comment='<span size="xx-large">Developer tools for OpenChange libraries</span>'
+Comment3='
+This package provides the development tools and headers for
+OpenChange, providing libraries to access Microsoft Exchange servers
+using native protocols.
+
+'
+License='GPLv3+ and Public Domain'
+Screenshot=''
+Url='http://www.openchange.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

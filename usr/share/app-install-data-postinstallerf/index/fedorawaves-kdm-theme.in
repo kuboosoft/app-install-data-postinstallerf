@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fedorawaves-kdm-theme</b>'
+Comment='<span size="xx-large">Fedora Waves KDM theme</span>'
+Comment3='
+This package contains the Fedora Waves KDM theme that is the default
+theme in Fedora 9.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

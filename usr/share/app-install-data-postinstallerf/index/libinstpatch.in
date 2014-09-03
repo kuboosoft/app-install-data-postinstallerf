@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libinstpatch</b>'
+Comment='<span size="xx-large">MIDI instrument patch library</span>'
+Comment3='
+libInstPatch stands for lib-Instrument-Patch and is a library for processing
+digital sample based MIDI instrument "patch" files. The types of files
+libInstPatch supports are used for creating instrument sounds for wavetable
+synthesis. libInstPatch provides an object framework (based on GObject) to load
+patch files into, which can then be edited, converted, compressed and saved.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.swamiproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

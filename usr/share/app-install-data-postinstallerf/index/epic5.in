@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>epic5</b>'
+Comment='<span size="xx-large">Enhanced Programmable ircII Client</span>'
+Comment3='
+epic5 IRC client
+'
+License='BSD'
+Screenshot=''
+Url='http://www.epicsol.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

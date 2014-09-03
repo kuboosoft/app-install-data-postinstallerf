@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nes_ntsc</b>'
+Comment='<span size="xx-large">Provides a NES NTSC video filtering library</span>'
+Comment3='
+NES NTSC video filter library. Pixel artifacts and color mixing play an
+important role in NES games console graphics. Accepts pixels in native 6-bit
+NES palette format, or a 9-bit format that includes the three color emphasis
+bits in PPU register $2001. Can also output an RGB palette for use in a
+regular blitter
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.slack.net/~ant/libs/ntsc.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

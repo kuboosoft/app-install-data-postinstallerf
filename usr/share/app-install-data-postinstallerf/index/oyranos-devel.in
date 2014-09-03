@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>oyranos-devel</b>'
+Comment='<span size="xx-large">Development files for oyranos</span>'
+Comment3='
+This package contains development files for oyranos.
+
+URL          http//www.oyranos.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.oyranos.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

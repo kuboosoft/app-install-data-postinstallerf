@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-bottle</b>'
+Comment='<span size="xx-large">Fast and simple WSGI-framework for small web-applications</span>'
+Comment3='
+Bottle is a fast and simple micro-framework for small web-applications.
+It offers request dispatching (Routes) with URL parameter support, Templates,
+a built-in HTTP Server and adapters for many third party WSGI/HTTP-server and
+template engines. All in a single file and with no dependencies other than the
+Python Standard Library.
+'
+License='MIT'
+Screenshot=''
+Url='http://bottlepy.org'
+It offers request dispatching (Routes) with URL parameter support, Templates,'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

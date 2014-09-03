@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>glacier-cli</b>'
+Comment='<span size="xx-large">Command-line interface to Amazon Glacier</span>'
+Comment3='
+This tool provides a sysadmin-friendly command line interface to Amazon
+Glacier, turning Glacier into an easy-to-use storage backend. It automates
+tasks which would otherwise require a number of separate steps (job submission,
+polling for job completion and retrieving the results of jobs). It provides
+integration with git-annex, making Glacier even more useful.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/basak/glacier-cli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

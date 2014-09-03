@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libev</b>'
+Comment='<span size="xx-large">High-performance event loop/event model with lots of features</span>'
+Comment3='
+Libev is modeled (very loosely) after libevent and the Event Perl
+module, but is faster, scales better and is more correct, and also more
+featureful. And also smaller.
+
+'
+License='BSD or GPLv2+'
+Screenshot=''
+Url='http://software.schmorp.de/pkg/libev.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

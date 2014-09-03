@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gmetric4j</b>'
+Comment='<span size="xx-large">JVM instrumentation to Ganglia</span>'
+Comment3='
+Gmetric4j is a 100% java, configurable Ganglia agent that
+periodically polls arbitrary attributes and reports their
+values to Ganglia.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/ganglia/gmetric4j'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

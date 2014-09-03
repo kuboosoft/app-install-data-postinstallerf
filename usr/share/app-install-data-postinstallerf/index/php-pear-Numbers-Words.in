@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-pear-Numbers-Words</b>'
+Comment='<span size="xx-large">Methods for spelling numerals in words</span>'
+Comment3='
+With Numbers_Words class you can convert numbers written in Arabic digits to
+words in several languages.  You can convert an integer between -infinity and
+infinity.  If your system does not support such long numbers you can call
+Numbers_WordstoWords() with just a string.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Numbers_Words'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

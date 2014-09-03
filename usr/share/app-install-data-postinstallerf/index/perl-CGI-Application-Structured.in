@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Structured</b>'
+Comment='<span size="xx-large">Medium-weight, MVC, DB web framework</span>'
+Comment3='
+CGIApplicationStructured is an opinionated framework, based on
+CGIApplication. It takes the view that developer time and consistent
+projects structures can often be more cost-effective than focusing on the
+highest performance on low cost hosting solutions.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Structured/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

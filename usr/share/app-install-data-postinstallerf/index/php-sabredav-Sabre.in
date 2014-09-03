@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-sabredav-Sabre</b>'
+Comment='<span size="xx-large">Base for Sabre_DAV packages</span>'
+Comment3='
+The Base SabreDAV package provides some functionality used by all packages.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/sabredav'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

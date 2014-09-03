@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fusion-icon</b>'
+Comment='<span size="xx-large">Compiz Fusion panel applet</span>'
+Comment3='
+The Compiz Fusion Icon is a simple panel applet for starting and controlling
+Compiz Fusion. Upon launch, it will attempt to start Compiz Fusion
+automatically. You may need to select a window decorator, if one does not
+appear.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.compiz.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

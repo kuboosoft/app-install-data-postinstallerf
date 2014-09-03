@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-POE-Filter-HTTP-Parser</b>'
+Comment='<span size="xx-large">HTTP POE filter for HTTP clients or servers</span>'
+Comment3='
+POEFilterHTTPParser is a POEFilter for HTTP which is based on
+HTTPParser.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Filter-HTTP-Parser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

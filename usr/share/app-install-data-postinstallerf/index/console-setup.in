@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>console-setup</b>'
+Comment='<span size="xx-large">Tools for configuring the console using X Window System key maps</span>'
+Comment3='
+This package provides the console with the same keyboard configuration
+scheme that X Window System has. Besides the keyboard, the package configures
+also the font on the console.  It includes a rich collection of fonts and
+supports several languages that would be otherwise unsupported on the console
+(such as Armenian, Georgian, Lao and Thai).
+'
+License='GPLv2+ and MIT and Public Domain'
+Screenshot=''
+Url='http://packages.debian.org/cs/sid/console-setup'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

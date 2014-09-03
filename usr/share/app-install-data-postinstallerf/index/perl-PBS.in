@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-PBS</b>'
+Comment='<span size="xx-large">Perl binding for the Portable Batch System client library</span>'
+Comment3='
+This is a Perl binding for the Portable Batch System client library (as from
+TORQUE or OpenPBS).  This allows you to stat the server, nodes, or jobs, submit
+jobs, alter jobs, etc.
+
+Specifically, the ifl, rpp, and rm APIs are implemented here.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://www-rcf.usc.edu/~garrick/perl-PBS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

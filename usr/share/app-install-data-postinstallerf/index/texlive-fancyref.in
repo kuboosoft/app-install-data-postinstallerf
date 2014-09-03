@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-fancyref</b>'
+Comment='<span size="xx-large">A LaTeX package for fancy cross-referencing</span>'
+Comment3='
+Provides fancy cross-referencing support, based on the
+packages reference commands (\fref and \Fref) that recognise
+what sort of object is being referenced. So, for example, the
+label for a \section would be expected to be of the form
+secfoo the package would recognise the sec part.
+
+date 2006-12-05 172305 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

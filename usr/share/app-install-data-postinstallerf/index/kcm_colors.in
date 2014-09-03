@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>kcm_colors</b>'
+Comment='<span size="xx-large">Colors KDE Control Module</span>'
+Comment3='
+The Color Selection module is comprised of several sections
+* The Scheme tab, used to manage schemes
+* The Options tab, used to change the options of the current scheme
+* The Colors tab, used to change the colors of the current scheme
+* The state effects tabs (Inactive, Disabled)
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-workspace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

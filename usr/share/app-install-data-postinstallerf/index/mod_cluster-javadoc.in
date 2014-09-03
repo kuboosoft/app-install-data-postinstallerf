@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mod_cluster-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for mod_cluster</span>'
+Comment3='
+This package contains the API documentation for mod_cluster.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://jboss.org/mod_cluster'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

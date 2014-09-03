@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ethon</b>'
+Comment='<span size="xx-large">Libcurl wrapper</span>'
+Comment3='
+Very lightweight libcurl wrapper.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/typhoeus/ethon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

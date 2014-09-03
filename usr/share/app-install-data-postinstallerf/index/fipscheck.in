@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fipscheck</b>'
+Comment='<span size="xx-large">A library for integrity verification of FIPS validated modules</span>'
+Comment3='
+FIPSCheck is a library for integrity verification of FIPS validated
+modules. The package also provides helper binaries for creation and
+verification of the HMAC-SHA256 checksum files.
+'
+License='BSD'
+Screenshot=''
+Url='http://fedorahosted.org/fipscheck/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

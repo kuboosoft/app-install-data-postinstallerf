@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>Frodo</b>'
+Comment='<span size="xx-large">Commodore 64 emulator</span>'
+Comment3='
+Frodo V4.1 is a free, portable C64 emulator for BeOS, Unix, MacOS,
+AmigaOS, RiscOS and WinNT/95 systems.
+
+This emulator focuses on the exact reproduction of special graphical
+effects possible on the C64, and has therefore relatively high system
+requirements. It should only be run on systems with at least a
+PowerPC/Pentium/68060. Frodo is capable of running most games and
+demos correctly, even those with FLI, FLD, DYCP, open borders,
+multiplexed sprites, timing dependent decoders, fast loaders etc. 6510
+emulation All undocumented opcodes, 100 percent correct decimal mode,
+'
+License='Distributable'
+Screenshot=''
+Url='http://frodo.cebix.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

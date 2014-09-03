@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libcgroup-devel</b>'
+Comment='<span size="xx-large">Development libraries to develop applications that utilize control groups</span>'
+Comment3='
+It provides API to create/delete and modify cgroup nodes. It will also in the
+future allow creation of persistent configuration for control groups and
+provide scripts to manage that configuration.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libcg.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

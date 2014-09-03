@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-en</b>'
+Comment='<span size="xx-large">English hunspell dictionaries</span>'
+Comment3='
+English (US, UK, etc.) hunspell dictionaries
+'
+License='LGPLv2+ and LGPLv2 and BSD'
+Screenshot=''
+Url='http://wordlist.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

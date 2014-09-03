@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gramps</b>'
+Comment='<span size="xx-large">Genealogical Research and Analysis Management Programming System</span>'
+Comment3='
+gramps (Genealogical Research and Analysis Management Programming
+System) is a GNOME based genealogy program supporting a Python
+based plugin system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gramps-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

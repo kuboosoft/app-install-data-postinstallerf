@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>re2</b>'
+Comment='<span size="xx-large">C++ fast alternative to backtracking RE engines</span>'
+Comment3='
+RE2 is a C++ library providing a fast, safe, thread-friendly alternative to
+backtracking regular expression engines like those used in PCRE, Perl, and
+Python.
+
+Backtracking engines are typically full of features and convenient syntactic
+sugar but can be forced into taking exponential amounts of time on even small
+inputs.
+In contrast, RE2 uses automata theory to guarantee that regular expression
+searches run in time linear in the size of the input, at the expense of some
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/re2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

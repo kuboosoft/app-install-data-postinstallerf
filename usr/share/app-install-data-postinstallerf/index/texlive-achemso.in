@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-achemso</b>'
+Comment='<span size="xx-large">Support for American Chemical Society journal submissions</span>'
+Comment3='
+The bundle provides the official macros (achemso.cls) and
+BibTeX styles (achemso.bst and biochem.bst) for submission to
+the journals of the American Chemical Society. The natmove
+package, which moves citations relative to punctuation, is
+distributed as part of the bundle.
+
+date 2013-10-06 001746 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

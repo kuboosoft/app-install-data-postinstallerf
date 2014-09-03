@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>colorgcc</b>'
+Comment='<span size="xx-large">Script to colorize the compiler output</span>'
+Comment3='
+Perl script written by Jamie Moyers to colorize the terminal output of C++, CC,
+CCACHE, G++, GCC so error messages can be found within longer compiler outputs.
+'
+License='GPL+'
+Screenshot=''
+Url='http://schlueters.de/colorgcc.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

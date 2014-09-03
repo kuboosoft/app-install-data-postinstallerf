@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gsm-tools</b>'
+Comment='<span size="xx-large">GSM speech compressor tools</span>'
+Comment3='
+Contains command line utilities for libgsm, an implementation of
+the European GSM 06.10 provisional standard for full-rate speech
+transcoding, prI-ETS 300 036, which uses RPE/LTP (residual pulse
+excitation/long term prediction) coding at 13 kbit/s.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.quut.com/gsm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

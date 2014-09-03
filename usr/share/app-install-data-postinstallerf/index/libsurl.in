@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libsurl</b>'
+Comment='<span size="xx-large">A library for generating shortened URLs</span>'
+Comment3='
+libsurl is a library for generating short urls (using various online
+services like tinyurl.com and bit.ly) suited to use where space is
+limited, such as in status messages.
+surl is available as a separate package and the command-line interface
+to libsurl, providing most of the functionality in libsurl as well as
+additional functionality likely to be of use to command-line users.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://libsurl.sourceforge.net/'
+Summary     : A library for generating shortened URLs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

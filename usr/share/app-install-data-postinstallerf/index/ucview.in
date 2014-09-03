@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ucview</b>'
+Comment='<span size="xx-large">Image and video capture application using unicap toolkit</span>'
+Comment3='
+UCView is a video image capture application using the unicap toolkit.
+It provides a simple way to parametrise the video device, can capture
+still images from the video stream or record the stream as mpeg file.
+By using unicap, it can access many different video capture devices
+like webcams, video grabber boards, IEEE-1394 (FireWire) cameras and
+others.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.unicap-imaging.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

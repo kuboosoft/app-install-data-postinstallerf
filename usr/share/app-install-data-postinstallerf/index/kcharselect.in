@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kcharselect</b>'
+Comment='<span size="xx-large">Character selector</span>'
+Comment3='
+KCharSelect is a tool to select special characters from all installed
+fonts and copy them into the clipboard.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://utils.kde.org/projects/kcharselect'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

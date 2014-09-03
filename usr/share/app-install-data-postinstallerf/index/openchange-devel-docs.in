@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openchange-devel-docs</b>'
+Comment='<span size="xx-large">Developer documentation for OpenChange libraries</span>'
+Comment3='
+This package contains developer documentation for Openchange.
+'
+License='GPLv3+ and Public Domain'
+Screenshot=''
+Url='http://www.openchange.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

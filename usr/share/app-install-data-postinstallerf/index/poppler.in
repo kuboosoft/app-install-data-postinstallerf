@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>poppler</b>'
+Comment='<span size="xx-large">PDF rendering library</span>'
+Comment3='
+Poppler, a PDF rendering library, is a fork of the xpdf PDF
+viewer developed by Derek Noonburg of Glyph and Cog, LLC.
+
+'
+License='(GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://poppler.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

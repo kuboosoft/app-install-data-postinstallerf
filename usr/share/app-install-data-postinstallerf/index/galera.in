@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>galera</b>'
+Comment='<span size="xx-large">Synchronous multi-master wsrep provider (replication engine)</span>'
+Comment3='
+Galera is a fast synchronous multi-master wsrep provider (replication engine)
+for transactional databases and similar applications. For more information
+about wsrep API see http//launchpad.net/wsrep. For a description of Galera
+replication engine see http//www.codership.com.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.codership.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

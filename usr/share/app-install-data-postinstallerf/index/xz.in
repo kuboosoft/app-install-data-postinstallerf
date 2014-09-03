@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xz</b>'
+Comment='<span size="xx-large">LZMA compression utilities</span>'
+Comment3='
+XZ Utils are an attempt to make LZMA compression easy to use on free (as in
+freedom) operating systems. This is achieved by providing tools and libraries
+which are similar to use than the equivalents of the most popular existing
+compression algorithms.
+
+LZMA is a general purpose compression algorithm designed by Igor Pavlov as
+part of 7-Zip. It provides high compression ratio while keeping the
+decompression speed fast.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tukaani.org/xz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

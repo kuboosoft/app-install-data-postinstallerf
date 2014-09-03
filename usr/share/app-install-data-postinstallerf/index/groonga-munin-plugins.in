@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>groonga-munin-plugins</b>'
+Comment='<span size="xx-large">Munin plugins for Groonga</span>'
+Comment3='
+Munin plugins for Groonga
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://groonga.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

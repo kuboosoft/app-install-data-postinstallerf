@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>aspectjweaver-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for aspectjweaver</span>'
+Comment3='
+API documentation for Javadoc for aspectjweaver.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/aspectj/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

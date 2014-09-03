@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n qmpdclient
+Type=Application
+Name=QMPDClient
+GenericName=Qt4 based MPD client
+Comment=A nicer MPD client
+Categories=Qt;Network;Music;
+Icon=/usr/share/app-install-data-postinstallerf/icons/qmpdclient.png
+Terminal=false

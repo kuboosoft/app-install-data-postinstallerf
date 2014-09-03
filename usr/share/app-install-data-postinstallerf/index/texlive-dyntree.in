@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-dyntree</b>'
+Comment='<span size="xx-large">Construct Dynkin tree diagrams</span>'
+Comment3='
+The package is intended for users needing to typeset a Dynkin
+cartan coefficients in boxes connected by a series of lines.
+Such a diagram is a tool for working out the states and their
+weights in terms of the fundamental weights and the simple
+roots. The package makes use of the authors coollist package.
+
+date 2007-03-05 220245 +0100
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

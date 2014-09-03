@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gimp-gap</b>'
+Comment='<span size="xx-large">The GIMP Animation Package</span>'
+Comment3='
+The GIMP-GAP (GIMP Animation Package) is a collection of Plug-Ins to
+extend GIMP with capabilities to edit and create animations as
+sequences of single frames.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/GNOME/gimp-gap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

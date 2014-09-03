@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jpfcodegen</b>'
+Comment='<span size="xx-large">A tool for generating classes from JPF plug-ins</span>'
+Comment3='
+JPF Code Generator is a handy little tool that generates classes for
+accessing the attributes and extensions of JPF plug-ins from plugin.xml
+files. This has the advantage of providing a strongly typed access to the
+plug-in and simplifies working with plug-ins.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://page.mi.fu-berlin.de/oezbek/jpf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

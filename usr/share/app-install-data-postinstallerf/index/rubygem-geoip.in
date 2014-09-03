@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-geoip</b>'
+Comment='<span size="xx-large">Search a GeoIP database for an IP address</span>'
+Comment3='
+GeoIP searches a GeoIP database for a given host or IP address, and
+returns information about the country where the IP address is allocated,
+and the city, ISP and other information, if you have that database version.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/cjheath/geoip'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

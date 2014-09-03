@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>listen</b>'
+Comment='<span size="xx-large">A music manager and player for GNOME</span>'
+Comment3='
+Listen is an intuitive music player for GNOME written in Python.
+Thanks to it, you can easily organize your music collection.
+It supports many features such as podcats, daap sharing, crossfades,
+access to lyrics and wikipedia, sync with media players, Jamendo etc...
+Listen can be extended with plugins.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.listen-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

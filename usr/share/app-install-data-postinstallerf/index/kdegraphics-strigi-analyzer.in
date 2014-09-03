@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdegraphics-strigi-analyzer</b>'
+Comment='<span size="xx-large">Strigi analyzers for various graphic types</span>'
+Comment3='
+Strigi analyzers for various graphic types, including dvi, tiff.
+'
+License='LGPLv2+ and GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/kdegraphics-strigi-analyzer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

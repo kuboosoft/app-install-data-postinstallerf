@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gallery2-digibug</b>'
+Comment='<span size="xx-large">Digibug module for Gallery 2</span>'
+Comment3='
+Gallery 2 module - Digibug module for Gallery2
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gallery.menalto.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

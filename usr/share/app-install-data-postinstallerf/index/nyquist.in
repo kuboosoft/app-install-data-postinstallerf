@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nyquist</b>'
+Comment='<span size="xx-large">Sound synthesis and composition language with a Lisp syntax</span>'
+Comment3='
+Nyquist is a language for sound synthesis and music
+composition. Unlike score languages that tend to deal only with
+events, or signal processing languages that tend to deal only with
+signals and synthesis, Nyquist handles both in a single integrated
+system. Nyquist is also flexible and easy to use because it is based
+on an interactive Lisp interpreter.
+'
+License='BSD'
+Screenshot=''
+Url='http://www-2.cs.cmu.edu/~music/music.software.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

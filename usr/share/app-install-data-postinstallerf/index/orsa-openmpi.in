@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>orsa-openmpi</b>'
+Comment='<span size="xx-large">A build of orsa with support for OpenMPI</span>'
+Comment3='
+This package contains a build of orsa with support for OpenMPI.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://orsa.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

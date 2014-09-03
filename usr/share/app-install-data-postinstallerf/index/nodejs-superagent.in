@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-superagent</b>'
+Comment='<span size="xx-large">A small, progressive client-side HTTP request library</span>'
+Comment3='
+A small, progressive client-side HTTP request library crafted for flexibility,
+readability, and a low learning curve.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/superagent'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

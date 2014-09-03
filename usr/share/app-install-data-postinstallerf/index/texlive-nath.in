@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-nath</b>'
+Comment='<span size="xx-large">Natural mathematics notation</span>'
+Comment3='
+Nath is a LaTeX (both 2e and 2.09) style to separate
+presentation and content in mathematical typography. The style
+delivers a particular context-dependent presentation on the
+basis of a rather coarse context-independent notation.
+Highlighted features depending on the context, the command
+\frac produces either built-up or case or solidus fractions,
+with parentheses added whenever required for preservation of
+the mathematical meaning; delimiters adapt their size to the
+material enclosed, rendering \left and \right almost obsolete.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

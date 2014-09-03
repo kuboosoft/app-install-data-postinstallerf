@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-django-bootstrap-toolkit</b>'
+Comment='<span size="xx-large">Bootstrap support for Django projects</span>'
+Comment3='
+Django Toolkit for integration with Twitters Bootstrap
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/django-bootstrap-toolkit/2.15.0'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

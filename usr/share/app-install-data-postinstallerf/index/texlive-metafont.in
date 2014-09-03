@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-metafont</b>'
+Comment='<span size="xx-large">A system for specifying fonts</span>'
+Comment3='
+The program takes a semi-algorithmic specification of a font,
+and produces a bitmap font (whose properties are defined by a
+set of parameters of the target device), and a set metrics for
+use by TeX. The bitmap output may be converted into a format
+directly usable by a device driver, etc., by the tools provided
+in the parallel mfware distribution. (Third parties have
+developed tools to convert the bitmap output to outline fonts.)
+The distribution includes the source of Knuths Metafont book;
+it should not be processed without Knuths direct permission.
+'
+License='Knuth'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

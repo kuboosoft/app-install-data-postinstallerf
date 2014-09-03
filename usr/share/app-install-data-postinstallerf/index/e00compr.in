@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>e00compr</b>'
+Comment='<span size="xx-large">Library to compress and uncompress E00 files</span>'
+Comment3='
+ANSI-C library to compress and uncompress Arc/Info Export (E00) files.
+The package also contains a converter binary.
+'
+License='MIT'
+Screenshot=''
+Url='http://avce00.maptools.org/e00compr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

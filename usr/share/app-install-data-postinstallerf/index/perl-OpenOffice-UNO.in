@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-OpenOffice-UNO</b>'
+Comment='<span size="xx-large">Interface to OpenOffices UNO run-time</span>'
+Comment3='
+A bridge to the OpenOffice.org API.
+'
+License='LGPLv2+ and SISSL'
+Screenshot=''
+Url='http://search.cpan.org/dist/OpenOffice-UNO/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

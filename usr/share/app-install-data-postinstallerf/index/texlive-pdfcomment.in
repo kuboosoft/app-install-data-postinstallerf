@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pdfcomment</b>'
+Comment='<span size="xx-large">A user-friendly interface to pdf annotations</span>'
+Comment3='
+For a long time pdfLaTeX has offered the command \pdfannot for
+inserting arbitrary PDF annotations. However, the command is
+presented in a form where additional knowledge of the
+definition of the PDF format is indispensable. This package is
+an answer to the - occasional - questions in newsgroups, about
+how one could use the comment function of Adobe Reader. At
+least for the writer of LaTeX code, the package offers a
+convenient and user-friendly means of using \pdfannot to
+provide comments in PDF files. Since version v1.1,
+pdfcomment.sty also supports LaTeX - dvips - ps2pdf, LaTeX -
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

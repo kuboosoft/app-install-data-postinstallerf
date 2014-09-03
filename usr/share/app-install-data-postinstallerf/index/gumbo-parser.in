@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gumbo-parser</b>'
+Comment='<span size="xx-large">A HTML5 parser</span>'
+Comment3='
+Gumbo is an implementation of the HTML5 parsing algorithm implemented as
+a pure C99 library with no outside dependencies. Its designed to serve
+as a building block for other tools and libraries such as linters,
+validators, templating languages, and refactoring and analysis tools.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/google/gumbo-parser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

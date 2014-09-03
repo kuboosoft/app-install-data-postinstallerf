@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-wifi</b>'
+Comment='<span size="xx-large">Python binding for the wireless extensions</span>'
+Comment3='
+Python-Wifi is a Python library that provides access to information about a
+W-LAN cards capabilities, like the wireless extensions written in C.
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='https://developer.berlios.de/projects/pythonwifi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

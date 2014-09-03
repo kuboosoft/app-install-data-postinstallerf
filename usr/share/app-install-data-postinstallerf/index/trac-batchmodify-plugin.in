@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>trac-batchmodify-plugin</b>'
+Comment='<span size="xx-large">Batch modification of tickets</span>'
+Comment3='
+A trac plugin that allows users to modify several tickets
+together in one shot.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/BatchModifyPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

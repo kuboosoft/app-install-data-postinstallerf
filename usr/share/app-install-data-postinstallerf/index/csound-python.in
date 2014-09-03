@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>csound-python</b>'
+Comment='<span size="xx-large">Python Csound development files and libraries</span>'
+Comment3='
+Contains Python language bindings for developing Python applications that
+use Csound.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://csound.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

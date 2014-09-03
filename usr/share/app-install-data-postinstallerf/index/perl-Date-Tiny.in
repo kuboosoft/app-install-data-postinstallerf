@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Date-Tiny</b>'
+Comment='<span size="xx-large">Date object with as little code as possible</span>'
+Comment3='
+DateTiny is a member of the DateTimeTiny suite of time modules.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Date-Tiny/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

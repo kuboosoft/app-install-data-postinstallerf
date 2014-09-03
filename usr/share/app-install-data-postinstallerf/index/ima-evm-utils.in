@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ima-evm-utils</b>'
+Comment='<span size="xx-large">IMA/EVM support utilities</span>'
+Comment3='
+The Trusted Computing Group(TCG) run-time Integrity Measurement Architecture
+(IMA) maintains a list of hash values of executables and other sensitive
+system files, as they are read or executed. These are stored in the file
+systems extended attributes. The Extended Verification Module (EVM) prevents
+unauthorized changes to these extended attributes on the file system.
+ima-evm-utils is used to prepare the file system for these extended attributes.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://linux-ima.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pptpd</b>'
+Comment='<span size="xx-large">PoPToP Point to Point Tunneling Server</span>'
+Comment3='
+This implements a Virtual Private Networking Server (VPN) that is
+compatible with Microsoft VPN clients. It allows windows users to
+connect to an internal firewalled network using their dialup.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://poptop.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

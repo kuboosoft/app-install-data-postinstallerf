@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fb303-java</b>'
+Comment='<span size="xx-large">Java bindings for fb303</span>'
+Comment3='
+The fb303-java package contains Java bindings for fb303.
+'
+License='ASL 2.0 and BSD and zlib'
+Screenshot=''
+Url='http://thrift.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

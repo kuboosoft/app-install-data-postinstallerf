@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-block-stream</b>'
+Comment='<span size="xx-large">A stream of blocks</span>'
+Comment3='
+Write data into it, and itll output data in buffer blocks the size you
+specify, padding with zeroes if necessary.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/isaacs/block-stream'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

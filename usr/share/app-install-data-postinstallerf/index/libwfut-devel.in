@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwfut-devel</b>'
+Comment='<span size="xx-large">Development files for libwfut library</span>'
+Comment3='
+Development libraries and headers for linking against the libwfut library.
+
+URL          http//www.worldforge.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.worldforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

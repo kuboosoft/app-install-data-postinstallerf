@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>soscleaner</b>'
+Comment='<span size="xx-large">To clean and filter sensitive data from a standard sosreport</span>'
+Comment3='
+SOSCleaner helps filter out controlled or sensitive data from an SOSReport
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/jduncan-rva/SOSCleaner'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

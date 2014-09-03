@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-symfony-dependencyinjection</b>'
+Comment='<span size="xx-large">Symfony DependencyInjection Component</span>'
+Comment3='
+The Dependency Injection component allows you to standardize and centralize
+the way objects are constructed in your application.
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com/doc/current/components/dependency_injection/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

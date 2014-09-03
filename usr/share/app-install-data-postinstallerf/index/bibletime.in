@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>bibletime</b>'
+Comment='<span size="xx-large">An easy to use Bible study tool</span>'
+Comment3='
+BibleTime is a free and easy to use cross-platform bible study tool.
+
+BibleTime provides easy handling of digitalized texts (Bibles,
+commentaries and lexicons) and powerful features to work with these
+texts (search in texts, write own notes, save, print etc.).
+BibleTime is a frontend for the SWORD Bible Framework.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.bibletime.info/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

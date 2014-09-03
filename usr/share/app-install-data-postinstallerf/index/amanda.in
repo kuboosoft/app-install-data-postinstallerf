@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>amanda</b>'
+Comment='<span size="xx-large">A network-capable tape backup solution</span>'
+Comment3='
+AMANDA, the Advanced Maryland Automatic Network Disk Archiver, is a
+backup system that allows the administrator of a LAN to set up a
+single master backup server to back up multiple hosts to one or more
+tape drives or disk files.  AMANDA uses native dump and/or GNU tar
+facilities and can back up a large number of workstations running
+multiple versions of Unix.  Newer versions of AMANDA (including this
+version) can use SAMBA to back up Microsoft(TM) Windows95/NT hosts.
+The amanda package contains the core AMANDA programs and will need to
+be installed on both AMANDA clients and AMANDA servers.  Note that you
+will have to install the amanda-client and/or amanda-server packages as
+'
+License='BSD and GPLv3+ and GPLv2+ and GPLv2'
+Screenshot=''
+Url='http://www.amanda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

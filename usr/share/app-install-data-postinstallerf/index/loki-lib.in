@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>loki-lib</b>'
+Comment='<span size="xx-large">Loki C++ Library of design patterns and idioms</span>'
+Comment3='
+A C++ library of designs, containing flexible implementations of common design
+patterns and idioms.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/loki-lib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

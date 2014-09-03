@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-gasp</b>'
+Comment='<span size="xx-large">API wrapper on top of pygame</span>'
+Comment3='
+GASP provides a simple, procedural graphics API for beginning
+students using Python.
+
+It allows for the easy creation of 1980s style games with litle
+or no prior programming experince.
+It is a wrapper around pygame.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://launchpad.net/gasp-core'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

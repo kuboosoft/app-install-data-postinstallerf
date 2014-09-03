@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>QtDMM</b>'
+Comment='<span size="xx-large">A digital multimeter readout software</span>'
+Comment3='
+QtDMM is a DMM readout software including a configurable recorder.
+The recorder features manual start, scheduled start (at a given time),
+triggered automatic start when given thresholds are reached, and the
+ability to display more than one value from the multimeter.
+It was written for Metex (and compatible like VOLTCRAFT) multimeter
+which use an 14 byte protocol. Later several more protocols have been added.
+For more information on the currently supported DMMs have a look at
+the preset table.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mtoussaint.de/qtdmm.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

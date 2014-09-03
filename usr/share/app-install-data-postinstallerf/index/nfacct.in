@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nfacct</b>'
+Comment='<span size="xx-large">Command line tool to create/retrieve/delete accounting objects</span>'
+Comment3='
+Nfacct is the command line tool to create/retrieve/delete accounting objects.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.netfilter.org/projects/nfacct/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

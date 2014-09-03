@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>icu4j-charset</b>'
+Comment='<span size="xx-large">Charset sublibrary of icu4j</span>'
+Comment3='
+Charset sublibrary of icu4j.
+'
+License='MIT and EPL'
+Screenshot=''
+Url='http://site.icu-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

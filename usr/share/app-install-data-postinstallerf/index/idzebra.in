@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>idzebra</b>'
+Comment='<span size="xx-large">High performance structured text indexing and retrieval engine</span>'
+Comment3='
+Zebra is a high-performance, general-purpose structured text indexing
+and retrieval engine. It reads structured records in a variety of input
+formats (such as email, XML, and MARC) and allows access to them through
+exact Boolean search expressions and relevance-ranked free-text queries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.indexdata.dk/zebra/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

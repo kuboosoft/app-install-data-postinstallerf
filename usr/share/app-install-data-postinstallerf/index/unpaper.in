@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>unpaper</b>'
+Comment='<span size="xx-large">Post-processing of scanned and photocopied book pages</span>'
+Comment3='
+unpaper is a post-processing tool for scanned sheets of paper, especially for
+book pages that have been scanned from previously created photocopies. The
+main purpose is to make scanned book pages better readable on screen after
+conversion to PDF. Additionally, unpaper might be useful to enhance the
+quality of scanned pages before performing optical character recognition (OCR).
+unpaper tries to clean scanned images by removing dark edges that appeared
+through scanning or copying on areas outside the actual page content (e.g. dark
+areas between the left-hand-side and the right-hand-side of a double- sided
+book-page scan). The program also tries to detect disaligned centering and
+rotation of pages and will automatically straighten each page by rotating it to
+'
+License='GPL+'
+Screenshot=''
+Url='http://unpaper.berlios.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

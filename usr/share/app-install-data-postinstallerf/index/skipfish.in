@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>skipfish</b>'
+Comment='<span size="xx-large">Web application security scanner</span>'
+Comment3='
+High-performance, easy, and sophisticated Web application security testing
+tool. It features a single-threaded multiplexing HTTP stack, heuristic
+detection of obscure Web frameworks, and advanced, differential security
+checks capable of detecting blind injection vulnerabilities, stored XSS,
+and so forth.
+'
+License='ASL 2.0 and BSD and LGPLv3'
+Screenshot=''
+Url='http://code.google.com/p/skipfish/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

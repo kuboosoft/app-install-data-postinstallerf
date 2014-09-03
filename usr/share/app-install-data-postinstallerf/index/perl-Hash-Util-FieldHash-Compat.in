@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Hash-Util-FieldHash-Compat</b>'
+Comment='<span size="xx-large">Use Hash::Util::FieldHash or ties, depending on availability</span>'
+Comment3='
+Under older perls this module provides a drop in compatible API to
+HashUtilFieldHash using perltie. When HashUtilFieldHash is
+available, it will use that instead.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Hash-Util-FieldHash-Compat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

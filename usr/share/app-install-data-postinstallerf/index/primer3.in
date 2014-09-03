@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>primer3</b>'
+Comment='<span size="xx-large">PCR primer design tool</span>'
+Comment3='
+Primer3 is a widely used program for designing PCR primers (PCR =
+"Polymerase Chain Reaction"). PCR is an essential and ubiquitous
+tool in genetics and molecular biology. Primer3 can also design
+hybridization probes and sequencing primers.
+
+PCR is used for many different goals. Consequently, primer3 has
+many different input parameters that you control and that tell
+primer3 exactly what characteristics make good primers for your goals.
+'
+License='BSD and GPLv2+'
+Screenshot=''
+Url='http://primer3.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>demorse</b>'
+Comment='<span size="xx-large">Command line tool for decoding Morse code signals</span>'
+Comment3='
+demorse is a non-interactive command line tool for decoding Morse code signals
+into text. demorse detects the "dihs" and "dahs" that make a Morse code
+character via the computers sound card, which can be connected to a radio
+receiver tuned to a CW Morse code transmission or to a tone generator.
+
+The input signal is processed by a Goertzel tone detector which produces "mark"
+or "space" (signal/no signal) outputs and the resulting stream of Morse code
+"elements" is decoded into an ASCII character for printing to the screen.
+Currently demorse is a non- interactive command line tool for the console and
+decoded Morse signals are sent to stdout.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.qsl.net/5b4az/pages/morse.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

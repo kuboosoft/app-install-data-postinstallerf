@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>stapler-groovy</b>'
+Comment='<span size="xx-large">Groovy module for stapler</span>'
+Comment3='
+This package contains Groovy module for stapler.
+'
+License='BSD and ASL 2.0'
+Screenshot=''
+Url='http://stapler.kohsuke.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

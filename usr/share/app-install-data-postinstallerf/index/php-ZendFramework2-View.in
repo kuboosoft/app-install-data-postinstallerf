@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-View</b>'
+Comment='<span size="xx-large">Zend Framework 2: View Component</span>'
+Comment3='
+Zend\View provides the ?View? layer of Zend Framework 2?s MVC system. It
+is a multi-tiered system allowing a variety of mechanisms for extension,
+substitution, and more.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.view.quick-start.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

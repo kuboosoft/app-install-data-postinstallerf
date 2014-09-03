@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gmime22</b>'
+Comment='<span size="xx-large">Library for creating and parsing MIME messages</span>'
+Comment3='
+The GMime suite provides a core library and set of utilities which may be
+used for the creation and parsing of messages using the Multipurpose
+Internet Mail Extension (MIME).
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://spruce.sourceforge.net/gmime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

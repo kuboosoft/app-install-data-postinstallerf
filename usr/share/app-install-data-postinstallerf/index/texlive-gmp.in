@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-gmp</b>'
+Comment='<span size="xx-large">Allow integration between MetaPost pictures and LaTeX</span>'
+Comment3='
+The package allows integration between MetaPost pictures and
+LaTeX. The main feature is that passing parameters to the
+MetaPost pictures is possible and the picture code can be put
+inside arguments to commands, including \newcommand.
+
+date 2011-03-11 000227 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

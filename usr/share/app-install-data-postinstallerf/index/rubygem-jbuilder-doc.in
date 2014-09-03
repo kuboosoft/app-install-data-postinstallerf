@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-jbuilder-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-jbuilder</span>'
+Comment3='
+Documentation for rubygem-jbuilder.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rails/jbuilder'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

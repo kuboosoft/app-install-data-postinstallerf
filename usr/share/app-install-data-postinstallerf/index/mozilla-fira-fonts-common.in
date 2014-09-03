@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mozilla-fira-fonts-common</b>'
+Comment='<span size="xx-large">Common files for Mozillas Fira font set</span>'
+Comment3='
+
+Originally designed to integrate with the character of Firefox OS, Fira is a
+new set of sans-serif fonts which focuses on legibility.
+This package consists of files used by other mozilla-fira-fonts packages.
+'
+License='OFL'
+Screenshot=''
+Url='https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

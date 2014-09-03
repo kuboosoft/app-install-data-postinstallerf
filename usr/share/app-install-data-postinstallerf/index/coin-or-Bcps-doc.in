@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>coin-or-Bcps-doc</b>'
+Comment='<span size="xx-large">Documentation files for coin-or-Bcps</span>'
+Comment3='
+This package contains the documentation for coin-or-Bcps.
+'
+License='EPL'
+Screenshot=''
+Url='http://projects.coin-or.org/CHiPPS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

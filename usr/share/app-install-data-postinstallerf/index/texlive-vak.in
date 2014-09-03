@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-vak</b>'
+Comment='<span size="xx-large">BibTeX style for Russian Theses, books, etc</span>'
+Comment3='
+The file can be used to format the bibliographies of PhD
+theses, books etc., according to the latest Russian standards
+GOST 7.82 - 2001 and GOST 7.1 - 2003. It introduces the minimum
+number of new entries and styles to cover all frequently used
+situations. The style file provides an easy way to perform a
+semiautomatic, or a completely manual sort of the list of the
+references. Processing bibliographies produced by the style
+requires a 8-bit BibTeX system.
+
+date 2011-07-04 163307 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-oauth</b>'
+Comment='<span size="xx-large">An Erlang OAuth implementation</span>'
+Comment3='
+An Erlang OAuth implementation.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/tim/erlang-oauth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

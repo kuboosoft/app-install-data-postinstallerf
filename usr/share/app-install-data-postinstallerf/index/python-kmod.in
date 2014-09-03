@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-kmod</b>'
+Comment='<span size="xx-large">Python module to work with kernel modules</span>'
+Comment3='
+Python module to allow listing, loading, and unloading
+Linux kernel modules, using libkmod.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/agrover/python-kmod/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

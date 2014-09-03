@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ebook-tools-libs</b>'
+Comment='<span size="xx-large">Libraries for ebook-tools</span>'
+Comment3='
+The ebook-tools-libs package contains libraries to be used by
+ebook-tools and others.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/ebook-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

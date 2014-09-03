@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-gtrcrd</b>'
+Comment='<span size="xx-large">Add chords to lyrics</span>'
+Comment3='
+The package provides the means to specify guitar chords to be
+played with each part of the lyrics of a song. The syntax of
+the macros reduces the chance of failing to provide a chord
+where one is needed, and the structure of the macros ensures
+that the chord specification appears immediately above the
+start of the lyric.
+
+date 2013-12-25 083041 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

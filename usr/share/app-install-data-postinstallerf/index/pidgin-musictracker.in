@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pidgin-musictracker</b>'
+Comment='<span size="xx-large">Musictracker plug-in for Pidgin</span>'
+Comment3='
+Musictracker is a plug-in for Pidgin which displays the media currently
+playing in the status message for any protocol Pidgin supports custom
+statuses on.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/pidgin-musictracker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

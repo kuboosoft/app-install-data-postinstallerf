@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rcssserver-gui</b>'
+Comment='<span size="xx-large">A simple way to run 2D Soccer Simulation on a single machine</span>'
+Comment3='
+This package contains rcsoccersim script as simple way for
+running 2D Soccer Simulation on a single machine. Itll also
+provide a menu entry for this script.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/sserver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

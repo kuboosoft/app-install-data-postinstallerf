@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>freeDiameter</b>'
+Comment='<span size="xx-large">A Diameter protocol open implementation</span>'
+Comment3='
+freeDiameter is an open source Diameter protocol implementation. It provides
+an extensible platform for deploying a Diameter network for your
+Authentication, Authorization and Accounting needs.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.freediameter.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

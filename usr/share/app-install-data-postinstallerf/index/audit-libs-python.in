@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>audit-libs-python</b>'
+Comment='<span size="xx-large">Python bindings for libaudit</span>'
+Comment3='
+The audit-libs-python package contains the bindings so that libaudit
+and libauparse can be used by python.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://people.redhat.com/sgrubb/audit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

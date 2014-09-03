@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-lcms</b>'
+Comment='<span size="xx-large">Python interface to LittleCMS</span>'
+Comment3='
+Python interface to LittleCMS.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.littlecms.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

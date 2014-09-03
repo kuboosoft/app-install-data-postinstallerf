@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-user-docs</b>'
+Comment='<span size="xx-large">GNOME User Documentation</span>'
+Comment3='
+This package contains end-user documentation for the GNOME desktop
+environment.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://help.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

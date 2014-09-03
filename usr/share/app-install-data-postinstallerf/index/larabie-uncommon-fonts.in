@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>larabie-uncommon-fonts</b>'
+Comment='<span size="xx-large">Larabie TrueType Uncommon Fonts</span>'
+Comment3='
+
+Larabie Fonts offer hundreds of free fonts for personal and commercial use in
+TrueType format. They consist of three collections "decorative", "straight",
+"uncommon" fonts, created by Ray Larabie.
+This package contains less common fonts which are beautiful for special
+decorations and headlines.
+'
+License='Larabie Fonts License'
+Screenshot=''
+Url='http://www.larabiefonts.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

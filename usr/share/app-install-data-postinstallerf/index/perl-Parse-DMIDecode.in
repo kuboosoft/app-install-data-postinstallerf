@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Parse-DMIDecode</b>'
+Comment='<span size="xx-large">Interface to SMBIOS using dmidecode</span>'
+Comment3='
+This module provides an OO interface to SMBIOS information through the
+dmidecode command which is known to work under a number of Linux, BSD and
+BeOS variants.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Parse-DMIDecode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

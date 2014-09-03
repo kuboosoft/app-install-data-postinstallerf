@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>electric-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for electric</span>'
+Comment3='
+This package contains the API documentation for electric.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.staticfreesoft.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

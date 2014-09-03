@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>QsLog</b>'
+Comment='<span size="xx-large">An easy to use logger that is based on Qts QDebug class</span>'
+Comment3='
+QsLog is an easy to use logger that is based on Qts QDebug class.
+Features
+* Six logging levels (from trace to fatal)
+* Logging level threshold configurable at runtime.
+* Minimum overhead when logging is turned off.
+* Supports multiple destinations, comes with file and debug destinations.
+* Thread-safe
+* Supports logging of common Qt types out of the box.
+
+'
+License='BSD'
+Screenshot=''
+Url='https://bitbucket.org/razvanpetru/qt-components/wiki/QsLog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

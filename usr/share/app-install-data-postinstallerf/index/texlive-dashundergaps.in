@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-dashundergaps</b>'
+Comment='<span size="xx-large">Underline with dotted or dashed lines</span>'
+Comment3='
+The package provides commands (\underline, \dotuline and
+\dashuline) each of which underlines its argument with one of
+the styles the package is capable of. A phantom mode is
+provided, where the underline (of whatever form) can serve for
+a fill-in block for student evaluation sheets.
+
+date 2010-01-23 001517 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

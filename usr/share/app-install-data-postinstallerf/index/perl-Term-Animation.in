@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Term-Animation</b>'
+Comment='<span size="xx-large">ASCII sprite animation framework</span>'
+Comment3='
+This module provides a framework to produce sprite animations using ASCII art.
+Each ASCII sprite is given one or more frames, and placed into the animation
+as an animation object. An animation object can have a callback routine that
+controls the position and frame of the object.
+
+If the constructor is passed no arguments, it assumes that it is running full
+screen, and behaves accordingly. Alternatively, it can accept a curses window
+(created with the Curses new win call) as an argument, and will draw into that
+window.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/perl-Term-Animation/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

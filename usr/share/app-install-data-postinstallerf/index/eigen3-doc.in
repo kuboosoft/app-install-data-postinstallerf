@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eigen3-doc</b>'
+Comment='<span size="xx-large">Developer documentation for Eigen</span>'
+Comment3='
+Developer documentation for Eigen.
+'
+License='MPLv2.0 and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://eigen.tuxfamily.org/index.php?title=Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

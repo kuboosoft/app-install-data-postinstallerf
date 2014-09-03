@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-latexpand</b>'
+Comment='<span size="xx-large">Expand \input and \include in a LaTeX document</span>'
+Comment3='
+Latexpand is a Perl script that simply replaces \input and
+\include commands with the content of the file input/included.
+The script does not deal with \includeonly commands.
+
+date 2013-08-21 143104 +0200
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

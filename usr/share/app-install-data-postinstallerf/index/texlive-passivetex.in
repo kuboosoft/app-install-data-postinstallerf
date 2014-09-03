@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-passivetex</b>'
+Comment='<span size="xx-large">Support package for XML/SGML typesetting</span>'
+Comment3='
+Packages providing XML parsing, UTF-8 parsing, Unicode
+entities, and common formatting object definitions for jadetex.
+
+date 2008-04-20 195304 +0200
+'
+License='MIT'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xcb-util-wm</b>'
+Comment='<span size="xx-large">Client and window-manager helper library on top of libxcb</span>'
+Comment3='
+XCB util-wm module provides the following libraries
+
+  - ewmh Both client and window-manager helpers for EWMH.
+  - icccm Both client and window-manager helpers for ICCCM.
+'
+License='MIT'
+Screenshot=''
+Url='http://xcb.freedesktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

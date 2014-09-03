@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>polari</b>'
+Comment='<span size="xx-large">Internet Relay Chat client for GNOME</span>'
+Comment3='
+Polari is an Internet Relay Chat client for the GNOME desktop.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://wiki.gnome.org/Apps/Polari'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-fbb</b>'
+Comment='<span size="xx-large">A free Bembo-like font</span>'
+Comment3='
+The package provides a Bembo-like font package based on Cardo
+but with many modifications, adding Bold Italic, small caps in
+all styles, six figure choices in all styles, updated kerning
+tables, added figure tables and corrected f-ligatures. Both
+OpenType and Adobe Type 1 versions are provided; all necessary
+support files are provided. The font works well with
+newtxmaths libertine option.
+
+date 2013-11-30 074200 +0100
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

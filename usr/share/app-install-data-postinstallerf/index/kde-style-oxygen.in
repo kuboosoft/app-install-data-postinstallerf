@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kde-style-oxygen</b>'
+Comment='<span size="xx-large">Oxygen widget style for KDE</span>'
+Comment3='
+Oxygen widget style for KDE.
+
+URL          https//projects.kde.org/projects/kde/kde-workspace
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-workspace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

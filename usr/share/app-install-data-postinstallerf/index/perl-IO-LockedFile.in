@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-IO-LockedFile</b>'
+Comment='<span size="xx-large">Something</span>'
+Comment3='
+IOLockedFile is something
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-LockedFile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

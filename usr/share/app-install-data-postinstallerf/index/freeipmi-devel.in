@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>freeipmi-devel</b>'
+Comment='<span size="xx-large">Development package for FreeIPMI</span>'
+Comment3='
+Development package for FreeIPMI.  This package includes the FreeIPMI
+header files and libraries.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/freeipmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

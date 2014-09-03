@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>pki-server</b>'
+Comment='<span size="xx-large">Certificate System - PKI Server Framework</span>'
+Comment3='
+The PKI Server Framework is required by the following four PKI subsystems
+
+    the Certificate Authority (CA),
+    the Data Recovery Manager (DRM),
+    the Online Certificate Status Protocol (OCSP) Manager,
+    the Token Key Service (TKS), and
+    the Token Processing Service (TPS).
+This package is a part of the PKI Core used by the Certificate System.
+The package contains scripts to create and remove PKI subsystems.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pki.fedoraproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

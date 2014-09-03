@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>fwbackups</b>'
+Comment='<span size="xx-large">A feature-rich user backup program</span>'
+Comment3='
+fwbackups is a feature-rich user backup program that allows users (including
+but not limited to root) to backup their files on demand or periodically via
+backup sets. Each set may have different settings meaning users can backup
+groups of files and folders to different destinations at different times.
+Restores can be performed at any time using an existing backup from fwbackups
+or from the contents of an external folder or archive.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.diffingo.com/oss/fwbackups/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nautilus-beesu-manager</b>'
+Comment='<span size="xx-large">Utility to add beesu scripts to nautilus</span>'
+Comment3='
+nautilus-beesu-manager is a little utility to add some useful scripts
+to the Nautilus file browser; nautilus-beesu-manager can add scripts
+to Nautilus using beesu to elevate the users privileges to root.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.honeybeenet.altervista.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

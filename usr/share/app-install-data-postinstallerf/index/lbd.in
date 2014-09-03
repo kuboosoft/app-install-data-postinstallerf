@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lbd</b>'
+Comment='<span size="xx-large">DNS/HTTP load balancing detector</span>'
+Comment3='
+lbd (load balancing detector) detects if a given domain uses DNS and/or HTTP
+Load-Balancing (via Server and Date header and diffs between server answers)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ge.mine.nu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>iowatcher</b>'
+Comment='<span size="xx-large">Utility for visualizing block layer IO patterns and performance</span>'
+Comment3='
+iowatcher generates graphs from blktrace runs to help visualize IO patterns and
+performance as SVG images or movies. It can plot multiple blktrace runs
+together, making it easy to compare the differences between different benchmark
+runs.
+
+You should install the iowatcher package if you need to visualize detailed
+information about IO patterns.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://masoncoding.com/iowatcher/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

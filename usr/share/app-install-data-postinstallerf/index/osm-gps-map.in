@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>osm-gps-map</b>'
+Comment='<span size="xx-large">Gtk+ widget for displaying OpenStreetMap tiles</span>'
+Comment3='
+A Gtk+ widget that when given GPS co-ordinates, draws a GPS track, and
+points of interest on a moving map display. Downloads map data from a
+number of websites, including openstreetmap.org.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://nzjrs.github.com/osm-gps-map/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

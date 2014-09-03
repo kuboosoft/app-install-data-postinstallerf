@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>silvia-devel</b>'
+Comment='<span size="xx-large">Devel files for silvia</span>'
+Comment3='
+Development files for the SILVIA library
+
+URL          https//github.com/credentials/silvia
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/credentials/silvia'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

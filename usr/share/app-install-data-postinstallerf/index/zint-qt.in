@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zint-qt</b>'
+Comment='<span size="xx-large">Zint Barcode Studio</span>'
+Comment3='
+Zint Barcode Studio is a Qt-based GUI which allows desktop users to generate
+barcodes which can then be embedded in documents or HTML pages.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.zint.org.uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

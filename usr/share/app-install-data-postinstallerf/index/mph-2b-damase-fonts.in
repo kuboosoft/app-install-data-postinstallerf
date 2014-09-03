@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mph-2b-damase-fonts</b>'
+Comment='<span size="xx-large">Free font encoding many non-Latin scripts</span>'
+Comment3='
+Mark Williamsons MPH 2B Damase is a free font encoding many non-Latin scripts.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.wazu.jp/gallery/views/View_MPH2BDamase.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

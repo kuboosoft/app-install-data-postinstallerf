@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-phpseclib-crypt-des</b>'
+Comment='<span size="xx-large">Pure-PHP implementation of DES</span>'
+Comment3='
+Uses mcrypt, if available, and an internal implementation, otherwise.
+'
+License='MIT'
+Screenshot=''
+Url='http://phpseclib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

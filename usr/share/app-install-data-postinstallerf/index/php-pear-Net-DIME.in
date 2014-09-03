@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-pear-Net-DIME</b>'
+Comment='<span size="xx-large">Implements Direct Internet Message Encapsulation (DIME)</span>'
+Comment3='
+This is the initial independent release of the Net_DIME package.
+Provides an implementation of "Direct Internet Message Encapsulation" (DIME)
+as defined at http//search.ietf.org/internet-drafts/draft-nielsen-dime-02.txt
+
+Note  this specification has been superseded by the SOAP Message Transmission
+Optimization Mechanism (MTOM) specification.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Net_DIME'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

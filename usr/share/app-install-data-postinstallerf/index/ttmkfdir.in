@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ttmkfdir</b>'
+Comment='<span size="xx-large">Utility to create fonts.scale files for truetype fonts</span>'
+Comment3='
+ttmkfdir is a utility used to create fonts.scale files in
+TrueType font directories in order to prepare them for use
+by the font server.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

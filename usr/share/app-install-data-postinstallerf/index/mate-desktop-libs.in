@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-desktop-libs</b>'
+Comment='<span size="xx-large">Shared libraries for libmate-desktop</span>'
+Comment3='
+Shared libraries for libmate-desktop
+
+URL          http//mate-desktop.org
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

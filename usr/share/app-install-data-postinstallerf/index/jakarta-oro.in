@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>jakarta-oro</b>'
+Comment='<span size="xx-large">Full regular expressions API</span>'
+Comment3='
+The Jakarta-ORO Java classes are a set of text-processing Java classes
+that provide Perl5 compatible regular expressions, AWK-like regular
+expressions, glob expressions, and utility classes for performing
+substitutions, splits, filtering filenames, etc. This library is the
+successor to the OROMatcher, AwkTools, PerlTools, and TextTools
+libraries from ORO, Inc. (www.oroinc.com).
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://jakarta.apache.org/oro'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>lsnipes</b>'
+Comment='<span size="xx-large">A text-mode maze game</span>'
+Comment3='
+Linux Snipes is a reimplementation of an old text-mode DOS game. You
+are in a maze with a number of enemies (the "snipes") and a few
+"hives" which create more of the enemies. Your job is to kill the
+snipes and their hives before they get the best of you.  26 "option
+levels" let you change characteristics of the game such as whether or
+not diagonal shots bounce off the walls.  10 levels of difficulty (only
+partially implemented) let you build your skills gradually.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ugcs.caltech.edu/~boultonj/snipes.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

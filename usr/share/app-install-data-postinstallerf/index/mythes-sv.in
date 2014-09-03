@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-sv</b>'
+Comment='<span size="xx-large">Swedish thesaurus</span>'
+Comment3='
+Swedish thesaurus.
+'
+License='MIT'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/project/SweThes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

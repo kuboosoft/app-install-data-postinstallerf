@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>suricata</b>'
+Comment='<span size="xx-large">Intrusion Detection System</span>'
+Comment3='
+The Suricata Engine is an Open Source Next Generation Intrusion
+Detection and Prevention Engine. This engine is not intended to
+just replace or emulate the existing tools in the industry, but
+will bring new ideas and technologies to the field. This new Engine
+supports Multi-threading, Automatic Protocol Detection (IP, TCP,
+UDP, ICMP, HTTP, TLS, FTP and SMB! ), Gzip Decompression, Fast IP
+Matching, and GeoIP identification.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://suricata-ids.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

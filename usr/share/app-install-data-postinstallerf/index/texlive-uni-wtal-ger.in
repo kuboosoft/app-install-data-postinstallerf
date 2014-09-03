@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-uni-wtal-ger</b>'
+Comment='<span size="xx-large">Citation style for literary studies at the University of Wuppertal</span>'
+Comment3='
+The package defines a biblatex citation style based on the
+author-title style of biblatex-dw. The citations are optimised
+for literary studies in faculty of humanities at the Bergische
+Universitat Wuppertal.
+
+date 2013-08-30 075351 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

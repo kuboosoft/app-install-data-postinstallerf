@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libfm-qt</b>'
+Comment='<span size="xx-large">Companion library for PCManFM-Qt</span>'
+Comment3='
+Libfm-Qt is a companion library providing components to build
+desktop file managers.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pcmanfm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

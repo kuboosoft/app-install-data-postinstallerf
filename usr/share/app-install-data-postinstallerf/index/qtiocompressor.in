@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>qtiocompressor</b>'
+Comment='<span size="xx-large">QIODevice that compresses data streams</span>'
+Comment3='
+The class works on top of a QIODevice subclass, compressing data before it is
+written and decompressing it when it is read. Since QtIOCompressor works on
+streams, it does not have to see the entire data set before compressing or
+decompressing it. This can reduce the memory requirements when working on large
+data sets.
+
+'
+License='GPLv3 or LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qt.nokia.com/products/appdev/add-on-products/catalog/4/Utilities/qtiocompressor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

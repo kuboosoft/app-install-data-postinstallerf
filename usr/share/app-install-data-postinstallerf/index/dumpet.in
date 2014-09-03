@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dumpet</b>'
+Comment='<span size="xx-large">A tool to dump and debug bootable CD images</span>'
+Comment3='
+DumpET is a utility to aid in the debugging of bootable CD-ROM images.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/dumpet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

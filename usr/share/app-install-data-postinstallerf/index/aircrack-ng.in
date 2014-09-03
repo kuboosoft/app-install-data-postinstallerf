@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>aircrack-ng</b>'
+Comment='<span size="xx-large">802.11 (wireless) sniffer and WEP/WPA-PSK key cracker</span>'
+Comment3='
+aircrack-ng is a set of tools for auditing wireless networks. Its an
+enhanced/reborn version of aircrack. It consists of airodump-ng (an 802.11
+packet capture program), aireplay-ng (an 802.11 packet injection program),
+aircrack (static WEP and WPA-PSK cracking), airdecap-ng (decrypts WEP/WPA
+capture files), and some tools to handle capture files (merge, convert, etc.).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.aircrack-ng.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

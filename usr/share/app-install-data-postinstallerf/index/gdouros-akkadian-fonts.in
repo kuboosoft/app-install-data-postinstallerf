@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gdouros-akkadian-fonts</b>'
+Comment='<span size="xx-large">A font for Sumero-Akkadian cuneiform</span>'
+Comment3='
+Akkadian covers the following scripts and symbols supported by The Unicode
+Standard 5.2 Basic Latin, Greek and Coptic, some Punctuation and other
+Symbols, Cuneiform, Cuneiform Numbers and Punctuation.
+
+It was created by George Douros.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://users.teilar.gr/~g1951d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

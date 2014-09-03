@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xfce4-time-out-plugin</b>'
+Comment='<span size="xx-large">Xfce panel plugin for taking breaks from the computer</span>'
+Comment3='
+This plugin makes it possible to take periodical breaks from the computer every
+X minutes. During breaks it locks your screen. It optionally allows you to
+postpone breaks for a certain time.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-time-out-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

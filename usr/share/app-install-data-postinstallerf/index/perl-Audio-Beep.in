@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Audio-Beep</b>'
+Comment='<span size="xx-large">Audio::Beep Perl module</span>'
+Comment3='
+AudioBeep - Perl module to use your computer beeper in fancy ways
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Audio-Beep/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

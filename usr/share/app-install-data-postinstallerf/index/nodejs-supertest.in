@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-supertest</b>'
+Comment='<span size="xx-large">A superagent driven library for testing HTTP servers</span>'
+Comment3='
+This module provides a high-level abstraction for testing HTTP servers,
+while still allowing you to drop down to the lower-level API provided by
+superagent.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/supertest'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apacheds-i18n</b>'
+Comment='<span size="xx-large">ApacheDS I18n</span>'
+Comment3='
+Internationalization of errors and other messages.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://directory.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

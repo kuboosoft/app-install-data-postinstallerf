@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>SDL_sound-devel</b>'
+Comment='<span size="xx-large">Library handling decoding of several popular sound file formats</span>'
+Comment3='
+%{description}
+
+This package contains the headers and libraries for SDL_sound development.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.icculus.org/SDL_sound'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

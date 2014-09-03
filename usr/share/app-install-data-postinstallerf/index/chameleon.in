@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>chameleon</b>'
+Comment='<span size="xx-large">Common schema transformation tool</span>'
+Comment3='
+Chameleon is a common to database specific schema transformation tool.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/chameleon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcmpiCppImpl0</b>'
+Comment='<span size="xx-large">CMPI C++ wrapper library</span>'
+Comment3='
+This packages provides the C++ wrapper library for CMPI development
+
+URL          http//sblim.wiki.sourceforge.net/
+'
+License='EPL'
+Screenshot=''
+Url='http://sblim.wiki.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qt5-qttools-devel</b>'
+Comment='<span size="xx-large">Development files for qt5-qttools</span>'
+Comment3='
+Development files for qt5-qttools.
+
+URL          http//qt-project.org/
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

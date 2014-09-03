@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-hk2-testing</b>'
+Comment='<span size="xx-large">Utilities for testing with HK2</span>'
+Comment3='
+Hundred Kilobytes Kernel Utilities for testing.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://hk2.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

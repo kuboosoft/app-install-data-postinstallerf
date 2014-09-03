@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gfs-neohellenic-fonts</b>'
+Comment='<span size="xx-large">A 20th century Greek typeface</span>'
+Comment3='
+The design of new Greek typefaces always followed the growing needs of the
+Classical Studies in the major European Universities. Furthermore, by the end
+of the 19th century bibliology had become an established section of Historical
+Studies, and, as John Bowman commented, the prevailing attitude was that Greek
+types should adhere to a lost idealized, yet undefined, greekness of yore.
+Especially in Great Britain this tendency remained unchallenged in the first
+decades of the 20th century, both by Richard Proctor, curator of the incunabula
+section in the British Museum Library and his successor Victor Scholderer.
+
+In 1927, Scholderer, on behalf of the Society for the Promotion of Greek
+'
+License='OFL'
+Screenshot=''
+Url='http://www.greekfontsociety.gr/pages/en_typefaces20th.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

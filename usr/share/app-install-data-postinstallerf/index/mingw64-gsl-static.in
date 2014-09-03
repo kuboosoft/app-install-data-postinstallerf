@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw64-gsl-static</b>'
+Comment='<span size="xx-large">Static version of MinGW Windows port of the GNU Scientific Library</span>'
+Comment3='
+Static version of MinGW Windows port of the GNU Scientific Library
+for the win32 target.
+'
+License='GPLv3 and GFDL and BSD'
+Screenshot=''
+Url='http://www.gnu.org/software/gsl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

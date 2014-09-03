@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-pathtools</b>'
+Comment='<span size="xx-large">Pattern matching and various utilities for file systems paths</span>'
+Comment3='
+python-pathtools is a Python API library for common path
+and pattern functionality.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/gorakhargosh/pathtools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

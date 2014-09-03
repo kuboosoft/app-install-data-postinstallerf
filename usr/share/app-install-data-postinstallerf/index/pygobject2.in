@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pygobject2</b>'
+Comment='<span size="xx-large">Python 2 bindings for GObject</span>'
+Comment3='
+The pygobject2 package provides a convenient wrapper for the GObject library
+for use in Python programs.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pygtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

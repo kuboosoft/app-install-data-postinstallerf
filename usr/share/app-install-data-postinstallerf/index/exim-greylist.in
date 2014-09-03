@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>exim-greylist</b>'
+Comment='<span size="xx-large">Example configuration for greylisting using Exim</span>'
+Comment3='
+This package contains a simple example of how to do greylisting in Exims
+ACL configuration. It contains a cron job to remove old entries from the
+greylisting database, and an ACL subroutine which needs to be included
+from the main exim.conf file.
+
+To enable greylisting, install this package and then uncomment the lines
+in Exims configuration /etc/exim.conf which enable it. You need to
+the new ACL subroutine, and the line which invokes the new subroutine.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.exim.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

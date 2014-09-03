@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>arpack</b>'
+Comment='<span size="xx-large">Fortran 77 subroutines for solving large scale eigenvalue problems</span>'
+Comment3='
+ARPACK is a collection of Fortran 77 subroutines designed to solve large
+scale eigenvalue problems.
+
+The package is designed to compute a few eigenvalues and corresponding
+eigenvectors of a general n by n matrix A. It is most appropriate for
+large sparse or structured matrices A where structured means that a
+matrix-vector product w <- Av requires order n rather than the usual
+order n**2 floating point operations. This software is based upon an
+algorithmic variant of the Arnoldi process called the Implicitly
+Restarted Arnoldi Method (IRAM).
+'
+License='BSD'
+Screenshot=''
+Url='http://forge.scilab.org/index.php/p/arpack-ng/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

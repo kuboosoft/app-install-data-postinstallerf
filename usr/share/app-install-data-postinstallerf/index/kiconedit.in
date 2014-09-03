@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kiconedit</b>'
+Comment='<span size="xx-large">An icon editor</span>'
+Comment3='
+KIconEdit is designed to help create icons for
+KDE using the standard icon palette.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

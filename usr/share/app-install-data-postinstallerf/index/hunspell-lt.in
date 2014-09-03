@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-lt</b>'
+Comment='<span size="xx-large">Lithuanian hunspell dictionaries</span>'
+Comment3='
+Lithuanian hunspell dictionaries.
+'
+License='BSD'
+Screenshot=''
+Url='ftp://ftp.akl.lt/ispell-lt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

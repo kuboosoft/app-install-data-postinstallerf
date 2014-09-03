@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-origin-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-origin</span>'
+Comment3='
+Documentation for rubygem-origin
+'
+License='MIT'
+Screenshot=''
+Url='http://mongoid.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

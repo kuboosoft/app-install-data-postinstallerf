@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rhino</b>'
+Comment='<span size="xx-large">JavaScript for Java</span>'
+Comment3='
+Rhino is an open-source implementation of JavaScript written entirely
+in Java. It is typically embedded into Java applications to provide
+scripting to end users.
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.mozilla.org/rhino/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

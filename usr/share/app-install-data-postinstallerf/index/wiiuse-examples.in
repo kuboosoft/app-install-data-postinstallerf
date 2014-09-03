@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wiiuse-examples</b>'
+Comment='<span size="xx-large">Example programs for the wiiuse library</span>'
+Comment3='
+Example programs to test accessing wiiremote controllers
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.wiiuse.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>deltacloud-core-google</b>'
+Comment='<span size="xx-large">Deltacloud Core for Google storage</span>'
+Comment3='
+The google sub-package brings in all dependencies necessary to use deltacloud
+core to connect to Google Storage.
+'
+License='ASL 2.0 and MIT'
+Screenshot=''
+Url='http://deltacloud.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

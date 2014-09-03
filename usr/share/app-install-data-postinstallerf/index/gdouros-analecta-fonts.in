@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gdouros-analecta-fonts</b>'
+Comment='<span size="xx-large">An ecclesiastic scripts font</span>'
+Comment3='
+Analecta is an ecclesiastic scripts font, covering Basic Latin, Greek and
+Coptic, some Punctuation and other Symbols, Coptic, typographica varia,
+Specials, Gothic and Deseret.
+
+It was created by George Douros.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://users.teilar.gr/~g1951d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

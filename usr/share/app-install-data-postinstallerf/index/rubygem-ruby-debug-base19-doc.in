@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ruby-debug-base19-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-ruby-debug-base19</span>'
+Comment3='
+Documentation for rubygem-ruby-debug-base19
+'
+License='BSD'
+Screenshot=''
+Url='http://rubyforge.org/projects/ruby-debug19/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

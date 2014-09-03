@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-charlock_holmes</b>'
+Comment='<span size="xx-large">Character encoding detection, brought to you by ICU</span>'
+Comment3='
+Character encoding detecting library for Ruby using ICU
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/brianmario/charlock_holmes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

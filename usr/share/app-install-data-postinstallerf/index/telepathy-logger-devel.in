@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>telepathy-logger-devel</b>'
+Comment='<span size="xx-large">Development files for telepathy-logger</span>'
+Comment3='
+The telepathy-logger-devel package contains libraries and header files for
+developing applications that use telepathy-logger.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://telepathy.freedesktop.org/wiki/Logger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

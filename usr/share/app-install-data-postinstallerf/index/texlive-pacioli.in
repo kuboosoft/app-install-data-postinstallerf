@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-pacioli</b>'
+Comment='<span size="xx-large">Fonts designed by Fra Luca de Pacioli in 1497</span>'
+Comment3='
+Pacioli was a c.15 mathematician, and his font was designed
+according to the divine proportion. The font is uppercase
+letters together with punctuation and some analphabetics; no
+lowercase or digits. The Metafont source is distributed in a
+.dtx file, together with LaTeX support.
+
+date 2011-06-16 212053 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

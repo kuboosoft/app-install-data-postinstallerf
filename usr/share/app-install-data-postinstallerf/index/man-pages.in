@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>man-pages</b>'
+Comment='<span size="xx-large">Man (manual) pages from the Linux Documentation Project</span>'
+Comment3='
+A large collection of man pages (documentation) from the Linux
+Documentation Project (LDP).
+'
+License='GPL+ and GPLv2+ and BSD and MIT and Copyright only and IEEE'
+Screenshot=''
+Url='http://www.kernel.org/doc/man-pages/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

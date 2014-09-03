@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-biblatex-musuos</b>'
+Comment='<span size="xx-large">A biblatex style for citations in musuos.cls</span>'
+Comment3='
+The style is designed for use with the musuos class, but it
+should be usable with other classes, too.
+
+date 2011-09-23 155832 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

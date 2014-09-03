@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-colorscheme-plastik</b>'
+Comment='<span size="xx-large">Plastik KDE 4 Color Scheme</span>'
+Comment3='
+This package contains the KDE 4 port of KDE 3 Plastik color scheme.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.kde-look.org/content/show.php/Plastik?content=89804'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

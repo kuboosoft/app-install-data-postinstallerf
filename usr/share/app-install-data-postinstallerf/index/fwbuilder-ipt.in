@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fwbuilder-ipt</b>'
+Comment='<span size="xx-large">Policy Compiler for IPTables</span>'
+Comment3='
+Policy compiler for IPTables
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fwbuilder.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

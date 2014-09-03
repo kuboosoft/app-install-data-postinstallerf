@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bodhi-client</b>'
+Comment='<span size="xx-large">Bodhi Client</span>'
+Comment3='
+Client tools for interacting with bodhi
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/bodhi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

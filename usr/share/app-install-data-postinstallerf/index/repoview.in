@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>repoview</b>'
+Comment='<span size="xx-large">Creates a set of static HTML pages in a yum repository</span>'
+Comment3='
+RepoView creates a set of static HTML pages in a yum repository for easy
+browsing.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/repoview/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

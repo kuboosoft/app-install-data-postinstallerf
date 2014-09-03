@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gputils-doc</b>'
+Comment='<span size="xx-large">Gputils documentation</span>'
+Comment3='
+This package containes gputils documentation and HTML documentation for supported processors.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gputils.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

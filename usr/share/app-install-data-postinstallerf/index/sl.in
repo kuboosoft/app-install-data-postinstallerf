@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sl</b>'
+Comment='<span size="xx-large">Joke command for when you type sl instead of ls</span>'
+Comment3='
+The sl (Steam Locomotive) command is a joke which displays a train on your
+terminal when you accidentally type sl instead of ls.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/index_e.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

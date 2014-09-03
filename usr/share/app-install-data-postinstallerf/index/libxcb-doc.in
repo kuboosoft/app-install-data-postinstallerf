@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libxcb-doc</b>'
+Comment='<span size="xx-large">Documentation for libxcb</span>'
+Comment3='
+The libxcb-doc package contains documentation for the libxcb library.
+'
+License='MIT'
+Screenshot=''
+Url='http://xcb.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-IO-Pty-Easy</b>'
+Comment='<span size="xx-large">Easy interface to IO::Pty</span>'
+Comment3='
+IOPtyEasy provides an interface to IOPty which hides most of the
+ugly details of handling ptys, wrapping them instead in simple
+spawn/read/write commands.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-Pty-Easy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

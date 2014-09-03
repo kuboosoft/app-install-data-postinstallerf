@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n fingerprint-gui
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
+Comment=Set of GUI tools for the use of fingerprint scanners on Linux systems.
+Terminal=false
+Name=Fingerprint-gui
+Categories=Qt;KDE;Utility;

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vtk-tcl</b>'
+Comment='<span size="xx-large">Tcl bindings for VTK</span>'
+Comment3='
+tcl bindings for VTK
+
+URL          http//vtk.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://vtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

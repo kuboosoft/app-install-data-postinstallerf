@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>asterisk-voicemail</b>'
+Comment='<span size="xx-large">Common Voicemail Modules for Asterisk</span>'
+Comment3='
+Common Voicemail Modules for Asterisk.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.asterisk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-mnesia</b>'
+Comment='<span size="xx-large">A heavy duty real-time distributed database</span>'
+Comment3='
+A heavy duty real-time distributed database.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

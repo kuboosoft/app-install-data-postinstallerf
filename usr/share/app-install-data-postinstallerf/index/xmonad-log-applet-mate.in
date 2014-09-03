@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmonad-log-applet-mate</b>'
+Comment='<span size="xx-large">MATE panel applet to display Xmonad log information</span>'
+Comment3='
+xmonad-log-applet is for Xmonad users who find the MATE panel useful.
+The applet will show the active workspaces, the title of the selected window,
+or any other information you send it from your xmonad.hs.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/alexkay/xmonad-log-applet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

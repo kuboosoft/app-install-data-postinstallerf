@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ocaml-lablgl</b>'
+Comment='<span size="xx-large">LablGL is an OpenGL interface for Objective Caml</span>'
+Comment3='
+LablGL is is an Objective Caml interface to OpenGL. Support is
+included for use inside LablTk, and LablGTK also includes specific
+support for LablGL.  It can be used either with proprietary OpenGL
+implementations (SGI, Digital Unix, Solaris...), with XFree86 GLX
+extension, or with open-source Mesa.
+'
+License='BSD'
+Screenshot=''
+Url='http://forge.ocamlcore.org/projects/lablgl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

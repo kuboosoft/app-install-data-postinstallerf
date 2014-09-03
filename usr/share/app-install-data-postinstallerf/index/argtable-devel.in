@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>argtable-devel</b>'
+Comment='<span size="xx-large">Development package that includes the argtable header files</span>'
+Comment3='
+Header and development files for using argtable
+
+URL          http//argtable.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://argtable.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

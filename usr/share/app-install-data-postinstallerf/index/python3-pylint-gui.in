@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-pylint-gui</b>'
+Comment='<span size="xx-large">Graphical Interface tool for Pylint</span>'
+Comment3='
+This package provides a gui tool for pylint written in tkinter.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.pylint.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>jhdf5</b>'
+Comment='<span size="xx-large">Java HDF5 Package</span>'
+Comment3='
+HDF is a versatile data model that can represent very complex data objects
+and a wide variety of meta-data. It is a completely portable file format
+with no limit on the number or size of data objects in the collection.
+
+This Java package wrap the native HDF5 library.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.hdfgroup.org/hdf-java-html/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

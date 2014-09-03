@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Action-REST</b>'
+Comment='<span size="xx-large">Automated REST Method Dispatching</span>'
+Comment3='
+This Action handles doing automatic method dispatching for REST requests.
+It takes a normal Catalyst action, and changes the dispatch to append an
+underscore and method name. First it will try dispatching to an action
+with the generated name, and failing that it will try to dispatch to a
+regular method.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Action-REST/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

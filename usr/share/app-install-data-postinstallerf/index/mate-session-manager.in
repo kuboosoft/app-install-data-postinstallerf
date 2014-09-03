@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-session-manager</b>'
+Comment='<span size="xx-large">MATE Desktop session manager</span>'
+Comment3='
+This package contains a session that can be started from a display
+manager such as MDM. It will load all necessary applications for a
+full-featured user session.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

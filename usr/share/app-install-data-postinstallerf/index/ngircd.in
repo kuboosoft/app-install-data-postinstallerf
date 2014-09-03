@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ngircd</b>'
+Comment='<span size="xx-large">Next Generation IRC Daemon</span>'
+Comment3='
+ngIRCd is a free open source daemon for Internet Relay Chat (IRC),
+developed under the GNU General Public License (GPL). Its written from
+scratch and is not based upon the original IRCd like many others.
+'
+License='GPLv2+'
+developed under the GNU General Public License (GPL). Its written from'
+Screenshot=''
+Url='http://ngircd.barton.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

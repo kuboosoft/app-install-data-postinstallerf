@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>screenie</b>'
+Comment='<span size="xx-large">A small and lightweight screen wrapper</span>'
+Comment3='
+Screenie is a small and lightweight screen wrapper that is
+designed to be a session handler that simplifies the process of
+administrating detached jobs by providing an interactive menu.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pubwww.fhzh.ch/~mgloor/screenie.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

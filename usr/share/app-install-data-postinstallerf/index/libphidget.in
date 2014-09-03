@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libphidget</b>'
+Comment='<span size="xx-large">Drivers and API for Phidget devices</span>'
+Comment3='
+Phidgets are a set of "plug and play" building blocks for low cost USB
+sensing and control from your PC.  All the USB complexity is taken care
+of by the robust libphidget API.
+
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://www.phidgets.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

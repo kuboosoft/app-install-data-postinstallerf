@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Object-ID</b>'
+Comment='<span size="xx-large">A unique identifier for any object</span>'
+Comment3='
+This is a unique identifier for any object, regardless of its type, structure
+or contents. Its features are
+
+ * Works on ANY object of any type
+ * Does not modify the object in any way
+ * Does not change with the objects contents
+ * Is O(1) to calculate (i.e. doesnt matter how big the object is)
+ * The id is unique for the life of the process
+ * The id is always a true value
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/Object-ID'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

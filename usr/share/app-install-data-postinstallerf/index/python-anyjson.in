@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-anyjson</b>'
+Comment='<span size="xx-large">Wraps the best available JSON implementation available</span>'
+Comment3='
+Anyjson loads whichever is the fastest JSON module installed and
+provides a uniform API regardless of which JSON implementation is used.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/anyjson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

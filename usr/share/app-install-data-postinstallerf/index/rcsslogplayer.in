@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rcsslogplayer</b>'
+Comment='<span size="xx-large">RoboCup Soccer Simulator LogPlayer</span>'
+Comment3='
+The RoboCup Soccer Simulator LogPlayer (rcsslogpleyr) is a game log
+replay tool for the RoboCup Soccer Simulator Server (rcssserver).
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/sserver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

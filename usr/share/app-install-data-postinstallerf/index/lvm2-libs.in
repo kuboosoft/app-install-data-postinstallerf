@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lvm2-libs</b>'
+Comment='<span size="xx-large">Shared libraries for lvm2</span>'
+Comment3='
+This package contains shared lvm2 libraries for applications.
+
+URL          http//sources.redhat.com/lvm2
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sources.redhat.com/lvm2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libhtp-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for libhtp</span>'
+Comment3='
+Development headers and libraries for libhtp.
+
+URL          http//www.libhtp.org
+'
+License='BSD'
+Screenshot=''
+Url='http://www.libhtp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

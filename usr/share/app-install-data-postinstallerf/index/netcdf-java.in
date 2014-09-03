@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>netcdf-java</b>'
+Comment='<span size="xx-large">Java interface to NetCDF files</span>'
+Comment3='
+The NetCDF-Java Library is a Java interface to NetCDF files,
+as well as to many other types of scientific data formats.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://www.unidata.ucar.edu/software/tds/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

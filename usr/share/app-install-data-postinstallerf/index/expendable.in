@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>expendable</b>'
+Comment='<span size="xx-large">Home finances modeling program</span>'
+Comment3='
+This is a program for modelling home finances. In particular, it can
+be used to work how long it will take to pay back a mortgage if a
+linked "offset" facility is available.  Offset accounts are like
+savings accounts, but instead of accruing interest they reduce the
+amount of interest charged for the mortgage by offsetting the loan
+amount.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/expendable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

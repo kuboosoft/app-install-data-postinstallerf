@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>lv2-fomp-plugins</b>'
+Comment='<span size="xx-large">A collection of LV2 plugins</span>'
+Comment3='
+Fomp is an LV2 port of the MCP, VCO, FIL, and WAH plugins by Fons Adriaensen.
+
+There are 13 plugins in total 1 auto-wah, 1 EQ, 3 chorus, 5 filters, and 3
+oscillators.
+The plugin implementations are identical to their LADSPA forebears, except
+the primary frequency port of oscillators and filters has been converted to
+Hz to facilitate use in any host without assuming the hidden tuning frequency
+of AlsaModularSynth. All other frequency ports remain as they were, using
+octaves for faithful Moog-like modulation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drobilla.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

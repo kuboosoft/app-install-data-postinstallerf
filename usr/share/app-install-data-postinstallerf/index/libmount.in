@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmount</b>'
+Comment='<span size="xx-large">Device mounting library</span>'
+Comment3='
+This is the device mounting library, part of util-linux.
+
+URL          http//en.wikipedia.org/wiki/Util-linux
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://en.wikipedia.org/wiki/Util-linux'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

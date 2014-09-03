@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-runforcover</b>'
+Comment='<span size="xx-large">Require plugin for JS code coverage</span>'
+Comment3='
+Runforcover hooks into the `require()` function and uses nodejs-bunker to
+provide code coverage data for your unit test library, whatever it might be.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/chrisdickinson/node-runforcover'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgdiplus</b>'
+Comment='<span size="xx-large">An Open Source implementation of the GDI+ API</span>'
+Comment3='
+An Open Source implementation of the GDI+ API, it is part of the Mono
+Project
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

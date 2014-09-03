@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-plweb</b>'
+Comment='<span size="xx-large">Literate Programming for Prolog with LaTeX</span>'
+Comment3='
+Instead of having to transform the common source into program
+or documentation, the central idea was to develop a method to
+have one common source which can be interpreted by a Prolog
+system as well as by LaTeX, whether that Prolog system be C-
+Prolog, Quintus-Prolog, or ECLiPSe.
+
+date 2008-09-11 185221 +0200
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

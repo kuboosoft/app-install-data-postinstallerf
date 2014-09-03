@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Time-Duration-Parse</b>'
+Comment='<span size="xx-large">Parse string that represents time duration</span>'
+Comment3='
+TimeDurationParse is a module to parse human readable duration strings
+like _2 minutes and 3 seconds_ to seconds.
+
+It does the opposite of duration_exact() in TimeDuration and is roundtrip
+safe. So, the following is always true.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Time-Duration-Parse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

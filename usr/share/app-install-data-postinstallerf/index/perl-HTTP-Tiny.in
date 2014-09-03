@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-HTTP-Tiny</b>'
+Comment='<span size="xx-large">Small, simple, correct HTTP/1.1 client</span>'
+Comment3='
+This is a very simple HTTP/1.1 client, designed for doing simple GET requests
+without the overhead of a large framework like LWPUserAgent.
+
+It is more correct and more complete than HTTPLite. It supports proxies
+(currently only non-authenticating ones) and redirection. It also correctly
+resumes after EINTR.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-Tiny/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-public_key</b>'
+Comment='<span size="xx-large">API to public key infrastructure</span>'
+Comment3='
+API to public key infrastructure.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

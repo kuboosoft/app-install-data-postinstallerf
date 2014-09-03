@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>postinstallerf</b>'
+Comment='<span size="xx-large">Post-installation Fedora, PostInstaller installer script</span>'
+Comment3='
+postinstallerf will install all the software that Fedora doesnt
+include by default, after running Fedora for the first time.
+Its easy for a new user. postinstallerf contains everything that
+you need for your daily computing.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://sourceforge.net/projects/postinstaller/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

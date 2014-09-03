@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pki-tks</b>'
+Comment='<span size="xx-large">Certificate System - Token Key Service</span>'
+Comment3='
+The Token Key Service (TKS) is an optional PKI subsystem that manages the
+master key(s) and the transport key(s) required to generate and distribute
+keys for hardware tokens.  TKS provides the security between tokens and an
+instance of Token Processing System (TPS), where the security relies upon the
+relationship between the master key and the token keys.  A TPS communicates
+with a TKS over SSL using client authentication.
+
+TKS helps establish a secure channel (signed and encrypted) between the token
+and the TPS, provides proof of presence of the security token during
+enrollment, and supports key changeover when the master key changes on the
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pki.fedoraproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

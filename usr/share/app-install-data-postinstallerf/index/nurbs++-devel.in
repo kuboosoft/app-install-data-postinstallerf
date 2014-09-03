@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nurbs++-devel</b>'
+Comment='<span size="xx-large">Provides development files for nurbs++ applications</span>'
+Comment3='
+Development libraries for the nurbs++ library.
+
+URL          http//sourceforge.net/projects/libnurbs/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/libnurbs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

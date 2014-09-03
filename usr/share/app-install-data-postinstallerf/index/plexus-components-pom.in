@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>plexus-components-pom</b>'
+Comment='<span size="xx-large">Plexus Components POM</span>'
+Comment3='
+This package provides Plexus Components parent POM used by different
+Plexus packages.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://plexus.codehaus.org/plexus-components'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

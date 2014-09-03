@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-BSD-Resource</b>'
+Comment='<span size="xx-large">BSD process resource limit and priority functions</span>'
+Comment3='
+A module providing an interface for testing and setting process limits
+and priorities.
+'
+License='LGPLv2 or Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/BSD-Resource/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

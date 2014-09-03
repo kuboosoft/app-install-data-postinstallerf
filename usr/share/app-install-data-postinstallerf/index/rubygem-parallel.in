@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-parallel</b>'
+Comment='<span size="xx-large">Run any kind of code in parallel processes</span>'
+Comment3='
+Run any code in parallel Processes(use all CPUs)
+or Threads(speedup blocking operations).
+Best suited for map-reduce or e.g. parallel downloads/uploads.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/grosser/parallel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

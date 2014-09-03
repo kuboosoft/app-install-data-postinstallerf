@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>eeze</b>'
+Comment='<span size="xx-large">Device abstraction library</span>'
+Comment3='
+Eeze is a library for manipulating devices through udev with a simple and fast
+api. It interfaces directly with libudev, avoiding such middleman daemons as
+udisks/upower or hal, to immediately gather device information the instant it
+becomes known to the system.
+
+'
+License='BSD and GPLv2+'
+Screenshot=''
+Url='http://enlightenment.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

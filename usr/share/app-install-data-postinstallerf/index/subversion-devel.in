@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>subversion-devel</b>'
+Comment='<span size="xx-large">Development package for the Subversion libraries</span>'
+Comment3='
+The subversion-devel package includes the libraries and include files
+for developers interacting with the subversion package.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://subversion.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

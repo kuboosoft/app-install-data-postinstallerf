@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gr-osmosdr-devel</b>'
+Comment='<span size="xx-large">Development files for gr-osmosdr</span>'
+Comment3='
+Development files for gr-osmosdr.
+
+URL          http//sdr.osmocom.org/trac/wiki/GrOsmoSDR
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sdr.osmocom.org/trac/wiki/GrOsmoSDR'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

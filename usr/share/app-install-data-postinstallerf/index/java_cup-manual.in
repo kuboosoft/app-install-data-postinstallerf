@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>java_cup-manual</b>'
+Comment='<span size="xx-large">Documentation for java_cup</span>'
+Comment3='
+Documentation for java_cup.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.cs.princeton.edu/%7Eappel/modern/java/CUP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

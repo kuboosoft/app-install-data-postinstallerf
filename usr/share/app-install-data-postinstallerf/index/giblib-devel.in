@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>giblib-devel</b>'
+Comment='<span size="xx-large">Static library and header files for giblib</span>'
+Comment3='
+Install this package if you intend to develop using the giblib library.
+
+URL          http//linuxbrit.co.uk/giblib/
+'
+License='MIT'
+Screenshot=''
+Url='http://linuxbrit.co.uk/giblib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

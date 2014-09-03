@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>armacycles-ad-dedicated</b>'
+Comment='<span size="xx-large">Dedicated server for Armacycles Advanced</span>'
+Comment3='
+This is a special lightweight server for Armacycles Advanced; it can
+be run on a low-spec machine and await connections from
+the internet and/or the LAN.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://armagetronad.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

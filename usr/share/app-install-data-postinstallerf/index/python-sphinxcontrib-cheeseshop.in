@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-sphinxcontrib-cheeseshop</b>'
+Comment='<span size="xx-large">Sphinx extension cheeseshop</span>'
+Comment3='
+This extension adds directives for easy linking to Cheese Shop
+(Python Package Index) packages.  It supports a directive and a
+role, as well as a new config value.
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/sphinxcontrib-cheeseshop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>wmclock</b>'
+Comment='<span size="xx-large">Dockable clock applet for WindowMaker</span>'
+Comment3='
+Wmclock is an applet which displays the date and time in a dockable
+tile in the same style as the clock from the N*XTSTEP operating
+system.  Wmclock is specially designed for the WindowMaker window
+manager, by Alfredo Kojima, and features multiple language support,
+twenty-four-hour and twelve-hour (am/pm) time display, and, optionally,
+can run a user-specified program on a mouse click.  Wmclock is derived
+from asclock, a similar clock for the AfterStep window manager.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bluestop.org/wmclock/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

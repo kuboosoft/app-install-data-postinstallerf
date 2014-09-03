@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>aqsis-devel</b>'
+Comment='<span size="xx-large">Development files for Aqsis Renderer</span>'
+Comment3='
+Aqsis is a cross-platform photo-realistic 3D rendering solution,
+adhering to the RenderMan interface standard defined by Pixar
+Animation Studios.
+
+This package contains various developer libraries to enable
+integration with third-party applications.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.aqsis.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-namespace-clean</b>'
+Comment='<span size="xx-large">Keep your namespace tidy</span>'
+Comment3='
+When you define a function, or import one, into a Perl package, it will
+naturally also be available as a method. This does not per se cause
+problems, but it can complicate subclassing and, for example, plugin
+classes that are included via multiple inheritance by loading them as
+base classes.
+
+The namespaceclean pragma will remove all previously declared or
+imported symbols at the end of the current packages compile cycle.
+Functions called in the package itself will still be bound by their
+name, but they wont show up as methods on your class or instances.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/namespace-clean/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

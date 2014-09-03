@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdr-streamdev-client</b>'
+Comment='<span size="xx-large">Streaming client plug-in for VDR</span>'
+Comment3='
+Lets your VDR in conjunction with a streamdev-server act as a streaming client.
+VDR will then be able to work even without a DVB device.
+'
+License='GPL+ and GPLv2+'
+Screenshot=''
+Url='http://projects.vdr-developer.org/projects/plg-streamdev'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

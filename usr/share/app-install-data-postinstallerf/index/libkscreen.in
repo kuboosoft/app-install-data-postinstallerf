@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkscreen</b>'
+Comment='<span size="xx-large">Display configuration library</span>'
+Comment3='
+LibKScreen is a library that provides access to current configuration
+of connected displays and ways to change the configuration.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/libs/libkscreen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

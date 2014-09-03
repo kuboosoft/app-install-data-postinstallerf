@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-eurosym</b>'
+Comment='<span size="xx-large">MetaFont and macros for Euro sign</span>'
+Comment3='
+The new European currency symbol for the Euro implemented in
+MetaFont, using the official European Commission dimensions,
+and providing several shapes (normal, slanted, bold, outline).
+The package also includes a LaTeX package which defines the
+macro, pre-compiled tfm files, and documentation.
+
+date 2009-03-31 142712 +0200
+'
+License='Eurosym'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

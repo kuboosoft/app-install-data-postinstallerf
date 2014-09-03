@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>tracker</b>'
+Comment='<span size="xx-large">Desktop-neutral search tool and indexer</span>'
+Comment3='
+Tracker is a powerful desktop-neutral first class object database,
+tag/metadata database, search tool and indexer.
+
+It consists of a common object database that allows entities to have an
+almost infinite number of properties, metadata (both embedded/harvested as
+well as user definable), a comprehensive database of keywords/tags and
+links to other entities.
+It provides additional features for file based objects including context
+linking and audit trails for a file object.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/tracker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

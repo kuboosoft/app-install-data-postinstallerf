@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-ZODB3-devel</b>'
+Comment='<span size="xx-large">Developer files for python-ZODB3</span>'
+Comment3='
+Files for developing applications using Python extensions of ZODB.
+'
+License='ZPLv2.1'
+Screenshot=''
+Url='http://www.zodb.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

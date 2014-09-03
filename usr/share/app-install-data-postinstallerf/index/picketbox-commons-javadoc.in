@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>picketbox-commons-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for picketbox-commons</span>'
+Comment3='
+API documentation for picketbox-commons.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/picketbox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

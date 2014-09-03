@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sugar-nutrition</b>'
+Comment='<span size="xx-large">A collection of nutrition games</span>'
+Comment3='
+Nutrition is a collection of nutrition games for sugar. There are
+four games related to nutrition. In all games the user is asked a
+question and provided with options. If he/she picks the correct
+answer a smiley face will appear. It educates the children about
+food and nutrition.
+'
+License='GPLv3+ and MIT'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Nutrition'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

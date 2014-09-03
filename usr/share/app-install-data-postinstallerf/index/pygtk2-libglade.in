@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pygtk2-libglade</b>'
+Comment='<span size="xx-large">A wrapper for the libglade library for use with PyGTK</span>'
+Comment3='
+This module contains a wrapper for the libglade library.  Libglade allows
+a program to construct its user interface from an XML description, which
+allows the programmer to keep the UI and program logic separate.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pygtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

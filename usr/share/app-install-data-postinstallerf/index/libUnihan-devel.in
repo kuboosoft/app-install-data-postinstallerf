@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libUnihan-devel</b>'
+Comment='<span size="xx-large">Development files of libUnihan</span>'
+Comment3='
+Development files of libUnihan such as header files.
+
+URL          http//sourceforge.net/projects/libunihan
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libunihan'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>R-qvalue</b>'
+Comment='<span size="xx-large">Q-value estimation for false discovery rate control</span>'
+Comment3='
+It takes a list of p-values resulting from the simultaneous
+testing of many hypotheses and estimates their q-values.
+The q-value of a test measures the proportion of false positives
+incurred (called the false discovery rate) when that particular
+test is called significant. Various plots are automatically
+generated, allowing one to make sensible significance cut-offs.
+Several mathematical results have recently been shown on the
+conservative accuracy of the estimated q-values from this software.
+The software can be applied to problems in genomics, brain imaging,
+astrophysics, and data mining.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/qvalue.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-sabre-dav</b>'
+Comment='<span size="xx-large">WebDAV Framework for PHP</span>'
+Comment3='
+What is SabreDAV
+
+SabreDAV allows you to easily add WebDAV support to a PHP application.
+SabreDAV is meant to cover the entire standard, and attempts to allow
+integration using an easy to understand API.
+Feature list
+* Fully WebDAV compliant
+* Supports Windows XP, Windows Vista, Mac OS/X, DavFSv2, Cadaver, Netdrive,
+  Open Office, and probably more.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/fruux/sabre-dav'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

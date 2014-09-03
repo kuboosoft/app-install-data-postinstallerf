@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Tk-ProgressBar-Mac</b>'
+Comment='<span size="xx-large">Mac ProgressBar for Perl::Tk</span>'
+Comment3='
+This widget provides a dynamic image that looks just like
+a Mac OS 9 progress bar.  Packed around it are four
+Frames, north, south, east and west, within which you can
+stuff additional widgets. For example, see how TkCopyMac
+uses several Labels and a CollapsableFrame widget to create
+a reasonable facsimile of a Macintosh copy dialog.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Tk-ProgressBar-Mac/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

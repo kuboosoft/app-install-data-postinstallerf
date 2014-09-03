@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tryton</b>'
+Comment='<span size="xx-large">Client for the Tryton application framework</span>'
+Comment3='
+This is client for the Tryton application framework. The server can be found
+in the trytond package.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.tryton.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

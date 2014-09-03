@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vifm</b>'
+Comment='<span size="xx-large">Lightweight file manager with vi like key-bindings</span>'
+Comment3='
+A ncurses based CLI file manager with vi like key-bindings
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://vifm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

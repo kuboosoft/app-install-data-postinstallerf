@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-which</b>'
+Comment='<span size="xx-large">Small which replacement that can be used as a Python module</span>'
+Comment3='
+which.py is a small which replacement. It has the following features
+
+ * it can print all matches on the PATH;
+ * it can note "near misses" on the PATH (e.g. files that match but
+   may not, say, have execute permissions); and
+ * it can be used as a Python module.
+'
+License='MIT'
+Screenshot=''
+Url='http://trentm.com/projects/which/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

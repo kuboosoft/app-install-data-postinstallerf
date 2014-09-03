@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-MooseX-ClassAttribute</b>'
+Comment='<span size="xx-large">Declare class attributes Moose-style</span>'
+Comment3='
+This module allows you to declare class attributes in exactly the same way as
+object attributes, using class_has() instead of has().
+
+You can use any feature of Mooses attribute declarations, including overriding
+a parents attributes, delegation (handles), and attribute metaclasses, and it
+should just work. The one exception is the "required" flag, which is not
+allowed for class attributes.
+The accessor methods for class attribute may be called on the class directly,
+or on objects of that class. Passing a class attribute to the constructor will
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-ClassAttribute/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

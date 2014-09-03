@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>cdparanoia</b>'
+Comment='<span size="xx-large">Compact Disc Digital Audio (CDDA) extraction tool (or ripper)</span>'
+Comment3='
+Cdparanoia (Paranoia III) reads digital audio directly from a CD, then
+writes the data to a file or pipe in WAV, AIFC or raw 16 bit linear
+PCM format.  Cdparanoia doesnt contain any extra features (like the ones
+included in the cdda2wav sampling utility).  Instead, cdparanoias strength
+lies in its ability to handle a variety of hardware, including inexpensive
+drives prone to misalignment, frame jitter and loss of streaming during
+atomic reads.  Cdparanoia is also good at reading and repairing data from
+damaged CDs.
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://www.xiph.org/paranoia/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

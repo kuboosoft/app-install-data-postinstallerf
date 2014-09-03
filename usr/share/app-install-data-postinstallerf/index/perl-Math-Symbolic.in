@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Math-Symbolic</b>'
+Comment='<span size="xx-large">Symbolic calculations</span>'
+Comment3='
+MathSymbolic is intended to offer symbolic calculation capabilities to
+the Perl programmer without using external (and commercial) libraries
+and/or applications.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Math-Symbolic/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

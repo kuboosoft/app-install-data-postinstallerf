@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>vtk</b>'
+Comment='<span size="xx-large">The Visualization Toolkit - A high level 3D visualization library</span>'
+Comment3='
+VTK is an open-source software system for image processing, 3D
+graphics, volume rendering and visualization. VTK includes many
+advanced algorithms (e.g., surface reconstruction, implicit modeling,
+decimation) and rendering techniques (e.g., hardware-accelerated
+volume rendering, LOD control).
+
+'
+License='BSD'
+Screenshot=''
+Url='http://vtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

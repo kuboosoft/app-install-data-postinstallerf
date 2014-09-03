@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Perl6-Caller</b>'
+Comment='<span size="xx-large">OO caller() interface</span>'
+Comment3='
+By default, this module exports the caller function. This automatically
+returns a new caller object. An optional argument specifies how many stack
+frames back to skip, just like the COREcaller function. This lets you do
+things like this
+
+    print "In ",           caller->subroutine,
+          " called from ", caller->filename,
+          " line ",        caller->line;
+If you do not wish the caller function imported, specify an empty import list
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/Perl6-Caller'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-psfragx</b>'
+Comment='<span size="xx-large">A psfrag eXtension</span>'
+Comment3='
+PSfragX offers a mechanism to embed \psfrag commands, as
+provided by the psfrag package, into the EPS file itself. Each
+time a graphic is included, the EPS file is scanned. If some
+tagged lines are found, they are used to define the psfrag
+replacements that should be performed automatically. In
+addition, a similar mechanism holds for overpic objects. These
+are picture objects superimposed on the included graphic. A
+similar mechanism is implemented in psfrag itself (but
+deprecated in the documentation), but psfragx offers much more
+flexibility. For example, if babel is used, it is possible to
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

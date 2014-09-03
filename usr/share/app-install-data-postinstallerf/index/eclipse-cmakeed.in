@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-cmakeed</b>'
+Comment='<span size="xx-large">CMake Editor plug-in for Eclipse</span>'
+Comment3='
+The CMakeEd plug-in provides an editor for CMake files. The plug-in registers
+an editor for files named CMakeLists.txt and *.cmake.
+'
+License='CPL'
+Screenshot=''
+Url='http://cmakeed.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

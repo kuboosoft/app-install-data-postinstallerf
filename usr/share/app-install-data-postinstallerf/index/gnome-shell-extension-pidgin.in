@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gnome-shell-extension-pidgin</b>'
+Comment='<span size="xx-large">The components necessary to integrate Pidgin with GNOME Shell</span>'
+Comment3='
+This package contains the necessary components to integrate pidgin with
+GNOME Shell
+* Izhar Firdauss GNOME Shell Extension to display Pidgin chats as
+  notifications in the Shell message tray.
+* Wojtek Sur?wkas Pidgin status notifier plugin
+
+In order to activate these components, you will need to
+* Be running Pidgin (the extension uses Pidgins DBUS API)
+* Restart GNOME Shell after installation
+* Enable the "GNOME Shell Connector" plugin within Pidgin
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/Psykar/gnome-shell-extensions-pidgin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

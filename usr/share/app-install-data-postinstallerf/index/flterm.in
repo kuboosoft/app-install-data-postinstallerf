@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>flterm</b>'
+Comment='<span size="xx-large">Firmware download program</span>'
+Comment3='
+flterm is a serial terminal, and firmware download program.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://milkymist.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

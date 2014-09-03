@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gupnp-dlna-devel</b>'
+Comment='<span size="xx-large">Development package for gupnp-dlna</span>'
+Comment3='
+Contains libraries and header files for developing applications that
+use gupnp-dlna.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gupnp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

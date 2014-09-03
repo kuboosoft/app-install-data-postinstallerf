@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openscap-engine-sce</b>'
+Comment='<span size="xx-large">Script Check Engine plug-in for OpenSCAP</span>'
+Comment3='
+The Script Check Engine is non-standard extension to SCAP protocol. This
+engine allows content authors to avoid OVAL language and write their assessment
+commands using a scripting language (Bash, Perl, Python, Ruby, ...).
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.open-scap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

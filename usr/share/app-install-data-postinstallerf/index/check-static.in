@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>check-static</b>'
+Comment='<span size="xx-large">Static libraries of check</span>'
+Comment3='
+Static libraries of check.
+
+URL          http//check.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://check.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

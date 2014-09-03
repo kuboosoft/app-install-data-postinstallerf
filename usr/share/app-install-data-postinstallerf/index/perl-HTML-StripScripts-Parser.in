@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-HTML-StripScripts-Parser</b>'
+Comment='<span size="xx-large">XSS filter using HTML::Parser</span>'
+Comment3='
+This class provides an easy interface to HTMLStripScripts, using
+HTMLParser to parse the HTML.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-StripScripts-Parser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

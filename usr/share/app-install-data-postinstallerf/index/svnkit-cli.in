@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>svnkit-cli</b>'
+Comment='<span size="xx-large">Jsvn is a pure java Subversion client</span>'
+Comment3='
+Includes jsvn, a pure java Subversion command line interface based on SVNKit.
+'
+License='TMate'
+Screenshot=''
+Url='http://www.svnkit.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

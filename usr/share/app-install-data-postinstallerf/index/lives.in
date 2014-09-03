@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>lives</b>'
+Comment='<span size="xx-large">LiVES is a Video Editing System</span>'
+Comment3='
+LiVES began in 2002 as the Linux Video Editing System.
+Since it now runs on more operating systems LiVES is a Video Editing System.
+It is designed to be simple to use, yet powerful.
+It is small in size, yet it has many advanced features.
+
+'
+License='GPLv3'
+Screenshot=''
+Url='http://lives.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

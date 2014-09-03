@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkcddb-devel</b>'
+Comment='<span size="xx-large">Development files for libkcddb</span>'
+Comment3='
+Development files for libkcddb.
+
+URL          http//www.kde.org/
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

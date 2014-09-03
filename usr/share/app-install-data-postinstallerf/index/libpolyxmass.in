@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libpolyxmass</b>'
+Comment='<span size="xx-large">Polymer chemistry-related functionalities</span>'
+Comment3='
+libpolyxmass is a library that implements some housekeeping
+functionalities and polymer chemistry-related functionalities that are
+used in the other modules of the GNU polyxmass mass spectrometry
+framework. It was born as the merge of the two libpxmutils and
+libpxmchem libraries (last versions of these two libraries were for
+both 0.7.0). This fact is still visible as the files do have either
+"pxmutils-" or "pxmchem-" as prefix in their name. This nomenclature
+is going to be maintained as it helps understanding the
+functionalities that are housed in the different files of the new
+library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.polyxmass.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

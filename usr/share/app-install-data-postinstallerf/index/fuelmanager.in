@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fuelmanager</b>'
+Comment='<span size="xx-large">Manage fuel mileage</span>'
+Comment3='
+Application that keeps track of four things, miles, gallons, cost, and
+the date of each fill-up.  It generates monthly and yearly summaries of
+miles driven, cost of fuel,how many gallons, and fuel mileage.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/projects/fuelmanager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

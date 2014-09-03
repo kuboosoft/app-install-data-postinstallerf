@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bookkeeper-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for bookkeeper</span>'
+Comment3='
+This package contains javadoc for bookkeeper.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://zookeeper.apache.org/bookkeeper/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

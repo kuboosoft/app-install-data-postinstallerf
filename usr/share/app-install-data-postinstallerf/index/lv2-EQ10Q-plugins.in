@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>lv2-EQ10Q-plugins</b>'
+Comment='<span size="xx-large">LV2 Plugin: Parametric audio equalizer with 12 different filter types</span>'
+Comment3='
+EQ10Q is an audio plug-in using the LV2 standard implementing a powerful and
+flexible parametric equalizer.
+The goal is to create an equalizer plug-in that includes parametric equalization
+with different filter types like peaking, HPF, LPF, Shelving and Notch with IIR
+algorithms and a nice GUI displaying the equalization curve.
+At the moment we have implemented second order biquadratic filters (Peaking,
+Low Shelving, High Shelving and Notch), and configurable order (1, 2, 3, 4) HPF
+and LPF filters. All with IIR algorithms.
+'
+License='GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://eq10q.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

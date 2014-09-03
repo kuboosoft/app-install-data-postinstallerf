@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rzip</b>'
+Comment='<span size="xx-large">A large-file compression program</span>'
+Comment3='
+rzip is a compression program, similar in functionality to gzip or
+bzip2, but able to take advantage of long distance redundancies in
+files, which can sometimes allow rzip to produce much better
+compression ratios than other programs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rzip.samba.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

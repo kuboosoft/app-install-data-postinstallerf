@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xpad</b>'
+Comment='<span size="xx-large">Sticky notepad for GTK+2</span>'
+Comment3='
+Xpad is a sticky note application that strives to be simple, fault-tolerant,
+and customizable. It consists of independent pad windows; each is basically a
+text box in which notes can be written. Despite being called xpad, all that is
+needed to run or compile it is the GTK+ 2.0 libraries.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://launchpad.net/xpad'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gecode-devel</b>'
+Comment='<span size="xx-large">Development files for gecode</span>'
+Comment3='
+The gecode-devel package contains libraries and header files for
+developing applications that use gecode.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gecode.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

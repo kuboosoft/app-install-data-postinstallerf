@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libetonyek-devel</b>'
+Comment='<span size="xx-large">Development files for libetonyek</span>'
+Comment3='
+The libetonyek-devel package contains libraries and header files for
+developing applications that use libetonyek.
+
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/libetonyek/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

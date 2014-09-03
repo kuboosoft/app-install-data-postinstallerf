@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ptlib</b>'
+Comment='<span size="xx-large">Portable Tools Library</span>'
+Comment3='
+PTLib (Portable Tools Library) is a moderately large class library that
+has its genesis many years ago as PWLib (portable Windows Library), a
+method to product applications to run on both Microsoft Windows and Unix
+systems. It has also been ported to other systems such as Mac OSX, VxWorks
+and other embedded systems.
+
+It is supplied mainly to support the OPAL project, but that shouldnt stop
+you from using it in whatever project you have in mind if you so desire.
+'
+License='MPLv1.0'
+Screenshot=''
+Url='http://www.opalvoip.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

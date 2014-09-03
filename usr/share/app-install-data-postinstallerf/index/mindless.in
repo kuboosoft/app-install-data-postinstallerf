@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mindless</b>'
+Comment='<span size="xx-large">Find the secret code</span>'
+Comment3='
+This is a simple game for two players using the rules of Mastermind.
+You can play in human vs. human, human vs. computer or computer
+vs. computer mode.  The goal of the game is to crack a secret code
+consisting of four balls which can each be one of eight colors.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lysator.liu.se/~mbrx/mindless/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

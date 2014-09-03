@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>erlang-lager</b>'
+Comment='<span size="xx-large">A logging framework for Erlang/OTP</span>'
+Comment3='
+Lager (as in the beer) is a logging framework for Erlang. Its purpose is to
+provide a more traditional way to perform logging in an erlang application that
+plays nicely with traditional UNIX logging tools like logrotate and syslog.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/lager'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

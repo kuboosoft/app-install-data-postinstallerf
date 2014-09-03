@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-TheSchwartz</b>'
+Comment='<span size="xx-large">Reliable job queue</span>'
+Comment3='
+TheSchwartz is a reliable job queue system. Your application can put jobs
+into the system and your worker processes can pull jobs from the queue
+atomically to perform. Failed jobs can be left in the queue to retry later.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/TheSchwartz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

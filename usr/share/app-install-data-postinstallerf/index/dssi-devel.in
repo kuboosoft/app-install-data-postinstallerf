@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dssi-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc to develop DSSI applications</span>'
+Comment3='
+Libraries, include files, etc you can use to develop DSSI based applications.
+
+URL          http//dssi.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://dssi.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

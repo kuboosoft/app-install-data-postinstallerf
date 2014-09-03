@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-jsf-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for maven-jsf-plugin</span>'
+Comment3='
+This package contains the API documentation for maven-jsf-plugin.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/primefaces/source/browse/maven/tags/maven-jsf-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

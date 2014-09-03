@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-transaction</b>'
+Comment='<span size="xx-large">Transaction management for Python 3</span>'
+Comment3='
+This package contains a generic transaction implementation for Python. It is
+mainly used by the ZODB, though.
+'
+License='ZPLv2.1'
+Screenshot=''
+Url='http://pypi.python.org/pypi/transaction'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>timidity++</b>'
+Comment='<span size="xx-large">A software wavetable MIDI synthesizer</span>'
+Comment3='
+TiMidity++ is a MIDI format to wave table format converter and
+player. Install timidity++ if youd like to play MIDI files and your
+sound card does not natively support wave table format.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://timidity.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libidzebra-modules</b>'
+Comment='<span size="xx-large">Zebra modules</span>'
+Comment3='
+Modules for the Zebra search engine
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.indexdata.dk/zebra/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

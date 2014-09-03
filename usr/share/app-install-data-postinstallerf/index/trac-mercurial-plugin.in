@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>trac-mercurial-plugin</b>'
+Comment='<span size="xx-large">Mercurial plugin for Trac</span>'
+Comment3='
+This plugin for Trac provides support for the Mercurial SCM.
+'
+License='GPL+'
+Screenshot=''
+Url='http://trac.edgewall.org/wiki/TracMercurial'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

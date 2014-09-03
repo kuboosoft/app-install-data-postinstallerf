@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-romanneg</b>'
+Comment='<span size="xx-large">Roman page numbers negative</span>'
+Comment3='
+Causes the page numbers in the DVI file (as defined by \count0)
+to be negative when roman pagenumbering is in effect.
+
+date 2010-10-13 121338 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

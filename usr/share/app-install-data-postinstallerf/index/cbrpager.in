@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cbrpager</b>'
+Comment='<span size="xx-large">Simple comic book pager for Linux</span>'
+Comment3='
+A no-nonsense, simple to use, small viewer for cbr and cbz
+(comic book archive) files. As it is written in C,
+the executable is small and fast. It views jpg (or jpeg),
+gif and png images, and you can zoom in and out.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.jcoppens.com/soft/cbrpager/index.en.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

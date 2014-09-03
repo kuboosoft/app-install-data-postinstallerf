@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vxl-devel</b>'
+Comment='<span size="xx-large">Headers and development libraries for VXL</span>'
+Comment3='
+
+You should install this package if you would like to
+develop code based on VXL.
+'
+License='BSD'
+Screenshot=''
+Url='http://vxl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

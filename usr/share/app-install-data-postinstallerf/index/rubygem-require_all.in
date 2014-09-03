@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>rubygem-require_all</b>'
+Comment='<span size="xx-large">A wonderfully simple way to load your code</span>'
+Comment3='
+A wonderfully simple way to load your code.
+
+Tired of futzing around with require statements everywhere,
+littering your code with require File (__FILE__) crap?
+What if you could just point something at a big directory full
+of code and have everything just auto-magically load regardless
+of the dependency structure?
+Wouldnt that be nice? Well, now you can!
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jarmo/require_all'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

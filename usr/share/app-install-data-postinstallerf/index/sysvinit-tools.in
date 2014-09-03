@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sysvinit-tools</b>'
+Comment='<span size="xx-large">Tools used for process and utmp management.</span>'
+Comment3='
+The sysvinit-tools package contains various tools used for process
+management.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/sysvinit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

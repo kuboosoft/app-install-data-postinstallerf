@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-cowboy</b>'
+Comment='<span size="xx-large">Small, fast, modular HTTP server written in Erlang</span>'
+Comment3='
+Small, fast, modular HTTP server written in Erlang.
+'
+License='ISC'
+Screenshot=''
+Url='http://ninenines.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

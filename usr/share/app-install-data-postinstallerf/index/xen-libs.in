@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xen-libs</b>'
+Comment='<span size="xx-large">Libraries for Xen tools</span>'
+Comment3='
+This package contains the libraries needed to run applications
+which manage Xen virtual machines.
+
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://xen.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

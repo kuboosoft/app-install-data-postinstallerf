@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-utopia</b>'
+Comment='<span size="xx-large">Adobe Utopia fonts</span>'
+Comment3='
+The Adobe Standard Encoding set (upright and italic shapes,
+medium and bold weights) of the Utopia font family, which Adobe
+donated to the X Consortium. Macro support, and maths fonts
+that match the Utopia family, are provided by the Fourier and
+the Mathdesign Utopia font packages.
+
+date 2007-10-04 103517 +0200
+'
+License='Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

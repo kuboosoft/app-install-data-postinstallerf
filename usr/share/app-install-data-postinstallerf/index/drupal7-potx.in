@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>drupal7-potx</b>'
+Comment='<span size="xx-large">Translation template extractor</span>'
+Comment3='
+The Translation template extractor provides a web based and a command line
+Gettext translation template extractor interface for Drupal as well as a
+reusable API to look for translatable strings and translatability errors.
+This tool is used under the hood at http//localize.drupal.org/ as well to
+serve as a parsing machine for Drupal.org project releases.
+
+This package provides the following Drupal module
+* potx
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/potx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

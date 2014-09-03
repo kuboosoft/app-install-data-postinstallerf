@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-sqlobject</b>'
+Comment='<span size="xx-large">SQLObject Object-Relational Manager, aka database wrapper</span>'
+Comment3='
+Classes created using SQLObject wrap database rows, presenting a
+friendly-looking Python object instead of a database/SQL interface.
+Emphasizes convenience.  Works with MySQL, Postgres, SQLite, Firebird.
+
+This package requires sqlite. Futher database connectors have to be
+installed separately.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sqlobject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

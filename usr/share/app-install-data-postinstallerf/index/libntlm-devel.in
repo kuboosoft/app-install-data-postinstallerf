@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libntlm-devel</b>'
+Comment='<span size="xx-large">Development files for libntlm</span>'
+Comment3='
+The libntlm-devel package contains libraries and header files for
+developing applications that use libntlm.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://nongnu.org/libntlm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

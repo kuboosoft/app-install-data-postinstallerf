@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>intel-gpu-tools</b>'
+Comment='<span size="xx-large">Debugging tools for Intel graphics chips</span>'
+Comment3='
+Debugging tools for Intel graphics chips
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lv2-synthv1</b>'
+Comment='<span size="xx-large">An LV2 port of synthv1</span>'
+Comment3='
+An LV2 plugin of the synthv1 subtractive synthesizer
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/synthv1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

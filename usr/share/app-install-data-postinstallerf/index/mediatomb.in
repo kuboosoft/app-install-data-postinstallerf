@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mediatomb</b>'
+Comment='<span size="xx-large">MediaTomb - UPnP AV Mediaserver for Linux</span>'
+Comment3='
+MediaTomb is an open source (GPL) UPnP MediaServer with a nice web user
+interface, it allows you to stream your digital media through your home
+network and listen to/watch it on a variety of UPnP compatible devices.
+
+MediaTomb implements the UPnP MediaServer V 1.0 specification that can
+be found on http//www.upnp.org/.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://mediatomb.cc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

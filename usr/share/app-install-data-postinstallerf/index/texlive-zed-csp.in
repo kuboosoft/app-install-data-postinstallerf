@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-zed-csp</b>'
+Comment='<span size="xx-large">Typesetting Z and CSP format specifications</span>'
+Comment3='
+The package supports real-time CSP and incorporates the
+functionality of Spiveys original Z package, written for LaTeX
+2.09.
+
+date 2008-04-05 210550 +0200
+'
+License='Zed'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

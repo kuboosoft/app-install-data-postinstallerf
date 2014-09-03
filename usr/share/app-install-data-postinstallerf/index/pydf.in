@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pydf</b>'
+Comment='<span size="xx-large">Fully colorized df clone written in python</span>'
+Comment3='
+pydf displays the amount of used and available space on your file systems,
+just like df, but in colors. The output format is completely customizable.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://kassiopeia.juls.savba.sk/~garabik/software/pydf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

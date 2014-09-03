@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>syntastic-d</b>'
+Comment='<span size="xx-large">A syntax checker for d programming language</span>'
+Comment3='
+Allows checking d sources files.
+'
+License='WTFPL'
+Screenshot=''
+Url='https://github.com/scrooloose/syntastic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

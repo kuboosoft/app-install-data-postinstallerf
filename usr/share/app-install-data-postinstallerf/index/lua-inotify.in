@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lua-inotify</b>'
+Comment='<span size="xx-large">Inotify bindings for Lua</span>'
+Comment3='
+This is linotify, a binding for Linuxs inotify library to Lua.
+'
+License='MIT'
+Screenshot=''
+Url='http://hoelz.ro/projects/linotify'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

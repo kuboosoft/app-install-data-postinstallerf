@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bval</b>'
+Comment='<span size="xx-large">Apache Bean Validation</span>'
+Comment3='
+Apache BVal delivers an implementation of the Bean Validation
+Specification (JSR303), which is TCK compliant and
+works on Java SE 5 or later. The initial codebase for the
+project was donated to the ASF by a SGA from Agimatec GmbH.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://bval.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

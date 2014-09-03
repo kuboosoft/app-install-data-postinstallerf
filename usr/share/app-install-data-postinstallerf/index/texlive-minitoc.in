@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-minitoc</b>'
+Comment='<span size="xx-large">Produce a table of contents for each chapter, part or section</span>'
+Comment3='
+The minitoc package allows you to add mini-tables-of-contents
+(minitocs) at the beginning of every chapter, part or section.
+There is also provision for mini-lists of figures and of
+tables. At the part level, they are parttocs, partlofs and
+partlots. If the type of document does not use chapters, the
+basic provision is section level secttocs, sectlofs and
+sectlots. The package has provision for language-specific
+configuration of its own "fixed names", using .mld files
+(analagous to babel .ldf files that do that job for LaTeX"s own
+fixed names).
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

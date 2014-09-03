@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mldonkey</b>'
+Comment='<span size="xx-large">Multiple P2P Network Client</span>'
+Comment3='
+MLDonkey is a door to the donkey network, a decentralized network used to
+exchange big files on the Internet. It is written in a wonderful language,
+called Objective-Caml, and present most features of the basic Windows donkey
+client, plus some more
+- It should work on most UNIX-compatible platforms.
+- You can remotely command your client, either by telnet (port 4000),
+    by a WEB browser (http//localhost4080), or with a classical client
+    interface (see http//www.nongnu.org/mldonkey)
+- You can connect to several servers, and each search will query all the
+    connected servers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mldonkey.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

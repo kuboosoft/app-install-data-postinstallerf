@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>root-genetic</b>'
+Comment='<span size="xx-large">Genetic algorithms for ROOT</span>'
+Comment3='
+This package contains a genetic minimizer module for ROOT.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

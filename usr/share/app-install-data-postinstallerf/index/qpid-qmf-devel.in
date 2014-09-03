@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qpid-qmf-devel</b>'
+Comment='<span size="xx-large">Header files and tools for developing QMF extensions</span>'
+Comment3='
+Header files and code-generation tools needed for developers of QMF-managed
+components.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtidyp-devel</b>'
+Comment='<span size="xx-large">Development files for libtidyp</span>'
+Comment3='
+Development files for libtidyp.
+
+URL          http//www.tidyp.com/
+'
+License='W3C'
+Screenshot=''
+Url='http://www.tidyp.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

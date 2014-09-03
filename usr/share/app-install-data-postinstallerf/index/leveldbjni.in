@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>leveldbjni</b>'
+Comment='<span size="xx-large">A Java Native Interface to LevelDB</span>'
+Comment3='
+LevelDB JNI gives you a Java interface to the
+LevelDB C++ library which is a fast key-value
+storage library written at Google that provides
+an ordered mapping from string keys to string
+values.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/fusesource/leveldbjni/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

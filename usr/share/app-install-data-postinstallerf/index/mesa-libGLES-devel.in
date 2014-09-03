@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mesa-libGLES-devel</b>'
+Comment='<span size="xx-large">Mesa libGLES development package</span>'
+Comment3='
+Mesa libGLES development package
+
+URL          http//www.mesa3d.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mesa3d.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

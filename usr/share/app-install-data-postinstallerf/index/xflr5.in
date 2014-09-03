@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xflr5</b>'
+Comment='<span size="xx-large">Analysis tool for airfoils, wings and planes</span>'
+Comment3='
+XFLR5 is an analysis tool for airfoils, wings and planes operating at low
+Reynolds Numbers. It includes
+1. XFoils Direct and Inverse analysis capabilities
+2. Wing design and analysis capabilities based on the Lifiting Line Theory, on
+   the Vortex Lattice Method, and on a 3D Panel Method
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xflr5.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

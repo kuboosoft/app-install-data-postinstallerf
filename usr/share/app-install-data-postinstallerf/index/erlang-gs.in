@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-gs</b>'
+Comment='<span size="xx-large">A library for Tcl/Tk support in Erlang</span>'
+Comment3='
+A Graphics System used to write platform independent user interfaces.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

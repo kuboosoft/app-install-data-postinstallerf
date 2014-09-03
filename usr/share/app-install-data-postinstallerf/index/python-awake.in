@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-awake</b>'
+Comment='<span size="xx-large">A Python 2 library to wake on LAN a remote host</span>'
+Comment3='
+A Python 2 library to wake on LAN a remote host.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/cyraxjoe/awake'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

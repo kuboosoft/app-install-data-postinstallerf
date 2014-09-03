@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cdargs-devel</b>'
+Comment='<span size="xx-large">Development files for cdargs</span>'
+Comment3='
+This package contains development files for cdargs.
+
+URL          http//www.skamphausen.de/cgi-bin/ska/CDargs/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.skamphausen.de/cgi-bin/ska/CDargs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

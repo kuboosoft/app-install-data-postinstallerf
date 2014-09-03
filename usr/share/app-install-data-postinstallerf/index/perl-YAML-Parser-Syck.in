@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-YAML-Parser-Syck</b>'
+Comment='<span size="xx-large">Perl Wrapper for the YAML Parser Extension: libsyck</span>'
+Comment3='
+libsyck is a *gift* from a gifted Stiff named Why.
+
+YAMLParserSyck is an XS module that binds libsyck to Perl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/YAML-Parser-Syck/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qt-at-spi</b>'
+Comment='<span size="xx-large">Qt plugin that bridges Qts accessibility API to AT-SPI2</span>'
+Comment3='
+This is a Qt plugin that bridges Qts accessibility API to AT-SPI2.
+With recent versions of AT-SPI2 this should make Qt applications accessible
+with the help of tools such as Gnomes Orca screen-reader.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://gitorious.org/qt-at-spi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

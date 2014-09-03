@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libguestfs-java</b>'
+Comment='<span size="xx-large">Java bindings for libguestfs</span>'
+Comment3='
+libguestfs-java contains Java bindings for libguestfs.
+
+If you want to develop software in Java which uses libguestfs, then
+you will also need libguestfs-java-devel.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

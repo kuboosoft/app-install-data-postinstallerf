@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wallpaperd</b>'
+Comment='<span size="xx-large">Background setter supporting random images and per-workspace images</span>'
+Comment3='
+Wallpaperd is a small application that takes care of setting the background
+image. Wallpaperd was created due to a friend requesting to have different
+wallpapers on the different workspaces in Pekwm.
+
+Wallpaperd now supports
+* Changing wallpaper on workspace change.
+* Changing wallpaper every X amount of time.
+* Changing wallpaper based on a GNOME background.xml file.
+* Support for specifying centered, zoomed, tiled and fill image modes.
+* Selecting wallpaper based on workspace number.
+'
+License='MIT'
+Screenshot=''
+Url='http://projects.pekdon.net/projects/wallpaperd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

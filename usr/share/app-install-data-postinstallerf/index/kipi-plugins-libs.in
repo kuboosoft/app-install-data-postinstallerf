@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kipi-plugins-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for kipi-plugins</span>'
+Comment3='
+Runtime libraries for kipi-plugins.
+
+URL          http//www.digikam.org/
+'
+License='GPLv2+ and Adobe'
+Screenshot=''
+Url='http://www.digikam.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-chronic-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-chronic</span>'
+Comment3='
+Documentation for rubygem-chronic
+'
+License='MIT'
+Screenshot=''
+Url='http://chronic.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

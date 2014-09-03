@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-constant-boolean</b>'
+Comment='<span size="xx-large">Define TRUE and FALSE constants</span>'
+Comment3='
+Defines TRUE and FALSE constants in callers namespace. You could use
+simple values like empty string or zero for false, or any non-empty and non-
+zero string value as true, but the TRUE and FALSE constants are more
+descriptive.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/constant-boolean/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

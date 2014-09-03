@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>getdata-devel</b>'
+Comment='<span size="xx-large">Headers required when building programs against getdata</span>'
+Comment3='
+Headers required when building a program against the GetData library.
+Includes C++ and FORTRAN (77 & 95) bindings.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://getdata.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

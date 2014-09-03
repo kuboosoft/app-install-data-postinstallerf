@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gtksourceviewmm3</b>'
+Comment='<span size="xx-large">A C++ wrapper for gtksourceview3</span>'
+Comment3='
+gtksourceviewmm is a C++ wrapper for the gtksourceview widget
+library. It offers all the power of gtksourceview with an interface
+familiar to c++ developers, including users of the gtkmm library
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/gtksourceviewmm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

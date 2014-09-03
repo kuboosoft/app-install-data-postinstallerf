@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pcl-devel</b>'
+Comment='<span size="xx-large">Development files for pcl</span>'
+Comment3='
+The pcl-devel package contains libraries and header files for
+developing applications that use pcl.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://pointclouds.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

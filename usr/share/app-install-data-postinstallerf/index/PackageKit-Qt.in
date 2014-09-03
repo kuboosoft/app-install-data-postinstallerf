@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PackageKit-Qt</b>'
+Comment='<span size="xx-large">Qt support library for PackageKit</span>'
+Comment3='
+PackageKit-qt is a Qt support library for PackageKit
+
+URL          http//www.packagekit.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

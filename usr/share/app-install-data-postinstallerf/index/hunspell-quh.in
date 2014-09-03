@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-quh</b>'
+Comment='<span size="xx-large">Quechua, South Bolivia hunspell dictionaries</span>'
+Comment3='
+Quechua South Bolivia hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.runasimipi.org/blanco-en.php?file=desarrollar-orto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

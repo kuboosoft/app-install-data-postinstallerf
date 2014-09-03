@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libxml2-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. to develop XML and HTML applications</span>'
+Comment3='
+Libraries, include files, etc you can use to develop XML applications.
+This library allows to manipulate XML files. It includes support
+to read, modify and write XML and HTML files. There is DTDs support
+this includes parsing and validation even with complex DtDs, either
+at parse time or later once the document has been modified. The output
+can be a simple SAX stream or and in-memory DOM like representations.
+In this case one can use the built-in XPath and XPointer implementation
+to select sub nodes or ranges. A flexible Input/Output mechanism is
+available, with existing HTTP and FTP modules and combined to an
+URI library.
+'
+License='MIT'
+Screenshot=''
+Url='http://xmlsoft.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

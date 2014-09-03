@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-capillary-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-capillary</span>'
+Comment3='
+Documentation for rubygem-capillary
+'
+License='AGPLv3+'
+Screenshot=''
+Url='https://gitorious.org/capillary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

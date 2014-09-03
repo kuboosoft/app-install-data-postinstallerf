@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libproxy-bin</b>'
+Comment='<span size="xx-large">Binary to test libproxy</span>'
+Comment3='
+The libproxy-bin package contains the proxy binary for libproxy
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/libproxy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

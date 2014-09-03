@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Net-SSH-Expect</b>'
+Comment='<span size="xx-large">Net-SSH-Expect - SSH wrapper to execute remote commands</span>'
+Comment3='
+This module is a wrapper to the *ssh* executable that is available in
+your systems *$PATH*. Use this module to execute commands on the
+remote SSH server. It authenticates with the user and password you
+passed in the constructors attributes "user" and "password".
+
+Once an ssh connection was started using the "connect()" method it will
+remain open until you call the "close()" method. This allows you execute
+as many commands as you want with the "exec()" method using only one
+connection. This is a better approach over other ssh wrapper
+implementations, i.e NetSCP, NetSSH and NetSCPExpect, that
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-SSH-Expect/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

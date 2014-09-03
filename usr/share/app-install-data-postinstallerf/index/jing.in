@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>jing</b>'
+Comment='<span size="xx-large">RELAX NG validator in Java</span>'
+Comment3='
+Jing is a RELAX NG validator written in Java.  It implements the RELAX
+NG 1.0 Specification, RELAX NG Compact Syntax, and parts of RELAX NG
+DTD Compatibility, specifically checking of ID/IDREF/IDREFS.  It also
+has experimental support for schema languages other than RELAX NG;
+specifically W3C XML Schema, Schematron 1.5, and Namespace Routing
+Language.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/jing-trang/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bitfrost-sugar</b>'
+Comment='<span size="xx-large">OLPC bitfrost security modules</span>'
+Comment3='
+Bitfrost python modules which interact with Sugar components.
+'
+License='LGPLv2+ and GPLv2+ and Public Domain'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Bitfrost'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

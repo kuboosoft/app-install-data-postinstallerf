@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mISDN</b>'
+Comment='<span size="xx-large">Userspace part of Modular ISDN stack</span>'
+Comment3='
+mISDN (modular ISDN) is intended to be the new ISDN stack for the
+Linux 2.6 kernel, from the maintainer of the existing isdn4linux
+code. This package contains the userspace libraries required to
+interface directly to mISDN.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.misdn.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

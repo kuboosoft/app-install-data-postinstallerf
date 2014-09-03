@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>sratom-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for sratom</span>'
+Comment3='
+sratom is a C library for serializing LV2 atoms to/from Turtle. It is
+intended to be a full serialization solution for LV2 atoms, allowing
+implementations to serialize binary atoms to strings and read them back again.
+This is particularly useful for saving plugin state, or implementing plugin
+control with network transparency.
+
+This package contains the headers and development libraries for sratom.
+'
+License='MIT'
+Screenshot=''
+Url='http://drobilla.net/software/sratom/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

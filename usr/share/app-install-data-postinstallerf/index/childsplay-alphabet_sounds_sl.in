@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>childsplay-alphabet_sounds_sl</b>'
+Comment='<span size="xx-large">Slovenian alphabet sounds for Childsplay</span>'
+Comment3='
+Slovenian alphabet sounds for Childsplay
+'
+License='CC-BY'
+Screenshot=''
+Url='http://www.schoolsplay.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

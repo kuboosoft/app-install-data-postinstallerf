@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-ansi2html</b>'
+Comment='<span size="xx-large">Python module that converts text with ANSI color to HTML</span>'
+Comment3='
+The ansi2html module can convert text with ANSI color codes to HTML.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://github.com/ralphbean/ansi2html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

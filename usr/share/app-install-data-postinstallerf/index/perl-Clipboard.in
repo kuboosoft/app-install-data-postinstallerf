@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Clipboard</b>'
+Comment='<span size="xx-large">Copy and paste with any OS</span>'
+Comment3='
+Who doesnt remember the first time they learned to copy and paste, and
+generated an exponentially growing text document? Yes, thats right,
+clipboards are magical.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Clipboard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

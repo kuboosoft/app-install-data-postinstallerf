@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fedrepos</b>'
+Comment='<span size="xx-large">Update fedora yum repositories on a host to use a single source</span>'
+Comment3='
+Update all fedora yum repositories on a host to use a single source. The user
+may specify baseurl, mirrorlist, metalink, or default, and all fedora repos will
+be updated accordingly.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/mdbooth/fedrepos'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

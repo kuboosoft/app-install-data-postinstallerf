@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-tinycss</b>'
+Comment='<span size="xx-large">CSS parser for Python</span>'
+Comment3='
+tinycss is a complete yet simple CSS parser for Python. It supports
+the full syntax and error handling for CSS 2.1 as well as some CSS 3
+modules. It is designed to be easy to extend for new CSS modules and
+syntax, and integrates well with cssselect for Selectors 3 support.
+'
+License='BSD'
+Screenshot=''
+Url='http://pythonhosted.org/tinycss/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

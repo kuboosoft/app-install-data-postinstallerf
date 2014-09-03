@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>apache-commons-launcher</b>'
+Comment='<span size="xx-large">A cross platform Java application launcher</span>'
+Comment3='
+Commons-launcher eliminates the need for a batch or shell script to launch a
+Java class. Some situations where elimination of a batch or shell script may
+be desirable are
+
+* You want to avoid having to determining where certain application paths are
+e.g. your applications home directory, etc. Determining this dynamically in
+a Windows batch scripts is very tricky on some versions of Windows or when
+soft links are used on Unix platforms.
+* You want to avoid having to handle native file and path separators or native
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/launcher/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

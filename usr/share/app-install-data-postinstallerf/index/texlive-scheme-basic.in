@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-scheme-basic</b>'
+Comment='<span size="xx-large">basic scheme (plain and latex)</span>'
+Comment3='
+This is the basic TeX Live scheme it is a small set of files
+sufficient to typeset plain TeX or LaTeX documents in
+PostScript or PDF, using the Computer Modern fonts.  This
+scheme corresponds to collection-basic and collection-latex.
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>spice-html5</b>'
+Comment='<span size="xx-large">Pure Javascript SPICE client</span>'
+Comment3='
+spice-html5 is a Javascript SPICE client.  This includes a simple HTML
+page to initiate a session, and the client itself.  It includes a configuration
+file for Apache, but should work with any web server.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://www.spice-space.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

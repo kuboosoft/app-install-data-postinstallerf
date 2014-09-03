@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>aldusleaf-crimson-text-fonts</b>'
+Comment='<span size="xx-large">A latin font for the production of technical books and papers</span>'
+Comment3='
+A latin font for a quality typeface for the production of books and
+papers, particularly technical ones.
+'
+License='OFL'
+Screenshot=''
+Url='http://aldusleaf.org/0-crimson.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

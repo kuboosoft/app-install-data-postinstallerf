@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ppl-devel</b>'
+Comment='<span size="xx-large">Development tools for the Parma Polyhedra Library C and C++ interfaces</span>'
+Comment3='
+The header files, Autoconf macro and minimal documentation for
+developing applications using the Parma Polyhedra Library through
+its C and C++ interfaces.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.cs.unipr.it/ppl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

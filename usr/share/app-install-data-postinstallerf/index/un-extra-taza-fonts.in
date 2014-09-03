@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>un-extra-taza-fonts</b>'
+Comment='<span size="xx-large">Un Extra fonts - UnTaza</span>'
+Comment3='
+
+The UN set of Korean TrueType fonts is derived from the HLaTeX Type1 fonts
+made by Koaunghi Un in 1998. They were converted to TrueType with
+FontForge(PfaEdit) by Won-kyu Park in 2003.
+The Un Extra set is composed of
+- UnPen, UnPenheulim script
+- UnTaza typewriter style
+- UnBom decorative
+- UnShinmun
+'
+License='GPLv2'
+Screenshot=''
+Url='http://kldp.net/projects/unfonts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

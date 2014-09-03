@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sblim-gather-provider</b>'
+Comment='<span size="xx-large">SBLIM Gatherer Provider</span>'
+Comment3='
+The CIM (Common Information Model) Providers for the
+SBLIM (Standards Based Linux Instrumentation for Manageability)
+Gatherer.
+
+'
+License='EPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/sblim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-File-chdir</b>'
+Comment='<span size="xx-large">A more sensible way to change directories</span>'
+Comment3='
+Perls chdir() has the unfortunate problem of being very, very, very
+global. If any part of your program calls chdir() or if any library you
+use calls chdir(), it changes the current working directory for the
+whole program.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-chdir/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

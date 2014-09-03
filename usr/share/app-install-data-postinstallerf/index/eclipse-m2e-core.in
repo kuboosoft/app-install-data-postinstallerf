@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>eclipse-m2e-core</b>'
+Comment='<span size="xx-large">Maven integration for Eclipse</span>'
+Comment3='
+The goal of the m2ec project is to provide a first-class Apache Maven support
+in the Eclipse IDE, making it easier to edit Mavens pom.xml, run a build from
+the IDE and much more. For Java developers, the very tight integration with JDT
+greatly simplifies the consumption of Java artifacts either being hosted on open
+source repositories such as Maven Central, or in your in-house Maven repository.
+
+m2e is also a platform that let others provide better integration with
+additional Maven plugins (e.g. Android, web development, etc.), and facilitates
+the distribution of those extensions through the m2e marketplace.
+'
+License='EPL and ASL 2.0'
+Screenshot=''
+Url='http://eclipse.org/m2e/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

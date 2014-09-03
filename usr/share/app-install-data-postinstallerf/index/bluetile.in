@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>bluetile</b>'
+Comment='<span size="xx-large">Tiling window manager for GNOME</span>'
+Comment3='
+Bluetile is a tiling window manager for Linux, designed to integrate with
+the GNOME desktop environment. It provides both a traditional, stacking layout
+mode as well as tiling layouts where windows are arranged to use the entire
+screen without overlapping. Bluetile tries to make the tiling paradigm easily
+accessible to users coming from traditional window managers by drawing on known
+conventions and providing both mouse and keyboard access for all features.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/bluetile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

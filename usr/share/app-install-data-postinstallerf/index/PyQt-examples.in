@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>PyQt-examples</b>'
+Comment='<span size="xx-large">Examples for PyQt</span>'
+Comment3='
+Example code demonstrating how to use the Python bindings for Qt3.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.riverbankcomputing.com/pyqt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

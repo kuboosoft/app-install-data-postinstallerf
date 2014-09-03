@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-XML-Merge</b>'
+Comment='<span size="xx-large">Flexibly merge XML documents</span>'
+Comment3='
+This module inherits from XMLTidy which in turn inherits from XMLXPath.
+This ensures that Merge objects indenting can be tidied up after any merge
+operation since such modification usually spells the ruination of indentation.
+Polymorphism allows Merge objects to be utilized as normal XMLXPath objects
+as well.
+The merging behavior is setup to combine separate XML documents according to
+certain rules and configurable options. If both documents have root nodes which
+are elements of the same name, the documents are merged directly. Otherwise,
+one is merged as a child of the other. An optional XPath location can be
+specified as the place to perform the merge. If no location is specified, the
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-Merge/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

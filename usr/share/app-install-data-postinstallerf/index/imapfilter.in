@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>imapfilter</b>'
+Comment='<span size="xx-large">A flexible client side mail filtering utility for IMAP servers</span>'
+Comment3='
+IMAPFilter is a mail filtering utility. It connects to remote mail servers
+using the Internet Message Access Protocol (IMAP), sends searching queries
+to the server and processes mailboxes based on the results. It can be used
+to delete, copy, move, flag, etc. messages residing in mailboxes at the
+same or different mail servers. The 4rev1 and 4 versions of the IMAP
+protocol are supported.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/lefcha/imapfilter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

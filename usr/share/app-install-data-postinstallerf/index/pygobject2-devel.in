@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pygobject2-devel</b>'
+Comment='<span size="xx-large">Development files for building add-on libraries</span>'
+Comment3='
+This package contains files required to build wrappers for pygobject2-based
+libraries such as pygtk2.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pygtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

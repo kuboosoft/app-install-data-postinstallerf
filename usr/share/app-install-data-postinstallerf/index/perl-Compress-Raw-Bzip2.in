@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Compress-Raw-Bzip2</b>'
+Comment='<span size="xx-large">Low-level interface to bzip2 compression library</span>'
+Comment3='
+This module provides a Perl interface to the bzip2 compression library.
+It is used by IOCompressBzip2.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Compress-Raw-Bzip2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

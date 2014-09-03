@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-ExtUtils-H2PM</b>'
+Comment='<span size="xx-large">Automatically generate perl modules to wrap C header files</span>'
+Comment3='
+This module assists in generating wrappers around system functionality,
+such as socket() types or ioctl() calls, where the only interesting
+features required are the values of some constants or layouts of structures
+normally only known to the C header files. Rather than writing an entire XS
+module just to contain some constants and pack/unpack functions, this
+module allows the author to generate, at module build time, a pure perl
+module containing constant declarations and structure utility functions.
+The module then requires no XS module to be loaded at run time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/ExtUtils-H2PM/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

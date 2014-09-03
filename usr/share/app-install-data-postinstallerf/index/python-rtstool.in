@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-rtstool</b>'
+Comment='<span size="xx-large">Command-line interface for rtslib</span>'
+Comment3='
+A command-line interface for rtslib, used to manage iSCSI targets
+'
+License='AGPLv3'
+Screenshot=''
+Url='https://github.com/eharney/rtstool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

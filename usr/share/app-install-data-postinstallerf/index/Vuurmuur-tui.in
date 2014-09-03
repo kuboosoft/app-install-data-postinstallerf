@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>Vuurmuur-tui</b>'
+Comment='<span size="xx-large">Ncurses based interface for modifying Vuurmuur configuration</span>'
+Comment3='
+Ncurses based interface for modifying Vuurmuur configuration.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.vuurmuur.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

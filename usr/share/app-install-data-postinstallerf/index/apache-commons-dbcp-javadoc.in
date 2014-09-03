@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-commons-dbcp-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for apache-commons-dbcp</span>'
+Comment3='
+This package contains the API documentation for apache-commons-dbcp.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/dbcp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

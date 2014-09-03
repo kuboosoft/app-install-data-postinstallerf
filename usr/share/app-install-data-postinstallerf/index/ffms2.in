@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ffms2</b>'
+Comment='<span size="xx-large">Wrapper library around libffmpeg</span>'
+Comment3='
+FFmpegSource (usually known as FFMS or FFMS2) is a cross-platform wrapper
+library around libffmpeg, plus some additional components to deal with file
+formats libavformat has (or used to have) problems with.
+
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/FFMS/ffms2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

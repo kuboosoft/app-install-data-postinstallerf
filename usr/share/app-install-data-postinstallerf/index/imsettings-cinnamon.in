@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>imsettings-cinnamon</b>'
+Comment='<span size="xx-large">Cinnamon support on imsettings</span>'
+Comment3='
+IMSettings is a framework that delivers Input Method
+settings and applies the changes so they take effect
+immediately without any need to restart applications
+or the desktop.
+
+This package contains a module to get this working on Cinnamon.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://tagoh.bitbucket.org/imsettings/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

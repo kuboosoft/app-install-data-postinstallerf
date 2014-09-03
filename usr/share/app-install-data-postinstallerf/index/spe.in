@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>spe</b>'
+Comment='<span size="xx-large">Python IDE with UML,PyChecker,Debugger,GUI design,Blender & more</span>'
+Comment3='
+Spe is a Python IDE with auto-indentation, auto completion, call tips, syntax
+coloring, syntax highlighting, UML viewer, class explorer, source index, auto
+todo list, sticky notes, integrated pycrust shell, Python file browser, recent
+file browser, drag&drop, context help, ? etc ?. Special is its Blender support
+with a Blender 3d object browser and its ability to run interactively inside
+blender.
+Spe ships with wxGlade & XRCed (gui designers), PyChecker (source code doctor)
+and Kiki (regular expression console). Spe is extensible with wxGlade.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pythonide.stani.be'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

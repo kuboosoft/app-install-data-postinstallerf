@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gtk-sharp2</b>'
+Comment='<span size="xx-large">GTK+ and GNOME bindings for Mono</span>'
+Comment3='
+This package provides a library that allows you to build
+fully native graphical GNOME applications using Mono. Gtk#
+is a binding to GTK+, the cross platform user interface
+toolkit used in GNOME. It includes bindings for Gtk, Atk,
+Pango, Gdk.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.mono-project.com/GtkSharp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

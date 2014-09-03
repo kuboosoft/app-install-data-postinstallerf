@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-cjkpunct</b>'
+Comment='<span size="xx-large">Adjust locations and kerning of CJK punctuation marks</span>'
+Comment3='
+The package serves as a companion package for CJK.
+
+date 2009-11-09 141605 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tkdnd</b>'
+Comment='<span size="xx-large">Tk extension that adds native drag & drop capabilities</span>'
+Comment3='
+Tk Drag & Drop tkdnd is an extension that adds native drag & drop capabilities
+to the tk toolkit. It can be used with any tk version equal or greater to 8.4.
+Under unix the drag & drop protocol in use is the XDND protocol version 4
+(also used by the QT toolkit, KDE & GNOME Desktops).
+'
+License='BSD'
+Screenshot=''
+Url='http://tkdnd.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

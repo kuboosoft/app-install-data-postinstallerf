@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-Pimple</b>'
+Comment='<span size="xx-large">A simple dependency injection container for PHP</span>'
+Comment3='
+Pimple is a small dependency injection container for PHP that consists of
+just one file and one class.
+'
+License='MIT'
+Screenshot=''
+Url='http://pimple.sensiolabs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

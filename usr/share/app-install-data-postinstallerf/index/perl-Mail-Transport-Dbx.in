@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Mail-Transport-Dbx</b>'
+Comment='<span size="xx-large">Parse Outlook Express mailboxes</span>'
+Comment3='
+MailTransportDbx is a wrapper around libdbx to read Outlook Express
+mailboxes (more commonly known as .dbx files).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Mail-Transport-Dbx/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-serialport</b>'
+Comment='<span size="xx-large">Ruby library that provides a class for using RS-232 serial ports</span>'
+Comment3='
+Ruby SerialPort is a class for using RS232 serial ports. It also contains
+low-level function to check current state of signals on the line.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://github.com/hparra/ruby-serialport/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

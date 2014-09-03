@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mojo-parent</b>'
+Comment='<span size="xx-large">Codehaus MOJO parent project pom file</span>'
+Comment3='
+Codehaus MOJO parent project pom file
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mojo.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

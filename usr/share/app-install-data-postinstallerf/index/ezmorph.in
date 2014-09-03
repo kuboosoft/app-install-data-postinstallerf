@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ezmorph</b>'
+Comment='<span size="xx-large">Object transformation library for Java</span>'
+Comment3='
+EZMorph is simple java library for transforming an Object to another
+Object. It supports transformations for primitives and Objects and
+multidimensional arrays.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ezmorph.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

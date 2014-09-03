@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>treecc</b>'
+Comment='<span size="xx-large">Tree Compiler Compiler</span>'
+Comment3='
+The treecc program is designed to assist in the development of compilers
+and other language-based tools.  It manages the generation of code to handle
+abstract syntax trees and operations upon the trees.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.southern-storm.com.au/treecc.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>blt-devel</b>'
+Comment='<span size="xx-large">Development files for BLT</span>'
+Comment3='
+BLT is an extension to the Tk toolkit. BLTs most useful feature is the
+provision of more widgets for Tk, but it also provides more geometry managers
+and miscellaneous other commands. Note that you wont need to any patching
+of the Tcl or Tk source file to use BLT, but you will need to have Tcl/Tk
+installed in order to use BLT.
+
+This package provides headers needed to build packages based on BLT.
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/blt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

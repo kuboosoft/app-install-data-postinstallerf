@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>dar</b>'
+Comment='<span size="xx-large">Software for making/restoring incremental CD/DVD backups</span>'
+Comment3='
+DAR is a command line tool to backup a directory tree and files. DAR is
+able to make differential backups, split them over a set of disks or files
+of a given size, use compression, filter files or subtrees to be saved or
+not saved, directly access and restore given files. DAR is also able
+to handle extented attributes, and can make remote backups through an
+ssh session for example. Finally, DAR handles save and restore of hard
+and symbolic links.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dar.linux.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

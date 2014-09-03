@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>beakerlib</b>'
+Comment='<span size="xx-large">A shell-level integration testing library</span>'
+Comment3='
+The BeakerLib project means to provide a library of various helpers, which
+could be used when writing operating system level integration tests.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/beakerlib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gkeyfile-sharp-devel</b>'
+Comment='<span size="xx-large">Development files for gkeyfile-sharp</span>'
+Comment3='
+Development files for gkeyfile-sharp
+
+URL          http//github.com/mono/gkeyfile-sharp
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://github.com/mono/gkeyfile-sharp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

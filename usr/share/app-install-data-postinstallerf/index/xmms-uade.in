@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xmms-uade</b>'
+Comment='<span size="xx-large">Unix Amiga DeliTracker Emulator XMMS plug-in</span>'
+Comment3='
+A plug-in for XMMS that makes use of UADE to play various Amiga music module
+formats using external players.
+'
+License='GPLv2+ and Distributable'
+Screenshot=''
+Url='http://zakalwe.fi/uade'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

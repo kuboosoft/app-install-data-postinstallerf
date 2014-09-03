@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zlibrary-devel</b>'
+Comment='<span size="xx-large">Development files for zlibrary</span>'
+Comment3='
+This package contains the libraries amd header files that are needed
+for writing applications with Zlibrary.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fbreader.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

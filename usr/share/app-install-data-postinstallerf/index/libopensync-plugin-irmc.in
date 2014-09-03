@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libopensync-plugin-irmc</b>'
+Comment='<span size="xx-large">Irmc plugin for libopensync</span>'
+Comment3='
+Irmc plugin for libopensync
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.opensync.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

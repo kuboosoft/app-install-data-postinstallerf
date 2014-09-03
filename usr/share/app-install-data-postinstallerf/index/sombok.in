@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sombok</b>'
+Comment='<span size="xx-large">Unicode Text Segmentation Package</span>'
+Comment3='
+Sombok library package performs Line Breaking Algorithm described in Unicode
+Standards Annex #14 (UAX #14). East_Asian_Width informative properties defined
+by Annex #11 (UAX #11) may be concerned to determine breaking positions. This
+package also implements "default" Grapheme Cluster segmentation described in
+Annex #29 (UAX #29).
+
+'
+License='GPLv2+ or Artistic clarified'
+Screenshot=''
+Url='http://sf.net/projects/linefold/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-thrift</b>'
+Comment='<span size="xx-large">Perl support for thrift</span>'
+Comment3='
+The perl-thrift package contains Perl bindings for thrift.
+'
+License='ASL 2.0 and BSD and zlib'
+Screenshot=''
+Url='http://thrift.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

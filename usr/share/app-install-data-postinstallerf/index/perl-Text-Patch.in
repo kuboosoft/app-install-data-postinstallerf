@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Text-Patch</b>'
+Comment='<span size="xx-large">Patches text with given patch</span>'
+Comment3='
+TextPatch combines source text with given diff (difference) data. Diff
+data is produced by TextDiff module or by the standard diff utility (man
+diff, see -u option).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Patch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

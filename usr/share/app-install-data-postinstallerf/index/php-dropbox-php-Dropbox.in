@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-dropbox-php-Dropbox</b>'
+Comment='<span size="xx-large">Library for integrating dropbox with PHP</span>'
+Comment3='
+This PHP library allows you to easily integrate dropbox with PHP.
+The library makes use of OAuth.
+
+Optional Dependencies
+Zend framework Zend_{Oauth,Json,Uri} for OAuth/Zend back-end
+Wordpress WP_Http for OAuth/Wordpress back-end
+'
+License='MIT'
+Screenshot=''
+Url='http://www.dropbox-php.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

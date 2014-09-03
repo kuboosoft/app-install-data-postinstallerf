@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zarafa-contacts</b>'
+Comment='<span size="xx-large">MAPI provider adding contact folders to the address book</span>'
+Comment3='
+The zarafa-contacts package contains an additional MAPI provider to find
+all contact folders of a user and add the contents transparently into the
+MAPI address book. The MAPI provider allows Zarafa WebApp users to select
+which contact folders will be listed in the WebApp address book.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

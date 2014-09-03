@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Template-Alloy</b>'
+Comment='<span size="xx-large">Templating tool supporting multiple markup formats</span>'
+Comment3='
+"An alloy is a homogeneous mixture of two or more elements"
+(http//en.wikipedia.org/wiki/Alloy).
+
+TemplateAlloy represents the mixing of features and capabilities from all of
+the major mini-language based template systems (support for non-mini-language
+based systems will happen eventually).  With TemplateAlloy you can use your
+favorite template interface and syntax and get features from each of the other
+major template systems.  And TemplateAlloy is fast - whether youre using
+mod_perl, CGI, or running from the command line.  There is even
+TemplateAlloyXS for getting a little more speed when that is necessary.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Template-Alloy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

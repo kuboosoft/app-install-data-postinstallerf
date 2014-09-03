@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>synopsis-doc</b>'
+Comment='<span size="xx-large">The Synopsis documentation</span>'
+Comment3='
+Synopsis documentation
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://synopsis.fresco.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

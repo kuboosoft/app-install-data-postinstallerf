@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mingw32-speex</b>'
+Comment='<span size="xx-large">Voice compression format (codec)</span>'
+Comment3='
+Speex is a patent-free compression format designed especially for
+speech. It is specialized for voice communications at low bit-rates in
+the 2-45 kbps range. Possible applications include Voice over IP
+(VoIP), Internet audio streaming, audio books, and archiving of speech
+data (e.g. voice mail).
+
+This is the MinGW version, built for the win32 target.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.speex.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>wallaby</b>'
+Comment='<span size="xx-large">HTCondor pool configuration service with QMF interface</span>'
+Comment3='
+Wallaby is a configuration service for HTCondor pools.  It provides a
+semantic model of HTCondor configurations, enabling administrators to
+apply high-level features to groups of nodes rather than set the
+values of low-level parameters in configuration files.  Wallaby also
+validates configurations before deploying them, pushes out
+configurations to affected nodes, keeps an inventory of running nodes,
+and manages multiple versions of configurations.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/grid/wallaby.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

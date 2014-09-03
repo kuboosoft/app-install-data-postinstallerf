@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw64-usbredir-static</b>'
+Comment='<span size="xx-large">MinGW USB network redirection protocol static libraries</span>'
+Comment3='
+This package contains the static libraries needed to develop
+applications that use usbredir with MinGW.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://spice-space.org/page/UsbRedir'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>nethogs</b>'
+Comment='<span size="xx-large">A tool resembling top for network traffic</span>'
+Comment3='
+NetHogs is a small "net top" tool.
+
+Instead of breaking the traffic down per protocol or per subnet, like
+most such tools do, it groups bandwidth by process and does not rely
+on a special kernel module to be loaded.
+So if theres suddenly a lot of network traffic, you can fire up
+NetHogs and immediately see which PID is causing this, and if its
+some kind of spinning process, kill it.
+'
+License='GPL+'
+Screenshot=''
+Url='http://nethogs.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-surefire-plugin</b>'
+Comment='<span size="xx-large">Surefire plugin for maven</span>'
+Comment3='
+Maven surefire plugin for running tests via the surefire framework.
+'
+License='ASL 2.0 and CPL'
+Screenshot=''
+Url='http://maven.apache.org/surefire/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

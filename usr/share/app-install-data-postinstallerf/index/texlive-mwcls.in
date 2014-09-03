@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-mwcls</b>'
+Comment='<span size="xx-large">Polish-oriented document classes</span>'
+Comment3='
+mwcls is a set of document classes for LaTeX 2e designed with
+Polish typographical tradition in mind. Classes include
+mwart (which is a replacement for article), mwrep
+(report), and mwbk (book). Most features present in
+standard classes work with mwcls. Some extensions/exceptions
+include sectioning commands allow for second optional argument
+(its possible to state different texts for running head and
+for TOC), new environments itemize* and enumerate* for
+lists with long items, page styles have variants for normal,
+opening, closing, and blank pages.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

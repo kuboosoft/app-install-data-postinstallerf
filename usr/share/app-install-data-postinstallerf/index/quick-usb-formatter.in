@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>quick-usb-formatter</b>'
+Comment='<span size="xx-large">A small application to format usb sticks and devices</span>'
+Comment3='
+Quick Usb Formatter it is a tiny app designed for enhance the usability of the
+device notifier, an additional option for quick format usb sticks
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://kde-apps.org/content/show.php?content=137493'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

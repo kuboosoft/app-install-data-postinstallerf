@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lvm2-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers</span>'
+Comment3='
+This package contains files needed to develop applications that use
+the lvm2 libraries.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sources.redhat.com/lvm2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

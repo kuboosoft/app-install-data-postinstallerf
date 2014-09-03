@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-youngtab</b>'
+Comment='<span size="xx-large">Typeset Young-Tableaux</span>'
+Comment3='
+A package for typesetting Young-Tableaux, mathematical symbols
+for the representations of groups, providing two macros,
+\yng(1) and \young(1) to generate the whole Young-Tableaux.
+
+date 2010-03-30 144700 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

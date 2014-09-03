@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libatasmart</b>'
+Comment='<span size="xx-large">ATA S.M.A.R.T. Disk Health Monitoring Library</span>'
+Comment3='
+A small and lightweight parser library for ATA S.M.A.R.T. hard disk
+health monitoring.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.0pointer.de/?p=libatasmart.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

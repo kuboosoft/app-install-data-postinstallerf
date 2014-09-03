@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-zlib-enum</b>'
+Comment='<span size="xx-large">Enumerator interface for zlib compression</span>'
+Comment3='
+zlib-enum is a stop-gap package to provide enumeratees for
+zlib compression/decompression.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/zlib-enum'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

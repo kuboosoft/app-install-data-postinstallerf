@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ulogd-mysql</b>'
+Comment='<span size="xx-large">MySQL output plugin for ulogd</span>'
+Comment3='
+ulogd-mysql is a MySQL output plugin for ulogd. It enables logging of
+firewall information into a MySQL database.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.netfilter.org/projects/ulogd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

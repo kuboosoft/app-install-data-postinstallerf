@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools-usage</b>'
+Comment='<span size="xx-large">JBoss Tools Usage Reporting</span>'
+Comment3='
+JBoss Tools Usage reporting provides an anonymous opt-in call-back mechanism
+that can be used to see how widely used plugins are, which plugin installations
+have been done, where in the world and what versions of operating system, java
+and other information that is available.
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

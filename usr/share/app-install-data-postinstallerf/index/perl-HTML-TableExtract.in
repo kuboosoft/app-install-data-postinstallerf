@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-HTML-TableExtract</b>'
+Comment='<span size="xx-large">A Perl module for extracting content in HTML tables</span>'
+Comment3='
+HTMLTableExtract is a module that simplifies the extraction of
+information contained in tables within HTML documents.
+
+Tables of note may be specified using Headers, Depth, Count,
+Attributes, or some combination of the three. See the module
+documentation for details.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://www.mojotoad.com/sisk/projects/HTML-TableExtract/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libwfut-python</b>'
+Comment='<span size="xx-large">Python interface for libwfut library</span>'
+Comment3='
+Python interface for libwfut library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.worldforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

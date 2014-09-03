@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vanessa_logger-sample</b>'
+Comment='<span size="xx-large">Example programme that demonstrates vanessa_logger</span>'
+Comment3='
+Sample programme with source that demonstrates various features of
+vanessa_logger.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vergenet.net/linux/vanessa/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

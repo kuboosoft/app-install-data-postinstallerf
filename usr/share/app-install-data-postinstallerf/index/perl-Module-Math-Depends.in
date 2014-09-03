@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Module-Math-Depends</b>'
+Comment='<span size="xx-large">Convenience object for manipulating module dependencies</span>'
+Comment3='
+This is a small convenience module created originally as part of
+ModuleInspector but released separately, in the hope that people might
+find it useful in other contexts.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Math-Depends/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

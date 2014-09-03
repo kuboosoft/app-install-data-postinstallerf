@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-network</b>'
+Comment='<span size="xx-large">Network library</span>'
+Comment3='
+Haskell basic networking library.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/network'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

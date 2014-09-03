@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>coot-doc</b>'
+Comment='<span size="xx-large">documentation PDF files for coot</span>'
+Comment3='
+
+the coot-doc package contains information concerning the use and
+button/key shortcuts for the coot macromolecular model building
+package.
+'
+License='GPLv3+ and LGPLv2+'
+Screenshot=''
+Url='http://www.biop.ox.ac.uk/coot/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

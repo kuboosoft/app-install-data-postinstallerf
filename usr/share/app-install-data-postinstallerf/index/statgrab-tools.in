@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>statgrab-tools</b>'
+Comment='<span size="xx-large">Tools from libstatgrab to monitoring the system</span>'
+Comment3='
+This package contains a few tools shiped with libstatgrab.
+Eg. A tool called saidar, which shows various system
+information like top, but - of course - OTHER informations.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.i-scream.org/libstatgrab'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

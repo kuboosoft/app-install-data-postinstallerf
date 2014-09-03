@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ColPack-devel</b>'
+Comment='<span size="xx-large">Development files for ColPack</span>'
+Comment3='
+This package contains the development headers and library
+for ColPack.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://cscapes.cs.purdue.edu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

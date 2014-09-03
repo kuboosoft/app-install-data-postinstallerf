@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gcc-python3-plugin</b>'
+Comment='<span size="xx-large">GCC plugin embedding Python 3</span>'
+Comment3='
+GCC plugin embedding Python 3
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/gcc-python-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

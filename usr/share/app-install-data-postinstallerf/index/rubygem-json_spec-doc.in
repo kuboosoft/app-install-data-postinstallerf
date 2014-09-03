@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-json_spec-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-json_spec</span>'
+Comment3='
+Documentation for rubygem-json_spec.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/collectiveidea/json_spec'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

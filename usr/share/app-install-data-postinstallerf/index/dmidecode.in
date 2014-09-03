@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>dmidecode</b>'
+Comment='<span size="xx-large">Tool to analyse BIOS DMI data</span>'
+Comment3='
+dmidecode reports information about x86 & ia64 hardware as described in the
+system BIOS according to the SMBIOS/DMI standard. This information
+typically includes system manufacturer, model name, serial number,
+BIOS version, asset tag as well as a lot of other details of varying
+level of interest and reliability depending on the manufacturer.
+
+This will often include usage status for the CPU sockets, expansion
+slots (e.g. AGP, PCI, ISA) and memory module slots, and the list of
+I/O ports (e.g. serial, parallel, USB).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/dmidecode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

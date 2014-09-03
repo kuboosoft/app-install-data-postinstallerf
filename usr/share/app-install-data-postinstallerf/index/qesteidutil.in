@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qesteidutil</b>'
+Comment='<span size="xx-large">Estonian ID card utility</span>'
+Comment3='
+QEsteidUtil is an application for managing Estonian ID Card. In an
+user-friendly interface it is possible to change and unlock PINs, examine
+detailed information about personal data file on the card, extract and view
+certificates, set up mobile ID, and configure @eesti.ee email.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/esteid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

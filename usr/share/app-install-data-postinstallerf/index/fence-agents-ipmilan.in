@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-ipmilan</b>'
+Comment='<span size="xx-large">Fence agent for devices with IPMI interface</span>'
+Comment3='
+The fence-agents-ipmilan package contains a fence agent for devices with IPMI interface.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-joosex-simplerequest</b>'
+Comment='<span size="xx-large">Simple XHR request abstraction for Node.js</span>'
+Comment3='
+Simple XHR request abstraction for Node.js.
+'
+License='BSD or LGPLv3'
+Screenshot=''
+Url='https://github.com/SamuraiJack/JooseX-SimpleRequest'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

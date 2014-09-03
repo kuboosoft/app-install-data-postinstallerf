@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n freemind
+Version=1.0
+Name=FreeMind
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/FreeMindWindowIcon.png
+Type=Application
+Categories=Office;
+GenericName=FreeMind
+Comment=A free mind mapping tool

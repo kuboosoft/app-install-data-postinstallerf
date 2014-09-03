@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-hgdistver</b>'
+Comment='<span size="xx-large">Python library to generate package version info from mercurial tags</span>'
+Comment3='
+hgdistver is a simple drop-in to support setup.py in mercurial based projects.
+Its supposed to generate version numbers from mercurials meta-data. It tries
+to use the current tag and falls back to the next reachable tagged ancestor
+and using the distance to it as .post marker.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/anyvc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

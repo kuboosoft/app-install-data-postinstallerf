@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>imagefactory</b>'
+Comment='<span size="xx-large">System image generation tool</span>'
+Comment3='
+imagefactory allows the creation of system images for multiple virtualization
+and cloud providers from a single template definition. See
+http//aeolusproject.org/projects/imagefactory for more information.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.aeolusproject.org/imagefactory.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

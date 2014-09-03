@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>esteidcerts-test</b>'
+Comment='<span size="xx-large">Estonian ID card test certificates</span>'
+Comment3='
+Estonian ID card test root, intermediate and OCSP certificates
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.ria.ee'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

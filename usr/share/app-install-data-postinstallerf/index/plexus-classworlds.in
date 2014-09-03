@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>plexus-classworlds</b>'
+Comment='<span size="xx-large">Plexus Classworlds Classloader Framework</span>'
+Comment3='
+Classworlds is a framework for container developers
+who require complex manipulation of Javas ClassLoaders.
+Javas native ClassLoader mechanisms and classes can cause
+much headache and confusion for certain types of
+application developers. Projects which involve dynamic
+loading of components or otherwise represent a container
+can benefit from the classloading control provided by
+classworlds.
+'
+License='ASL 2.0 and Plexus'
+Screenshot=''
+Url='http://plexus.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

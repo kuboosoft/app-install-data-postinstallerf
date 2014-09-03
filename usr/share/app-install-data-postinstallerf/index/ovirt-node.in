@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ovirt-node</b>'
+Comment='<span size="xx-large">The oVirt Node daemons/scripts</span>'
+Comment3='
+Provides a series of daemons and support utilities for hypervisor distribution.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

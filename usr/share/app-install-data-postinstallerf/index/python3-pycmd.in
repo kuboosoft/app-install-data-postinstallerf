@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-pycmd</b>'
+Comment='<span size="xx-large">Tools for managing/searching Python related files</span>'
+Comment3='
+Pycmd is a collection of command line tools for helping with Python
+development.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/pycmd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

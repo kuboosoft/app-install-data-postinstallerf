@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-msc</b>'
+Comment='<span size="xx-large">JBoss Modular Service Container</span>'
+Comment3='
+This package contains the JBoss Modular Service Container.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/jbossas/jboss-msc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

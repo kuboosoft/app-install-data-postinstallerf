@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ninvaders</b>'
+Comment='<span size="xx-large">Space Invaders clone written in ncurses for cli gaming</span>'
+Comment3='
+Ever wanted to place space invaders when you cant find a GUI? Now you can!
+ninvaders is a ncurses based space invaders clone to play from the command
+line.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ninvaders.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

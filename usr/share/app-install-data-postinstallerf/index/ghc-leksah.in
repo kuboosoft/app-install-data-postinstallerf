@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-leksah</b>'
+Comment='<span size="xx-large">Haskell leksah library</span>'
+Comment3='
+This package provides the Haskell leksah shared library.
+'
+License='GPL+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/leksah'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

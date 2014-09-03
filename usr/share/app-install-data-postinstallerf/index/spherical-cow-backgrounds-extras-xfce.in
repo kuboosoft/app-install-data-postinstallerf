@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>spherical-cow-backgrounds-extras-xfce</b>'
+Comment='<span size="xx-large">Extra Spherical Cow Wallpapers for XFCE</span>'
+Comment3='
+This package contains Spherical Cow supplemental wallpapers for XFCE
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F18_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>diveintopython</b>'
+Comment='<span size="xx-large">Dive into Python - a python book</span>'
+Comment3='
+Dive Into Python is a Python book for experienced programmers.
+'
+License='GFDL'
+Screenshot=''
+Url='http://www.diveintopython.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

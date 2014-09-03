@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n appinventor
+Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
+Name=appinventor
+Comment=A new tool that makes it easy for anyone to create mobile applications for Android-powered devices
+Terminal=false
+Type=Application
+Categories=Development;Utility;ConsoleOnly;
+StartupNotify=true

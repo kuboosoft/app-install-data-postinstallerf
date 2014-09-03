@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>unetbootin</b>'
+Comment='<span size="xx-large">Create bootable Live USB drives for a variety of Linux distributions</span>'
+Comment3='
+UNetbootin allows you to create bootable Live USB drives for a variety of
+Linux distributions from Windows or Linux, without requiring you to burn a CD.
+You can either let it download one of the many distributions supported
+out-of-the-box for you, or supply your own Linux .iso file if youve already
+downloaded one or your preferred distribution isnt on the list.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://unetbootin.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

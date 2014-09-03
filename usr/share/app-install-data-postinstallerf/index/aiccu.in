@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>aiccu</b>'
+Comment='<span size="xx-large">SixXS Automatic IPv6 Connectivity Client Utility</span>'
+Comment3='
+This client automatically gives one IPv6 connectivity
+without having to manually configure interfaces etc.
+One does need a SixXS account and at least a tunnel. These
+can be freely & gratis requested from the SixXS website.
+For more information about SixXS check http//www.sixxs.net
+'
+License='BSD'
+Screenshot=''
+Url='http://www.sixxs.net/tools/aiccu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

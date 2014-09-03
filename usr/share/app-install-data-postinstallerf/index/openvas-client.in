@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openvas-client</b>'
+Comment='<span size="xx-large">Client component of Open Vulnerability Assessment (OpenVAS) Scanner</span>'
+Comment3='
+OpenVAS-Client is a client component that is used to access and control
+OpenVAS server. It is also used to perform analysis task of results
+provided by the server component.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://www.openvas.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

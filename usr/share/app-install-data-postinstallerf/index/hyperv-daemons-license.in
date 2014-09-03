@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>hyperv-daemons-license</b>'
+Comment='<span size="xx-large">License of the HyperV daemons suite</span>'
+Comment3='
+Contains license of the HyperV daemons suite.
+'
+License='GPLv2'
+Summary     : License of the HyperV daemons suite'
+Screenshot=''
+Url='http://www.kernel.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

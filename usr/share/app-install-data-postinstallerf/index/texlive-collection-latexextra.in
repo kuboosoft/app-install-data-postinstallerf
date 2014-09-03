@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-collection-latexextra</b>'
+Comment='<span size="xx-large">LaTeX additional packages</span>'
+Comment3='
+A very large collection of add-on packages for LaTeX.
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

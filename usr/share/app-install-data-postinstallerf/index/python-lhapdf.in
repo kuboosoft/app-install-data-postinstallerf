@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-lhapdf</b>'
+Comment='<span size="xx-large">Les Houches Accord PDF Interface - Python module</span>'
+Comment3='
+This package provides Python bindings for LHAPDF.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lhapdf.hepforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

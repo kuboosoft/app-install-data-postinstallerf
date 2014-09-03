@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-String-Errf</b>'
+Comment='<span size="xx-large">Simple sprintf-like dialect</span>'
+Comment3='
+StringErrf provides errf, a simple string formatter that works something
+like sprintf. It is implemented using StringFormatter and SubExporter.
+Their documentation may be useful in understanding or extending
+StringErrf.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/String-Errf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

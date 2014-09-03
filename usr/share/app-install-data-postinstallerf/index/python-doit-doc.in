@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-doit-doc</b>'
+Comment='<span size="xx-large">Documentation for python-doit</span>'
+Comment3='
+python-doit documentation
+'
+License='MIT'
+Screenshot=''
+Url='http://python-doit.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-fb303</b>'
+Comment='<span size="xx-large">Python bindings for fb303</span>'
+Comment3='
+The python-fb303 package contains Python bindings for fb303.
+'
+License='ASL 2.0 and BSD and zlib'
+Screenshot=''
+Url='http://thrift.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

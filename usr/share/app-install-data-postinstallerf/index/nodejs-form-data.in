@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-form-data</b>'
+Comment='<span size="xx-large">A module to create readable "multipart/form-data" streams</span>'
+Comment3='
+A module to create readable "multipart/form-data" streams.  Can be used to
+submit forms and file uploads to other web applications.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/felixge/node-form-data'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

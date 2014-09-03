@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>erlang-sidejob</b>'
+Comment='<span size="xx-large">An Erlang library that implements a parallel, capacity-limited request pool</span>'
+Comment3='
+An Erlang library that implements a parallel, capacity-limited request pool. In
+sidejob, these pools are called resources. A resource is managed by multiple
+gen_server like processes which can be sent calls and casts using sidejobcall
+or sidejobcast respectively.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/sidejob'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

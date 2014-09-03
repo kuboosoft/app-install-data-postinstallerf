@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-dmr-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jboss-dmr</span>'
+Comment3='
+This package contains the API documentation for jboss-dmr.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/jbossas/jboss-dmr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

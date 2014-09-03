@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ann-libs</b>'
+Comment='<span size="xx-large">Runtime files for the ANN library</span>'
+Comment3='
+Runtime files needed to use ANN library.
+
+URL          http//www.cs.umd.edu/~mount/ANN
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.cs.umd.edu/~mount/ANN'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

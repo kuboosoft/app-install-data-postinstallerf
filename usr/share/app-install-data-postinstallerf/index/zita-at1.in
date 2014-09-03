@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>zita-at1</b>'
+Comment='<span size="xx-large">Audio autotuner for JACK</span>'
+Comment3='
+zita-at1 is an autotuner, normally used to correct the pitch of a voice
+singing (slightly) out of tune.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kokkinizita.linuxaudio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

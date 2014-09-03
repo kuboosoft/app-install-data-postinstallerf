@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gimp-dbp</b>'
+Comment='<span size="xx-large">Graphical batch processing for Gimp, no scripting knowledge required</span>'
+Comment3='
+Davids Batch Processor (DBP) is a simple batch processing plugin for the Gimp.
+It allows the user to automatically perform operations, such as re-size, on a
+collection of image files. Its main advantage is that the user does not have to
+learn a scripting language. Like the Gimp itself, DBP relies on a graphical
+interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ozemail.com.au/~hodsond/dbp.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-ctie</b>'
+Comment='<span size="xx-large">C version of tie (merging Web change files)</span>'
+Comment3='
+This is a version of tie converted for use with cweb.
+
+date 2012-06-18 223913 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

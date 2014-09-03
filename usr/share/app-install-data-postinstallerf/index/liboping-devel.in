@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>liboping-devel</b>'
+Comment='<span size="xx-large">Development files for liboping</span>'
+Comment3='
+This package contains files needed to develop and build software against
+liboping, a Development files for liboping.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://verplant.org/liboping/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

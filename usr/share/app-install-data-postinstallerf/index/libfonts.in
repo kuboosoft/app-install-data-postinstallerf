@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libfonts</b>'
+Comment='<span size="xx-large">TrueType Font Layouting</span>'
+Comment3='
+LibFonts is a library developed to support advanced layouting in JFreeReport.
+This library allows to read TrueType-Font files to extract layouting specific
+informations.
+'
+License='LGPLv2 and UCD'
+Screenshot=''
+Url='http://reporting.pentaho.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

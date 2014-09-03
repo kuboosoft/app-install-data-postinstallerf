@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ddate</b>'
+Comment='<span size="xx-large">Convert Gregorian dates to Discordian dates</span>'
+Comment3='
+This tool prints a date in the Discordian date format.
+'
+License='Public Domain'
+Screenshot=''
+Url='https://github.com/bo0ts/ddate/tree/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

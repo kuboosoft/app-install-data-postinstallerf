@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>l3afpad</b>'
+Comment='<span size="xx-large">Simple text editor forked from Leafpad, supports GTK+ 3.x</span>'
+Comment3='
+L3afpad is a simple GTK+ text editor that emphasizes simplicity.
+As development focuses on keeping weight down to a minimum, only
+the most essential features are implemented in the editor.
+L3afpad is simple to use, is easily compiled, requires few
+libraries, and starts up quickly.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.calno.com/l3afpad/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

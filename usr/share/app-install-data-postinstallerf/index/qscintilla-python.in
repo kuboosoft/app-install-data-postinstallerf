@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qscintilla-python</b>'
+Comment='<span size="xx-large">QScintilla PyQt4 bindings</span>'
+Comment3='
+QScintilla PyQt4 bindings.
+'
+License='GPLv3 or GPLv2 with exceptions'
+Screenshot=''
+Url='http://www.riverbankcomputing.com/software/qscintilla/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

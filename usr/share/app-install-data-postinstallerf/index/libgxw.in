@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgxw</b>'
+Comment='<span size="xx-large">Guitarix GTK library</span>'
+Comment3='
+This package contains the Guitarix GTK widget library
+
+URL          http//guitarix.sourceforge.net/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://guitarix.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

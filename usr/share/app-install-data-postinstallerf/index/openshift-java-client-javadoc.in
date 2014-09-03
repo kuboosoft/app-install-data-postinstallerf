@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openshift-java-client-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for openshift-java-client</span>'
+Comment3='
+API documentation for openshift-java-client.
+'
+License='EPL'
+Screenshot=''
+Url='http://openshift.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sssd-ad</b>'
+Comment='<span size="xx-large">The AD back end of the SSSD</span>'
+Comment3='
+Provides the Active Directory back end that the SSSD can utilize to fetch
+identity data from and authenticate against an Active Directory server.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-cairocffi</b>'
+Comment='<span size="xx-large">cffi-based cairo bindings for Python</span>'
+Comment3='
+cairocffi is a CFFI-based drop-in replacement for Pycairo, a set of
+Python bindings and object-oriented API for cairo.  Cairo is a 2D
+vector graphics library with support for multiple backends including
+image buffers, PNG, PostScript, PDF, and SVG file output.
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/cairocffi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

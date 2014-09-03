@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-duotenzor</b>'
+Comment='<span size="xx-large">Drawing package for circuit and duotensor diagrams</span>'
+Comment3='
+This is a drawing package for circuit and duotensor diagrams
+within LaTeX documents. It consists of about eighty commands,
+calling on TikZ for support.
+
+date 2010-06-06 135032 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>coq-emacs-el</b>'
+Comment='<span size="xx-large">Elisp source files for Coq proof management system</span>'
+Comment3='
+This package contains the Elisp source files for Coqs Emacs support.
+This package is not needed to use the Emacs interface.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://coq.inria.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

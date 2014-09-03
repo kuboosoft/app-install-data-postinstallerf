@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xchat-amule</b>'
+Comment='<span size="xx-large">Plugin to display aMules statistics in XChat</span>'
+Comment3='
+This plugins allows you to display aMule statistics in XChat
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://amule.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

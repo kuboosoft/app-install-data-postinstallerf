@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>par2cmdline</b>'
+Comment='<span size="xx-large">PAR 2.0 compatible file verification and repair tool</span>'
+Comment3='
+par2cmdline is a program for creating and using PAR2 files to detect damage
+in data files and repair them if necessary. PAR2 files are usually
+published in binary newsgroups on Usenet; they apply the data-recovery
+capability concepts of RAID-like systems to the posting and recovery of
+multi-part archives.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://parchive.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

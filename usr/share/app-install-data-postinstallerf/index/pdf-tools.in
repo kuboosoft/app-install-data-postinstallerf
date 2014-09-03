@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pdf-tools</b>'
+Comment='<span size="xx-large">Manipulate PDF files</span>'
+Comment3='
+This package allows existing PDF files to be modified; and includes various
+tools
+
+    pdfbklt   - make booklets out of existing PDF files
+    pdfrevert - remove edits from a PDF file
+    pdfstamp  - stamp text on each page of a PDF file
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-PDF'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

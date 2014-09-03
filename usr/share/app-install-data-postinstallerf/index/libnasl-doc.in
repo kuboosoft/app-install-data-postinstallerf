@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libnasl-doc</b>'
+Comment='<span size="xx-large">Nessus Attack Scripting Language documentation</span>'
+Comment3='
+Documentation for the Nessus Attack Scripting Language.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nessus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

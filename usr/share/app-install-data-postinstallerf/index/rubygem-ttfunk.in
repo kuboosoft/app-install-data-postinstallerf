@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ttfunk</b>'
+Comment='<span size="xx-large">Font Metrics Parser for Prawn</span>'
+Comment3='
+TTFunk is a TrueType font parser written in pure ruby.
+'
+License='GPLv2 or GPLv3 or Ruby'
+Screenshot=''
+Url='https://github.com/prawnpdf/ttfunk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

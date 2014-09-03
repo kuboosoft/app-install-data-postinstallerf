@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gstreamer-rtsp-devel</b>'
+Comment='<span size="xx-large">Development files for gstreamer-rtsp</span>'
+Comment3='
+Development files for gstreamer-rtsp, the GStreamer RTSP server library.
+
+URL          http//people.freedesktop.org/~wtay/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://people.freedesktop.org/~wtay/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

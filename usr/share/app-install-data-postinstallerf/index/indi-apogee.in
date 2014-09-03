@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>indi-apogee</b>'
+Comment='<span size="xx-large">The INDI driver for Apogee Alta (U & E) line of CCDs</span>'
+Comment3='
+The INDI (Instrument Neutral Distributed Interface) driver for Apogee
+Alta (U & E) line of CCDs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://indi.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

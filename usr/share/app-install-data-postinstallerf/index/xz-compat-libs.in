@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xz-compat-libs</b>'
+Comment='<span size="xx-large">Compatibility libraries for decoding LZMA compression</span>'
+Comment3='
+Compatibility libraries for decoding files compressed with LZMA or XZ utils.
+This particular package ships libraries from xz-4.999.9beta as of 1st of April 2010.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tukaani.org/xz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

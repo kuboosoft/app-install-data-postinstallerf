@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-CPAN-Meta</b>'
+Comment='<span size="xx-large">Distribution metadata for a CPAN dist</span>'
+Comment3='
+Software distributions released to the CPAN include a META.json or, for
+older distributions, META.yml, which describes the distribution, its
+contents, and the requirements for building and installing the
+distribution. The data structure stored in the META.json file is described
+in CPANMetaSpec.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPAN-Meta/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

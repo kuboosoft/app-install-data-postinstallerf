@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-ocamlnet-nethttpd</b>'
+Comment='<span size="xx-large">Ocamlnet HTTP daemon</span>'
+Comment3='
+Nethttpd is a web server component (HTTP server implementation). It
+can be used for web applications without using an extra web server, or
+for serving web services.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.camlcity.org/projects/ocamlnet.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

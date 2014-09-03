@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>qle</b>'
+Comment='<span size="xx-large">A QSO Logger and log Editor</span>'
+Comment3='
+The qle-package is a graphic QSO log viewer, log editor and QSO logger
+for amateur radio operators.
+
+qle stands  for QSO Logger and  Editor. It is a  Perl/Tk script that
+logs (or modifies)  QSOs directly  in a  fast and  light-weight SQLite
+database.
+The term QSO comes from Q code used in commercial and amateur radio
+communication and in refers to a radio contact.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://home.kpn.nl/w.knol18/qle/qle.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

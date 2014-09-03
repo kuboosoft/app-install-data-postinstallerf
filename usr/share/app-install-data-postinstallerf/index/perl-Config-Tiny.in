@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Config-Tiny</b>'
+Comment='<span size="xx-large">Perl module for reading and writing .ini style configuration files</span>'
+Comment3='
+ConfigTiny is a Perl module designed for reading and writing .ini
+style configuration files. It is designed for simplicity and ease of
+use, and thus only supports the most basic operations.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Config-Tiny/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

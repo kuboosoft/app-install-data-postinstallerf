@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-starchart</b>'
+Comment='<span size="xx-large">Display a map of the sky showing the position of the visible stars</span>'
+Comment3='
+This activity will display a map of the sky showing the position
+of the visible stars, some of the larger and brighter deep-sky
+objects (DSOs), the "classical" planets, the sun and the moon.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/StarChart'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

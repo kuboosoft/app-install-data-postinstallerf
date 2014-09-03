@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xdrfile</b>'
+Comment='<span size="xx-large">A small C-library for reading and writing GROMACS trr and xtc files</span>'
+Comment3='
+A small C-library for reading and writing trr and xtc files. The library is
+lightweight (no dependencies, portable) and can be incorporated in other
+software, because it is being distributed under the BSD license. The library
+also contains one program trr2xtc which does what you would expect, and the
+other way around.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://oldwiki.gromacs.org/index.php/XTC_Library'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,26 @@
+#!/bin/sh
+Name='<b>php-htmLawed</b>'
+Comment='<span size="xx-large">PHP code to purify and filter HTML</span>'
+Comment3='
+PHP code to purify and filter HTML
+
+* make HTML markup in text secure and standard-compliant
+* process text for use in HTML, XHTML or XML documents
+* restrict HTML elements, attributes or URL protocols
+  using black or white-lists
+* balance tags, check element nesting, transform deprecated
+  attributes and tags, make relative URLs absolute, etc.
+* fast, highly customizable, well-documented
+* single, 48 kb file
+'
+License='LGPLv3 and GPLv2+'
+Screenshot=''
+Url='http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/'
+* restrict HTML elements, attributes or URL protocols'
+  attributes and tags, make relative URLs absolute, etc.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

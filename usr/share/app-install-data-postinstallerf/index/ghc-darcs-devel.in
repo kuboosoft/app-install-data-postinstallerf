@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-darcs-devel</b>'
+Comment='<span size="xx-large">Haskell darcs library development files</span>'
+Comment3='
+This package provides the Haskell darcs library development files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/darcs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mod_authnz_pam</b>'
+Comment='<span size="xx-large">PAM authorization checker and PAM Basic Authentication provider</span>'
+Comment3='
+mod_authnz_pam is a PAM authorization module, supplementing
+authentication done by other modules, for example mod_auth_kerb; it
+can also be used as full Basic Authentication provider which runs the
+[login, password] authentication through the PAM stack.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.adelton.com/apache/mod_authnz_pam/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

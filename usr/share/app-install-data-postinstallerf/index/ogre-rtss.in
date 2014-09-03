@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ogre-rtss</b>'
+Comment='<span size="xx-large">OGRE RT Shader System component</span>'
+Comment3='
+The Real Time Shader System, or RTSS for short, is a component of Ogre. This
+component is used to generate shaders on the fly based on object material
+properties, scene setup and other user definitions.
+
+'
+License='MIT with exceptions and CC-BY-SA and Freely redistributable without restriction'
+Screenshot=''
+Url='http://www.ogre3d.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

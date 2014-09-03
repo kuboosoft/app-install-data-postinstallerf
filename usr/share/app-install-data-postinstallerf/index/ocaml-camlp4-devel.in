@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ocaml-camlp4-devel</b>'
+Comment='<span size="xx-large">Pre-Processor-Pretty-Printer for OCaml</span>'
+Comment3='
+Camlp4 is a Pre-Processor-Pretty-Printer for OCaml, parsing a source
+file and printing some result on standard output.
+
+This package contains the development files.
+'
+License='QPL and (LGPLv2+ with exceptions)'
+Screenshot=''
+Url='http://www.ocaml.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-cmcyr</b>'
+Comment='<span size="xx-large">Computer Modern fonts with cyrillic extensions</span>'
+Comment3='
+These are the Computer Modern fonts extended with Russian
+letters, in MetaFont sources and ATM Compatible Type 1 format.
+The fonts are provided in KOI-7, but virtual fonts are
+available to recode them to three other Russian 8-bit
+encodings.
+
+date 2007-09-16 180650 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

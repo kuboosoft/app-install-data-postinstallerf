@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gfs-didot-classic-fonts</b>'
+Comment='<span size="xx-large">GFS Didot Classic Greek font</span>'
+Comment3='
+Under the influence of the neoclassical ideals of the late 18th century, the
+famous French typecutter Firmin Didot in Paris designed a new Greek typeface
+(1805) which was immediately used in the publishing programme of Adamantios
+Korai, the prominent intellectual figure of the Greek diaspora and leading
+scholar of the Greek Enlightenment. The typeface eventually arrived in Greece,
+with the field press which came with Didot?s grandson Ambroise Firmin Didot,
+during the Greek Revolution in 1821. Since then the typeface has enjoyed an
+unrivaled success as the type of choice for almost every kind of publication
+until the last decades of the 20th century.
+
+'
+License='OFL'
+Screenshot=''
+Url='http://www.greekfontsociety.gr/pages/en_typefaces19th.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

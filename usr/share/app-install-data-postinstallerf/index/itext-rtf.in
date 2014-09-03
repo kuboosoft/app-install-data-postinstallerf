@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>itext-rtf</b>'
+Comment='<span size="xx-large">Library to output Rich Text Files</span>'
+Comment3='
+The RTF package is an extension of the iText library and allows iText to output
+Rich Text Files in addition to PDF files. These files can then be viewed and
+edited with RTF viewers such as OpenOffice.org Writer.
+'
+License='MPLv1.1 or LGPLv2+'
+Screenshot=''
+Url='http://www.lowagie.com/iText/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

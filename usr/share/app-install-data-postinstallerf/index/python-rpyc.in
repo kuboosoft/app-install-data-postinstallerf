@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-rpyc</b>'
+Comment='<span size="xx-large">A Transparent, Symmetrical Python Library for Distributed-Computing</span>'
+Comment3='
+RPyC, or Remote Python Call, is a transparent and symmetrical python library
+for remote procedure calls, clustering and distributed-computing.
+RPyC makes use of object-proxies, a technique that employs pythons dynamic
+nature, to overcome the physical boundaries between processes and computers,
+so that remote objects can be manipulated as if they were local.
+'
+License='MIT'
+Screenshot=''
+Url='http://rpyc.wikidot.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

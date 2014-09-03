@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>man-pages-es</b>'
+Comment='<span size="xx-large">Spanish man pages from the Linux Documentation Project</span>'
+Comment3='
+This package contains the translation into Spanish of the English
+man-pages package. It is a beta release, so you can still find a lot
+of bugs.  Contributions are welcome. For any doubt or suggestion about
+this release, send an e-mail to Juan Piernas Canovas <piernas at
+ditec.um.es>. In order to collaborate with the project, please visit
+http//es.tldp.org.
+'
+License='GPL+ and GPLv2+ and LDP and IEEE'
+Screenshot=''
+Url='http://ditec.um.es/~piernas/manpages-es/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-gillius</b>'
+Comment='<span size="xx-large">Gillius fonts with LaTeX support</span>'
+Comment3='
+This package provides LaTeX, pdfLaTeX, XeLaTeX and LuaLaTeX
+support for the Gillius and Gillius No. 2 families of sans
+serif fonts and condensed versions of them, designed by Hirwen
+Harendal. According to the designer, the fonts were inspired by
+Gill Sans.
+
+date 2013-11-04 000606 +0100
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

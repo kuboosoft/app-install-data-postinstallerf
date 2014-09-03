@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rlog-devel</b>'
+Comment='<span size="xx-large">Runtime Logging for C++ - development files</span>'
+Comment3='
+Files needed for developing apps using rlog
+
+URL          http//arg0.net/rlog
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://arg0.net/rlog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

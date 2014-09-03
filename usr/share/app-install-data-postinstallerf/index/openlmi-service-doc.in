@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openlmi-service-doc</b>'
+Comment='<span size="xx-large">CIM service provider documentation</span>'
+Comment3='
+This package contains the documents for OpenLMI service provider.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

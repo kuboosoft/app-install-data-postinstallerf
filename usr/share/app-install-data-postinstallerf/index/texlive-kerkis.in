@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-kerkis</b>'
+Comment='<span size="xx-large">Kerkis (Greek) font family</span>'
+Comment3='
+Sans-serif Greek fonts to match the URW Bookman set (which are
+distributed with Kerkis). The Kerkis font set has some support
+for mathematics as well as other glyphs missing from the base
+URW Bookman fonts (the URW fonts are duplicated in the
+distribution). Macros are provided to use the fonts in OT1, T1
+(only NG/ng glyphs missing) and LGR encodings, as well as in
+mathematics; small caps and old-style number glyphs are also
+available. The philosophy, and the design process, of the
+Kerkis fonts is discussed in a paper in TUGboat 23(3/4), 2002.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

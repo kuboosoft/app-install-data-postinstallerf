@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libnodeupdown-backend-ganglia</b>'
+Comment='<span size="xx-large">Ganglia backend for libnodeupdown</span>'
+Comment3='
+Ganglia backend module for libnodeupdown
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://computing.llnl.gov/linux/whatsup.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

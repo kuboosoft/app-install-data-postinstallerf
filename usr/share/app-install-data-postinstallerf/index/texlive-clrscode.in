@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-clrscode</b>'
+Comment='<span size="xx-large">Typesets pseudocode as in Introduction to Algorithms</span>'
+Comment3='
+This package allows you to typeset pseudocode in the style of
+Introduction to Algorithms, Second edition, by Cormen,
+Leiserson, Rivest, and Stein. The package was written by the
+authors. You use the commands the same way the packages author
+did when writing the book, and your output will look just like
+the pseudocode in the text.
+
+date 2007-03-29 231709 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

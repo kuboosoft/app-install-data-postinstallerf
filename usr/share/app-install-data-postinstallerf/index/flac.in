@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>flac</b>'
+Comment='<span size="xx-large">An encoder/decoder for the Free Lossless Audio Codec</span>'
+Comment3='
+FLAC stands for Free Lossless Audio Codec. Grossly oversimplified, FLAC
+is similar to Ogg Vorbis, but lossless. The FLAC project consists of
+the stream format, reference encoders and decoders in library form,
+flac, a command-line program to encode and decode FLAC files, metaflac,
+a command-line metadata editor for FLAC files and input plugins for
+various music players.
+
+This package contains the command-line tools and documentation.
+'
+License='BSD and GPLv2+ and GFDL'
+Screenshot=''
+Url='http://www.xiph.org/flac/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>virt-install</b>'
+Comment='<span size="xx-large">Utilities for installing virtual machines</span>'
+Comment3='
+Package includes several command line utilities, including virt-install
+(build and install new VMs) and virt-clone (clone an existing virtual
+machine).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://virt-manager.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

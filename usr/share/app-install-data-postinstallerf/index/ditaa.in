@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ditaa</b>'
+Comment='<span size="xx-large">Diagrams Through ASCII Art</span>'
+Comment3='
+ditaa is a small command-line utility written in Java, that can
+convert diagrams drawn using ASCII art (drawings that contain
+characters that resemble lines like | / - ), into proper bitmap
+graphics.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ditaa.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

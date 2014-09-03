@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>graphviz-doc</b>'
+Comment='<span size="xx-large">PDF and HTML documents for graphviz</span>'
+Comment3='
+Provides some additional PDF and HTML documentation for graphviz.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.graphviz.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

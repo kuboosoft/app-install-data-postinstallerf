@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aether-transport-wagon</b>'
+Comment='<span size="xx-large">Aether Transport Wagon</span>'
+Comment3='
+Aether is a standalone library to resolve, install and deploy
+artifacts the Maven way.  This package provides a transport
+implementation based on Maven Wagon.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/aether'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ruby-ntlm</b>'
+Comment='<span size="xx-large">NTLM implementation for Ruby</span>'
+Comment3='
+NTLM implementation for Ruby.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/macks/ruby-ntlm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

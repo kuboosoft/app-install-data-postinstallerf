@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-File-BaseDir</b>'
+Comment='<span size="xx-large">Use the freedesktop basedir spec</span>'
+Comment3='
+This module can be used to find directories and files as specified by the
+XDG Base Directory Specification. It takes care of defaults and uses
+FileSpec to make the output platform specific.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-BaseDir/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

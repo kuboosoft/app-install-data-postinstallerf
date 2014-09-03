@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-refman</b>'
+Comment='<span size="xx-large">Format technical reference manuals</span>'
+Comment3='
+Document classes (report- and article-style) for writing
+technical reference manuals. It offers a wide left margin for
+notes to the reader, like some of the manuals distributed by
+Adobe.
+
+date 2006-11-19 211911 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

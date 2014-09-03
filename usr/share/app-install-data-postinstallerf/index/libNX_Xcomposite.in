@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libNX_Xcomposite</b>'
+Comment='<span size="xx-large">NX protocol Composite extension client library</span>'
+Comment3='
+The Composite extension causes a entire sub-tree of the window
+hierarchy to be rendered to an off-screen buffer. Applications can
+then take the contents of that buffer and do whatever they like. The
+off-screen buffer can be automatically merged into the parent window
+or merged by external programs, called compositing managers.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://x2go.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

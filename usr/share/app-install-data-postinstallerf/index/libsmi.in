@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libsmi</b>'
+Comment='<span size="xx-large">A library to access SMI MIB information</span>'
+Comment3='
+Libsmi is a C library to access MIB module information through
+a well defined API that hides the nasty details of locating
+and parsing SMIv1/v2 MIB modules.
+
+This package contains tools to check, dump, and convert MIB
+definitions and a steadily maintained and revised archive
+of all IETF and IANA maintained standard MIB modules.
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://www.ibr.cs.tu-bs.de/projects/libsmi/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

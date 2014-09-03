@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gooddata-cl</b>'
+Comment='<span size="xx-large">GoodData integration toolkit</span>'
+Comment3='
+This is GoodData data integration toolkit. The toolkit contains data
+modeling, transformation and loading utilities that work on top of the
+GoodData REST APIs.
+'
+License='BSD'
+Screenshot=''
+Url='http://developer.gooddata.com/gooddata-cl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

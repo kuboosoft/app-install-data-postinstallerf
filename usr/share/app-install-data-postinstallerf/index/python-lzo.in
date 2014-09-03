@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-lzo</b>'
+Comment='<span size="xx-large">LZO bindings for Python</span>'
+Comment3='
+Python-LZO provides Python bindings for the LZO data compression library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.oberhumer.com/opensource/lzo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

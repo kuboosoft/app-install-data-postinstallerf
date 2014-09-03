@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-Rsamtools-devel</b>'
+Comment='<span size="xx-large">Development files for R-Rsamtools</span>'
+Comment3='
+Development files for R-Rsamtools.
+
+URL          http//www.bioconductor.org/packages/release/bioc/html/Rsamtools.html
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://www.bioconductor.org/packages/release/bioc/html/Rsamtools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

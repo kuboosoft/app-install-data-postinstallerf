@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xgngeo</b>'
+Comment='<span size="xx-large">XGngeo - NeoGeo Emulator Front-End</span>'
+Comment3='
+XGngeo is a front-end for GnGeo, a NeoGeo emulator for Linux.
+It uses PyGTK as the GUI toolkit.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/xgngeo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

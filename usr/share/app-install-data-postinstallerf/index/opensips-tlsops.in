@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opensips-tlsops</b>'
+Comment='<span size="xx-large">TLS-relating functions for the OpenSIPS</span>'
+Comment3='
+The opensips-tlsops package implements TLS related functions to use in the
+routing script, and exports pseudo variables with certificate and TLS
+parameters.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hibernate-jpamodelgen</b>'
+Comment='<span size="xx-large">Hibernate JPA 2 Metamodel Generator</span>'
+Comment3='
+Annotation Processor to generate JPA 2 static metamodel classes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.hibernate.org/subprojects/jpamodelgen.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

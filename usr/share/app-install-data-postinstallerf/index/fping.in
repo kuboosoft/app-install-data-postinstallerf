@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fping</b>'
+Comment='<span size="xx-large">Scriptable, parallelized ping-like utility</span>'
+Comment3='
+fping is a ping-like program which can determine the accessibility of
+multiple hosts using ICMP echo requests. fping is designed for parallelized
+monitoring of large numbers of systems, and is developed with ease of
+use in scripting in mind.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.fping.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>SocketW</b>'
+Comment='<span size="xx-large">Streaming socket C++ library designed to be easy to use</span>'
+Comment3='
+It supports Unix sockets and TCP/IP sockets with optional SSL/TLS (OpenSSL)
+support. It allows you to write portable and secure network applications quickly
+without needing to spend time learning low-level system functions or reading
+OpenSSL manuals.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.digitalfanatics.org/cal/socketw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

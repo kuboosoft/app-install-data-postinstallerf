@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rss-glx-kde</b>'
+Comment='<span size="xx-large">Really Slick Screensavers</span>'
+Comment3='
+A port of the Really Slick Screensavers to GLX. Provides several visually
+impressive and graphically intensive screensavers.
+
+This package contains files needed to use the hacks with KDE.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://rss-glx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

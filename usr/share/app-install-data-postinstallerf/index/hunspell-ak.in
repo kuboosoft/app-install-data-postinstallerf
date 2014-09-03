@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-ak</b>'
+Comment='<span size="xx-large">Akan hunspell dictionaries</span>'
+Comment3='
+Akan hunspell dictionaries.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://kasahorow.org/content/akan-ns?mfuaasekyer?'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>festival-lib</b>'
+Comment='<span size="xx-large">Library for the Festival speech synthesis system</span>'
+Comment3='
+The shared library used by the Festival text-to-speech and speech synthesis
+system.
+
+'
+License='MIT and GPL+ and TCL'
+Screenshot=''
+Url='http://www.cstr.ed.ac.uk/projects/festival/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

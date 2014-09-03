@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-catechis</b>'
+Comment='<span size="xx-large">Macros for typesetting catechisms</span>'
+Comment3='
+The macros include - format for question-and-answer; -
+comments on answers; - citations; - a specialised enumerate
+which only operates in the catechism parts of a document. The
+macros are all highly customisable.
+
+date 2008-09-02 212327 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

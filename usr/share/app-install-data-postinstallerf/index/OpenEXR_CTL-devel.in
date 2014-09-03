@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>OpenEXR_CTL-devel</b>'
+Comment='<span size="xx-large">Development files for OpenEXR_CTL</span>'
+Comment3='
+The OpenEXR_CTL-devel package contains libraries and header files for
+developing applications that use OpenEXR_CTL.
+
+'
+License='AMPAS BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/ampasctl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Perl-Critic-Deprecated</b>'
+Comment='<span size="xx-large">Perl::Critic policies which have been superseded by others</span>'
+Comment3='
+The included policies are
+  - Write "$my_variable = 42" instead of "$MyVariable = 42".
+  - Write "sub my_function{}" instead of "sub MyFunction{}".
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic-Deprecated/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

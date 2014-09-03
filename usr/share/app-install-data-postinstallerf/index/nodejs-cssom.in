@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-cssom</b>'
+Comment='<span size="xx-large">CSS Object Model implementation and CSS parser for Node.js</span>'
+Comment3='
+CSS Object Model implementation and CSS parser for Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/NV/CSSOM'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

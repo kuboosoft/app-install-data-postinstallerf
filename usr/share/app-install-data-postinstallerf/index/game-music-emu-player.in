@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>game-music-emu-player</b>'
+Comment='<span size="xx-large">Demo player utilizing Game_Music_Emu</span>'
+Comment3='
+This package contains the demo player for files supported by Game_Music_Emu.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/game-music-emu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

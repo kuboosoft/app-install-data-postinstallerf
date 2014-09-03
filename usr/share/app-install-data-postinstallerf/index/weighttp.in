@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>weighttp</b>'
+Comment='<span size="xx-large">Small tool to benchmark webservers</span>'
+Comment3='
+weighttp (pronounced weighty) is a lightweight and small benchmarking tool for
+webservers.
+
+It was designed to be very fast and easy to use and only supports a tiny
+fraction of the HTTP protocol in order to be lean and simple.
+weighttp supports multithreading to make good use of modern CPUs with multiple
+cores as well as asynchronous i/o for concurrent requests within a single
+thread.
+'
+License='MIT'
+Screenshot=''
+Url='http://redmine.lighttpd.net/projects/weighttp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

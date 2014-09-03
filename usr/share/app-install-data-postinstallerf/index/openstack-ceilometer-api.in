@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openstack-ceilometer-api</b>'
+Comment='<span size="xx-large">OpenStack ceilometer API service</span>'
+Comment3='
+OpenStack ceilometer provides services to measure and
+collect metrics from OpenStack components.
+
+This package contains the ceilometer API service.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://wiki.openstack.org/wiki/Ceilometer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

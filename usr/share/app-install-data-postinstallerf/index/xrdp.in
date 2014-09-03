@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xrdp</b>'
+Comment='<span size="xx-large">Open source remote desktop protocol (RDP) server</span>'
+Comment3='
+The goal of this project is to provide a fully functional Linux terminal
+server, capable of accepting connections from rdesktop and Microsofts own
+terminal server / remote desktop clients.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://xrdp.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

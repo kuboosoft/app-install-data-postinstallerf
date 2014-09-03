@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-cairomm-static</b>'
+Comment='<span size="xx-large">Static cross compiled version of the cairomm library</span>'
+Comment3='
+Static cross compiled version of the cairomm library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.cairographics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

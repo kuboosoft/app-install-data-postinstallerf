@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pygobject3-devel</b>'
+Comment='<span size="xx-large">Development files for embedding PyGObject introspection support</span>'
+Comment3='
+This package contains files required to embed PyGObject
+
+URL          https//live.gnome.org/PyGObject
+'
+License='LGPLv2+ and MIT'
+Screenshot=''
+Url='https://live.gnome.org/PyGObject'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

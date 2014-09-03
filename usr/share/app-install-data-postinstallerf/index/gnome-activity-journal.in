@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gnome-activity-journal</b>'
+Comment='<span size="xx-large">Browse and search your Zeitgeist activities</span>'
+Comment3='
+GNOME Activity Journal is a tool for easily
+browsing and finding files on your computer.
+It shows a chronological journal of all file
+activity.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://launchpad.net/gnome-activity-journal'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

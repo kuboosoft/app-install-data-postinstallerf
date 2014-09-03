@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>quicksynergy</b>'
+Comment='<span size="xx-large">Share keyboard and mouse between computers</span>'
+Comment3='
+QuickSynergy is a graphical interface (GUI) for easily configuring Synergy2,
+an application that allows the user to share his mouse and keyboard between
+two or more computers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://quicksynergy.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

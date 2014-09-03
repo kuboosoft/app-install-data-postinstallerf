@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-shs</b>'
+Comment='<span size="xx-large">Shuswap hunspell dictionaries</span>'
+Comment3='
+Shuswap hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://secpewt.sd73.bc.ca/wordlist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

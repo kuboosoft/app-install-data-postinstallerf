@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mongodb-server</b>'
+Comment='<span size="xx-large">MongoDB server, sharding server and support scripts</span>'
+Comment3='
+This package provides the mongo server software, mongo sharding server
+software, default configuration files, and init scripts.
+'
+License='AGPLv3 and zlib and ASL 2.0'
+Screenshot=''
+Url='http://www.mongodb.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rsyslog-rabbitmq</b>'
+Comment='<span size="xx-large">RabbitMQ support for rsyslog</span>'
+Comment3='
+This module allows rsyslog to send messages to a RabbitMQ server.
+'
+License='(GPLv3+ and ASL 2.0)'
+Screenshot=''
+Url='http://www.rsyslog.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

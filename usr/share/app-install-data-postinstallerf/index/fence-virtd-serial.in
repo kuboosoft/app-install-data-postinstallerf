@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-virtd-serial</b>'
+Comment='<span size="xx-large">Serial VMChannel listener for fence-virtd</span>'
+Comment3='
+Provides serial VMChannel listener capability for fence-virtd.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fence-virt.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

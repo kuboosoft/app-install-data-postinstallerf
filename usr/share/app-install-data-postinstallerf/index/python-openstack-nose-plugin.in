@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-openstack-nose-plugin</b>'
+Comment='<span size="xx-large">openstack run_tests.py style output for nosetests</span>'
+Comment3='
+openstack.nose_plugin provides a nose plugin that allows nosetests output to
+mimic the output of openstacks run_tests.py.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/openstack.nose_plugin/0.11'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-el-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for glassfish-el</span>'
+Comment3='
+API documentation for glassfish-el.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://uel.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

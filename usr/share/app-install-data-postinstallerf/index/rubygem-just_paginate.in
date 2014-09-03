@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-just_paginate</b>'
+Comment='<span size="xx-large">Paginating collections of things for the web</span>'
+Comment3='
+Framework-agnostic support for paginating collections of things, and linking
+to paginated things in your webpage
+'
+License='MIT'
+Screenshot=''
+Url='https://gitorious.org/gitorious/just_paginate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

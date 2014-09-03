@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-panel-control</b>'
+Comment='<span size="xx-large">Command line utility to control the GNOME panel</span>'
+Comment3='
+gnome-panel-control can be used to invoke the GNOME panel run or main menu from
+the command line. It is originally a helper utility of openbox since
+gnome-panel is no longer managing its own key bindings.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openbox.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

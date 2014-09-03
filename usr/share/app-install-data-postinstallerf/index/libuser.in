@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libuser</b>'
+Comment='<span size="xx-large">A user and group account administration library</span>'
+Comment3='
+The libuser library implements a standardized interface for manipulating
+and administering user and group accounts.  The library uses pluggable
+back-ends to interface to its data sources.
+
+Sample applications modeled after those included with the shadow password
+suite are included.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/libuser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

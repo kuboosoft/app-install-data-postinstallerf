@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>picard</b>'
+Comment='<span size="xx-large">MusicBrainz-based audio tagger</span>'
+Comment3='
+Picard is an audio tagging application using data from the MusicBrainz
+database. The tagger is album or release oriented, rather than
+track-oriented.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://musicbrainz.org/doc/PicardTagger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

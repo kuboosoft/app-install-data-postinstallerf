@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geany-plugins-tableconvert</b>'
+Comment='<span size="xx-large">Helps on converting a tabulator separated selection into a table</span>'
+Comment3='
+Tableconvert is a plugin which helps on converting a tabulator separated
+selection into a table.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

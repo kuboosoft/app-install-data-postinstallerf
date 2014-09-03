@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-pear-Validate</b>'
+Comment='<span size="xx-large">Validation Class for Various Data Types</span>'
+Comment3='
+Package to validate various data. It includes 
+- numbers (min/max, decimal or not)
+- email (syntax, domain check, rfc822)
+- string (predefined type alpha upper and/or lowercase, numeric,...)
+- date (min, max)
+- uri (RFC2396)
+- possibility valid multiple data with a single method call (multiple)
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Validate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

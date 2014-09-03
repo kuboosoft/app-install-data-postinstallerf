@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ntp</b>'
+Comment='<span size="xx-large">The NTP daemon and utilities</span>'
+Comment3='
+The Network Time Protocol (NTP) is used to synchronize a computers
+time with another reference time source. This package includes ntpd
+(a daemon which continuously adjusts system time) and utilities used
+to query and configure the ntpd daemon.
+
+Perl scripts ntp-wait and ntptrace are in the ntp-perl package,
+ntpdate is in the ntpdate package and sntp is in the sntp package.
+The documentation is in the ntp-doc package.
+'
+License='(MIT and BSD and BSD with advertising) and GPLv2'
+Screenshot=''
+Url='http://www.ntp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

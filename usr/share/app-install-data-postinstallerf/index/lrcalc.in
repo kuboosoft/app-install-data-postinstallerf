@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>lrcalc</b>'
+Comment='<span size="xx-large">Littlewood-Richardson Calculator</span>'
+Comment3='
+The "Littlewood-Richardson Calculator" is a package of C and Maple programs
+for computing Littlewood-Richardson coefficients. The C programs form the
+engine of the package, providing fast calculation of single LR coefficients,
+products of Schur functions, and skew Schur functions. The Maple code mainly
+gives an interface which makes it possible to use the C programs from Maple.
+This interface uses the same notation as the SF package of John Stembridge,
+to make it easier to use both packages at the same time.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://math.rutgers.edu/~asbuch/lrcalc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

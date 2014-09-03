@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfhell</b>'
+Comment='<span size="xx-large">GTK based Ham Radio application for the Hellschreiber communications mode</span>'
+Comment3='
+xfhell is a GTK+ application for the "fuzzy" digital amateur radio
+communication mode known as Hellschreiber.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://5b4az.chronos.org.uk/pages/digital.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

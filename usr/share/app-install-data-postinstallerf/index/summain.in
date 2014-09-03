@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>summain</b>'
+Comment='<span size="xx-large">File manifest generator</span>'
+Comment3='
+Summain generates file manifests, which contain metadata about the
+files, and a checksum of their content for regular files. The manifest
+can be generated for a directory tree at different points in time and
+compared (with diff) to see if something has changed.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://liw.fi/summain/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

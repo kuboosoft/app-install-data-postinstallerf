@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>epix-emacs</b>'
+Comment='<span size="xx-large">Emacs support for epix</span>'
+Comment3='
+Emacs support for the epix
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mathcs.holycross.edu/~ahwang/current/ePiX.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cfdg-fe</b>'
+Comment='<span size="xx-large">A front end to cfdg</span>'
+Comment3='
+A front end to cfdg
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://impulzus.com/~tchibo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

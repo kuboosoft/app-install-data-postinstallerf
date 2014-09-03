@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-parallel</b>'
+Comment='<span size="xx-large">Parallel programming library</span>'
+Comment3='
+This package provides a library for parallel programming.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/parallel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

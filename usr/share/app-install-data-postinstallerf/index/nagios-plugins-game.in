@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nagios-plugins-game</b>'
+Comment='<span size="xx-large">Nagios Plugin - check_game</span>'
+Comment3='
+Provides check_game support for Nagios.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://nagiosplug.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

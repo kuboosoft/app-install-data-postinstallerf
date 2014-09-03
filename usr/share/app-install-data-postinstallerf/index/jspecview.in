@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jspecview</b>'
+Comment='<span size="xx-large">JAVA applets for the display of JCAMP-DX and AnIML/CML spectral files</span>'
+Comment3='
+The JSpecView Project provides JAVA applets for the display of
+JCAMP-DX and AnIML/CML spectral files.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://jspecview.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

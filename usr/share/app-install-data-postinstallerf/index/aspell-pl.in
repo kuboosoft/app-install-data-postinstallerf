@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>aspell-pl</b>'
+Comment='<span size="xx-large">Polish dictionaries for Aspell</span>'
+Comment3='
+Provides the word list/dictionaries for the following Polish
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://aspell.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

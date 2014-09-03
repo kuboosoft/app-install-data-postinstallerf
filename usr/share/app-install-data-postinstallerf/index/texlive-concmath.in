@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-concmath</b>'
+Comment='<span size="xx-large">Concrete Math fonts</span>'
+Comment3='
+A LaTeX package and font definition files to access the
+Concrete mathematics fonts, which were derived from Computer
+Modern math fonts using parameters from Concrete Roman text
+fonts.
+
+date 2010-02-24 212809 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

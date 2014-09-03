@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>linphone-mediastreamer</b>'
+Comment='<span size="xx-large">A media streaming library for telephony applications</span>'
+Comment3='
+Mediastreamer2 is a GPL licensed library to make audio and video
+real-time streaming and processing. Written in pure C, it is based
+upon the oRTP library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linphone.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

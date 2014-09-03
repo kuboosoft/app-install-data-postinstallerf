@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>memcached-devel</b>'
+Comment='<span size="xx-large">Files needed for development using memcached protocol</span>'
+Comment3='
+Install memcached-devel if you are developing C/C++ applications that require
+access to the memcached binary include files.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.memcached.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

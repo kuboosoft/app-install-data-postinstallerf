@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Text-Shellwords</b>'
+Comment='<span size="xx-large">A thin wrapper around the shellwords.pl package</span>'
+Comment3='
+This is a thin wrapper around the shellwords.pl package, which comes
+preinstalled with Perl.  This module imports a single subroutine,
+shellwords().  The shellwords() routine parses lines of text and
+returns a set of tokens using the same rules that the Unix shell does
+for its command-line arguments.  Tokens are separated by whitespace,
+and can be delimited by single or double quotes.  The module also
+respects backslash escapes.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Shellwords/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

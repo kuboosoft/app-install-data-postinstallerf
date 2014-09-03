@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gnucap</b>'
+Comment='<span size="xx-large">The Gnu Circuit Analysis Package</span>'
+Comment3='
+The primary component is a general purpose circuit simulator. It performs
+nonlinear dc and transient analyses, fourier analysis, and ac analysis. Spice
+compatible models for the MOSFET (level 1-7), BJT, and diode are included in
+this release. Gnucap is not based on Spice, but some of the models have been
+derived from the Berkeley models. Unlike Spice, the engine is designed to do
+true mixed-mode simulation. Most of the code is in place for future support of
+event driven analog simulation, and true multi-rate simulation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/gnucap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

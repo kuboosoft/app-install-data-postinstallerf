@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zabbix-agent</b>'
+Comment='<span size="xx-large">Zabbix Agent</span>'
+Comment3='
+The Zabbix client agent, to be installed on monitored systems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.zabbix.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

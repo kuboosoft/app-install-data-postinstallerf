@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-httpclient</b>'
+Comment='<span size="xx-large">HTTP Client interface for ruby</span>'
+Comment3='
+an interface to HTTP Client for the ruby language
+'
+License='(Ruby or BSD) and Public Domain'
+Screenshot=''
+Url='https://github.com/nahi/httpclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

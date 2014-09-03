@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>hadoop-httpfs</b>'
+Comment='<span size="xx-large">Provides web access to HDFS</span>'
+Comment3='
+Apache Hadoop is a framework that allows for the distributed processing of
+large data sets across clusters of computers using simple programming models.
+It is designed to scale up from single servers to thousands of machines, each
+offering local computation and storage.
+
+This package provides a server that provides HTTP REST API support for
+the complete FileSystem/FileContext interface in HDFS.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://hadoop.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

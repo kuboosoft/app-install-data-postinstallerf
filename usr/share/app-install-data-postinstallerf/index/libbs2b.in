@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libbs2b</b>'
+Comment='<span size="xx-large">Bauer stereophonic-to-binaural DSP library</span>'
+Comment3='
+The Bauer stereophonic-to-binaural DSP (bs2b) library and plugins is designed
+to improve headphone listening of stereo audio records. Recommended for
+headphone prolonged listening to disable superstereo fatigue without essential
+distortions.
+
+'
+License='Copyright only'
+Screenshot=''
+Url='http://bs2b.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

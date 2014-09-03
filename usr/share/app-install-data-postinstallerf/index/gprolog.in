@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gprolog</b>'
+Comment='<span size="xx-large">GNU Prolog is a free Prolog compiler</span>'
+Comment3='
+GNU Prolog is a native Prolog compiler with constraint solving over
+finite domains (FD) developed by Daniel Diaz
+(http//loco.inria.fr/~diaz).
+
+GNU Prolog is a very efficient native compiler producing (small)
+stand-alone executables. GNU-Prolog also offers a classical
+top-level+debugger.
+GNU Prolog conforms to the ISO standard for Prolog but also includes a
+lot of extensions (global variables, DCG, sockets, OS interface,...).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gprolog.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

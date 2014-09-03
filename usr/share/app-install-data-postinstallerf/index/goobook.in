@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>goobook</b>'
+Comment='<span size="xx-large">Abook-style interface for google contacts for mutt</span>'
+Comment3='
+Goobook is a command-line interface to Google contacts. It includes
+* Searching contacts
+* Mutt integration (the same way as for abook)
+* Adding new contacts (very basic)
+'
+License='GPLv3'
+Screenshot=''
+Url='http://code.google.com/p/goobook'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

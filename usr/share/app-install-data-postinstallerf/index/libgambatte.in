@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libgambatte</b>'
+Comment='<span size="xx-large">Core emulation code for Gambatte emulator</span>'
+Comment3='
+Gambatte is an accuracy-focused, open-source, cross-platform
+Game Boy Color emulator written in C++. It is based on hundreds of
+corner case hardware tests, as well as previous documentation and reverse
+engineering efforts.
+
+The core emulation code is contained in a separate library back-end
+(libgambatte) written in platform-independent C++.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/gambatte/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

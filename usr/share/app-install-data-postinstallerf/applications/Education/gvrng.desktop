@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n gvrng
+Type=Application
+Name=GvRng
+GenericName=Guido van Robot NG
+Comment=Guido van Robot NG
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_GvRng_bitmaps_gvrIcon-big.png
+Terminal=false
+Categories=Development;Education;

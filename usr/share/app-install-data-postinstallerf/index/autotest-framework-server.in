@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>autotest-framework-server</b>'
+Comment='<span size="xx-large">Server test harness and front-end for autotest</span>'
+Comment3='
+Autotest is a framework for fully automated testing. It is designed primarily
+to test the Linux kernel, though it is useful for many other functions such as
+qualifying new hardware. Its an open-source project under the GPL and is used
+and developed by a number of organizations, including Google, IBM, and many
+others.
+
+The autotest-server package provides the server harness capable of running
+autotest jobs on a single system.
+'
+License='GPLv2 and BSD and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://autotest.github.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libpst-devel</b>'
+Comment='<span size="xx-large">Library links and header files for libpst application development</span>'
+Comment3='
+The libpst-devel package contains the library links and header files
+youll need to develop applications using the libpst shared library.
+You do not need to install it if you just want to use the libpst
+utilities.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.five-ten-sg.com/libpst/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

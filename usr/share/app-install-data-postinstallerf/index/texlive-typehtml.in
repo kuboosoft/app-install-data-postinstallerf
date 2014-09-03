@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-typehtml</b>'
+Comment='<span size="xx-large">Typeset HTML directly from LaTeX</span>'
+Comment3='
+Can handle almost all of HTML2, and most of the math fragment
+of the draft HTML3.
+
+date 2010-02-23 161611 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

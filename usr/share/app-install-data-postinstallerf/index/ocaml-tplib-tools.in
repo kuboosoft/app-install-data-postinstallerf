@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ocaml-tplib-tools</b>'
+Comment='<span size="xx-large">Tools that use TPLib</span>'
+Comment3='
+Tools that use TPLib.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://gforge.inria.fr/projects/tplib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

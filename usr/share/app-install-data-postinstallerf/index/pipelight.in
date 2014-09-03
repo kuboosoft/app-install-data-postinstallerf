@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pipelight</b>'
+Comment='<span size="xx-large">NPAPI Wrapper Plugin for using Windows plugins in Linux browsers</span>'
+Comment3='
+Pipelight is a NPAPI wrapper plugin for using Windows plugins in Linux
+browsers and therefore giving you the possibility to access services
+which are otherwise not available for Linux users.  Typical examples of
+such services are Netflix and Amazon Instant, which both use the
+proprietary browser plugin Silverlight.  These services cannot normally
+be used on Linux since this plugin is only available for Windows.
+
+Pipelight helps you access these services by using the original
+Silverlight plugin directly in your browser, all while giving you a
+better hardware acceleration and performance than a virtual machine.
+'
+License='GPLv2+ or LGPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://pipelight.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

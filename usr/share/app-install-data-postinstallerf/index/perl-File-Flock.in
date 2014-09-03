@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-File-Flock</b>'
+Comment='<span size="xx-large">File locking with flock</span>'
+Comment3='
+Lock files using the flock() call. If the file to be locked does not exist,
+then the file is created. If the file was created then it will be removed
+when it is unlocked assuming its still an empty file.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Flock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

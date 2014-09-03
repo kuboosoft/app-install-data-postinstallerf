@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>freehoo</b>'
+Comment='<span size="xx-large">Freehoo is a free console based messenger for Yahoo IM Service</span>'
+Comment3='
+This is a simple Yahoo Messenger client that requires no windowing system,
+and it therefore can be quite useful in situations where a minimal system
+is being used or when a windowing system is otherwise unavailable or
+unfeasible.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/freehoo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

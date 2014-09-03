@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>laughlin-backgrounds-extras-gnome</b>'
+Comment='<span size="xx-large">Extra Laughlin Wallpapers for Gnome</span>'
+Comment3='
+This package contains Laughlin supplemental wallpapers for Gnome
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F14_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

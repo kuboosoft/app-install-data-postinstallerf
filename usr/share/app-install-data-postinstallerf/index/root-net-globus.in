@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-net-globus</b>'
+Comment='<span size="xx-large">Globus extension for ROOT</span>'
+Comment3='
+This package contains the Globus extension for ROOT, that allows
+authentication and authorization against Globus.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

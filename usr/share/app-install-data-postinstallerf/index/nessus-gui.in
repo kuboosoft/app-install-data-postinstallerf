@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nessus-gui</b>'
+Comment='<span size="xx-large">GTK client interface for nessusd</span>'
+Comment3='
+GTK client interface for nessusd
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nessus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

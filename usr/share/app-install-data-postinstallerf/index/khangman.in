@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>khangman</b>'
+Comment='<span size="xx-large">Hangman game</span>'
+Comment3='
+Hangman game.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdeedu/khangman'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

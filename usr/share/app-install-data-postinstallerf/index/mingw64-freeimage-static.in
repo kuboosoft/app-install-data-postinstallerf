@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-freeimage-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows freeimage library</span>'
+Comment3='
+Static version of the MinGW Windows freeimage library.
+'
+License='GPLv2 or GPLv3 or MPLv1.0'
+Screenshot=''
+Url='http://freeimage.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

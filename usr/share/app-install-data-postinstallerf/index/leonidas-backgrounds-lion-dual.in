@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>leonidas-backgrounds-lion-dual</b>'
+Comment='<span size="xx-large">Shared dual screen lion themed Leonidas desktop backgrounds</span>'
+Comment3='
+This package includes dual screen images shared between the
+leonidas-backgrounds and leonidas-backgrounds-lion packages.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F11_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

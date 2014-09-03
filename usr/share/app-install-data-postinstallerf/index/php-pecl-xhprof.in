@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-pecl-xhprof</b>'
+Comment='<span size="xx-large">PHP extension for XHProf, a Hierarchical Profiler</span>'
+Comment3='
+XHProf is a function-level hierarchical profiler for PHP.
+
+This package provides the raw data collection component,
+implemented in C (as a PHP extension).
+The HTML based navigational interface is provided in the "xhprof" package.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pecl.php.net/package/xhprof'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

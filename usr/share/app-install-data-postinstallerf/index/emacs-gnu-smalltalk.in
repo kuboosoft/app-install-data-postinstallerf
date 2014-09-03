@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-gnu-smalltalk</b>'
+Comment='<span size="xx-large">Emacs mode for GNU Smalltalk</span>'
+Comment3='
+This Package contains the Smalltalk mode for Emacs.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.gnu.org/software/smalltalk/smalltalk.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

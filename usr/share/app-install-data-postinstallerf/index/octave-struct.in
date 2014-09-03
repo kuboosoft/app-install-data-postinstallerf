@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>octave-struct</b>'
+Comment='<span size="xx-large">Structure handling for Octave</span>'
+Comment3='
+Octave includes support for organizing data in structures. This package
+contains additional data structure manipulation functions that are not
+included in the octave core.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://octave.sourceforge.net/struct/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

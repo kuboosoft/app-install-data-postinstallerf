@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mesa-libGLw</b>'
+Comment='<span size="xx-large">Xt / Motif OpenGL widgets</span>'
+Comment3='
+Mesa libGLw runtime library.
+
+URL          http//www.mesa3d.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mesa3d.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

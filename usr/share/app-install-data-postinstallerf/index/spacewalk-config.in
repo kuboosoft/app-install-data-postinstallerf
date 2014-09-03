@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>spacewalk-config</b>'
+Comment='<span size="xx-large">Spacewalk Configuration</span>'
+Comment3='
+Common Spacewalk configuration files and templates.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

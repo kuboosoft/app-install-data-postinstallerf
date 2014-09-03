@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>Judy-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for Judy</span>'
+Comment3='
+This package contains the development libraries and header files
+for developing applications that use the Judy library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/judy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-karnaugh</b>'
+Comment='<span size="xx-large">Typeset Karnaugh-Veitch-maps</span>'
+Comment3='
+Macros intended for typesetting Karnaugh-Maps and Veitch-Charts
+in a simple and user-friendly way. Karnaugh-Maps and Veitch-
+Charts are used to display and simplify logic functions
+"manually". These macros can typeset Karnaugh-Maps and Veitch-
+Charts with up to ten variables (=1024 entries).
+
+date 2007-01-08 144040 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

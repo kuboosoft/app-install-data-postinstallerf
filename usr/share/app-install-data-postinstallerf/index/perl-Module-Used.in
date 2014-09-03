@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Module-Used</b>'
+Comment='<span size="xx-large">Find modules loaded by Perl code without running it</span>'
+Comment3='
+Modules are found statically based upon use and require statements. If use
+of the base or parent is found, both that module and the referenced ones
+will be returned. If Moose or MooseRole are found, this will look for
+extends and with sugar will be looked for; presently, this will miss
+modules listed in parentheses.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Used/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

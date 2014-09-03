@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mapnik-demo</b>'
+Comment='<span size="xx-large">Demo utility and some sample data distributed with mapnik</span>'
+Comment3='
+Demo application and sample vector datas distributed with the Mapnik
+spatial visualization library
+'
+License='GPLv2+ GeoGratis'
+Screenshot=''
+Url='http://mapnik.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

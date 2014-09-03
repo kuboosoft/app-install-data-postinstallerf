@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>javacc-maven-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for javacc-maven-plugin</span>'
+Comment3='
+API documentation for javacc-maven-plugin.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mojo.codehaus.org/javacc-maven-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

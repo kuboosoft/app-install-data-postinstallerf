@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>cloudy</b>'
+Comment='<span size="xx-large">Spectral synthesis code to simulate conditions in interstellar matter</span>'
+Comment3='
+Most of the quantitative information we have about the cosmos comes from
+spectroscopy. In many cases the light we analyze was produced by atoms in
+the first generations of stars and galaxies.  The spectra are produced by
+dilute gas where such properties as the gas kinetic temperature, chemical
+state, level of ionization, and level populations, are determined by a
+host of microphysical processes rather than by a single temperature.
+Analytical solutions are seldom possible and computer solutions are
+needed to understand their physical properties. Numerical simulations make
+it possible to understand complex physical environments starting from
+first principles. Cloudy is designed to do exactly this.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.nublado.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

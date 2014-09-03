@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xblas</b>'
+Comment='<span size="xx-large">Extra Precise Basic Linear Algebra Subroutines</span>'
+Comment3='
+The XBLAS library of routines is part of a reference implementation for
+the Dense and Banded Basic Linear Algebra Subroutines, along with their
+Extended and Mixed Precision versions, as documented in Chapters 2 and 4
+of the new BLAS Standard.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.netlib.org/xblas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

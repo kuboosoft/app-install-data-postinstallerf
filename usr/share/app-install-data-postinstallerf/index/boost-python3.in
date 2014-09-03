@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>boost-python3</b>'
+Comment='<span size="xx-large">Run-Time component of boost python library for Python 3</span>'
+Comment3='
+
+The Boost Python Library is a framework for interfacing Python and
+C++. It allows you to quickly and seamlessly expose C++ classes
+functions and objects to Python, and vice versa, using no special
+support for Boost Python Library compiled for Python 3.
+'
+License='Boost and MIT and Python'
+Screenshot=''
+Url='http://www.boost.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

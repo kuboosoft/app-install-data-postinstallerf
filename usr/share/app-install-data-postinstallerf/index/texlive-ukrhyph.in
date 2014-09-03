@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-ukrhyph</b>'
+Comment='<span size="xx-large">Hyphenation Patterns for Ukrainian</span>'
+Comment3='
+A range of patterns, depending on the encoding of the output
+font (including the standard T2A, so one can use the patterns
+with free fonts).
+
+date 2007-01-19 000842 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

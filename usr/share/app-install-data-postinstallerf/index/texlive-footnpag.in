@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-footnpag</b>'
+Comment='<span size="xx-large">Per-page numbering of footnotes</span>'
+Comment3='
+Allows footnotes on individual pages to be numbered from 1,
+rather than being numbered sequentially through the document.
+
+date 2009-09-26 114336 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

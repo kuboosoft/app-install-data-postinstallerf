@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libnfsidmap</b>'
+Comment3='
+Library that handles mapping between names and ids for NFSv4.
+
+URL          http//www.citi.umich.edu/projects/nfsv4/linux/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.citi.umich.edu/projects/nfsv4/linux/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

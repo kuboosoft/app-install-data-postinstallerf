@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>banshee-community-extensions</b>'
+Comment='<span size="xx-large">Collection of extensions for the media player Banshee</span>'
+Comment3='
+The Banshee Community Extensions contains a set of useful extensions
+for the media player Banshee.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://banshee-project.org/download/extensions/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

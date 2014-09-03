@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>kblackbox</b>'
+Comment='<span size="xx-large">A game of hide and seek played on a grid of boxes</span>'
+Comment3='
+KBlackBox is a game of hide and seek played on a grid of boxes.
+The computer has hidden several balls within this box.
+By shooting beams into the box and observing where they emerge
+it is possible to deduce the positions of the hidden balls.
+The fewer beams you use and the quicker you are to find the balls,
+the better (the lower) your score.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kblackbox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

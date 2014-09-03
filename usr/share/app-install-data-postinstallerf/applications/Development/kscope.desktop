@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n kscope
+Name=KScope
+Icon=/usr/share/app-install-data-postinstallerf/icons/kscope.png
+Type=Application
+Terminal=false
+Comment=Source editing environment
+Comment[fr]=Editeur de code source
+GenericName=Source editing environment
+GenericName[fr]=Editeur de code source
+Categories=Qt;Development;

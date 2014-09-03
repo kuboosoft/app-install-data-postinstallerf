@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pbuilder</b>'
+Comment='<span size="xx-large">Personal package builder for Debian packages</span>'
+Comment3='
+pbuilder constructs a chroot system, and builds a package inside the chroot.
+It is an ideal system to use to check that a package has correct build-
+dependencies.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://packages.debian.org/unstable/admin/pbuilder'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

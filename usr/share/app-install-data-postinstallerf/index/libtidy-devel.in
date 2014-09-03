@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtidy-devel</b>'
+Comment='<span size="xx-large">Development files for tidy</span>'
+Comment3='
+Development files for tidy.
+
+URL          http//tidy.sourceforge.net/
+'
+License='W3C'
+Screenshot=''
+Url='http://tidy.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

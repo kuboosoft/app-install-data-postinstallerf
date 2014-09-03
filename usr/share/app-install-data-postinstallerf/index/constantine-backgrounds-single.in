@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>constantine-backgrounds-single</b>'
+Comment='<span size="xx-large">Single screen images for Constantine Backgrounds</span>'
+Comment3='
+This package contains Single screen images for Constantine Backgrounds
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F12_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>muse</b>'
+Comment='<span size="xx-large">Midi/Audio Music Sequencer</span>'
+Comment3='
+MusE is a MIDI/Audio sequencer with recording and editing capabilities. It can
+perform audio effects like chorus/flanger in real-time via LASH and it supports
+Jack and ALSA interfaces. MusE aims to be a complete multitrack virtual studio
+for Linux.
+'
+License='Public Domain and GPLv2 and GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.muse-sequencer.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

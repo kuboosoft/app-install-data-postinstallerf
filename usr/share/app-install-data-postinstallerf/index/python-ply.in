@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-ply</b>'
+Comment='<span size="xx-large">Python Lex-Yacc</span>'
+Comment3='
+PLY is a straightforward lex/yacc implementation. Here is a list of its
+essential features
+* It is implemented entirely in Python.
+* It uses LR-parsing which is reasonably efficient and well suited for larger
+  grammars.
+* PLY provides most of the standard lex/yacc features including support
+  for empty productions, precedence rules, error recovery, and support
+  for ambiguous grammars.
+* PLY is straightforward to use and provides very extensive error checking.
+* PLY doesnt try to do anything more or less than provide the basic lex/yacc
+'
+License='BSD'
+Screenshot=''
+Url='http://www.dabeaz.com/ply/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

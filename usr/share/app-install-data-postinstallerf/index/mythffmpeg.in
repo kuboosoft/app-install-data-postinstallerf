@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mythffmpeg</b>'
+Comment='<span size="xx-large">MythTV build of FFmpeg</span>'
+Comment3='
+Several MythTV utilities interact with FFmpeg, which changes its parameters
+often enough to make it a hassle to support the variety of versions used by
+MythTV users.  This is a snapshot of the FFmpeg code so that MythTV utilities
+can interact with a known verion.
+'
+License='GPLv2+ and LGPLv2+ and LGPLv2 and (GPLv2 or QPL) and (GPLv2+ or LGPLv2+)'
+Screenshot=''
+Url='http://www.mythtv.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sni-qt</b>'
+Comment='<span size="xx-large">Plugin for Qt4 that turns QSystemTrayIcons into status notifiers</span>'
+Comment3='
+This package contains a Qt4 plugin which turns all QSystemTrayIcon into
+StatusNotifierItems (appindicators).
+
+'
+License='LGPLv3'
+Screenshot=''
+Url='https://launchpad.net/sni-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ncid-client</b>'
+Comment='<span size="xx-large">NCID (Network Caller ID) client</span>'
+Comment3='
+The ncid-client obtains the Caller ID from the ncid-server and normally
+displays it in a GUI window.  It can also display the Called ID in a
+terminal window or, using a output module, format the output and send it
+to another program.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ncid.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

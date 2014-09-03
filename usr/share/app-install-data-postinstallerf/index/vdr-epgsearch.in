@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vdr-epgsearch</b>'
+Comment='<span size="xx-large">Powerful schedules menu replacement plugin for VDR</span>'
+Comment3='
+This plugin provides a powerful replacement for VDRs default
+schedules menu entry.  It looks like the standard schedules menu, but
+adds several functions, such as additional commands for EPG entries,
+reusable queries which can be used as dynamic "search timers" etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://winni.vdr-developer.org/epgsearch/index_eng.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-twig-ctwig</b>'
+Comment='<span size="xx-large">Extension to improve performance of Twig</span>'
+Comment3='
+Twig is a PHP template engine.
+
+This package provides the Twig C extension (CTwig) to improve performance
+of the Twig template language, used by Twig PHP extension (php-twig-Twig).
+'
+License='BSD'
+Screenshot=''
+Url='http://twig.sensiolabs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

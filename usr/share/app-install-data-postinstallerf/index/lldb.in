@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>lldb</b>'
+Comment='<span size="xx-large">Next generation high-performance debugger</span>'
+Comment3='
+LLDB is a next generation, high-performance debugger. It is built as a set
+of reusable components which highly leverage existing libraries in the
+larger LLVM Project, such as the Clang expression parser and LLVM
+disassembler.
+
+'
+License='NCSA'
+Screenshot=''
+Url='http://llvm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>beep</b>'
+Comment='<span size="xx-large">Beep the PC speaker any number of ways</span>'
+Comment3='
+Beep allows the user to control the PC speaker with precision,
+allowing different sounds to indicate different events. While it
+can be run quite happily on the commandline, its intended place
+of residence is within shell/perl scripts, notifying the user when
+something interesting occurs. Of course, it has no notion of
+whats interesting, but its real good at that notifying part.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.johnath.com/beep/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-hawkey</b>'
+Comment='<span size="xx-large">Python 2 bindings for the hawkey library</span>'
+Comment3='
+Python 2 bindings for the hawkey library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/akozumpl/hawkey'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

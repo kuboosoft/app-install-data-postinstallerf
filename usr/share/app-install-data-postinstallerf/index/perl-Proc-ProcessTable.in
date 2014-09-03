@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Proc-ProcessTable</b>'
+Comment='<span size="xx-large">Perl extension to access the Unix process table</span>'
+Comment3='
+Perl interface to the Unix process table.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Proc-ProcessTable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

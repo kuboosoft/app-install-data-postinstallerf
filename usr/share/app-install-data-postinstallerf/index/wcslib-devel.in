@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wcslib-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. used to develop an application with wcslib</span>'
+Comment3='
+These are the files needed to develop an application using wcslib.
+
+URL          http//www.atnf.csiro.au/people/mcalabre/WCS/wcslib/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.atnf.csiro.au/people/mcalabre/WCS/wcslib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

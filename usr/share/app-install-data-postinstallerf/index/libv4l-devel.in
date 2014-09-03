@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libv4l-devel</b>'
+Comment='<span size="xx-large">Development files for libv4l</span>'
+Comment3='
+The libv4l-devel package contains libraries and header files for
+developing applications that use libv4l.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://hansdegoede.livejournal.com/3636.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

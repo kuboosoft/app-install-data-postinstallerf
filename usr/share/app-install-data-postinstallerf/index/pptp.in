@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pptp</b>'
+Comment='<span size="xx-large">Point-to-Point Tunneling Protocol (PPTP) Client</span>'
+Comment3='
+Client for the proprietary Microsoft Point-to-Point Tunneling
+Protocol, PPTP. Allows connection to a PPTP based VPN as used
+by employers and some cable and ADSL service providers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pptpclient.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

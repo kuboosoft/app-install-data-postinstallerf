@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mate-menu-editor</b>'
+Comment='<span size="xx-large">MATE Desktop menu editor</span>'
+Comment3='
+MATE Desktop menu editor
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

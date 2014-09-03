@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libiodbc</b>'
+Comment='<span size="xx-large">iODBC Driver Manager</span>'
+Comment3='
+The iODBC Driver Manager is a free implementation of the SAG CLI and
+ODBC compliant driver manager which allows developers to write ODBC
+compliant applications that can connect to various databases using
+appropriate backend drivers.
+
+'
+License='LGPLv2 or BSD'
+Screenshot=''
+Url='http://www.iodbc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

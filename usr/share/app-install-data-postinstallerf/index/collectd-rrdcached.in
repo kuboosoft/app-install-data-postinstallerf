@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>collectd-rrdcached</b>'
+Comment='<span size="xx-large">RRDCacheD plugin for collectd</span>'
+Comment3='
+This plugin uses the RRDtool accelerator daemon, rrdcached(1),
+to store values to RRD files in an efficient manner.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

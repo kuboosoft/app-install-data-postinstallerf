@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>scap-security-guide</b>'
+Comment='<span size="xx-large">Security guidance and baselines in SCAP formats</span>'
+Comment3='
+The scap-security-guide project provides a guide for configuration of the
+system from the final systems security point of view. The guidance is specified
+in the Security Content Automation Protocol (SCAP) format and constitutes
+a catalog of practical hardening advice, linked to government requirements
+where applicable. The project bridges the gap between generalized policy
+requirements and specific implementation guidelines. The Fedora system
+administrator can use the oscap CLI tool from openscap-scanner package, or the
+scap-workbench GUI tool from scap-workbench package to verify that the system
+conforms to provided guideline. Refer to scap-security-guide(8) manual page for
+further information.
+'
+License='Public Domain'
+Screenshot=''
+Url='https://fedorahosted.org/scap-security-guide/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

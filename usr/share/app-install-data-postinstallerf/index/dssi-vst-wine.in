@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>dssi-vst-wine</b>'
+Comment='<span size="xx-large">VST plug-ins wrapper</span>'
+Comment3='
+dssi-vst is an adapter that allows users of Linux audio software to take VST
+and VSTi audio effects and instrument plug-ins compiled for Windows, and load
+them into native LADSPA or DSSI plug-in hosts. Plug-ins run at full speed for
+most audio processing, although their user interfaces are slower because of the
+Windows emulation.
+
+This package contains the plug-in wrapper that works through wine.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://breakfastquay.com/dssi-vst/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>scim-array</b>'
+Comment='<span size="xx-large">SCIM Array 30 Input Method Engine</span>'
+Comment3='
+SCIM Array 30 Input Method Engine provides with all the functions of Array 30,
+including 1st and 2nd level short codes, special codes, and symbol input.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://scimarray.openfoundry.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-pedigree-perl</b>'
+Comment='<span size="xx-large">Generate TeX pedigree files from CSV files</span>'
+Comment3='
+either TeX fragments or full LaTeX files, to be processed by
+the authors pst-pdgr package. The program has support for
+multilanguage pedigrees (at the present moment the English and
+Russian languages are supported).
+
+date 2012-05-31 180853 +0200
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

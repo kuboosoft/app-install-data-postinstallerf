@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-XML-Tiny</b>'
+Comment='<span size="xx-large">Simple lightweight parser for a subset of XML</span>'
+Comment3='
+It is a simple lightweight parser for a subset of XML.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-Tiny/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

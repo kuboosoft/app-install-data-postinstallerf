@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Mail-SPF</b>'
+Comment='<span size="xx-large">Object-oriented implementation of Sender Policy Framework</span>'
+Comment3='
+MailSPF is an object-oriented implementation of Sender Policy Framework
+(SPF). See http//www.openspf.org for more information about SPF.
+'
+License='BSD'
+Screenshot=''
+Url='http://search.cpan.org/dist/Mail-SPF/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

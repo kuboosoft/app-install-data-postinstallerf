@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fonts-tweak-tool</b>'
+Comment='<span size="xx-large">Tool for customizing fonts per language</span>'
+Comment3='
+fonts-tweak-tool is a GUI tool for customizing fonts per language on desktops
+using fontconfig.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://bitbucket.org/tagoh/fonts-tweak-tool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

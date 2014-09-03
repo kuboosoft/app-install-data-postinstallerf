@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-solarium</b>'
+Comment='<span size="xx-large">Solarium PHP Solr client library</span>'
+Comment3='
+Solarium is a PHP Solr client library that accurately model Solr concepts.
+
+Where many other Solr libraries only handle the communication with Solr,
+Solarium also relieves you of handling all the complex Solr query parameters
+using a well documented API.
+Documentation http//wiki.solarium-project.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.solarium-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

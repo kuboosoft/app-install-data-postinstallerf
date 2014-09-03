@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-File-NFSLock</b>'
+Comment='<span size="xx-large">Perl module to do NFS (or not) locking</span>'
+Comment3='
+Program based of concept of hard linking of files being atomic across NFS.
+This concept was mentioned in MailBoxLocker (which was originally
+presented in MailFolderMaildir). Some routine flow is taken from
+linking a common file to the local file, and then checking the nlink
+status. Some ideologies were not complete (uncache mechanism, shared
+locking) and some coding was even incorrect (wrong stat index).
+FileNFSLock was written to be light, generic, and fast.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-NFSLock'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

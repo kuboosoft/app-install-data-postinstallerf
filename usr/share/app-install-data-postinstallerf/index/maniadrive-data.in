@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>maniadrive-data</b>'
+Comment='<span size="xx-large">Data files for maniadrive, a 3D stunt driving game</span>'
+Comment3='
+Data files for maniadrive, a 3D stunt driving game. Notice this package does
+not include the original ManiaDrive soundtrack as the original soundtrack is
+licensed under a CC BY-NC-SA license, which is not acceptable to Fedora.
+
+A replacement soundtrack is available in the maniadrive-music package (and will
+get automatically installed together with maniadrive itself).
+'
+License='GPL+'
+Screenshot=''
+Url='http://maniadrive.raydium.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

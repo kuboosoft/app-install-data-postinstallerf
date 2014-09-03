@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-bengali</b>'
+Comment='<span size="xx-large">Support for the Bengali language</span>'
+Comment3='
+The package is based on Velthuis transliteration scheme, with
+extensions to deal with the Bengali letters that are not in
+Devanagari. The package also supports Assamese.
+
+date 2011-01-08 013258 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

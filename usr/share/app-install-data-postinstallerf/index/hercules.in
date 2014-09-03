@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>hercules</b>'
+Comment3='
+Hercules is an emulator for the IBM System/370, ESA/390, and z/Architecture
+series of mainframe computers. It is capable of running any IBM operating
+system and applications that a real system will run, as long as the hardware
+needed is emulated. Hercules can emulate FBA and CKD DASD, tape, printer,
+card reader, card punch, channel-to-channel adapter, LCS Ethernet, and
+printer-keyboard, 3270 terminal, and 3287 printer devices.
+'
+License='QPL'
+Screenshot=''
+Url='http://www.hercules-390.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mapnik-python</b>'
+Comment='<span size="xx-large">Python bindings for the Mapnik spatial visualization library</span>'
+Comment3='
+Language bindings to enable the Mapnik library to be used from python
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mapnik.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

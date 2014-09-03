@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>utrac</b>'
+Comment='<span size="xx-large">Universal Text Recognizer and Converter</span>'
+Comment3='
+Utrac is a command line tool and a library that recognize the encoding
+of an input file (ex UTF-8, ISO-8859-1, CP437...) and its end-of-line
+type (CR, LF, CRLF).
+It has three main features
+- Automatic recognition (depending on the file and on the systems locale),
+  reliable in most cases;
+- Assistance for verification or manual recognition;
+- Conversion to an other charset and/or end-of-line type.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://utrac.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

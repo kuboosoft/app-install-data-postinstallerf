@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>adwaita-nemo</b>'
+Comment='<span size="xx-large">Nemo theme fix for Adwaita</span>'
+Comment3='
+Nemo theme fix for Adwaita
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://github.com/linuxmint/nemo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

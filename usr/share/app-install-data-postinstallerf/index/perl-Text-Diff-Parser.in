@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Text-Diff-Parser</b>'
+Comment='<span size="xx-large">Parse patch files containing unified and standard diffs</span>'
+Comment3='
+TextDiffParser parses diff files and patches. It allows you to access
+the changes to a file in a standardized way, even if multiple patch
+formats are used.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Diff-Parser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

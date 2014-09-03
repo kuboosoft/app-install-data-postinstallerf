@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdebindings-devel</b>'
+Comment='<span size="xx-large">Header files for kdebindings</span>'
+Comment3='
+Header files for developing applications using kdebindings.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://developer.kde.org/language-bindings/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

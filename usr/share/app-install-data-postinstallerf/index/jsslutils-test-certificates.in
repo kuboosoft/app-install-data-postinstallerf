@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jsslutils-test-certificates</b>'
+Comment='<span size="xx-large">jSSLutils :: Test certificates</span>'
+Comment3='
+These are a few test keys and certificates (password is
+testtest).
+'
+License='ASL 2.0 and BSD and LGPLv2+ and Public Domain'
+Screenshot=''
+Url='http://code.google.com/p/jsslutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

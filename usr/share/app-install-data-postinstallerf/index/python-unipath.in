@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-unipath</b>'
+Comment='<span size="xx-large">Alternative to Python modules os, os.path and shutil</span>'
+Comment3='
+Unipath is a package for doing pathname calculations and filesystem
+access in an object-oriented manner, an alternative to functions in
+os.path, shutil and glob, and even some functions in os.* Its based
+on Jason Orendorffs path.py but does not adhere as strictly to the
+underlying functions syntax, in order to provide more user
+convenience and higher-level functionality. For example
+
+ o p.mkdir() succeeds silently if the directory already exists, and
+ o p.mkdir(True) creates intermediate directories a la os.makedirs.
+ o p.rmtree(parents=True) combines shutil.rmtree, os.path.isdir,
+'
+License='Python'
+Screenshot=''
+Url='http://pypi.python.org/pypi/Unipath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

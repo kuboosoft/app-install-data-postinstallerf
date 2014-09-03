@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sleuthkit</b>'
+Comment='<span size="xx-large">The Sleuth Kit (TSK)</span>'
+Comment3='
+The Sleuth Kit (TSK) is a collection of UNIX-based command line tools that
+allow you to investigate a computer. The current focus of the tools is the
+file and volume systems and TSK supports FAT, Ext2/3, NTFS, UFS,
+and ISO 9660 file systems
+'
+License='CPL and IBM and GPLv2+'
+Screenshot=''
+Url='http://www.sleuthkit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

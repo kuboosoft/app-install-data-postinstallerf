@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xfce4-battery-plugin</b>'
+Comment='<span size="xx-large">Battery monitor for the Xfce panel</span>'
+Comment3='
+A battery monitor plugin for the Xfce panel, compatible with APM and ACPI.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-battery-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

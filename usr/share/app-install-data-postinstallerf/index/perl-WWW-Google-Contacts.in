@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-WWW-Google-Contacts</b>'
+Comment='<span size="xx-large">Use Perl to access, list and edit Google Contacts</span>'
+Comment3='
+This module implements Google Contacts Data API according to
+http//code.google.com/apis/contacts/docs/3.0/developers_guide_protocol.html
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/WWW-Google-Contacts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

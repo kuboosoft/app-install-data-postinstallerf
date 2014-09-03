@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>csound-fltk</b>'
+Comment='<span size="xx-large">FLTK plugins for Csound</span>'
+Comment3='
+Contains FLTK plugins for csound
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://csound.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

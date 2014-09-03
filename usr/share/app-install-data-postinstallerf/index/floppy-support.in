@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>floppy-support</b>'
+Comment='<span size="xx-large">Load floppy driver at boot time</span>'
+Comment3='
+By default the floppy driver is not loaded at boot time. Installing this
+package will load the floppy driver as part of the install and will set
+things so that it will be loaded during future boots.
+'
+License='MIT'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

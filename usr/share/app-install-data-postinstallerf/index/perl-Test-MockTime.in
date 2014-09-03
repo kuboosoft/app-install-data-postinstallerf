@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Test-MockTime</b>'
+Comment='<span size="xx-large">Replaces actual time with simulated time</span>'
+Comment3='
+This module was created to enable test suites to test code at specific
+points in time. Specifically it overrides localtime, gmtime and time at
+compile time and then relies on the user supplying a mock time via
+set_relative_time, set_absolute_time or set_fixed_time to alter future
+calls to gmtime,time or localtime.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-MockTime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

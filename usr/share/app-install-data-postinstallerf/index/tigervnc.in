@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tigervnc</b>'
+Comment='<span size="xx-large">A TigerVNC remote display system</span>'
+Comment3='
+Virtual Network Computing (VNC) is a remote display system which
+allows you to view a computing desktop environment not only on the
+machine where it is running, but from anywhere on the Internet and
+from a wide variety of machine architectures.  This package contains a
+client which will allow you to connect to other desktops running a VNC
+server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tigervnc.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

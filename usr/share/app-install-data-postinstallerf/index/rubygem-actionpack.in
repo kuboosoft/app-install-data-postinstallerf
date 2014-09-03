@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-actionpack</b>'
+Comment='<span size="xx-large">Web-flow and rendering framework putting the VC in MVC</span>'
+Comment3='
+Eases web-request routing, handling, and response as a half-way front,
+half-way page controller. Implemented with specific emphasis on enabling easy
+unit/integration testing that doesnt require a browser.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.rubyonrails.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

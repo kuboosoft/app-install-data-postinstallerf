@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libguac-client-rdp</b>'
+Comment='<span size="xx-large">RDP support for guacd</span>'
+Comment3='
+libguac-client-rdp is a protocol support plugin for the Guacamole proxy (guacd)
+which provides support for RDP, the proprietary remote desktop protocol used by
+Windows Remote Deskop / Terminal Services, via the libfreerdp library.
+
+'
+License='MPLv1.1 or GPLv2+'
+Screenshot=''
+Url='http://guac-dev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

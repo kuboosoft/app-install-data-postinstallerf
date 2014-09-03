@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ncdc</b>'
+Comment='<span size="xx-large">A modern and lightweight direct connect client</span>'
+Comment3='
+Ncdc is a modern and lightweight direct connect client with a
+friendly ncurses interface.
+'
+License='MIT'
+Screenshot=''
+Url='http://dev.yorhel.nl/ncdc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

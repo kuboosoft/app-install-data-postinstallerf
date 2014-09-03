@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sntp</b>'
+Comment='<span size="xx-large">Standard Simple Network Time Protocol program</span>'
+Comment3='
+sntp can be used as a SNTP client to query a NTP or SNTP server and either
+display the time or set the local systems time (given suitable privilege).
+It can be run as an interactive command or in a cron job.
+'
+License='(MIT and BSD and BSD with advertising) and GPLv2'
+Screenshot=''
+Url='http://www.ntp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

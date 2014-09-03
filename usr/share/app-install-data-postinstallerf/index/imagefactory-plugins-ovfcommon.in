@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>imagefactory-plugins-ovfcommon</b>'
+Comment='<span size="xx-large">common utilities to manipulate ovf-related objects</span>'
+Comment3='
+This pseudo-plugin is used to provide common OVF functionality to other
+plugins.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.aeolusproject.org/imagefactory.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

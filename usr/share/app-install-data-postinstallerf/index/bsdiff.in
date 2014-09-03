@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bsdiff</b>'
+Comment='<span size="xx-large">Binary diff/patch utility</span>'
+Comment3='
+bsdiff and bspatch are tools for building and applying patches to binary files.
+By using suffix sorting (specifically, Larsson and Sadakanes qsufsort) and
+taking advantage of how executable files change, bsdiff routinely produces
+binary patches 50-80% smaller than those produced by Xdelta, and 15% smaller
+than those produced by .RTPatch.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.daemonology.net/bsdiff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

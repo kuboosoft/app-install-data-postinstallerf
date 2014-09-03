@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-keyring</b>'
+Comment='<span size="xx-large">Python 2 library to store and access passwords safely</span>'
+Comment3='
+The Python keyring lib provides a easy way to access the system keyring
+service from python. It can be used in any application that needs safe
+password storage.
+
+The keyring services supported by the Python keyring lib
+* **OSXKeychain** supports the Keychain service in Mac OS X.
+* **KDEKWallet** supports the KDEs Kwallet service.
+* **GnomeKeyring** for Gnome 2 environment.
+* **SecretServiceKeyring** for newer GNOME and KDE environments.
+'
+License='Python'
+Screenshot=''
+Url='http://bitbucket.org/kang/python-keyring-lib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

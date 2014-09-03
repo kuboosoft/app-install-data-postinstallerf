@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>twlog</b>'
+Comment='<span size="xx-large">Records basic ham radio log information</span>'
+Comment3='
+Twlog records basic Ham log information. It was written
+for day to day logging, not contesting. There are no dupe
+checks or contest related features.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wa0eir.home.mchsi.com/twlog.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

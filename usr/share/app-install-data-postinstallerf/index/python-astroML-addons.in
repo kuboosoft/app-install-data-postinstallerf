@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-astroML-addons</b>'
+Comment='<span size="xx-large">Performance add-ons for the astroML package</span>'
+Comment3='
+astroML is split into two components. The core astroML library is written
+in python only, and is designed to be very easy to install for any users,
+even those who dont have a working C or fortran compiler. A companion library,
+astroML_addons, can be optionally installed for increased performance on
+certain algorithms. Every algorithm in astroML_addons has a pure python
+counterpart in the core astroML implementation, but the astroML_addons library
+contains faster and more efficient implementations in compiled code.
+Furthermore, if astroML_addons is installed on your system, the core astroML
+library will import and use the faster routines by default.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.astroml.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-session-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-session</span>'
+Comment3='
+Documentation for rubygem-session
+'
+License='Ruby'
+Screenshot=''
+Url='http://github.com/ahoward/session/tree/master'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

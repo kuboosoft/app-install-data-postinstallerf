@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-numbers</b>'
+Comment='<span size="xx-large">Instances of numerical classes for numbers</span>'
+Comment3='
+Instances of the numerical classes for a variety of different numbers
+(computable) real numbers, arbitrary precision fixed numbers,
+arbitrary precision floating point numbers, differentiable numbers,
+symbolic numbers, natural numbers, interval arithmetic.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/numbers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

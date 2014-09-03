@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-ExtUtils-PkgConfig</b>'
+Comment='<span size="xx-large">Simplistic interface to pkg-config</span>'
+Comment3='
+The pkg-config program retrieves information about installed libraries,
+usually for the purposes of compiling against and linking to them.
+
+ExtUtilsPkgConfig is a very simplistic interface to this utility,
+intended for use in the Makefile.PL of perl extensions which bind
+libraries that pkg-config knows. It is really just boilerplate code
+that you wouldve written yourself.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/ExtUtils-PkgConfig/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>zidrav</b>'
+Comment='<span size="xx-large">Zorbas Incredible Data Repairer And Verifier</span>'
+Comment3='
+ZIDRAV stands for "Zorbas Incredible Data Repairer And Verifier", and is an
+extremely useful tool for cross-checking files that have been transfered via
+HTTP, FTP, or some other method. What it does, is generates a checksum file,
+and then by comparing that checksum with the original file, it creates a patch
+file that can repair the corrupted file. Very cool, and saves re-downloading.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/zidrav'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

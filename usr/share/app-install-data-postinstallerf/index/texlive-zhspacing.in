@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-zhspacing</b>'
+Comment='<span size="xx-large">Spacing for mixed CJK-English documents in XeTeX</span>'
+Comment3='
+The package manages spacing in a CJK document; between
+consecutive Chinese letters, spaces are ignored, but a
+consistent space is inserted between Chinese text and English
+(or mathematics). The package may be used by any document
+format under XeTeX.
+
+date 2012-03-14 185806 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

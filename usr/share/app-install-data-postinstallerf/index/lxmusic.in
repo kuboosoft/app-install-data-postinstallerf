@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lxmusic</b>'
+Comment='<span size="xx-large">Lightweight XMMS2 client with simple user interface</span>'
+Comment3='
+LXMusic is a very simple gtk+ XMMS2 client written in pure C. It has very few
+functionality, and can do nothing more than play the music. The UI is very
+clean and simple. This is currently aimed to be used as the default music
+player of LXDE (Lightweight X11 Desktop Environment) project.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lxde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Image-Size</b>'
+Comment='<span size="xx-large">Determine the size of images in several common formats in Perl</span>'
+Comment3='
+script, a tool that analyzes HTML files and adds HEIGHT and WIDTH tags to
+pair, and included wrappers to pre-format that output into either HTML or
+a set of attribute pairs suitable for the CGI.pm library by Lincoln Stein.
+the PPM family of formats (PPM/PGM/PBM) and if ImageMagick is installed,
+the formats supported by it.
+'
+License='LGPLv2 or Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Image-Size/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

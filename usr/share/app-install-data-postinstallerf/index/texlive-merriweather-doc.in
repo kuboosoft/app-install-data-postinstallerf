@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-merriweather-doc</b>'
+Comment='<span size="xx-large">Documentation for merriweather</span>'
+Comment3='
+Documentation for merriweather
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

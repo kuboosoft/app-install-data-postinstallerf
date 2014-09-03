@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libetonyek</b>'
+Comment='<span size="xx-large">A library for import of Apple Keynote presentations</span>'
+Comment3='
+libetonyek is library providing ability to interpret and import Apple
+Keynote presentations into various applications. Only version 5 is
+supported at the moment, although versions 2-4 should work.
+
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/libetonyek/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

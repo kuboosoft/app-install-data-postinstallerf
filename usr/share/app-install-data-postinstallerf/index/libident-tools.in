@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libident-tools</b>'
+Comment='<span size="xx-large">A small daemon that can be used to test Ident servers</span>'
+Comment3='
+in.identtestd is a small daemon (to be started from inetd) that does an
+ident lookup on you if you telnet into it. Can be used to verify that
+your Ident server is working correctly.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.remlab.net/libident/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

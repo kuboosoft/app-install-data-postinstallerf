@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>maven-invoker</b>'
+Comment='<span size="xx-large">Fires a maven build in a clean environment</span>'
+Comment3='
+This API is concerned with firing a Maven build in a new JVM. It accomplishes
+its task by building up a conventional Maven command line from options given in
+the current request, along with those global options specified in the invoker
+itself. Once it has the command line, the invoker will execute it, and capture
+the resulting exit code or any exception thrown to signal a failure to execute.
+Input/output control can be specified using an InputStream and up to two
+InvocationOutputHandlers.
+
+This is a replacement package for maven-shared-invoker
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/shared/maven-invoker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

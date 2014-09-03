@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>spacewalk-proxy-docs</b>'
+Comment='<span size="xx-large">Spacewalk Proxy Server Documentation</span>'
+Comment3='
+This package includes the installation/configuration guide,
+and whitepaper in support of an Spacewalk Proxy Server. Also included
+are the Client Configuration, Channel Management,
+and Enterprise User Reference guides.
+'
+License='Open Publication'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

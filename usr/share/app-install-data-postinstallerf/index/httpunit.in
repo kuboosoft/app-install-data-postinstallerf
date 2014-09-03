@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>httpunit</b>'
+Comment='<span size="xx-large">Automated web site testing toolkit</span>'
+Comment3='
+HttpUnit emulates the relevant portions of browser behavior, including form
+submission, JavaScript, basic http authentication, cookies and automatic page
+redirection, and allows Java test code to examine returned pages either as
+text, an XML DOM, or containers of forms, tables, and links.
+A companion framework, ServletUnit is included in the package.
+'
+License='MIT'
+Screenshot=''
+Url='http://httpunit.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

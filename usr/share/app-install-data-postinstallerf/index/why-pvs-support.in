@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>why-pvs-support</b>'
+Comment='<span size="xx-large">Complete Why software verification platform suite</span>'
+Comment3='
+This package provides support definitions so that the Why software
+verification platform suite can invoke PVS without licensing issues.
+'
+License='LPGLv2 with exceptions'
+Screenshot=''
+Url='http://why.lri.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

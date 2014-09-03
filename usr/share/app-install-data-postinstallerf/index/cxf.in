@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cxf</b>'
+Comment='<span size="xx-large">Apache CXF</span>'
+Comment3='
+Apache CXF is an open-source services framework that aids in
+the development of services using front-end programming APIs,
+like JAX-WS and JAX-RS.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://cxf.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

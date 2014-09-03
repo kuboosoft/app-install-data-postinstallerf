@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>devhelp-devel</b>'
+Comment='<span size="xx-large">Library to embed Devhelp in other applications</span>'
+Comment3='
+Devhelp is an API documentation browser for the GNOME desktop.
+This package contains a library that can be used for embedding devhelp
+into other applications such as IDEs.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/devhelp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

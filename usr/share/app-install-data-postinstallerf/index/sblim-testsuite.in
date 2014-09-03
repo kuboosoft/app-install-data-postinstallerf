@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sblim-testsuite</b>'
+Comment='<span size="xx-large">SBLIM testsuite</span>'
+Comment3='
+SBLIM automated testsuite scripts.
+'
+License='EPL'
+Screenshot=''
+Url='http://sblim.wiki.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

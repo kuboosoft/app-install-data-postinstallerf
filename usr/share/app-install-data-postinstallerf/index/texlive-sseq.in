@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-sseq</b>'
+Comment='<span size="xx-large">Typesetting spectral sequence charts</span>'
+Comment3='
+The package provides commands to draw spectral sequence
+diagrams, providing facilities for clipping and arranging
+multiple symbols so that they do not overlap. The package is
+built using pgf, and shares that systems large demands for TeX
+system memory. Its geometric commands are based on a turtle
+graphics model, and control structures such as loops and
+conditionals are available.
+
+date 2013-09-06 145923 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

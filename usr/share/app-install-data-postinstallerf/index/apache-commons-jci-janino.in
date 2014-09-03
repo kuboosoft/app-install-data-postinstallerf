@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-commons-jci-janino</b>'
+Comment='<span size="xx-large">Commons Java Compiler Interface - janino</span>'
+Comment3='
+Commons JCI compiler implementation for the janino compiler.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/jci/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

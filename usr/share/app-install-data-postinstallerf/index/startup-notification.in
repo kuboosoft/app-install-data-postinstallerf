@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>startup-notification</b>'
+Comment='<span size="xx-large">Library for tracking application startup</span>'
+Comment3='
+This package contains libstartup-notification which implements a
+startup notification protocol. Using this protocol a desktop
+environment can track the launch of an application and provide
+feedback such as a busy cursor, among other features.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.freedesktop.org/software/startup-notification/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

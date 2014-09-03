@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cwiid</b>'
+Comment='<span size="xx-large">Wiimote interface library</span>'
+Comment3='
+Cwiid is a library that enables your application to communicate with
+a wiimote using a bluetooth connection.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://abstrakraft.org/cwiid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

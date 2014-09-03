@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-flask-mako</b>'
+Comment='<span size="xx-large">Mako templating support for Flask applications</span>'
+Comment3='
+This extension for the Flask micro web framework allows developers
+to use Mako Templates instead of the default Jinja2 templating engine.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/Flask-Mako'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

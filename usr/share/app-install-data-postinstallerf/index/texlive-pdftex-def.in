@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-pdftex-def</b>'
+Comment='<span size="xx-large">Colour and Graphics support for PDFTeX</span>'
+Comment3='
+The file pdftex.def provides device-specific definitions for
+colour and graphics support when running pdf(La)TeX.
+
+date 2011-05-28 115345 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

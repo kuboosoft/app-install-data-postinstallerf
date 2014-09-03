@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kobo-rpmlib</b>'
+Comment='<span size="xx-large">Functions to manipulate with RPM files</span>'
+Comment3='
+Rpmlib contains functions to manipulate with RPM files.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/kobo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

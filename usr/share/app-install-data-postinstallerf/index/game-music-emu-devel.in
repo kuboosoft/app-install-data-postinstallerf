@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>game-music-emu-devel</b>'
+Comment='<span size="xx-large">Development files for Game_Music_Emu</span>'
+Comment3='
+This package contains files needed to compile code which uses Game_Music_Emu.
+
+URL          http//code.google.com/p/game-music-emu/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/game-music-emu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

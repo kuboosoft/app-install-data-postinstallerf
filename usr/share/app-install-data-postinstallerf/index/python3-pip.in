@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-pip</b>'
+Comment='<span size="xx-large">A tool for installing and managing Python3 packages</span>'
+Comment3='
+Pip is a replacement for `easy_install
+<http//peak.telecommunity.com/DevCenter/EasyInstall>`_.  It uses mostly the
+same techniques for finding packages, so packages that were made
+easy_installable should be pip-installable as well.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.pip-installer.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

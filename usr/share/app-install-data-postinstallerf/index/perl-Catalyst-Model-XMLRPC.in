@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Model-XMLRPC</b>'
+Comment='<span size="xx-large">XMLRPC model class for Catalyst</span>'
+Comment3='
+This model class uses RPCXMLClient to invoke remote procedure calls
+using XML-RPC.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Model-XMLRPC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

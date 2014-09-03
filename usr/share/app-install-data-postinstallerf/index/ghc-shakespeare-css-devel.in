@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-shakespeare-css-devel</b>'
+Comment='<span size="xx-large">Haskell shakespeare-css library development files</span>'
+Comment3='
+This package provides the Haskell shakespeare-css library development
+files.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shakespeare-css'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

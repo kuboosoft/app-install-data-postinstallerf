@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uncommons-maths-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for uncommons-maths</span>'
+Comment3='
+This package contains javadoc for uncommons-maths.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maths.uncommons.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

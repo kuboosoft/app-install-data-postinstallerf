@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-HTML-Tidy</b>'
+Comment='<span size="xx-large">(X)HTML cleanup in a Perl object</span>'
+Comment3='
+HTMLTidy is an HTML checker in a handy dandy object. Its meant as a
+replacement for HTMLLint. If youre currently an HTMLLint user
+looking to migrate, see the section "Converting from HTMLLint".
+'
+License='Artistic 2.0 and (GPL+ or Artistic)'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-Tidy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

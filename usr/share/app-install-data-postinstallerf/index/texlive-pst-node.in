@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pst-node</b>'
+Comment='<span size="xx-large">Nodes and node connections in pstricks</span>'
+Comment3='
+The package enables the user to connect information, and to
+place labels, without knowing (in advance) the actual positions
+of the items to be connected, or where the connecting line
+should go. The macros are useful for making graphs and trees,
+mathematical diagrams, linguistic syntax diagrams, and so on.
+The package contents were previously distributed as a part of
+the pstricks base distribution; the package serves as an
+extension to PSTricks.
+
+date 2013-09-18 113422 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

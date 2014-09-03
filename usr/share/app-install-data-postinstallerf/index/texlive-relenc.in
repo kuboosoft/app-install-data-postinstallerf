@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-relenc</b>'
+Comment='<span size="xx-large">A "relaxed" font encoding</span>'
+Comment3='
+LaTeX package providing a relaxed font encoding to make
+available to a font designer more slots for insertion of
+ligatures and accented characters.
+
+date 2011-04-06 083130 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

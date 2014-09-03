@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libnfc-examples</b>'
+Comment='<span size="xx-large">Examples using libnfc</span>'
+Comment3='
+The libnfc-examples package contains examples demonstrating the functionality
+of libnfc.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.libnfc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

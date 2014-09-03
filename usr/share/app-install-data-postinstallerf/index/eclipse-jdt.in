@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-jdt</b>'
+Comment='<span size="xx-large">Eclipse Java Development Tools</span>'
+Comment3='
+Eclipse Java Development Tools.  This package is required to use Eclipse for
+developing software written in the Java programming language.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

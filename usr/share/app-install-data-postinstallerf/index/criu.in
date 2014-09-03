@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>criu</b>'
+Comment='<span size="xx-large">Tool for Checkpoint/Restore in User-space</span>'
+Comment3='
+criu is the user-space part of Checkpoint/Restore in User-space
+(CRIU), a project to implement checkpoint/restore functionality for
+Linux in user-space.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://criu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

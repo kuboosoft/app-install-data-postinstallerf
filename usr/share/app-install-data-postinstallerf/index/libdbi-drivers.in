@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libdbi-drivers</b>'
+Comment='<span size="xx-large">Database-specific drivers for libdbi</span>'
+Comment3='
+libdbi implements a database-independent abstraction layer in C, similar to the
+DBI/DBD layer in Perl. Writing one generic set of code, programmers can
+leverage the power of multiple databases and multiple simultaneous database
+connections by using this framework.
+
+libdbi-drivers contains the database-specific plugins needed to connect
+libdbi to particular database servers.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libdbi-drivers.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

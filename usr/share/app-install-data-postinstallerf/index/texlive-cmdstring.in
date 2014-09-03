@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-cmdstring</b>'
+Comment='<span size="xx-large">Get command name reliably</span>'
+Comment3='
+Extracts the letters of a commands name (e.g., foo for command
+\foo), in a reliable way.
+
+date 2008-08-18 103842 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

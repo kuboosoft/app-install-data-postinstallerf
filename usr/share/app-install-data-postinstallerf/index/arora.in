@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>arora</b>'
+Comment='<span size="xx-large">A cross platform web browser</span>'
+Comment3='
+Arora is a simple, cross platform web browser based on the QtWebKit engine.
+Currently, Arora is still under development, but it already has support for
+browsing and other common features such as web history and bookmarks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/arora/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

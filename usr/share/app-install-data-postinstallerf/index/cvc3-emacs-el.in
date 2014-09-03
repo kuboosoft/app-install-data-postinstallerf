@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cvc3-emacs-el</b>'
+Comment='<span size="xx-large">Elisp source files for the CVC3 Emacs mode</span>'
+Comment3='
+This package contains the source Elisp files for the CVC3 mode for Emacs.  You
+do not need to install this package to run cvc3.  Install the cvc3-emacs
+package to use cvc3 with Emacs.
+'
+License='BSD and MIT'
+Screenshot=''
+Url='http://www.cs.nyu.edu/acsys/cvc3/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

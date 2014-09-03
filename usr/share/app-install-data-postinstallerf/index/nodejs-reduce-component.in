@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-reduce-component</b>'
+Comment='<span size="xx-large">An array reduce component for Node.js</span>'
+Comment3='
+An array reduce component for Node.js.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/redventures/reduce'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

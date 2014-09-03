@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-Resolver</b>'
+Comment='<span size="xx-large">Non-blocking getaddrinfo() resolver</span>'
+Comment3='
+POEComponentResolver performs SocketGetAddrInfogetaddrinfo() calls
+in subprocesses where theyre permitted to block as long as necessary.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-Resolver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

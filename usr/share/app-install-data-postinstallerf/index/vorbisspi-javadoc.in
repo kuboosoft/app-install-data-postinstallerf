@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vorbisspi-javadoc</b>'
+Comment='<span size="xx-large">Java docs for vorbisspi</span>'
+Comment3='
+This package contains the API documentation for vorbisspi.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.javazoom.net/vorbisspi/vorbisspi.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

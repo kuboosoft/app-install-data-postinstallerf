@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fst-devel</b>'
+Comment='<span size="xx-large">Development files for fst</span>'
+Comment3='
+Development headers for fst and VST plugins
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.joebutton.co.uk/fst/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

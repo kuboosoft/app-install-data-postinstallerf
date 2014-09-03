@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>rubygem-color</b>'
+Comment='<span size="xx-large">Colour management with Ruby</span>'
+Comment3='
+The capabilities of the Color library are limited to pure mathematical
+manipulation of the colours based on colour theory without reference to colour
+profiles (such as sRGB or Adobe RGB). For most purposes, when working with the
+RGB and HSL colours, this wont matter. However, some colour models (like CIE
+L*a*b*) are not supported because Color does not yet support colour profiles,
+giving no meaningful way to convert colours in absolute colour spaces (like
+L*a*b*, XYZ) to non-absolute colour spaces (like RGB).
+'
+License='MIT'
+Screenshot=''
+Url='http://color.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

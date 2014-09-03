@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-currvita</b>'
+Comment='<span size="xx-large">Typeset a curriculum vitae</span>'
+Comment3='
+Currvita is a package rather than a class (like most other
+curriculum vitae offerings). The author considers that a
+curriculum vitae can quite reasonably form part of another
+document (such as a letter, or a dissertation).
+
+date 2006-12-09 160404 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-beamerthemejltree</b>'
+Comment='<span size="xx-large">Contributed beamer theme</span>'
+Comment3='
+A theme for beamer presentations.
+
+date 2010-07-13 195819 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

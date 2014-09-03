@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>backup-light</b>'
+Comment='<span size="xx-large">A small backup bash utility</span>'
+Comment3='
+Backup-light is a small, lightweight utility written for the bash shell
+that backups the active users $HOME directory. Backup-light is able to
+preform both full and incremental backups with the options to preform a
+backup with out updating the time stamp, or to backup to a different
+directory or device at will. Backup-light also creates MD5sums of the
+backup archives for added security.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/backup-light/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

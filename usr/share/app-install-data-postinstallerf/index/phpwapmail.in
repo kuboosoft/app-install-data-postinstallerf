@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>phpwapmail</b>'
+Comment='<span size="xx-large">WAP-based e-mail client</span>'
+Comment3='
+phpWAPmail is a WAP-based e-mail client. It is intended for providing access
+to e-mail servers from cellular phones using WAP browser.
+
+phpWAPmail is written in PHP and uses standard PHP imap module to operate
+with mailboxes. It is placed on a web-server and acts as a proxy between
+cellular users and mail servers. This way it can provide faster access
+to the mailboxes rather than built-in e-mail clients and less network traffic.
+Edit /etc/httpd/conf.d/phpwapmail.conf to allow access
+by remote IP addresses. Edit /etc/phpwapmail/config.php
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://phpwapmail.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

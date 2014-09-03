@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-i</b>'
+Comment='<span size="xx-large">Custom inflections for Node.js</span>'
+Comment3='
+Custom inflections for Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/pksunkara/inflect'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

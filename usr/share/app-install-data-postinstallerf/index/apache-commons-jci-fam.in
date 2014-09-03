@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apache-commons-jci-fam</b>'
+Comment='<span size="xx-large">Commons Java Compiler Interface - FAM</span>'
+Comment3='
+Commons JCI FileAlterationMonitor (FAM) to
+monitor local file systems and get notified
+about changes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/jci/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gpsd-libs</b>'
+Comment='<span size="xx-large">Client libraries in C and Python for talking to a running gpsd or GPS</span>'
+Comment3='
+This package contains the gpsd libraries and python modules that manage access
+to a GPS for applications.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://catb.org/gpsd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

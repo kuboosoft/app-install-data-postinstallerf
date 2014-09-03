@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>time</b>'
+Comment='<span size="xx-large">A GNU utility for monitoring a programs use of system resources</span>'
+Comment3='
+The GNU time utility runs another program, collects information about
+the resources used by that program while it is running, and displays
+the results.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/time/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libunrar</b>'
+Comment='<span size="xx-large">Decompress library for RAR v3 archives</span>'
+Comment3='
+The libunrar library allows programs linking against it to decompress
+existing RAR v3 archives.
+
+'
+License='Freeware with further limitations'
+Screenshot=''
+Url='http://www.rarlab.com/rar_add.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

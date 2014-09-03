@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-mimetypes</b>'
+Comment='<span size="xx-large">Erlang MIME types library</span>'
+Comment3='
+Erlang MIME types library.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/spawngrid/mimetypes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

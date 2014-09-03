@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>icu4j</b>'
+Comment='<span size="xx-large">International Components for Unicode for Java</span>'
+Comment3='
+The International Components for Unicode (ICU) library provides robust and
+full-featured Unicode services on a wide variety of platforms. ICU supports
+the most current version of the Unicode standard, and provides support for
+supplementary characters (needed for GB 18030 repertoire support).
+
+Java provides a very strong foundation for global programs, and IBM and the
+ICU team played a key role in providing globalization technology into Suns
+Java. But because of its long release schedule, Java cannot always keep
+up-to-date with evolving standards. The ICU team continues to extend Javas
+Unicode and internationalization support, focusing on improving
+'
+License='MIT and EPL'
+Screenshot=''
+Url='http://site.icu-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>coin-or-Ipopt-doc</b>'
+Comment='<span size="xx-large">Documentation files for coin-or-Ipopt</span>'
+Comment3='
+This package contains the documentation for coin-or-Ipopt.
+'
+License='EPL and GPLv2+'
+Screenshot=''
+Url='https://projects.coin-or.org/Ipopt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

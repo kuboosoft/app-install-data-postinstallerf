@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xorg-x11-font-utils</b>'
+Comment='<span size="xx-large">X.Org X11 font utilities</span>'
+Comment3='
+X.Org X11 font utilities required for font installation, conversion,
+and generation.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

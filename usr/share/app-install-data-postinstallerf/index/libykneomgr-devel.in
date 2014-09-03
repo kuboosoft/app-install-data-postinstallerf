@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libykneomgr-devel</b>'
+Comment='<span size="xx-large">Development files for libykneomgr</span>'
+Comment3='
+This package contains the header files needed to develop applications that
+use libykneomgr.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://opensource.yubico.com/libykneomgr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

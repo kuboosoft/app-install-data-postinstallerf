@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-listbib</b>'
+Comment='<span size="xx-large">Lists contents of BibTeX files</span>'
+Comment3='
+Generates listings of bibliographic data bases in BibTeX format
+which is better suited for this purpose than the standard
+styles.
+
+date 2012-04-21 201411 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

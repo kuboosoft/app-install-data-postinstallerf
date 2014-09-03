@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>warzone2100-sequences</b>'
+Comment='<span size="xx-large">Video file for warzone2100</span>'
+Comment3='
+Video file for warzone2100
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://wz2100.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libosip2</b>'
+Comment='<span size="xx-large">oSIP is an implementation of SIP</span>'
+Comment3='
+oSIP is an implementation of SIP.
+
+SIP stands for the Session Initiation Protocol and is described by the rfc3261
+(wich deprecates rfc2543). This library aims to provide multimedia and telecom
+software developers an easy and powerful interface to initiate and control SIP
+based sessions in their applications. SIP is a open standard replacement from
+IETF for H.323.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/osip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

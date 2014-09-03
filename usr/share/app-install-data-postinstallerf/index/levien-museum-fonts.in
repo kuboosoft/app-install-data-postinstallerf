@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>levien-museum-fonts</b>'
+Comment='<span size="xx-large">Based on historical metal Centaur fonts</span>'
+Comment3='
+The Museum fonts are based on historical metal Centaur fonts.
+'
+License='OFL'
+Screenshot=''
+Url='http://levien.com/type/myfonts/museum.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

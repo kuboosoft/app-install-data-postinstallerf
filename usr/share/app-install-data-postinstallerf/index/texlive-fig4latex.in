@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-fig4latex</b>'
+Comment='<span size="xx-large">Management of figures for large LaTeX documents</span>'
+Comment3='
+Fig4LaTeX simplifies management of the figures in a large LaTeX
+document. Fig4LaTeX is appropriate for projects that include
+graphics which use the combined PS/LaTeX (or PDF/LaTeX) export
+method. An example document (with its output) is provided.
+
+date 2009-11-09 221403 +0100
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

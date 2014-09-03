@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>open-vm-tools-desktop</b>'
+Comment='<span size="xx-large">User experience components for Open Virtual Machine Tools</span>'
+Comment3='
+This package contains only the user-space programs and libraries of
+open-vm-tools that are essential for improved user experience of VMware virtual
+machines.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://open-vm-tools.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>joe</b>'
+Comment='<span size="xx-large">An easy to use, modeless text editor</span>'
+Comment3='
+Joe is a powerful, easy to use, modeless text editor.
+It uses the same WordStar keybindings used in Borlands development
+environment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/joe-editor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

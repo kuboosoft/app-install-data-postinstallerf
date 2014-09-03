@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jgoodies-animation-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jgoodies-animation</span>'
+Comment3='
+This package contains the API documentation for jgoodies-animation.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.jgoodies.com/freeware/animation/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

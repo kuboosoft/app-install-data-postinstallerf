@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aspell-uk</b>'
+Comment='<span size="xx-large">Ukrainian dictionaries for aspell</span>'
+Comment3='
+This is ukrainian dictionary for spellchecking with aspell program
+
+URL          http//ispell-uk.sourceforge.net/
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://ispell-uk.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

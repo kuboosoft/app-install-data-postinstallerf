@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-MooX-Types-MooseLike</b>'
+Comment='<span size="xx-large">Some Moosish types and a type builder</span>'
+Comment3='
+See MooXTypesMooseLikeBase for a list of available base types. Its source
+also provides an example of how to build base types, along with both
+parameterizable and non-parameterizable.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooX-Types-MooseLike/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

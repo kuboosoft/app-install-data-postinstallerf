@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>klavaro</b>'
+Comment='<span size="xx-large">Typing tutor</span>'
+Comment3='
+Klavaro  is a touch typing tutor that is very flexible and supports
+customizable keyboard layouts. Users can edit and save new or unknown
+keyboard layouts, as the basic course provided by the program was
+designed to not depend on specific layouts.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://klavaro.sourceforge.net/en/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

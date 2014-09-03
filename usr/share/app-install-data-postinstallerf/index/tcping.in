@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tcping</b>'
+Comment='<span size="xx-large">Check of TCP connection to a given IP/Port</span>'
+Comment3='
+tcping does a TCP connect to the given ip/port combination. The user can
+specify a timeout in seconds. This is useful in shell scripts running in
+firewalled environments. Often SYNs are just being dropped by firewalls,
+thus connection establishment will be retried several times (for minutes)
+until a TCP timeout is reached. With tcping it is possible to check first
+if the desired port is reachable and then start connection establishment.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.linuxco.de/tcping/tcping.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

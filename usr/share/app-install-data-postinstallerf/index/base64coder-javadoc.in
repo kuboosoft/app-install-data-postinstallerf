@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>base64coder-javadoc</b>'
+Comment='<span size="xx-large">API documentation for base64coder</span>'
+Comment3='
+This package contains API documentation for base64coder.
+'
+License='EPL or LGPLv2+ or GPLv2+ or ASL 2.0+ or BSD'
+Screenshot=''
+Url='http://www.source-code.biz/base64coder/java/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

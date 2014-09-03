@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xemacs-anthy</b>'
+Comment='<span size="xx-large">Compiled elisp files to run Anthy under XEmacs</span>'
+Comment3='
+This package contains the byte compiled elisp packages to use Anthy with
+XEmacs.
+'
+License='LGPLv2+ and GPLv2 and Public Domain'
+Screenshot=''
+Url='http://sourceforge.jp/projects/anthy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

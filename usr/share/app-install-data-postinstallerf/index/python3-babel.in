@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-babel</b>'
+Comment='<span size="xx-large">Library for internationalizing Python applications</span>'
+Comment3='
+Babel is composed of two major parts
+
+* tools to build and work with gettext message catalogs
+* a Python interface to the CLDR (Common Locale Data Repository),
+  providing access to various locale display names, localized number
+  and date formatting, etc.
+'
+License='BSD'
+Screenshot=''
+Url='http://babel.pocoo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

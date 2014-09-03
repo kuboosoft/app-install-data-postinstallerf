@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gameconqueror</b>'
+Comment='<span size="xx-large">CheatEngline-alike interface for scanmem</span>'
+Comment3='
+GameConqueror aims to provide a CheatEngline-alike interface for scanmem, its
+user-friendly and easy to use. GameConqueror is written in PyGTK.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://code.google.com/p/scanmem/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

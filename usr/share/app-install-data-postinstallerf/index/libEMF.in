@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libEMF</b>'
+Comment='<span size="xx-large">A library for generating Enhanced Metafiles</span>'
+Comment3='
+libEMF is a library for generating Enhanced Metafiles on systems which
+dont natively support the ECMA-234 Graphics Device Interface
+(GDI). The library is intended to be used as a driver for other
+graphics programs such as Grace or gnuplot. Therefore, it implements a
+very limited subset of the GDI.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://libemf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

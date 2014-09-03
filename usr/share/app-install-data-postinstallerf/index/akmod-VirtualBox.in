@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>akmod-VirtualBox</b>'
+Comment='<span size="xx-large">Akmod package for VirtualBox kernel module(s)</span>'
+Comment3='
+This package provides the akmod package for the VirtualBox kernel modules.
+'
+License='GPLv2 or CDDL'
+Screenshot=''
+Url='http://www.virtualbox.org/wiki/VirtualBox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

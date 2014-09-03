@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-PPI</b>'
+Comment='<span size="xx-large">Parse, Analyze and Manipulate Perl</span>'
+Comment3='
+Parse, analyze and manipulate Perl (without perl).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PPI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>thai-scalable-tlwgmono-fonts</b>'
+Comment='<span size="xx-large">Thai TlwgMono fonts</span>'
+Comment3='
+
+fonts-tlwg provides a collection of free scalable Thai fonts.
+This package provides the TlwgMono family of Thai fonts.
+'
+License='GPLv2+ and Bitstream Vera'
+Screenshot=''
+Url='http://linux.thai.net/projects/thaifonts-scalable'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

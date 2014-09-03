@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>OpenSceneGraph-examples</b>'
+Comment='<span size="xx-large">Sample applications for OpenSceneGraph</span>'
+Comment3='
+Sample applications for OpenSceneGraph
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.openscenegraph.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

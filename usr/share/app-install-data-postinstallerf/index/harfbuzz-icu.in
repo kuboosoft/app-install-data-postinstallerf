@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>harfbuzz-icu</b>'
+Comment='<span size="xx-large">Harfbuzz ICU support library</span>'
+Comment3='
+This package contains Harfbuzz ICU support library.
+
+URL          http//freedesktop.org/wiki/Software/HarfBuzz
+'
+License='MIT'
+Screenshot=''
+Url='http://freedesktop.org/wiki/Software/HarfBuzz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

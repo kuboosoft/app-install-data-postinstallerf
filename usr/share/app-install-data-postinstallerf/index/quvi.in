@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>quvi</b>'
+Comment='<span size="xx-large">Command line tool for parsing video download links</span>'
+Comment3='
+quvi is a command line tool for parsing video download links.
+It supports Youtube and other similar video websites.
+libquvi is a library for parsing video download links with C API.
+It is written in C and intended to be a cross-platform library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://quvi.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

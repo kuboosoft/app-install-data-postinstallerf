@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-phpunit-phpcov</b>'
+Comment='<span size="xx-large">TextUI front-end for PHP_CodeCoverage</span>'
+Comment3='
+TextUI front-end for PHP_CodeCoverage.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/sebastianbergmann/phpcov'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

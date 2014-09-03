@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>whereami</b>'
+Comment='<span size="xx-large">Displays work location</span>'
+Comment3='
+Whereami displays information about the machine(location) you are working on.
+Information like terminal name, present working directory, host name, and the
+host IP address. This is extremely useful for those who tend to work remotely
+on several machines at the same time.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://pjp.dgplug.org/tools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

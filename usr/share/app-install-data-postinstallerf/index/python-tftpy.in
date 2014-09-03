@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-tftpy</b>'
+Comment='<span size="xx-large">TFTPy is a pure Python implementation of the Trivial FTP protocol</span>'
+Comment3='
+Tftpy is a TFTP library for the Python programming language. It includes
+client and server classes, with sample implementations. Hooks are included
+for easy inclusion in a UI for populating progress indicators. It supports
+RFCs 1350, 2347, 2348 and the tsize option from RFC 2349.
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/tftpy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

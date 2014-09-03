@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vegastrike-extra</b>'
+Comment='<span size="xx-large">Extra textures for Vega Strike</span>'
+Comment3='
+Extra texture files for Vega Strike. These files are *not* essential to
+play Vega Strike.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://vegastrike.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

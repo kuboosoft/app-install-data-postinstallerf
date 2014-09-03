@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>apache-mina</b>'
+Comment='<span size="xx-large">Apache MINA</span>'
+Comment3='
+Apache MINA is a network application framework which helps users develop high
+performance and high scalability network applications easily. It provides an
+abstract event-driven asynchronous API over various transports such as TCP/IP
+and UDP/IP via Java NIO.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mina.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

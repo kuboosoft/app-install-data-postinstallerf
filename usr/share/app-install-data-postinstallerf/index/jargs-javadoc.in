@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jargs-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jargs</span>'
+Comment3='
+Javadoc for jargs.
+'
+License='BSD'
+Screenshot=''
+Url='http://jargs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

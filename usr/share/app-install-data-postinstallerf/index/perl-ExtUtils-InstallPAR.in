@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-ExtUtils-InstallPAR</b>'
+Comment='<span size="xx-large">Install .pars into any installed perl</span>'
+Comment3='
+This module installs PAR distributions (i.e. .par files) into any perl
+installation on the system. The PARDist module can install into the
+currently running perl by default and provides the necessary parameters to
+override any installation directories. Figuring out how to use those
+overrides in order to install into an arbitrary perl installation on the
+system may be beyond most users, however. Hence this convenience wrapper
+using ExtUtilsInferConfig to automatically determine the typical site
+installation paths of any perl interpreter than can be executed by the
+current user.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/ExtUtils-InstallPAR/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

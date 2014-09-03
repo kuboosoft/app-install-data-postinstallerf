@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>elph</b>'
+Comment='<span size="xx-large">Tool to find motifs in a set of DNA or protein sequences</span>'
+Comment3='
+ELPH is a general-purpose Gibbs sampler for finding motifs in a set of
+DNA or protein sequences. The program takes as input a set containing
+anywhere from a few dozen to thousands of sequences, and searches
+through them for the most common motif, assuming that each sequence
+contains one copy of the motif.
+'
+License='Artistic clarified'
+Screenshot=''
+Url='http://www.cbcb.umd.edu/software/ELPH/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

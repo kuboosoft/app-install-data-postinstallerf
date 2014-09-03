@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>imageinfo</b>'
+Comment='<span size="xx-large">Extract attributes of digital images</span>'
+Comment3='
+ImageInfo computes and displays selected image attributes. It is
+similar in function to the ImageMagick "identify" utility, but
+provides a few additional attributes (such as details of embedded ICC
+profiles), and allows command line selection of the attributes to be
+computed, avoiding unnecessary computation and and allowing easier
+parsing of results when this utility is called from a script.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.wohlberg.net/public/software/photo/imageinfo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openscada-UI-WebUser</b>'
+Comment='<span size="xx-large">Open SCADA interfaces</span>'
+Comment3='
+The openscada-UI-WebUser web operation user interface for visual
+control area (VCA) projects playing.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

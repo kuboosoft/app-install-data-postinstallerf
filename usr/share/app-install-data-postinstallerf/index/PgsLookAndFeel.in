@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>PgsLookAndFeel</b>'
+Comment='<span size="xx-large">Nice looking LookAndFeel for Swing</span>'
+Comment3='
+The PgsLookAndFeel is a nice looking LookAndFeel for Swing.
+
+It aims be a very modern cross-platform LookAndFeel with
+nice features and much interaction for users.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://pgslookandfeel.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

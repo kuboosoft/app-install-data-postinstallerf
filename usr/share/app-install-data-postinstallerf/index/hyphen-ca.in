@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-ca</b>'
+Comment='<span size="xx-large">Catalan hyphenation rules</span>'
+Comment3='
+Catalan hyphenation rules.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/project/ca_hyph'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

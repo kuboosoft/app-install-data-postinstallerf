@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>itk</b>'
+Comment='<span size="xx-large">Object oriented extensions to Tk</span>'
+Comment3='
+[incr Tk] is Tk extension that provides object-oriented features that are
+missing from the Tk extension to Tcl.  The OO features provided by itk are
+useful for building megawidgets.
+
+'
+License='TCL'
+Screenshot=''
+Url='http://incrtcl.sourceforge.net/itcl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

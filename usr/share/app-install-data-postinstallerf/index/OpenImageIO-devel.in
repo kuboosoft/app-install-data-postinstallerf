@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>OpenImageIO-devel</b>'
+Comment='<span size="xx-large">Documentation for OpenImageIO</span>'
+Comment3='
+Development files for package OpenImageIO
+
+URL          https//sites.google.com/site/openimageio/home
+'
+License='BSD'
+Screenshot=''
+Url='https://sites.google.com/site/openimageio/home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>weston</b>'
+Comment='<span size="xx-large">Reference compositor for Wayland</span>'
+Comment3='
+Weston is the reference wayland compositor that can run on KMS, under X11
+or under another compositor.
+'
+License='BSD and CC-BY-SA'
+Screenshot=''
+Url='http://wayland.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libuv</b>'
+Comment='<span size="xx-large">Platform layer for node.js</span>'
+Comment3='
+libuv is a new platform layer for Node. Its purpose is to abstract IOCP on
+Windows and libev on Unix systems. We intend to eventually contain all platform
+differences in this library.
+
+'
+License='MIT and BSD and ISC'
+Screenshot=''
+Url='http://nodejs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pkgwat</b>'
+Comment='<span size="xx-large">CLI tool for querying the fedora packages webapp</span>'
+Comment3='
+Pronounced "package WAT", pkgwat is a fast CLI tool for querying the fedora
+packages webapp.  https//apps.fedoraproject.org/packages/
+
+You can make its search even better by helping us tag packages.
+https//apps.fedoraproject.org/tagger
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/pkgwat.cli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

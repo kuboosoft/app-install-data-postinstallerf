@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>solar-backgrounds-common</b>'
+Comment='<span size="xx-large">Solar desktop backgrounds shared between GNOME and KDE</span>'
+Comment3='
+This package includes the common files for the solar-backgrounds-extras and
+solar-kde-theme packages.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/Artwork/F10Themes/Solar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

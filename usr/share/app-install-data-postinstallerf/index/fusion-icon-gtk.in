@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fusion-icon-gtk</b>'
+Comment='<span size="xx-large">GTK UI for fusion-icon</span>'
+Comment3='
+This package provides the gtk UI for fusion-icon
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.compiz.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

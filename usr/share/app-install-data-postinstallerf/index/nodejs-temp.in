@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nodejs-temp</b>'
+Comment='<span size="xx-large">Temporary files and directories for Node.js</span>'
+Comment3='
+This Node.js module handles generating a unique file/directory name under the
+appropriate system temporary directory, changing the file to an appropriate
+mode, and supports automatic removal.
+
+It has a similar API to the fs module.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/bruce/node-temp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

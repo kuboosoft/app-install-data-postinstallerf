@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>emacs-common-w3m</b>'
+Comment='<span size="xx-large">W3m interface for Emacsen</span>'
+Comment3='
+W3m is a text based World Wide Web browser with IPv6 support. It
+features excellent support for tables and frames. It can be used as a
+standalone pager such as lv, less, and more.
+
+This package contains the files common to both the GNU Emacs and XEmacs
+Emacs-w3m packages.
+'
+License='BSD'
+Screenshot=''
+Url='http://emacs-w3m.namazu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

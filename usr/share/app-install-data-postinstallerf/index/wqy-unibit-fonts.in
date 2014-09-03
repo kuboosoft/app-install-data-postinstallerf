@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wqy-unibit-fonts</b>'
+Comment='<span size="xx-large">WenQuanYi Unibit Bitmap Font</span>'
+Comment3='
+The Wen Quan Yi Unibit is designed as a dual-width (16x16,16x8)
+bitmap font to provide the most complete international symbol
+coverage, serving as the system-wide fall-back font. This font
+has covered over 46000 Unicode code points in BMP.
+It is intended to supersede the outdated GNU Unifont.
+This font was created by merging the latest update of GNU
+Unifont [GPL] (by Roman Czyborra and David Starner et al., the
+font was last updated in 2004), WenQuanYi Bitmap Song [GPL]
+0.8.1 (by Qianqian Fang and WenQuanYi contributors) and
+Fixed-16x8 [public domain] bitmap fonts from X11 core fonts.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://wenq.org/enindex.cgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

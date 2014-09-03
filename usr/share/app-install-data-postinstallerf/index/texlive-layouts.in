@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-layouts</b>'
+Comment='<span size="xx-large">Display various elements of a documents layout</span>'
+Comment3='
+Display information about a document, including text
+positioning on a page; disposition of floats; layout of
+paragraphs, lists, footnotes, table of contents, and sectional
+headings; font boxes. Facilities are provided for a document
+designer to experiment with the layout parameters.
+
+date 2009-09-02 180914 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

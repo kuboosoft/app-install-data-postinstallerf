@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>meka</b>'
+Comment='<span size="xx-large">Sega 8-bit machine emulator</span>'
+Comment3='
+MEKA is a multi machine emulator, originally started as a Sega Master System
+emulator, and generally very oriented toward Z80-based Sega 8-bit systems.
+MEKA officially emulates the following systems
+
+ - Sega Game 1000        / SG-1000  / Japan, Oceania
+ - Sega Computer 3000    / SC-3000  / Japan, Oceania, Europe
+ - Super Control Station / SF-7000  / Japan, Oceania, Europe
+ - Sega Mark III         / MK3      / Japan
+    + FM Unit Extension  / MK3+FM   / Japan
+ - Sega Master System    / SMS      / World Wide
+'
+License='MEKA and non-commercial'
+Screenshot=''
+Url='http://www.smspower.org/meka/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

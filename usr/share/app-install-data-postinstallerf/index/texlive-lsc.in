@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-lsc</b>'
+Comment='<span size="xx-large">Typesetting Live Sequence Charts</span>'
+Comment3='
+This package is similar to the msc package in that it provides
+macros for typesetting a variant of sequence diagrams, in this
+case the Live Sequence Charts of Damm and Harel. The package
+supports the full LSC language of the original LSC paper, the
+Klose-extensions for formal verification and some of the Harel-
+extensions for the Play-In/Play-Out approach (cf. the manual).
+
+date 2007-03-09 125050 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

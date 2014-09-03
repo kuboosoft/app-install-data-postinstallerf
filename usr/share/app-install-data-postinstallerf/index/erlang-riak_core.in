@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-riak_core</b>'
+Comment='<span size="xx-large">Distributed systems infrastructure used by Riak</span>'
+Comment3='
+Distributed systems infrastructure used by Riak.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/riak_core'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-verifier-plugin</b>'
+Comment='<span size="xx-large">Maven Verifier Plugin</span>'
+Comment3='
+Assists in integration testing by means of evaluating
+success/error conditions read from a configuration file.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-verifier-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

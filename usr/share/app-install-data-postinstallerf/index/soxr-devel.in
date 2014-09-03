@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>soxr-devel</b>'
+Comment='<span size="xx-large">Development files for soxr</span>'
+Comment3='
+The soxr-devel package contains libraries and header files for
+developing applications that use soxr.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://sourceforge.net/p/soxr/wiki/Home/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

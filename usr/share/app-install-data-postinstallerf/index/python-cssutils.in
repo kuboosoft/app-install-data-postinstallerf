@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-cssutils</b>'
+Comment='<span size="xx-large">CSS Cascading Style Sheets library for Python</span>'
+Comment3='
+A Python package to parse and build CSS Cascading Style Sheets. DOM only, not
+any rendering facilities.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://cthedot.de/cssutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libconfig</b>'
+Comment='<span size="xx-large">C/C++ configuration file library</span>'
+Comment3='
+Libconfig is a simple library for manipulating structured configuration
+files. This file format is more compact and more readable than XML. And
+unlike XML, it is type-aware, so it is not necessary to do string parsing
+in application code.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.hyperrealm.com/libconfig/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

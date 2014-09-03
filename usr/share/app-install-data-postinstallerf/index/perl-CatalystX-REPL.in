@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-CatalystX-REPL</b>'
+Comment='<span size="xx-large">Read-eval-print-loop for debugging your Catalyst application</span>'
+Comment3='
+Using CarpREPL with a Catalyst application is hard. Thats because of all
+the internal exceptions that are being thrown and caught by Catalyst during
+application startup. Youd have to manually skip over all of those.
+
+This role works around that by automatically setting up CarpREPL after
+starting your application, if the CATALYST_REPL or MYAPP_REPL environment
+variables are set.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CatalystX-REPL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

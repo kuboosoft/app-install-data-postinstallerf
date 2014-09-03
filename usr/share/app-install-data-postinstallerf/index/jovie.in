@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jovie</b>'
+Comment='<span size="xx-large">Text to speech support</span>'
+Comment3='
+for conversion of text to audible speech.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://accessibility.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

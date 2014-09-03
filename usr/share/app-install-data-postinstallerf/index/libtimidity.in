@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libtimidity</b>'
+Comment='<span size="xx-large">MIDI to WAVE converter library</span>'
+Comment3='
+This library is based on the TiMidity decoder from SDL_sound library.
+Purpose to create this library is to avoid unnecessary dependences.
+SDL_sound requires SDL and some other libraries, that not needed to
+process MIDI files. In addition libtimidity provides more suitable
+API to work with MIDI songs, it enables to specify full path to the
+timidity configuration file, and have function to retrieve meta data
+from MIDI song.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libtimidity.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

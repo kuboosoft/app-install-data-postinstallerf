@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghostscript-doc</b>'
+Comment='<span size="xx-large">Documentation for ghostscript</span>'
+Comment3='
+The documentation files that come with ghostscript.
+'
+License='AGPLv3+ and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.ghostscript.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

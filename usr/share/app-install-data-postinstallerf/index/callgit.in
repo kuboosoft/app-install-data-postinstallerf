@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>callgit</b>'
+Comment='<span size="xx-large">A tool for Ham Radio Operators to look up call-signs on the web</span>'
+Comment3='
+This program allows you to search for another Hams name and address
+without having a web browser up. It is very simple.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.hamsoftware.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

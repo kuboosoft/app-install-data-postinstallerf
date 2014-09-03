@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>inkscape-sozi</b>'
+Comment='<span size="xx-large">Inkscape extension for creating animated presentations</span>'
+Comment3='
+inkscape extension for creating animated presentations
+Playing such a presentation
+consists in a series of translations, zooms and rotations that allow
+to focus on the elements you want to show
+'
+License='GPLv2+ or MIT'
+Screenshot=''
+Url='http://sozi.baierouge.fr/wiki/doku.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

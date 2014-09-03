@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-menus-devel</b>'
+Comment='<span size="xx-large">Libraries and include files for the GNOME menu system</span>'
+Comment3='
+This package provides the necessary development libraries for
+writing applications that use the GNOME menu system.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

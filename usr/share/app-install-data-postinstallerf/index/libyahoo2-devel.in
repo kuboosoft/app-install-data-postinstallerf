@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libyahoo2-devel</b>'
+Comment='<span size="xx-large">Headers and development files for libyahoo2</span>'
+Comment3='
+The header files and some documentation that youll need to develop with
+libyahoo2
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://libyahoo2.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

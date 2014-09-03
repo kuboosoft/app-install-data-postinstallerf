@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-issuulinks</b>'
+Comment='<span size="xx-large">Produce external links instead of internal ones</span>'
+Comment3='
+The PDF visualizer http//issuu.com/ISSUU is a popular service
+allowing to show PDF documents "a page a time". Due to the way
+it is implemented, internal links in these documents are not
+allowed. Instead, they must be converted to external ones in
+the form http//issuu.com/action/page?page=PAGENUMBER. The
+package patches hyperref to produce external links in the
+required form instead of internal links created by \ref, \cite
+and other commands. Since the package redefines the internals
+of hyperref, it must be loaded it AFTER hyperref.
+
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

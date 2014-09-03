@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>anyremote-doc</b>'
+Comment='<span size="xx-large">Documentation for anyRemote</span>'
+Comment3='
+Documentation for anyRemote
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://anyremote.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

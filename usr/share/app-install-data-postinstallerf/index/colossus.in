@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>colossus</b>'
+Comment='<span size="xx-large">Allows people to play Titan against each other or AIs</span>'
+Comment3='
+Colossus allows people to play Titan
+(http//www.boardgamegeek.com/boardgame/103) and several Titan variants, hot
+seat or via a network. Several different AIs are provided that can play instead
+of humans.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://colossus.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

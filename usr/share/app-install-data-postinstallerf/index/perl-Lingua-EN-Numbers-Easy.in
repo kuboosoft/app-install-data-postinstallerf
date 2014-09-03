@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Lingua-EN-Numbers-Easy</b>'
+Comment='<span size="xx-large">Hash access to Lingua::EN::Numbers objects</span>'
+Comment3='
+LinguaENNumbers is a module that translates numbers to English words.
+Unfortunately, it has an object oriented interface, which makes it hard to
+interpolate them in strings. LinguaENNumbersEasy translates numbers
+to words using a tied hash, which can be interpolated.
+'
+License='MIT'
+Screenshot=''
+Url='http://search.cpan.org/dist/Lingua-EN-Numbers-Easy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

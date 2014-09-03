@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-leading</b>'
+Comment='<span size="xx-large">Define leading with a length</span>'
+Comment3='
+The package defines a command \leading, whose argument is a
+<length> that specifies the nominal distance between
+consecutive baselines of typeset text. The command replaces the
+rather more difficult LaTeX command \linespread{<ratio>}, where
+the leading is specified by reference to the font size.
+
+date 2008-12-15 183216 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

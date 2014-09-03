@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-ed</b>'
+Comment='<span size="xx-large">Editorial Notes for LaTeX documents</span>'
+Comment3='
+This package defines a couple of editorial notes that simplify
+collaboration on a LaTeX text. These allow authors to annotate
+status information in the source. In draft mode, the
+annotations are shown for communication, and in publication
+mode these are suppressed.
+
+date 2012-01-29 160154 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

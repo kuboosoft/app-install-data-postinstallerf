@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>NetworkManager-config-server</b>'
+Comment='<span size="xx-large">NetworkManager config file for "server-like" defaults</span>'
+Comment3='
+This adds a NetworkManager configuration file to make it behave more
+like the old "network" service. In particular, it stops NetworkManager
+from automatically running DHCP on unconfigured ethernet devices, and
+allows connections with static IP addresses to be brought up even on
+ethernet devices with no carrier.
+
+This package is intended to be installed by default for server
+deployments.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/projects/NetworkManager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

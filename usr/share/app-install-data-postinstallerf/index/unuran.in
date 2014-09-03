@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>unuran</b>'
+Comment='<span size="xx-large">Universal Non-Uniform Random number generator</span>'
+Comment3='
+
+UNU.RAN  is an ANSI C library licensed under GPL.
+It contains universal (also called automatic or black-box) algorithms
+that can generate random numbers from large classes of continuous or
+discrete distributions, and also from practically all standard
+distributions.
+The library and an extensive online documentation are available at
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://statistik.wu-wien.ac.at/unuran'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-latexconfig</b>'
+Comment='<span size="xx-large">latexconfig package</span>'
+Comment3='
+latexconfig package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

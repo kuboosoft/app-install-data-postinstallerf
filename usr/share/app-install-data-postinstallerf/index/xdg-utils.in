@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>xdg-utils</b>'
+Comment='<span size="xx-large">Basic desktop integration functions</span>'
+Comment3='
+The xdg-utils package is a set of simple scripts that provide basic
+desktop integration functions for any Free Desktop, such as Linux.
+They are intended to provide a set of defacto standards.
+This means that
+*  Third party software developers can rely on these xdg-utils
+   for all of their simple integration needs.
+*  Developers of desktop environments can make sure that their
+   environments are well supported
+*  Distribution vendors can provide custom versions of these utilities
+
+'
+License='MIT'
+Screenshot=''
+Url='http://portland.freedesktop.org/'
+* xdg-open              Open a file or URL in the user's preferred application'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sblim-smis-hba</b>'
+Comment='<span size="xx-large">SBLIM SMIS HBA HDR Providers</span>'
+Comment3='
+SMI-S standards based HBA CMPI Providers.
+'
+License='EPL'
+Screenshot=''
+Url='http://sblim.wiki.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

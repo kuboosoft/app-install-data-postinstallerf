@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>lpf-spotify-client</b>'
+Comment='<span size="xx-large">Spotify music player native client package bootstrap</span>'
+Comment3='
+Bootstrap package allowing the lpf system to build the non-redistributable
+spotify-client package.
+
+The package is only available on ix86 and x86_64 hosts.
+See  http//www.spotify.com/se/blog/archives/2010/07/12/linux/
+'
+License='MIT'
+Screenshot=''
+Url='http://leamas.fedorapeople.org/lpf-spotify-client/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

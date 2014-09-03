@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-therubyracer</b>'
+Comment='<span size="xx-large">Embed the V8 Javascript interpreter into Ruby</span>'
+Comment3='
+Call javascript code and manipulate javascript objects from ruby. Call ruby
+code and manipulate ruby objects from javascript.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/cowboyd/therubyracer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

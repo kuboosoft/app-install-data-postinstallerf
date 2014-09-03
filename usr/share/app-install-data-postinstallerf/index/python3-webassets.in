@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-webassets</b>'
+Comment='<span size="xx-large">Media asset management for python</span>'
+Comment3='
+Merges, minifies and compresses Javascript and CSS files,
+supporting a variety of different filters, including YUI,
+jsmin, jspacker or CSS tidy. Also supports URL rewriting in CSS files.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/miracle2k/webassets'
+jsmin, jspacker or CSS tidy. Also supports URL rewriting in CSS files.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

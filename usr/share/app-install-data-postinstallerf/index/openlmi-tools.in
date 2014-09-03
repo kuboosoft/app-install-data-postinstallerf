@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openlmi-tools</b>'
+Comment='<span size="xx-large">Set of CLI tools for Openlmi providers</span>'
+Comment3='
+openlmi-tools is a set of command line tools for Openlmi providers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

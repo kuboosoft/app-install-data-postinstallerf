@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xorg-x11-xfwp</b>'
+Comment='<span size="xx-large">X.Org X11 X firewall proxy</span>'
+Comment3='
+The X firewall proxy (xfwp) is an application layer gateway proxy that
+may be run on a network firewall host to forward X traffic  across  the
+firewall.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

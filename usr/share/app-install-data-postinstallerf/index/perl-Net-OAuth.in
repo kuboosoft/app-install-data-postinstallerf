@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Net-OAuth</b>'
+Comment='<span size="xx-large">OAuth protocol support library for Perl</span>'
+Comment3='
+Perl implementation of OAuth, an open protocol to allow secure API
+authentication in a simple and standard method from desktop and web
+applications. In practical terms, a mechanism for a Consumer to request
+protected resources from a Service Provider on behalf of a user.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-OAuth/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

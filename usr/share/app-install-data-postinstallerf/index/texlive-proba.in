@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-proba</b>'
+Comment='<span size="xx-large">Shortcuts commands to symbols used in probability texts</span>'
+Comment3='
+This package includes some of the most often used commands in
+probability texts, e.g. probability, expectation, variance,
+etc. It also includes some short commands for set (blackboard)
+or filtrations (calligraphic). It requires LaTeX2e and the
+amsfonts package.
+
+date 2009-06-02 144832 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

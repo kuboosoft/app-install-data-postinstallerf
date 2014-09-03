@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>dieharder</b>'
+Comment='<span size="xx-large">Random number generator tester and timer</span>'
+Comment3='
+dieharder is a fairly involved random number/uniform deviate generator
+tester.  It can either test any of its many pre-built and linked
+generators (basically all of those in the Gnu Scientific Library plus
+some others) or a potentially random data-set in a file.  With file
+input, it can manage either a variety of ASCII-formatted input or a raw
+binary bit string.  It is thus suitable for use in testing both software
+RNGs and hardware RNGs.
+
+dieharder does all of its work with a standalone, extensible library,
+libdieharder. Therefore its tests can be integrated into other programs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.phy.duke.edu/~rgb/General/dieharder.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

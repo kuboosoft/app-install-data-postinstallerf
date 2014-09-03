@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-gmail</b>'
+Comment='<span size="xx-large">Integrate GMail into the GNOME desktop</span>'
+Comment3='
+This package makes Gmail a choice in the Gnome control panel for the default
+mail handler. It opens in the default web browser.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://gnome-gmail.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

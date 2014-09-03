@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-ean13isbn</b>'
+Comment='<span size="xx-large">Print EAN13 for ISBN</span>'
+Comment3='
+The package provides the means to typeset ISBN codes with EAN-
+13; it uses the (generic) package ean13.tex to typeset the
+actual barcode.
+
+date 2008-08-19 085840 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-paralist</b>'
+Comment='<span size="xx-large">Enumerate and itemize within paragraphs</span>'
+Comment3='
+Provides enumerate and itemize environments that can be used
+within paragraphs to format the items either as running text or
+as separate paragraphs with a preceding number or symbol. Also
+provides compacted versions of enumerate and itemize.
+
+date 2013-06-13 195223 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

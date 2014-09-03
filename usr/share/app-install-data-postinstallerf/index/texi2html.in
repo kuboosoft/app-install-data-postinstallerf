@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texi2html</b>'
+Comment='<span size="xx-large">A highly customizable texinfo to HTML and other formats translator</span>'
+Comment3='
+The basic purpose of texi2html is to convert Texinfo documents into HTML,
+and other formats.  Configuration files written in perl provide fine degree
+of control over the final output, allowing most every aspect of the final
+output not specified in the Texinfo input file to be specified.
+'
+License='GPLv2+ and OFSFDL and (CC-BY-SA or GPLv2)'
+Screenshot=''
+Url='http://www.nongnu.org/texi2html/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

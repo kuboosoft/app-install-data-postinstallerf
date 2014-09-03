@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>apache-commons-email</b>'
+Comment='<span size="xx-large">Apache Commons Email Package</span>'
+Comment3='
+Commons-Email aims to provide an API for sending email. It is built on top of
+the JavaMail API, which it aims to simplify.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/proper/commons-email/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>SDL_mixer</b>'
+Comment='<span size="xx-large">Simple DirectMedia Layer - Sample Mixer Library</span>'
+Comment3='
+A simple multi-channel audio mixer for SDL. It supports 4 channels of
+16 bit stereo audio, plus a single channel of music, mixed by the popular
+MikMod MOD, Timidity MIDI and Ogg Vorbis libraries.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.libsdl.org/projects/SDL_mixer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pothana2000-fonts</b>'
+Comment='<span size="xx-large">Unicode compliant OpenType font for Telugu</span>'
+Comment3='
+A Free OpenType font for Telugu created by
+Dr. Tirumala Krishna Desikacharyulu.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='https://fedorahosted.org/pothana_vemana/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

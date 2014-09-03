@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-cmdargs</b>'
+Comment='<span size="xx-large">Command line argument processing</span>'
+Comment3='
+This library provides an easy way to define command line parsers.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cmdargs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

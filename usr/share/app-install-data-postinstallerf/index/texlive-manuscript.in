@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-manuscript</b>'
+Comment='<span size="xx-large">Emulate look of a document typed on a typewriter</span>'
+Comment3='
+This package is designed for those who have to submit
+dissertations, etc., to institutions that still maintain the
+typewriter is the summit of non-professional printing.
+
+date 2010-03-14 234618 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

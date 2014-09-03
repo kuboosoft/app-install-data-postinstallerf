@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-hi</b>'
+Comment='<span size="xx-large">Hindi hyphenation rules</span>'
+Comment3='
+Hindi hyphenation rules.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://wiki.smc.org.in'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

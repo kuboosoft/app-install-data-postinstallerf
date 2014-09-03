@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-lazy</b>'
+Comment='<span size="xx-large">Lazy attributes for Python objects</span>'
+Comment3='
+Lazy attributes are computed attributes that are evaluated only once, the first
+time they are used.  Subsequent uses return the results of the first call. They
+come handy when code should run
+
+- *late*, i.e. just before it is needed, and
+- *once*, i.e. not twice, in the lifetime of an object.
+You can think of it as deferred initialization.
+The possibilities are endless.
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/lazy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

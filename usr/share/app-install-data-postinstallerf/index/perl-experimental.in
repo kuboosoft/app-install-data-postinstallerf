@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-experimental</b>'
+Comment='<span size="xx-large">Experimental features made easy</span>'
+Comment3='
+This pragma provides an easy and convenient way to enable or disable
+experimental features.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/experimental/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

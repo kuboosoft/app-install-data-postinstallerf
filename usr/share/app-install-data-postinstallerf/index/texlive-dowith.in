@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-dowith</b>'
+Comment='<span size="xx-large">Apply a command to a list of items</span>'
+Comment3='
+The package provides macros for applying a command to all
+elements of a list without separators, such as
+\DoWithAllIn{<cmd>}{<list-macro>}, and also for extending and
+reducing macros storing such lists. Applications in mind
+belonged to LaTeX, but the package should work with other
+formats as well. Loop and list macros in other packages are
+discussed. A further package, domore, is also provided, which
+enhances the functionality of dowith.
+
+date 2013-03-24 111016 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

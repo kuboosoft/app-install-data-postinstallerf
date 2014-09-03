@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>trilead-putty-extension</b>'
+Comment='<span size="xx-large">Extension to trilead-ssh2 for handling PuTTY keys</span>'
+Comment3='
+This is a small library that allows you to programatically convert
+the PuTTY key file (.ppk) to the OpenSSH format.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kohsuke/trilead-putty-extension'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

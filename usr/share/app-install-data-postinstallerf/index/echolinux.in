@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>echolinux</b>'
+Comment='<span size="xx-large">Linux echoLink client</span>'
+Comment3='
+EchoLinux is a "command line" driven engine that performs all of the actions
+necessary to initiate sessions, accept connections and maintain connections
+with other echoLink users. It also handles the compression/decompression of
+the audio stream.
+'
+License='GPL+'
+Screenshot=''
+Url='http://cqinet.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

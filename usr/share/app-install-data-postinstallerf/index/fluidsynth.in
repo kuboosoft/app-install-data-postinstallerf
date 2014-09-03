@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>fluidsynth</b>'
+Comment='<span size="xx-large">Real-time software synthesizer</span>'
+Comment3='
+FluidSynth is a real-time software synthesizer based on the SoundFont 2
+specifications. It is a "software synthesizer". FluidSynth can read MIDI events
+from the MIDI input device and render them to the audio device. It features
+real-time effect modulation using SoundFont 2.01 modulators, and a built-in
+command line shell. It can also play MIDI files (note FluidSynth was previously
+called IIWU Synth).
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.fluidsynth.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

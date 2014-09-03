@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-rpi-gpio</b>'
+Comment='<span size="xx-large">Class to control the GPIO on a Raspberry Pi</span>'
+Comment3='
+Python library for GPIO access on a Raspberry Pi
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/raspberry-gpio-python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

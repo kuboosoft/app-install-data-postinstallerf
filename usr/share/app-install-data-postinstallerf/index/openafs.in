@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>openafs</b>'
+Comment='<span size="xx-large">Enterprise Network File System</span>'
+Comment3='
+The AFS distributed filesystem.  AFS is a distributed filesystem
+allowing cross-platform sharing of files among multiple computers.
+Facilities are provided for access control, authentication, backup and
+administrative management.
+
+This package provides common files shared across all the various
+OpenAFS packages but are not necessarily tied to a client or server.
+'
+License='IBM'
+Screenshot=''
+Url='http://www.openafs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

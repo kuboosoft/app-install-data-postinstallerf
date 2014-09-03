@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>juffed-plugin-todolist</b>'
+Comment='<span size="xx-large">ToDo list plugin for juffed</span>'
+Comment3='
+Displays all TODOs, FIXMEs etc.
+Warning this plugin can be unstable and crash all of juffed. Need testing.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

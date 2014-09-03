@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Pango</b>'
+Comment='<span size="xx-large">Perl interface to the pango library</span>'
+Comment3='
+perl-Pango provides Perl bindings for the text layout/rendering library
+pango. Pango is a library for laying out and rendering text, with an
+emphasis on internationalization. Pango can be used anywhere that text layout
+is needed, but using Pango in conjunction with Cairo and/or Gtk2 provides a
+complete solution with high quality text handling and graphics rendering.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Pango/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

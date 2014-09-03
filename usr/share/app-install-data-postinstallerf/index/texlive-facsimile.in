@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-facsimile</b>'
+Comment='<span size="xx-large">Document class for preparing faxes</span>'
+Comment3='
+The facsimile class provides a simple interface for creating a
+document for sending as a fax, with LaTeX. The class covers two
+areas - First, a title page is created with a detailed fax
+header; - second, every page gets headers and footers so that
+the recipient can be sure that every page has been received and
+all pages are complete, and in the correct order. The class
+evolved from the fax package, and provides much better language
+support.
+
+date 2007-01-03 213108 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-driver-interface</b>'
+Comment='<span size="xx-large">Interface driver plugin for the libvirtd daemon</span>'
+Comment3='
+The interface driver plugin for the libvirtd daemon, providing
+an implementation of the network interface APIs using the
+netcf library
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rhythmbox-devel</b>'
+Comment='<span size="xx-large">Development files for Rhythmbox plugins</span>'
+Comment3='
+This package contains the development files necessary to create
+a Rhythmbox plugin.
+
+'
+License='GPLv2+ with exceptions and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/rhythmbox/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

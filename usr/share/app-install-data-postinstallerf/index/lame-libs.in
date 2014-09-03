@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lame-libs</b>'
+Comment='<span size="xx-large">LAME MP3 encoding library</span>'
+Comment3='
+LAME MP3 encoding library.
+
+URL          http//lame.sourceforge.net/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lame.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

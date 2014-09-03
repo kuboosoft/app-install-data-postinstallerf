@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fedmsg-gateway</b>'
+Comment='<span size="xx-large">The FedMsg Gateway daemon.</span>'
+Comment3='
+This package contains configuration and init scripts for the FedMsg Gateway.
+It will rebroadcast messages from the bus to a specially designated ZMQ pub
+socket.  Useful for repeating messages outside a firewall.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://github.com/ralphbean/fedmsg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

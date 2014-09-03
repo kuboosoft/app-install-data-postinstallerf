@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mpdris2</b>'
+Comment='<span size="xx-large">Provide MPRIS 2 support to mpd</span>'
+Comment3='
+mpDris2 provides MPRIS 2 support to mpd (Music Player Daemon).
+
+mpDris2 is run in the user session and monitors a local or distant
+mpd server
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/eonpatapon/mpDris2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

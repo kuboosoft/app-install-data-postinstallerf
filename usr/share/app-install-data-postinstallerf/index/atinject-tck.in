@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>atinject-tck</b>'
+Comment='<span size="xx-large">TCK for testing atinject compatibility with JSR-330</span>'
+Comment3='
+TCK for testing atinject compatibility with JSR-330.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/atinject/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

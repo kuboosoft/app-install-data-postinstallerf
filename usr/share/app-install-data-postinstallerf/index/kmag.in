@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kmag</b>'
+Comment='<span size="xx-large">A screen magnifier</span>'
+Comment3='
+A screen magnifier.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://accessibility.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

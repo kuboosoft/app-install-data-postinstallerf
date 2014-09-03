@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>flint-static</b>'
+Comment='<span size="xx-large">Static libraries for FLINT</span>'
+Comment3='
+The flint-static package contains static libraries for
+developing applications that use flint.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.flintlib.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

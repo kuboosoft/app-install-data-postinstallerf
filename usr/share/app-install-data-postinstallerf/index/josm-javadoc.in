@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>josm-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for josm</span>'
+Comment3='
+This package contains the API documentation for josm.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://josm.openstreetmap.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

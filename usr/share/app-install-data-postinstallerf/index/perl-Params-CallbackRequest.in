@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Params-CallbackRequest</b>'
+Comment='<span size="xx-large">Functional and object-oriented callback architecture</span>'
+Comment3='
+ParamsCallbackRequest provides functional and object-oriented callbacks
+to method and function parameters. Callbacks may be either code references
+provided to the new() constructor, or methods defined in subclasses of
+ParamsCallback. Callbacks are triggered either for every call to the
+ParamsCallbackRequest request() method, or by specially named keys in the
+parameters to request().
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Params-CallbackRequest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

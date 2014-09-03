@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-abstract</b>'
+Comment='<span size="xx-large">Control the typesetting of the abstract environment</span>'
+Comment3='
+The abstract package gives you control over the typesetting of
+the abstract environment, and in particular provides for a one
+column abstract in a two column paper.
+
+date 2009-09-02 113310 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

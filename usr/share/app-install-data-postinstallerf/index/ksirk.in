@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ksirk</b>'
+Comment='<span size="xx-large">Conquer-the-world strategy game</span>'
+Comment3='
+The goal of KSirk is to conquer the World. It is done by attacking your
+neighbors with your armies.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/ksirk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

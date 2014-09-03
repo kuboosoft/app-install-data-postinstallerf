@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lcms</b>'
+Comment='<span size="xx-large">Color Management System</span>'
+Comment3='
+LittleCMS intends to be a small-footprint, speed optimized color management
+engine in open source form.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.littlecms.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

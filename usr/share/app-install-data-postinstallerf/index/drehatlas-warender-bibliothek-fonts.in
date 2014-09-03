@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>drehatlas-warender-bibliothek-fonts</b>'
+Comment='<span size="xx-large">A Latin typeface that is decorative, surreal, and hairy</span>'
+Comment3='
+This font was created by Peter Schwanemann and originally based on a hand drawn
+font created for a Pen & Paper RPG. Nowadays the font gets more and more
+complete and should give the possibility of creating fantasy and/or decorative
+logos, headings and other texts.  The font was not created to be used in body
+texts, as it is too complex and not as easy to read as a simple sans serif
+font.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.drehatlas.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

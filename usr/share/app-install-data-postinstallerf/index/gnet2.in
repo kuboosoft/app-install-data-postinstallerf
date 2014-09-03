@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnet2</b>'
+Comment='<span size="xx-large">A simple network library built upon glib</span>'
+Comment3='
+GNet is a simple network library. It is written in C, object-oriented, and
+built upon GLib. It is intended to be easy to use and port.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnetlibrary.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

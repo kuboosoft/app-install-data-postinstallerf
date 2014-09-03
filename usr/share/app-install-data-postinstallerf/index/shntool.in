@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>shntool</b>'
+Comment='<span size="xx-large">A multi-purpose WAVE data processing and reporting utility</span>'
+Comment3='
+A multi-purpose WAVE data processing and reporting utility. File
+formats are abstracted from its core, so it can process any file that contains
+WAVE data, compressed or not - provided there exists a format module to handle
+that particular file type.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://etree.org/shnutils/shntool'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

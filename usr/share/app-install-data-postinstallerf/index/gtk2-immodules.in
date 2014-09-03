@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk2-immodules</b>'
+Comment='<span size="xx-large">Input methods for GTK+</span>'
+Comment3='
+The gtk2-immodules package contains standalone input methods that are shipped
+as part of GTK+.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

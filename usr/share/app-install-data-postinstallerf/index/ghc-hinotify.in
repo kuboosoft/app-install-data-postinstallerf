@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-hinotify</b>'
+Comment='<span size="xx-large">Haskell binding to INotify</span>'
+Comment3='
+This library provides a wrapper to the Linux Kernels inotify
+feature, allowing applications to subscribe to notifications
+when a file is accessed or modified.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/hinotify'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

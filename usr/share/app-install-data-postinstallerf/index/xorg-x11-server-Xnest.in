@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xorg-x11-server-Xnest</b>'
+Comment='<span size="xx-large">A nested server.</span>'
+Comment3='
+Xnest is an X server, which has been implemented as an ordinary
+X application.  It runs in a window just like other X applications,
+but it is an X server itself in which you can run other software.  It
+is a very useful tool for developers who wish to test their
+applications without running them on their real X server.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

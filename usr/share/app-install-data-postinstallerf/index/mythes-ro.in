@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-ro</b>'
+Comment='<span size="xx-large">Romanian thesaurus</span>'
+Comment3='
+Romanian thesaurus.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rospell.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

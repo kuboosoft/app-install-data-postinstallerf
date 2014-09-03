@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-map</b>'
+Comment='<span size="xx-large">String/symbol indifferent ordered hash</span>'
+Comment3='
+The awesome ruby container youve always wanted a string/symbol
+indifferent ordered hash that works in all rubies.
+'
+License='Ruby or BSD'
+Screenshot=''
+Url='https://github.com/ahoward/map'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rhythmbox-equalizer</b>'
+Comment='<span size="xx-large">An Equalizer plugin for Rhythmbox</span>'
+Comment3='
+10 Band Equalizer for Rhythmbox
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/rbeq/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

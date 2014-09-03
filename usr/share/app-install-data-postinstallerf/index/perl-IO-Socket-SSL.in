@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-IO-Socket-SSL</b>'
+Comment='<span size="xx-large">Perl library for transparent SSL</span>'
+Comment3='
+This module is a true drop-in replacement for IOSocketINET that
+uses SSL to encrypt data before it is transferred to a remote server
+or client. IOSocketSSL supports all the extra features that one
+needs to write a full-featured SSL client or server application
+multiple SSL contexts, cipher selection, certificate verification, and
+SSL version selection. As an extra bonus, it works perfectly with
+mod_perl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-Socket-SSL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

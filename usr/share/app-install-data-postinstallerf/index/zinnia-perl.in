@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zinnia-perl</b>'
+Comment='<span size="xx-large">Perl bindings for zinnia</span>'
+Comment3='
+This package contains perl bindings for zinnia.
+'
+License='BSD'
+Screenshot=''
+Url='http://zinnia.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

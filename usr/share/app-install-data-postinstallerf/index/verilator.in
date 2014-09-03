@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>verilator</b>'
+Comment='<span size="xx-large">A fast simulator for synthesizable Verilog</span>'
+Comment3='
+
+Verilator is the fastest free Verilog HDL simulator. It compiles
+synthesizable Verilog, plus some PSL, SystemVerilog and Synthesis
+assertions into C++ or SystemC code. It is designed for large projects
+where fast simulation performance is of primary concern, and is
+especially well suited to create executable models of CPUs for
+embedded software design teams.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.veripool.com/verilator.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

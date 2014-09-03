@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>skychart</b>'
+Comment='<span size="xx-large">Planetarium software for the advanced amateur astronomer</span>'
+Comment3='
+This program enables you to draw sky charts, making use of the data in 16
+catalogs of stars and nebulae. In addition the position of planets,
+asteroids and comets are shown.
+
+The purpose of this program is to prepare different sky maps for a
+particular observation. A large number of parameters help you to choose
+specifically or automatically which catalogs to use, the colour and the
+dimension of stars and nebulae, the representation of planets, the display
+of labels and coordinate grids, the superposition of pictures, the
+condition of visibility and more. All these features make this celestial
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ap-i.net/skychart/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lv2-vocoder-plugins</b>'
+Comment='<span size="xx-large">Add a robotic effect to vocals</span>'
+Comment3='
+Perhaps you dont know what a vocoder is, but you have heard one before for
+sure. Vocoders are often used to add a robotic effect to vocals in music.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://download.gna.org/lv2vocoder/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

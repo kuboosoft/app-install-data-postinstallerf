@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zabbix-proxy-pgsql</b>'
+Comment='<span size="xx-large">Zabbix proxy compiled to use PostgreSQL</span>'
+Comment3='
+The Zabbix proxy compiled to use PostgreSQL
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.zabbix.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

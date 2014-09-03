@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lsdvd</b>'
+Comment='<span size="xx-large">Small application for listing the contents of DVDs</span>'
+Comment3='
+lsdvd is a small application which lists the contents of DVDs to your terminal.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://untrepid.com/lsdvd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

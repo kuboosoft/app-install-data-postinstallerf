@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>rubygem-bigdecimal</b>'
+Comment='<span size="xx-large">BigDecimal provides arbitrary-precision floating point decimal arithmetic</span>'
+Comment3='
+Ruby provides built-in support for arbitrary precision integer arithmetic.
+For example
+
+42**13 -> 1265437718438866624512
+BigDecimal provides similar support for very large or very accurate floating
+point numbers. Decimal arithmetic is also useful for general calculation,
+because it provides the correct answers people expect?whereas normal binary
+floating point arithmetic often introduces subtle errors because of the
+conversion between base 10 and base 2.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://ruby-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

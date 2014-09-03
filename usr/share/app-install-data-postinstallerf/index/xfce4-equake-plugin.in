@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfce4-equake-plugin</b>'
+Comment='<span size="xx-large">Plugin for the XFCE panel which monitors earthquakes</span>'
+Comment3='
+A panel plugin for the XFCE panel which monitors earthquakes and displays an
+update each time a new earthquake occurs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.e-quake.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

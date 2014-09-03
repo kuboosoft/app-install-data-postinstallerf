@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n gtkwave
+Name=GTKWave
+GenericName=Electronic Waveform Viewer
+Comment=Display simulation results
+Icon=/usr/share/app-install-data-postinstallerf/icons/gtkwave.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;GTK;Electronics;Engineering;

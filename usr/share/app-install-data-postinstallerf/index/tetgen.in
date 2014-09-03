@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tetgen</b>'
+Comment='<span size="xx-large">A Quality Tetrahedral Mesh Generator</span>'
+Comment3='
+TetGen is a program to generate tetrahedral meshes of any 3D polyhedral
+domains.
+TetGen generates exact constrained Delaunay tetrahedralizations, boundary
+conforming Delaunay meshes, and Voronoi partitions.
+
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://wias-berlin.de/software/tetgen/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

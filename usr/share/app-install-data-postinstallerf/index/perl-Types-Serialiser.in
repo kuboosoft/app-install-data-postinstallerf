@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Types-Serialiser</b>'
+Comment='<span size="xx-large">Simple data types for common serialization formats</span>'
+Comment3='
+This module provides some extra data types that are used by common
+serialization formats such as JSON or CBOR. The idea is to have a repository of
+simple/small constants and containers that can be shared by different
+implementations so they become interoperable between each other.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Types-Serialiser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

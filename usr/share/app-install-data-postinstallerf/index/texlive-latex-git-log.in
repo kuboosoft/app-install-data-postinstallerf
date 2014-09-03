@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-latex-git-log</b>'
+Comment='<span size="xx-large">Typeset git log information</span>'
+Comment3='
+The program is run within a git repository, and outputs the
+entire version history, as a LaTeX table. That output will
+typically be redirected to a file; the author recommends
+typesetting in landscape orientation.
+
+date 2013-06-19 181249 +0200
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

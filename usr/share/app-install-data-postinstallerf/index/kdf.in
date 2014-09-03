@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdf</b>'
+Comment='<span size="xx-large">View disk usage</span>'
+Comment3='
+KDiskFree displays the available file devices (hard drive partitions,
+floppy and CD/DVD drives, etc.) along with information on their capacity,
+free space, type and mount point.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://utils.kde.org/projects/kdf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

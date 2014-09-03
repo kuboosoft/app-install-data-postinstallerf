@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>passivetex</b>'
+Comment='<span size="xx-large">Macros to process XSL formatting objects</span>'
+Comment3='
+PassiveTeX is a library of TeX macros which can be used to process an
+XML document which results from an XSL transformation to formatting
+objects.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://web.archive.org/web/20070609180518/http://www.tei-c.org.uk/Software/passivetex/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>plexus-digest</b>'
+Comment='<span size="xx-large">Plexus Digest / Hashcode Components</span>'
+Comment3='
+The Plexus project seeks to create end-to-end developer tools for
+writing applications. At the core is the container, which can be
+embedded or for a full scale application server. There are many
+reusable components for hibernate, form processing, jndi, i18n,
+velocity, etc. Plexus also includes an application server which
+is like a J2EE application server, without all the baggage.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://plexus.codehaus.org/plexus-components/plexus-digest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

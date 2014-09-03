@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libsynce-devel</b>'
+Comment='<span size="xx-large">Development libraries and header files for SynCE</span>'
+Comment3='
+This package contains the header files and link libraries for SynCE
+application development. SynCE provides support for communication
+between a Windows CE device (PDA, smart phone) and a Linux machine.
+
+For more details on the SynCE project, please refer to the projects
+homepage at http//www.synce.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.synce.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

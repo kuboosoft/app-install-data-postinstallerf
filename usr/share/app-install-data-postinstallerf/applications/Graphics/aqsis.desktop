@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n aqsis
+Version=1.0
+Type=Application
+Name=Aqsis Renderer
+GenericName=RenderMan Renderer
+Comment=Render RenderMan Interface Bytestream (RIB) files
+Icon=/usr/share/app-install-data-postinstallerf/icons/aqsis.png
+Terminal=true
+Categories=Graphics;3DGraphics;ConsoleOnly;

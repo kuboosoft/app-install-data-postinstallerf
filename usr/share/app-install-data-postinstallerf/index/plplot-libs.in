@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plplot-libs</b>'
+Comment='<span size="xx-large">Libraries for PLplot</span>'
+Comment3='
+Libraries for PLplot.
+
+URL          http//plplot.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://plplot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>drupal7-profiler</b>'
+Comment='<span size="xx-large">Allows an install profile to be defined as a Drupal .info file</span>'
+Comment3='
+Profiler provides a new way to write install profiles. Gone are the days where
+you needed to know all the quirks of Drupals APIs in order to write a solid
+install profile. Profiler allows you to quickly and easily create new install
+profiles, as well as have Sub Install Profiles, where one Install Profile
+inherits from and extends another Install Profile.
+
+This package provides the following Drupal module
+* profiler
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/profiler'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>razorqt-globalkeyshortcuts</b>'
+Comment='<span size="xx-large">Razor-qt global keyboard shortcuts tool</span>'
+Comment3='
+The Razor-qt global keyboard shortcuts desktop tool
+manages the keyboard shortcuts assigned by user
+or also default assigned by desktop.
+This package is part of the Razor-qt.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://razor-qt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

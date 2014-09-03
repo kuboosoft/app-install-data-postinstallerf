@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jbossws-cxf</b>'
+Comment='<span size="xx-large">JBoss Web Services CXF stack</span>'
+Comment3='
+JBoss Web Services CXF integration stack
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/jbossws'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

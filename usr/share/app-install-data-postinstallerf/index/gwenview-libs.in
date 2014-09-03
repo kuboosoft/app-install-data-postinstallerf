@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gwenview-libs</b>'
+Comment='<span size="xx-large">Runtime files for gwenview</span>'
+Comment3='
+Runtime files for gwenview.
+
+URL          https//projects.kde.org/projects/kde/kdegraphics/gwenview
+'
+License='IJG and LGPLv2+ and GPLv2+ and LGPLv2 or LGPLv3'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/gwenview'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

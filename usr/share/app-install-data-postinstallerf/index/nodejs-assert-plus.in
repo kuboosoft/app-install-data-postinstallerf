@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-assert-plus</b>'
+Comment='<span size="xx-large">Extra assertions on top of nodes assert module</span>'
+Comment3='
+This library is a super small wrapper over nodes assert module that has two
+things (1) the ability to disable assertions with the environment variable
+NODE_NDEBUG, and (2) some API wrappers for argument testing.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/mcavage/node-assert-plus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

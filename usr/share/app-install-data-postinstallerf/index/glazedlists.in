@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glazedlists</b>'
+Comment='<span size="xx-large">A toolkit for transformations in Java</span>'
+Comment3='
+Glazed Lists is an open source toolkit for list transformations. If a
+developer is already familiar with ArrayList or Vector, he or she will feel
+at home with Glazed Lists.
+'
+License='(LGPLv2+ or MPLv1.1+) and ASL 2.0'
+Screenshot=''
+Url='http://publicobject.com/glazedlists/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

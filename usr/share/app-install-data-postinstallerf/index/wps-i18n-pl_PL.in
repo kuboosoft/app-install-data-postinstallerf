@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wps-i18n-pl_PL</b>'
+Comment='<span size="xx-large">Polish support for KSO/WPS</span>'
+Comment3='
+Polish support for KSO/WPS
+'
+License='Custom:Free'
+Screenshot=''
+Url='https://github.com/wps-community/wps_i18n'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

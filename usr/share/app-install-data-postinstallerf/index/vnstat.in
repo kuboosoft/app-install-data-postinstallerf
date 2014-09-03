@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vnstat</b>'
+Comment='<span size="xx-large">Console-based network traffic monitor</span>'
+Comment3='
+vnStat is a console-based network traffic monitor that keeps a log of daily
+network traffic for the selected interface(s). vnStat isnt a packet sniffer.
+The traffic information is analyzed from the /proc-filesystem, so vnStat can
+be used without root permissions. See the webpage for few screenshots.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://humdi.net/vnstat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

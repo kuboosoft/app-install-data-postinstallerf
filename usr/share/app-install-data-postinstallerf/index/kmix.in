@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kmix</b>'
+Comment='<span size="xx-large">KDE volume control</span>'
+Comment3='
+KDE volume control.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdemultimedia/kmix'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

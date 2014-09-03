@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xorg-x11-xkb-utils</b>'
+Comment='<span size="xx-large">X.Org X11 xkb utilities</span>'
+Comment3='
+X.Org X11 xkb core utilities
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

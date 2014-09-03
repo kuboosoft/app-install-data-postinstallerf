@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-macroswap</b>'
+Comment='<span size="xx-large">Swap the definitions of two LaTeX macros</span>'
+Comment3='
+The package provides simple utility methods to swap the meaning
+(token expansion) of two macros by name.
+
+date 2013-08-21 231013 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

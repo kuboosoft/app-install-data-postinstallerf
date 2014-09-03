@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qt5-qtx11extras</b>'
+Comment='<span size="xx-large">Qt5 - X11 support library</span>'
+Comment3='
+The X11 Extras module provides features specific to platforms using X11, e.g.
+Linux and UNIX-like systems including embedded Linux systems that use the X
+Window System.
+
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

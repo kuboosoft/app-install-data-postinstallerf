@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>paco</b>'
+Comment='<span size="xx-large">A source code package organizer for Unix/Linux</span>'
+Comment3='
+After the installation of a source package with "./configure && make && make
+install", one is usually left with having no idea of what it was installed and
+where it all went, making it difficult to uninstall the package in the future.
+
+Paco was written to solve this problem in a quite simple fashion.
+When installing a package from sources, paco wraps the "make install" command
+(or whatever command or group of commands are needed to install the files into
+the system), and saves installation information into a text database.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://paco.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

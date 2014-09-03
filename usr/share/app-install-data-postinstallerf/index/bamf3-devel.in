@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bamf3-devel</b>'
+Comment='<span size="xx-large">Development files for bamf (GTK+ 3 build)</span>'
+Comment3='
+The bamf3-devel package contains libraries and header files for
+developing applications that use bamf (GTK+ 3 build).
+
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='https://launchpad.net/bamf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

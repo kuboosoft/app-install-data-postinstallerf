@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libmicrohttpd</b>'
+Comment='<span size="xx-large">Lightweight library for embedding a webserver in applications</span>'
+Comment3='
+GNU libmicrohttpd is a small C library that is supposed to make it
+easy to run an HTTP server as part of another application.
+Key features that distinguish libmicrohttpd from other projects are
+
+* C library fast and small
+* API is simple, expressive and fully reentrant
+* Implementation is http 1.1 compliant
+* HTTP server can listen on multiple ports
+* Support for IPv6
+* Support for incremental processing of POST data
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/libmicrohttpd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

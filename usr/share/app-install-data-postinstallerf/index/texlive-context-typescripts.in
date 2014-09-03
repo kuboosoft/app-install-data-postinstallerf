@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-context-typescripts</b>'
+Comment='<span size="xx-large">Small modules to load various fonts for use in ConTeXt</span>'
+Comment3='
+The package provides files offering interfaces to 33 publicly
+available fonts (or collections of fonts from the same
+foundry); each is available in a .mkii and a .mkiv version.
+
+date 2012-02-16 152358 +0100
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>SteGUI</b>'
+Comment='<span size="xx-large">Graphical front-end to Steghide</span>'
+Comment3='
+SteGUI is a graphical front-end to Steghide. It lets users view the
+images and play the sounds that Steghide allows as cover files,
+and command the program all with one tool. It also embeds a simple
+text editor to manage text payload files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://stegui.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

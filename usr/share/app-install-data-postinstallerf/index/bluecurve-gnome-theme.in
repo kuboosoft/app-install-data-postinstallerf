@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bluecurve-gnome-theme</b>'
+Comment='<span size="xx-large">Bluecurve GNOME theme</span>'
+Comment3='
+This package contains the Bluecurve GNOME meta theme.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

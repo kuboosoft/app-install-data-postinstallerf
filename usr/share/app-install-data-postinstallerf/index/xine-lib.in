@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xine-lib</b>'
+Comment='<span size="xx-large">A multimedia engine</span>'
+Comment3='
+This package contains the Xine library.  It can be used to play back
+various media, decode multimedia files from local disk drives, and display
+multimedia streamed over the Internet. It interprets many of the most
+common multimedia formats available - and some uncommon formats, too.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xine-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-neotoma</b>'
+Comment='<span size="xx-large">Erlang library and packrat parser-generator for parsing expression grammars</span>'
+Comment3='
+Erlang library and packrat parser-generator for parsing expression grammars.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/seancribbs/neotoma'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

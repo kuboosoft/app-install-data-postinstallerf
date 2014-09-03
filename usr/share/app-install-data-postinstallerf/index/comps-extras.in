@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>comps-extras</b>'
+Comment='<span size="xx-large">Images for package groups</span>'
+Comment3='
+This package contains images for the components included in this distribution.
+'
+License='GPL+ and LGPLv2+ and GPLv2+ and GPLv3 and CC-BY-SA and MIT'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/?p=comps-extras.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

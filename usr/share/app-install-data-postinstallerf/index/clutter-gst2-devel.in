@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>clutter-gst2-devel</b>'
+Comment='<span size="xx-large">Development files for clutter-gst2</span>'
+Comment3='
+Clutter is an open source software library for creating fast, visually
+rich and animated graphical user interfaces.
+
+Clutter GStreamer enables the use of GStreamer with Clutter.
+The clutter-gst2-devel package contains libraries and header files for
+developing applications that use clutter-gst API version 2.0.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.clutter-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

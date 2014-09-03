@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>min12xxw</b>'
+Comment='<span size="xx-large">Converts PBM stream to Minolta printer language</span>'
+Comment3='
+This is a filter to convert pbmraw data such as produced by ghostscript to
+the printer language of Minolta 1[234]xx W printers. It is meant to be used
+by the PostScript Description files of the drivers from the foomatic package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.hinterbergen.de/mala/min12xxw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

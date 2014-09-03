@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ftgl</b>'
+Comment='<span size="xx-large">OpenGL frontend to Freetype 2</span>'
+Comment3='
+FTGL is a free open source library to enable developers to use arbitrary
+fonts in their OpenGL (www.opengl.org)  applications.
+Unlike other OpenGL font libraries FTGL uses standard font file formats
+so doesnt need a preprocessing step to convert the high quality font data
+into a lesser quality, proprietary format.
+FTGL uses the Freetype (www.freetype.org) font library to open and decode
+the fonts. It then takes that output and stores it in a format most
+efficient for OpenGL rendering.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://ftgl.wiki.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

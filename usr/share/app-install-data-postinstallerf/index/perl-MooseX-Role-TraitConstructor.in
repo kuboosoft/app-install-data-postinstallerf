@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Role-TraitConstructor</b>'
+Comment='<span size="xx-large">Wrapper for new that can accept a traits parameter</span>'
+Comment3='
+This role allows you to easily accept a traits argument (or another name)
+into your constructor, which will easily mix roles into an anonymous class
+before construction, much like MooseMetaAttribute does.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Role-TraitConstructor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

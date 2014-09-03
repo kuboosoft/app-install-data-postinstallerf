@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-libris</b>'
+Comment='<span size="xx-large">Libris ADF fonts, with LaTeX support</span>'
+Comment3='
+LibrisADF is a sans-serif family designed to mimic Lydian. The
+bundle includes - fonts, in Adobe Type 1, TrueType and
+OpenType formats, and - LaTeX support macros, for use with the
+Type 1 versions of the fonts. The LaTeX macros depend on the
+nfssext-cfr bundle. GPL licensing applies the the fonts
+themselves; the support macros are distributed under LPPL
+licensing.
+
+date 2010-07-10 191606 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

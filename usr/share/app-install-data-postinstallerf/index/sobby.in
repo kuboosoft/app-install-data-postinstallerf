@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sobby</b>'
+Comment='<span size="xx-large">Standalone obby server</span>'
+Comment3='
+Sobby is a standalone obby server.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://gobby.0x539.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

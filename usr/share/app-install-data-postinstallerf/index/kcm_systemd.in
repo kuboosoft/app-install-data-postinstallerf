@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kcm_systemd</b>'
+Comment='<span size="xx-large">Systemd control module for KDE</span>'
+Comment3='
+Systemd control module for KDE. It provides a graphical frontend for the systemd
+daemon, which allows for viewing and controlling systemd units, as well as
+modifying configuration files. In integrates in the System Settings dialogue in
+KDE.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://kde-apps.org/content/show.php/Kcmsystemd?content=161871'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

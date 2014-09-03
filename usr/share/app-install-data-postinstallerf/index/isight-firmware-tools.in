@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>isight-firmware-tools</b>'
+Comment='<span size="xx-large">Firmware extraction tools for Apple Built-in iSight camera</span>'
+Comment3='
+iSight Firmware Tools provide tools to manipulate firmware for Built-in iSight
+cameras found on Apple machines since iMac G5 (November 2005).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://launchpad.net/isight-firmware-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

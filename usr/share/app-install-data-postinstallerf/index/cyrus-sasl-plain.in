@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cyrus-sasl-plain</b>'
+Comment='<span size="xx-large">PLAIN and LOGIN authentication support for Cyrus SASL</span>'
+Comment3='
+The cyrus-sasl-plain package contains the Cyrus SASL plugins which support
+PLAIN and LOGIN authentication schemes.
+
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://asg.web.cmu.edu/sasl/sasl-library.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

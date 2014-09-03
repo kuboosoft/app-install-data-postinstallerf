@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-recipecard</b>'
+Comment='<span size="xx-large">Typeset recipes in note-card-sized boxes</span>'
+Comment3='
+The recipecard class typesets recipes into note card sized
+boxes that can then be cut out and pasted on to note cards. The
+recipe then looks elegant and fits in the box of recipes.
+
+date 2008-08-24 105019 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

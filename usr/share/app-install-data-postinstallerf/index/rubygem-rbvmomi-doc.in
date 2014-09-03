@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rbvmomi-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rbvmomi</span>'
+Comment3='
+Documentation for rubygem-rbvmomi
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rlane/rbvmomi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

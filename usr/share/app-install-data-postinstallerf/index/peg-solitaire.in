@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>peg-solitaire</b>'
+Comment='<span size="xx-large">Board game played with pegs</span>'
+Comment3='
+Peg solitaire is a board game for one player involving movement of pegs on
+a board with holes. The program includes over 330 solitaire problems.
+The program looks for new solutions and it is possible to raise new problems.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/projects/peg-solitaire/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

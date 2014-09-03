@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-javadoc-plugin</b>'
+Comment='<span size="xx-large">Maven Javadoc Plugin</span>'
+Comment3='
+The Maven Javadoc Plugin is a plugin that uses the javadoc tool for
+generating javadocs for the specified project.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-javadoc-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

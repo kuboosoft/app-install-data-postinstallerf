@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>oggconvert</b>'
+Comment='<span size="xx-large">Convert media files to Free formats</span>'
+Comment3='
+
+OggConvert is a small GNOME utility that uses GStreamer
+to convert media files to the patent-free Theora
+and Vorbis formats. It also supports the Dirac format,
+through the schrodinger codec. Its painfully easy to use,
+changing the quality settings and the output
+filename is simple. It uses GStreamer, so it can
+convert (almost) any file which Totem can play.
+It can deal with audio-only files, video-only files,
+and files with many audio tracks (such as DVD rips with
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://launchpad.net/oggconvert'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

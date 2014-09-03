@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-net-ssh</b>'
+Comment='<span size="xx-large">Net::SSH: a pure-Ruby implementation of the SSH2 client protocol</span>'
+Comment3='
+NetSSH a pure-Ruby implementation of the SSH2 client protocol.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/net-ssh/net-ssh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

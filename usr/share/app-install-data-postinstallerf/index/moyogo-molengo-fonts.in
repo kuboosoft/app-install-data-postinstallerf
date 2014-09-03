@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>moyogo-molengo-fonts</b>'
+Comment='<span size="xx-large">A Latin typeface for documents</span>'
+Comment3='
+Molengo is a Latin typeface for documents. It is multilingual and has some
+features required by many minority languages such as non-spacing mark placement.
+The font is produced with Fontforge.
+'
+License='OFL'
+Screenshot=''
+Url='http://code.google.com/p/molengo-fonts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

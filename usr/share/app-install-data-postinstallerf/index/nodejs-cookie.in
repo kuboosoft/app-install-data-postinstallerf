@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nodejs-cookie</b>'
+Comment='<span size="xx-large">Cookie parsing and serialization for Node.js</span>'
+Comment3='
+This Node.js module is a basic cookie parser and serializer. It doesnt
+make assumptions about how you are going to deal with your cookies. It
+basically just provides a way to read and write the HTTP cookie headers.
+
+See RFC6265 for details about the HTTP header for cookies.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/shtylman/node-cookie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

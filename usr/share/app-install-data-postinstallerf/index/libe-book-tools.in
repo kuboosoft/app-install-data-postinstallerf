@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libe-book-tools</b>'
+Comment='<span size="xx-large">Tools to transform e-books into other formats</span>'
+Comment3='
+Tools to transform e-books into other formats.
+Currently supported XHTML, raw, text.
+'
+License='LGPLv2+ or MPLv2.0'
+Screenshot=''
+Url='https://sourceforge.net/projects/libebook/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

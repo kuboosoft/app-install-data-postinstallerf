@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>chmlib-devel</b>'
+Comment='<span size="xx-large">Library for dealing with ITSS/CHM format files - development files</span>'
+Comment3='
+Files needed for developing apps using chmlib.
+
+URL          http//www.jedrea.com/chmlib/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jedrea.com/chmlib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

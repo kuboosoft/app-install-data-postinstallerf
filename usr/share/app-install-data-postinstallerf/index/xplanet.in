@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xplanet</b>'
+Comment='<span size="xx-large">Render a planetary image into an X window</span>'
+Comment3='
+Xplanet is similar to Xearth, where an image of the earth is rendered
+into an X window.  Azimuthal, Mercator, Mollweide, orthographic, or
+rectangular projections can be displayed as well as a window with a
+globe the user can rotate interactively.  The other terrestrial
+planets may also be displayed. The Xplanet home page has links to
+locations with map files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xplanet.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

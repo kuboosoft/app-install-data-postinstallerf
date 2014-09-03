@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lxc-templates</b>'
+Comment='<span size="xx-large">Templates for lxc</span>'
+Comment3='
+Linux Resource Containers provide process and resource isolation without the
+overhead of full virtualization.
+
+The lxc-templates package contains templates for creating containers.
+'
+License='LGPLv2+ and GPLv2'
+Screenshot=''
+Url='http://lxc.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

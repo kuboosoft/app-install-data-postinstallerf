@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-jurarsp</b>'
+Comment='<span size="xx-large">Citations of judgements and official documents in (German) juridical documents</span>'
+Comment3='
+This package should be helpful for people working on (German)
+law. It (ab)uses BibTeX for citations of judgements and
+official documents. For this purpose, a special BibTeX-style is
+provided.
+
+date 2007-01-08 141254 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

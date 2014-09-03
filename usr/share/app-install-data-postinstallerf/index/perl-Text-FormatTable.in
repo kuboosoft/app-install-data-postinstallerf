@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Text-FormatTable</b>'
+Comment='<span size="xx-large">Format text tables</span>'
+Comment3='
+TextFormatTable renders simple tables as text. You pass to the
+constructor (new) a table format specification similar to LaTeX (e.g.
+r|l|5l|R|20L) and you call methods to fill the table data and insert rules.
+After the data is filled, you call the render method and the table gets
+formatted as text.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-FormatTable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

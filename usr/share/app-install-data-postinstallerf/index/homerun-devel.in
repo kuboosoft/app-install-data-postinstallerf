@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>homerun-devel</b>'
+Comment='<span size="xx-large">Development files for homerun</span>'
+Comment3='
+The homerun-devel package contains all the development files
+of the homerun launcher.
+
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='http://userbase.kde.org/Homerun'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

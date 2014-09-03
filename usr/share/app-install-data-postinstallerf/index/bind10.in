@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bind10</b>'
+Comment3='
+BIND10 DNS and DHCP suite. This package contains binaries and utilities needed
+by both DNS and DHCP services daemons. Make sure you install also bind10-dns or
+bind10-dhcp packages.
+
+'
+License='ISC'
+Screenshot=''
+Url='http://bind10.isc.org/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

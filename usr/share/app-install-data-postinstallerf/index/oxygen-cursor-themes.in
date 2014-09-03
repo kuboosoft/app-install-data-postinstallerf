@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>oxygen-cursor-themes</b>'
+Comment='<span size="xx-large">Oxygen cursor themes</span>'
+Comment3='
+Oxygen cursor themes.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-workspace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

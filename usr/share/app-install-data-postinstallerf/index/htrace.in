@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>htrace</b>'
+Comment='<span size="xx-large">Tracing framework for java based distributed systems</span>'
+Comment3='
+HTrace is a tracing framework intended for use with distributed systems
+written in java.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/cloudera/htrace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

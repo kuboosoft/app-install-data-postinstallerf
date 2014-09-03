@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-ifsym</b>'
+Comment='<span size="xx-large">A collection of symbols</span>'
+Comment3='
+A set of symbol fonts, written in Metafont, offering
+(respectively) clock-face symbols, geometrical symbols, weather
+symbols, mountaineering symbols, electronic circuit symbols and
+a set of miscellaneous symbols. A LaTeX package is provided,
+that allows the user to load only those symbols needed in a
+document.
+
+date 2011-04-10 220230 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-bluetooth-libs</b>'
+Comment='<span size="xx-large">GTK+ Bluetooth device selection widgets</span>'
+Comment3='
+This package contains libraries needed for applications that
+want to display a Bluetooth device selection widget.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/GnomeBluetooth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tigervnc-license</b>'
+Comment='<span size="xx-large">License of TigerVNC suite</span>'
+Comment3='
+This package contains license of the TigerVNC suite
+'
+License='GPLv2+'
+Summary     : License of TigerVNC suite'
+Screenshot=''
+Url='http://www.tigervnc.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

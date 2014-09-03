@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-lodash</b>'
+Comment='<span size="xx-large">A low-level utility library delivering consistency and customization</span>'
+Comment3='
+A low-level utility library delivering consistency and customization.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/bestiejs/lodash'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

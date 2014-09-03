@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-uid-number</b>'
+Comment='<span size="xx-large">Convert a username/group name to a UID/GID number</span>'
+Comment3='
+Convert a username/group name to a UID/GID number.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/isaacs/uid-number'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

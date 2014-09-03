@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>stapler-jsp</b>'
+Comment='<span size="xx-large">JSP module for stapler</span>'
+Comment3='
+This package contains JSP module for stapler.
+'
+License='BSD and ASL 2.0'
+Screenshot=''
+Url='http://stapler.kohsuke.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sems-g722</b>'
+Comment='<span size="xx-large">G.722 support for SEMS</span>'
+Comment3='
+This is a wrapper around the g722 codec from the spandsp library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.iptel.org/sems'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

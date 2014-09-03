@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bes</b>'
+Comment='<span size="xx-large">Back-end server software framework for OPeNDAP</span>'
+Comment3='
+BES is a new, high-performance back-end server software framework for
+OPeNDAP that allows data providers more flexibility in providing end
+users views of their data. The current OPeNDAP data objects (DAS, DDS,
+and DataDDS) are still supported, but now data providers can add new data
+views, provide new functionality, and new features to their end users
+through the BES modular design. Providers can add new data handlers, new
+data objects/views, the ability to define views with constraints and
+aggregation, the ability to add reporting mechanisms, initialization
+hooks, and more.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opendap.org/BES_software'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

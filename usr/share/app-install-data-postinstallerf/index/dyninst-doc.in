@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dyninst-doc</b>'
+Comment='<span size="xx-large">Documentation for using the Dyninst API</span>'
+Comment3='
+dyninst-doc contains API documentation for the Dyninst libraries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.dyninst.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

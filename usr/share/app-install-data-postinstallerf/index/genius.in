@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>genius</b>'
+Comment='<span size="xx-large">An arbitrary precision integer and multiple precision floatingpoint calculator</span>'
+Comment3='
+Genius is a calculator program similar in some aspects to BC, Matlab
+or Maple. GEL is the name of its extension language, in fact, a large
+part of the standard genius functions are written in GEL itself.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.jirka.org/genius.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

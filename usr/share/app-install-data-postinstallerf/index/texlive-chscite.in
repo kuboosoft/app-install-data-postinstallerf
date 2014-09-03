@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-chscite</b>'
+Comment='<span size="xx-large">Bibliography style for Chalmers University of Technology</span>'
+Comment3='
+The package, heavily based on the harvard package for Harvard-
+style citations, provides a citation suite for students at
+Chalmers University of Technology that follows given
+recommendations.
+
+date 2012-05-14 121939 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

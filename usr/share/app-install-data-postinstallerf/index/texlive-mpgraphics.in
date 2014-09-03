@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-mpgraphics</b>'
+Comment='<span size="xx-large">Process and display MetaPost figures inline</span>'
+Comment3='
+The package allows LaTeX users to typeset MetaPost code inline
+and display figures in their documents with only and only one
+run of LaTeX, PDFLaTeX or XelaTeX (no separate runs of mpost).
+Mpgraphics achieves this by using the shell escape (\write 18)
+feature of current TeX distributions, so that the whole process
+is automatic and the end user is saved the tiresome processing.
+
+date 2013-04-08 090709 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

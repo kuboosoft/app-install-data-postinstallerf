@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kstars</b>'
+Comment='<span size="xx-large">Desktop Planetarium</span>'
+Comment3='
+KStars is a Desktop Planetarium.  It provides an accurate graphical
+simulation of the night sky, from any location on Earth, at any date and
+time.  The display includes up to 100 million stars, 13,000 deep-sky objects,
+all 8 planets, the Sun and Moon, and thousands of comets and asteroids.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://edu.kde.org/kstars'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

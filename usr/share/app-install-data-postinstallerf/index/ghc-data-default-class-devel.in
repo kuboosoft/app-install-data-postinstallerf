@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-data-default-class-devel</b>'
+Comment='<span size="xx-large">Haskell data-default-class library development files</span>'
+Comment3='
+This package provides the Haskell data-default-class library development
+files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/data-default-class'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

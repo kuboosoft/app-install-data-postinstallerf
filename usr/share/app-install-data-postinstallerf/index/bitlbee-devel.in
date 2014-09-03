@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bitlbee-devel</b>'
+Comment='<span size="xx-large">Development files for bitlbee</span>'
+Comment3='
+The bitlbee-devel package includes header files necessary for building and
+developing programs and plugins which use bitlbee.
+
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://www.bitlbee.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

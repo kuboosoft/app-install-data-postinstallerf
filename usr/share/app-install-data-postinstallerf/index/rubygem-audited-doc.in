@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-audited-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-audited</span>'
+Comment3='
+Documentation for rubygem-audited
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/collectiveidea/audited'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>alt-ergo</b>'
+Comment='<span size="xx-large">Automated theorem prover including linear arithmetic</span>'
+Comment3='
+Alt-Ergo is an automated theorem prover implemented in OCaml. It is
+based on CC(X) - a congruence closure algorithm parameterized by an
+equational theory X. This algorithm is reminiscent of the Shostak
+algorithm. Currently CC(X) is instantiated by the theory of linear
+arithmetics. Alt-Ergo also contains a home made SAT-solver and an
+instantiation mechanism by which it fully supports quantifiers.
+'
+License='CeCILL-C'
+Screenshot=''
+Url='http://alt-ergo.ocamlpro.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

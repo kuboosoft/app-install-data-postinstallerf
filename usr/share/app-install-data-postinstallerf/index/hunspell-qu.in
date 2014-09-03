@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-qu</b>'
+Comment='<span size="xx-large">Quechua Ecuador hunspell dictionaries</span>'
+Comment3='
+Quechua Ecuador hunspell dictionaries.
+'
+License='AGPLv3'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/project/KichwaSpellchecker'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

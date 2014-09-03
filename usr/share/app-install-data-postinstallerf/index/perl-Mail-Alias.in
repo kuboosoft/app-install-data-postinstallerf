@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Mail-Alias</b>'
+Comment='<span size="xx-large">Module for manipulating e-mail alias files</span>'
+Comment3='
+This module allows direct manipulation of various types of E-Mail
+Alias files. The primary use of MailAlias is for manipulating alias
+files in the SENDMAIL alias file format. Additionally it is possible
+to read some other formats and to convert between various alias file
+formats.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Mail-Alias/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

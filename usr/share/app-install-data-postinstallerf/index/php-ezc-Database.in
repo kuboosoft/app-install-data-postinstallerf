@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-ezc-Database</b>'
+Comment='<span size="xx-large">A lightweight database layer on top of PHPs PDO</span>'
+Comment3='
+A lightweight database layer on top of PHPs PDO that allows you to utilize
+a database without having to take care of differences in SQL dialects.
+'
+License='BSD'
+Screenshot=''
+Url='http://ezcomponents.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

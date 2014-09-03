@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-mysql2-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-mysql2</span>'
+Comment3='
+Documentation for rubygem-mysql2
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/brianmario/mysql2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

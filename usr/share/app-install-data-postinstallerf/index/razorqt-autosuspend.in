@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>razorqt-autosuspend</b>'
+Comment='<span size="xx-large">Razor-qt power management</span>'
+Comment3='
+Razor-qt suspend manage application tool.
+The frontend manage application tool for LID or power management
+actions that relies on power manager from Razor-qt desktop.
+This package is part of the Razor-qt.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://razor-qt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

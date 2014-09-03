@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n driconf
+Name=3D Acceleration
+Comment=Change 3D Acceleration options
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_driconf_driconf-icon.png
+Type=Application
+Categories=GNOME;Application;Settings;AdvancedSettings;
+StartupNotify=true

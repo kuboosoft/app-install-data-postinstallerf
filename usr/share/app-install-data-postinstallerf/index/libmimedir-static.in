@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmimedir-static</b>'
+Comment='<span size="xx-large">Library to parse MIME Directory Profile</span>'
+Comment3='
+This library parses MIME Directory Profile which is defined in RFC 2425.
+This is the static version, there is no dynamic version currently.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.synce.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

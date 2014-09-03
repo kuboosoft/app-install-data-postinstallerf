@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xdialog</b>'
+Comment='<span size="xx-large">X11 drop in replacement for cdialog</span>'
+Comment3='
+Xdialog is designed to be a drop in replacement for the cdialog program.
+It converts any terminal based program into a program with an X-windows
+interface. The dialogs are easier to see and use and Xdialog adds even
+more functionalities (help button+box, treeview, editbox, file selector,
+range box, and much more).
+'
+License='GPL+'
+Screenshot=''
+Url='http://xdialog.free.fr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

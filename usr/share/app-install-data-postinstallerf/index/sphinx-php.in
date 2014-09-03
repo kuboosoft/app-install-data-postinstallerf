@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sphinx-php</b>'
+Comment='<span size="xx-large">PHP API for Sphinx</span>'
+Comment3='
+This package provides the PHP API for Sphinx,
+the free, open-source full-text search engine,
+designed with indexing database content in mind.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sphinxsearch.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

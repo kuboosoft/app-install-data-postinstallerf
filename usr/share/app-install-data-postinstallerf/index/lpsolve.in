@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lpsolve</b>'
+Comment='<span size="xx-large">A Mixed Integer Linear Programming (MILP) solver</span>'
+Comment3='
+Mixed Integer Linear Programming (MILP) solver lpsolve solves pure linear,
+(mixed) integer/binary, semi-continuous and special ordered sets (SOS) models.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/lpsolve'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

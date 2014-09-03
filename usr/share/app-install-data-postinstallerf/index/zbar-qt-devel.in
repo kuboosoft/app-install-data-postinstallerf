@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zbar-qt-devel</b>'
+Comment='<span size="xx-large">Bar code reader Qt widget extra development files</span>'
+Comment3='
+This package contains header files and additional libraries used for
+developing GUI applications based on Qt4 that include a bar code
+scanning widget.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://zbar.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

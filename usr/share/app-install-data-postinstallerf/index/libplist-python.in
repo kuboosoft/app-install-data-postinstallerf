@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libplist-python</b>'
+Comment='<span size="xx-large">Python package for libplist</span>'
+Comment3='
+libplist, python libraries and support
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.libimobiledevice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

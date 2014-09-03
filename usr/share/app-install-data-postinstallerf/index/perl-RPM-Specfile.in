@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-RPM-Specfile</b>'
+Comment='<span size="xx-large">Perl extension for creating RPM specfiles</span>'
+Comment3='
+This is a simple module for creation of RPM Spec files. Most of the methods
+in this module are the same name as the RPM Spec file element they
+represent but in lower case.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/RPM-Specfile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

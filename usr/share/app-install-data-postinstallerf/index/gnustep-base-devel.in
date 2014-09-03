@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnustep-base-devel</b>'
+Comment='<span size="xx-large">Header of the GNUstep Base library packes</span>'
+Comment3='
+This package contains the header files of the gnustep-base package.
+
+URL          http//www.gnustep.org/
+'
+License='LGPLv2+ and GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://www.gnustep.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

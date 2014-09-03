@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>alot</b>'
+Comment='<span size="xx-large">An experimental terminal MUA based on notmuch mail</span>'
+Comment3='
+alot makes use of existing solutions where possible It does not fetch, send or
+edit mails; it lets notmuch handle your mailindex and uses a toolkit to render
+its display. You are responsible for automatic initial tagging.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/pazz/alot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

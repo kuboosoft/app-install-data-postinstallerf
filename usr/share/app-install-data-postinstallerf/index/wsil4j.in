@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wsil4j</b>'
+Comment='<span size="xx-large">Web Services Inspection Language for Java API</span>'
+Comment3='
+The Web Services Inspection Language (WS-Inspection) provides a distributed Web
+service discovery method, by specifying how to inspect a web site for available
+Web services. The WS-Inspection specification defines the locations on a Web
+site where you could look for Web service descriptions.
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://svn.apache.org/repos/asf/webservices/archive/wsil4j/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

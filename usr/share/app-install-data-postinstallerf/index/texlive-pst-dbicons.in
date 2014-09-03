@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pst-dbicons</b>'
+Comment='<span size="xx-large">Support for drawing ER diagrams</span>'
+Comment3='
+The package provides some useful macros in the database area.
+The package focusses on typesetting ER-Diagrams in a
+declarative style, i.e., by positioning some nodes and defining
+the position of all other nodes relative to them by using the
+standard database terminology. The PSTricks package is required
+for using pst-dbicons, but no deep knowledge of PSTricks
+commands is required (although such knowledge is useful for
+exploiting the full functionality of the package).
+
+date 2006-08-27 164102 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

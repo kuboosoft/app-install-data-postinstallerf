@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-parse</b>'
+Comment='<span size="xx-large">Opposite of format()</span>'
+Comment3='
+Parse strings using a specification based on the Python format() syntax.
+
+``parse()`` is the opposite of ``format()``
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/parse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

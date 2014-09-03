@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>vios-proxy-doc</b>'
+Comment='<span size="xx-large">Documentation for vios-proxy</span>'
+Comment3='
+The vios-proxy program suite creates a network tunnel between
+a server in the QEMU host and a client in a QEMU guest.
+The proxy server and client programs open normal TCP network
+ports on localhost and the vios-proxy tunnel connects them using
+QEMU virtioserial channels.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/?p=vios-proxy.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

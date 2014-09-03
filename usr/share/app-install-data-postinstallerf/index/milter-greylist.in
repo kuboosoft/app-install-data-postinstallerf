@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>milter-greylist</b>'
+Comment='<span size="xx-large">Milter for greylisting, the next step in the spam control war</span>'
+Comment3='
+Greylisting is a new method of blocking significant amounts of spam at
+the mailserver level, but without resorting to heavyweight statistical
+analysis or other heuristical (and error-prone) approaches. Consequently,
+implementations are fairly lightweight, and may even decrease network
+traffic and processor load on your mailserver.
+
+This package provides a greylist filter for sendmails milter API.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://hcpnet.free.fr/milter-greylist/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

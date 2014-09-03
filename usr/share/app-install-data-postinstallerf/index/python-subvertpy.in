@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-subvertpy</b>'
+Comment='<span size="xx-large">Python bindings for Subversion</span>'
+Comment3='
+Alternative Python bindings for Subversion, split out from bzr-svn.
+The goal is to have complete, portable and "Pythonic" Python bindings.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://samba.org/~jelmer/subvertpy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

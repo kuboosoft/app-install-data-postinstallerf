@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-crt</b>'
+Comment='<span size="xx-large">MinGW Windows cross-compiler runtime for the win64 target</span>'
+Comment3='
+MinGW Windows cross-compiler runtime, base libraries for the win64 target.
+'
+License='Public Domain and ZPLv2.1'
+Screenshot=''
+Url='http://mingw-w64.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

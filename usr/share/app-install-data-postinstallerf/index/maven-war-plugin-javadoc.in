@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-war-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for maven-war-plugin</span>'
+Comment3='
+API documentation for maven-war-plugin.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-war-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

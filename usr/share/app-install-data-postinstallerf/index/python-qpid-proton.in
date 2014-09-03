@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-qpid-proton</b>'
+Comment='<span size="xx-large">Python language bindings for the Qpid Proton messaging framework</span>'
+Comment3='
+Python language bindings for the Qpid Proton messaging framework.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org/proton/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

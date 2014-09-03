@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libodfgen-devel</b>'
+Comment='<span size="xx-large">Development files for libodfgen</span>'
+Comment3='
+The libodfgen-devel package contains libraries and header files for
+developing applications that use libodfgen.
+
+'
+License='LGPLv2+ or MPLv2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/libwpd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Crypt-Eksblowfish</b>'
+Comment='<span size="xx-large">Eksblowfish block cipher</span>'
+Comment3='
+An object of this type encapsulates a keyed instance of the Eksblowfish
+block cipher, ready to encrypt and decrypt.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-Eksblowfish/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

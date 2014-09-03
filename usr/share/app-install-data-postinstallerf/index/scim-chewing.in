@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>scim-chewing</b>'
+Comment='<span size="xx-large">Chewing Chinese input method for SCIM</span>'
+Comment3='
+This package provides Chewing Chinese input method for SCIM.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://chewing.csie.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

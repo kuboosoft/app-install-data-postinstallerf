@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-contacts</b>'
+Comment='<span size="xx-large">Contacts manager for GNOME</span>'
+Comment3='
+gnome-contacts is a standalone contacts manager for GNOME desktop.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://live.gnome.org/Design/Apps/Contacts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

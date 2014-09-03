@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>liquibase</b>'
+Comment='<span size="xx-large">Database Refactoring Tool</span>'
+Comment3='
+LiquiBase is an open source (Apache 2.0 License), database-independent library
+for tracking, managing and applying database changes. It is built on a simple
+premise All database changes are stored in a human readable but tracked in
+source control.
+'
+License='ASL 2.0'
+LiquiBase is an open source (Apache 2.0 License), database-independent library'
+Screenshot=''
+Url='http://liquibase.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

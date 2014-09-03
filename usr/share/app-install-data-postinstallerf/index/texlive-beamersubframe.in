@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-beamersubframe</b>'
+Comment='<span size="xx-large">Reorder frames in the PDF file</span>'
+Comment3='
+The package provides a method to reorder frames in the PDF file
+without reordering the source. Its principal use is to embed or
+append frames with details on some subject. The author
+describes the package as "experimental".
+
+date 2011-08-11 102340 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

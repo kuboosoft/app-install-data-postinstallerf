@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mysql-utilities</b>'
+Comment='<span size="xx-large">MySQL Utilities</span>'
+Comment3='
+A package of utilities that are used for maintenance and administration
+of MySQL servers. These utilities encapsulate a set of primitive commands,
+and bundles them so they can be used to perform macro operations with a
+single command.
+
+Documentation
+http//dev.mysql.com/doc/workbench/en/mysql-utilities.html
+'
+License='GPLv2'
+Screenshot=''
+Url='https://launchpad.net/mysql-utilities'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

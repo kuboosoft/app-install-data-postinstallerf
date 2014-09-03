@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wt-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for witty web development</span>'
+Comment3='
+This package contains the files necessary to develop
+applications using the Wt toolkit and the WtDbo ORM library.
+
+'
+License='GPLv2 and Boost and MIT and (Boost or MIT) and BSD and zlib'
+Screenshot=''
+Url='http://www.webtoolkit.eu/wt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

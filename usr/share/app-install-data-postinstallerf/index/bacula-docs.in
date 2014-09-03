@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bacula-docs</b>'
+Comment='<span size="xx-large">Bacula documentation</span>'
+Comment3='
+Bacula is a set of programs that allow you to manage the backup, recovery, and
+verification of computer data across a network of different computers. It is
+based on a client/server architecture.
+
+This package contains the documentation for most of the bacula packages.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://www.bacula.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>SDL_ttf</b>'
+Comment='<span size="xx-large">Simple DirectMedia Layer TrueType Font library</span>'
+Comment3='
+This library allows you to use TrueType fonts to render text in SDL
+applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.libsdl.org/projects/SDL_ttf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

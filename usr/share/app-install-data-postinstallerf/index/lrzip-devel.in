@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lrzip-devel</b>'
+Comment='<span size="xx-large">Development files for Long Range ZIP library</span>'
+Comment3='
+Files needed to develop application using Long Range ZIP library.
+
+URL          http//ck.kolivas.org/apps/lrzip/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ck.kolivas.org/apps/lrzip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

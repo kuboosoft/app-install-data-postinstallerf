@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>potrace-doc</b>'
+Comment='<span size="xx-large">Documentation on how to use the potrace library</span>'
+Comment3='
+This package contains documentation for the potrace algorithm and the potrace
+library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://potrace.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

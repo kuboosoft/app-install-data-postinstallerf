@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-preludeml</b>'
+Comment='<span size="xx-large">OCaml utility functions</span>'
+Comment3='
+Prelude.ml is a collection of utility functions for OCaml programs.
+Of particular interest are high level parallel combinators, which make
+multicore parallelization of OCaml programs easy.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/kig/preludeml/tree/master'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

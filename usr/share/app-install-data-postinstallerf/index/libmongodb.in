@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libmongodb</b>'
+Comment='<span size="xx-large">MongoDB shared libraries</span>'
+Comment3='
+This package provides the shared library for the MongoDB client.
+'
+License='AGPLv3 and zlib and ASL 2.0'
+Screenshot=''
+Url='http://www.mongodb.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n transcoder
+Name=Transcoder
+Comment=Video converter for Linux using GTK+ and ffmpeg
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/transcoder.png
+Categories=GNOME;GTK;AudioVideo;

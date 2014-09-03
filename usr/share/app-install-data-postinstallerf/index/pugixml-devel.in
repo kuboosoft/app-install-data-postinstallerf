@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pugixml-devel</b>'
+Comment='<span size="xx-large">Development files for pugixml</span>'
+Comment3='
+Development files for package pugixml
+
+URL          http//pugixml.org
+'
+License='MIT'
+Screenshot=''
+Url='http://pugixml.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

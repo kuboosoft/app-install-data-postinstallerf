@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>generic-jms-ra</b>'
+Comment='<span size="xx-large">Generic JMS JCA Resource Adapter for JBoss AS</span>'
+Comment3='
+This project is for the Generic JMS JCA Resource Adapter for JBoss AS. As the
+name suggests, this JCA RA provides the ability to integrate with any JMS
+broker which allows remote clients to look-up connection factories and
+destinations via JNDI (as outlined in section 4.2 of the JMS 1.1
+specification). It currently is only verified to work in JBoss AS7 and
+supports, for example, consuming messages with an MDB and sending messages with
+a JCA-base JMS connection factory to 3rd-party brokers. It is based on the
+generic JMS JCA RA found in previous versions of JBoss AS (e.g. 4, 5, and 6).
+However, unlike those versions this is a stand-alone project now and no longer
+supports internal dead-letter processing since every modern JMS broker supports
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/jms-ra/generic-jms-ra'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

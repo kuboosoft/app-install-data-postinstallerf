@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-mflogo</b>'
+Comment='<span size="xx-large">LaTeX support for MetaFont logo fonts</span>'
+Comment3='
+LaTeX package and font definition file to access the Knuthian
+mflogo fonts described in The MetaFontbook and to typeset
+MetaFont logos in LaTeX documents.
+
+date 2010-03-14 234618 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

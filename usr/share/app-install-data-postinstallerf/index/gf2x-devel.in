@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gf2x-devel</b>'
+Comment='<span size="xx-large">Headers and library files for gf2x</span>'
+Comment3='
+Headers and library files for developing applications that use gf2x.
+
+URL          http//gf2x.gforge.inria.fr/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gf2x.gforge.inria.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

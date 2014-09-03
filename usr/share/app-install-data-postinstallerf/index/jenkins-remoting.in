@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jenkins-remoting</b>'
+Comment='<span size="xx-large">Jenkins remoting module</span>'
+Comment3='
+This package is primarily used by Jenkins for slave node management,
+but it could be potentially reused outside of this project.
+'
+License='MIT and ASL 2.0'
+Screenshot=''
+Url='https://github.com/jenkinsci/remoting'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-extarrows</b>'
+Comment='<span size="xx-large">Extra Arrows beyond those provided in AMSmath</span>'
+Comment3='
+Arrows are provided to supplement \xleftarrow and \xrightarrow
+of the AMSMath package \xlongequal, \xLongleftarrow,
+\xLongrightarrow, \xLongleftrightarrow, \xLeftrightarrow.
+\xlongleftrightarrow, \xleftrightarrow, \xlongleftarrow and
+\xlongrightarrow.
+
+date 2008-05-15 160802 +0200
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

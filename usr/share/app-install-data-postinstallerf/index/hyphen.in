@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hyphen</b>'
+Comment='<span size="xx-large">A text hyphenation library</span>'
+Comment3='
+Hyphen is a library for high quality hyphenation and justification.
+
+URL          http//hunspell.sf.net
+'
+License='GPLv2 or LGPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://hunspell.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-doctrine-inflector</b>'
+Comment='<span size="xx-large">Common string manipulations with regard to casing and singular/plural rules</span>'
+Comment3='
+Doctrine Inflector is a small library that can perform string manipulations
+with regard to upper-/lowercase and singular/plural forms of words.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/doctrine/inflector'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

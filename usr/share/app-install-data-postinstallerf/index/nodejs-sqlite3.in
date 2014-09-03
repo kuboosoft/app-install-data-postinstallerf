@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-sqlite3</b>'
+Comment='<span size="xx-large">Asynchronous, non-blocking SQLite3 bindings for Node.js</span>'
+Comment3='
+Asynchronous, non-blocking SQLite3 bindings for Node.js.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/developmentseed/node-sqlite3'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

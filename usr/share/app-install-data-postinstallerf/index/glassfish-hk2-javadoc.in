@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-hk2-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for glassfish-hk2</span>'
+Comment3='
+This package contains javadoc for glassfish-hk2.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://hk2.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

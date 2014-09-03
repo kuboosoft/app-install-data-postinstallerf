@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>glib-networking</b>'
+Comment='<span size="xx-large">Networking support for GLib</span>'
+Comment3='
+This package contains modules that extend the networking support in
+GIO. In particular, it contains libproxy- and GSettings-based
+GProxyResolver implementations and a gnutls-based GTlsConnection
+implementation.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

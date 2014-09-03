@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mkvtoolnix-gui</b>'
+Comment='<span size="xx-large">Graphical interface for Matroska container manipulation</span>'
+Comment3='
+Mkvtoolnix is a set of utilities to mux and demux audio, video and subtitle
+streams into and from Matroska containers.
+
+This package contains the graphical interface for these utilities.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bunkus.org/videotools/mkvtoolnix/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

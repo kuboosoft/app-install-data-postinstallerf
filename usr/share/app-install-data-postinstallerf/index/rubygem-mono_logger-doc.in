@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-mono_logger-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-mono_logger</span>'
+Comment3='
+Documentation for rubygem-mono_logger
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/steveklabnik/mono_logger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

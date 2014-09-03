@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dbus-python-devel</b>'
+Comment='<span size="xx-large">Libraries and headers for dbus-python</span>'
+Comment3='
+Headers and static libraries for hooking up custom mainloops to the dbus python
+bindings.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.freedesktop.org/software/dbus-python'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

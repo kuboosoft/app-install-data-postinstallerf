@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-pl</b>'
+Comment='<span size="xx-large">Polish hunspell dictionaries</span>'
+Comment3='
+Polish hunspell dictionaries.
+'
+License='LGPLv2+ or GPL+ or MPLv1.1 or CC-BY-SA'
+Screenshot=''
+Url='http://www.kurnik.pl/dictionary/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

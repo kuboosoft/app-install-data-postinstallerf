@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tre</b>'
+Comment='<span size="xx-large">POSIX compatible regexp library with approximate matching</span>'
+Comment3='
+TRE is a lightweight, robust, and efficient POSIX compatible regexp
+matching library with some exciting features such as approximate
+matching.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://laurikari.net/tre/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

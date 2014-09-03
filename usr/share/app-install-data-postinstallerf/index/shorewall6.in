@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>shorewall6</b>'
+Comment='<span size="xx-large">Files for the IPV6 Shorewall Firewall</span>'
+Comment3='
+This package contains the files required for IPV6 functionality of the
+Shoreline Firewall (shorewall).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.shorewall.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

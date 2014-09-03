@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vfrnav-validatorservice</b>'
+Comment='<span size="xx-large">VFR Navigation CFMU Validator Service</span>'
+Comment3='
+Opening the connection to the CFMU validator takes some time (in the order
+of seconds to minutes). In order to amortize this time over multiple tasks,
+this package contains a local socket validator server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.baycom.org/~tom/vfrnav'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

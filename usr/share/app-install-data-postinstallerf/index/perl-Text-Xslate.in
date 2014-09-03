@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Text-Xslate</b>'
+Comment='<span size="xx-large">Scalable template engine</span>'
+Comment3='
+Xslate is a template engine, tuned for persistent applications, safe as an
+HTML generator, and with rich features.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://xslate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

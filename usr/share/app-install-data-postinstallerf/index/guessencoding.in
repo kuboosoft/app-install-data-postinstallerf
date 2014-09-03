@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>guessencoding</b>'
+Comment='<span size="xx-large">Guess encoding of files and return configured reader</span>'
+Comment3='
+The purpose of this library is to "guess" the encoding of files, and retrieve
+a reader that is properly configured to use the right encoding as guessed.
+The library is able to recognize the various Unicode encoding variants
+
+    * UTF-8
+    * UTF-16LE - Low Endian
+    * UTF-16BE - Big Endian
+    * UTF-32
+If a Unicode encoding isnt recognized, its an 8-bit encoding. If the 8-bit
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://docs.codehaus.org/display/GUESSENC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-pnas2009</b>'
+Comment='<span size="xx-large">Bibtex style for PNAS</span>'
+Comment3='
+This style produces bibliographies in the format of
+"Proceedings of the National Academy of Sciences, USA". The
+style was derived from the standard unsrt.bst and adapted to
+the new (2009) formatting rules.
+
+date 2009-12-06 091645 +0100
+'
+License='Bibtex'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

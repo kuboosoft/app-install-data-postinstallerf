@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>generic-release-rawhide</b>'
+Comment='<span size="xx-large">Rawhide repo definitions</span>'
+Comment3='
+This package provides the rawhide repo definitions.
+'
+License='GPLv2'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>grub2-tools</b>'
+Comment='<span size="xx-large">Support tools for GRUB.</span>'
+Comment3='
+The GRand Unified Bootloader (GRUB) is a highly configurable and customizable
+bootloader with modular architecture.  It support rich varietyof kernel formats,
+file systems, computer architectures and hardware devices.  This subpackage
+provides tools for support of all platforms.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/grub/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gedit-zeitgeist</b>'
+Comment='<span size="xx-large">Zeitgeist plugin for gedit</span>'
+Comment3='
+This packages brings the Zeitgeist dataprovider - a plugin that logs
+access and leave event for documents used with gedit.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/gedit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

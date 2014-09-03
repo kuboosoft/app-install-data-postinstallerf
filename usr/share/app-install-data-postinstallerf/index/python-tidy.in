@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-tidy</b>'
+Comment='<span size="xx-large">Python wrapper for tidy, from the HTML tidy project</span>'
+Comment3='
+Python wrapper (bindings) for tidylib, this allows you to tidy HTML
+files through a Pythonic interface.
+'
+License='MIT'
+Screenshot=''
+Url='http://utidylib.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

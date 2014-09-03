@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ebnetd-common</b>'
+Comment='<span size="xx-large">Common package for ebnetd families</span>'
+Comment3='
+EBNET is a protocol to communicate to the EB library that is a C library
+for accessing "CD-ROM books".
+
+This package contains a bunch of the common programs/files to be shared
+by ebnetd families.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.sra.co.jp/people/m-kasahr/ebnetd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Component-InstancePerContext</b>'
+Comment='<span size="xx-large">Return a new instance a component on each request</span>'
+Comment3='
+Return a new instance a component on each request.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Component-InstancePerContext/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

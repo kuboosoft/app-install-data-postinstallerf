@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-OpenFrame</b>'
+Comment='<span size="xx-large">Framework for network enabled applications</span>'
+Comment3='
+OpenFrame is a framework for network services serving to multiple media
+channels - for instance, the web, WAP, and digital television. It is built
+around the Pipeline API, and provides extra abstraction to make delivery of
+a single application to multiple channels easier.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/OpenFrame/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

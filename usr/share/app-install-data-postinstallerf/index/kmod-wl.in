@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kmod-wl</b>'
+Comment='<span size="xx-large">Metapackage which tracks in wl kernel module for newest kernel</span>'
+Comment3='
+This is a meta-package without payload which sole purpose is to require the
+wl kernel module(s) for the newest kernel.
+to make sure you get it together with a new kernel.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.broadcom.com/support/802.11/linux_sta.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

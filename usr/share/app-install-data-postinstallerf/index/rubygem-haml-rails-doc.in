@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-haml-rails-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-haml-rails</span>'
+Comment3='
+Documentation for rubygem-haml-rails
+'
+License='MIT or Ruby'
+Screenshot=''
+Url='http://github.com/indirect/haml-rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

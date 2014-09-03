@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jboss-remoting</b>'
+Comment='<span size="xx-large">JBoss Remoting</span>'
+Comment3='
+The purpose of JBoss Remoting is to provide a general purpose framework
+for symmetric and asymmetric communication over a network. It supports
+various modes of interaction, including invocations, one way messaging,
+and asynchronous callbacks.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/jbossremoting'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

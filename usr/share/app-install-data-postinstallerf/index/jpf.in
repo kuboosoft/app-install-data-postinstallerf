@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>jpf</b>'
+Comment='<span size="xx-large">Java Plug-in Framework</span>'
+Comment3='
+JPF is an  open source, LGPL licensed plug-in infrastructure library for
+new or existing Java projects. JPF provides a runtime engine that
+dynamically discovers and loads "plug-ins". A plug-in is a structured
+component that describes itself to JPF using a "manifest". JPF maintains a
+registry of available plug-ins and the functions they provide (via
+extension points and extensions).
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://jpf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

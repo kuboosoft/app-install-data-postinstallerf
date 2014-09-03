@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-ConsistentVersion</b>'
+Comment='<span size="xx-large">Ensures a CPAN distribution has consistent versioning</span>'
+Comment3='
+The purpose of this module is to make it easy for other distribution
+authors to have consistent version numbers within the modules (as well as
+readme file and changelog) of the distribution.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-ConsistentVersion/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-vfs2-monikers</b>'
+Comment='<span size="xx-large">Monikers for the GNOME virtual file-system</span>'
+Comment3='
+GNOME VFS is the GNOME virtual file system.
+Programs using bonobo can use the monikers provided
+in this package to access gnome-vfs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

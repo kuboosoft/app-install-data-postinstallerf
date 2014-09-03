@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>globus-gram-job-manager-fork-setup-seg</b>'
+Comment='<span size="xx-large">Globus Toolkit - Fork Job Manager Support using SEG</span>'
+Comment3='
+The Globus Toolkit is an open source software toolkit used for building Grid
+systems and applications. It is being developed by the Globus Alliance and
+many others all over the world. A growing number of projects and companies are
+using the Globus Toolkit to unlock the potential of grids for their cause.
+
+The globus-gram-job-manager-fork-setup-seg package contains
+Fork Job Manager Support using the scheduler event generator to monitor job
+state
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.globus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xmms-mplayer</b>'
+Comment='<span size="xx-large">MPlayer plugin for XMMS</span>'
+Comment3='
+Xmms-MPlayer is an input plugin for XMMS that allows you to play all audio and
+video files in XMMS. Thus, allowing you to use XMMS as a playlist frontend for
+MPlayer. This project aims at merely being a connecting link between XMMS and
+MPlayer. It does not intend to get involved into any processing of video files,
+all that is left to MPlayer.
+'
+License='GPL+'
+Screenshot=''
+Url='http://xmmsmplayer.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

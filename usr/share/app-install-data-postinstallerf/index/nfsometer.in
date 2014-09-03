@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nfsometer</b>'
+Comment='<span size="xx-large">NFS Performance Framework Tool</span>'
+Comment3='
+NFSometer is a performance measurement framework for running workloads and
+reporting results across NFS protocol versions, NFS options and Linux
+NFS client implementations.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.linux-nfs.org/wiki/index.php/NFSometer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

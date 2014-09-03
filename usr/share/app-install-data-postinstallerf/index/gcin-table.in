@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gcin-table</b>'
+Comment='<span size="xx-large">Table Engines for gcin</span>'
+Comment3='
+This package contains table engines for gcin.
+'
+License='LGPLv2+ and (QPL or GPLv2) and MIT and Array'
+Screenshot=''
+Url='http://hyperrate.com/dir.php?eid=67'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

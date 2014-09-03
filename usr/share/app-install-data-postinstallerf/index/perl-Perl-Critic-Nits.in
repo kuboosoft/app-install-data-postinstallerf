@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Perl-Critic-Nits</b>'
+Comment='<span size="xx-large">Policies of nits I like to pick</span>'
+Comment3='
+The included policy is
+PerlCriticPolicyValuesAndExpressionsProhibitAccessOfPrivateData
+(Prohibits direct access to a hash-based objects hash).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic-Nits/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

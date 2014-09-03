@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-gobject-introspection</b>'
+Comment='<span size="xx-large">Ruby binding of GObjectIntrospection</span>'
+Comment3='
+Ruby/GObjectIntrospection is a Ruby binding of
+GObjectIntrospection.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

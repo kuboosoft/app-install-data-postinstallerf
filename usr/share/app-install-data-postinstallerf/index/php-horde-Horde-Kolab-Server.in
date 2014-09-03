@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Kolab-Server</b>'
+Comment='<span size="xx-large">A package for manipulating the Kolab user database</span>'
+Comment3='
+This package reads/writes entries in the Kolab user database stored in LDAP.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

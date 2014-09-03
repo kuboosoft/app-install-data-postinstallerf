@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ctpl</b>'
+Comment='<span size="xx-large">Template library and engine written in C</span>'
+Comment3='
+CTPL is a template library written in C. It allows fast and easy parsing of
+templates from many sources (including in-memory data and local and remote
+streaming, thanks to GIO) and fine control over template parsing environment.
+
+CTPL has following features
+* It is a library, then it can be easily used from programs
+* Separated lexer and parser
+* It is written in portable C
+* Simple syntax
+* Fast and strict parsing
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://ctpl.tuxfamily.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

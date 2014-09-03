@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-App-p</b>'
+Comment='<span size="xx-large">Steroids for your perl one-liners</span>'
+Comment3='
+Provided tool "p" allows you to write and run perl one-liners in even more
+compact syntax.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/App-p/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

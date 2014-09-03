@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cfv</b>'
+Comment='<span size="xx-large">A utility to test and create data verification files</span>'
+Comment3='
+cfv is a utility to both test and create .sfv, .csv, .crc, .md5(sfv-like),
+md5sum, bsd md5, sha1sum, and .torrent files. These files are commonly used to
+ensure the correct retrieval or storage of data. It also has test-only support
+for PAR and PAR2 files
+
+The bittorent package must be separately installed for .torrent support.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cfv.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

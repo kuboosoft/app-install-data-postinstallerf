@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>jts</b>'
+Comment='<span size="xx-large">Java Topology Suite</span>'
+Comment3='
+The JTS Topology Suite is an API for modelling and
+manipulating 2-dimensional linear geometry. It provides
+numerous geometric predicates and functions. JTS
+conforms to the Simple Features Specification for
+SQL published by the Open GIS Consortium.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/jts-topo-suite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

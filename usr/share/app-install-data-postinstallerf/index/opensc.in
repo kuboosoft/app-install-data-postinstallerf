@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>opensc</b>'
+Comment='<span size="xx-large">Smart card library and applications</span>'
+Comment3='
+OpenSC provides a set of libraries and utilities to work with smart cards. Its
+main focus is on cards that support cryptographic operations, and facilitate
+their use in security applications such as authentication, mail encryption and
+digital signatures. OpenSC implements the PKCS#11 API so applications
+supporting this API (such as Mozilla Firefox and Thunderbird) can use it. On
+the card OpenSC implements the PKCS#15 standard and aims to be compatible with
+every software/card that does so, too.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/OpenSC/OpenSC/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

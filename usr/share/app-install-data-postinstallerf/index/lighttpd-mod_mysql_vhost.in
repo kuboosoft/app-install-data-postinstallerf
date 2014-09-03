@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lighttpd-mod_mysql_vhost</b>'
+Comment='<span size="xx-large">Virtual host module for lighttpd that uses a MySQL database</span>'
+Comment3='
+Virtual host module for lighttpd that uses a MySQL database.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.lighttpd.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

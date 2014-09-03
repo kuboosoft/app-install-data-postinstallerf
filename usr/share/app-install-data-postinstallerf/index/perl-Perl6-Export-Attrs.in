@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Perl6-Export-Attrs</b>'
+Comment='<span size="xx-large">Perl 6 is export(...) trait as a Perl 5 attribute</span>'
+Comment3='
+Implements a Perl 5 native version of what the Perl 6 symbol export
+mechanism will look like.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl6-Export-Attrs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

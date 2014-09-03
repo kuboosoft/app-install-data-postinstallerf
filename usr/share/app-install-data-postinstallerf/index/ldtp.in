@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ldtp</b>'
+Comment='<span size="xx-large">Desktop testing framework</span>'
+Comment3='
+Linux Desktop (GUI Application) Testing Project (LDTP) is aimed at producing
+high quality test automation framework and cutting-edge tools that can be used
+to test Linux Desktop and improve it. It uses the Accessibility libraries to
+poke through the applications user interface. The framework also has tools to
+record test-cases based on user-selection on the application.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ldtp.freedesktop.org/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

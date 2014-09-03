@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-shindo</b>'
+Comment='<span size="xx-large">Simple depth first Ruby testing</span>'
+Comment3='
+Work with your tests, not against them.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/geemus/shindo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

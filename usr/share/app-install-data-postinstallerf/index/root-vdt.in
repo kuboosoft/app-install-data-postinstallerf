@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>root-vdt</b>'
+Comment='<span size="xx-large">VDT mathematical library</span>'
+Comment3='
+VDT is a library of mathematical functions, implemented in double and
+single precision. The implementation is fast and with the aid of
+modern compilers (e.g. gcc 4.7) vectorisable.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

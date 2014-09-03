@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-eleveldb</b>'
+Comment='<span size="xx-large">Erlang LevelDB API</span>'
+Comment3='
+Erlang LevelDB API.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/eleveldb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

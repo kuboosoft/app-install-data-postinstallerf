@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>marisa-python</b>'
+Comment='<span size="xx-large">Python language binding for marisa</span>'
+Comment3='
+Python language binding for marisa
+'
+License='BSD or LGPL'
+Screenshot=''
+Url='https://code.google.com/p/marisa-trie/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

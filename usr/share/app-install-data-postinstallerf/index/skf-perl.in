@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>skf-perl</b>'
+Comment='<span size="xx-large">Perl extension module for skf</span>'
+Comment3='
+This package contains Perl extension module for skf.
+'
+License='BSD and MIT and UCD'
+Screenshot=''
+Url='http://sourceforge.jp/projects/skf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

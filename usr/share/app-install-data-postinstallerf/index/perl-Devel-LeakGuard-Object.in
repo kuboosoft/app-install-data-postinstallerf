@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Devel-LeakGuard-Object</b>'
+Comment='<span size="xx-large">Scoped checks for object leaks</span>'
+Comment3='
+This module provides tracking of objects, for the purpose of detecting
+memory leaks due to circular references or innappropriate caching schemes.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-LeakGuard-Object/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

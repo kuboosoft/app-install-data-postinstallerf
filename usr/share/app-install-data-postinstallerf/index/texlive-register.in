@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-register</b>'
+Comment='<span size="xx-large">Typeset programmable elements in digital hardware (registers)</span>'
+Comment3='
+This package is designed for typesetting the programmable
+elements in digital hardware, i.e., registers. Such registers
+typically have many fields and can be quite wide; they are thus
+a challenge to typeset in a consistent manner. Register is
+similar in some aspects to the bytefield package. Anyone doing
+hardware documentation using LaTeX should examine both
+packages. Register requires a fairly recent version of the
+float package. A Perl module and a Perl script are provided, to
+translate the register specifications into programmable data
+structures.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-crypto</b>'
+Comment='<span size="xx-large">Cryptography library for Python 3</span>'
+Comment3='
+PyCrypto is a collection of both secure hash functions (such as MD5 and
+SHA), and various encryption algorithms (AES, DES, RSA, ElGamal, etc.).
+
+This is the Python 3 build of the package.
+'
+License='Public Domain and Python'
+Screenshot=''
+Url='http://www.pycrypto.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

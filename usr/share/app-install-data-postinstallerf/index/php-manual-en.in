@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-manual-en</b>'
+Comment='<span size="xx-large">Documentation for the PHP programming language</span>'
+Comment3='
+English-language documentation for the PHP programming language.
+'
+License='CC-BY'
+Screenshot=''
+Url='http://www.php.net/download-docs.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

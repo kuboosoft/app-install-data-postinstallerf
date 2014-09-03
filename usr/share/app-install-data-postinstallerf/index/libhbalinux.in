@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libhbalinux</b>'
+Comment='<span size="xx-large">FC-HBAAPI implementation using scsi_transport_fc interfaces</span>'
+Comment3='
+SNIA HBAAPI vendor library built on top of the scsi_transport_fc interfaces.
+
+URL          http//www.open-fcoe.org
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.open-fcoe.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

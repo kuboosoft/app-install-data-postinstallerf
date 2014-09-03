@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>PyX</b>'
+Comment='<span size="xx-large">Python graphics package</span>'
+Comment3='
+PyX is a Python package for the creation of PostScript and PDF files. It
+combines an abstraction of the PostScript drawing model with a TeX/LaTeX
+interface. Complex tasks like 2d and 3d plots in publication-ready quality are
+built out of these primitives.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pyx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

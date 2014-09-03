@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>plexus-component-factories-pom</b>'
+Comment='<span size="xx-large">Plexus Component Factories POM</span>'
+Comment3='
+This package provides Plexus Component Factories parent POM used by different
+Plexus packages.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://plexus.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

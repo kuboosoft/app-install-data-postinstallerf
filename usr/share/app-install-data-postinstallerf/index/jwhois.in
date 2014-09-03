@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jwhois</b>'
+Comment='<span size="xx-large">Internet whois/nicname client</span>'
+Comment3='
+A whois client that accepts both traditional and finger-style queries.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.gnu.org/software/jwhois/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

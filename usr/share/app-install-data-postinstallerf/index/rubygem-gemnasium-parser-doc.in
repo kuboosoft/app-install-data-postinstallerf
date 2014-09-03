@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-gemnasium-parser-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-gemnasium-parser</span>'
+Comment3='
+Documentation for rubygem-gemnasium-parser
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/laserlemon/gemnasium-parser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

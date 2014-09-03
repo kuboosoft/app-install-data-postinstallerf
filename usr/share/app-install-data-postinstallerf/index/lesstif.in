@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>lesstif</b>'
+Comment='<span size="xx-large">OSF/Motif library clone</span>'
+Comment3='
+LessTif is a free replacement for OSF/Motif, which provides a full
+set of widgets for application development (menus, text entry areas,
+scrolling windows, etc.). LessTif is source compatible with OSF/Motif.
+
+This package provides the lesstif runtime libraries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.lesstif.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

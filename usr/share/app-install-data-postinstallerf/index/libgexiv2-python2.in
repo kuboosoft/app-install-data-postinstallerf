@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libgexiv2-python2</b>'
+Comment='<span size="xx-large">Python2 bindings for libgexiv2</span>'
+Comment3='
+This package contains the python2 bindings for libgexiv2
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://trac.yorba.org/wiki/gexiv2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

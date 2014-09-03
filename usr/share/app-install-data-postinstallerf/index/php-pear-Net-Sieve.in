@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pear-Net-Sieve</b>'
+Comment='<span size="xx-large">Handles talking to a sieve server</span>'
+Comment3='
+This package provides an API to talk to servers implementing the
+managesieve protocol. It can be used to install and remove sieve
+scripts, mark them active etc.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Net_Sieve'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

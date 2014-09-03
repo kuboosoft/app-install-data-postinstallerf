@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ipw2200-firmware</b>'
+Comment='<span size="xx-large">Firmware for Intel? PRO/Wireless 2200 network adaptors</span>'
+Comment3='
+This package contains the firmware files required by the ipw2200 driver for
+Linux. Usage of the firmware is subject to the terms and conditions contained
+in /lib/firmware/LICENSE.ipw2200. Please read it carefully.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://ipw2200.sourceforge.net/firmware.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

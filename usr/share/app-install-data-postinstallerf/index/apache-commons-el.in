@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>apache-commons-el</b>'
+Comment='<span size="xx-large">The Apache Commons Extension Language</span>'
+Comment3='
+An implementation of standard interfaces and abstract classes for
+javax.servlet.jsp.el which is part of the JSP 2.0 specification.
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://commons.apache.org/el'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

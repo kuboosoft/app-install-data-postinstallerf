@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-cantarell</b>'
+Comment='<span size="xx-large">LaTeX support for the Cantarell font family</span>'
+Comment3='
+Cantarell is a contemporary Humanist sans serif designed by
+Dave Crossland and Jakub Steiner. This font, delivered under
+the OFL version 1.1, is available on the GNOME download server.
+The present package provides support for this font in LaTeX. It
+includes Type 1 versions of the fonts, converted for this
+package using FontForge from its sources, for full support with
+Dvips.
+
+date 2012-06-11 202841 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

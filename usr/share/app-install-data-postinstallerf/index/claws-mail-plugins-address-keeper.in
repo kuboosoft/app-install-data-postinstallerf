@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>claws-mail-plugins-address-keeper</b>'
+Comment='<span size="xx-large">Never forget a typed address in Claws Mail</span>'
+Comment3='
+This plugin allows saving outgoing addresses to a designated folder
+in the address book. Addresses are saved only if not found in the
+address book to avoid unwanted duplicates.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://claws-mail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

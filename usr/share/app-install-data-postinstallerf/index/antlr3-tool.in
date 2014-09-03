@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>antlr3-tool</b>'
+Comment='<span size="xx-large">ANother Tool for Language Recognition</span>'
+Comment3='
+ANother Tool for Language Recognition, is a language tool
+that provides a framework for constructing recognizers,
+interpreters, compilers, and translators from grammatical
+descriptions containing actions in a variety of target languages.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.antlr.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

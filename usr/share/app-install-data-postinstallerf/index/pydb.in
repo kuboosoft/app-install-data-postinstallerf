@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pydb</b>'
+Comment='<span size="xx-large">Extended Python Debugger</span>'
+Comment3='
+Extended Python Debugger is a more complete debugger for Python
+than the stock pdb.py debugger. It supports a "restart" command,
+non-interactive POSIX-like line tracing, command options, disassembly
+of instructions, and stack traces that give better information for exec
+statements. Stepping/nexting skips over method/function "defs". It tries
+to follow gdbs command set, unless there is a good reason not to.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bashdb.sourceforge.net/pydb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

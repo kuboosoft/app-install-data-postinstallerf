@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-icon-theme-devel</b>'
+Comment='<span size="xx-large">Development files for gnome-icon-theme</span>'
+Comment3='
+Development files for gnome-icon-theme
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

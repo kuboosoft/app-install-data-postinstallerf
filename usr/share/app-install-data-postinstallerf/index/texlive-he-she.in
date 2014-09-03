@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-he-she</b>'
+Comment='<span size="xx-large">Alternating pronouns to aid to gender-neutral writing</span>'
+Comment3='
+The package implements a version of semi-automatic pronoun
+switching for writing gender-neutral (and possibly annoying)
+prose. It has upper- and lowercase versions of switching
+pronouns for all case forms, plus anaphoric versions that
+reflect the current gender choice.
+
+date 2013-03-04 163108 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

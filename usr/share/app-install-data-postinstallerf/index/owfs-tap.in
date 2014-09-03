@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>owfs-tap</b>'
+Comment='<span size="xx-large">Packet sniffer for the owserver protocol</span>'
+Comment3='
+owfs-tap is a packet sniffer for the owserver protocol
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.owfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

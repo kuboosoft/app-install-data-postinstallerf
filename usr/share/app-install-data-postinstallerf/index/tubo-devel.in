@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tubo-devel</b>'
+Comment='<span size="xx-large">Development files for tubo</span>'
+Comment3='
+The tubo-devel package contains libraries and header files for
+developing applications that use tubo.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://xffm.org/libtubo.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

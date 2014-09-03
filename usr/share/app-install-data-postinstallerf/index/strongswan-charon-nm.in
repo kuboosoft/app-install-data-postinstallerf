@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>strongswan-charon-nm</b>'
+Comment='<span size="xx-large">NetworkManager plugin for Strongswan</span>'
+Comment3='
+NetworkManager plugin integrates a subset of Strongswan capabilities
+to NetworkManager.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.strongswan.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

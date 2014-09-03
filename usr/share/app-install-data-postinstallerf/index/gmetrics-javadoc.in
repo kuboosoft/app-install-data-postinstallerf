@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gmetrics-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for gmetrics</span>'
+Comment3='
+This package contains javadoc for gmetrics.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://gmetrics.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

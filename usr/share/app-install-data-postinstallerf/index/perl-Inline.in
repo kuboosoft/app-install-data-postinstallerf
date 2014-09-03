@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Inline</b>'
+Comment='<span size="xx-large">Inline Perl module</span>'
+Comment3='
+The Inline module allows you to put source code from other programming
+languages directly "inline" in a Perl script or module. The code is
+automatically compiled as needed, and then loaded for immediate access
+from Perl.
+
+Inline saves you from the hassle of having to write and compile your
+own glue code using facilities like XS or SWIG. Simply type the code
+where you want it and run your Perl as normal. All the hairy details
+are handled for you. The compilation and installation of your code
+chunks all happen transparently; all you will notice is the delay of
+'
+License='(GPL+ or Artistic) and Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Inline/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>voikko-tools</b>'
+Comment='<span size="xx-large">Test tools for libvoikko</span>'
+Comment3='
+This package contains voikkospell and voikkohyphenate, small command line
+tools for testing libvoikko. These tools may also be useful for shell
+scripts.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://voikko.puimula.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

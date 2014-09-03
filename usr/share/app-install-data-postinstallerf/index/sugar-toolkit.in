@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-toolkit</b>'
+Comment='<span size="xx-large">Sugar toolkit</span>'
+Comment3='
+Sugar is the core of the OLPC Human Interface. The toolkit provides
+a set of widgets to build HIG compliant applications and interfaces
+to interact with system services like presence and the datastore.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Sugar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

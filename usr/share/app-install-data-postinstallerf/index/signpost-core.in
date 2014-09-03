@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>signpost-core</b>'
+Comment='<span size="xx-large">A simple, light-weight, and modular OAuth client library for the Java platform</span>'
+Comment3='
+Signpost is the easy and intuitive solution for signing HTTP messages on the
+Java platform in conformance with the OAuth Core 1.0a standard.
+Signpost follows a modular and flexible design, allowing you to combine it with
+different HTTP messaging layers
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/oauth-signpost/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gmrun</b>'
+Comment='<span size="xx-large">Lightweight "Run program" dialog box with search history and tab completion</span>'
+Comment3='
+A simple GTK program which provides a "run program" window.
+It features a bash-like TAB completion, Ctrl-R/Ctrl-S for
+searching through the history and URL handlers for any user defined
+prefix.
+'
+License='GPL+'
+Screenshot=''
+Url='http://sourceforge.net/projects/gmrun'
+searching through the history and URL handlers for any user defined'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

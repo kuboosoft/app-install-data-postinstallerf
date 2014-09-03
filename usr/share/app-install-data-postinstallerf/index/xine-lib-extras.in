@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xine-lib-extras</b>'
+Comment='<span size="xx-large">Additional plugins for xine-lib</span>'
+Comment3='
+This package contains extra plugins for xine-lib
+  - JACK
+  - GDK-Pixbuf
+  - SMB
+  - SDL
+  - AA-lib
+  - Libcaca
+  - Image decoding
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xine-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

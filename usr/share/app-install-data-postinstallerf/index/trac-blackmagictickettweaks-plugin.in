@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>trac-blackmagictickettweaks-plugin</b>'
+Comment='<span size="xx-large">Various hacks to alter the behavior of the ticket form</span>'
+Comment3='
+Various hacks to alter the behavior of the ticket form.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/BlackMagicTicketTweaksPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

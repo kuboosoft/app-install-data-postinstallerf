@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>freeradius-doc</b>'
+Comment='<span size="xx-large">FreeRADIUS documentation</span>'
+Comment3='
+All documentation supplied by the FreeRADIUS project is included
+in this package.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.freeradius.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

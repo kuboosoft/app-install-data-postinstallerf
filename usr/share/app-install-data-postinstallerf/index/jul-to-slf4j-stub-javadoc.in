@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jul-to-slf4j-stub-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jul-to-slf4j-stub</span>'
+Comment3='
+This package contains the API documentation for jul-to-slf4j-stub.
+'
+License='LGPLv2+ and MIT'
+Screenshot=''
+Url='http://www.jboss.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

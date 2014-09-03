@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>usb_modeswitch</b>'
+Comment='<span size="xx-large">USB Modeswitch gets mobile broadband cards in operational mode</span>'
+Comment3='
+USB Modeswitch brings up your datacard into operational mode. When plugged
+in they identify themselves as cdrom and present some non-Linux compatible
+installation files. This tool deactivates this cdrom-devices and enables
+the real communication device. It supports most devices built and
+sold by Huawei, T-Mobile, Vodafone, Option, ZTE, Novatel.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.draisberghof.de/usb_modeswitch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

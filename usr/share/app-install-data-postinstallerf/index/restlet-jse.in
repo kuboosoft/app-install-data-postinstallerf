@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>restlet-jse</b>'
+Comment='<span size="xx-large">Open Source Lightweight REST framework</span>'
+Comment3='
+Restlet is a lightweight, comprehensive, REST framework for the
+Java platform. Restlet is suitable for both server and client
+Web applications. It supports major Internet transport, data
+format, and service description standards like HTTP and HTTPS,
+SMTP, XML, Atom, and WADL.
+'
+License='(ASL 2.0 or CDDL or EPL or LGPLv2+ or LGPLv3+)'
+Screenshot=''
+Url='http://restlet.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n love
+Name=LÖVE
+Comment=Games development framework in lua
+Comment[es]=Entorno de desarrollo de videojuegos en lua
+Type=Application
+Categories=Development;Game;
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/love-app.png

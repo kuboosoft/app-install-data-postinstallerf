@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>olfs-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for olfs</span>'
+Comment3='
+This package contains the API documentation for olfs.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://opendap.org/download/hyrax?q=olfs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

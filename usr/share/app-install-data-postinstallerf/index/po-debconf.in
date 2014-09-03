@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>po-debconf</b>'
+Comment='<span size="xx-large">Tool for managing templates file translations with gettext</span>'
+Comment3='
+This package is an alternative to debconf-utils, and provides
+tools for managing translated debconf templates files with
+common gettext utilities.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://packages.debian.org/sid/po-debconf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

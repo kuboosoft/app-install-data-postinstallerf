@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>aspell-gu</b>'
+Comment='<span size="xx-large">GNU Aspell Gujarati Dictionary Package</span>'
+Comment3='
+GNU Aspell Gujarati Dictionary Package
+'
+License='GPLv2'
+Screenshot=''
+Url='http://aspell.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

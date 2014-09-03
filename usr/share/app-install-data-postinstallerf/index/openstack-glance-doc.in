@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openstack-glance-doc</b>'
+Comment='<span size="xx-large">Documentation for OpenStack Image Service</span>'
+Comment3='
+OpenStack Image Service (code-named Glance) provides discovery, registration,
+and delivery services for virtual disk images.
+
+This package contains documentation files for glance.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glance.openstack.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

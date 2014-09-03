@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-numpydoc</b>'
+Comment='<span size="xx-large">Sphinx extension to support docstrings in Numpy format</span>'
+Comment3='
+Numpydoc inserts a hook into Sphinxs autodoc that converts docstrings
+following the Numpy/Scipy format to a form palatable to Sphinx.
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/numpydoc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

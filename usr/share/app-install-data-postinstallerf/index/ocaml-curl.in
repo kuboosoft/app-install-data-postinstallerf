@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ocaml-curl</b>'
+Comment='<span size="xx-large">OCaml Curl library (ocurl)</span>'
+Comment3='
+The Ocaml Curl Library (Ocurl) is an interface library for the
+programming language Ocaml to the networking library libcurl.
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/ocurl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

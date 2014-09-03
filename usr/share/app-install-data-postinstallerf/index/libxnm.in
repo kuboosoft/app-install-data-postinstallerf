@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libxnm</b>'
+Comment='<span size="xx-large">A library for parsing the XNM format</span>'
+Comment3='
+XNM is a simple recursively defined serialization syntax for storing
+and communicating of complex data structures
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xnm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-netrc</b>'
+Comment='<span size="xx-large">Library to read and write netrc files</span>'
+Comment3='
+This library can read and update netrc files, preserving formatting including
+comments and whitespace.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/geemus/netrc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

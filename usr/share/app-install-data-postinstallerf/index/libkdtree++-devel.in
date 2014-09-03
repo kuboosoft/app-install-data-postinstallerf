@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libkdtree++-devel</b>'
+Comment='<span size="xx-large">C++ template container implementation of kd-tree sorting</span>'
+Comment3='
+C++ template container implementation of kd-tree sorting.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://libkdtree.alioth.debian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

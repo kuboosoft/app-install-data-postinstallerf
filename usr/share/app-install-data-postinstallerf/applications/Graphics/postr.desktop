@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n postr
+Name=Flickr Uploader
+Comment=Upload photos to Flickr
+Icon=/usr/share/app-install-data-postinstallerf/icons/postr.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Graphics;

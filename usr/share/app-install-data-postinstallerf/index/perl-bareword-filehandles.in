@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-bareword-filehandles</b>'
+Comment='<span size="xx-large">Disables bareword filehandles</span>'
+Comment3='
+This module lexically disables the use of bareword filehandles with built-in
+functions, except for the special built-in filehandles STDIN, STDOUT,
+STDERR, ARGV, ARGVOUT and DATA.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/bareword-filehandles/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

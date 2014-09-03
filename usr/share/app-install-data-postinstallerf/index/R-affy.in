@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>R-affy</b>'
+Comment='<span size="xx-large">Methods for Affymetrix Oligonucleotide Arrays</span>'
+Comment3='
+The package contains functions for exploratory oligonucleotide array
+analysis.
+
+The dependancy to tkWidgets only concerns few convenience
+functions. affy is fully  functional without it.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://bioconductor.org/packages/2.9/bioc/html/affy.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

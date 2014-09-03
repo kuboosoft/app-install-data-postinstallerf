@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>kcm-fcitx</b>'
+Comment='<span size="xx-large">KDE Config Module for Fcitx</span>'
+Comment3='
+Kcm-fcitx is a System Settings module to manage
+Fcitx.
+
+You can config fcitx through
+"Configue Desktop" - "Locale" - Fcitx now.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/Fcitx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-net-ssh-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-net-ssh</span>'
+Comment3='
+Documentation for rubygem-net-ssh
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/net-ssh/net-ssh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xsane-gimp</b>'
+Comment='<span size="xx-large">GIMP plug-in providing the SANE scanner interface</span>'
+Comment3='
+This package provides the regular XSane frontend for the SANE scanner
+interface, but it works as a GIMP plug-in. You must have GIMP
+installed to use this package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xsane.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

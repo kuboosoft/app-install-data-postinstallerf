@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rrdtool-doc</b>'
+Comment='<span size="xx-large">RRDtool documentation</span>'
+Comment3='
+RRD is the Acronym for Round Robin Database. RRD is a system to store and
+display time-series data (i.e. network bandwidth, machine-room temperature,
+server load average). This package contains documentation on using RRD.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://oss.oetiker.ch/rrdtool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

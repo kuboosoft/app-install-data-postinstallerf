@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-aspectratio</b>'
+Comment='<span size="xx-large">Capital A and capital R ligature for Aspect Ratio</span>'
+Comment3='
+The package provides fonts (both as Adobe Type 1 format, and as
+Metafont source) for the AR symbol (for Aspect Ratio) used by
+aeronautical scientists and engineers.
+
+date 2012-01-28 100430 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

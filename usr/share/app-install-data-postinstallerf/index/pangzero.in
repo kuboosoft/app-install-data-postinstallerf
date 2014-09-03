@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pangzero</b>'
+Comment='<span size="xx-large">A clone and enhancement of Super Pang</span>'
+Comment3='
+Pang Zero is a clone and enhancement of Super Pang, a fast-paced action game
+that involves popping balloons with a harpoon. Currently up to 6 people can
+play together.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://apocalypse.rulez.org/pangzero'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

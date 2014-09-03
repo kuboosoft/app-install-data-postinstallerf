@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>PyQwt</b>'
+Comment='<span size="xx-large">Python bindings for Qwt</span>'
+Comment3='
+PyQwt is a set of Python bindings for the Qwt C++ class library which extends
+the Qt framework with widgets for scientific and engineering applications. It
+provides a widget to plot 2-dimensional data and various widgets to display and
+control bounded or unbounded floating point values.
+
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://pyqwt.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

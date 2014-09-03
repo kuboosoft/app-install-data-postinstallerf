@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>avr-gcc-c++</b>'
+Comment='<span size="xx-large">Cross Compiling GNU GCC targeted at avr</span>'
+Comment3='
+This package contains the Cross Compiling version of g++, which can be used to
+compile c++ code for the avr platform, instead of for the native x86_64
+platform.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gcc.gnu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

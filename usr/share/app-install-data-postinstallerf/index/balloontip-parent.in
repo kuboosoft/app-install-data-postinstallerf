@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>balloontip-parent</b>'
+Comment='<span size="xx-large">Balloontip parent POM</span>'
+Comment3='
+Parent POM file for balloontip.
+'
+License='BSD'
+Screenshot=''
+Url='https://balloontip.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

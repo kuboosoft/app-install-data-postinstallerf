@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bullet-extras</b>'
+Comment='<span size="xx-large">Extra libraries for bullet</span>'
+Comment3='
+Extra libraries for bullet.
+
+URL          http//www.bulletphysics.com
+'
+License='zlib and LGPLv2+'
+Screenshot=''
+Url='http://www.bulletphysics.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

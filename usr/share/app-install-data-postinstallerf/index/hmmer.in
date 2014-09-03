@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>hmmer</b>'
+Comment='<span size="xx-large">Profile HMM software for protein sequence analysis</span>'
+Comment3='
+Profile hidden Markov models (profile HMMs) can be used to do sensitive
+database searching using statistical descriptions of a sequence familys
+consensus.  HMMER is a freely distributable implementation of profile HMM
+software for protein sequence analysis.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://hmmer.janelia.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

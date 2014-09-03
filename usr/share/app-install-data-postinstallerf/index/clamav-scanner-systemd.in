@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clamav-scanner-systemd</b>'
+Comment='<span size="xx-large">Systemd initscripts for clamav scanner daemon</span>'
+Comment3='
+The systemd initscripts for clamav-scanner.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.clamav.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

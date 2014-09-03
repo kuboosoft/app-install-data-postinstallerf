@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-flip</b>'
+Comment='<span size="xx-large">Simple strategic game of flipping coins</span>'
+Comment3='
+Flip is a simple strategic game where you have to flip coins until
+they are all heads up. Each time you win, the challenge gets more
+difficult. You can play flips with your friends over the net.
+'
+License='GPLv3+ and MIT'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Flip'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

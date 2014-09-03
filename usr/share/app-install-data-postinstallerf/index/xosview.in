@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xosview</b>'
+Comment='<span size="xx-large">An X Window System utility for monitoring system resources</span>'
+Comment3='
+The xosview utility displays a set of bar graphs which show the
+current system state, including memory usage, CPU usage, system load,
+etc. Xosview runs under the X Window System.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.pogo.org.uk/~mark/xosview/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

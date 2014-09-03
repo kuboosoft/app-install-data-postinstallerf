@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tcpjunk</b>'
+Comment='<span size="xx-large">TCP protocols testing tool</span>'
+Comment3='
+TCPJunk is a TCP protocols manipulation and hacking utility that can
+be used in different ways. Similar to netcat, TCPJunk can be used as
+a client or server, but instead of stdin, it uses a Session file as
+the data to send or receive. TCPJunk can be used as a general testing
+tool, a traffic generator or a fuzzer, for protocols such as HTTP,
+SMTP, POP3, IMAP, FTP and others.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/tcpjunk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

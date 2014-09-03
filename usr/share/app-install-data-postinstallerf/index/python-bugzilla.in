@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-bugzilla</b>'
+Comment='<span size="xx-large">A python library and tool for interacting with Bugzilla</span>'
+Comment3='
+python-bugzilla is a python 2 library for interacting with bugzilla instances
+over XML-RPC. This package also includes the bugzilla command-line tool
+for interacting with bugzilla from shell scripts.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/python-bugzilla'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

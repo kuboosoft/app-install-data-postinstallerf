@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>latex-mk</b>'
+Comment='<span size="xx-large">Makefile fragments and shell scripts for latex</span>'
+Comment3='
+LaTeX-Mk is a collection of makefile fragments and shell scripts for
+simplifying the management of small to large sized LaTeX documents.
+'
+License='BSD'
+Screenshot=''
+Url='http://latex-mk.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

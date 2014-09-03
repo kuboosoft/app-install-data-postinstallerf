@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cvsweb</b>'
+Comment='<span size="xx-large">Web interface for CVS repositories</span>'
+Comment3='
+CVSweb is a WWW interface for CVS repositories with which you can
+browse a file hierarchy on your browser to view each files revision
+history in a very handy manner.  This package contains the FreeBSD
+version of CVSweb.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.freebsd.org/projects/cvsweb.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

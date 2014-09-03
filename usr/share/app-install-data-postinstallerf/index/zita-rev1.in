@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>zita-rev1</b>'
+Comment='<span size="xx-large">Pro-audio reverb for JACK</span>'
+Comment3='
+zita-rev1 is a reworked version of the reverb originally developed for Aeolus.
+Its character is more hall than plate, but it can be used on a wide
+variety of instruments or voices.
+It is not a spatialiser - the early reflections are different for the L and R
+inputs, but do not correspond to any real room. They have been tuned to match
+left and right sources to some extent.
+
+In Stereo mode a dry/wet mix control is provided, so it can be used either as
+an insert or in send/return mode. For mono just connect one of the two
+channels.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kokkinizita.linuxaudio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

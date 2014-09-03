@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ClanLib06-devel</b>'
+Comment='<span size="xx-large">Development Libraries and Headers for ClanLib 0.6</span>'
+Comment3='
+ClanLib 0.6 development headers and libraries
+
+URL          http//www.clanlib.org/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.clanlib.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

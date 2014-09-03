@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-process</b>'
+Comment='<span size="xx-large">Modules for PHP script using system process interfaces</span>'
+Comment3='
+The php-process package contains dynamic shared objects which add
+support to PHP using system interfaces for inter-process
+communication.
+'
+License='PHP'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

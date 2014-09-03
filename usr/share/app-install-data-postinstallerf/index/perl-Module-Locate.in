@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Module-Locate</b>'
+Comment='<span size="xx-large">Locate modules in the same fashion as "require" and "use"</span>'
+Comment3='
+Using "locate()", return the path that "require" would find for a given
+module or filename (it can also return a filehandle if a reference in @INC
+has been used).  This means you can test for the existence, or find the
+path for, modules without having to evaluate the code they contain.
+
+This module also comes with accompanying utility functions that are used
+within the module itself (except for "get_source") and are available for
+import.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Locate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

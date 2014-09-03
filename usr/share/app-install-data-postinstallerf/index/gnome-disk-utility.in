@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-disk-utility</b>'
+Comment='<span size="xx-large">Disks</span>'
+Comment3='
+This package contains the Disks and Disk Image Mounter applications.
+Disks supports partitioning, file system creation, encryption,
+fstab/crypttab editing, ATA SMART and other features
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.gnome.org/browse/gnome-disk-utility'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

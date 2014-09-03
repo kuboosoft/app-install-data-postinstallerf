@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vdr-markad</b>'
+Comment='<span size="xx-large">Advanced commercial detection for VDR</span>'
+Comment3='
+VDR-Plugin markad - Advanced commercial detection for VDR
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.vdr-developer.org/projects/plg-markad'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

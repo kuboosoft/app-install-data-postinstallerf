@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-ccaption</b>'
+Comment='<span size="xx-large">Continuation headings and legends for floats</span>'
+Comment3='
+A package providing commands for continuation captions,
+unnumbered captions, and also a non-specific legend heading for
+any environment. Methods are also provided to define captions
+for use outside float (e.g., figure and table) environments,
+and to define new float environments and Lists of Floats. Tools
+are provided for specifying your own captioning styles.
+
+date 2009-09-02 113310 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

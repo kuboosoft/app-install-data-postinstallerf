@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>refmac-dictionary</b>'
+Comment='<span size="xx-large">Refmac ligand dictionaries</span>'
+Comment3='
+The refmac ligand dictionaries contain chemical information on a large
+number of molecules, including the chemical structure of the ligand,
+the tree-like structure, the links between ligands, and possible
+modifications to them.  This information is stored in the mmCIF
+format, which is used by a number of molecular viewing, refinement and
+validation tools.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www2.mrc-lmb.cam.ac.uk/groups/murshudov/content/refmac/refmac.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

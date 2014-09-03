@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fvkbd-devel</b>'
+Comment='<span size="xx-large">Development package for fvkbd</span>'
+Comment3='
+Files for development with fvkbd.
+
+URL          http//gitorious.org/fvkbd/pages/Home
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://gitorious.org/fvkbd/pages/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

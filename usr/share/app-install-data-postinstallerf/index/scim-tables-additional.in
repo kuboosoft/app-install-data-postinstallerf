@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>scim-tables-additional</b>'
+Comment='<span size="xx-large">Other miscellaneous SCIM tables</span>'
+Comment3='
+This package contains some miscellaneous scim-tables.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/scim'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

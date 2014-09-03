@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wine-tahoma-fonts-system</b>'
+Comment='<span size="xx-large">Wine Tahoma font family system integration</span>'
+Comment3='
+Wine Tahoma font family system integration
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

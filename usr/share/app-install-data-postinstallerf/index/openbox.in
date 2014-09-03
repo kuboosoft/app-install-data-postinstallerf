@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>openbox</b>'
+Comment='<span size="xx-large">A highly configurable and standards-compliant X11 window manager</span>'
+Comment3='
+Openbox is a window manager designed explicity for standards-compliance and
+speed. It is fast, lightweight, and heavily configurable (using XML for its
+configuration data). It has many features that make it unique among window
+managers window resistance, chainable key bindings, customizable mouse
+actions, multi-head/Xinerama support, and dynamically generated "pipe menus."
+
+For a full list of the FreeDesktop.org standards with which it is compliant,
+please see the COMPLIANCE file in the included documentation of this package.
+For a graphical configuration editor, youll need to install the obconf
+package. For a graphical menu editor, youll need to install the obmenu
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openbox.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>e2fsprogs-devel</b>'
+Comment='<span size="xx-large">Ext2/3/4 filesystem-specific libraries and headers</span>'
+Comment3='
+E2fsprogs-devel contains the libraries and header files needed to
+develop second, third and fourth extended (ext2/ext3/ext4)
+filesystem-specific programs.
+
+You should install e2fsprogs-devel if you want to develop ext2/3/4
+filesystem-specific programs. If you install e2fsprogs-devel, youll
+also want to install e2fsprogs.
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://e2fsprogs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

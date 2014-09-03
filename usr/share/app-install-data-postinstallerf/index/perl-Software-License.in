@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Software-License</b>'
+Comment='<span size="xx-large">Package that provides templated software licenses</span>'
+Comment3='
+Software-License contains templates for common open source software licenses.
+'
+URL         : http://search.cpan.org/dist/Software-License/'
+License='GPL+ or Artistic'
+Source      : perl-Software-License-0.103008-1.fc20.src.rpm'
+Software-License contains templates for common open source software licenses.'
+Screenshot=''
+Url='http://search.cpan.org/dist/Software-License/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-ezc-Configuration</b>'
+Comment='<span size="xx-large">A component that allows you to use configuration files in different formats</span>'
+Comment3='
+The Configuration component allows you to read settings from configuration
+files. Those settings can come from any backend in theory, but currently there
+are two reader classes ezcConfigurationIniReader  for reading plain
+configuration files and ezcConfigurationArrayReader for reading parsed
+configuration files in the form of a PHP array.
+
+The Configuration component also allows you to modify settings in configuration
+files and write those changes back to disk. There are two writer classes
+ezcConfigurationIniWriter for writing plain configuration files and
+ezcConfigurationArrayWriter  for writing parsed configuration files in the form
+'
+License='BSD'
+Screenshot=''
+Url='http://ezcomponents.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>seed-devel</b>'
+Comment='<span size="xx-large">Development files for seed</span>'
+Comment3='
+The seed-devel package contains libraries and header files for
+developing applications that use seed.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://live.gnome.org/Seed'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-oc</b>'
+Comment='<span size="xx-large">Occitan hunspell dictionaries</span>'
+Comment3='
+Occitan hunspell dictionaries.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://addons.mozilla.org/en-US/firefox/addon/8235'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

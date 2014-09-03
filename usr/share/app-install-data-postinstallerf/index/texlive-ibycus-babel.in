@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-ibycus-babel</b>'
+Comment='<span size="xx-large">Use the Ibycus 4 Greek font with Babel</span>'
+Comment3='
+This package allows you to use the Ibycus 4 font for ancient
+Greek with Babel. It uses a Perl script to generate hyphenation
+patterns for Ibycus from those for the ordinary Babel encoding,
+cbgreek. It sets up "ibycus" as a pseudo-language you can
+specify in the normal Babel manner. For proper hyphenation of
+Greek quoted in mid-paragraph, you should use it with elatex.
+See the README for details.
+
+date 2009-05-06 135238 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

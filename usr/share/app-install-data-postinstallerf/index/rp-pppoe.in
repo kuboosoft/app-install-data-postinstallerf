@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rp-pppoe</b>'
+Comment='<span size="xx-large">A PPP over Ethernet client (for xDSL support).</span>'
+Comment3='
+PPPoE (Point-to-Point Protocol over Ethernet) is a protocol used by
+many ADSL Internet Service Providers. This package contains the
+Roaring Penguin PPPoE client, a user-mode program that does not
+require any kernel modifications. It is fully compliant with RFC 2516,
+the official PPPoE specification.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.roaringpenguin.com/pppoe/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xrootd-client-admin-perl</b>'
+Comment='<span size="xx-large">Xrootd client administration Perl module</span>'
+Comment3='
+This package contains a swig generated xrootd client administration
+Perl module.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://xrootd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

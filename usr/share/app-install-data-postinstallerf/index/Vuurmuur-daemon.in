@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>Vuurmuur-daemon</b>'
+Comment='<span size="xx-large">Vuurmuur daemon</span>'
+Comment3='
+Vuurmuur daemon.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.vuurmuur.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

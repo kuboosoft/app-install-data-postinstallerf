@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>eclipse-veditor</b>'
+Comment='<span size="xx-large">Eclipse-based Verilog/VHDL plugin</span>'
+Comment3='
+Eclipse Verilog editor is a plugin for the Eclipse IDE.
+It provides Verilog(IEEE-1364) and VHDL language specific code
+viewer, contents outline, code assist etc. It helps coding and
+debugging in hardware development based on Verilog or VHDL.
+'
+License='EPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/veditor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

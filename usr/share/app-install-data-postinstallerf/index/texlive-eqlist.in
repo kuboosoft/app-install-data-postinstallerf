@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-eqlist</b>'
+Comment='<span size="xx-large">Description lists with equal indentation</span>'
+Summary      Description lists with equal indentation
+Source       texlive-2013-5.20131226_r32488.fc20.src.rpm
+Comment3='
+This package provides a list environment which sets a
+description-like list in which the indentation corresponds to
+the longest item of the list.
+
+date 2012-01-23 152759 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

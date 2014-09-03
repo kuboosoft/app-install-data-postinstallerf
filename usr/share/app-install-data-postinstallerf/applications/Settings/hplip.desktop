@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n hplip-gui
+Name=HPLIP Toolbox
+GenericName=Printer Toolbox
+Comment=HP Printing System Control Center
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_HPmenu.png
+Categories=Application;Settings;
+Terminal=false
+Type=Application
+StartupNotify=false

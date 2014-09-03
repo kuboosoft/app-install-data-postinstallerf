@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ghemical</b>'
+Comment='<span size="xx-large">Molecular mechanics and quantum mechanics front end for GNOME</span>'
+Comment3='
+Ghemical is a computational chemistry application.  Ghemical is
+written in C++. It has a graphical user interface (in fact, a couple
+of them), and it supports both quantum-mechanics (semi-empirical and
+ab initio) models and molecular mechanics models (there is an
+experimental Tripos 5.2-like force field for organic molecules). Also
+a tool for reduced protein models is included. Geometry optimization,
+molecular dynamics and a large set of visualization tools are
+currently available.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.uku.fi/~thassine/ghemical/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

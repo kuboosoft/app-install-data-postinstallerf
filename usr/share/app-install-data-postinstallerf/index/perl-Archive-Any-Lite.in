@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Archive-Any-Lite</b>'
+Comment='<span size="xx-large">Simple CPAN package extractor</span>'
+Comment3='
+This is a fork of ArchiveAny by Michael Schwern and Clint Moore. The main
+difference is that this works properly even when you fork(), and may require
+less memory to extract a tarball. On the other hand, this isnt pluggable
+(it only supports file formats used in the CPAN toolchains), and it doesnt
+check MIME types.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/Archive-Any-Lite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

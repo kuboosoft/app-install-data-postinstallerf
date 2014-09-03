@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pywebdav</b>'
+Comment='<span size="xx-large">WebDAV library</span>'
+Comment3='
+WebDAV library for Python. WebDAV is an extension to the normal HTTP/1.1
+protocol allowing the user to upload data, create collections of objects,
+store properties for objects, etc.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.webdav.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-pl</b>'
+Comment='<span size="xx-large">Polish thesaurus</span>'
+Comment3='
+Polish thesaurus.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://synonimy.ux.pl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

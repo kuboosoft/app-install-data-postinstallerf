@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fontik</b>'
+Comment='<span size="xx-large">A Configuration Tool for Font-wise, User-set Fontconfig Rules</span>'
+Comment3='
+Fontik is basically intended to tweak and configure some properties of
+fonts. These settings are usually set system-wide while installing the
+fonts. The power of fontconfig is thus limited when it comes to the
+user.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://suruma.freeflux.net/blog/archive/2009/10/14/fontik-a-font-configuration-gui.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

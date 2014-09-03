@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-physics</b>'
+Comment='<span size="xx-large">A physical world simulator and playground for Sugar</span>'
+Comment3='
+You can add squares, circles, triangles, or draw your own shapes in
+the Physics Activity, and see them come to life with forces (like gravity),
+friction, and inertia.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Physics'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

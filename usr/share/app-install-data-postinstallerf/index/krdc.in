@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>krdc</b>'
+Comment='<span size="xx-large">Remote desktop client</span>'
+Comment3='
+Remote desktop client.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdenetwork/krdc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

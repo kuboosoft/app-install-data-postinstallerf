@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>autoarchive</b>'
+Comment='<span size="xx-large">A simple backup tool that uses tar</span>'
+Comment3='
+AutoArchive is a simple utility for making backups more easily. It
+uses tar for creating archives. The idea of the program is that every
+information needed for making a backup is in one file - the archive
+spec file. Path to this file is passed as a parameter to aa command
+which reads information from it and creates desired backup.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://autoarchive.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

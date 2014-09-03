@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>maven-plugin-descriptor</b>'
+Comment='<span size="xx-large">Maven Plugin Description Model</span>'
+Summary      Maven Plugin Description Model
+Source       maven2-2.2.1-46.fc20.src.rpm
+Comment3='
+Maven toolchain artifact
+'
+License='ASL 2.0 and MIT and BSD'
+Screenshot=''
+Url='http://maven.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

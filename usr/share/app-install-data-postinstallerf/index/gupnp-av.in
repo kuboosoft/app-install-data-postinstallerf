@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gupnp-av</b>'
+Comment='<span size="xx-large">A collection of helpers for building UPnP AV applications</span>'
+Comment3='
+GUPnP is an object-oriented open source framework for creating UPnP
+devices and control points, written in C using GObject and libsoup.
+The GUPnP API is intended to be easy to use, efficient and flexible.
+
+GUPnP-AV is a collection of helpers for building AV (audio/video)
+applications using GUPnP.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gupnp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

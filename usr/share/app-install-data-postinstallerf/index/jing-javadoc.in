@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jing-javadoc</b>'
+Comment='<span size="xx-large">Javadoc API documentation for Jing</span>'
+Comment3='
+Javadoc API documentation for Jing.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/jing-trang/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

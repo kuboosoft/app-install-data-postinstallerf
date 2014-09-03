@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>srm-ifce</b>'
+Comment='<span size="xx-large">SRM client side library</span>'
+Comment3='
+srm-ifce is a client side implementation of the SRMv2 specification
+for GFAL1/2 and FTS. SRM means Storage Resource Manager Interface, it is a
+specification of a SOAP interface providing a generic way to manage
+distributed storage systems.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

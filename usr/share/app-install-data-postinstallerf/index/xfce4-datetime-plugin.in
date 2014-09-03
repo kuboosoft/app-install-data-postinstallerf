@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfce4-datetime-plugin</b>'
+Comment='<span size="xx-large">Date/time plugin for the Xfce panel</span>'
+Comment3='
+An alternative clock plugin for the Xfce panel. A calendar appears when you
+left-click on it.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-datetime-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uwsgi-plugin-admin</b>'
+Comment='<span size="xx-large">uWSGI - Plugin for Admin support</span>'
+Comment3='
+This package contains the admin plugin for uWSGI
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://github.com/unbit/uwsgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

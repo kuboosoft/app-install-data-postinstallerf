@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mt-st</b>'
+Comment='<span size="xx-large">Tool for controlling tape drives</span>'
+Comment3='
+The mt-st package contains the mt and st tape drive management
+programs. Mt (for magnetic tape drives) and st (for SCSI tape devices)
+can control rewinding, ejecting, skipping files and blocks and more.
+
+Install mt-st if you need a tool to  manage tape drives.
+'
+License='GPL+'
+Screenshot=''
+Url='ftp://ftp.ibiblio.org/pub/linux/system/backup'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

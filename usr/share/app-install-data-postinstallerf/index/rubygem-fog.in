@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-fog</b>'
+Comment='<span size="xx-large">Brings clouds to you</span>'
+Comment3='
+The Ruby cloud services library.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/geemus/fog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

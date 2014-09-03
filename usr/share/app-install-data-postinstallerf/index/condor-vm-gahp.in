@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>condor-vm-gahp</b>'
+Comment='<span size="xx-large">HTCondors VM Gahp</span>'
+Comment3='
+The condor_vm-gahp enables the Virtual Machine Universe feature of
+HTCondor. The VM Universe uses libvirt to start and control VMs under
+HTCondors Startd.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.cs.wisc.edu/condor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

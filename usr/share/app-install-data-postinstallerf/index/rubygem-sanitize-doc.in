@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-sanitize-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-sanitize</span>'
+Comment3='
+Documentation for rubygem-sanitize
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rgrove/sanitize/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-subfigmat</b>'
+Comment='<span size="xx-large">Automates layout when using the subfigure package</span>'
+Comment3='
+Defines an array/matrix-type environment that is used with the
+subfigure package to automate the placement of subfigures (or
+tables or text). The subfigures are placed left-to-right, top-
+to-bottom.
+
+date 2010-11-03 115613 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

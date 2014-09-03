@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-turnthepage</b>'
+Comment='<span size="xx-large">Provide "turn page" instructions</span>'
+Comment3='
+The package prints a turn instruction at the bottom of odd-
+numbered pages (except the last). This is a common convention
+for examination papers and the like.
+
+date 2012-08-19 173837 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

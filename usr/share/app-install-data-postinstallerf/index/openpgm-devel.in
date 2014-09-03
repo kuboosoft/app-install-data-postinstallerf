@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openpgm-devel</b>'
+Comment='<span size="xx-large">Development files for openpgm</span>'
+Comment3='
+This package contains OpenPGM related development libraries and header files.
+
+URL          http//openpgm.googlecode.com/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://openpgm.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

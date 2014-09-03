@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bind-lite-devel</b>'
+Comment='<span size="xx-large">Lite version of header files and libraries needed for BIND DNS development</span>'
+Comment3='
+The bind-lite-devel package contains lite version of the header
+files and libraries required for development with ISC BIND 9
+
+'
+License='ISC'
+Screenshot=''
+Url='http://www.isc.org/products/BIND/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

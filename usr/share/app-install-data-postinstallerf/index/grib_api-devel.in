@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>grib_api-devel</b>'
+Comment='<span size="xx-large">GRIB API development headers</span>'
+Comment3='
+Header files and libraries for building a extension library
+
+URL          https//software.ecmwf.int/wiki/display/GRIB/Home
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://software.ecmwf.int/wiki/display/GRIB/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

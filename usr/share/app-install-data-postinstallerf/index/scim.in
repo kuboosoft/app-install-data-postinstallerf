@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>scim</b>'
+Comment='<span size="xx-large">Smart Common Input Method platform</span>'
+Comment3='
+SCIM is a user friendly and full featured input method user interface and
+also a development platform to make life easier for Input Method developers.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.scim-im.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

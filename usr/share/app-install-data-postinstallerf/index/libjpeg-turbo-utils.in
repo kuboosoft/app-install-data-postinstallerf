@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libjpeg-turbo-utils</b>'
+Comment='<span size="xx-large">Utilities for manipulating JPEG images</span>'
+Comment3='
+The libjpeg-turbo-utils package contains simple client programs for accessing
+the libjpeg functions. It contains cjpeg, djpeg, jpegtran, rdjpgcom and
+wrjpgcom. Cjpeg compresses an image file into JPEG format. Djpeg decompresses a
+JPEG file into a regular image file. Jpegtran can perform various useful
+transformations on JPEG files. Rdjpgcom displays any text comments included in a
+JPEG file. Wrjpgcom inserts text comments into a JPEG file.
+'
+License='IJG'
+Screenshot=''
+Url='http://sourceforge.net/projects/libjpeg-turbo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

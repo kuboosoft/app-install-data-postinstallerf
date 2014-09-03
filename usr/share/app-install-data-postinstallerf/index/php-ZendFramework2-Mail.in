@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Mail</b>'
+Comment='<span size="xx-large">Zend Framework 2: Mail Component</span>'
+Comment3='
+Zend\Mail provides generalized functionality to compose and send both text
+and MIME-compliant multipart email messages. Mail can be sent with Zend\Mail
+via the Mail\Transport\Sendmail, Mail\Transport\Smtp or the Mail\Transport\File
+transport. Of course, you can also implement your own transport by implementing
+the Mail\Transport\TransportInterface.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.mail.introduction.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

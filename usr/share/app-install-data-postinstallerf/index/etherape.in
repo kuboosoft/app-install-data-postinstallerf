@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>etherape</b>'
+Comment='<span size="xx-large">Graphical network monitor for Unix</span>'
+Comment3='
+EtherApe is a graphical network monitor modeled after etherman.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://etherape.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>qt4pas</b>'
+Comment='<span size="xx-large">Free Pascal Qt4 Binding</span>'
+Comment3='
+The Free Pascal Qt4 binding allows Free Pascal to interface with the
+C++ Library Qt.
+
+This binding does not cover the whole Qt4 framework but only the
+classes needed by the Cross Platform Lazarus IDE to use Qt as a
+Widget set.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://users.telenet.be/Jan.Van.hijfte/qtforfpc/fpcqt4.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

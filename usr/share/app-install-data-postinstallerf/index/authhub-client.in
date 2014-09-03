@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>authhub-client</b>'
+Comment='<span size="xx-large">MIT Kerberos client plugin for OTP support</span>'
+Comment3='
+Provides client-side authhub support to MIT Kerberos
+'
+License='MIT'
+Screenshot=''
+Url='https://fedorahosted.org/AuthHub'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

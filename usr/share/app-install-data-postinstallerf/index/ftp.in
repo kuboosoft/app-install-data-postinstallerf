@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ftp</b>'
+Comment='<span size="xx-large">The standard UNIX FTP (File Transfer Protocol) client</span>'
+Comment3='
+The ftp package provides the standard UNIX command-line FTP (File
+Transfer Protocol) client.  FTP is a widely used protocol for
+transferring files over the Internet and for archiving files.
+
+If your system is on a network, you should install ftp in order to do
+file transfers.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='ftp://ftp.linux.org.uk/pub/linux/Networking/netkit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

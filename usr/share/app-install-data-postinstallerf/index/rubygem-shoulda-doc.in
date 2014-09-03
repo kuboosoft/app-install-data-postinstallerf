@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-shoulda-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-shoulda</span>'
+Comment3='
+Documentation for rubygem-shoulda.
+'
+License='MIT'
+Screenshot=''
+Url='http://thoughtbot.com/community/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

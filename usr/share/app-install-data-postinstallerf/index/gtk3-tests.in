@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gtk3-tests</b>'
+Comment='<span size="xx-large">Tests for the gtk3 package</span>'
+Comment3='
+The gtk3-tests package contains tests that can be used to verify
+the functionality of the installed gtk3 package.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

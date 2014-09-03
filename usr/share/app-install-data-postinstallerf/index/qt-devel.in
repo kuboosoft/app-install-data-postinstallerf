@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qt-devel</b>'
+Comment='<span size="xx-large">Development files for the Qt toolkit</span>'
+Comment3='
+This package contains the files necessary to develop
+applications using the Qt toolkit.  Includes
+Qt Linguist
+
+'
+License='(LGPLv2 with exceptions or GPLv3 with exceptions) and ASL 2.0 and BSD and FTL and MIT'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

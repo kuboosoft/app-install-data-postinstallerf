@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qt5-qtquickcontrols-doc</b>'
+Comment='<span size="xx-large">API documentation for qt5-qtquickcontrols</span>'
+Comment3='
+API documentation for qt5-qtquickcontrols.
+'
+License='BSD and (LGPLv2 with exceptions or GPLv3 with exceptions) and GFDL'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

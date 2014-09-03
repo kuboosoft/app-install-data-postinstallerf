@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ebumeter</b>'
+Comment='<span size="xx-large">Loudness measurement according to EBU-R128</span>'
+Comment3='
+Loudness measurement according to EBU-R128. Presented at LAC 2011
+(thanks to Joern Nettingsmeier!). The only documentation available
+at the moment are the paper, the presentation, slides and the video
+of the LAC 2011 session.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kokkinizita.linuxaudio.org/linuxaudio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

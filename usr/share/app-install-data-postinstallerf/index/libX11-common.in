@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libX11-common</b>'
+Comment='<span size="xx-large">Common data for libX11</span>'
+Comment3='
+libX11 common data
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

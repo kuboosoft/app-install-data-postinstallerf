@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lpg-java-compat</b>'
+Comment='<span size="xx-large">Compatibility Java runtime library for LPG 1.x</span>'
+Comment3='
+Compatibility Java runtime library for parsers generated with the LALR Parser
+Generator (LPG) 1.x.
+'
+License='EPL'
+Screenshot=''
+Url='http://lpg.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libreoffice-librelogo</b>'
+Comment='<span size="xx-large">LibreLogo scripting language</span>'
+Comment3='
+Enables LibreLogo scripting in Writer. LibreLogo is a Logo-like
+programming language with interactive vectorgraphics for education and
+DTP.
+'
+License='(MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and Artistic and MPLv2.0'
+Screenshot=''
+Url='http://www.libreoffice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

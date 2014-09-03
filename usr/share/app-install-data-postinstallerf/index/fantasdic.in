@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fantasdic</b>'
+Comment='<span size="xx-large">Dictionary application using Ruby</span>'
+Comment3='
+Fantasdic is a dictionary application. It allows to look up words in
+various dictionary sources. It is primarily targetting the GNOME
+desktop but it should work with other platforms, including Windows.
+Fantasdic is Free Software.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/projects/fantasdic/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

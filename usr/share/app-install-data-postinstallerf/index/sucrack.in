@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>sucrack</b>'
+Comment='<span size="xx-large">A su cracker</span>'
+Comment3='
+sucrack is a multithreaded Linux/UNIX tool for brute-force cracking local user
+accounts via su. This tool comes in handy as final instance on a system where
+you have not to many privileges but you are in the wheel group. Many su
+implementations require a pseudo terminal to be attached in order to take the
+password from the user. This is why you couldnt just use a simple shell script
+to do this work. This tool, written in c, is highly efficient and can attempt
+multiple logins at the same time. Please be advised that using this tool will
+take a lot of the CPU performance and fill up the logs quite quickly.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.leidecker.info/projects/sucrack.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

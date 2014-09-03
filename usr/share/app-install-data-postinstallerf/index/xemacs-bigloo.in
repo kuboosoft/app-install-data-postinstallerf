@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xemacs-bigloo</b>'
+Comment='<span size="xx-large">Compiled elisp files to run Bigloo under XEmacs</span>'
+Comment3='
+This package contains the byte compiled elisp files to run Bigloo
+with XEmacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www-sop.inria.fr/mimosa/fp/Bigloo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

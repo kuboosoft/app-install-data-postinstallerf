@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-spruz-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-spruz</span>'
+Comment3='
+This package contains the documentation files for
+rubygem-spruz.
+'
+License='MIT'
+Screenshot=''
+Url='http://flori.github.com/spruz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

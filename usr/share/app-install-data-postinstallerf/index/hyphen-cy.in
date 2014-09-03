@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-cy</b>'
+Comment='<span size="xx-large">Welsh hyphenation rules</span>'
+Comment3='
+Welsh hyphenation rules.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/tex-hyphen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

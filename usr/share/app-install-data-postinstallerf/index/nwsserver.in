@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>nwsserver</b>'
+Comment='<span size="xx-large">NetWorkSpaces Server for clustering of scripting languages</span>'
+Comment3='
+NetWorkSpaces (NWS) is a powerful, open-source software package that makes it
+easy to use clusters from within scripting languages like Python, R, and
+Matlab. It uses a Space-based approach that makes it easier to write
+distributed applications. NWS looks and feels like a conventional workspace
+in the base scripting language, enables network script processes to share
+data, provides general distributed/parallel script execution, runs network
+script processes either uncoupled or coordinated, and dramatically increases
+developer productivity in implementing and maintaining distributed
+applications because of its anonymous communication.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lindaspaces.com/products/NWS_overview.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

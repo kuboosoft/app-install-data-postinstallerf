@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-interceptor-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jboss-interceptor</span>'
+Comment3='
+This package contains the API documentation for jboss-interceptor.
+'
+License='ASL 2.0 and LGPLv2.1+'
+Screenshot=''
+Url='http://www.jboss.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

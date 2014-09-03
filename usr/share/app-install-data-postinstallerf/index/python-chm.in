@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-chm</b>'
+Comment='<span size="xx-large">Python package for CHM files handling</span>'
+Comment3='
+The python chm package provides three modules, chm, chmlib and extra,
+which provide access to the API implemented by the C library chmlib
+and some additional classes and functions. They are used to access
+MS-ITSS encoded files - Compressed Html Help files (.chm).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnochm.sourceforge.net/pychm.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>smc-raghumalayalam-fonts</b>'
+Comment='<span size="xx-large">Open Type Fonts for Malayalam script</span>'
+Comment3='
+The SMC Malayalam fonts package contains fonts for the display of
+new Malayalam Scripts.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/smc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jtoaster</b>'
+Comment='<span size="xx-large">Java utility class for swing applications</span>'
+Comment3='
+Java Toaster is a java utility class for your swing applications
+that show an animate box coming from the bottom of your screen
+with a notification message and/or an associated image (like MSN
+online/offline notifications).
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://jtoaster.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

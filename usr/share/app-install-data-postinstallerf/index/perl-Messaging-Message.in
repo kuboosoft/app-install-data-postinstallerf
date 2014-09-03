@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Messaging-Message</b>'
+Comment='<span size="xx-large">Abstraction of a message</span>'
+Comment3='
+This module provides an abstraction of a "message", as used in messaging,
+see for instance http//en.wikipedia.org/wiki/Enterprise_messaging_system.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Messaging-Message/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

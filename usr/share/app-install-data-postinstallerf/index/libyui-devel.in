@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libyui-devel</b>'
+Comment='<span size="xx-large">Files needed for developing with libyui</span>'
+Comment3='
+libyui can be used independently of YaST for generic (C++) applications
+and has very few dependencies.
+
+'
+License='(LGPLv2 or LGPLv3) and MIT'
+Screenshot=''
+Url='https://github.com/libyui/libyui'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

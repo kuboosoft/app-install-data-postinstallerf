@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>netbeans-platform-harness</b>'
+Comment='<span size="xx-large">Build harness for NetBeans Platform</span>'
+Comment3='
+Harness with build scripts and ant tasks for everyone who
+build an application on top of NetBeans Platform
+'
+License='GPLv2 with exceptions or CDDL'
+Screenshot=''
+Url='http://platform.netbeans.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

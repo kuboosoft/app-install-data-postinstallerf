@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libbsd-ctor-static</b>'
+Comment='<span size="xx-large">Development files for libbsd</span>'
+Comment3='
+The libbsd-ctor static library is required if setproctitle() is to be used
+when libbsd is loaded via dlopen() from a threaded program.  This can be
+
+'
+License='BSD and ISC and Copyright only and Public Domain'
+Screenshot=''
+Url='http://libbsd.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

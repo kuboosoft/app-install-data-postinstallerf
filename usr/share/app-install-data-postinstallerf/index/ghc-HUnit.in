@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-HUnit</b>'
+Comment='<span size="xx-large">Unit testing framework for Haskell</span>'
+Comment3='
+HUnit is a unit testing framework for Haskell, inspired by JUnit for Java.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/HUnit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

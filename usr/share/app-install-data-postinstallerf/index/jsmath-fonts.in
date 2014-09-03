@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jsmath-fonts</b>'
+Comment='<span size="xx-large">A collection of Math symbol fonts</span>'
+Comment3='
+A collection of Math symbol fonts.
+'
+License='Public domain'
+Screenshot=''
+Url='http://www.math.union.edu/~dpvc/jsmath/welcome.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

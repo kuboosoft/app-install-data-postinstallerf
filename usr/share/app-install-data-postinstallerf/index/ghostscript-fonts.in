@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghostscript-fonts</b>'
+Comment='<span size="xx-large">Fonts for the Ghostscript PostScript interpreter</span>'
+Comment3='
+Ghostscript-fonts contains a set of fonts that Ghostscript, a
+PostScript interpreter, uses to render text. These fonts are in
+addition to the fonts shared by Ghostscript and the X Window System.
+'
+License='GPLv2+ and Hershey and MIT and OFL and Public Domain'
+Screenshot=''
+Url='http://www.gnu.org/software/ghostscript/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

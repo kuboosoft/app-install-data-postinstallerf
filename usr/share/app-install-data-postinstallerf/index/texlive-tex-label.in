@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-tex-label</b>'
+Comment='<span size="xx-large">Place a classification on each page of a document</span>'
+Comment3='
+Enables the user to place a classification label on each
+page, at the bottom to the right of the page number
+
+date 2009-12-14 164724 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

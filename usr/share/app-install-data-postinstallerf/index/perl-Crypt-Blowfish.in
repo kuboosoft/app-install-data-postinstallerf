@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Crypt-Blowfish</b>'
+Comment='<span size="xx-large">XS Blowfish implementation for Perl</span>'
+Comment3='
+CryptBlowfish is an XS-based implementation of the Blowfish
+cryptography algorithm designed by Bruce Schneier. Its designed to
+take full advantage of CryptCBC when desired. Blowfish keys may be
+up to 448 bits (56 bytes) long.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-Blowfish/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

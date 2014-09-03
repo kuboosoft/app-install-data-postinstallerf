@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-demos</b>'
+Comment='<span size="xx-large">Demos for the Zend Framework</span>'
+Comment3='
+This package includes Zend Framework demos for the Feeds, Gdata, Mail, OpenId,
+Pdf, Search-Lucene and Services sub packages.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

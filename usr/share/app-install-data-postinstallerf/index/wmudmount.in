@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wmudmount</b>'
+Comment='<span size="xx-large">A WindowMaker filesystem mounting dockapp using udisks</span>'
+Comment3='
+wmudmount is a filesystem mounter that uses udisks to handle notification of
+new volumes and mounting of the filesystems as a non-root user. It also
+includes a mode to display the mounted filesystems with the least free space
+percentage.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/wmudmount/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

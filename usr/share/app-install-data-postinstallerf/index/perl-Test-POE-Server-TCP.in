@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-POE-Server-TCP</b>'
+Comment='<span size="xx-large">POE Component providing TCP server services for test cases</span>'
+Comment3='
+TestPOEServerTCP is a POE component that provides a TCP server
+framework for inclusion in client component test cases, instead of having
+to roll your own.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-POE-Server-TCP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>nodejs-ms</b>'
+Comment='<span size="xx-large">Tiny milliseconds conversion utility for Node.js</span>'
+Comment3='
+This module is a tiny milliseconds conversion utility for Node.js.
+
+It does the following
+ - If a number is supplied to ms, a string with a unit is returned.
+ - If a string that contains the number is supplied, it returns it as a
+   number (e.g it returns 100 for 100).
+ - If you pass a string with a number and a valid unit, the number of
+   equivalent milliseconds is returned.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/guille/ms.js/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

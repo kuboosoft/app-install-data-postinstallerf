@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-unicodenazi</b>'
+Comment='<span size="xx-large">Module that finds unicode/bytestring comparisons and other problems</span>'
+Comment3='
+A common source of unicode issues in python2 is that code mixes str and unicode
+and is valid for the cases the author tests for (because they only test with
+ASCII) but then throws an error when the code is used with non-ASCII strings.
+
+If enabled unicodenazi will complain when this mixing of unicode and byte str
+occurs.  Its annoying as hell, has a huge runtime impact on performance, and
+will also complain about most of the stuff in the Python standard library.  But
+it will point out some areas of your code that may traceback in python2 when
+given different data and make it easier to migrate to python3 where unicode and
+bytes no longer interoperate.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/unicode-nazi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

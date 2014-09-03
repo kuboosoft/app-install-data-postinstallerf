@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fox-doc</b>'
+Comment='<span size="xx-large">Documentation files for fox</span>'
+Comment3='
+This package contains some documentation files for
+fox.
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fox-toolkit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

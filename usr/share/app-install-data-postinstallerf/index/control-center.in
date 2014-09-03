@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>control-center</b>'
+Comment='<span size="xx-large">Utilities to configure the GNOME desktop</span>'
+Comment3='
+This package contains configuration utilities for the GNOME desktop, which
+allow to configure accessibility options, desktop fonts, keyboard and mouse
+properties, sound setup, desktop theme and background, user interface
+properties, screen resolution, and other settings.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

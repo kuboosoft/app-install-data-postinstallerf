@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-method</b>'
+Comment='<span size="xx-large">Typeset method and variable declarations</span>'
+Comment3='
+This LaTeX package supports the typesetting of programming
+language method and variable declarations. It includes an
+option to typeset in French.
+
+date 2010-03-14 234618 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

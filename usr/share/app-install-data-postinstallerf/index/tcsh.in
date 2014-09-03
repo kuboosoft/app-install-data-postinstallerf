@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tcsh</b>'
+Comment='<span size="xx-large">An enhanced version of csh, the C shell</span>'
+Comment3='
+Tcsh is an enhanced but completely compatible version of csh, the C
+shell.  Tcsh is a command language interpreter which can be used both
+as an interactive login shell and as a shell script command processor.
+Tcsh includes a command line editor, programmable word completion,
+spelling correction, a history mechanism, job control and a C language
+like syntax.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.tcsh.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

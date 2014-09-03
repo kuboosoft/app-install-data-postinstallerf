@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gallery2-ecard</b>'
+Comment='<span size="xx-large">Ecard module for Gallery 2</span>'
+Comment3='
+Gallery 2 module - Support for e-card albums
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gallery.menalto.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

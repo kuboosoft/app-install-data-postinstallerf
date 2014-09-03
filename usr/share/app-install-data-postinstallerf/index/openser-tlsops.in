@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openser-tlsops</b>'
+Comment='<span size="xx-large">TLS-relating functions for the OpenSER</span>'
+Comment3='
+The openser-tlsops package implements TLS related functions to use in the
+routing script, and exports pseudo variables with certificate and TLS
+parameters.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

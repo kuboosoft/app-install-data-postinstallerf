@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>vala-compat-tools</b>'
+Comment='<span size="xx-large">Tools for creating projects and bindings for vala-compat</span>'
+Comment3='
+Vala is a new programming language that aims to bring modern programming
+language features to GNOME developers without imposing any additional
+runtime requirements and without using a different ABI compared to
+applications and libraries written in C.
+
+This package contains tools to generate Vala projects, as well as API
+bindings from existing C libraries, allowing access from Vala programs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/Vala'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

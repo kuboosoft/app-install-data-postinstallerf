@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-envisage-doc</b>'
+Comment='<span size="xx-large">Documentation for python-envisage</span>'
+Comment3='
+Documentation and examples for python-envisage
+'
+License='BSD and CC-BY-SA'
+Screenshot=''
+Url='http://code.enthought.com/projects/envisage/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

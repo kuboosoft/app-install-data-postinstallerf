@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pdftk</b>'
+Comment='<span size="xx-large">The PDF Tool Kit</span>'
+Comment3='
+If PDF is electronic paper, then pdftk is an electronic staple-remover,
+hole-punch, binder, secret-decoder-ring, and X-Ray-glasses. Pdftk is a simple
+tool for doing everyday things with PDF documents. Keep one in the top drawer
+of your desktop and use it to
+
+   * Merge PDF Documents
+   * Split PDF Pages into a New Document
+   * Decrypt Input as Necessary (Password Required)
+   * Encrypt Output as Desired
+   * Burst a PDF Document into Single Pages
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

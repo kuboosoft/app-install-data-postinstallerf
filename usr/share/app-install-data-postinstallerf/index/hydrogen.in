@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>hydrogen</b>'
+Comment='<span size="xx-large">Advanced drum machine for GNU/Linux</span>'
+Comment3='
+Hydrogen is an advanced drum machine for GNU/Linux. Its main goal is to bring
+professional yet simple and intuitive pattern-based drum programming.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.hydrogen-music.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

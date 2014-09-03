@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libopensync-plugin-gnokii</b>'
+Comment='<span size="xx-large">Gnokii plugin for libopensync</span>'
+Comment3='
+Gnokii plugin for use with libopensync.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.opensync.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

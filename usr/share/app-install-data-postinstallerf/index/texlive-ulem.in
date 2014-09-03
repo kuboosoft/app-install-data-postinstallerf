@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-ulem</b>'
+Comment='<span size="xx-large">Package for underlining</span>'
+Comment3='
+The package provides an \ul (underline) command which will
+break over line ends; this technique may be used to replace \em
+(both in that form and as the \emph command), so as to make
+output look as if it comes from a typewriter. The package also
+offers double and wavy underlining, and striking out (line
+through words) and crossing out (/// over words). The package
+works with both Plain TeX and LaTeX.
+
+date 2012-06-01 114310 +0200
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

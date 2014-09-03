@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-plibc</b>'
+Comment='<span size="xx-large">MinGW package for plibc</span>'
+Comment3='
+plibc - POSIX compliant libc extension for Windows
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://plibc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-chownr</b>'
+Comment='<span size="xx-large">Changes file permissions recursively</span>'
+Comment3='
+Changes file permissions recursively, like `chown -R`.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/isaacs/chownr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

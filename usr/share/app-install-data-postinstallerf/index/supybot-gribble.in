@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>supybot-gribble</b>'
+Comment='<span size="xx-large">Cross-platform support bot based on supybot</span>'
+Comment3='
+gribble is an enhanced supybot, with many fixes and updates
+to the original supybot code base. Gribble brings many
+plug-ins to fedora by adding sqlite2 support to many of the
+supybot plug-ins. Python-twisted is highly recommended.
+'
+License='BSD and GPLv2 and Python'
+Screenshot=''
+Url='http://sourceforge.net/apps/mediawiki/gribble/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

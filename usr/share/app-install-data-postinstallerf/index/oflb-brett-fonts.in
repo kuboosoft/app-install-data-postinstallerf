@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>oflb-brett-fonts</b>'
+Comment='<span size="xx-large">A handwriting font</span>'
+Comment3='
+A handwriting font made by Brett Alton.
+'
+License='OFL'
+Screenshot=''
+Url='http://openfontlibrary.org/media/files/brettalton/205'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

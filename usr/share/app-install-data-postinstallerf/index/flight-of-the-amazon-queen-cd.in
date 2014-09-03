@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>flight-of-the-amazon-queen-cd</b>'
+Comment='<span size="xx-large">Flight of the Amazon Queen - Adventure Game - CD version</span>'
+Comment3='
+It is 1949 and you play Joe King, pilot for hire with his small private plane
+the Amazon Queen. The game is a spoof of old timey radio adventure serials,
+and as it begins we find Joe in one of those typical situations. It is 1158
+and 36 seconds and counting, Joe and his date are tied up in an abandoned
+warehouse ("you really know how to show a girl a good time, Joe!"), and a bomb
+is set to go off at midnight!
+
+Of course they escape, in the nick of time, and immediately set us up for the
+next adventure. Joe suddenly remembers that he is scheduled to fly the famous
+movie star, Faye Russell, to a photo shoot in the Amazon jungle the next
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://www.scummvm.org/downloads.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

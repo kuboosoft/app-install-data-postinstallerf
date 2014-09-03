@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>drupal6-fivestar</b>'
+Comment='<span size="xx-large">Enables fivestar ratings on content, users, etc</span>'
+Comment3='
+The Fivestar voting module adds a clean, attractive voting widget to nodes and
+comments and any entity. It features
+* jQuery rollover effects and AJAX no-reload voting
+* Configurable star sets
+* Graceful degradation to an HTML rating form when JavaScript is turned off
+* Support for anonymous voters
+* Spam protection to keep users from filling your DB with bogus votes
+* Easy-to-use integration with Views module for lists sorted by rating, or
+      filtered by min/max ratings
+* A Fivestar CCK field for use in custom node types
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/fivestar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

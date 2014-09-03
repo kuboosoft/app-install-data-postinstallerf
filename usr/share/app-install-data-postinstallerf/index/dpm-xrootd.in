@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dpm-xrootd</b>'
+Comment='<span size="xx-large">XROOT interface to the Disk Pool Manager (DPM)</span>'
+Comment3='
+This package contains plugins for XROOTD to allow it to provide
+access to DPM managed storage via the XROOT protocol.
+
+'
+License='GPLv3'
+Screenshot=''
+Url='http://svnweb.cern.ch/trac/lcgdm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

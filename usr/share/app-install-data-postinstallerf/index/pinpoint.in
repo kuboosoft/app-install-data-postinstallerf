@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pinpoint</b>'
+Comment='<span size="xx-large">A tool for making hackers do excellent presentations</span>'
+Comment3='
+Pinpoint a simple presentation tool that hopes to avoid audience death
+by bullet point and instead encourage presentations containing
+beautiful images and small amounts of concise text in slides.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://live.gnome.org/Pinpoint'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

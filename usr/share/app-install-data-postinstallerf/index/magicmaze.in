@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>magicmaze</b>'
+Comment='<span size="xx-large">Board game featuring a maze which the players change each turn</span>'
+Comment3='
+The board of the game is a complicated maze. You see reddish squares, which are
+walls, and black lanes, which are walkable. Also you see brightly coloured
+(humanoid) figures and little circles. The figures are the players, and the
+rounds are coins which the players must collect.
+
+Each player gets a turn. In the beginning of your turn, you get to change the
+maze. You can see a small piece of maze "sticking out" of the board. You can
+make that piece move around the board an rotate it. When you are done the
+piece is pushed in the maze, thus making a whole column or row of the maze
+shift. If you do this in a clever way, new passages open up, hopefully leading
+'
+License='zlib and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.helixsoft.nl/project_page.php?file_name=magicmaze.proj'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

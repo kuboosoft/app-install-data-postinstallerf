@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>emacs-mew-el</b>'
+Comment='<span size="xx-large">Elisp source files for Mew under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for Mew under GNU Emacs. You
+do not need to install this package to run Mew. Install the emacs-mew
+package to use Mew with GNU Emacs.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.mew.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

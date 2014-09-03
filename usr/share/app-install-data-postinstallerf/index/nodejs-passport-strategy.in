@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nodejs-passport-strategy</b>'
+Comment='<span size="xx-large">An abstract class implementing Passports strategy API</span>'
+Comment3='
+This module exports an abstract Strategy class that is intended to be
+subclassed when implementing concrete authentication strategies. Once
+implemented, such strategies can be used by applications that utilize
+Passport middleware for authentication.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jaredhanson/passport-strategy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

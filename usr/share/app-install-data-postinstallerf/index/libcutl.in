@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcutl</b>'
+Comment='<span size="xx-large">C++ utility library from Code Synthesis</span>'
+Comment3='
+libcutl is a C++ utility library. It contains a collection of generic and
+fairly independent components.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.codesynthesis.com/projects/libcutl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>lua-wsapi</b>'
+Comment='<span size="xx-large">Lua Web Server API</span>'
+Comment3='
+WSAPI is an API that abstracts the web server from Lua web applications. By
+coding against WSAPI your application can run on any of the supported servers
+and interfaces (currently CGI, FastCGI and Xavante, on Windows and UNIX-based
+systems).
+
+WSAPI provides a set of helper libraries that help with request processing
+and output buffering. You can also write applications that act as filters that
+provide some kind of service to other applications, such as authentication,
+file uploads, request isolation, or multiplexing.
+'
+License='MIT'
+Screenshot=''
+Url='http://keplerproject.github.com/wsapi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-diameter</b>'
+Comment='<span size="xx-large">Diameter (RFC 3588) library</span>'
+Comment3='
+Diameter (RFC 3588) library
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

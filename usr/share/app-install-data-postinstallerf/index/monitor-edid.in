@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>monitor-edid</b>'
+Comment='<span size="xx-large">Tool for probing and parsing monitor EDID</span>'
+Comment3='
+Monitor-edid is a tool for probing and parsing Extended display
+identification data (EDID) from monitors.
+For more information about EDID, see http//en.wikipedia.org/wiki/EDID
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.mandriva.com/en/Tools/monitor-edid'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

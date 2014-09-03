@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>openstack-nova-common</b>'
+Comment='<span size="xx-large">Components common to all OpenStack Nova services</span>'
+Comment3='
+OpenStack Compute (codename Nova) is open source software designed to
+provision and manage large networks of virtual machines, creating a
+redundant and scalable cloud computing platform. It gives you the
+software, control panels, and APIs required to orchestrate a cloud,
+including running instances, managing networks, and controlling access
+through users and projects. OpenStack Compute strives to be both
+hardware and hypervisor agnostic, currently supporting a variety of
+standard hardware configurations and seven major hypervisors.
+
+This package contains scripts, config and dependencies shared
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://openstack.org/projects/compute/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

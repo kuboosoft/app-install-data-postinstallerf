@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>tbb</b>'
+Comment='<span size="xx-large">The Threading Building Blocks library abstracts low-level threading details</span>'
+Comment3='
+Threading Building Blocks (TBB) is a C++ runtime library that
+abstracts the low-level threading details necessary for optimal
+multi-core performance.  It uses common C++ templates and coding style
+to eliminate tedious threading implementation work.
+
+TBB requires fewer lines of code to achieve parallelism than other
+threading models.  The applications you write are portable across
+platforms.  Since the library is also inherently scalable, no code
+maintenance is required as more processor cores become available.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://threadingbuildingblocks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

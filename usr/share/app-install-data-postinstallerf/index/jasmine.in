@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jasmine</b>'
+Comment='<span size="xx-large">A Behavior-Driven Development (BDD) testing framework for JavaScript</span>'
+Comment3='
+Jasmine is a Behavior-Driven Development (BDD) testing framework for
+JavaScript. It does not rely on browsers, DOM, or any JavaScript framework.
+Thus its suited for websites, Node.js projects, or anywhere that
+JavaScript can run.
+'
+License='MIT'
+Screenshot=''
+Url='http://pivotal.github.com/jasmine/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

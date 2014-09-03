@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>samba-winbind</b>'
+Comment='<span size="xx-large">Samba winbind</span>'
+Comment3='
+The samba-winbind package provides the winbind NSS library, and some
+client tools.  Winbind enables Linux to be a full member in Windows
+domains and to use Windows user and group accounts on Linux.
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

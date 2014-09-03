@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Module-Build-Tiny</b>'
+Comment='<span size="xx-large">A tiny replacement for Module::Build</span>'
+Comment3='
+Many Perl distributions use a Build.PL file instead of a Makefile.PL file to
+drive distribution configuration, build, test and installation. Traditionally,
+Build.PL uses ModuleBuild as the underlying build system. This module
+provides a simple, lightweight, drop-in replacement.
+
+Whereas ModuleBuild has over 6,700 lines of code; this module has less than
+70, yet supports the features needed by most pure-Perl distributions.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://github.com/Leont/module-build-tiny'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

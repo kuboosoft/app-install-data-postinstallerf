@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-weberror</b>'
+Comment='<span size="xx-large">Web Error handling and exception catching middleware</span>'
+Comment3='
+WebError is WSGI middleware that performs error handling and exception
+catching.
+'
+License='MIT and ZPLv2.0 and (MIT or GPLv2)'
+Screenshot=''
+Url='http://pypi.python.org/pypi/WebError'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

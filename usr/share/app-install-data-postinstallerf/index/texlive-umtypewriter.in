@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-umtypewriter</b>'
+Comment='<span size="xx-large">Fonts to typeset with the xgreek package</span>'
+Comment3='
+The UMTypewriter font family is a monospaced font family that
+was built from glyphs from the CB Greek fonts, the CyrTUG
+Cyrillic alphabet fonts ("LH"), and the standard Computer
+Modern font family. It contains four OpenType fonts which are
+required for use of the xgreek package for XeLaTeX.
+
+date 2009-07-23 154558 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

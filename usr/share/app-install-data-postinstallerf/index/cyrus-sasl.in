@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cyrus-sasl</b>'
+Comment='<span size="xx-large">The Cyrus SASL library</span>'
+Comment3='
+The cyrus-sasl package contains the Cyrus implementation of SASL.
+SASL is the Simple Authentication and Security Layer, a method for
+adding authentication support to connection-based protocols.
+
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://asg.web.cmu.edu/sasl/sasl-library.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

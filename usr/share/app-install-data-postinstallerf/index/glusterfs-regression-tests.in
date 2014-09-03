@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>glusterfs-regression-tests</b>'
+Comment='<span size="xx-large">Development Tools</span>'
+Comment3='
+The Gluster Test Framework, is a suite of scripts used for
+regression testing of Gluster.
+'
+License='GPLv2 or LGPLv3+'
+Screenshot=''
+Url='http://www.gluster.org/docs/index.php/GlusterFS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

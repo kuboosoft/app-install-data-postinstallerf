@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xfce4-fsguard-plugin</b>'
+Comment='<span size="xx-large">Filesystem-Guard plugin for the Xfce panel</span>'
+Comment3='
+A little Xfce plugin, which checks the free space on the chosen mountpoint
+frequently. It displays 4 different icons and a message box, depending on the
+free space. The amount of free disk space is visible in a tooltip. If you
+left-click on its icon, it opens the mountpoint directory in the file manager.
+'
+License='BSD'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-fsguard-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python3-pygments</b>'
+Comment='<span size="xx-large">Syntax highlighting engine written in Python 3</span>'
+Comment3='
+Pygments is a generic syntax highlighter for general use in all kinds
+of software such as forum systems, wikis or other applications that
+need to prettify source code. Highlights are
+
+  * a wide range of common languages and markup formats is supported
+  * special attention is paid to details that increase highlighting
+    quality
+  * support for new languages and formats are added easily; most
+    languages use a simple regex-based lexing mechanism
+  * a number of output formats is available, among them HTML, RTF,
+'
+License='BSD'
+Screenshot=''
+Url='http://pygments.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

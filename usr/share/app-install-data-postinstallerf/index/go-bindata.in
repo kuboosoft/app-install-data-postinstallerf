@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>go-bindata</b>'
+Comment='<span size="xx-large">A small utility which generates Go code from any file</span>'
+Comment3='
+A small utility which generates Go code from any file
+
+This tool converts any file into managable Go source code. Useful for
+embedding binary data into a go program. The file data is optionally gzip
+compressed before being converted to a raw byte slice.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jteeuwen/go-bindata'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

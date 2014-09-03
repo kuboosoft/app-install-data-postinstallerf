@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-chess-problem-diagrams</b>'
+Comment='<span size="xx-large">A package for typesetting chess problem diagrams</span>'
+Comment3='
+This package provides macros to typeset chess problem diagrams
+including fairy chess problems (mostly using rotated images of
+pieces) and other boards.
+
+date 2013-06-22 234137 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

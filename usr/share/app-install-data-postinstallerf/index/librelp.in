@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>librelp</b>'
+Comment='<span size="xx-large">The Reliable Event Logging Protocol library</span>'
+Comment3='
+Librelp is an easy to use library for the RELP protocol. RELP (stands
+for Reliable Event Logging Protocol) is a general-purpose, extensible
+logging protocol.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.rsyslog.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

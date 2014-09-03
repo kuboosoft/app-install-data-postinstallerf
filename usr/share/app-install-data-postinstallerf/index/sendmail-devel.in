@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sendmail-devel</b>'
+Comment='<span size="xx-large">Extra development include files and development files</span>'
+Comment3='
+Include files and devel libraries for e.g. the milter add-ons as part
+of sendmail.
+
+'
+License='Sendmail'
+Screenshot=''
+Url='http://www.sendmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

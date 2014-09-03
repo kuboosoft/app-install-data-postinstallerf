@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fedmsg-relay</b>'
+Comment='<span size="xx-large">The FedMsg Relay</span>'
+Comment3='
+This package contains configuration and init scripts for the FedMsg relay.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://github.com/ralphbean/fedmsg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

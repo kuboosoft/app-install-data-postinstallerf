@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mojarra-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for mojarra</span>'
+Comment3='
+This package contains the API documentation for mojarra.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://javaserverfaces.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

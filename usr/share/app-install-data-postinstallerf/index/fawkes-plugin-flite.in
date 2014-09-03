@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-flite</b>'
+Comment='<span size="xx-large">Fawkes Flite speech synthesis plugin</span>'
+Comment3='
+This package contains a Fawkes plugin that integrates the flite speech
+synthesis engine.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

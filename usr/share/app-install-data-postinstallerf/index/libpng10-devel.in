@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libpng10-devel</b>'
+Comment='<span size="xx-large">Development tools for version 1.0 of libpng</span>'
+Comment3='
+The libpng10-devel package contains the header files necessary for developing
+programs using version 1.0 of the PNG (Portable Network Graphics) library.
+
+If you want to develop programs that will manipulate PNG image format files,
+while still running on previous old Linux releases, you should install
+libpng10-devel.
+'
+License='zlib'
+Screenshot=''
+Url='http://www.libpng.org/pub/png/libpng.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

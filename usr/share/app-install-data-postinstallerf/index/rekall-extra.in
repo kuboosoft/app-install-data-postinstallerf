@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rekall-extra</b>'
+Comment='<span size="xx-large">Rekall Extra Stuff Plugin</span>'
+Comment3='
+Rekall Extra Stuff Plugin.
+
+URL          http//www.rekallrevealed.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.rekallrevealed.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

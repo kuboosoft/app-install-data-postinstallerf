@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gitosis</b>'
+Comment='<span size="xx-large">Git repository hosting application</span>'
+Comment3='
+Gitosis aims to make hosting git repos easier and safer. It manages
+multiple repositories under one user account, using SSH keys to identify
+users. End users do not need shell accounts on the server, they will talk
+to one shared account that will not let them run arbitrary commands.
+'
+License='GPL+'
+Screenshot=''
+Url='http://eagain.net/gitweb/?p=gitosis.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

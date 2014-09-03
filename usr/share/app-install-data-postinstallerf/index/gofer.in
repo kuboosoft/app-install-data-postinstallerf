@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gofer</b>'
+Comment='<span size="xx-large">A lightweight, extensible python agent</span>'
+Comment3='
+Gofer provides an extensible, light weight, universal python agent.
+The gofer core agent is a python daemon (service) that provides
+infrastructure for exposing a remote API and for running Recurring
+Actions. The APIs contributed by plug-ins are accessible by Remote
+Method Invocation (RMI). The transport for RMI is AMQP using the
+QPID message broker. Actions are also provided by plug-ins and are
+executed at the specified interval.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/gofer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

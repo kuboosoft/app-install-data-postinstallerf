@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nhn-nanum-pen-fonts</b>'
+Comment='<span size="xx-large">Nanum fonts Pen font faces</span>'
+Comment3='
+
+Nanum fonts are collection of commonly-used Myeongjo and Gothic Korean
+font families, designed by Sandoll Communication and Fontrix. The
+publisher is NHN Corporation.
+This package consists of the Nanum fonts Pen font faces.
+'
+License='OFL'
+Screenshot=''
+Url='http://hangeul.naver.com/share.nhn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-rviewport</b>'
+Comment='<span size="xx-large">Relative Viewport for Graphics Inclusion</span>'
+Comment3='
+Package graphicx provides a useful keyword viewport which
+allows to show just a part of an image. However, one needs to
+put there the actual coordinates of the viewport window.
+Sometimes it is useful to have relative coordinates as
+fractions of natural size. For example, one may want to print a
+large image on a spread, putting a half on a verso page, and
+another half on the next recto page. For this one would need a
+viewport occupying exactly one half of the files bounding box,
+whatever the actual width of the image may be. This package
+adds a new keyword rviewport to the graphicx package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

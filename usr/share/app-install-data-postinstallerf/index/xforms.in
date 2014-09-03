@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>xforms</b>'
+Comment='<span size="xx-large">XForms toolkit library</span>'
+Comment3='
+XForms is a GUI toolkit based on Xlib for X Window Systems. It
+features a rich set of objects, such as buttons, sliders, and menus
+etc. integrated into an easy and efficient object/event callback
+execution model that allows fast and easy construction of
+X-applications. In addition, the library is extensible and new objects
+can easily be created and added to the library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://xforms-toolkit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

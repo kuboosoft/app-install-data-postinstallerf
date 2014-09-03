@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>dia-Digital</b>'
+Comment='<span size="xx-large">Dia Digital IC logic shapes</span>'
+Comment3='
+The following shapes are included in the package
+ * Buffer
+ * Inverter
+ * AND
+ * NAND
+ * OR
+ * NOR
+ * XOR
+ * XNOR
+ * Multiplexer/Demultiplexer
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dia-installer.de/shapes/digital/index_en.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

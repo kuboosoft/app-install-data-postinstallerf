@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-ezc-AuthenticationDatabaseTiein</b>'
+Comment='<span size="xx-large">Provides a Database filter for the Authentication component</span>'
+Comment3='
+The purpose of the Authentication component is to provide support for different
+means of identification and authentication of users using different providers
+and protocols.
+
+AuthenticationDatabaseTiein provides a Database filter for the Authentication
+component by using the Database component, and an implementation of a database
+store (backend) for OpenID authentication.
+'
+License='BSD'
+Screenshot=''
+Url='http://ezcomponents.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

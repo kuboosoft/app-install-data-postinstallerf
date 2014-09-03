@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>R-RM2</b>'
+Comment='<span size="xx-large">Revenue Management and Pricing for R</span>'
+Comment3='
+RM2 is a simple package that implements functions
+used in revenue management and pricing environments.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/RM2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

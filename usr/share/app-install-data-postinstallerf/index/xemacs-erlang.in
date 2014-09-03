@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xemacs-erlang</b>'
+Comment='<span size="xx-large">Compiled elisp files for erlang-mode under XEmacs</span>'
+Comment3='
+Erlang mode for XEmacs.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

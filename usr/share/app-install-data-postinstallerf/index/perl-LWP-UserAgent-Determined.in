@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-LWP-UserAgent-Determined</b>'
+Comment='<span size="xx-large">Virtual browser that retries errors</span>'
+Comment3='
+This class works just like LWPUserAgent (and is based on it, by being a
+subclass of it), except that when you use it to get a web page but run into
+a possibly-temporary error (like a DNS lookup timeout), itll wait a few
+seconds and retry a few times.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/LWP-UserAgent-Determined/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fence-sanlock</b>'
+Comment='<span size="xx-large">Fence agent using sanlock and wdmd</span>'
+Comment3='
+The fence-sanlock package contains the fence agent and
+daemon for using sanlock and wdmd as a cluster fence agent.
+'
+License='GPLv2 and GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/sanlock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

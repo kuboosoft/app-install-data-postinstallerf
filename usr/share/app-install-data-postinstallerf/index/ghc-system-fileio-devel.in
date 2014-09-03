@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-system-fileio-devel</b>'
+Comment='<span size="xx-large">Haskell system-fileio library development files</span>'
+Comment3='
+This package provides the Haskell system-fileio library development files.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/system-fileio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

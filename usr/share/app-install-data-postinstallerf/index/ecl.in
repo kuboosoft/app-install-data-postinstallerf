@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ecl</b>'
+Comment='<span size="xx-large">Embeddable Common-Lisp</span>'
+Comment3='
+ECL (Embeddable Common Lisp) is an implementation of the Common Lisp
+language as defined by the ANSI X3J13 specification.  ECL features a
+bytecode compiler and interpreter, the ability to build standalone
+executables and libraries, and extensions such as ASDF, sockets, and
+Gray streams.
+
+'
+License='LGPLv2+ and BSD and MIT and Public Domain'
+Screenshot=''
+Url='http://ecls.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

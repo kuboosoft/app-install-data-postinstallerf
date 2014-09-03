@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-migrate</b>'
+Comment='<span size="xx-large">Schema migration tools for SQLAlchemy</span>'
+Comment3='
+Schema migration tools for SQLAlchemy designed to support an agile approach
+to database design and make it easier to keep development and production
+databases in sync as schema changes are required.  It allows you to manage
+database change sets and database repository versioning.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/sqlalchemy-migrate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

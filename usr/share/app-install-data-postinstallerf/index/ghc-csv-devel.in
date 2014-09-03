@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-csv-devel</b>'
+Comment='<span size="xx-large">Haskell csv library development files</span>'
+Comment3='
+This package provides the Haskell csv library development files.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/csv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

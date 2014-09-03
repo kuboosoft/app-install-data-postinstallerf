@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>ros-release</b>'
+Comment='<span size="xx-large">Robot Operating System release files</span>'
+Comment3='
+'
+License='BSD'
+Screenshot=''
+Url='http://www.ros.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

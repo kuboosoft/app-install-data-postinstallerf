@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>voro++-devel</b>'
+Comment='<span size="xx-large">voro++ headers</span>'
+Comment3='
+Header files for voro++.
+
+URL          http//math.lbl.gov/voro++/
+'
+License='LBNL BSD'
+Screenshot=''
+Url='http://math.lbl.gov/voro++/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

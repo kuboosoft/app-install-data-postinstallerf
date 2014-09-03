@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-cairo-gobject</b>'
+Comment='<span size="xx-large">Ruby binding of cairo-gobject</span>'
+Comment3='
+Ruby/CairoGObject is a Ruby binding of cairo-gobject.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

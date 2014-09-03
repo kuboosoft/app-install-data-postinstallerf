@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-libmpd</b>'
+Comment='<span size="xx-large">Haskell MPD client library</span>'
+Comment3='
+A client library for MPD, the Music Player Daemon (<http//www.musicpd.org/>).
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://hackage.haskell.org/package/libmpd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

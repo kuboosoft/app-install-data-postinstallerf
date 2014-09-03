@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-gettext</b>'
+Comment='<span size="xx-large">Erlang internationalization library</span>'
+Comment3='
+Erlang internationalization library.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/etnt/gettext'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

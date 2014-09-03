@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ripmime</b>'
+Comment='<span size="xx-large">Extract attachments out of a MIME encoded email packages</span>'
+Comment3='
+ripMIME extract attachments out of a MIME encoded email packages.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.pldaniels.com/ripmime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

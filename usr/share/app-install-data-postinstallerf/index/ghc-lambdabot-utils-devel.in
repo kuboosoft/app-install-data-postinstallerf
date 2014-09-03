@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-lambdabot-utils-devel</b>'
+Comment='<span size="xx-large">Haskell lambdabot-utils library development files</span>'
+Comment3='
+This package provides the Haskell lambdabot-utils library development
+files.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hackage.haskell.org/package/lambdabot-utils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

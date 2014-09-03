@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-eskd</b>'
+Comment='<span size="xx-large">Modern Russian typesetting</span>'
+Comment3='
+The class offers modern Russian text formatting, in accordance
+with accepted design standards. Fonts not (apparently)
+available on CTAN are required for use of the class.
+
+date 2007-02-14 085740 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

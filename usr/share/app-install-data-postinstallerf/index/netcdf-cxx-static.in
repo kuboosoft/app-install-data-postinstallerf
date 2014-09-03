@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netcdf-cxx-static</b>'
+Comment='<span size="xx-large">Static libraries for legacy netCDF C++ library</span>'
+Comment3='
+This package contains the netCDF static libraries.
+
+URL          http//www.unidata.ucar.edu/software/netcdf/
+'
+License='NetCDF'
+Screenshot=''
+Url='http://www.unidata.ucar.edu/software/netcdf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

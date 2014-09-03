@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>odt2txt</b>'
+Comment='<span size="xx-large">Converts an OpenDocument to plain text</span>'
+Comment3='
+
+odt2txt is a command-line tool which extracts the text out of
+OpenDocument Texts produced by OpenOffice.org, StarOffice, KOffice and
+others.
+odt2txt is ...
+* small
+* supports multiple output encodings
+* adopts to your locale
+'
+License='GPLv2'
+Screenshot=''
+Url='http://stosberg.net/odt2txt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

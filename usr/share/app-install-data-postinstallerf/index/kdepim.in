@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>kdepim</b>'
+Comment='<span size="xx-large">KDE PIM (Personal Information Manager) applications</span>'
+Comment3='
+KDE PIM (Personal Information Manager) applications, including
+* akregator feed aggregator
+* blogilo blogging application, focused on simplicity and usability
+* kmail email client
+* knode newsreader
+* knotes sticky notes for the desktop
+* kontact integrated PIM management
+* korganizer journal, appointments, events, todos
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

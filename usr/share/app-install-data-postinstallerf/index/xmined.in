@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xmined</b>'
+Comment='<span size="xx-large">Graphical interface using Xterm of Mined text editor</span>'
+Comment3='
+Mined is the first text editor that provided Unicode support in a plain-text
+terminal. It now has both extensive Unicode and CJK support offering
+many specific features and covering special cases that other editors
+are not aware of (like auto-detection features and automatic handling of
+terminal variations or Han character information). Basically, it is an
+editor tailored to efficient editing of plain text documents and
+programs with features and interactive behavior designed for this
+purpose.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://towo.net/mined/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

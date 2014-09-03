@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sugar-yupana</b>'
+Comment='<span size="xx-large">Counting and calculating device used by the Incan</span>'
+Comment3='
+Counting and calculating device used by the Incan
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Yupana'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

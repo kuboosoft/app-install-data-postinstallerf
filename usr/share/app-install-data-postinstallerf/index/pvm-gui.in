@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pvm-gui</b>'
+Comment='<span size="xx-large">TCL/TK graphical frontend to monitor and manage a PVM cluster.</span>'
+Comment3='
+Xpvm is a TCL/TK based tool that allows full manageability of the PVM cluster
+as well as the ability to monitor cluster performance.
+'
+License='MIT and GPLv2+'
+Screenshot=''
+Url='http://www.csm.ornl.gov/pvm/pvm_home.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

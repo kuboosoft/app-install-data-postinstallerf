@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-hc</b>'
+Comment='<span size="xx-large">Replacement for the LaTeX classes</span>'
+Comment3='
+A set of replacements for the default LaTeX classes, based upon
+the Koma-Script bundle and the seminar class. Includes hcart,
+hcreport, hcletter, and hcslides.
+
+date 2008-04-20 195304 +0200
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

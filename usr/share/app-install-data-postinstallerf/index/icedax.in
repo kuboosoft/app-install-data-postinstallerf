@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>icedax</b>'
+Comment='<span size="xx-large">A utility for sampling/copying .wav files from digital audio CDs</span>'
+Comment3='
+Icedax is a sampling utility for CD-ROM drives that are capable of
+providing a CDs audio data in digital form to your host. Audio data
+read from the CD can be saved as .wav or .sun format sound files.
+Recording formats include stereo/mono, 8/12/16 bits and different
+rates. Icedax can also be used as a CD player.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://cdrkit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

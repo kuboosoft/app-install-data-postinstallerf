@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-sha</b>'
+Comment='<span size="xx-large">Check and get file hashes</span>'
+Comment3='
+Check and get file hashes using MD5, SHA1, or any other algorithm supported by
+OpenSSL.
+'
+License='BSD or MIT'
+Screenshot=''
+Url='https://github.com/ForbesLindesay/sha'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>open-vm-tools</b>'
+Comment='<span size="xx-large">Open Virtual Machine Tools for virtual machines hosted on VMware</span>'
+Comment3='
+The open-vm-tools project is an open source implementation of VMware Tools. It
+is a suite of open source virtualization utilities and drivers to improve the
+functionality, user experience and administration of VMware virtual machines.
+This package contains only the core user-space programs and libraries of
+open-vm-tools.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://open-vm-tools.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

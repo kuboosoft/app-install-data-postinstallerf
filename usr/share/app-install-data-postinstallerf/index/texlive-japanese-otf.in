@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-japanese-otf</b>'
+Comment='<span size="xx-large">Advanced font selection for platex and its friends</span>'
+Comment3='
+The package contains pLaTeX support files and virtual fonts for
+supporting a wide variety of fonts in LaTeX using the pTeX
+engine.
+
+date 2013-11-24 095802 +0100
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

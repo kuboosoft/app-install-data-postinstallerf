@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Algorithm-Annotate</b>'
+Comment='<span size="xx-large">Represent a series of changes in annotate form</span>'
+Comment3='
+AlgorithmAnnotate generates a list that is useful for generating output
+simlar to cvs annotate.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Algorithm-Annotate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

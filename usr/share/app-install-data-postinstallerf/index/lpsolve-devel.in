@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lpsolve-devel</b>'
+Comment='<span size="xx-large">Files for developing with lpsolve</span>'
+Comment3='
+Includes and definitions for developing with lpsolve
+
+URL          http//sourceforge.net/projects/lpsolve
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/lpsolve'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

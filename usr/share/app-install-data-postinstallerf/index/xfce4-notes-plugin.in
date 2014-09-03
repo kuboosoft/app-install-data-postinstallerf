@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xfce4-notes-plugin</b>'
+Comment='<span size="xx-large">Notes plugin for the Xfce panel</span>'
+Comment3='
+This plugin provides sticky notes for your desktop. You can create a note by
+clicking on the customizable icon with the middle button of your mouse,
+show/hide the notes using the left one, edit the titlebar, change the notes
+background color and much more.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-notes-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

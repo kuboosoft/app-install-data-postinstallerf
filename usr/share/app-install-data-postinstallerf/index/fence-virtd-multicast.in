@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-virtd-multicast</b>'
+Comment='<span size="xx-large">Multicast listener for fence-virtd</span>'
+Comment3='
+Provides multicast listener capability for fence-virtd.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fence-virt.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

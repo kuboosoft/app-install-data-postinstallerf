@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-pypump</b>'
+Comment='<span size="xx-large">Python Pump.io library</span>'
+Comment3='
+Pump.io is a socially oriented federated network. It provides a way to post
+notes and images as well and subscribe to other people to get updates on
+what they post.
+
+PyPump provides an interface to the pump.io APIs. The aim is to provide
+very natural pythonic representations of Notes, Images, People, etc...
+allowing you to painlessly interact with them.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/PyPump'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

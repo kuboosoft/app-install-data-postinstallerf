@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>retrace-server</b>'
+Comment='<span size="xx-large">Application for remote coredump analysis</span>'
+Comment3='
+The retrace server provides a coredump analysis and backtrace
+generation service over a network using HTTP protocol.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/wiki/AbrtRetraceServer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

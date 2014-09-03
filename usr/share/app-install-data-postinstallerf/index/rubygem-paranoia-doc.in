@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-paranoia-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-paranoia</span>'
+Comment3='
+Documentation for rubygem-paranoia
+'
+License='MIT'
+Screenshot=''
+Url='http://rubygems.org/gems/paranoia'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

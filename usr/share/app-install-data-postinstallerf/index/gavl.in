@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gavl</b>'
+Comment='<span size="xx-large">A library for handling uncompressed audio and video data</span>'
+Comment3='
+Gavl is a library for handling and converting uncompressed audio and
+video data. It provides datatypes for audio/video formats and standardized
+structures to store the data. It supports converting between all formats.
+Some conversion functions are available in multiple versions (MMX...),
+which are selected by compile time configuration, CPU autodetection and
+user options.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gmerlin.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

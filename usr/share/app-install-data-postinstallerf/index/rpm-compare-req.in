@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rpm-compare-req</b>'
+Comment='<span size="xx-large">Tool for comparing RPM dependencies against a set of repositories</span>'
+Comment3='
+rpm-compare-req is a tool for comparing dependencies of an RPM against a set
+of repositories.
+'
+License='MIT'
+Screenshot=''
+Url='https://bitbucket.org/bkabrda/rpm-compare-req'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

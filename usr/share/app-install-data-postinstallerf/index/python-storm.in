@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-storm</b>'
+Comment='<span size="xx-large">An object-relational mapper (ORM) for Python</span>'
+Comment3='
+Storm is an object-relational mapper (ORM) for Python. It offers a clean and
+lightweight API offers a short learning curve and long-term maintainability and
+it is easy to written backends for it.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://storm.canonical.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

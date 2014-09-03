@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-yfonts</b>'
+Comment='<span size="xx-large">Support for old German fonts</span>'
+Comment3='
+A LaTeX interface to the old-german fonts designed by Yannis
+Haralambous Gothic, Schwabacher, Fraktur and the baroque
+initials.
+
+date 2007-03-01 234620 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>crack</b>'
+Comment='<span size="xx-large">Password cracker</span>'
+Comment3='
+Crack is a password guessing program that is designed to quickly locate
+insecurities in Unix (or other) password files by scanning the contents of a
+password file, looking for users who have misguidedly chosen a weak login
+password.
+
+This package creates a group named "crack" and the Crack program puts all
+its results in the /var/lib/crack/run directory, which belongs to that group.
+Only users in the crack group can use this package.
+'
+License='Artistic clarified'
+Screenshot=''
+Url='http://www.crypticide.com/users/alecm/security/c50-faq.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

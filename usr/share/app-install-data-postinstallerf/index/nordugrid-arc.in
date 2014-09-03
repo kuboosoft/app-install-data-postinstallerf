@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>nordugrid-arc</b>'
+Comment='<span size="xx-large">Advanced Resource Connector Grid Middleware</span>'
+Comment3='
+NorduGrid is a collaboration aiming at development, maintenance and
+support of the free Grid middleware, known as the Advanced Resource
+Connector (ARC).
+
+The Advanced Resource Connector (ARC) brings computing resources
+together across institutional boundaries. This concept is commonly
+referred to as a "computational grid". Historically, grids address the
+organization of distributed storage of data and parallel computation,
+but could be expanded to arbitrary services.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nordugrid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

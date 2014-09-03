@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>bigloo</b>'
+Comment='<span size="xx-large">A compiler for the Scheme programming language</span>'
+Comment3='
+Bigloo is a Scheme implementation devoted to one goal enabling a Scheme
+based programming style where C(++) is usually required.  Bigloo
+attempts to make Scheme practical by offering features usually presented
+by traditional programming languages but not offered by Scheme and
+functional programming.  Bigloo compiles Scheme modules.  It delivers
+small and fast standalone binary executables.  Bigloo enables full
+connections between Scheme and C programs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www-sop.inria.fr/mimosa/fp/Bigloo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

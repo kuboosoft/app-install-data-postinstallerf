@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libreport-cli</b>'
+Comment='<span size="xx-large">libreports command line interface</span>'
+Comment3='
+This package contains simple command line tool for working
+with problem dump reports
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

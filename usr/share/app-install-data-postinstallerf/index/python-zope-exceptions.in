@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-zope-exceptions</b>'
+Comment='<span size="xx-large">Zope Exceptions</span>'
+Comment3='
+This package contains exception interfaces and implementations which are so
+general purpose that they dont belong in Zope application-specific packages.
+'
+License='ZPLv2.1'
+Screenshot=''
+Url='http://pypi.python.org/pypi/zope.exceptions'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-packagekit</b>'
+Comment='<span size="xx-large">Session applications to manage packages</span>'
+Comment3='
+gnome-packagekit provides session applications for the PackageKit API.
+There are several utilities designed for installing, updating and
+removing packages on your system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

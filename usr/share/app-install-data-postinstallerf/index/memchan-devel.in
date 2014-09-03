@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>memchan-devel</b>'
+Comment='<span size="xx-large">Development files for compiling against the Tcl memchan extension</span>'
+Comment3='
+Development files for compiling against the Tcl memchan extension
+
+URL          http//memchan.sourceforge.net/
+'
+License='MIT and Public Domain'
+Screenshot=''
+Url='http://memchan.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

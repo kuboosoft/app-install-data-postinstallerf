@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yum-plugin-rpm-warm-cache</b>'
+Comment='<span size="xx-large">Yum plugin to access the rpmdb files early to warm up access to the db</span>'
+Comment3='
+This plugin reads the rpmdb files into the system cache before accessing the
+rpmdb directly. In some cases this should speed up access to rpmdb information
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

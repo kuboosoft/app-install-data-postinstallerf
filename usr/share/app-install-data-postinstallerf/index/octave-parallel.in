@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>octave-parallel</b>'
+Comment='<span size="xx-large">Parallel execution package for cluster computers for Octave</span>'
+Comment3='
+Parallel execution package for cluster computers.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://octave.sourceforge.net/parallel/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

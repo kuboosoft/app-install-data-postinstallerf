@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-promise</b>'
+Comment='<span size="xx-large">Bare bones Promises/A+ implementation for Node.js</span>'
+Comment3='
+This is a bare bones Promises/A+ implementation for Node.js. It is designed
+to get the basics spot on correct, so that you can build extended promise
+implementations on top of it.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/then/promise'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

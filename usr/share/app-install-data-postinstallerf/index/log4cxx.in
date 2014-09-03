@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>log4cxx</b>'
+Comment='<span size="xx-large">A port to C++ of the Log4j project</span>'
+Comment3='
+Log4cxx is a popular logging package written in C++. One of its distinctive
+features is the notion of inheritance in loggers. Using a logger hierarchy it
+is possible to control which log statements are output at arbitrary
+granularity. This helps reduce the volume of logged output and minimize the
+cost of logging.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://logging.apache.org/log4cxx/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

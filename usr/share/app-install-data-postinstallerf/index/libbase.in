@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libbase</b>'
+Comment='<span size="xx-large">JFree Base Services</span>'
+Comment3='
+LibBase is a library developed to provide base services like logging,
+configuration and initialization to other libraries and applications. The
+library is the root library for all Pentaho-Reporting projects.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://reporting.pentaho.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

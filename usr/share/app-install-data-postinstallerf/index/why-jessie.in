@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>why-jessie</b>'
+Comment='<span size="xx-large">Interface between why and frama-c</span>'
+Comment3='
+The Jessie plugin, an interface between why and frama-c.  Invoke it with
+  frama-c -jessie FILE.c
+'
+License='LPGLv2 with exceptions'
+Screenshot=''
+Url='http://why.lri.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Env-Sanctify</b>'
+Comment='<span size="xx-large">Lexically scoped sanctification of %ENV</span>'
+Comment3='
+EnvSanctify is a module that provides lexically-scoped manipulation and
+sanctification of %ENV. You can specify that it alter or add additional
+environment variables or remove existing ones according to a list of matching
+regexen. You can then either restore the environment back manually or let the
+object fall out of scope, which automagically restores. Its useful for
+manipulating the environment that forked processes and sub-processes will
+inherit.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Env-Sanctify/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lzo-minilzo</b>'
+Comment='<span size="xx-large">Mini version of lzo for apps which dont need the full version</span>'
+Comment3='
+A small (mini) version of lzo for embedding into applications which dont need
+full blown lzo compression support.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.oberhumer.com/opensource/lzo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

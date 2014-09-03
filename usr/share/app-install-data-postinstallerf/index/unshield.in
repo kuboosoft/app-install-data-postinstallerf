@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>unshield</b>'
+Comment='<span size="xx-large">Install InstallShield applications on a Pocket PC</span>'
+Comment3='
+To install a Pocket PC application remotely, an installable
+Microsoft Cabinet File is copied to the /Windows/AppMgr/Install
+directory on the PDA and then the wceload.exe is executed to
+perform the actual install. That is a very simple procedure.
+
+Unfortunately, many applications for Pocket PC are distributed as
+InstallShield installers for Microsoft Windows, and not as
+individual Microsoft Cabinet Files. That is very impractical for
+users of other operating systems, such as Linux or FreeBSD.
+'
+License='MIT'
+Screenshot=''
+Url='http://synce.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

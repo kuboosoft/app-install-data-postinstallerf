@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-kgio</b>'
+Comment='<span size="xx-large">Kinder, gentler I/O for Ruby</span>'
+Comment3='
+kgio provides non-blocking I/O methods for Ruby without raising
+exceptions on EAGAIN and EINPROGRESS.  It is intended for use with the
+Unicorn and Rainbows! Rack servers, but may be used by other
+applications (that run on Unix-like platforms).
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='http://bogomips.org/kgio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

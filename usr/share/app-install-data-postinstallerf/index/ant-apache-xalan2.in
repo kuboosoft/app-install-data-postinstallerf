@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ant-apache-xalan2</b>'
+Comment='<span size="xx-large">Optional apache xalan2 tasks for ant</span>'
+Comment3='
+Optional apache xalan2 tasks for ant.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ant.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgit2-devel</b>'
+Comment='<span size="xx-large">Development files for libgit2</span>'
+Comment3='
+The libgit2-devel package contains libraries and header files for
+developing applications that use libgit2.
+
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://libgit2.github.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

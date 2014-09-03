@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bombono-dvd</b>'
+Comment='<span size="xx-large">DVD authoring program with nice and clean GUI</span>'
+Comment3='
+Bombono DVD is an easy to use program for making DVD-Video. The main features
+are an excellent MPEG viewer with time line, a real WYSIWYG menu editor with
+live thumbnails and monitor, and comfortable Drag-N-Drop support. Authoring
+to folder, making an ISO-image or burning directly to DVD as well as
+re-authoring by importing video from DVD discs is also supported.
+'
+License='GPLv2 and GPLv2+ and Boost and Python and LGPLv2+'
+Screenshot=''
+Url='http://www.bombono.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-nose-exclude</b>'
+Comment='<span size="xx-large">Exclude specific directories from nosetests runs</span>'
+Comment3='
+nose-exclude is a `Nose`_ plugin that allows you to easily
+specify directories to be excluded from testing.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pypi.python.org/pypi/nose-exclude/0.1.10'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

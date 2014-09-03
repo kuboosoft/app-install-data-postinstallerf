@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-tplib-devel</b>'
+Comment='<span size="xx-large">Library files and headers for developing with TPLib</span>'
+Comment3='
+Library files and headers for developing applications that use TPLib.
+
+URL          https//gforge.inria.fr/projects/tplib
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://gforge.inria.fr/projects/tplib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

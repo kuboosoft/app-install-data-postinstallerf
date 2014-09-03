@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gsettings-desktop-schemas</b>'
+Comment='<span size="xx-large">A collection of GSettings schemas</span>'
+Comment3='
+gsettings-desktop-schemas contains a collection of GSettings schemas for
+settings shared by various components of a desktop.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://bugzilla.gnome.org/enter_bug.cgi?product=gsettings-desktop-schemas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

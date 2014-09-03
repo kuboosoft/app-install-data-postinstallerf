@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>q-dx</b>'
+Comment='<span size="xx-large">DX module for Q</span>'
+Comment3='
+DX module for Q.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://q-lang.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

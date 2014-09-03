@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>unifdef</b>'
+Comment='<span size="xx-large">Tool for removing ifdefd lines</span>'
+Comment3='
+Unifdef is useful for removing ifdefed lines from a file while otherwise
+leaving the file alone. Unifdef acts on #ifdef, #ifndef, #else, and #endif
+lines, and it knows only enough about C and C++ to know when one of these
+is inactive because it is inside a comment, or a single or double quote.
+'
+License='BSD'
+Screenshot=''
+Url='http://dotat.at/prog/unifdef/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

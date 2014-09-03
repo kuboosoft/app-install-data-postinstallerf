@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-latexmp</b>'
+Comment='<span size="xx-large">Interface for LaTeX-based typesetting in MetaPost</span>'
+Comment3='
+The MetaPost package latexMP implements a user-friendly
+interface to access LaTeX-based typesetting capabilities in
+MetaPost. The text to be typeset is given as string. This
+allows even dynamic text elements, for example counters, to be
+used in labels. Compared to other implementations it is much
+more flexible, since it can be used as direct replacement for
+btex..etex, and much faster, compared for example to the
+solution provided by tex.mp
+
+date 2007-02-23 001639 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

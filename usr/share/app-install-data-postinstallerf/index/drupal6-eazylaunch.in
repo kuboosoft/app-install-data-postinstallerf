@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>drupal6-eazylaunch</b>'
+Comment='<span size="xx-large">Eazy Launch Module for Drupal6</span>'
+Comment3='
+EazyLaunch is a fast text-based launcher for instantly navigating the entire
+menu system of a Drupal site
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/eazylaunch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

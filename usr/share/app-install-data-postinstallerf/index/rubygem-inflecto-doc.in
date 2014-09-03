@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-inflecto-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-inflecto</span>'
+Comment3='
+Documentation for rubygem-inflecto
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/mbj/inflecto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

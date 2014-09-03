@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mate-themes-extras</b>'
+Comment='<span size="xx-large">Extra gtk-2/3 themes for gtk based desktops</span>'
+Comment3='
+The mate-themes-extras package contains a collection of GTK2/3 desktop
+themes for all gtk based desktops.
+These themes can change the appearance of application widgets, icons,
+window borders, cursors, etc.
+This package is optimized for GTK3-3.10.x.
+Theme list Blue-Submarine, Cologne, DeLorean-Dark, Faience, Faience-Ocre,
+Gnome-Cupertino, Gnome-Cupertino-Mint, GnomishBeige, Green-Submarine,
+Smoothly, Smoothly-Black, Zukitwo-Dust, Zukitwo-Brave, Zukitwo-Human,
+Zukitwo-Illustrious, Zukitwo-Noble, Zukitwo-Wine, Zukitwo-Wise.
+'
+License='LGPLv2 and GPLv2'
+Screenshot=''
+Url='https://github.com/NiceandGently/mate-themes-extras'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

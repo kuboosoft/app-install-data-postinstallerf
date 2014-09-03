@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnuplot-doc</b>'
+Comment='<span size="xx-large">Documentation fo bindings for the gnuplot main application</span>'
+Comment3='
+The gnuplot-doc package contains the documentation related to gnuplot
+plotting tool
+'
+License='gnuplot and MIT'
+Screenshot=''
+Url='http://www.gnuplot.info/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

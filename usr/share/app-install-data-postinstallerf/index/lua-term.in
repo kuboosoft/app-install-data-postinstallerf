@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lua-term</b>'
+Comment='<span size="xx-large">Terminal functions for Lua</span>'
+Comment3='
+Lua module for manipulating a terminal.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/hoelzro/lua-term'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-easy</b>'
+Comment='<span size="xx-large">A collection of easy-to-use macros</span>'
+Comment3='
+The collection comprises - easybib, support for customising
+bibliographies; - easybmat, support for composing block
+matrices; - easyeqn, support for various aspects of equations;
+- easymat, support for composing matrices; - easytable, support
+for writing tables; - easyvector, a C-like syntax for writing
+vectors.
+
+date 2007-01-01 184552 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

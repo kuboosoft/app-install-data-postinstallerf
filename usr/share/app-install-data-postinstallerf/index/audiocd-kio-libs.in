@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>audiocd-kio-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for audiocd-kio</span>'
+Comment3='
+Runtime libraries for audiocd-kio.
+
+URL          https//projects.kde.org/projects/kde/kdemultimedia/audiocd-kio
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdemultimedia/audiocd-kio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dvgrab</b>'
+Comment='<span size="xx-large">Utility to capture video from a DV camera</span>'
+Comment3='
+The dvgrab utility will capture digital video from a DV source on the firewire
+(IEEE-1394) bus.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kinodv.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

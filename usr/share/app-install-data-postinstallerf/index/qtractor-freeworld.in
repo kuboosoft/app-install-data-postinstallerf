@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>qtractor-freeworld</b>'
+Comment='<span size="xx-large">Audio/MIDI multi-track sequencer</span>'
+Comment3='
+Qtractor is an Audio/MIDI multi-track sequencer application written in C++
+around the Qt4 toolkit using Qt Designer. The initial target platform will be
+Linux, where the Jack Audio Connection Kit (JACK) for audio, and the Advanced
+evolve as a fairly-featured Linux Desktop Audio Workstation GUI, specially
+dedicated to the personal home-studio.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qtractor.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

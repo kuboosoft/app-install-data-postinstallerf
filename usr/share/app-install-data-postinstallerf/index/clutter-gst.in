@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>clutter-gst</b>'
+Comment='<span size="xx-large">ClutterMedia interface to GStreamer</span>'
+Comment3='
+This package contains a video texture actor and an audio player object for
+use with clutter
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.clutter-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

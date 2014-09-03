@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>tor</b>'
+Comment='<span size="xx-large">Anonymizing overlay network for TCP (The onion router)</span>'
+Comment3='
+Tor is a connection-based low-latency anonymous communication system.
+
+Applications connect to the local Tor proxy using the SOCKS protocol. The
+local proxy chooses a path through a set of relays, in which each relay
+knows its predecessor and successor, but no others. Traffic flowing down
+the circuit is unwrapped by a symmetric key at each relay, which reveals
+the downstream relay.
+Warnings Tor does no protocol cleaning.  That means there is a danger
+that application protocols and associated programs can be induced to
+'
+License='BSD'
+Screenshot=''
+Url='https://www.torproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

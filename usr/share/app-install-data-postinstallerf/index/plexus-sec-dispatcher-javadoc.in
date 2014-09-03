@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plexus-sec-dispatcher-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for plexus-sec-dispatcher</span>'
+Comment3='
+API documentation for plexus-sec-dispatcher.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://spice.sonatype.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

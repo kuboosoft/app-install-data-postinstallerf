@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>drupal6-prepopulate</b>'
+Comment='<span size="xx-large">Allows form elements to be pre-populated from the URL</span>'
+Comment3='
+The Prepopulate module allows fields in most forms to be pre-populated from
+the $_REQUEST variable.
+
+For example, the following URL
+http//www.example.com/node/add/blog?edit[title]=this is the title
+will automatically fill the Title field on a new blog post with the words
+"this is the title". Any field can be pre-populated this way, including taxonomy
+and CCK fields. You can prepopulate more than one field at a time as well.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/prepopulate'
+Summary     : Allows form elements to be pre-populated from the URL'
+For example, the following URL:'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

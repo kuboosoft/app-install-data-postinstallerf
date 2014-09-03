@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>telepathy-filesystem</b>'
+Comment='<span size="xx-large">Telepathy filesystem layout</span>'
+Comment3='
+This package provides some directories which are required by other
+packages which comprise the Telepathy release.
+'
+License='Public Domain'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

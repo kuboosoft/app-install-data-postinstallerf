@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-hashish</b>'
+Comment='<span size="xx-large">Hash data structure manipulation functions</span>'
+Comment3='
+Hashish is a node.js library for manipulating hash data structures.
+It is distilled from the finest that ruby, perl, and haskell have
+to offer by way of hash/map interfaces.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/substack/node-hashish'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

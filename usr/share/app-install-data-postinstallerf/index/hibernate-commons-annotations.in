@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>hibernate-commons-annotations</b>'
+Comment='<span size="xx-large">Hibernate Annotations</span>'
+Comment3='
+Following the DRY (Dont Repeat Yourself) principle,
+Hibernate Validator lets you express your domain
+constraints once (and only once) and ensure their
+compliance at various level of your system
+automatically.
+
+Common reflection code used in support of annotation processing.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.hibernate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>blitz-doc</b>'
+Comment='<span size="xx-large">The Blitz html docs</span>'
+Comment3='
+HTML documentation files for the Blitz Library
+'
+License='LGPLv3+ or BSD or Artistic 2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/blitz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

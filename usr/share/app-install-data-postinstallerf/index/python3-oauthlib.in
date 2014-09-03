@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-oauthlib</b>'
+Comment='<span size="xx-large">An implementation of the OAuth request-signing logic</span>'
+Comment3='
+OAuthLib is a generic utility which implements the logic of OAuth without
+assuming a specific HTTP request object or web framework. Use it to graft
+OAuth client support onto your favorite HTTP library, or provider support
+onto your favourite web framework. If youre a maintainer of such a
+library, write a thin veneer on top of OAuthLib and get OAuth support for
+very little effort.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/oauthlib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

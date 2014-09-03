@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rack-ssl-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rack-ssl</span>'
+Comment3='
+Documentation for rubygem-rack-ssl
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/josh/rack-ssl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

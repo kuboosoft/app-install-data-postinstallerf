@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>monochrome-icon-theme</b>'
+Comment='<span size="xx-large">Icons for the panel, designed in a simplified monochrome style</span>'
+Comment3='
+Dark and Light panel icons to make your desktop beautiful.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://launchpad.net/ubuntu-themes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

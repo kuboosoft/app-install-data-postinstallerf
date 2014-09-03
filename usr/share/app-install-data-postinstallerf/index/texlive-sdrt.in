@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-sdrt</b>'
+Comment='<span size="xx-large">Macros for Segmented Discourse Representation Theory</span>'
+Comment3='
+The package provides macros to produce the Box notation of
+SDRT (and DRT), to draw trees representing discourse relations,
+and finally to have an easy access to various mathematical
+symbols used in that theory, mostly with automatic mathematics
+mode, so they work the same in formulae and in text.
+
+date 2009-07-05 172222 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

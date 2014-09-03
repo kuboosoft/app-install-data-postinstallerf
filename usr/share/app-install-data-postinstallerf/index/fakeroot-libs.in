@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fakeroot-libs</b>'
+Comment='<span size="xx-large">Gives a fake root environment (libraries)</span>'
+Comment3='
+This package contains the libraries required by fakeroot.
+'
+License='GPL+'
+Screenshot=''
+Url='http://fakeroot.alioth.debian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

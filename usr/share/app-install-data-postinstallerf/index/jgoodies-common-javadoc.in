@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jgoodies-common-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jgoodies-common</span>'
+Comment3='
+This package contains the API documentation for jgoodies-common.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.jgoodies.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

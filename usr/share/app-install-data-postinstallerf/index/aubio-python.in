@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>aubio-python</b>'
+Comment='<span size="xx-large">Python language bindings for aubio</span>'
+Comment3='
+The aubio-python package contains the Python language bindings for aubio.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://aubio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

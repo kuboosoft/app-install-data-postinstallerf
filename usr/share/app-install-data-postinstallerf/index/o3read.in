@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>o3read</b>'
+Comment='<span size="xx-large">Standalone converter for OpenOffice.org documents</span>'
+Comment3='
+o3read is a standalone converter for the OpenOffice.org writer and calc
+documents to text, html, and a dump of the parse tree.
+It doesnt depend on Open Office or any other external tools or libraries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://siag.nu/o3read/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

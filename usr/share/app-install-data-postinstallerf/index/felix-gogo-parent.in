@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>felix-gogo-parent</b>'
+Comment='<span size="xx-large">Parent package for Felix Gogo</span>'
+Comment3='
+Apache Felix is a community effort to implement the OSGi R4 Service Platform
+and other interesting OSGi-related technologies under the Apache license. The
+OSGi specifications originally targeted embedded devices and home services
+gateways, but they are ideally suited for any project interested in the
+principles of modularity, component-orientation, and/or service-orientation.
+OSGi technology combines aspects of these aforementioned principles to define a
+dynamic service deployment framework that is amenable to remote management.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org/site/apache-felix-gogo.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfce4-weather-plugin</b>'
+Comment='<span size="xx-large">Weather plugin for the Xfce panel</span>'
+Comment3='
+A weather plugin for the Xfce panel. It shows the current temperature and
+weather condition, using weather data provided by xoap.weather.com.
+'
+License='BSD'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-weather-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

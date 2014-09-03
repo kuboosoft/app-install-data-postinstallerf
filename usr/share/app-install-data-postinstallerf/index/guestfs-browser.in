@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>guestfs-browser</b>'
+Comment='<span size="xx-large">Guest filesystem browser</span>'
+Comment3='
+The Guest Filesystem Browser lets you browse inside the filesystems of
+virtual machines and disk images using a simple graphical interface.
+
+This package delivers some of the features of libguestfs and the
+guestfish scripting tool to users who dont want to use the command
+line.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://people.redhat.com/~rjones/guestfs-browser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

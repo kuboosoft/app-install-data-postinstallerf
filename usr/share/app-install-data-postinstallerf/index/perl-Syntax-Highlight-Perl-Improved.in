@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Syntax-Highlight-Perl-Improved</b>'
+Comment='<span size="xx-large">Highlighting of Perl Syntactical Structures</span>'
+Comment3='
+This module provides syntax highlighting for Perl code. The design bias is
+roughly line-oriented and streamed (i.e. processing a file line-by-line in a
+single pass). Provisions may be made in the future for tasks related to "back-
+tracking" (i.e. re-doing a single line in the middle of a stream) such as
+speeding up state copying.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Syntax-Highlight-Perl-Improved/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

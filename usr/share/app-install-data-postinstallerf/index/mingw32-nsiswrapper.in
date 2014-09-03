@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mingw32-nsiswrapper</b>'
+Comment='<span size="xx-large">Helper program for making NSIS Windows installers</span>'
+Comment3='
+NSISWrapper is a helper program for making Windows installers,
+particularly when you are cross-compiling from Unix.
+
+NSIS (a separate package) is a program for building Windows
+installers.  This wrapper simply makes it easier to generate the
+installer script that NSIS needs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/MinGW'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

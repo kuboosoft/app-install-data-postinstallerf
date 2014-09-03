@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>simplevalidation</b>'
+Comment='<span size="xx-large">A library for adding user-interface input validation to Swing applications</span>'
+Comment3='
+This is a simple library for quickly adding validation code to Swing
+user-interfaces. It handles validating user input when the user changes a
+components value, showing error messages and decorating components to
+indicate which component is the source of the problem. It contains a large
+number of built-in validators to handle most common situations, such as
+validating numbers, email addresses, urls and so forth.
+
+The primary goal is to make it easy to retrofit validation code on existing
+UIs without needing to rewrite anything or add more than a few lines of code.
+'
+License='GPLv2 or CDDL'
+Screenshot=''
+Url='http://kenai.com/projects/simplevalidation'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

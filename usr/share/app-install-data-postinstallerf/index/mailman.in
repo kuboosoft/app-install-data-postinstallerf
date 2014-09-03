@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mailman</b>'
+Comment='<span size="xx-large">Mailing list manager with built in Web access</span>'
+Comment3='
+Mailman is software to help manage email discussion lists, much like
+Majordomo and Smartmail. Unlike most similar products, Mailman gives
+each mailing list a webpage, and allows users to subscribe,
+unsubscribe, etc. over the Web. Even the list manager can administer
+his or her list entirely from the Web. Mailman also integrates most
+things people want to do with mailing lists, including archiving, mail
+<-> news gateways, and so on.
+
+Documentation can be found in /usr/share/doc/mailman
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.list.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

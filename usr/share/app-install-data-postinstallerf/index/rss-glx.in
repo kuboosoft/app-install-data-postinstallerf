@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rss-glx</b>'
+Comment='<span size="xx-large">Really Slick Screensavers</span>'
+Comment3='
+A port of the Really Slick Screensavers to GLX. Provides several visually
+impressive and graphically intensive screensavers.
+
+Note that this package contains only the display hacks themselves; you will
+need to install the appropriate subpackage for your desktop environment in
+order to use them as screensavers.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://rss-glx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

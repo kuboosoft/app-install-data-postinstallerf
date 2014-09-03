@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-ltxtools</b>'
+Comment='<span size="xx-large">A collection of LaTeX API macros</span>'
+Comment3='
+This is a bundle of macros that the author uses in the coding
+of others of his macro files.
+
+date 2011-12-19 235631 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nomacs</b>'
+Comment='<span size="xx-large">Lightweight image viewer</span>'
+Comment3='
+nomacs is image viewer based on Qt4 library.
+nomacs is small, fast and able to handle the most common image formats.
+Additionally it is possible to synchronize multiple viewers
+running on the same computer or via LAN is possible.
+It allows to compare images and spot the differences
+e.g. schemes of architects to show the progress).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://nomacs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

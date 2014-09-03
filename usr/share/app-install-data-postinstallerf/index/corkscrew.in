@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>corkscrew</b>'
+Comment='<span size="xx-large">Tool for tunneling SSH through HTTP proxies</span>'
+Comment3='
+Corkscrew is a tool for tunneling SSH through HTTP proxies.
+
+It has been tested with the following HTTP proxies 
+ * Gauntlet
+ * CacheFlow
+ * JunkBuster
+ * Apache mod_proxy
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.agroman.net/corkscrew/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

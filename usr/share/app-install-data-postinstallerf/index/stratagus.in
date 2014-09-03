@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>stratagus</b>'
+Comment='<span size="xx-large">Real-time strategy gaming engine</span>'
+Comment3='
+Stratagus is a free cross-platform real-time strategy gaming engine. It
+includes support for playing over the internet/LAN, or playing a
+computer opponent. The engine is configurable and can be used to create
+games with a wide-range of features specific to your needs. See the
+data sets page ( http//stratagus.sourceforge.net/games.shtml ) for a list
+of current games using the stratagus engine.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://stratagus.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

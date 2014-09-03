@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bbkeys</b>'
+Comment='<span size="xx-large">Completely configurable key-combo grabber for blackbox</span>'
+Comment3='
+bbkeys is a configurable key-grabber designed for the blackbox window manager
+which is written by Brad Hughes.  It is based on the bbtools object code
+created by John Kennis and re-uses some of the blackbox window manager classes
+as well.  bbkeys is easily configurable via directly hand-editing the users
+~/.bbkeysrc file, or by using the GUI total blackbox configurator, bbconf.
+'
+License='MIT'
+Screenshot=''
+Url='http://bbkeys.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

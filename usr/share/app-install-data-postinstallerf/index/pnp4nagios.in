@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pnp4nagios</b>'
+Comment='<span size="xx-large">Nagios performance data analysis tool</span>'
+Comment3='
+PNP is an addon to nagios which analyzes performance data provided by plugins
+and stores them automatically into RRD-databases.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.pnp4nagios.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

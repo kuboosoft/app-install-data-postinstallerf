@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wxPython-devel</b>'
+Comment='<span size="xx-large">Development files for wxPython add-on modules</span>'
+Comment3='
+This package includes C++ header files and SWIG files needed for developing
+add-on modules for wxPython. It is NOT needed for development of most
+programs which use the wxPython toolkit.
+
+'
+License='LGPLv2+ and wxWidgets'
+Screenshot=''
+Url='http://www.wxpython.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

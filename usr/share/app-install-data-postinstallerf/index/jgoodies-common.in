@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jgoodies-common</b>'
+Comment='<span size="xx-large">Common library shared by JGoodies libraries and applications</span>'
+Comment3='
+The JGoodies Common library provides convenience code for other JGoodies
+libraries and applications.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.jgoodies.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

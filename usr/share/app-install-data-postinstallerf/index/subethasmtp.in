@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>subethasmtp</b>'
+Comment='<span size="xx-large">A SMTP mail server for Java</span>'
+Comment3='
+SubEtha SMTP is an easy-to-use server-side SMTP library for Java.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://code.google.com/p/subethasmtp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

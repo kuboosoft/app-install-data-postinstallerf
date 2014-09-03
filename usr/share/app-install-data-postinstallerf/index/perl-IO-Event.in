@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-IO-Event</b>'
+Comment='<span size="xx-large">Tied filehandles for nonblocking IO with object callbacks</span>'
+Comment3='
+IOEvent provides a object-based callback system for handling nonblocking
+IO. The design goal is to provide a system that just does the right thing
+w/o the user needing to think about it much.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-Event/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

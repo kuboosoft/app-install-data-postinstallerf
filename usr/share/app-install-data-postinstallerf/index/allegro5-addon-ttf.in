@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>allegro5-addon-ttf</b>'
+Comment='<span size="xx-large">TTF addon for the Allegro 5 library</span>'
+Comment3='
+This package provides the ttf addon for the Allegro 5 library. This addon
+allows you to load and use TTF fonts in your Allegro 5 programs.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://liballeg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

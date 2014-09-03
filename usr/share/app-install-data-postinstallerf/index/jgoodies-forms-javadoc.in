@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jgoodies-forms-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jgoodies-forms</span>'
+Comment3='
+This package contains the API documentation for jgoodies-forms.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.jgoodies.com/freeware/forms/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openshift-origin-broker-util</b>'
+Comment='<span size="xx-large">Utility scripts for the OpenShift Origin broker</span>'
+Comment3='
+This package contains a set of utility scripts for the openshift broker.
+They must be run on a openshift broker instance.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openshift.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

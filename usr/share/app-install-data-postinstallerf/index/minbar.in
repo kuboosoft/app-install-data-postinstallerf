@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>minbar</b>'
+Comment='<span size="xx-large">Athan call and prayer times notification software</span>'
+Comment3='
+Minbar is a GNOME GUI with tray icon, for athan
+call and notifications for Islam prayer times.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://djihed.com/minbar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

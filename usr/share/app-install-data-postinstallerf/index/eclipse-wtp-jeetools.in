@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-wtp-jeetools</b>'
+Comment='<span size="xx-large">Frameworks and tools focused on development of J2EE artifacts</span>'
+Comment3='
+The Java EE Tools Project provides frameworks and tools focused on the
+development of J2EE artifacts.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/webtools/jee/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

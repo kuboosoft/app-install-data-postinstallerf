@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>proxyfuzz</b>'
+Comment='<span size="xx-large">Man-in-the-middle non-deterministic network fuzzer</span>'
+Comment3='
+ProxyFuzz is a man-in-the-middle non-deterministic network fuzzier written in
+Python. ProxyFuzz randomly changes (fuzzes) contents on the network traffic.
+It supports TCP and UDP protocols and can also be configured to fuzz only one
+side of the communication. ProxyFuzz is protocol agnostic so it can randomly
+fuzz any network communication.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.secforce.co.uk/research/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

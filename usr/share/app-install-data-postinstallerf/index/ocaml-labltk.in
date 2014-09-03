@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ocaml-labltk</b>'
+Comment='<span size="xx-large">Tk bindings for OCaml</span>'
+Comment3='
+Labltk is a library for interfacing OCaml with the scripting language
+Tcl/Tk.
+
+This package contains the runtime files.
+'
+License='QPL and (LGPLv2+ with exceptions)'
+Screenshot=''
+Url='http://www.ocaml.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

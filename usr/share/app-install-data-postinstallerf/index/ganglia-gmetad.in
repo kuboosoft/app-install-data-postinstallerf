@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ganglia-gmetad</b>'
+Comment='<span size="xx-large">Ganglia Metadata collection daemon</span>'
+Comment3='
+Ganglia is a scalable, real-time monitoring and execution environment
+with all execution requests and statistics expressed in an open
+well-defined XML format.
+
+This gmetad daemon aggregates monitoring data from several clusters
+to form a monitoring grid. It also keeps metric history using rrdtool.
+'
+License='BSD'
+Screenshot=''
+Url='http://ganglia.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

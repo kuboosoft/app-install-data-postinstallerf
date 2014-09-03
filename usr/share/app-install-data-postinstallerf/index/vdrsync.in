@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vdrsync</b>'
+Comment='<span size="xx-large">Recording demultiplexer for VDR</span>'
+Comment3='
+vdrsync is a script that demultiplexes VDR recordings and tries to
+synchronize the video and audio streams by addition or deletion of
+audio data. It can also start some other tools at the end of a run to
+generate a video DVD Directory structure that can be burned on a DVD.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://vdrsync.vdr-portal.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

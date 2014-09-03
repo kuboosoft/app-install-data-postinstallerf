@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-jsonfile</b>'
+Comment='<span size="xx-large">Easily read/write JSON files</span>'
+Comment3='
+Easily read/write JSON files.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jprichardson/node-jsonfile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

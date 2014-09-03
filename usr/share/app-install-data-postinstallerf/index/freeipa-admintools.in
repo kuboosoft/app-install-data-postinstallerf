@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>freeipa-admintools</b>'
+Comment='<span size="xx-large">IPA administrative tools</span>'
+Comment3='
+IPA is an integrated solution to provide centrally managed Identity (machine,
+user, virtual machines, groups, authentication credentials), Policy
+(configuration settings, access control information) and Audit (events,
+logs, analysis thereof). This package provides command-line tools for
+IPA administrators.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.freeipa.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

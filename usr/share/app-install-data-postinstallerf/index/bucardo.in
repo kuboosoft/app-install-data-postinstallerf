@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bucardo</b>'
+Comment='<span size="xx-large">Postgres replication system for both multi-master and multi-slave operations</span>'
+Comment3='
+Bucardo is an asynchronous PostgreSQL replication system, allowing for both
+multi-master and multi-slave operations.It was developed at Backcountry.com
+primarily by Greg Sabino Mullane of End Point Corporation.
+'
+License='BSD'
+Screenshot=''
+Url='http://bucardo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

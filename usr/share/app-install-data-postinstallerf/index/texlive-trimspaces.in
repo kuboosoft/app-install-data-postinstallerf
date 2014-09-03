@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-trimspaces</b>'
+Comment='<span size="xx-large">Trim spaces around an argument or within a macro</span>'
+Comment3='
+A very short package that allows you to expandably remove
+spaces around a token list (commands are provided to remove
+spaces before, spaces after, or both); or to remove surrounding
+spaces within a macro definition, or to define space-stripped
+macros.
+
+date 2009-11-10 085014 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

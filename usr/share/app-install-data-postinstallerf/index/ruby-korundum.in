@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-korundum</b>'
+Comment='<span size="xx-large">Ruby bindings for libraries created by the KDE community</span>'
+Comment3='
+Ruby bindings for libraries created by the KDE community.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdebindings/ruby/korundum'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

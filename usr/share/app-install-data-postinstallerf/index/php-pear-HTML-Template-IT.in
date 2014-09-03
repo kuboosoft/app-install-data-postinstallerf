@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-pear-HTML-Template-IT</b>'
+Comment='<span size="xx-large">Integrated Templates</span>'
+Comment3='
+HTML_Template_IT
+The Isotemplate API is somewhat tricky for a beginner although it is the
+best one you can build.
+
+Source and target can be block names or even handler names. This API gives
+you a maximum of flexibility but you always have to know what you do which
+is quite unusual for php developer like me.
+If all blocks are within one file, the script knows how they are nested and
+in which way you have to parse them. IT knows that inner1 is a child of
+block2, theres no need to tell him about this.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/HTML_Template_IT'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

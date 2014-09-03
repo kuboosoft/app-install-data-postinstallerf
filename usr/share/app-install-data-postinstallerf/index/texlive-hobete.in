@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-hobete</b>'
+Comment='<span size="xx-large">Unofficial beamer theme for the University of Hohenheim</span>'
+Comment3='
+The package provides a beamer theme which features the Ci
+colors of the University of Hohenheim. Please note that this is
+not an official Theme, and that there will be no support for
+it, from the University. Furthermore there is NO relationship
+between the University and this theme.
+
+date 2012-06-26 155521 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

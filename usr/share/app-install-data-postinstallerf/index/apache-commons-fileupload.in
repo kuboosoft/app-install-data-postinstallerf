@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>apache-commons-fileupload</b>'
+Comment='<span size="xx-large">This package provides an api to work with html file upload</span>'
+Comment3='
+The javax.servlet package lacks support for rfc 1867, html file
+upload.  This package provides a simple to use api for working with
+such data.  The scope of this package is to create a package of Java
+utility classes to read multipart/form-data within a
+javax.servlet.http.HttpServletRequest
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/fileupload/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

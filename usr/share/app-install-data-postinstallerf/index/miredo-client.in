@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>miredo-client</b>'
+Comment='<span size="xx-large">Tunneling client for IPv6 over UDP through NATs</span>'
+Comment3='
+Miredo is an implementation of the "Teredo Tunneling IPv6 over UDP
+through NATs" proposed Internet standard (RFC4380). This offers the client
+part of miredo. Most people only need the client part.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.remlab.net/miredo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

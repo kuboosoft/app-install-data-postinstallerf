@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-allison</b>'
+Comment='<span size="xx-large">A modern, pretty RDoc template</span>'
+Comment3='
+A modern, pretty RDoc template.
+'
+License='AFL'
+Screenshot=''
+Url='http://github.com/fauna/allison/tree/master'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

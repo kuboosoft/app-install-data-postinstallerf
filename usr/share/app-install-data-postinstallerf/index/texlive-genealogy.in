@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-genealogy</b>'
+Comment='<span size="xx-large">A compilation genealogy font</span>'
+Comment3='
+A simple compilation of the genealogical symbols found in the
+wasy and gen fonts, essentially adding the male and female
+symbols to Knuths gen font, and so avoiding loading two
+fonts when you need only genealogical symbols. The font is
+distributed as Metafont source.
+
+date 2011-04-10 214035 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

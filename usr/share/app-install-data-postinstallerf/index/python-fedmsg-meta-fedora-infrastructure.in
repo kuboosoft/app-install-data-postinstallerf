@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-fedmsg-meta-fedora-infrastructure</b>'
+Comment='<span size="xx-large">Metadata providers for Fedora Infrastructures fedmsg deployment</span>'
+Comment3='
+Metadata providers for Fedora Infrastructures fedmsg deployment
+
+fedmsg <http//fedmsg.com> is a set of tools for knitting together
+services and webapps into a realtime messaging net.  This package contains
+metadata provider plugins for the primary deployment of that system
+Fedora Infrastructure <http//fedoraproject.org/wiki/Infrastructure>.
+If you were to deploy fedmsg at another site, you would like want to write
+your own module like this one that could provide textual representations of
+your messages.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/fedmsg_meta_fedora_infrastructure'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-mygpoclient</b>'
+Comment='<span size="xx-large">Python module to connect to the my.gpodder.org webservice</span>'
+Comment3='
+python-mygpoclient is a client-library to connect the my.gpodder.org webservice.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://thpinfo.com/2010/mygpoclient/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

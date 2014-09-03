@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>emacs-anthy-el</b>'
+Comment='<span size="xx-large">Elisp source files for Anthy under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for Anthy under GNU Emacs. You
+do not need to install this package to run Anthy. Install the emacs-anthy
+package to use Anthy with GNU Emacs.
+'
+License='LGPLv2+ and GPLv2 and Public Domain'
+Screenshot=''
+Url='http://sourceforge.jp/projects/anthy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

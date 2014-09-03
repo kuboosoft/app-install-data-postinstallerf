@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-remoteobjects</b>'
+Comment='<span size="xx-large">An Object RESTational Model</span>'
+Comment3='
+remoteobjects are real subclassable Python objects on which you can build a
+rich API library.
+
+remoteobjects provides easy coding and transfer between Python objects and a
+JSON REST API. You can define the resources in a RESTful API as RemoteObject
+classes and their properties. These objects then support using the basic HTTP
+verbs to request and submit data to the API.
+'
+License='BSD'
+Screenshot=''
+Url='http://sixapart.github.com/remoteobjects/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-chapterfolder</b>'
+Comment='<span size="xx-large">Package for working with complicated folder structures</span>'
+Comment3='
+This package simplifies working with folder structures that
+match the chapter/section/subsection structure. It provides
+macros to define a folder that contains the file for a
+chapter/section/subsection, and provides macros that allow
+inclusion without using the full path, rather the path relative
+to the current folder of the chapter/section/subsection. It
+makes easy changing the name of a folder, for example.
+
+date 2008-02-29 200041 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

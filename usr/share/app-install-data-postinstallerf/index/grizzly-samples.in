@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>grizzly-samples</b>'
+Comment='<span size="xx-large">Grizzly samples</span>'
+Comment3='
+This package contains samples for grizzly.
+'
+License='(CDDL or GPLv2 with exceptions) and BSD and ASL 2.0 and Public Domain'
+Screenshot=''
+Url='http://grizzly.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

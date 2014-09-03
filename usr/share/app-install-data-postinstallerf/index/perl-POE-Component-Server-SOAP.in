@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-Server-SOAP</b>'
+Comment='<span size="xx-large">Publish POE event handlers via SOAP over HTTP</span>'
+Comment3='
+This module makes serving SOAP/1.1 requests a breeze in POE.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-Server-SOAP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

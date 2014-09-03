@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>themonospot-plugin-mkv</b>'
+Comment='<span size="xx-large">Matroska plugin for themonospot system</span>'
+Comment3='
+themonospot-plugin-mkv is a matroska plugin package for themonospot system.
+It install
+    - themonospot-plugin-mkv mono assembly (use from themonospot-base)
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.integrazioneweb.com/themonospot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

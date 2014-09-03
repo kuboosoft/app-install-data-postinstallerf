@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sigrok-firmware-nonfree</b>'
+Comment='<span size="xx-large">Components of sigrok-firmware with non-free licenses</span>'
+Comment3='
+The sigrok-firmware-nonfree package contains firmwares available under non-free
+licenses which permit redistribution.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.sigrok.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

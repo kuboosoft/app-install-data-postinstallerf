@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sugar-story</b>'
+Comment='<span size="xx-large">An activity that uses images to prompt the learner to tell stories</span>'
+Comment3='
+An activity that uses images to prompt the learner to tell stories.
+'
+License='GPLv3+ and MIT'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Story'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

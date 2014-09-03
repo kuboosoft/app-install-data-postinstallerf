@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>svn2cl</b>'
+Comment='<span size="xx-large">Create a ChangeLog from a Subversion log</span>'
+Comment3='
+svn2cl is a simple XSL transformation and shell script wrapper for
+generating a classic GNU-style ChangeLog from a subversion repository
+log.  It is made from several change log -like scripts using common
+XSLT constructs found in different places.
+'
+License='BSD'
+Screenshot=''
+Url='http://arthurdejong.org/svn2cl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libraw1394-devel</b>'
+Comment='<span size="xx-large">Development libs for libraw1394</span>'
+Comment3='
+Development libraries needed to build applications against libraw1394.
+
+URL          http//www.dennedy.org/libraw1394/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.dennedy.org/libraw1394/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

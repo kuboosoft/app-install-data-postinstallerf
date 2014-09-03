@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>blosc</b>'
+Comment='<span size="xx-large">A high performance compressor optimized for binary data</span>'
+Comment3='
+Blosc is a compression library designed to transmit data to the processor
+cache faster than the traditional non-compressed memory fetch.
+Compression ratios are not very high, but the decompression is very fast.
+Blosc is meant not only to reduce the size of large datasets on-disk or
+in-memory, but also to accelerate memory-bound computations.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://blosc.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

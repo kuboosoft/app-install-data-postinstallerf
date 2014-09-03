@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lpf-skype</b>'
+Comment='<span size="xx-large">Skype Messaging and Telephony Client package bootstrap</span>'
+Comment3='
+Bootstrap package allowing the lpf system to build the non-redistributable skype
+package.
+
+The skype package is available only for i686 systems.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/leamas/lpf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cas-client</b>'
+Comment='<span size="xx-large">Jasig CAS Client for Java</span>'
+Comment3='
+Jasig CAS Client for Java is the integration point for applications that
+want to speak with a CAS server, either via the CAS 1.0 or CAS 2.0 protocol.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://www.jasig.org/cas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

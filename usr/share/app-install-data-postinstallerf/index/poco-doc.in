@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>poco-doc</b>'
+Comment='<span size="xx-large">The POCO API reference documentation</span>'
+Comment3='
+The POCO C++ Libraries (POCO stands for POrtable COmponents)
+are open source C++ class libraries that simplify and accelerate the
+development of network-centric, portable applications in C++. The
+POCO C++ Libraries are built strictly on standard ANSI/ISO C++,
+including the standard library.
+
+This is the complete POCO class library reference documentation in
+HTML format.
+'
+License='Boost'
+Screenshot=''
+Url='http://www.pocoproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

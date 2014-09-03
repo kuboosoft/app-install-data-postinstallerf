@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-xepersian</b>'
+Comment='<span size="xx-large">Persian for LaTeX, using XeTeX</span>'
+Comment3='
+The package supports Persian typesetting, using the Persian
+Modern fonts, by default.
+
+date 2013-11-14 192051 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xemacs-muse</b>'
+Comment='<span size="xx-large">Compiled Muse lisp files for XEmacs</span>'
+Comment3='
+This package contains the files required to use Muse with XEmacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mwolson.org/projects/MuseMode.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

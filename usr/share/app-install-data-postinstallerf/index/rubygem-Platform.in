@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-Platform</b>'
+Comment='<span size="xx-large">Hopefully robust platform sensing</span>'
+Comment3='
+Hopefully robust platform sensing
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://rubyforge.org/projects/platform/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>springframework-context-support</b>'
+Comment='<span size="xx-large">Spring Context Support</span>'
+Comment3='
+This package provide Quartz/CommonJ scheduling,
+UI templating, mail and caching.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.springframework.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

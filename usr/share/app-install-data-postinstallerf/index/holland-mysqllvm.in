@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>holland-mysqllvm</b>'
+Comment='<span size="xx-large">Holland LVM snapshot backup plugin for MySQL</span>'
+Comment3='
+This plugin allows holland to perform LVM snapshot backups of a MySQL database
+and to generate a tar archive of the raw data directory.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hollandbackup.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

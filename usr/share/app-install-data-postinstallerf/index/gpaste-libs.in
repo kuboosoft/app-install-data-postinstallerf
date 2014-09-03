@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gpaste-libs</b>'
+Comment='<span size="xx-large">Library to manage the clipboard history</span>'
+Comment3='
+libgpaste is a library to manage the clipboard history (used by gpasted).
+
+URL          https//github.com/Keruspe/GPaste
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/Keruspe/GPaste'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

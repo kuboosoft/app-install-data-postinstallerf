@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-chicago-annote</b>'
+Comment='<span size="xx-large">Chicago-based annotated BibTeX style</span>'
+Comment3='
+This is a revision of chicagoa.bst, using the commonly-used
+annote field in place of the originals annotation.
+
+date 2009-02-03 151224 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

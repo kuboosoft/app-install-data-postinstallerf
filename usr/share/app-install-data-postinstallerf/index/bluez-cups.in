@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bluez-cups</b>'
+Comment='<span size="xx-large">CUPS printer backend for Bluetooth printers</span>'
+Comment3='
+This package contains the CUPS backend
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bluez.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

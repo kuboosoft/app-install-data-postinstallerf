@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-abstract-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-abstract</span>'
+Comment3='
+This package contains documentation for rubygem-abstract.
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://rubyforge.org/projects/abstract'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

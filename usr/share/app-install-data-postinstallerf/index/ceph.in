@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ceph</b>'
+Comment='<span size="xx-large">User space components of the Ceph file system</span>'
+Comment3='
+Ceph is a distributed network file system designed to provide excellent
+performance, reliability, and scalability.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://ceph.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

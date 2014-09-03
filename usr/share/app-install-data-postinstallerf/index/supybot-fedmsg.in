@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>supybot-fedmsg</b>'
+Comment='<span size="xx-large">Plugin for supybot that enables meetbot with fedmsg output.</span>'
+Comment3='
+A Supybot plugin for sending messages across the Fedora Infrastructure message
+bus.  This plugin modifies other installed plugins during runtime, instrumenting
+them to send messages on certain events.
+
+Currently supported target plugins are
+ - meetbot
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://github.com/ralphbean/supybot-fedmsg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

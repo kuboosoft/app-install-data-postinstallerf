@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python3-nose</b>'
+Comment='<span size="xx-large">Discovery-based unittest extension for Python3</span>'
+Comment3='
+nose extends the test loading and running features of unittest, making
+it easier to write, find and run tests.
+
+By default, nose will run tests in files or directories under the
+current working directory whose names include "test" or "Test" at a
+word boundary (like "test_this" or "functional_test" or "TestClass"
+but not "libtest"). Test output is similar to that of unittest, but
+also includes captured stdout output from failing tests, for easy
+print-style debugging.
+'
+License='LGPLv2+ and Public Domain'
+Screenshot=''
+Url='http://somethingaboutorange.com/mrl/projects/nose/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

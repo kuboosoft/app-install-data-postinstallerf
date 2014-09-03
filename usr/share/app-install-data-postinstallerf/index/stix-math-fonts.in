@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>stix-math-fonts</b>'
+Comment='<span size="xx-large">Scientific and engineering fonts, PUA glyphs</span>'
+Comment3='
+
+The mission of the Scientific and Technical Information Exchange (STIX) font
+creation project is the preparation of a comprehensive set of fonts that serve
+the scientific and engineering community in the process from manuscript
+creation through final publication, both in electronic and print formats.
+This package includes one symbol font completing the four faces in the main
+stix-fonts package. It replaces the heap of confusing fontlets in the first Stix
+release.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.stixfonts.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

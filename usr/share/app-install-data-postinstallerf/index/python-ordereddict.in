@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-ordereddict</b>'
+Comment='<span size="xx-large">Implementation of Python 2.7s OrderedDict</span>'
+Comment3='
+Drop-in substitute for Py2.7s new collections.OrderedDict.
+Originally based on http//code.activestate.com/recipes/576693/
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/ordereddict'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

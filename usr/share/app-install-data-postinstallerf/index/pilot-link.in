@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>pilot-link</b>'
+Comment='<span size="xx-large">File transfer utilities between Linux and PalmPilots</span>'
+Comment3='
+This suite of tools allows you to upload and download programs and
+data files between a Linux/UNIX machine and the PalmPilot. It has a
+few extra utilities that will allow for things like syncing the
+PalmPilots calendar app with Ical. Note that you might still need to
+consult the sources for pilot-link if you would like the Python, Tcl,
+or Perl bindings.
+
+Install pilot-link if you want to synchronize your Palm with your Red
+Hat Linux system.
+'
+License='GPLv2 and GPLv2+ and LGPLv2+ and Public Domain'
+Screenshot=''
+Url='http://www.pilot-link.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

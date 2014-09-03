@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libmatthew-java-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for libmatthew-java</span>'
+Comment3='
+Javadoc for libmatthew-java
+'
+License='MIT'
+Screenshot=''
+Url='http://matthew.ath.cx/projects/java/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

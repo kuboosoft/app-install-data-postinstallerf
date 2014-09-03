@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pyxtrlock</b>'
+Comment='<span size="xx-large">The X transparent screen lock rewritten in Python</span>'
+Comment3='
+pyxtrlock, like its predecessor xtrlock, is a very minimal X display lock
+program. While pyxtrlock is running, it does not obscure the screen, only the
+mouse and keyboard are grabbed and the mouse cursor becomes a padlock. Output
+displayed by X programs, and windows put up by new X clients, continue to be
+visible, and any new output is displayed normally.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://zombofant.net/hacking/pyxtrlock'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

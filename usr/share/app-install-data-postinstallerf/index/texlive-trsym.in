@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-trsym</b>'
+Comment='<span size="xx-large">Symbols for transformations</span>'
+Comment3='
+The bundle provides MetaFont sources for a small font used for
+(e.g.) Laplace transformations, together with a LaTeX .fd file
+and a package providing commands for the symbols use in
+mathematics.
+
+date 2007-10-24 180515 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

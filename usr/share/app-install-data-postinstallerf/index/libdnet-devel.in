@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdnet-devel</b>'
+Comment='<span size="xx-large">Header files for libdnet library</span>'
+Comment3='
+Header files for libdnet library.
+
+URL          http//code.google.com/p/libdnet/
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/libdnet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

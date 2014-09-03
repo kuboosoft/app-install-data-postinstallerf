@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glyph-keeper-SDL-devel</b>'
+Comment='<span size="xx-large">Development files for glyph-keeper-SDL</span>'
+Comment3='
+The glyph-keeper-SDL-devel package contains libraries and header files for
+developing applications that use glyph-keeper-SDL.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://www.allegro.cc/resource/Libraries/Text/GlyphKeeper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libltc</b>'
+Comment='<span size="xx-large">Linear/Longitudinal Time Code (LTC) Library</span>'
+Comment3='
+Linear (or Longitudinal) Timecode (LTC) is an encoding of time code data as a
+Manchester-Biphase encoded audio signal. The audio signal is commonly recorded
+on a VTR track or other storage media.
+
+libltc provides functionality to encode and decode LTC from/to time code,
+including SMPTE date support.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://x42.github.io/libltc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

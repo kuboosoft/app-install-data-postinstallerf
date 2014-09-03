@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pywbem-twisted</b>'
+Comment='<span size="xx-large">WBEM client bindings for Twisted Python</span>'
+Comment3='
+This module contains factory classes that produce WBEM5Client instances
+that perform WBEM requests over HTTP using the
+twisted.protocols.http.HTTPClient base class.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pywbem.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

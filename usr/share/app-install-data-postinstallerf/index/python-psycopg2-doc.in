@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-psycopg2-doc</b>'
+Comment='<span size="xx-large">Documentation for psycopg python PostgreSQL database adapter</span>'
+Comment3='
+Documentation and example files for the psycopg python PostgreSQL
+database adapter.
+'
+License='LGPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.psycopg.org/psycopg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

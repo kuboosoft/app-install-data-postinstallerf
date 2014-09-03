@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>OpenSceneGraph-devel</b>'
+Comment='<span size="xx-large">Development files for OpenSceneGraph</span>'
+Comment3='
+Development files for OpenSceneGraph.
+
+URL          http//www.openscenegraph.org/
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.openscenegraph.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

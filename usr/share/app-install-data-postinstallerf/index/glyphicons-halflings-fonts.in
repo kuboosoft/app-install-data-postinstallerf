@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>glyphicons-halflings-fonts</b>'
+Comment='<span size="xx-large">Precisely prepared monochromatic icons and symbols</span>'
+Comment3='
+GLYPHICONS is a library of precisely prepared monochromatic icons and symbols,
+created with an emphasis on simplicity and easy orientation.
+'
+License='MIT'
+Screenshot=''
+Url='http://glyphicons.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

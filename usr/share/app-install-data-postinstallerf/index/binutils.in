@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>binutils</b>'
+Comment='<span size="xx-large">A GNU collection of binary utilities</span>'
+Comment3='
+Binutils is a collection of binary utilities, including ar (for
+creating, modifying and extracting from archives), as (a family of GNU
+assemblers), gprof (for displaying call graph profile data), ld (the
+GNU linker), nm (for listing symbols from object files), objcopy (for
+copying and translating object files), objdump (for displaying
+information from object files), ranlib (for generating an index for
+the contents of an archive), readelf (for displaying detailed
+information about binary files), size (for listing the section sizes
+of an object or archive file), strings (for listing printable strings
+from files), strip (for discarding symbols), and addr2line (for
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sources.redhat.com/binutils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>msp430mcu</b>'
+Comment='<span size="xx-large">Headers and linker scripts for MSP430 micro-controllers</span>'
+Comment3='
+Headers and linker scripts for the Texas Instruments MSP430 range of
+micro-controllers.  These headers provide the location of all the
+special function registers of the micro-controllers.  The linker
+scripts provide the mapping of those registers into memory as well as
+information on where code should be loaded.
+'
+License='BSD'
+Screenshot=''
+Url='http://mspgcc.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

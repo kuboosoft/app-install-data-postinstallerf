@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>collectd-curl_xml</b>'
+Comment='<span size="xx-large">Curl XML plugin for collectd</span>'
+Comment3='
+This plugin retrieves XML data via curl.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

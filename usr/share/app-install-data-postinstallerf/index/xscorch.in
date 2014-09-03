@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xscorch</b>'
+Comment='<span size="xx-large">A Scorched Earth clone</span>'
+Comment3='
+xscorch is a clone of the classic DOS game, "Scorched Earth". The basic goal
+is to annihilate enemy tanks using overpowered guns ). Basically, you buy
+weapons, you target the enemy by adjusting the angle of your turret and firing
+power, and you hope to destroy their tank before they destroy yours.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.xscorch.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libalpm</b>'
+Comment='<span size="xx-large">Arch Linux Package Management library</span>'
+Comment3='
+
+This library is the backend behind Pacman ? the package manager used
+by the Arch distribution. It uses simple compressed files as a package
+format, and maintains a text-based package database.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://www.archlinux.org/pacman'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-shake</b>'
+Comment='<span size="xx-large">Haskell shake library</span>'
+Comment3='
+This package provides the Haskell shake shared library.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shake'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

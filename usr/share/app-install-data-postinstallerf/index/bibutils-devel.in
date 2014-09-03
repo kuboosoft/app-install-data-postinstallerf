@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bibutils-devel</b>'
+Comment='<span size="xx-large">Development files for bibutils</span>'
+Comment3='
+Bibutils development files.
+
+URL          http//sourceforge.net/p/bibutils/home/Bibutils/
+'
+License='GPL+'
+Screenshot=''
+Url='http://sourceforge.net/p/bibutils/home/Bibutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

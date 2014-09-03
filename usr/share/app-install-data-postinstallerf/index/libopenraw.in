@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libopenraw</b>'
+Comment='<span size="xx-large">Decode camera RAW files</span>'
+Comment3='
+libopenraw is an ongoing project to provide a free software
+implementation for camera RAW files decoding. One of the main reason is
+that dcraw is not suited for easy integration into applications, and
+there is a need for an easy to use API to build free software digital
+image processing application.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://libopenraw.freedesktop.org/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

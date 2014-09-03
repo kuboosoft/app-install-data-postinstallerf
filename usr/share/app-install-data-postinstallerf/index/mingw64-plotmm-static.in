@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-plotmm-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows PlotMM library</span>'
+Comment3='
+Static version of the MinGW Windows PlotMM library.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://plotmm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n ayttm
+Name=ayttm
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_ayttm.png
+Comment="The GTK Unified Messaging Client"
+Terminal=0
+Type=Application
+Categories=Network;InstantMessaging

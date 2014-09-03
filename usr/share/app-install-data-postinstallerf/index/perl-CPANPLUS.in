@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CPANPLUS</b>'
+Comment='<span size="xx-large">Ameliorated interface to the Comprehensive Perl Archive Network</span>'
+Comment3='
+The CPANPLUS library is an API to the CPAN mirrors and a collection of
+interactive shells, command line programs, etc., that use this API.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPANPLUS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

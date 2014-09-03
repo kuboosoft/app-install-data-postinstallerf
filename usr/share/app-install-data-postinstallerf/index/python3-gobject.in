@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-gobject</b>'
+Comment='<span size="xx-large">Python 3 bindings for GObject Introspection</span>'
+Comment3='
+The python3-gobject package provides a convenient wrapper for the GObject
+library and and other libraries that are compatible with GObject Introspection,
+for use in Python 3 programs.
+
+'
+License='LGPLv2+ and MIT'
+Screenshot=''
+Url='https://live.gnome.org/PyGObject'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

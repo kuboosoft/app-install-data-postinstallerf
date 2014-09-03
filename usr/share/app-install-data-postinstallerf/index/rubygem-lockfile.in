@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-lockfile</b>'
+Comment='<span size="xx-large">Ruby library for creating NFS safe lockfiles</span>'
+Comment3='
+rlock creates NFS resistant lockfiles
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://codeforpeople.com/lib/ruby/lockfile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-attoparsec</b>'
+Comment='<span size="xx-large">Fast combinator parsing for bytestrings and text</span>'
+Comment3='
+A fast parser combinator library, aimed particularly at dealing
+efficiently with network protocols and complicated text/binary
+file formats.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/attoparsec'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

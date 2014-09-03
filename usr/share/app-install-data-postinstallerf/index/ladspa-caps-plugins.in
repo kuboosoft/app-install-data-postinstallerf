@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ladspa-caps-plugins</b>'
+Comment='<span size="xx-large">The C* Audio Plugin Suite</span>'
+Comment3='
+caps, the C* Audio Plugin Suite, is a collection of refined LADSPA
+units including instrument amplifier emulation, stomp-box classics,
+versatile virtual analog oscillators, fractal oscillation, reverb,
+equalization and others.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://quitte.de/dsp/caps.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

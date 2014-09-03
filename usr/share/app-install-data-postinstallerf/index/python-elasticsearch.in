@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-elasticsearch</b>'
+Comment='<span size="xx-large">Client for Elasticsearch</span>'
+Comment3='
+Low level client for Elasticsearch. Its goal is to provide common ground
+for all Elasticsearch-related code in Python. The clients features include
+
+- Translating basic Python data types to and from json
+- Configurable automatic discovery of cluster nodes
+- Persistent connections
+- Load balancing (with pluggable selection strategy) across all available nodes
+- Failed connection penalization (time based - failed connections wont be
+  retried until a timeout is reached)
+- Thread safety
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/elasticsearch/elasticsearch-py'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghmm-static</b>'
+Comment='<span size="xx-large">Static libraries for ghmm</span>'
+Comment3='
+Static libraries for developing with ghmm.
+
+URL          http//ghmm.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ghmm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

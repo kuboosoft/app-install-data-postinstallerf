@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libibverbs</b>'
+Comment='<span size="xx-large">A library for direct userspace use of RDMA (InfiniBand/iWARP) hardware</span>'
+Comment3='
+libibverbs is a library that allows userspace processes to use RDMA
+the RDMA Protocol Verbs Specification.  This includes direct hardware
+access from userspace to InfiniBand/iWARP adapters (kernel bypass) for
+fast path operations.
+
+For this library to be useful, a device-specific plug-in module should
+also be installed.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

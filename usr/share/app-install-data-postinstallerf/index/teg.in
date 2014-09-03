@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>teg</b>'
+Comment='<span size="xx-large">Turn based strategy game</span>'
+Comment3='
+Tenes Empanadas Graciela is a clone of Plan T?ctico y Estrat?gico de la
+Guerra, a turn based strategy game. Some rules are different.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://teg.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

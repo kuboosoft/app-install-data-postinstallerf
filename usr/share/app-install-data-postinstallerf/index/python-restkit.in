@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-restkit</b>'
+Comment='<span size="xx-large">Restkit is an HTTP resource kit for Python</span>'
+Comment3='
+Restkit is a full HTTP client using pure socket calls and its own
+HTTP parser. Its not based on httplib or urllib2.
+'
+License='MIT'
+Screenshot=''
+Url='http://benoitc.github.com/restkit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>PySolFC</b>'
+Comment='<span size="xx-large">A collection of solitare card games</span>'
+Comment3='
+PySolFC is a collection of more than 1000 solitaire card games. It is a fork
+of PySol solitare. Its features include modern look and feel (uses Tile widget
+set), multiple cardsets and tableau backgrounds, sound, unlimited undo, player
+statistics, a hint system, demo games, a solitaire wizard, support for user
+written plug-ins, an integrated HTML help browser, and lots of documentation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pysolfc.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

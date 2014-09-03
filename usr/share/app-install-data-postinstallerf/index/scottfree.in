@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>scottfree</b>'
+Comment='<span size="xx-large">Interpreter for Scott Adams format text adventure games</span>'
+Comment3='
+ScottFree is an interpreter for Scott-Adams-format text adventure games
+(remember those?). It reads and executes TRS-80 format data files.
+
+Most Adventure International Games are distributed as shareware and are
+available from ftp//ftp.gmd.de/if-archive/scott-adams/
+'
+License='GPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

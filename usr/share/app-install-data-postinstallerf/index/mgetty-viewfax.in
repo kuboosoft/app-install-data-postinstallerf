@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mgetty-viewfax</b>'
+Comment='<span size="xx-large">An X Window System fax viewer</span>'
+Comment3='
+Viewfax displays the fax files received using mgetty in an X11 window.
+Viewfax is capable of zooming in and out on the displayed fax.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mgetty.greenie.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

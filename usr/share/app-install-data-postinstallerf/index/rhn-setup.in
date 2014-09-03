@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rhn-setup</b>'
+Comment='<span size="xx-large">Configure and register an RHN/Spacewalk client</span>'
+Comment3='
+rhn-setup contains programs and utilities to configure a system to use
+Red Hat Satellite or Spacewalk, and to register a system with a Red Hat Satellite or Spacewalk server.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

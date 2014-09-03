@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-ellipsis</b>'
+Comment='<span size="xx-large">Fix uneven spacing around ellipses in LaTeX text mode</span>'
+Comment3='
+This is a simple package that fixes a problem in the way LaTeX
+handles ellipses it always puts a tiny bit more space after
+\dots in text mode than before it, which results in the
+ellipsis being off-center when used between two words.
+
+date 2007-01-02 011718 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

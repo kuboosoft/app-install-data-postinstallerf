@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pythonqt</b>'
+Comment='<span size="xx-large">Lightweight script binding of the Qt framework to the Python language</span>'
+Comment3='
+PythonQt is a dynamic and lightweight script binding of the Qt framework
+to the Python language. It can be easily embedded into Qt applications and
+makes any QObject derived object scriptable via Python without the need of
+wrapper code generation.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pythonqt.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

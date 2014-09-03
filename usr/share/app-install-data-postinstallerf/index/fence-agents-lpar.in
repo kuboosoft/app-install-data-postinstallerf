@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-lpar</b>'
+Comment='<span size="xx-large">Fence agent for IBM LPAR</span>'
+Comment3='
+The fence-agents-lpar package contains a fence agent for IBM LPAR devices that are accessed via telnet or SSH.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

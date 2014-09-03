@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wpa_supplicant-gui</b>'
+Comment='<span size="xx-large">Graphical User Interface for wpa_supplicant</span>'
+Comment3='
+Graphical User Interface for wpa_supplicant written using QT
+'
+License='BSD'
+Screenshot=''
+Url='http://w1.fi/wpa_supplicant/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

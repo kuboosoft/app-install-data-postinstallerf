@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ocaml-pgocaml</b>'
+Comment='<span size="xx-large">OCaml library for type-safe access to PostgreSQL databases</span>'
+Comment3='
+PGOCaml is a type-safe, simple interface to PostgreSQL from OCaml. It
+lets you embed SQL statements directly into OCaml code.
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://pgocaml.forge.ocamlcore.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

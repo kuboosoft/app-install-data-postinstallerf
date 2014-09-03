@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libcdaudio</b>'
+Comment='<span size="xx-large">Control operation of a CD-ROM when playing audio CDs</span>'
+Comment3='
+libcdaudio is a library designed to provide functions to control
+operation of a CD-ROM when playing audio CDs.  It also contains
+functions for CDDB and CD Index lookup.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libcdaudio.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

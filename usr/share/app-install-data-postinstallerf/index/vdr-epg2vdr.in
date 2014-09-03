@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdr-epg2vdr</b>'
+Comment='<span size="xx-large">A plugin to retrieve EPG data from a mysql database into VDR</span>'
+Comment3='
+This plugin is used to retrieve EPG data into the VDR. The EPG data
+was loaded from a mysql database.
+'
+License='GPL+'
+Screenshot=''
+Url='http://projects.vdr-developer.org/git/vdr-plugin-epg2vdr.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

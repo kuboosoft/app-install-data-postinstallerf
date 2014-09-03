@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ipmiutil-devel</b>'
+Comment='<span size="xx-large">Includes libraries and headers for the ipmiutil package</span>'
+Comment3='
+The ipmiutil-devel package contains headers and libraries which are
+useful for building custom IPMI applications.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://ipmiutil.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

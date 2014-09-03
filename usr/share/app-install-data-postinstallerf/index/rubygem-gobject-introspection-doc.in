@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-gobject-introspection-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-gobject-introspection</span>'
+Comment3='
+Documentation for rubygem-gobject-introspection
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

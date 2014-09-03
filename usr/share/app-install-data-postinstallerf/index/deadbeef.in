@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>deadbeef</b>'
+Comment='<span size="xx-large">A music player with *.cue support</span>'
+Comment3='
+DeaDBeeF (as in 0xDEADBEEF) is an audio player for GNU/Linux systems with X11
+(though now it also runs in plain console without X, in FreeBSD, and in
+OpenSolaris).
+
+It is mainly written by Alexey Yakovenko, with contributions from a lot of
+different people (see about box in the player for more details).
+It is distributed under the terms of General Public License version 2.
+'
+License='GPLv2'
+It is distributed under the terms of General Public License version 2.'
+Screenshot=''
+Url='http://deadbeef.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

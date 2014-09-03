@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>freecad</b>'
+Comment='<span size="xx-large">A general purpose 3D CAD modeler</span>'
+Comment3='
+FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler, aimed
+directly at mechanical engineering and product design but also fits a wider
+range of uses in engineering, such as architecture or other engineering
+specialties. It is a feature-based parametric modeler with a modular software
+architecture which makes it easy to provide additional functionality without
+modifying the core system.
+'
+License='GPLv3+ with exception'
+Screenshot=''
+Url='http://sourceforge.net/apps/mediawiki/free-cad/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

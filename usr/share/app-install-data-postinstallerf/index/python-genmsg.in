@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-genmsg</b>'
+Comment='<span size="xx-large">Python library for generating ROS message and service data</span>'
+Comment3='
+Project genmsg exists in order to decouple code generation from .msg & .srv
+format files from the parsing of these files and from implementation details
+of the build system (project directory layout, existence or nonexistence of
+utilities like rospack, values of environment variables such as
+ROS_PACKAGE_PATH) i.e. none of these are required to be set in any
+particular way.
+'
+License='BSD'
+Screenshot=''
+Url='http://ros.org/doc/api/genmsg/html/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

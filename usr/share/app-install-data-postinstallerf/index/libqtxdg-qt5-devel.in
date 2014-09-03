@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libqtxdg-qt5-devel</b>'
+Comment='<span size="xx-large">Qt5 - development files for Qt5Xdg</span>'
+Comment3='
+Files used for developing and building software that uses Qt5Xdg.
+
+URL          https//github.com/lxde/libqtxdg
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/lxde/libqtxdg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

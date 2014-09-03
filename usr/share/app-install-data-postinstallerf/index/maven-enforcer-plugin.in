@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-enforcer-plugin</b>'
+Comment='<span size="xx-large">Enforcer Rules</span>'
+Comment3='
+This component contains the standard Enforcer Rules.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/enforcer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

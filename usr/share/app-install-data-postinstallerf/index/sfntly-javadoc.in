@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sfntly-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for sfntly</span>'
+Comment3='
+This package contains the API documentation for sfntly.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/sfntly/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

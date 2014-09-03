@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cairo-dock</b>'
+Comment='<span size="xx-large">Light eye-candy fully themable animated dock</span>'
+Comment3='
+This is a metapackage for installing all default packages
+related to cairo-dock.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.glx-dock.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

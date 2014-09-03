@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kolourpaint</b>'
+Comment='<span size="xx-large">An easy-to-use paint program</span>'
+Comment3='
+An easy-to-use paint program.
+'
+License='BSD'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/kolourpaint'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

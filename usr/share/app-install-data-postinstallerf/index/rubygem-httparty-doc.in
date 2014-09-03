@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-httparty-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-httparty</span>'
+Comment3='
+This package contains documentation for rubygem-httparty.
+'
+License='MIT'
+Screenshot=''
+Url='http://httparty.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

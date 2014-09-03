@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wicd-gtk</b>'
+Comment='<span size="xx-large">GTK+ client for wicd</span>'
+Comment3='
+Client program for wicd that uses a GTK+ interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wicd.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

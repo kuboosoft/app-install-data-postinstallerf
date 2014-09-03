@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>apt-python</b>'
+Comment='<span size="xx-large">Python bindings for libapt-pkg</span>'
+Comment3='
+The apt-python package contains a module which allows python programs
+to access the APT library interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://apt-rpm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

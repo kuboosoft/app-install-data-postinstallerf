@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-scrapy-doc</b>'
+Comment='<span size="xx-large">Documentation for python-scrapy</span>'
+Comment3='
+This package contains the documentation for python-scrapy
+'
+License='BSD'
+Screenshot=''
+Url='http://scrapy.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>igor-client</b>'
+Comment='<span size="xx-large">Client to communicate with an Igor daemon</span>'
+Comment3='
+The client is used to initiate jobs, create profiles etc. and query all sorts
+of informations.
+Basically it is an CLI to Igors RESTish API.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.github.com/fabiand/igor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

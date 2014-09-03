@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dom4j-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for dom4j</span>'
+Comment3='
+Javadoc for dom4j.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.dom4j.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>android-tools</b>'
+Comment='<span size="xx-large">Android platform tools(adb, fastboot)</span>'
+Comment3='
+
+The Android Debug Bridge (ADB) is used to
+- keep track of all Android devices and emulators instances
+  connected to or running on a given host developer machine
+- implement various control commands (e.g. "adb shell", "adb pull", etc.)
+  for the benefit of clients (command-line users, or helper programs like
+  DDMS). These commands are what is called a service in ADB.
+'
+License='ASL 2.0 and (ASL 2.0 and BSD)'
+Screenshot=''
+Url='http://developer.android.com/guide/developing/tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

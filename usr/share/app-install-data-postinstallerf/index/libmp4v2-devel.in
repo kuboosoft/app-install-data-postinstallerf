@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmp4v2-devel</b>'
+Comment='<span size="xx-large">Development files for the mp4v2 library</span>'
+Comment3='
+Development files and documentation needed to develop and compile programs
+using the libmp4v2 library.
+
+'
+License='MPLv1.1'
+Screenshot=''
+Url='http://resare.com/libmp4v2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

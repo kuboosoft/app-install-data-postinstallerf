@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>glpi-fusioninventory</b>'
+Comment='<span size="xx-large">FusionInventory Server embedded as a GLPI plugin</span>'
+Comment3='
+FusionInventory is a free and open source project providing hardware, software
+inventory, software deployment and network discovery to the IT asset management
+and helpdesk software called GLPI. "FusionInventory for GLPI" is a collection
+of plugins communicating with some agents (FusionInventory-Agent), deployed on
+computers
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://forge.fusioninventory.org/projects/fusioninventory-for-glpi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

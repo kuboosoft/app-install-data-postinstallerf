@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>quagga</b>'
+Comment='<span size="xx-large">Routing daemon</span>'
+Comment3='
+Quagga is free software that operates TCP/IP-based routing protocols. It takes
+a multi-server and multi-threaded approach to resolving the current complexity
+of the Internet.
+
+Quagga supports Babel, BGP4, BGP4+, BGP4-, IS-IS (experimental), OSPFv2,
+OSPFv3, RIPv1, RIPv2, and RIPng.
+Quagga is intended to be used as a Route Server and a Route Reflector. It is
+not a toolkit; it provides full routing power under a new architecture.
+Quagga by design has a process for each protocol.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.quagga.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

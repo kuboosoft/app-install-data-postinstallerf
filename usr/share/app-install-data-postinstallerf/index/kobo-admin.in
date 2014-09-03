@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kobo-admin</b>'
+Comment='<span size="xx-large">Kobo admin script for instant project deployment</span>'
+Comment3='
+Kobo admin provides templates for various kobo-based projects,
+incl. CLI, hub client, worker and hub.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/kobo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

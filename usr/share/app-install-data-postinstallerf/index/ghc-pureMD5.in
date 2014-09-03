@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-pureMD5</b>'
+Comment='<span size="xx-large">Pure Haskell MD5 digest implementation</span>'
+Comment3='
+A Haskell-only implementation of the MD5 digest (hash) algorithm.
+This now supports the crypto-api class interface.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/pureMD5'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

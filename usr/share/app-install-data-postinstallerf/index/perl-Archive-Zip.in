@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Archive-Zip</b>'
+Comment='<span size="xx-large">Perl library for accessing Zip archives</span>'
+Comment3='
+The ArchiveZip module allows a Perl program to create, manipulate,
+read, and write Zip archive files.
+Zip archives can be created, or you can read from existing zip files.
+Once created, they can be written to files, streams, or strings.
+Members can be added, removed, extracted, replaced, rearranged, and
+enumerated.  They can also be renamed or have their dates, comments,
+or other attributes queried or modified.  Their data can be compressed
+or uncompressed as needed.  Members can be created from members in
+existing Zip files, or from existing directories, files, or strings.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Archive-Zip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

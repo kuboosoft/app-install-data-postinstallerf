@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>tlssled</b>'
+Comment='<span size="xx-large">An evaluation tool for SSL/TLS (HTTPS) web server implementations</span>'
+Comment3='
+TLSSLed is a Linux shell script whose purpose is to evaluate the security of
+a target SSL/TLS (HTTPS) web server implementation. It is based on sslscan, a
+thorough SSL/TLS scanner that is based on the openssl library, and on the
+"openssl s_client" command line tool. The current tests include checking if
+the target supports the SSLv2 protocol, the NULL cipher, weak ciphers based
+on their key length (40 or 56 bits), the availability of strong ciphers
+(like AES), if the digital certificate is MD5 signed, and the current SSL/TLS
+renegotiation capabilities.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.taddong.com/en/lab.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

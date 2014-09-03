@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>hamster-time-tracker</b>'
+Comment='<span size="xx-large">The Linux time tracker</span>'
+Comment3='
+Project Hamster is time tracking for individuals. It helps you to keep track on
+how much time you have spent during the day on activities you choose to track.
+
+Whenever you change from doing one task to other, you change your current
+activity in Hamster. After a while you can see how many hours you have spent on
+what. Maybe print it out, or export to some suitable format, if time reporting
+is a request of your employee.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://projecthamster.wordpress.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

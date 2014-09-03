@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>magic</b>'
+Comment='<span size="xx-large">A very capable VLSI layout tool</span>'
+Comment3='
+Magic is a venerable VLSI layout tool. Magic VLSI remains
+popular with universities and small companies.
+
+Magic is widely cited as being the easiest tool to use for
+circuit layout, even for people who ultimately rely on commercial
+tools for their product design flow.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://opencircuitdesign.com/magic/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

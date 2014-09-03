@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-rotating</b>'
+Comment='<span size="xx-large">Rotation tools, including rotated full-page floats</span>'
+Comment3='
+A package built on the standard LaTeX graphics package to
+perform all the different sorts of rotation one might like,
+including complete figures and tables with their captions. If
+you want continuous text (i.e., more than one page) set in
+landscape mode, use the lscape package instead. The rotating
+packages only deals in rotated boxes (or floats, which are
+themselves boxes), and boxes always stay on one page. If you
+need to use the facilities of the float in the same document,
+load rotating.sty via rotfloat, which smooths the path between
+the rotating and float packages.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

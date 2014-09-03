@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pdfedit</b>'
+Comment='<span size="xx-large">A complete pdf document editing solution</span>'
+Comment3='
+Free pdf editing using PdfEdit. Complete editing of pdf documents is made
+possible with PDFedit. You can change either raw pdf objects (for advanced
+users) or use predefined gui functions. Functions can be easily added as
+everything is based on a script.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/pdfedit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

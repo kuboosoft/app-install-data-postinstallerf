@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>smooks-cartridge-base-pom</b>'
+Comment='<span size="xx-large">Base POM for Milyn Smooks Cartridges</span>'
+Comment3='
+Base POM for Milyn Smooks Cartridges.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.smooks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

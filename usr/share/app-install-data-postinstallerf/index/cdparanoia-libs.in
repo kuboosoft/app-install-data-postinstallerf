@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cdparanoia-libs</b>'
+Comment='<span size="xx-large">Libraries for libcdda_paranoia (Paranoia III)</span>'
+Comment3='
+The cdparanoia-libs package contains the dynamic libraries needed for
+applications which read CD Digital Audio disks.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.xiph.org/paranoia/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gprbuild</b>'
+Comment='<span size="xx-large">Ada project builder</span>'
+Comment3='
+GPRbuild is an advanced software tool designed to help automate
+the construction of multi-language systems.
+It removes complexity from multi-language development by allowing
+developers to quickly and easily compile and link software written
+in a combination of languages including Ada, Assembler, C, C++, and Fortran.
+Easily extendable by users to cover new toolchains and languages
+it is primarily aimed at projects of all sizes organized into subsystems
+and libraries and is particularly well-suited for compiled languages.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libre.adacore.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

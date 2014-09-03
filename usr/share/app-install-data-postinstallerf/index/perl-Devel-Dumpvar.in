@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Devel-Dumpvar</b>'
+Comment='<span size="xx-large">Pure-OO reimplementation of dumpvar.pl</span>'
+Comment3='
+Most perl dumping modules are focused on serializing data structures into
+a format that can be rebuilt into the original data structure. They do
+this with a variety of different focuses, such as human readability, the
+ability to execute the dumped code directly, or to minimize the size of
+the dumped data.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Dumpvar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

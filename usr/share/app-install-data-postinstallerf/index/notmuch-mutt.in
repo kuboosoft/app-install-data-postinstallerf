@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>notmuch-mutt</b>'
+Comment='<span size="xx-large">Notmuch (of a) helper for Mutt</span>'
+Comment3='
+notmuch-mutt provide integration among the Mutt mail user agent and
+the Notmuch mail indexer.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://notmuchmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

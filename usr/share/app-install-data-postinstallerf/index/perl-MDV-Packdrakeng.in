@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-MDV-Packdrakeng</b>'
+Comment='<span size="xx-large">Simple Archive Extractor/Builder</span>'
+Comment3='
+MDVPackdrakeng is a simple indexed archive builder and extractor using
+standard compression methods.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/MDV-Packdrakeng/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

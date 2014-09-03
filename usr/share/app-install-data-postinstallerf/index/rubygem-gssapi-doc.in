@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-gssapi-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-gssapi</span>'
+Comment3='
+Documentation for rubygem-gssapi
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/zenchild/gssapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

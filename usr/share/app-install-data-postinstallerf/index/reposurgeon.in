@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>reposurgeon</b>'
+Comment='<span size="xx-large">SCM Repository Manipulation Tool</span>'
+Comment3='
+Reposurgeon enables risky operations that version-control systems dont want
+to let you do, such as editing past comments and metadata and removing
+commits. It works with any version control system that can export and import
+git fast-import streams, including git, hg, and bzr.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.catb.org/~esr/reposurgeon/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

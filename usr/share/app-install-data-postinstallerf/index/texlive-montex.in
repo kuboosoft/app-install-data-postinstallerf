@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-montex</b>'
+Comment='<span size="xx-large">Mongolian LaTeX</span>'
+Comment3='
+MonTeX provides Mongolian and Manju support for the TeX/LaTeX
+community. Mongolian is a language spoken in North East Asia,
+namely Mongolia and the Inner Mongol Autonomous Region of
+China. Today, it is written in an extended Cyrillic alphabet in
+Mongolia whereas the Uighur writing continues to be in use in
+Inner Mongolia, though it is also, legally speaking, the
+official writing system of Mongolia. Manju is another language
+of North East Asia, belonging to the Tungusic branch of the
+Altaic languages. Though it is hardly spoken nowadays, it
+survives in written form as Manju was the native language of
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

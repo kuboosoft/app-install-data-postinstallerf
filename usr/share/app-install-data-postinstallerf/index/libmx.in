@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libmx</b>'
+Comment='<span size="xx-large">A clutter widget toolkit</span>'
+Comment3='
+Mx is a clutter widget toolkit that provides a set of standard user interface
+elements, including buttons, progress bars, tooltips, scroll bars and others.
+It also implements some standard layout managers. One other interesting feature
+is the possibility of setting style properties from a css-like file. It is
+currently used by Moblin to provide the user experience.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.clutter-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

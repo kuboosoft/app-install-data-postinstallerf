@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dejavu-fonts-common</b>'
+Comment='<span size="xx-large">Common files for the Dejavu font set</span>'
+Comment3='
+
+The DejaVu font set is based on the ?Bitstream Vera? fonts, release 1.10. Its
+purpose is to provide a wider range of characters, while maintaining the
+original style, using an open collaborative development process.
+This package consists of files used by other DejaVu packages.
+'
+License='Bitstream Vera and Public Domain'
+Screenshot=''
+Url='http://dejavu-fonts.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

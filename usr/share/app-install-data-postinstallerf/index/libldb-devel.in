@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libldb-devel</b>'
+Comment='<span size="xx-large">Developer tools for the LDB library</span>'
+Comment3='
+Header files needed to develop programs that link against the LDB library.
+
+URL          http//ldb.samba.org/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://ldb.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

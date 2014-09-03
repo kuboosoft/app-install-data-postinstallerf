@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>GeoIP</b>'
+Comment='<span size="xx-large">Library for country/city/organization to IP address or hostname mapping</span>'
+Comment3='
+GeoIP is a C library that enables the user to find the country that any IP
+address or hostname originates from.
+
+It uses file based databases that can optionally be updated on a weekly basis
+by installing the GeoIP-update (IPv4) and/or GeoIP-update6 (IPv6) packages.
+This package includes GeoLite data created by MaxMind, available from
+http//www.maxmind.com/
+'
+License='LGPLv2+ and GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://www.maxmind.com/app/c'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

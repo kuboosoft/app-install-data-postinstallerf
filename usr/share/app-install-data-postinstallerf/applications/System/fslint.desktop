@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n fslint
+Name=FSlint
+Comment=File System Lint
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/fslint_icon.png
+Categories=System;Filesystem;GTK;

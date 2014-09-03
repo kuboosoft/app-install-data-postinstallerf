@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-vkontakte</b>'
+Comment='<span size="xx-large">vk.com (aka vkontakte.ru) API wrapper</span>'
+Comment3='
+This is a vk.com (aka vkontakte.ru, largest Russian social network) python API
+wrapper. The goal is to support all API methods (current and future) that can
+be accessed from server.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/vkontakte'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

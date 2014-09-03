@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>amanda-server</b>'
+Comment='<span size="xx-large">The server side of the AMANDA tape backup system</span>'
+Comment3='
+The amanda-server package should be installed on the AMANDA server,
+the machine attached to the device(s) (such as a tape drive) where backups
+will be written. You will also need to install the amanda package on
+the AMANDA server machine.  And, if the server is also to be backed up, the
+server also needs to have the amanda-client package installed.
+'
+License='BSD and GPLv3+ and GPLv2+ and GPLv2'
+Screenshot=''
+Url='http://www.amanda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-cjk-ko</b>'
+Comment='<span size="xx-large">Extension of the CJK package for Korean typesetting</span>'
+Comment3='
+The package supports typesetting UTF-8-encoded modern Korean
+documents with the help of the LaTeX2e CJK package. The package
+requires nanumtype1 fonts.
+
+date 2013-12-06 134145 +0100
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

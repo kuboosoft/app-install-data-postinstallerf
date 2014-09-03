@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-biblatex-publist</b>'
+Comment='<span size="xx-large">BibLaTeX bibliography support for publication lists</span>'
+Comment3='
+The package provides a BibLaTeX bibliography style file (*.bbx)
+for publication lists. The style file draws on BibLaTeXs
+authoryear style, but provides some extra features often
+desired for publication lists, such as the omission of the
+authors own name from author or editor data.
+
+date 2013-08-16 155819 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

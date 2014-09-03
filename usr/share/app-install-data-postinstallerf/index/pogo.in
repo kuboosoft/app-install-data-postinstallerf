@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pogo</b>'
+Comment='<span size="xx-large">Probably the simplest and fastest audio player for Linux</span>'
+Comment3='
+Pogos elementary-inspired design uses the screen-space very efficiently. It is
+especially well-suited for people who organize their music by albums on the
+harddrive. The main interface components are a directory tree and a playlist
+that groups albums in an innovative way.
+Pogo is a fork of Decibel Audio Player.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/pogo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

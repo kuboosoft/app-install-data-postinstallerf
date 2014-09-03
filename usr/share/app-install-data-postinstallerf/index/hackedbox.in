@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>hackedbox</b>'
+Comment='<span size="xx-large">The bastard son of Blackbox, a small and fast Window Manager</span>'
+Comment3='
+Hackedbox is a stripped down version of Blackbox - The X11 Window Manager.
+The toolbar and Slit have been removed. The goal of Hackedbox is to be a
+small "feature-set" window manager, with no bloat. There are no plans to
+add any functionality, only bugfixes and speed enhancements whenever possible.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://scrudgeware.org/projects/Hackedbox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>frozen-bubble</b>'
+Comment='<span size="xx-large">Frozen Bubble arcade game</span>'
+Comment3='
+Full-featured, colorful animated penguin eye-candy, 100 levels of 1p game, hours
+and hours of 2p game, 3 professional quality 20-channels musics, 15 stereo
+sound effects, 7 unique graphical transition effects and a level editor.
+You need this game.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.frozen-bubble.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

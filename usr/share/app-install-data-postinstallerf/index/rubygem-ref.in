@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-ref</b>'
+Comment='<span size="xx-large">Library that implements weak, soft, and strong references in Ruby</span>'
+Comment3='
+Library that implements weak, soft, and strong references in Ruby that work
+across multiple runtimes (MRI, REE, YARV, Jruby, Rubinius, and IronRuby). Also
+includes implementation of maps/hashes that use references and a reference
+queue.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/bdurand/ref'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

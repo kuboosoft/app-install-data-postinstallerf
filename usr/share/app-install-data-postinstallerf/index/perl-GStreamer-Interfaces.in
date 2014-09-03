@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-GStreamer-Interfaces</b>'
+Comment='<span size="xx-large">Perl interface to the GStreamer Interfaces library</span>'
+Comment3='
+GStreamerInterfaces provides access to some of the interfaces in the
+GStreamer Interfaces library.  Currently, thats GStreamerPropertyProbe
+and GStreamerXOverlay.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/GStreamer-Interfaces/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

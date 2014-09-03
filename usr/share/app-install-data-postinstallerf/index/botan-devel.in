@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>botan-devel</b>'
+Comment='<span size="xx-large">Development files for botan</span>'
+Comment3='
+The botan-devel package contains libraries and header files for
+developing applications that use botan.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://botan.randombit.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

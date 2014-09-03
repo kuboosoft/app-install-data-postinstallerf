@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-eucadmin</b>'
+Comment3='
+Eucalyptus is a service overlay that implements elastic computing
+using existing resources. The goal of Eucalyptus is to allow sites
+with existing clusters and server infrastructure to co-host an elastic
+computing service that is interface-compatible with Amazon AWS.
+
+This package contains the Python library used by Eucalyptus administration
+tools.  It is neither intended nor supported for use by any other programs.
+'
+License='BSD and Python'
+Screenshot=''
+Url='http://www.eucalyptus.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

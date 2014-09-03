@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-lifted-base-devel</b>'
+Comment='<span size="xx-large">Haskell lifted-base library development files</span>'
+Comment3='
+This package provides the Haskell lifted-base library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/lifted-base'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

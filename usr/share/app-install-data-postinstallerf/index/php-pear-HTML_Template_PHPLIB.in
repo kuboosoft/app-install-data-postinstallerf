@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-HTML_Template_PHPLIB</b>'
+Comment='<span size="xx-large">PHP template system based on preg_*</span>'
+Comment3='
+This is the PEAR port of the popular PHPLIB template system. It
+contains some features not currently found in the original version.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.php.net/package/HTML_Template_PHPLIB'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

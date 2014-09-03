@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-xmlrpc</b>'
+Comment='<span size="xx-large">XML-RPC communication plugin</span>'
+Comment3='
+This package contains a Fawkes plugin which enables communication with
+Fawkes via XML-RPC. This is for demonstration purposes and has only limited
+functionality.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

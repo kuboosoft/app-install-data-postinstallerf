@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>migemo-emacs</b>'
+Comment='<span size="xx-large">Emacs front-end of Migemo</span>'
+Comment3='
+Emacs front-end of Migemo.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://0xcc.net/migemo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

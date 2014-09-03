@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>shotwell</b>'
+Comment='<span size="xx-large">A photo organizer for the GNOME desktop</span>'
+Comment3='
+Shotwell is a new open source photo organizer designed for the GNOME desktop
+environment. It allows you to import photos from your camera, view and edit
+them, and share them with others.
+'
+License='LGPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://www.yorba.org/shotwell/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

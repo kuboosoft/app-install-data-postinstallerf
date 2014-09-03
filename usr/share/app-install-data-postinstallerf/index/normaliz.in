@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>normaliz</b>'
+Comment='<span size="xx-large">A tool for mathematical computations</span>'
+Comment3='
+Normaliz is a tool for computations in affine monoids, vector
+configurations, lattice polytopes, and rational cones.
+
+Documentation and examples can be found in /usr/share/doc/normaliz,
+in particular you may find Normaliz2.10.1Documentation.pdf useful.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.mathematik.uni-osnabrueck.de/normaliz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-File-Remove</b>'
+Comment='<span size="xx-large">Convenience module for removing files and directories</span>'
+Comment3='
+Convenience module for removing files and directories
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Remove/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

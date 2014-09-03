@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>authd</b>'
+Comment='<span size="xx-large">A RFC 1413 ident protocol daemon</span>'
+Comment3='
+authd is a small and fast RFC 1413 ident protocol daemon
+with both xinetd server and interactive modes that
+supports IPv6 and IPv4 as well as the more popular features
+of pidentd.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/authd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

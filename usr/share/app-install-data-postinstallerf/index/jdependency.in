@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jdependency</b>'
+Comment='<span size="xx-large">This project provides an API to analyse class dependencies</span>'
+Comment3='
+jdependency is small library that helps you analyze class level
+dependencies, clashes and missing classes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/tcurdt/jdependency'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

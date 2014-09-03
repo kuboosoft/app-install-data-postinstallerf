@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pl-jpl</b>'
+Comment='<span size="xx-large">A bidirectional Prolog/Java interface for SWI Prolog</span>'
+Comment3='
+JPL is a library using the SWI-Prolog foreign interface and the Java Native
+Interface providing a bidirectional interface between Java and Prolog
+that can be used to embed Prolog in Java as well as for embedding Java
+in Prolog. In both setups it provides a re-entrant bidirectional interface.
+'
+License='(GPLv2+ with exceptions or Artistic 2.0) and (GPLv2+ with exceptions) and LGPLv2+ and LGPLv2 and UCD and Public Domain and GPLv3+'
+Screenshot=''
+Url='http://www.swi-prolog.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

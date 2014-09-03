@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-poppler-glib-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows Poppler-Glib library</span>'
+Comment3='
+Static version of the MinGW Windows Poppler-Glib library.
+'
+License='(GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://poppler.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

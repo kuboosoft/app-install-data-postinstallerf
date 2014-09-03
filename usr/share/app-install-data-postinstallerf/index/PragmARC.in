@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>PragmARC</b>'
+Comment='<span size="xx-large">PragmAda Reusable Components, a component library for Ada</span>'
+Comment3='
+The PragmAda Reusable Components (PragmARCs) is a library of containers,
+algorithms and utility components for Ada, ranging from the basic-but-essential
+to the high-level.
+
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://pragmada.x10hosting.com/pragmarc.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

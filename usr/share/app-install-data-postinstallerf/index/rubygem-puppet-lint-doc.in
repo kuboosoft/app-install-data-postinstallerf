@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-puppet-lint-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-puppet-lint</span>'
+Comment3='
+Documentation for rubygem-puppet-lint
+'
+License='MIT'
+Screenshot=''
+Url='http://puppet-lint.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mailnag</b>'
+Comment='<span size="xx-large">Mail notification daemon for GNOME 3</span>'
+Comment3='
+Mailnag checks POP3 and IMAP servers for new mail and when it finds one
+creates a proper GNOME 3 notification that mentions sender and subject.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/pulb/mailnag'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

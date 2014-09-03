@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ronn-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-ronn</span>'
+Comment3='
+Documentation for rubygem-ronn
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rtomayko/ronn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

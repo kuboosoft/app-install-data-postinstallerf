@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-aguplus</b>'
+Comment='<span size="xx-large">Styles for American Geophysical Union</span>'
+Comment3='
+This bundle started as an extension to the AGUs own published
+styles, providing extra facilities and improved usability. The
+AGU now publishes satisfactory LaTeX materials of its own; the
+author of aguplus recommends that users switch to using the
+official distribution.
+
+date 2010-02-24 212809 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

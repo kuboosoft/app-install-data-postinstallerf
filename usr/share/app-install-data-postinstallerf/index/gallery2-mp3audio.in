@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gallery2-mp3audio</b>'
+Comment='<span size="xx-large">MP3 audio module for Gallery2</span>'
+Comment3='
+Gallery 2 module - Support for MP3 audio files
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gallery.menalto.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-pytools</b>'
+Comment='<span size="xx-large">A collection of tools for python</span>'
+Comment3='
+Pytools are a few interesting things that are missing from the Python Standard
+Library.
+
+Small tool functions such as 
+* len_iterable,
+* argmin,
+* tuple generation,
+* permutation generation,
+* ASCII table pretty printing,
+* GvRs mokeypatch_xxx() hack,
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/pytools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

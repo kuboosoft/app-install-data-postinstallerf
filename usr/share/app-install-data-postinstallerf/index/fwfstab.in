@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fwfstab</b>'
+Comment='<span size="xx-large">A graphical file system table editor</span>'
+Comment3='
+fwfstab is a graphical file system table (fstab) editor, used to edit the
+/etc/fstab file. It lets users add, edit or remove new entries in a simple,
+straight-forward way. It is meant to make the task of editing the file system
+table easier without sacrificing flexibility.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.diffingo.com/content/view/32/45/lang,en/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nagios-plugins-bdii</b>'
+Comment='<span size="xx-large">Nagios Plugin - check_bdii_entries</span>'
+Comment3='
+Provides check_bdii_entries support for Nagios.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tomtools.cern.ch/confluence/display/IS/BDII+Nagios+Probe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

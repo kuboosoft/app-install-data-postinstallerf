@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ps_mem</b>'
+Comment='<span size="xx-large">Memory profiling tool</span>'
+Comment3='
+The ps_mem tool can determine how much RAM is used per program
+(not per process). In detail it reports
+sum(private RAM for program processes) + sum(Shared RAM for program processes)
+The shared RAM is problematic to calculate, and the tool automatically
+selects the most accurate method available for the running kernel.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://github.com/pixelb/scripts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

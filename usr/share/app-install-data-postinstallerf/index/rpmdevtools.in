@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>rpmdevtools</b>'
+Comment='<span size="xx-large">RPM Development Tools</span>'
+Comment3='
+This package contains scripts and (X)Emacs support files to aid in
+development of RPM packages.
+rpmdev-setuptree    Create RPM build tree within users home directory
+rpmdev-diff         Diff contents of two archives
+rpmdev-newspec      Creates new .spec from template
+rpmdev-rmdevelrpms  Find (and optionally remove) "development" RPMs
+rpmdev-checksig     Check package signatures using alternate RPM keyring
+rpminfo             Print information about executables and libraries
+rpmdev-md5/sha*     Display checksums of all files in an archive file
+rpmdev-vercmp       RPM version comparison checker
+'
+License='GPLv2+ and GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/rpmdevtools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

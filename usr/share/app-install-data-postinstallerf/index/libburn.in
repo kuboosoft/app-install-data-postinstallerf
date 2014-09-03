@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libburn</b>'
+Comment='<span size="xx-large">Library for reading, mastering and writing optical discs</span>'
+Comment3='
+Libburn is a library by which preformatted data get onto optical media
+CD, DVD and BD (Blu-Ray). It also offers a facility for reading data
+blocks from its drives without using the normal block device I/O, which
+has advantages and disadvantages. It seems appropriate, nevertheless,
+to do writing and reading via same channel. On several Linux systems,
+the block device driver needs reloading of the drive tray in order to
+make available freshly written data. The libburn read function does not
+need such a reload. The code of libburn is independent of cdrecord.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libburnia-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

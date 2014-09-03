@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Module-Runtime</b>'
+Comment='<span size="xx-large">Runtime module handling</span>'
+Comment3='
+The functions exported by this module deal with runtime handling of Perl
+modules, which are normally handled at compile time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Runtime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

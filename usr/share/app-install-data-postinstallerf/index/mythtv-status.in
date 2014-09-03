@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mythtv-status</b>'
+Comment='<span size="xx-large">Get the current status of your MythTV system at the command line</span>'
+Comment3='
+This Perl script will display the current status of your MythTV system at the
+command line. It can optionally append it to the system message of the day
+(MOTD) on a regular basis.
+
+If you want to enable motd update, edit /etc/sysconfig/mythtv-status and change
+UPDATEMOTD=no to UPDATEMOTD=yes. The update is run hourly. The resulting motd
+is based on /etc/motd.stub, added with the output of mythtv-status.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.etc.gen.nz/projects/mythtv/mythtv-status.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

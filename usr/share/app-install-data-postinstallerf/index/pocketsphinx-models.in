@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pocketsphinx-models</b>'
+Comment='<span size="xx-large">Voice and language models for pocketsphinx</span>'
+Comment3='
+Voice and language models for pocketsphinx.
+'
+License='BSD'
+Screenshot=''
+Url='http://cmusphinx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

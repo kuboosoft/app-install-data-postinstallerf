@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xemacs-ess</b>'
+Comment='<span size="xx-large">Compiled elisp files to run Emacs Speaks Statistics under XEmacs</span>'
+Comment3='
+This package contains the byte compiled elisp packages to use
+Emacs Speaks Statistics with XEmacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ESS.R-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

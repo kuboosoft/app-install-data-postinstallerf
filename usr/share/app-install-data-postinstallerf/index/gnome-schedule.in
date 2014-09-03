@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gnome-schedule</b>'
+Comment='<span size="xx-large">A graphical interface to crontab and at</span>'
+Comment3='
+Gnome schedule is a graphical user interface that leverages the power of cron
+and at to manage your crontab file and provide an easy way to schedule tasks
+on your computer. It supports recurrent (periodical) tasks and tasks that happen
+only once in the future.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnome-schedule.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

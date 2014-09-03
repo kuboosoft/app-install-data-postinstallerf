@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sj-delphine-fonts</b>'
+Comment='<span size="xx-large">Handwriting font</span>'
+Comment3='
+Two fonts by Steve Jordi released under the GPL
+
+Handwriting font by Steve Jordi covering latin glyphs.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://sjfonts.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

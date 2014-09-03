@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>librime</b>'
+Comment='<span size="xx-large">Rime Input Method Engine Library</span>'
+Comment3='
+Rime Input Method Engine Library
+
+Support for shape-based and phonetic-based input methods,
+including those for Chinese dialects.
+A selected dictionary in Traditional Chinese,
+powered by opencc for Simplified Chinese output.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://code.google.com/p/rimeime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

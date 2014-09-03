@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gdesklets-quote-of-the-day</b>'
+Comment='<span size="xx-large">Quote of the day desklet for gdesklet</span>'
+Comment3='
+
+A quote of the day display for gdesklets
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.gdesklets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

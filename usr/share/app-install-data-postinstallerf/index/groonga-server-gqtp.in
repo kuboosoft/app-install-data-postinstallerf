@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>groonga-server-gqtp</b>'
+Comment='<span size="xx-large">Groonga GQTP server</span>'
+Comment3='
+This package contains the Groonga GQTP server
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://groonga.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

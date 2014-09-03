@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Fsdb</b>'
+Comment='<span size="xx-large">A set of commands for manipulating flat-text databases from the shell</span>'
+Comment3='
+FSDB is a package of commands for manipulating flat-ASCII databases from
+shell scripts.  FSDB is useful to process medium amounts of data (with
+very little data youd do it by hand, with megabytes you might want a
+real database).  FSDB is very good at doing things like
+
+        - extracting measurements from experimental output
+        - re-examining data to address different hypotheses
+        - joining data from different experiments
+        - eliminating/detecting outliers
+        - computing statistics on data (mean, confidence intervals,
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.isi.edu/~johnh/SOFTWARE/FSDB/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

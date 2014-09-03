@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>aide</b>'
+Comment='<span size="xx-large">Intrusion detection environment</span>'
+Comment3='
+AIDE (Advanced Intrusion Detection Environment) is a file integrity
+checker and intrusion detection program.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/aide'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

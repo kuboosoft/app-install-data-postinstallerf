@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>talk-server</b>'
+Comment='<span size="xx-large">The talk server for one-on-one Internet chatting</span>'
+Comment3='
+The talk-server package provides daemon programs for the Internet talk
+protocol, which allows you to chat with other users on different
+machines.  Talk is a communication program which copies lines from one
+terminal to the terminal of another user.
+'
+License='BSD'
+Screenshot=''
+Url='http://web.archive.org/web/20070817165301/http://www.hcs.harvard.edu/~dholland/computers/netkit.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

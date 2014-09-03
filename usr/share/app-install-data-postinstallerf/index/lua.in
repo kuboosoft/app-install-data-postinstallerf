@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>lua</b>'
+Comment='<span size="xx-large">Powerful light-weight programming language</span>'
+Comment3='
+Lua is a powerful light-weight programming language designed for
+extending applications. Lua is also frequently used as a
+general-purpose, stand-alone language. Lua is free software.
+Lua combines simple procedural syntax with powerful data description
+constructs based on associative arrays and extensible semantics. Lua
+is dynamically typed, interpreted from bytecodes, and has automatic
+memory management with garbage collection, making it ideal for
+configuration, scripting, and rapid prototyping.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.lua.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

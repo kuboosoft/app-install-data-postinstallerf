@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-scheme-medium</b>'
+Comment='<span size="xx-large">medium scheme (small + more packages and languages)</span>'
+Comment3='
+This is the medium TeX Live collection it contains plain TeX,
+LaTeX, many recommended packages, and support for most European
+languages.
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

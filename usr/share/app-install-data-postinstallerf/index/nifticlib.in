@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nifticlib</b>'
+Comment='<span size="xx-large">A set of i/o libraries for reading and writing files in the nifti-1 data format</span>'
+Comment3='
+Nifticlib is a set of C i/o libraries for reading and writing files in
+the nifti-1 data format. nifti-1 is a binary file format for storing
+medical image data, e.g. magnetic resonance image (MRI) and functional
+MRI (fMRI) brain images.
+
+'
+License='Public Domain'
+Screenshot=''
+Url='http://niftilib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

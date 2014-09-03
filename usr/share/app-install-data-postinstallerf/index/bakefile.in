@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bakefile</b>'
+Comment='<span size="xx-large">A cross-platform, cross-compiler native makefiles generator</span>'
+Comment3='
+Bakefile is cross-platform, cross-compiler native makefiles generator. It takes
+compiler-independent description of build tasks as input and generates native
+makefile (autoconfs Makefile.in, Visual C++ project, bcc makefile etc.)
+'
+License='MIT'
+Screenshot=''
+Url='http://www.bakefile.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

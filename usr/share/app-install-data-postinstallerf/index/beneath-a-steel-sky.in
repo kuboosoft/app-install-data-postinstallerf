@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>beneath-a-steel-sky</b>'
+Comment='<span size="xx-large">Beneath a Steel Sky - Adventure Game</span>'
+Comment3='
+After the Dungeons and Dragons fantasy setting of Revolutions first game, Lure
+of the Temptress, Revolution decided to go down a completely different avenue
+with its second adventure game, Beneath a Steel Sky, that of Science Fiction.
+A bleak vision of the future was imagined, where mind control and medical
+science combined forces to repress the populace. Leading comic artist, Dave
+Gibbons, joined the design team to visualise this desperate landscape. The
+result is the cult classic Beneath a Steel Sky.
+
+Notice that this package contains the floppy version, the CD version is also
+available in the beneath-a-steel-sky-cd package. The CD version contains
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://www.revolution.co.uk/_display.php?id=16'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

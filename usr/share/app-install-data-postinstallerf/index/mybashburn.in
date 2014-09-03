@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mybashburn</b>'
+Comment='<span size="xx-large">Burn data and create songs with interactive dialogs</span>'
+Comment3='
+MyBashBurn is a fork based on ncurses of the CD burning shell script
+called BashBurn for Linux. It can burn bin/cue files, create ogg and
+flac files, data, music and multisession CDs, as well as burn and create
+ISO files, DVD-images, data DVDs and some other funny options.
+MyBashBurn makes use of cdrecord and other back-end applications, so basically
+if your writing device works with them, MyBashBurn will work flawlessly.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mybashburn.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

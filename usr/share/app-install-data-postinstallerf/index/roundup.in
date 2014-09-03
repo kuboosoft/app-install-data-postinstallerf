@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>roundup</b>'
+Comment='<span size="xx-large">Simple and flexible issue-tracking system</span>'
+Comment3='
+Roundup is a simple and flexible issue-tracking system with command line,
+web and email interfaces.  It is based on the winning design from Ka-Ping
+Yee in the Software Carpentry "Track" design competition.
+'
+License='MIT'
+Screenshot=''
+Url='http://roundup-tracker.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

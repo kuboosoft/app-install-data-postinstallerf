@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jenkins-extras-memory-monitor-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jenkins-extras-memory-monitor</span>'
+Comment3='
+This package contains the API documentation for Jenkins memory monitor.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jenkinsci/extras-memory-monitor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

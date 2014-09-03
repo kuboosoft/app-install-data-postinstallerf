@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-workerpool</b>'
+Comment='<span size="xx-large">Multithreaded job distribution module</span>'
+Comment3='
+The workerpool module for python 2 is a simple framework for easily
+distributing jobs into multiple worker threads.  Examples of usage can be
+found in the unit tests and the samples provided.  This module facilitates
+distributing simple operations into jobs that are sent to worker threads,
+maintained by a pool object.
+
+It consists of these components
+* Jobs - single units of work that need to be performed.
+* Workers - workers grab jobs from a queue and run them.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/shazow/workerpool'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

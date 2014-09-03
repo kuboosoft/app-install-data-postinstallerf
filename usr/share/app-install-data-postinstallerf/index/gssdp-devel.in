@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gssdp-devel</b>'
+Comment='<span size="xx-large">Development package for gssdp</span>'
+Comment3='
+Files for development with gssdp.
+
+URL          http//www.gupnp.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gupnp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

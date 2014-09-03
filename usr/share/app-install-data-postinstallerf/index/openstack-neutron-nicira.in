@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>openstack-neutron-nicira</b>'
+Comment='<span size="xx-large">Neutron Nicira plugin</span>'
+Comment3='
+Neutron provides an API to dynamically request and configure virtual
+networks.
+
+This package contains the neutron plugin that implements virtual
+networks using Nicira NVP.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://launchpad.net/neutron/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

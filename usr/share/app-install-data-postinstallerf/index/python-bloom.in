@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-bloom</b>'
+Comment='<span size="xx-large">Bloom is a release automation tool</span>'
+Comment3='
+Bloom provides tools for releasing software on top of a git repository
+and leverages tools and patterns from git-buildpackage. Additionally,
+bloom leverages meta and build information from catkin
+(https//github.com/ros/catkin) to automate release branching and the
+generation of platform specific source packages, like debians src-debs.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.ros.org/wiki/bloom'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

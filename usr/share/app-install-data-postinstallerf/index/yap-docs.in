@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>yap-docs</b>'
+Comment='<span size="xx-large">Documentation for Yap</span>'
+Comment3='
+Documentation for Yap.
+'
+License='Artistic 2.0 and LGPLv2+ and (BSD or GPL+) and (GPLv2+)'
+Screenshot=''
+Url='http://www.ncc.up.pt/~vsc/Yap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

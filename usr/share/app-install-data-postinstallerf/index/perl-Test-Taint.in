@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Test-Taint</b>'
+Comment='<span size="xx-large">Tools to test taintedness</span>'
+Comment3='
+Tainted data is data that comes from an unsafe source, such as the command
+line, or, in the case of web apps, any GET or POST transactions. Read the
+perlsec man page for details on why tainted data is bad, and how to untaint
+the data.
+
+When youre writing unit tests for code that deals with tainted data, youll
+want to have a way to provide tainted data for your routines to handle, and
+easy ways to check and report on the taintedness of your data, in standard
+TestMore style.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Taint/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

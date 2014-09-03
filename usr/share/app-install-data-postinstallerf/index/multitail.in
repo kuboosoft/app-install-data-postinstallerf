@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>multitail</b>'
+Comment='<span size="xx-large">View one or multiple files like tail but with multiple windows</span>'
+Comment3='
+MultiTail lets you view one or multiple files like the original tail
+program. The difference is that it creates multiple windows on your
+console (with ncurses). It can also monitor wildcards if another file
+matching the wildcard has a more recent modification date, it will
+automatically switch to that file. That way you can, for example,
+monitor a complete directory of files. Merging of 2 or even more
+logfiles is possible.
+It can also use colors while displaying the logfiles (through regular
+expressions), for faster recognition of what is important and what not.
+Multitail can also filter lines (again with regular expressions) and
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.vanheusden.com/multitail/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

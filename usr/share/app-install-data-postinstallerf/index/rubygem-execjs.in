@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-execjs</b>'
+Comment='<span size="xx-large">Run JavaScript code from Ruby</span>'
+Comment3='
+ExecJS lets you run JavaScript code from Ruby. It automatically picks the
+best runtime available to evaluate your JavaScript program, then returns
+the result to you as a Ruby object.
+'
+License='MIT and Public Domain'
+Screenshot=''
+Url='https://github.com/sstephenson/execjs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

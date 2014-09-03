@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>link-grammar-java-devel</b>'
+Comment='<span size="xx-large">Support files necessary to compile Java applications with liblink-grammar</span>'
+Comment3='
+Libraries for developing Java components using liblink-grammar.
+
+URL          http//abisource.com/projects/link-grammar/
+'
+License='BSD'
+Screenshot=''
+Url='http://abisource.com/projects/link-grammar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

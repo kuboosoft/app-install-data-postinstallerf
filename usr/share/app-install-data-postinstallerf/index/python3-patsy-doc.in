@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-patsy-doc</b>'
+Comment='<span size="xx-large">Documentation for python-patsy, includes full API docs</span>'
+Comment3='
+This package contains the full API documentation for python-patsy.
+'
+License='BSD and Python'
+Screenshot=''
+Url='https://github.com/pydata/patsy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

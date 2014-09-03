@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-curves</b>'
+Comment='<span size="xx-large">Curves for LaTeX picture environment</span>'
+Comment3='
+The draws curves in the standard LaTeX picture environment
+using parabolas between data points with continuous slope at
+joins; for circles and arcs, it uses up to 16 parabolas. The
+package also draws symbols or dash patterns along curves. The
+package provides facilities equivalent to technical pens with
+compasses and French curves. Curves consist of short secants
+drawn by overlapping disks or line-drawing \special commands
+selected by package options.
+
+date 2009-09-24 205304 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

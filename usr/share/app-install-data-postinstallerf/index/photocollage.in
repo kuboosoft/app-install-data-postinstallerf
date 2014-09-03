@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>photocollage</b>'
+Comment='<span size="xx-large">Graphical tool to make photo collage posters</span>'
+Comment3='
+PhotoCollage allows you to create photo collage posters.  It assembles the
+input photographs you give it to generate a big poster.  Photos are arranged
+to fill the whole poster, however you can influence the algorithm to change the
+final layout.  You can also set a custom border between photos, and save the
+generated image in the resolution you want.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/adrienverge/PhotoCollage'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

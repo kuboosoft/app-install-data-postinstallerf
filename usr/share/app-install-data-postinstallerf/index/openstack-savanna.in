@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openstack-savanna</b>'
+Comment='<span size="xx-large">Apache Hadoop cluster management on OpenStack</span>'
+Comment3='
+Savanna provides the ability to elastically manage Apache Hadoop
+clusters on OpenStack.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://launchpad.net/savanna'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

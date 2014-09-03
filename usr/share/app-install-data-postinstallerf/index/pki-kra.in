@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pki-kra</b>'
+Comment='<span size="xx-large">Certificate System - Data Recovery Manager</span>'
+Comment3='
+The Data Recovery Manager (DRM) is an optional PKI subsystem that can act
+as a Key Recovery Authority (KRA).  When configured in conjunction with the
+Certificate Authority (CA), the DRM stores private encryption keys as part of
+the certificate enrollment process.  The key archival mechanism is triggered
+when a user enrolls in the PKI and creates the certificate request.  Using the
+Certificate Request Message Format (CRMF) request format, a request is
+generated for the users private encryption key.  This key is then stored in
+the DRM which is configured to store keys in an encrypted format that can only
+be decrypted by several agents requesting the key at one time, providing for
+protection of the public encryption keys for the users in the PKI deployment.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pki.fedoraproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

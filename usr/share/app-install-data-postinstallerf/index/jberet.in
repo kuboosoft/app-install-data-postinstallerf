@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jberet</b>'
+Comment='<span size="xx-large">Batch Applications Implementation</span>'
+Comment3='
+JSR 352 Batch Applications for the Java Platform implementation classes
+'
+License='EPL and ASL 2.0'
+Screenshot=''
+Url='https://github.com/jberet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

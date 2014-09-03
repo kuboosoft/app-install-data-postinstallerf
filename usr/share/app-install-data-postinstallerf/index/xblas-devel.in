@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xblas-devel</b>'
+Comment='<span size="xx-large">Development files for xblas</span>'
+Comment3='
+Headers and libraries for developing code that uses xblas.
+
+URL          http//www.netlib.org/xblas
+'
+License='BSD'
+Screenshot=''
+Url='http://www.netlib.org/xblas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qutim-kde</b>'
+Comment='<span size="xx-large">KDE integration of qutim</span>'
+Comment3='
+KDE integration support of qutim
+'
+License='GPLv3+ and CC-BY-SA'
+Screenshot=''
+Url='http://www.qutim.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

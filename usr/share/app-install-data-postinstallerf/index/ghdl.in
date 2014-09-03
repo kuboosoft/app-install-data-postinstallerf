@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ghdl</b>'
+Comment='<span size="xx-large">A VHDL simulator, using the GCC technology</span>'
+Comment3='
+GHDL is a VHDL simulator, using the GCC technology. VHDL is a language
+standardized by the IEEE, intended for developing electronic systems. GHDL
+implements the VHDL language according to the IEEE 1076-1987 or the IEEE
+1076-1993 standard. It compiles VHDL files and creates a binary that simulates
+(or executes) your design. GHDL does not do synthesis it cannot translate your
+design into a netlist.
+
+Since GHDL is a compiler (i.e., it generates object files), you can call
+functions or procedures written in a foreign language, such as C, C++, or
+Ada95.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ghdl.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

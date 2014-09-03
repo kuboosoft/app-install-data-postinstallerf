@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-django-piston</b>'
+Comment='<span size="xx-large">A mini-framework for Django for creating RESTful APIs</span>'
+Comment3='
+Piston is a relatively small Django application that lets you
+create application programming interfaces (API) for your sites.
+'
+License='BSD'
+Screenshot=''
+Url='http://bitbucket.org/jespern/django-piston/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

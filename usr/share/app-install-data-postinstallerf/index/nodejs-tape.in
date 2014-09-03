@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-tape</b>'
+Comment='<span size="xx-large">Tap-producing test harness for Node.js and browsers</span>'
+Comment3='
+Tap-producing test harness for Node.js and browsers.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/substack/tape'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

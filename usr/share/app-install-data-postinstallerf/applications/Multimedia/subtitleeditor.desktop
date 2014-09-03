@@ -1,0 +1,26 @@
+[Desktop Entry]
+Exec=postinstaller -n subtitleeditor
+Name=Subtitle Editor
+Name[cs]=Titulkový editor
+Name[en_GB]=Subtitle Editor
+Name[es]=editor de subtítulos
+Name[fr]=Éditeur de sous-titres
+Name[hu]=Subtitle Editor
+Name[it]=Subtitle Editor
+Name[pl]=Edytor Napisów
+Name[sr]=Уређивач превода
+Name[tr]=Altyazı düzenleyici
+Name[zh_CN]=字幕编辑器
+GenericName=Subtitle Editor
+Comment=A subtitle editor based on GStreamer and Gtk+
+Comment[cs]=Titulkový editor založený na GStreameru and Gtk+
+Comment[en_GB]=A subtitle editor based on GStreamer and Gtk+
+Comment[es]=Un edito de subtítulos basado en GStreamer y Gtk+
+Comment[fr]=Un éditeur de sous-titres basé sur GStreamer et Gtk+
+Comment[pl]=Edytor napisów oparty o GStreamera i GTK+
+Comment[zh_CN]=一个基于 GStreamer 和 Gtk+ 的字幕编辑器
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/subtitleeditor.png
+Categories=Audio;AudioVideo;AudioVideoEditing;
+StartupNotify=true

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>culmus-keteryg-fonts</b>'
+Comment='<span size="xx-large">Fonts for Hebrew from Culmus project</span>'
+Comment3='
+
+The culmus-fonts package contains fonts for the display of
+Hebrew from the Culmus project.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://culmus.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

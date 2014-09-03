@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtommath-devel</b>'
+Comment='<span size="xx-large">Development files for libtommath</span>'
+Comment3='
+The libtommath-devel package contains libraries and header files for developing
+applications that use libtommath.
+
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.libtom.org/?page=features&newsitems=5&whatfile=ltm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

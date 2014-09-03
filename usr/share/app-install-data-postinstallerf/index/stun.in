@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>stun</b>'
+Comment='<span size="xx-large">Implements a simple Stun Client</span>'
+Comment3='
+Implements a simple STUN client on Windows, Linux, and Solaris.
+The STUN protocol (Simple Traversal of UDP through NATs) is described in the
+IETF RFC 3489, available at http//www.ietf.org/rfc/rfc3489.txt
+'
+License='Vovida Software License 1.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/stun'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-vrapper</b>'
+Comment='<span size="xx-large">Vim-like editing in Eclipse</span>'
+Comment3='
+Vrapper is an eclipse plugin which acts as a wrapper for eclipse text editors
+to provide a Vim-like input scheme for moving around and editing text.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://vrapper.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

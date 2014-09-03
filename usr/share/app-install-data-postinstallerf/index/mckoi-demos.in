@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mckoi-demos</b>'
+Comment='<span size="xx-large">Demonstrations and samples for mckoi</span>'
+Comment3='
+This package contains sources archive demonstrations and samples for mckoi.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://mckoi.com/database/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

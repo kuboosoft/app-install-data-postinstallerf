@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>grib_api</b>'
+Comment='<span size="xx-large">WMO FM-92 GRIB (v1,v2) interface accessible from C and FORTRAN programs</span>'
+Comment3='
+The ECMWF GRIB API is an application program interface accessible from C
+and FORTRAN programs developed for encoding and decoding WMO FM-92 GRIB
+edition 1 and edition 2 messages. A useful set of command line tools is
+also provided to give quick access to grib messages.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://software.ecmwf.int/wiki/display/GRIB/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

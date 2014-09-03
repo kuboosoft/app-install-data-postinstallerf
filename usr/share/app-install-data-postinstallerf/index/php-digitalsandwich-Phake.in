@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-digitalsandwich-Phake</b>'
+Comment='<span size="xx-large">Phake is a PHP mocking framework that is based on Mockito</span>'
+Comment3='
+Phake is a framework for PHP that aims to provide mock objects, test doubles
+and method stubs.
+
+Phake was inspired by a lack of flexibility and ease of use in the current
+mocking frameworks combined with a recent experience with Mockito for Java.
+'
+License='BSD'
+Screenshot=''
+Url='http://digitalsandwich.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

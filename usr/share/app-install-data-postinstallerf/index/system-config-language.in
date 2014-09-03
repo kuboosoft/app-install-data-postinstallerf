@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>system-config-language</b>'
+Comment='<span size="xx-large">A graphical interface for modifying the system language</span>'
+Comment3='
+system-config-language is a graphical user interface that
+allows the user to change the default language of the system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/system-config-language/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

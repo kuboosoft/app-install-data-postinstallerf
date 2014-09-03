@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libdwarf</b>'
+Comment='<span size="xx-large">Library to access the DWARF Debugging file format</span>'
+Comment3='
+Library to access the DWARF debugging file format which supports
+source level debugging of a number of procedural languages, such as C, C++,
+and Fortran.  Please see http//www.dwarfstd.org for DWARF specification.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.prevanders.net/dwarf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xscreensaver-base</b>'
+Comment='<span size="xx-large">A minimal installation of xscreensaver</span>'
+Comment3='
+A modular screen saver and locker for the X Window System.
+This package contains the bare minimum needed to blank and
+lock your screen.  The graphical display modes are the
+"xscreensaver-extras" and "xscreensaver-gl-extras" packages.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.jwz.org/xscreensaver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

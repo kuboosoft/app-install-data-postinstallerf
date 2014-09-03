@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>itzam-core</b>'
+Comment='<span size="xx-large">Library for creating and manipulating keyed-access database files</span>'
+Comment3='
+Itzam/Core is a deliberately portable and concise C library for creating and
+manipulating keyed-access database files containing variable-length, random
+access records. Information is referenced by a user-defined key value;
+indexes may be combined with or remain separate from data.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.coyotegulch.com/products/itzam/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

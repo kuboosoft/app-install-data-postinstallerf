@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-phpunit-phploc</b>'
+Comment='<span size="xx-large">A tool for quickly measuring the size of a PHP project</span>'
+Comment3='
+phploc is a tool for quickly measuring the size of a PHP project.
+
+The goal of phploc is not not to replace more sophisticated tools such as phpcs,
+pdepend, or phpmd, but rather to provide an alternative to them when you just
+need to get a quick understanding of a projects size.
+'
+License='BSD'
+Screenshot=''
+Url='http://sebastianbergmann.github.com/phploc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

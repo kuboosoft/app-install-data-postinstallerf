@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ksquares</b>'
+Comment='<span size="xx-large">Connect the dots to create squares</span>'
+Comment3='
+The idea behind KSquares is to construct squares by interconnecting
+the dots on the grid. Up to four players can play this game together,
+taking turns. The trick is ? regardless of who has constructed most
+of the square, it is the player who completes the square that gets the
+point for it.
+To win the game round player has to collect the most points by covering
+the most area with the squares of players own color.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/ksquares'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

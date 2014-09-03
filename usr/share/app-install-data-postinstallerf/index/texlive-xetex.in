@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-xetex</b>'
+Comment='<span size="xx-large">Unicode and OpenType-enabled TeX engine</span>'
+Comment3='
+See http//tug.org/xetex.
+
+date 2013-02-01 180907 +0100
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

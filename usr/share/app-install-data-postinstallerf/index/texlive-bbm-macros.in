@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-bbm-macros</b>'
+Comment='<span size="xx-large">LaTeX support for "blackboard-style" cm fonts</span>'
+Comment3='
+Provides LaTeX support for Blackboard variants of Computer
+Modern fonts. Declares a font family bbm so you can in
+principle write running text in blackboard bold, and lots of
+math alphabets for using the fonts within maths.
+
+date 2010-02-15 232851 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

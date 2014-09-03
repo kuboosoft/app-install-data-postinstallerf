@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pcllib-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for pcllib</span>'
+Comment3='
+Development headers and libraries for Portable Co-routine Library (PCL).
+
+URL          http//xmailserver.org/libpcl.html
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xmailserver.org/libpcl.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

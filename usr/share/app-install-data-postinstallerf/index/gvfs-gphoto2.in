@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gvfs-gphoto2</b>'
+Comment='<span size="xx-large">gphoto2 support for gvfs</span>'
+Comment3='
+This package provides support for reading and writing files on
+PTP based cameras (Picture Transfer Protocol) and MTP based
+media players (Media Transfer Protocol) to applications using gvfs.
+'
+License='GPLv3 and LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rabl-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rabl</span>'
+Comment3='
+Documentation for rubygem-rabl
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/nesquena/rabl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

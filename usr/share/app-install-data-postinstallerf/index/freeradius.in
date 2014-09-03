@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>freeradius</b>'
+Comment='<span size="xx-large">High-performance and highly configurable free RADIUS server</span>'
+Comment3='
+The FreeRADIUS Server Project is a high performance and highly configurable
+GPLd free RADIUS server. The server is similar in some respects to
+Livingstons 2.0 server.  While FreeRADIUS started as a variant of the
+Cistron RADIUS server, they dont share a lot in common any more. It now has
+many more features than Cistron or Livingston, and is much more configurable.
+
+FreeRADIUS is an Internet authentication daemon, which implements the RADIUS
+protocol, as defined in RFC 2865 (and others). It allows Network Access
+Servers (NAS boxes) to perform authentication for dial-up users. There are
+also RADIUS clients available for Web servers, firewalls, Unix logins, and
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.freeradius.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

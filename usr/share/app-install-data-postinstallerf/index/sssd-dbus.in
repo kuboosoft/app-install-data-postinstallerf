@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sssd-dbus</b>'
+Comment='<span size="xx-large">The D-Bus responder of the SSSD</span>'
+Comment3='
+Provides the D-Bus responder of the SSSD, called the InfoPipe, that allows
+the information from the SSSD to be transmitted over the system bus.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

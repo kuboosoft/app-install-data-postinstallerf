@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bea-stax</b>'
+Comment='<span size="xx-large">Streaming API for XML</span>'
+Comment3='
+The Streaming API for XML (StAX) is a groundbreaking
+new Java API for parsing and writing XML easily and
+efficiently.
+'
+License='ASL 1.1 and ASL 2.0'
+Screenshot=''
+Url='http://stax.codehaus.org/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

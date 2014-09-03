@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>telepathy-logger-qt</b>'
+Comment='<span size="xx-large">Telepathy Logging for Qt</span>'
+Comment3='
+Telepathy Logging for Qt
+
+URL          https//projects.kde.org/projects/extragear/network/telepathy/telepathy-logger-qt
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/network/telepathy/telepathy-logger-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

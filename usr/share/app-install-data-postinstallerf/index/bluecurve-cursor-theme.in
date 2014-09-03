@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bluecurve-cursor-theme</b>'
+Comment='<span size="xx-large">Bluecurve cursor theme</span>'
+Comment3='
+This package contains Bluecurve style cursors.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

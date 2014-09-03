@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Crypt-CBC</b>'
+Comment='<span size="xx-large">Encrypt Data with Cipher Block Chaining Mode</span>'
+Comment3='
+This is CryptCBC, a Perl-only implementation of the cryptographic
+cipher block chaining mode (CBC).  In combination with a block cipher
+such as CryptDES or CryptIDEA, you can encrypt and decrypt
+messages of arbitrarily long length.  The encrypted messages are
+compatible with the encryption format used by SSLeay.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-CBC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-xmpincl</b>'
+Comment='<span size="xx-large">Include eXtensible Metadata Platform data in PDFLaTeX</span>'
+Comment3='
+The XMP (eXtensible Metadata platform) is a framework to add
+metadata to digital material to enhance the workflow in
+publication. The essence is that the metadata is stored in an
+XML file, and this XML stream is then embedded in the file to
+which it applies. How you create this XML file is up to you,
+but the author started investigating this because he wanted to
+embed licensing information in the files he created. The
+license the author chose is one of the Creative Commons
+licenses, and their web-site offers this information in a valid
+XML-file, suitable for direct inclusion.
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

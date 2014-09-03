@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>kradio4</b>'
+Comment='<span size="xx-large">V4L/V4L2-Radio Application for KDE4</span>'
+Comment3='
+KRadio is a comfortable radio application for KDE4 with support for
+V4L and V4L2 radio card drivers.
+
+KRadio currently provides
+* V4L/V4L2 Radio support
+* Remote Control support (LIRC)
+* Alarms, Sleep Countdown
+* Several GUI Controls (Docking Menu, Station Quickbar, Radio Display)
+* Timeshifter Capability
+'
+License='GPLv2'
+Screenshot=''
+Url='http://kradio.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

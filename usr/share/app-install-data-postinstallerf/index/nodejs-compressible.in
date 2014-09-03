@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-compressible</b>'
+Comment='<span size="xx-large">Compressible Content-Type/MIME checking for Node.js</span>'
+Comment3='
+Compressible Content-Type/MIME checking for Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/expressjs/compressible'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

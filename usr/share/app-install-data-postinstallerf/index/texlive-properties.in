@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-properties</b>'
+Comment='<span size="xx-large">Load properties from a file</span>'
+Comment3='
+The package loads properties (key, value) from a properties
+file, e.g. \jobname.properties.
+
+date 2009-11-10 091741 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

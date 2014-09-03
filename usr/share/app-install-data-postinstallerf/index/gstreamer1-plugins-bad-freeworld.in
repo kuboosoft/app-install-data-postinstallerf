@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gstreamer1-plugins-bad-freeworld</b>'
+Comment='<span size="xx-large">GStreamer 1.0 streaming media framework "bad" plug-ins</span>'
+Comment3='
+GStreamer is a streaming media framework, based on graphs of elements which
+operate on media data.
+
+This package contains plug-ins that have licensing issues, arent tested
+well enough, or the code is not of good enough quality.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gstreamer.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

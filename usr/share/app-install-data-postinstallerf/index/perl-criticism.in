@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-criticism</b>'
+Comment='<span size="xx-large">Perl pragma to enforce coding standards and best-practices</span>'
+Comment3='
+This pragma enforces coding standards and promotes best-practices by
+running your file through PerlCritic before every execution. In a
+production system, this usually isnt feasible because it adds a lot of
+overhead at start-up. If you have a separate development environment, you
+can effectively bypass the criticism pragma by not installing PerlCritic
+in the production environment. If PerlCritic cant be loaded, then
+criticism just fails silently.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/criticism/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

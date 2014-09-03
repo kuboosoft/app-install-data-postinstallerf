@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>datanucleus-core-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for datanucleus-core</span>'
+Comment3='
+This package contains javadoc for datanucleus-core.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.datanucleus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

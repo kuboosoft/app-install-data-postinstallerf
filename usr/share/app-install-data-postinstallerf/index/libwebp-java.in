@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libwebp-java</b>'
+Comment='<span size="xx-large">Java bindings for libwebp, a library for the WebP format</span>'
+Comment3='
+Java bindings for libwebp.
+'
+License='BSD'
+Screenshot=''
+Url='http://webmproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

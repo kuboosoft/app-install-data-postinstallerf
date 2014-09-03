@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>autodir</b>'
+Comment='<span size="xx-large">Creates user directories on demand</span>'
+Comment3='
+Autodir offers a simple and effective means to create directories like home
+directories in a transparent manner. It relies on the autofs protocol for its
+operation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.intraperson.com/autodir/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

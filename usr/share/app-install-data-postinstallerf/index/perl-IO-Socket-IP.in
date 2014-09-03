@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-IO-Socket-IP</b>'
+Comment='<span size="xx-large">Drop-in replacement for IO::Socket::INET supporting both IPv4 and IPv6</span>'
+Comment3='
+This module provides a protocol-independent way to use IPv4 and IPv6
+sockets, as a drop-in replacement for IOSocketINET. Most constructor
+arguments and methods are provided in a backward-compatible way.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-Socket-IP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

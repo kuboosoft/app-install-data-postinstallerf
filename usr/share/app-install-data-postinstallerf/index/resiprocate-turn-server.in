@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>resiprocate-turn-server</b>'
+Comment='<span size="xx-large">ICE/STUN/TURN server</span>'
+Comment3='
+reTurn is the TURN server developed as part of the reSIProcate project.
+TURN (RFC 5766) provides a standardised solution for VoIP applications
+to find the most efficient way to route media streams when NAT and
+firewall devices may be present.
+reTurn provides a high-quality, low maintenance solution for serving
+small and large IP telephony installations.  It has been used successfully
+with a variety of SIP and Jabber applications, including Lumicall,
+Jitsi, Empathy and Psi.
+reSIProcate is a framework that aims to fully implement the SIP protocol
+in first class C++.  It is intended for use in other applications,
+'
+License='VSL'
+Screenshot=''
+Url='http://www.resiprocate.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

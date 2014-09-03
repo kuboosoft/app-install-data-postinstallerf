@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-tokenizer</b>'
+Comment='<span size="xx-large">A tokenizer</span>'
+Comment3='
+A tokenizer for LaTeX. \GetTokens{Target1}{Target2}{Source}
+Splits Source into two tokens at the first encounter of a
+comma. The first token is saved in a newly created command with
+the name passed as Target1 and the second token likewise. A
+package option trim causes leading and trailing space to be
+removed from each token; with this option, the \TrimSpaces
+command is defined, which removes leading and trailing spaces
+from its argument.
+
+date 2006-12-23 090709 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

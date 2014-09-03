@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mod_log_post</b>'
+Comment='<span size="xx-large">Module for the Apache web server to log all HTTP POST messages</span>'
+Comment3='
+mod_log_post can be used for logging all HTTP POST messages. The module
+is based on mod_security but in difference it never returns any error
+messages to the visitors of your websites. Logging of POST data can be
+very useful for debugging purposes or analyses. As the module is loaded
+and run after the SSL decryption, it even can log POST data transmitted
+before via SSL to the Apache web server.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://ftp.robert-scheck.de/linux/mod_log_post/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

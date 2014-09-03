@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Text-Context-EitherSide</b>'
+Comment='<span size="xx-large">Get n words either side of search keywords</span>'
+Comment3='
+Suppose you have a large piece of text - typically, say, a web page or a
+mail message. And now suppose youve done some kind of full-text search on
+that text for a bunch of keywords, and you want to display the context in
+which you found the keywords inside the body of the text.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Context-EitherSide/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

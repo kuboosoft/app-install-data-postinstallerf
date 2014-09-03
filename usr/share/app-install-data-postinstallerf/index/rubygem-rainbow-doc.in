@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rainbow-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rainbow</span>'
+Comment3='
+Documentation for rubygem-rainbow
+'
+License='MIT'
+Screenshot=''
+Url='http://ku1ik.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

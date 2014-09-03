@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nodeunit</b>'
+Comment='<span size="xx-large">Easy asynchronous unit testing framework for Node.js</span>'
+Comment3='
+Nodeunit provides an easy asynchronous unit testing framework for Node.js
+ - helps you avoid common pitfalls when testing asynchronous code
+ - easy to add test cases with setUp and tearDown functions if you wish
+ - flexible reporters for custom output
+ - built-in support for HTML and jUnit XML
+ - allows the use of mocks and stubs
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/caolan/nodeunit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

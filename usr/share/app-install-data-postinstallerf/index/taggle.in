@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>taggle</b>'
+Comment='<span size="xx-large">An online french word game</span>'
+Comment3='
+Taggle is an online french word game that lets you play
+against your friends. Letters are displayed at random
+in a grid and players attempt to find words in sequence
+of adjacent letters
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.inouire.net/baggle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

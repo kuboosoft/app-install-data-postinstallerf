@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-kn</b>'
+Comment='<span size="xx-large">Kannada hunspell dictionaries</span>'
+Comment3='
+Kannada hunspell dictionaries.
+'
+License='GPLv2+ or LGPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/project/kannada'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

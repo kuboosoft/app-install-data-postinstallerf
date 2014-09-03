@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libestr-devel</b>'
+Comment='<span size="xx-large">Development files for libestr</span>'
+Comment3='
+The package contains libraries and header files for
+developing applications that use libestr.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libestr.adiscon.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

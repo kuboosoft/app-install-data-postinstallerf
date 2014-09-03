@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-pycadf</b>'
+Comment='<span size="xx-large">DMTF Cloud Audit (CADF) data model</span>'
+Comment3='
+DMTF Cloud Audit (CADF) data model
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://launchpad.net/pycadf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

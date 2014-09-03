@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-net-davix</b>'
+Comment='<span size="xx-large">Davix extension for ROOT</span>'
+Comment3='
+This package contains the davix extension for ROOT, that provides
+access to http based storage such as webdav and S3.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

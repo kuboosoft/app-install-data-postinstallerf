@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>accountsservice-devel</b>'
+Comment='<span size="xx-large">Development files for accountsservice-libs</span>'
+Comment3='
+The accountsservice-devel package contains headers and other
+files needed to build applications that use accountsservice-libs.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.fedoraproject.org/wiki/Features/UserAccountDialog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

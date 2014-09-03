@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openstack-neutron-mellanox</b>'
+Comment='<span size="xx-large">Neutron Mellanox plugin</span>'
+Comment3='
+This plugin implements Neutron v2 APIs with support for Mellanox embedded
+switch functionality as part of the VPI (Ethernet/InfiniBand) HCA.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://launchpad.net/neutron/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

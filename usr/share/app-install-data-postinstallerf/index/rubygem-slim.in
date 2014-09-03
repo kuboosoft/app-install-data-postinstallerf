@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-slim</b>'
+Comment='<span size="xx-large">Slim is a template language</span>'
+Comment3='
+Slim is a template language whose goal is reduce the syntax to the essential
+parts without becoming cryptic.
+'
+License='MIT'
+Screenshot=''
+Url='http://slim-lang.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

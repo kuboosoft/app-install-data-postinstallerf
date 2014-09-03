@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Crypt-Rijndael</b>'
+Comment='<span size="xx-large">Crypt::CBC compliant Rijndael encryption module</span>'
+Comment3='
+This module implements the Rijndael cipher, which has just been selected as
+the Advanced Encryption Standard.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-Rijndael/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

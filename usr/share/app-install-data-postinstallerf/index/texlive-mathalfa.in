@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-mathalfa</b>'
+Comment='<span size="xx-large">General package for loading maths alphabets in LaTeX</span>'
+Comment3='
+The package provides means of loading maths alphabets (such as
+are normally addressed via macros \mathcal, \mathbb, \mathfrak
+and \mathscr), offering various features normally missing in
+existing packages for this job.
+
+date 2012-07-16 011642 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

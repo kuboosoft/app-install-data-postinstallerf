@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libreoffice-voikko</b>'
+Comment='<span size="xx-large">Finnish spellchecker and hyphenator extension for LibreOffice</span>'
+Comment3='
+This package contains a Finnish spell-checking and hyphenation component for
+LibreOffice. The actual spell-checking and hyphenation functionality is
+provided by the Voikko library.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://voikko.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

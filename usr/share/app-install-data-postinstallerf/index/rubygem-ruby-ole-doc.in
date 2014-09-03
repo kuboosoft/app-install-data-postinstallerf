@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ruby-ole-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-ruby-ole</span>'
+Comment3='
+Documentation for rubygem-ruby-ole.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/ruby-ole'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Math-Prime-XS</b>'
+Comment='<span size="xx-large">Detect and calculate prime numbers with deterministic tests</span>'
+Comment3='
+MathPrimeXS detects and calculates prime numbers by either applying
+Modulo operator division, the Sieve of Eratosthenes, a Summation
+calculation or Trial division.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Math-Prime-XS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

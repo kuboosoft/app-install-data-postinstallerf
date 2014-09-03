@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lfcbase-devel</b>'
+Comment='<span size="xx-large">Development files for lfcbase</span>'
+Comment3='
+The lfcbase-devel package contains libraries and header files for
+developing applications that use lfcbase.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.lemke-it.com/litexec?request=publfc&user=&lang=en'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

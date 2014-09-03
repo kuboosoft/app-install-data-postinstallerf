@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nautilus-image-converter</b>'
+Comment='<span size="xx-large">Nautilus extension to mass resize images</span>'
+Comment3='
+Adds a "Resize Images..." menu item to the context menu of all images. This
+opens a dialog where you set the desired image size and file name. A click
+on "Resize" finally resizes the image(s) using ImageMagicks convert tool.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bitron.ch/software/nautilus-image-converter.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

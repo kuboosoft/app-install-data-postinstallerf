@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rpmdepsize</b>'
+Comment='<span size="xx-large">A tool for visualizing RPM dependencies</span>'
+Comment3='
+rpmdepsize is an interactive graphical tool for visualizing the size
+of RPM dependencies.
+
+Its useful for shaming RPMs that have too many dependencies or pull
+in large amounts of data because of indirect dependencies.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://et.redhat.com/~rjones/rpmdepsize/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

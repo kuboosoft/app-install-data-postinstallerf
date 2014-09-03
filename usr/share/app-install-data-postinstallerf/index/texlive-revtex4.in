@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-revtex4</b>'
+Comment='<span size="xx-large">revtex4 package</span>'
+Comment3='
+revtex4 package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

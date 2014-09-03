@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kakasi</b>'
+Comment='<span size="xx-large">A Japanese character set conversion filter</span>'
+Comment3='
+KAKASI is a filter for converting Kanji characters to Hiragana or
+Katakana characters, or into Romaji (phonetic transcription of
+Japanese pronunciation).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kakasi.namazu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

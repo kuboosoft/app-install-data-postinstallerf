@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ladspa-calf-plugins</b>'
+Comment='<span size="xx-large">Calf plugins in LADSPA format</span>'
+Comment3='
+
+The Calf project aims at providing a set of high quality open source audio
+plugins for musicians. All the included plugins are designed to be used with
+multitrack software, as software replacement for instruments and guitar stomp
+boxes.
+This package contains only LADSPA effect plugins (no GUI), with LRDF.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://calf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

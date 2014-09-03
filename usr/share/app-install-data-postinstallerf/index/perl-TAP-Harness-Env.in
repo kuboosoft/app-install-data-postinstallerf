@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-TAP-Harness-Env</b>'
+Comment='<span size="xx-large">Parsing harness related environmental variables where appropriate</span>'
+Comment3='
+This module implements the environmental variables that TestHarness for use
+with TAPHarness.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/Test-Harness'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

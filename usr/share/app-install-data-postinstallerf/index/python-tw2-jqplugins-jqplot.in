@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-tw2-jqplugins-jqplot</b>'
+Comment='<span size="xx-large">Toscawidgets2 wrapper for the jqPlot jQuery plugin</span>'
+Comment3='
+tw2.jqplugins.jqplot is a toscawidgets2 wrapper for jqPlot.
+
+Toscawidgets2 aims to be a practical and useful widgets framework
+that helps people build interactive websites with compelling features,
+faster and easier. Widgets are re-usable web components that can include a
+template, server-side code and JavaScripts/CSS resources. The library aims
+to be flexible, reliable, documented, performant, and as simple as
+possible.
+jqPlot is a plotting and charting plugin for the jQuery Javascript
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/tw2.jqplugins.jqplot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>dspam-hash</b>'
+Comment='<span size="xx-large">Hash storage driver for libdspam</span>'
+Comment3='
+The self-contained Hash-Based driver (inspired by Bill Yerazunis CRM
+Sparse Spectra algorithm) is the fastest solution by far and requires no
+dependencies, supports an auto-extend feature to grow the file size as
+needed, and is very fast and compact. It does, however, lack some
+features (such as merged groups support) and uses a lot of memory to
+mmap() users. The driver is thread-safe (required for running DSPAM in
+server daemon mode).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nuclearelephant.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

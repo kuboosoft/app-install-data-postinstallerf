@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pcp-libs</b>'
+Comment='<span size="xx-large">Performance Co-Pilot run-time libraries</span>'
+Comment3='
+Performance Co-Pilot (PCP) run-time libraries
+
+URL          http//www.performancecopilot.org
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.performancecopilot.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>sirius</b>'
+Comment='<span size="xx-large">Reversi game for Gnome</span>'
+Comment3='
+Sirius is a program for playing the game of reversi. The program includes an AI
+(Artificial Intelligence) opponent which plays at a very challenging level and
+is actually quite hard to beat. The AI opponents strength can therefore be
+adjusted in several ways to give you a suitable opponent.
+
+The AI opponent uses a plain alpha-beta search with hashing to figure out which
+move to make. To be able to tell a good position from a bad one, it uses a
+pattern based evaluation function. The pattern used is the 9 discs surrounding
+each corner and the 8 discs creating the edge of the board. The evaluation
+function also takes mobility, potential mobility and parity into count. For the
+'
+License='GPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

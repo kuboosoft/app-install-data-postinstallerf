@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools</b>'
+Comment='<span size="xx-large">Eclipse plugins that support JBoss and related technology</span>'
+Comment3='
+JBoss Tools is an umbrella project for a set of Eclipse plugins that supports
+JBoss and related technology; there is support for Hibernate, JBoss AS, Drools,
+jBPM, JSF, (X)HTML, Seam, Maven, JBoss ESB, JBoss Portal and more...
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

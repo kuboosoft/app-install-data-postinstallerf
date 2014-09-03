@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ocaml-cil-doc</b>'
+Comment='<span size="xx-large">Documentation for ocaml-cil</span>'
+Comment3='
+The ocaml-cil-doc package contains documentation for users of ocaml-cil.
+'
+License='BSD'
+Screenshot=''
+Url='http://cil.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

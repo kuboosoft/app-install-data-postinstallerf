@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-CatalystX-InjectComponent</b>'
+Comment='<span size="xx-large">Inject components into your Catalyst application</span>'
+Comment3='
+CatalystXInjectComponent will inject Controller, Model, and View components
+into your Catalyst application at setup (run)time. It does this by creating a
+new package on-the-fly, having that package extend the given component, and
+then having Catalyst setup the new component (via ->setup_component).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CatalystX-InjectComponent/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

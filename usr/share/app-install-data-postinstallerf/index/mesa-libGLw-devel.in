@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mesa-libGLw-devel</b>'
+Comment='<span size="xx-large">Mesa libGLw development package</span>'
+Comment3='
+Mesa libGLw development package.
+
+URL          http//www.mesa3d.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mesa3d.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

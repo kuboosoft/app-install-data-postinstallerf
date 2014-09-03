@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>redhat-rpm-config</b>'
+Comment='<span size="xx-large">Red Hat specific rpm configuration files</span>'
+Comment3='
+Red Hat specific rpm configuration files.
+'
+License='GPL+'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/redhat-rpm-config'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

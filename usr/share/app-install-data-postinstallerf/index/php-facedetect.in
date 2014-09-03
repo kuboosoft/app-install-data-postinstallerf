@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-facedetect</b>'
+Comment='<span size="xx-large">PHP extension to access the OpenCV library</span>'
+Comment3='
+This extension provides a PHP implementation of the OpenCV library.
+The extension offers two new functions. In principle, they differ
+only by their return value. The first returns only the number of
+faces found on the given image and the other an associative array
+of their coordinates.
+'
+License='PHP'
+Screenshot=''
+Url='http://www.xarg.org/project/php-facedetect/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

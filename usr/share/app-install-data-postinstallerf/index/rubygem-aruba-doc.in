@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-aruba-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-aruba</span>'
+Comment3='
+Documentation for rubygem-aruba
+'
+License='MIT and CC-BY and (MIT or GPLv2) and (MIT or BSD or GPLv2)'
+Screenshot=''
+Url='http://github.com/cucumber/aruba'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

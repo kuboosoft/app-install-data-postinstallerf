@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Starman</b>'
+Comment='<span size="xx-large">High-performance preforking PSGI/Plack web server</span>'
+Comment3='
+Starman is a PSGI perl web server that has unique features such as high
+performance, preforking, use of signals and a small memory footprint. It is PSGI
+compatible and offers HTTP/1.1 support.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Starman/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

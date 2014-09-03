@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Class-DBI-AbstractSearch</b>'
+Comment='<span size="xx-large">Abstract Class::DBIs SQL with SQL::Abstract</span>'
+Comment3='
+Abstract ClassDBIs SQL with SQLAbstract.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-DBI-AbstractSearch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

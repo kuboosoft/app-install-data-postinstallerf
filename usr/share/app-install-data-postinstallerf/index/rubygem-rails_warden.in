@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rails_warden</b>'
+Comment='<span size="xx-large">A gem that provides authentication via the Warden framework</span>'
+Comment3='
+A gem that provides authentication via the Warden framework
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/hassox/rails_warden'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

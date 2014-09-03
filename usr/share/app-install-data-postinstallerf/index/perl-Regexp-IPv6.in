@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Regexp-IPv6</b>'
+Comment='<span size="xx-large">Regular expression for IPv6 addresses</span>'
+Comment3='
+This module exports the $IPv6_re regular expression that matches any valid
+IPv6 address as described in "RFC 2373 - 2.2 Text Representation of
+Addresses" but . Any string not compliant with such RFC will be rejected.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Regexp-IPv6/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

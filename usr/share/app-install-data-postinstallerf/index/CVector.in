@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>CVector</b>'
+Comment='<span size="xx-large">ANSI C API for Dynamic Arrays</span>'
+Comment3='
+CVector is an ANSI C implementation of dynamic arrays to provide a
+crude approximation to the C++ vector class.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cvector.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>teeworlds-server</b>'
+Comment='<span size="xx-large">Server for teeworlds</span>'
+Comment3='
+Server for teeworlds, an online multi-player platform 2D shooter.
+'
+License='Teeworlds'
+Screenshot=''
+Url='http://www.teeworlds.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

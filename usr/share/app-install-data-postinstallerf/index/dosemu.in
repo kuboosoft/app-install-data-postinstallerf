@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dosemu</b>'
+Comment='<span size="xx-large">DOS Emulator for Linux</span>'
+Comment3='
+DOSEMU is a PC Emulator that allows Linux to run a DOS operating system
+in a virtual x86 machine.  This allows you to run all kinds of different
+DOS programs including DPMI applications.  Enjoy running your DOS
+programs forever!
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dosemu.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

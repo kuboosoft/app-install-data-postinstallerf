@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-mmap</b>'
+Comment='<span size="xx-large">Memory mapped files library</span>'
+Comment3='
+A Haskell wrapper to mmap(2) or MapViewOfFile, allowing files or devices
+to be lazily loaded into memory as strict or lazy ByteStrings, ForeignPtrs or
+plain Ptrs, using the virtual memory subsystem to do on-demand loading.
+Modifications are also supported.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/mmap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

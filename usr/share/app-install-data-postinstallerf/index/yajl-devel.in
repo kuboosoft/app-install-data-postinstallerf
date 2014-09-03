@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>yajl-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc to develop with YAJL</span>'
+Comment3='
+Yet Another JSON Library. YAJL is a small event-driven
+(SAX-style) JSON parser written in ANSI C, and a small
+validating JSON generator.
+
+This sub-package provides the libraries and includes
+necessary for developing against the YAJL library
+'
+License='ISC'
+Screenshot=''
+Url='http://lloyd.github.com/yajl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

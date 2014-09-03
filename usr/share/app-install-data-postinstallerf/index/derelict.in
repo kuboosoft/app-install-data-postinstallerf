@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>derelict</b>'
+Comment='<span size="xx-large">Collection of D bindings to C shared libraries</span>'
+Comment3='
+derelict supports some useful features for project development, including
+- Cross-Platform Consistency
+derelict loads shared libraries manually at run-time and throws an exception
+when the library, or any symbol in the library, fails to load. This gives you
+complete control over how to handle the case of a missing shared library. You
+can fall back to a different code path, give your users a helpful error message
+or take any action you want. Regardless, you have consistent behavior across
+multiple platforms.
+- Selective Symbol Loading - This feature allows you to override exceptions
+thrown by derelict when a shared library symbol fails to load. It is a goal of
+'
+License='Boost'
+Screenshot=''
+Url='http://www.dsource.org/projects/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

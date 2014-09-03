@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>rygel</b>'
+Comment='<span size="xx-large">A collection of UPnP/DLNA services</span>'
+Comment3='
+Rygel is a home media solution that allows you to easily share audio, video and
+pictures, and control of media player on your home network. In technical terms
+it is both a UPnP AV MediaServer and MediaRenderer implemented through a plug-in
+mechanism. Interoperability with other devices in the market is achieved by
+conformance to very strict requirements of DLNA and on the fly conversion of
+media to format that client devices are capable of handling.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/Rygel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

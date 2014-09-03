@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Test-MockObject</b>'
+Comment='<span size="xx-large">Perl extension for emulating troublesome interfaces</span>'
+Comment3='
+TestMockObject is a highly polymorphic testing object, capable of
+looking like all sorts of objects.  This makes white-box testing much
+easier, as you can concentrate on what the code being tested sends to
+and receives from the mocked object, instead of worrying about faking
+up your own data.  (Another option is not to test difficult things.
+Now you have no excuse.)
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-MockObject/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

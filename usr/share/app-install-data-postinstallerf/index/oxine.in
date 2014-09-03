@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>oxine</b>'
+Comment='<span size="xx-large">Lightweight, purely OSD based xine frontend</span>'
+Comment3='
+oxine is a lightweight gui for the famous xine engine which uses the on screen
+display functionality of xine to display its user interface elements like
+buttons, lists sliders and so on. Due to this, oxine can easily be ported to
+any video output device the xine library provides (e.g. frame buffer, dxr3,...)
+and is particularly suitable for appliances like set-top boxes, home
+entertainment systems or kiosk systems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://oxine.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

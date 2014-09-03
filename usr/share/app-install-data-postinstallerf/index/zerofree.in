@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>zerofree</b>'
+Comment='<span size="xx-large">Utility to force unused ext2 inodes and blocks to zero</span>'
+Comment3='
+zerofree is a utility to set unused filesystem inodes and blocks of an
+ext2 filesystem to zero.  This can improve the compressibility and
+privacy of an ext2 filesystem.
+
+This tool was inspired by the ext2fs privacy (i.e. secure deletion)
+patch described in a Linux kernel mailing list thread.
+WARNING The filesystem to be processed should be unmounted or mounted
+read-only.  The tool tries to check this before running, but you
+should be careful.
+'
+License='GPL+'
+Screenshot=''
+Url='http://intgat.tigress.co.uk/rmy/uml/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

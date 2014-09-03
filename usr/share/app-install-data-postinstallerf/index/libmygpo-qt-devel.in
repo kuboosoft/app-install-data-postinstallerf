@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmygpo-qt-devel</b>'
+Comment='<span size="xx-large">Development files for libmygpo-qt</span>'
+Comment3='
+Development files for libmygpo-qt.
+
+URL          http//wiki.gpodder.org/wiki/Libmygpo-qt
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://wiki.gpodder.org/wiki/Libmygpo-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

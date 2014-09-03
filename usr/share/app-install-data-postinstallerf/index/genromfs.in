@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>genromfs</b>'
+Comment='<span size="xx-large">Utility for creating romfs file systems</span>'
+Comment3='
+Genromfs is a tool for creating romfs file systems, which are
+lightweight, read-only file systems supported by the Linux
+kernel. Romfs file systems are mainly used for the initial RAM disks
+used during installation.
+
+Install genromfs if you need to create romfs file systems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://romfs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

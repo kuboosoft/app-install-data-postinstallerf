@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>frei0r-plugins-opencv</b>'
+Comment='<span size="xx-large">Frei0r plugins using OpenCV</span>'
+Comment3='
+Frei0r plugins that use the OpenCV computer vision framework.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.piksel.org/frei0r'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

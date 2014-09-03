@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gambatte-sdl</b>'
+Comment='<span size="xx-large">SDL Gambatte front-end</span>'
+Comment3='
+Gambatte is an accuracy-focused, open-source, cross-platform
+Game Boy Color emulator written in C++. It is based on hundreds of
+corner case hardware tests, as well as previous documentation and reverse
+engineering efforts.
+
+This is a simple command-line SDL front-end.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/gambatte/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

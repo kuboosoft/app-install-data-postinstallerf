@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>storaged</b>'
+Comment='<span size="xx-large">Extended storage management DBus service</span>'
+Comment3='
+This is a DBus service that provides management of extended
+storage options, currently only LVM.
+
+This is an extension to udisks2.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://github.com/cockpit-project/storaged'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

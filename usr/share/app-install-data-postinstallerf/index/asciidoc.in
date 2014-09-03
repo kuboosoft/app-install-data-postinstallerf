@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>asciidoc</b>'
+Comment='<span size="xx-large">Text based document generation</span>'
+Comment3='
+AsciiDoc is a text document format for writing short documents,
+articles, books and UNIX man pages. AsciiDoc files can be translated
+to HTML and DocBook markups using the asciidoc(1) command.
+'
+License='GPL+ and GPLv2+'
+Screenshot=''
+Url='http://www.methods.co.nz/asciidoc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

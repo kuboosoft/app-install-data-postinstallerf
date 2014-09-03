@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-root</b>'
+Comment='<span size="xx-large">Compiled elisp files to run root under GNU Emacs</span>'
+Comment3='
+emacs-root is an add-on package for GNU Emacs. It provides integration
+with ROOT.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

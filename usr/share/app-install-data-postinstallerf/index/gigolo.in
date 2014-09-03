@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gigolo</b>'
+Comment='<span size="xx-large">GIO/GVFS management application</span>'
+Comment3='
+A frontend to easily manage connections to remote filesystems using GIO/GVFS.
+It allows you to quickly connect/mount a remote filesystem and manage
+bookmarks of such.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/applications/gigolo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

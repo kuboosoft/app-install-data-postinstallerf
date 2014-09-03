@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-tre</b>'
+Comment='<span size="xx-large">Python bindings for the tre library</span>'
+Comment3='
+This package contains the python bindings for the TRE library.
+'
+License='BSD'
+Screenshot=''
+Url='http://laurikari.net/tre/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

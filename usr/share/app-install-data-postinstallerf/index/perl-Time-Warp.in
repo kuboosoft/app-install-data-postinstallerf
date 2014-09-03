@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Time-Warp</b>'
+Comment='<span size="xx-large">Change the start and speed of Event time</span>'
+Comment3='
+Our external experience unfolds in 3 1/2 dimensions (time has a
+dimensionality of 1/2). The TimeWarp module offers developers control
+over the measurement of time.
+
+This module is redundant if youre from Gallifrey, and not recommended
+for use at high speeds near very massive objects.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Time-Warp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

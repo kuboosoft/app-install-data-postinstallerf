@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-net-sftp</b>'
+Comment='<span size="xx-large">A pure Ruby implementation of the SFTP client protocol</span>'
+Comment3='
+A pure Ruby implementation of the SFTP client protocol
+'
+License='MIT or LGPLv2'
+Screenshot=''
+Url='http://net-ssh.rubyforge.org/sftp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

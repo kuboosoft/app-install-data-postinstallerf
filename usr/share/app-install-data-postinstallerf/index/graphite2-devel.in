@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>graphite2-devel</b>'
+Comment='<span size="xx-large">Files for developing with graphite2</span>'
+Comment3='
+Includes and definitions for developing with graphite2.
+
+URL          http//sourceforge.net/projects/silgraphite/
+'
+License='(LGPLv2+ or GPLv2+ or MPL) and (Netscape or GPLv2+ or LGPLv2+)'
+Screenshot=''
+Url='http://sourceforge.net/projects/silgraphite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

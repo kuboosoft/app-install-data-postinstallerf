@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>trafficserver</b>'
+Comment='<span size="xx-large">Fast, scalable and extensible HTTP/1.1 compliant caching proxy server</span>'
+Comment3='
+Apache Traffic Server is a fast, scalable and extensible HTTP/1.1 compliant
+caching proxy server.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://trafficserver.apache.org/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

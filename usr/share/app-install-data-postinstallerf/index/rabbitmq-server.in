@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rabbitmq-server</b>'
+Comment='<span size="xx-large">The RabbitMQ server</span>'
+Comment3='
+RabbitMQ is an implementation of AMQP, the emerging standard for high
+performance enterprise messaging. The RabbitMQ server is a robust and
+scalable implementation of an AMQP broker.
+'
+License='MPLv1.1'
+Screenshot=''
+Url='http://www.rabbitmq.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

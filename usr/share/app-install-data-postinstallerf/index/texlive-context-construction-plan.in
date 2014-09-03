@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-context-construction-plan</b>'
+Comment='<span size="xx-large">Construction plans in ConTeXt</span>'
+Comment3='
+Generate a page with a figure at a well-defined scale.
+
+date 2008-08-18 235409 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

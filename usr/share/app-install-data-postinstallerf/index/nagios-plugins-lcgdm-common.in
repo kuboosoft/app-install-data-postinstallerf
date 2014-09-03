@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nagios-plugins-lcgdm-common</b>'
+Comment='<span size="xx-large">Common libraries and files to all LCGDM nagios packages</span>'
+Comment3='
+LCGDM includes both the Disk Pool Manager (DPM) and LCG File Catalog (LFC)
+components. This package provides the common libraries and files used by
+all LCGDM nagios probes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm/wiki/Dpm/Admin/Monitoring'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

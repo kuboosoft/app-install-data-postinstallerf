@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>OpenSceneGraph-examples-qt</b>'
+Comment='<span size="xx-large">OSG sample applications using qt</span>'
+Comment3='
+OSG sample applications using qt
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.openscenegraph.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

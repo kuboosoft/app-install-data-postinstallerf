@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netcf-devel</b>'
+Comment='<span size="xx-large">Development files for netcf</span>'
+Comment3='
+The netcf-devel package contains libraries and header files for
+developing applications that use netcf.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/netcf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

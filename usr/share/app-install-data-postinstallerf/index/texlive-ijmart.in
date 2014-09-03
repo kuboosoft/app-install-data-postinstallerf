@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-ijmart</b>'
+Comment='<span size="xx-large">LaTeX Class for the Israel Journal of Mathematics</span>'
+Comment3='
+The Israel Journal of Mathematics is published by The Hebrew
+University Magnes Press. This class provides LaTeX support for
+its authors and editors. It strives to achieve the distinct
+"look and feel" of the journal, while having the interface
+similar to that of the amsart document class. This will help
+authors already familiar with amsart to easily submit
+manuscripts for The Israel Journal of Mathematics or to put the
+preprints in arXiv with minimal changes in the LaTeX source.
+
+date 2013-06-26 195321 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

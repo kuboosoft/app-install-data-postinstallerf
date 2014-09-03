@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-kotex-utf</b>'
+Comment='<span size="xx-large">Typeset Hangul, coded in UTF-8</span>'
+Comment3='
+The package typesets Hangul, which is the native alphabet of
+the Korean language; input Korean text should be encoded in
+UTF-8. The bundle (of class and associated packages) belongs to
+the ko.TeX bundle.
+
+date 2013-11-08 092800 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

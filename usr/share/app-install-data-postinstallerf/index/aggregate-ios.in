@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>aggregate-ios</b>'
+Comment='<span size="xx-large">Cisco/IOS IPv4 prefix lists aggregator</span>'
+Comment3='
+aggregate-ios takes Cisco IOS configuration on stdin, and optimizes
+any prefix filters found using aggregate.
+'
+License='ISC'
+Screenshot=''
+Url='http://ftp.isc.org/isc/aggregate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

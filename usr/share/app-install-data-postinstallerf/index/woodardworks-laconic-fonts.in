@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>woodardworks-laconic-fonts</b>'
+Comment='<span size="xx-large">An artistic and minimal sans-serif font family</span>'
+Comment3='
+Laconic is a typeface font design meant to be dry without quite seeming
+parched. Curves and diagonals are kept to a bare minimum without sacrificing
+legibility. What it lacks in design features are more than made up for in
+OpenType features. All the weights contain small caps, proportial figures,
+old style figures, tabular figures, ligatures and stylistic alternates.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.woodardworks.com/type13.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

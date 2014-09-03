@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pst-cox</b>'
+Comment='<span size="xx-large">Drawing regular complex polytopes with PSTricks</span>'
+Comment3='
+Pst-cox is a PSTricks package for drawing 2-dimensional
+projections of complex regular polytopes (after the work of
+Coxeter). The package consists of a macro library for drawing
+the projections. The complex polytopes appear in the study of
+the root systems and play a crucial role in many domains
+related to mathematics and physics. These polytopes have been
+completely described by Coxeter in his book "Regular Complex
+Polytopes". There exist only a finite numbers of exceptional
+regular complex polytopes (for example the icosahedron) and
+some infinite series (for example, one can construct a multi-
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

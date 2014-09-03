@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-jmlr</b>'
+Comment='<span size="xx-large">Class files for the Journal of Machine Learning Research</span>'
+Comment3='
+The jmlr bundle provides a class for authors (jmlr) and a class
+for production editors (jmlrbook), as well as a script
+makejmlrbook The jmlrbook class may can be used to combine
+articles written using the jmlr class into a book. The class
+uses the combine class and the hyperref package to produce
+either a colour hyperlinked book for on-line viewing or a
+greyscale nonhyperlinked book for printing. The makejmlrbook
+Perl script can be used to create the colour hyperlinked and
+greyscale nonhyperlinked PDFs of a document using the jmlrbook
+class. It can also create a set of HTML files that list the
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

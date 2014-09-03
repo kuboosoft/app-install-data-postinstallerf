@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>audacity-manual</b>'
+Comment='<span size="xx-large">manual for Audacity - offline install</span>'
+Comment3='
+Audacity Manual can be installed locally if preferred, or accessed on-line
+if internet connection is available.
+For the most up to date manual content, use the on-line manual.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://audacity.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

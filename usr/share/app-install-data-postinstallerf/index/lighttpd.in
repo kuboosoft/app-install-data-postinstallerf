@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>lighttpd</b>'
+Comment='<span size="xx-large">Lightning fast webserver with light system requirements</span>'
+Comment3='
+Secure, fast, compliant and very flexible web-server which has been optimized
+for high-performance environments. It has a very low memory footprint compared
+to other webservers and takes care of cpu-load. Its advanced feature-set
+(FastCGI, CGI, Auth, Output-Compression, URL-Rewriting and many more) make
+it the perfect webserver-software for every server that is suffering load
+problems.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.lighttpd.net/'
+(FastCGI, CGI, Auth, Output-Compression, URL-Rewriting and many more) make'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

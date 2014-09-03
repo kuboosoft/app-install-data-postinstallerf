@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libusal</b>'
+Comment='<span size="xx-large">Library to communicate with SCSI devices</span>'
+Comment3='
+The libusal package contains C libraries that allows applications
+to communicate with SCSI devices and is well suitable for writing
+CD-R media.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://cdrkit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

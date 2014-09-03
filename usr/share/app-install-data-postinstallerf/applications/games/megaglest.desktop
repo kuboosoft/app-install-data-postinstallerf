@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n megaglest
+Categories=Game;StrategyGame;
+Comment=A real time strategy game.
+Name=MegaGlest
+Icon=/usr/share/app-install-data-postinstallerf/icons/megaglest.png
+Terminal=false
+Type=Application

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>netpbm-progs</b>'
+Comment='<span size="xx-large">Tools for manipulating graphics files in netpbm supported formats</span>'
+Comment3='
+The netpbm-progs package contains a group of scripts for manipulating the
+graphics files in formats which are supported by the netpbm libraries.  For
+example, netpbm-progs includes the rasttopnm script, which will convert a
+Sun rasterfile into a portable anymap.  Netpbm-progs contains many other
+scripts for converting from one graphics file format to another.
+
+If you need to use these conversion scripts, you should install
+netpbm-progs.  Youll also need to install the netpbm package.
+'
+License='BSD and GPLv2 and IJG and MIT and Public Domain'
+Screenshot=''
+Url='http://netpbm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

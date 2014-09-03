@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-vector-binary-instances</b>'
+Comment='<span size="xx-large">Binary and Serialize instances for vector</span>'
+Comment3='
+Instances for Binary for the types defined in the vector package, making it
+easy to serialize vectors to and from disk. Uses the generic interface to
+vectors, so all vector types are supported. Specific instances are provided
+for unboxed, boxed and storable vectors.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/vector-binary-instances'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

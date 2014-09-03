@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-newt_syrup</b>'
+Comment='<span size="xx-large">Newt Syrup is an app framework built on top of Newt</span>'
+Comment3='
+Newt Syrup is an app framework built on top of Newt. It provides a set of
+classes for creating text-based applications. Developers can use the widgets
+provided by Newt and the framework provided by Syrup to create full text-based
+applications in Python.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://newt-syrup.fedorahosted.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

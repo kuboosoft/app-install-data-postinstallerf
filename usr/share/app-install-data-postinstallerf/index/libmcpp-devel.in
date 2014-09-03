@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmcpp-devel</b>'
+Comment='<span size="xx-large">Alternative C/C++ preprocessor (development package for library build)</span>'
+Comment3='
+Development package for libmcpp.
+
+URL          http//mcpp.sourceforge.net/
+'
+License='BSD'
+Screenshot=''
+Url='http://mcpp.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xmms2-mad</b>'
+Comment='<span size="xx-large">XMMS2 Plugin for MPEG Audio files</span>'
+Comment3='
+An XMMS2 Plugin for listening to MPEG files (MPEG 1 & 2 layers I, II and III
+- includes MP3).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

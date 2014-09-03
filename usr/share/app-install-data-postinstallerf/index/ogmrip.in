@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ogmrip</b>'
+Comment='<span size="xx-large">DVD ripping and encoding graphical user interface</span>'
+Comment3='
+OGMRip is an application and a set of libraries for ripping and encoding DVDs
+into AVI, OGM MP4 or Matroska files using a wide variety of codecs. It relies
+on mplayer, mencoder, ogmtools, mkvtoolnix, oggenc, lame and faac to perform
+its tasks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ogmrip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openfst-tools</b>'
+Comment='<span size="xx-large">Command-line tools for working with FSTs</span>'
+Comment3='
+This package contains command-line tools that give access to OpenFst
+functionality.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openfst.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

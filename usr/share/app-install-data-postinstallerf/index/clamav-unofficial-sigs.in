@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>clamav-unofficial-sigs</b>'
+Comment='<span size="xx-large">Scripts to download unoffical clamav signatures</span>'
+Comment3='
+This package contains scripts and configuration files
+that provide the capability to download, test, and
+update the 3rd-party signature databases provide by
+Sanesecurity, SecuriteInfo, MalwarePatrol, OITC,
+INetMsg and ScamNailer.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.inetmsg.com/pub/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

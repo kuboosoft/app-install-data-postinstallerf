@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libmwaw</b>'
+Comment='<span size="xx-large">An import library for many old mac document formats</span>'
+Comment3='
+libmwaw contains import filters for many old mac documents, mostly text
+formats like ClarisWorks, MacWrite or MS Word for Mac, but it has a
+limited support for vector drawings and spreadsheets as well (limited in
+the sense that it treats them as text documents). Full list of supported
+formats is available at https//sourceforge.net/p/libmwaw/wiki/Home/ .
+
+'
+License='LGPLv2+ or MPLv2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/libmwaw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

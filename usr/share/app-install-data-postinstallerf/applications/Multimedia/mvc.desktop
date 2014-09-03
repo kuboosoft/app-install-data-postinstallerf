@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n mvc
+Name=Miro Video Converter
+Comment=Simple video converter that has presets for popular (Android)phones, iPhones and iPads
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/mvc.png
+Categories=GNOME;GTK;AudioVideo;

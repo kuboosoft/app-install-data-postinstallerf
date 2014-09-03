@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Jemplate</b>'
+Comment='<span size="xx-large">JavaScript Templating with Template Toolkit</span>'
+Comment3='
+Jemplate is a templating framework for JavaScript that is built over
+Perls Template Toolkit (TT2). Jemplate parses TT2 templates using the
+TT2 Perl framework, but with a twist. Instead of compiling the templates
+into Perl code, it compiles them into JavaScript. Jemplate then provides
+a JavaScript run-time module for processing the template code. Presto, we
+have full featured JavaScript templating language!
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Jemplate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

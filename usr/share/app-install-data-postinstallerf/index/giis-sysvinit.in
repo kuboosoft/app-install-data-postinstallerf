@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>giis-sysvinit</b>'
+Comment='<span size="xx-large">Legacy sysvinit scripts for daemon</span>'
+Comment3='
+May be needed f.e. on CentOS.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://giis.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

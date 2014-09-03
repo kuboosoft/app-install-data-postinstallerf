@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdr-skinsoppalusikka</b>'
+Comment='<span size="xx-large">The "Soppalusikka" skin for VDR</span>'
+Comment3='
+The "Soppalusikka" is a standalone skin providing the good old "ElchiAIO"
+looks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.saunalahti.fi/~rahrenbe/vdr/soppalusikka/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

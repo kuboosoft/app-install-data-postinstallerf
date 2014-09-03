@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lutok-doc</b>'
+Comment='<span size="xx-large">API documentation of the Lutok library and example programs</span>'
+Comment3='
+Provides HTML documentation describing the API of the Lutok library
+and a collection of sample source programs to demonstrate the use
+of the library.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/lutok/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

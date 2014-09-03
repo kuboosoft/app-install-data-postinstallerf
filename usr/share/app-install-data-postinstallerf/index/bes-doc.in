@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bes-doc</b>'
+Comment='<span size="xx-large">Documentation of the OPeNDAP BES</span>'
+Comment3='
+Documentation of OPeNDAP BES.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opendap.org/BES_software'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wxMaxima</b>'
+Comment='<span size="xx-large">Graphical user interface for Maxima</span>'
+Comment3='
+A Graphical user interface for the computer algebra system
+Maxima using wxWidgets.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wxmaxima.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

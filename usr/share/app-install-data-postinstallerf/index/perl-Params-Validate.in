@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Params-Validate</b>'
+Comment='<span size="xx-large">Params-Validate Perl module</span>'
+Comment3='
+The ParamsValidate module allows you to validate method or function
+call parameters to an arbitrary level of specificity. At the simplest
+level, it is capable of validating the required parameters were given
+and that no unspecified additional parameters were passed in. It is
+also capable of determining that a parameter is of a specific type,
+that it is an object of a certain class hierarchy, that it possesses
+certain methods, or applying validation callbacks to arguments.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Params-Validate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>scim-bridge</b>'
+Comment='<span size="xx-large">SCIM Bridge Gtk IM module</span>'
+Comment3='
+SCIM Bridge is a C implementation of a Gtk IM module for SCIM.
+'
+License='GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://www.scim-im.org/projects/scim_bridge'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

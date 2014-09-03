@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-version</b>'
+Comment3='
+objects for older version of Perl and provides the version object API for
+all versions of Perl. All previous releases before 0.74 are deprecated and
+the new parse and declare methods to standardize usage. You are
+strongly urged to set 0.77 as a minimum in your code.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/version/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

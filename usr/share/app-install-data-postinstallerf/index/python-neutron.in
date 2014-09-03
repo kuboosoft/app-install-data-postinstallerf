@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-neutron</b>'
+Comment='<span size="xx-large">Neutron Python libraries</span>'
+Comment3='
+Neutron provides an API to dynamically request and configure virtual
+networks.
+
+This package contains the neutron Python library.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://launchpad.net/neutron/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

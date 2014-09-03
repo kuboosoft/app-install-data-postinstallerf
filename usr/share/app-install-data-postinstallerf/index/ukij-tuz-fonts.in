@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ukij-tuz-fonts</b>'
+Comment='<span size="xx-large">Uyghur Computer Science Association (UKIJ) Unicode fonts</span>'
+Comment3='
+Uyghur Computer Science Association (UKIJ) Unicode fonts
+'
+License='OFL'
+Screenshot=''
+Url='http://www.ukij.org/fonts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

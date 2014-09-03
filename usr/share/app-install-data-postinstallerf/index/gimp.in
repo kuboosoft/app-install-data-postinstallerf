@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gimp</b>'
+Comment='<span size="xx-large">GNU Image Manipulation Program</span>'
+Comment3='
+GIMP (GNU Image Manipulation Program) is a powerful image composition and
+editing program, which can be extremely useful for creating logos and other
+graphics for webpages. GIMP has many of the tools and filters you would expect
+to find in similar commercial offerings, and some interesting extras as well.
+GIMP provides a large image manipulation toolbox, including channel operations
+and layers, effects, sub-pixel imaging and anti-aliasing, and conversions, all
+with multi-level undo.
+'
+License='GPLv3+ and GPLv3'
+Screenshot=''
+Url='http://www.gimp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

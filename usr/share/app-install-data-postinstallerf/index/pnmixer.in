@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pnmixer</b>'
+Comment='<span size="xx-large">Lightweight mixer applet</span>'
+Comment3='
+PNMixer is system tray sound mixer. Currently it supports ALSA and PulseAudio.
+It is written in C, depends only on GTK+, and does not require Gnome.
+
+PNMixer is a fork of OBMixer with a number of additions. These include
+* Volume adjustment with the scroll wheel
+* Textual display of volume level in popup window
+* Continuous volume adjustment when dragging the slider (not just when you let
+  go)
+* Use system icon theme for icons and use mute/low/medium/high volume icons
+* Configurable middle click action (default is mute/unmute)
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/nicklan/pnmixer/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

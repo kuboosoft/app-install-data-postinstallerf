@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>tcp_wrappers</b>'
+Comment='<span size="xx-large">A security tool which acts as a wrapper for TCP daemons</span>'
+Comment3='
+The tcp_wrappers package provides small daemon programs which can
+monitor and filter incoming requests for systat, finger, FTP, telnet,
+rlogin, rsh, exec, tftp, talk and other network services.
+
+Install the tcp_wrappers program if you need a security tool for
+filtering incoming network services requests.
+This version also supports IPv6.
+'
+License='BSD'
+Screenshot=''
+Url='ftp://ftp.porcupine.org/pub/security/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

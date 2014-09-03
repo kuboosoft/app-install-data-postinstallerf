@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n reinteract
+Name=Reinteract
+Comment=Interactive Python shell
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/share/app-install-data-postinstallerf/icons/reinteract.png
+Categories=GNOME;GTK;Education;Science;

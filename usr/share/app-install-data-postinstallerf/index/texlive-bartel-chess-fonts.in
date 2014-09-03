@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-bartel-chess-fonts</b>'
+Comment='<span size="xx-large">A set of fonts supporting chess diagrams</span>'
+Comment3='
+The fonts are provided as MetaFont source.
+
+date 2010-11-29 085606 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

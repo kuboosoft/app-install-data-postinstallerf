@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hivex-static</b>'
+Comment='<span size="xx-large">Statically linked library for hivex</span>'
+Comment3='
+hivex-static contains the statically linked library
+for hivex.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-urlbst</b>'
+Comment='<span size="xx-large">Web support for BibTeX</span>'
+Comment3='
+Supports a new BibTeX webpage entry type and url,
+lastchecked, and eprint and DOI fields. The Perl script
+urlbst can be used to add this support to an arbitrary .bst
+file which has a reasonably conventional structure. The result
+is meant to be robust rather than pretty.
+
+date 2011-11-15 115022 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

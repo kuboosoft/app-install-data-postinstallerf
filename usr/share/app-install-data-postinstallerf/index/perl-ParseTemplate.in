@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-ParseTemplate</b>'
+Comment='<span size="xx-large">ParseTemplate Perl module</span>'
+Comment3='
+ParseTemplate was initially created to serve as a code generator for the
+ParseLex class. The class is now available as a separate module.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/ParseTemplate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

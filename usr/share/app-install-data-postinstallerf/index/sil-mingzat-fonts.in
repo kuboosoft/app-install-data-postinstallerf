@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>sil-mingzat-fonts</b>'
+Comment='<span size="xx-large">A font for Lepcha script</span>'
+Comment3='
+Mingzat is based on Jason Glavys JG Lepcha font which was a custom-encoded
+font. The goal for this product was to provide a single Unicode-based font
+that would contain all Lepcha characters. In addition, there is provision for
+other Latin characters and symbols. This font makes use of state-of-the-art
+font technologies (Graphite and OpenType) to support the need for conjuncts
+and to position arbitrary combinations of Lepcha glyphs and combining marks
+optimally.
+'
+License='OFL'
+Screenshot=''
+Url='http://scripts.sil.org/Mingzat'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

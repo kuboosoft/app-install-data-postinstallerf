@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-PDF-Reuse</b>'
+Comment='<span size="xx-large">Reuse and mass produce PDF documents</span>'
+Comment3='
+This module allows you to reuse PDF-files. You can use pages, images,
+fonts and Acrobat JavaScript from old PDF-files (if they were not
+encrypted), and rearrange the components, and add new graphics, texts etc.
+
+There is also support for graphics. In the tutorial there is a description of
+how to transform simple PDF-pages to graphic Perl objects with the help of
+programs based on this module.
+The module is fairly fast, so it should be possible to use it for mass
+production.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PDF-Reuse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

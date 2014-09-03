@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-CSS-Minifier</b>'
+Comment='<span size="xx-large">Remove unnecessary whitespace from CSS files</span>'
+Comment3='
+This module removes unnecessary whitespace from CSS. The primary
+requirement developing this module is to not break working stylesheets
+if working CSS is in input then working CSS is output. The Mac/Internet
+Explorer comment hack will be minimized but not stripped and so will
+continue to function.This module understands space, horizontal tab, new
+line, carriage return, and form feed characters to be whitespace. Any
+other characters that may be considered whitespace are not minimized.
+These other characters include paragraph separator and vertical tab.For
+static CSS files, it is recommended that you minify during the build
+stage of web deployment. If you minify on-the-fly then it might be a
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CSS-Minifier'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>drupal7-locale_cookie</b>'
+Comment='<span size="xx-large">Keeps track of the language by means of a cookie</span>'
+Comment3='
+This module adds a new method for language detection to Drupal 7, it keeps
+track of the language by means of a cookie, so the language is preserved
+no matter of the user is logged in or not. It also works for recurring users.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/locale_cookie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

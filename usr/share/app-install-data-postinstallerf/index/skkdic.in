@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>skkdic</b>'
+Comment='<span size="xx-large">Dictionaries for SKK (Simple Kana-Kanji conversion program)</span>'
+Comment3='
+This package includes the SKK dictionaries, including the large dictionary
+SKK-JISYO.L and pubdic+ dictionary.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openlab.ring.gr.jp/skk/skk/dic/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

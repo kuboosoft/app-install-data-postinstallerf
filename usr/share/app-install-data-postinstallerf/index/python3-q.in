@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python3-q</b>'
+Comment='<span size="xx-large">Quick and dirty python3 debugging output</span>'
+Comment3='
+If youve ever been frustrated trying to debug with print because a web
+application or a unittesting framework is swallowing your debugging output,
+q will make you jump for joy.
+  import q
+  variable = Hmmm... something happened here
+  q(variable)
+
+cat /tmp/q
+This package contains the q module for python3
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://pypi.python.org/pypi/q'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

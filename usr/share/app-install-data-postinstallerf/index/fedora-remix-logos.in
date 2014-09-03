@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>fedora-remix-logos</b>'
+Comment='<span size="xx-large">Fedora Remix logos</span>'
+Comment3='
+The fedora-remix-logos package contains image files which incorporate the
+Fedora trademarks (the "Marks"). The Marks are trademarks or registered
+trademarks of Red Hat, Inc. in the United States and other countries and
+are used by permission.
+
+This package and its content may be used and distributed under the Fedora
+Trademark Guidelines, specifically, it is intended for use in a Fedora
+Remix, not a Fedora Spin.
+See the included COPYING file for full information on approved use, copying
+'
+License='Licensed only for approved usage, see COPYING for details.'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/Legal/Secondary_trademark_usage_guidelines'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

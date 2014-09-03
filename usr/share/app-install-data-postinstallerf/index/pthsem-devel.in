@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pthsem-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for Pthsem</span>'
+Comment3='
+Development headers and libraries for pthsem.
+
+URL          http//www.auto.tuwien.ac.at/~mkoegler/index.php/pth
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.auto.tuwien.ac.at/~mkoegler/index.php/pth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-volatility</b>'
+Comment='<span size="xx-large">Digital artifact extraction framework</span>'
+Comment3='
+The Volatility Framework is a completely open collection of tools, implemented
+in Python under the GNU General Public License, for the extraction of digital
+artifacts from volatile memory (RAM) samples. The extraction techniques are
+performed completely independent of the system being investigated but offer
+unprecedented visibility into the run time state of the system. The framework is
+intended to introduce people to the techniques and complexities associated with
+extracting digital artifacts from volatile memory samples and provide a
+platform for further work into this exciting area of research.
+'
+License='GPLv2+'
+in Python under the GNU General Public License, for the extraction of digital'
+Screenshot=''
+Url='http://code.google.com/p/volatility/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

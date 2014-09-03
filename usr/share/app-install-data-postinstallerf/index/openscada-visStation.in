@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openscada-visStation</b>'
+Comment='<span size="xx-large">OpenSCADA visual station</span>'
+Comment3='
+The openscada-viStation package is virtual package for visual
+station (OpenSCADA).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

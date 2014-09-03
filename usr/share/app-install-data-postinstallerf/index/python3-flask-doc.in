@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-flask-doc</b>'
+Comment='<span size="xx-large">Documentation for python3-flask</span>'
+Comment3='
+Documentation and examples for python3-flask.
+'
+License='BSD'
+Screenshot=''
+Url='http://flask.pocoo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

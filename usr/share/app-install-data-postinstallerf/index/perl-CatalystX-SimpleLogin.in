@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-CatalystX-SimpleLogin</b>'
+Comment='<span size="xx-large">Provide a simple Login controller which can be reused</span>'
+Comment3='
+CatalystXSimpleLogin is an application class which provides a simple login
+and logout page with the addition of only one line of code and one template to
+your application.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CatalystX-SimpleLogin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

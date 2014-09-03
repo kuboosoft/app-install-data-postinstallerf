@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>TOPCOM-libs</b>'
+Comment='<span size="xx-large">Core TOPCOM functionality in a library</span>'
+Comment3='
+Command line tools that expose TOPCOM library functionality.
+
+URL          http//www.rambau.wm.uni-bayreuth.de/TOPCOM/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rambau.wm.uni-bayreuth.de/TOPCOM/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

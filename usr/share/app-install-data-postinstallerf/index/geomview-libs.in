@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>geomview-libs</b>'
+Comment='<span size="xx-large">geomview runtime libraries</span>'
+Comment3='
+geomview runtime libraries.
+
+URL          http//www.geomview.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.geomview.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

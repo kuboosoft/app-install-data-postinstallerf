@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>planet</b>'
+Comment='<span size="xx-large">Flexible RDF/RSS/Atom feed aggregator</span>'
+Comment3='
+Planet is a flexible feed aggregator, this means that it downloads feeds
+and aggregates their content together into a single combined feed with
+the latest news first.
+
+It uses Mark Pilgrims Ultra-liberal feed parser so can read from RDF, RSS
+and Atom feeds and Tomas Styblos template library to output static files
+in unlimited formats based on a series of templates.
+'
+License='Python'
+Screenshot=''
+Url='http://www.planetplanet.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

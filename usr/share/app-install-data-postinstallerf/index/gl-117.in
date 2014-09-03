@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gl-117</b>'
+Comment='<span size="xx-large">Action flight simulator</span>'
+Comment3='
+GL-117 is an action flight simulator. Enter the Eagle Squadron and succeed
+in several challanging missions leading though different landscapes. Five
+predefined levels of video quality and an amount of viewing ranges let you
+perfectly adjust the game to the performance of your system. Joystick,
+mouse, sound effects, music...
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.heptargon.de/gl-117/gl-117.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rsnapshot</b>'
+Comment='<span size="xx-large">Local and remote filesystem snapshot utility</span>'
+Comment3='
+This is a remote backup program that uses rsync to take backup snapshots of
+filesystems.  It uses hard links to save space on disk.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rsnapshot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

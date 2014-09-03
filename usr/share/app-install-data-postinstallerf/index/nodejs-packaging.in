@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-packaging</b>'
+Comment='<span size="xx-large">RPM Macros and Utilities for Node.js Packaging</span>'
+Comment3='
+This package contains RPM macros and other utilities useful for packaging
+Node.js modules and applications in RPM-based distributions.
+'
+License='MIT'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/Node.js/Packagers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

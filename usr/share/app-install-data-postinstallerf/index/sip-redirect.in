@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sip-redirect</b>'
+Comment='<span size="xx-large">Tiny IPv4 and IPv6 SIP redirect server written in Perl</span>'
+Comment3='
+sip-redirect is a tiny SIP redirect server written in Perl. It is IPv4 and
+IPv6 capable, but the IPv6 support is optional. The RFC 3261 was the base for
+this simple and very configurable implementation. There is neither TCP nor
+multicast support programmed in.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ftp.robert-scheck.de/linux/sip-redirect/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sshuttle</b>'
+Comment='<span size="xx-large">Transparent Proxy VPN</span>'
+Comment3='
+Transparent proxy server that works as a poor mans VPN. Forwards over ssh.
+Doesnt require admin. Works with Linux and MacOS. Supports DNS tunneling.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/apenwarr/sshuttle'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>alsa-plugins-vdownmix</b>'
+Comment='<span size="xx-large">Downmixer to stereo plugin for ALSA</span>'
+Comment3='
+The vdownmix plugin is a downmixer from 4-6 channels to 2-channel
+stereo headphone output.  This plugin processes the input signals with
+a simple spacialization, so the output sounds like a kind of "virtual
+surround".
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

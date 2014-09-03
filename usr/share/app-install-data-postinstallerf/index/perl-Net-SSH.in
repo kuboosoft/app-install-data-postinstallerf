@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Net-SSH</b>'
+Comment='<span size="xx-large">Perl extension for secure shell</span>'
+Comment3='
+This module implements a Perl interface to ssh.  It is a simple
+wrapper around the system `ssh command.  For an all-perl
+implementation that does not require the system `ssh command, see
+NetSSHPerl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-SSH/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

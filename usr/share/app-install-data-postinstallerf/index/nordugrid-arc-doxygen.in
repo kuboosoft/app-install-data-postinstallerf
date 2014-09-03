@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nordugrid-arc-doxygen</b>'
+Comment='<span size="xx-large">ARC API documentation</span>'
+Comment3='
+NorduGrid is a collaboration aiming at development, maintenance and
+support of the free Grid middleware, known as the Advanced Resource
+Connector (ARC).
+
+Reference to the ARC programming API. It is prepared with doxygen.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nordugrid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-PHP-Compat</b>'
+Comment='<span size="xx-large">Provides missing functionality for older versions of PHP</span>'
+Comment3='
+PHP_Compat provides missing functionality for older versions of PHP.
+This include fonctions and constants.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/PHP_Compat'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

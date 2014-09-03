@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opencv-core</b>'
+Comment='<span size="xx-large">OpenCV core libraries</span>'
+Comment3='
+This package contains the OpenCV C/C++ core libraries.
+
+URL          http//opencv.org
+'
+License='BSD'
+Screenshot=''
+Url='http://opencv.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

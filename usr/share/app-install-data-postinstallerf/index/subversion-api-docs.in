@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>subversion-api-docs</b>'
+Comment='<span size="xx-large">Subversion API documentation</span>'
+Comment3='
+Subversion is a concurrent version control system which enables one or more
+users to collaborate in developing and maintaining a hierarchy of files and
+directories while keeping a history of all changes. This package provides
+Subversion API documentation for developers.
+'
+License='BSD'
+Screenshot=''
+Url='http://subversion.tigris.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

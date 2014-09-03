@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gnatcoll</b>'
+Comment='<span size="xx-large">Suite of reusable software components and utilities</span>'
+Comment3='
+The GNAT Component Collection is a suite
+of reusable software components and utilities.
+It has been used by AdaCore in developing the GNAT tool set,
+the GPS Integrated Development Environment, and GNAT Tracker,
+its web-based customer support interface.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libre.adacore.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

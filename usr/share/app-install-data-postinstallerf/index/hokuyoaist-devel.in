@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hokuyoaist-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for hokuyoaist</span>'
+Comment3='
+Development libraries and header files for hokuyoaist
+
+URL          https//github.com/gbiggs/hokuyoaist
+'
+License='LGPLv3'
+Screenshot=''
+Url='https://github.com/gbiggs/hokuyoaist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

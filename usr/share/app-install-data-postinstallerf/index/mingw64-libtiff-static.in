@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-libtiff-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows LibTIFF library</span>'
+Comment3='
+Static version of the MinGW Windows LibTIFF library.
+'
+License='libtiff'
+Screenshot=''
+Url='http://www.remotesensing.org/libtiff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

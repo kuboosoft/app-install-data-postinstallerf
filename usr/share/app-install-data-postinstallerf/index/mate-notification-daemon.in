@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mate-notification-daemon</b>'
+Comment='<span size="xx-large">Notification daemon for MATE Desktop</span>'
+Comment3='
+Notification daemon for MATE Desktop
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

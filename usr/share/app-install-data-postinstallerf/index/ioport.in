@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ioport</b>'
+Comment='<span size="xx-large">Access I/O ports</span>'
+Comment3='
+These commands enable command line and script access directly to I/O
+ports on PC hardware.
+
+The inb, inw and inl commands perform an input (read) operation on the
+given I/O port, and print the result.
+The outb, outw and outl commands perform an output (write) operation
+to the given I/O port, sending the given data.  Note that the order of
+the parameters is ADDRESS DATA.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://et.redhat.com/~rjones/ioport/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

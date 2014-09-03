@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-lua-alt-getopt</b>'
+Comment='<span size="xx-large">Process application arguments the same way as getopt_long</span>'
+Comment3='
+lua_altgetopt is a MIT-licensed module for Lua, for processing
+application arguments in the same way as BSD/GNU getopt_long(3)
+functions do. This module is made available for lua script
+writers to have consistent command line parsing routines.
+
+date 2012-07-10 133648 +0200
+'
+License='MIT'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

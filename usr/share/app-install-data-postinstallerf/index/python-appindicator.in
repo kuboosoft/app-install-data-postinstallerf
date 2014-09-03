@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-appindicator</b>'
+Comment='<span size="xx-large">Python 2 bindings for libappindicator</span>'
+Comment3='
+This package contains the Python 2 bindings for the appindicator library.
+'
+License='LGPLv2 and LGPLv3'
+Screenshot=''
+Url='https://launchpad.net/libappindicator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

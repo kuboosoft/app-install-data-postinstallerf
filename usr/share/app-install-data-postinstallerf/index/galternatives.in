@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>galternatives</b>'
+Comment='<span size="xx-large">Alternatives Configurator</span>'
+Comment3='
+Graphical setup tool for the alternatives system. A GUI to help the system
+administrator to choose what program should provide a given service
+'
+License='GPL+'
+Screenshot=''
+Url='http://packages.qa.debian.org/g/galternatives.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

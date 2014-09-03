@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-mahjongg</b>'
+Comment='<span size="xx-large">GNOME Mahjongg game</span>'
+Comment3='
+Mahjongg is a simple pattern recognition game. You score points by
+matching identical tiles.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://projects.gnome.org/gnome-games/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

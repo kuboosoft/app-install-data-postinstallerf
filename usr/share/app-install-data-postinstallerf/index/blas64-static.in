@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>blas64-static</b>'
+Comment='<span size="xx-large">BLAS static libraries (64bit INTEGER)</span>'
+Comment3='
+BLAS static libraries (64bit INTEGER).
+'
+License='BSD'
+Screenshot=''
+Url='http://www.netlib.org/lapack/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>liblayout</b>'
+Comment='<span size="xx-large">CSS based layouting framework</span>'
+Comment3='
+LibLayout is a layouting framework. It is based on the Cascading StyleSheets
+standard. The layouting expects to receive its content as a DOM structure
+(although it does not rely on the W3C-DOM API).
+'
+License='LGPLv2+ and UCD'
+Screenshot=''
+Url='http://reporting.pentaho.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

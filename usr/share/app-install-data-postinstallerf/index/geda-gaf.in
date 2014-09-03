@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>geda-gaf</b>'
+Comment='<span size="xx-large">Design Automation toolkit for electronic design</span>'
+Comment3='
+The GPL Electronic Design Automation (gEDA) project has produced and
+continues working on a full GPLd suite and toolkit of Electronic
+Design Automation tools. These tools are used for electrical circuit
+design, schematic capture, simulation, prototyping, and production.
+
+Currently, the gEDA project offers a mature suite of free software
+applications for electronics design, including schematic capture,
+attribute management, bill of materials (BOM) generation, netlisting
+into over 20 netlist formats, analog and digital simulation, and
+printed circuit board (PCB) layout.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gpleda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

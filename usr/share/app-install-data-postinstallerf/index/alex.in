@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>alex</b>'
+Comment='<span size="xx-large">Tool for generating lexical analysers in Haskell</span>'
+Comment3='
+Alex is a tool for generating lexical analysers in Haskell. It takes a
+description of tokens based on regular expressions and generates a Haskell
+module containing code for scanning text efficiently. It is similar to the tool
+lex or flex for C/C++.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/alex'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

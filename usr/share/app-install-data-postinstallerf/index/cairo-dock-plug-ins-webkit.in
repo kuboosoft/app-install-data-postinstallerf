@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cairo-dock-plug-ins-webkit</b>'
+Comment='<span size="xx-large">Plug-ins files for cairo-dock related to Gecko</span>'
+Comment3='
+This package contains plug-ins files for cairo-dock related
+to webkit.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.glx-dock.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

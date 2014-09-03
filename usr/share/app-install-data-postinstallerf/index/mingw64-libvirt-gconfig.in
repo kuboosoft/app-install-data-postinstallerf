@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-libvirt-gconfig</b>'
+Comment='<span size="xx-large">MingwGW Windows libvirt-gconfig virtualization library</span>'
+Comment3='
+MinGW Windows libvirt-gconfig virtualization library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

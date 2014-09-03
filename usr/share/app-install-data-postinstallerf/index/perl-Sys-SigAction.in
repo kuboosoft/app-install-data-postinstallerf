@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Sys-SigAction</b>'
+Comment='<span size="xx-large">Perl extension for Consistent Signal Handling</span>'
+Comment3='
+SysSigAction provides EASY access to POSIXsigaction() for signal
+handling on systems that support sigaction().
+It is hoped that with the use of this module, your signal handling
+behavior can be coded in a way that does not change from one perl
+version to the next, and that sigaction() will be easier for you to use.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sys-SigAction/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

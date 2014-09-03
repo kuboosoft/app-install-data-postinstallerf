@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>foomatic-db-ppds</b>'
+Comment='<span size="xx-large">PPDs from printer manufacturers</span>'
+Comment3='
+PPDs from printer manufacturers.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://www.openprinting.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

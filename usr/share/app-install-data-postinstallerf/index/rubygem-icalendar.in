@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-icalendar</b>'
+Comment='<span size="xx-large">A ruby implementation of the iCalendar specification (RFC-2445)</span>'
+Comment3='
+Implements the iCalendar specification (RFC-2445) in Ruby.  This allows for
+the generation and parsing of .ics files, which are used by a variety of
+calendaring applications.
+'
+License='GPL+ or Ruby'
+Screenshot=''
+Url='http://icalendar.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

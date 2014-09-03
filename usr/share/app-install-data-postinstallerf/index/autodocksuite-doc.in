@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>autodocksuite-doc</b>'
+Comment='<span size="xx-large">Documentation files for autodocksuite</span>'
+Comment3='
+This package contains the AutoDock user guide as supplied by upstream\
+developers.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://autodock.scripps.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

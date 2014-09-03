@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ikiwiki-w3m</b>'
+Comment='<span size="xx-large">Ikiwiki w3m cgi meta-wrapper</span>'
+Comment3='
+Enable usage of all of ikiwikis web features (page editing, etc) in
+the w3m web browser without a web server. w3m supports local CGI
+scripts, and ikiwiki can be set up to run that way using the
+meta-wrapper in this package.
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://ikiwiki.info/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

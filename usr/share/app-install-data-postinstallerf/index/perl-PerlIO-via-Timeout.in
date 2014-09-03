@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-PerlIO-via-Timeout</b>'
+Comment='<span size="xx-large">PerlIO layer that adds read & write timeout to a handle</span>'
+Comment3='
+This package implements a PerlIO layer, that adds read / write timeout.
+This can be useful to avoid blocking while accessing a handle (file,
+socket, ...), and fail after some time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PerlIO-via-Timeout/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

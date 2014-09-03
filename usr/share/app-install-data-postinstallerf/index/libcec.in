@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libcec</b>'
+Comment='<span size="xx-large">Library and utilities for HDMI-CEC device control</span>'
+Comment3='
+libCEC allows you in combination with the right hardware to control your device
+with your TV remote control over your existing HDMI cabling.
+
+libCEC is an enabling platform for the CEC bus in HDMI, it allows developers to
+interact with other HDMI devices without having to worry about the communication
+overhead, handshaking, and the various ways of send messages for each vendor.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libcec.pulse-eight.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

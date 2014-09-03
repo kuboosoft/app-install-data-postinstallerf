@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgnomecanvasmm26</b>'
+Comment='<span size="xx-large">C++ interface for Gnome libs (a GUI library for X)</span>'
+Comment3='
+This package provides C++ wrappers for libgnomecanvas, for use with gtkmm.
+
+URL          http//www.gtkmm.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

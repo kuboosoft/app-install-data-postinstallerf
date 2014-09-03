@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bind-chroot</b>'
+Comment='<span size="xx-large">A chroot runtime environment for the ISC BIND DNS server, named(8)</span>'
+Comment3='
+This package contains a tree of files which can be used as a
+chroot(2) jail for the named(8) program from the BIND package.
+Based on the code from Jan "Yenya" Kasprzak <kas@fi.muni.cz>
+'
+License='ISC'
+Screenshot=''
+Url='http://www.isc.org/products/BIND/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

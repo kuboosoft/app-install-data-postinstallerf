@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-uhc</b>'
+Comment='<span size="xx-large">Fonts for the Korean language</span>'
+Comment3='
+Support for Korean documents written in Korean standard KSC
+codes for LaTeX2e.
+
+date 2007-07-29 121344 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

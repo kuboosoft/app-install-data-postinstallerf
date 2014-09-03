@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-tw2-d3</b>'
+Comment='<span size="xx-large">Data-Driven Documents for ToscaWidgets2</span>'
+Comment3='
+ToscaWidgets is a web widget toolkit for Python to aid in the creation,
+packaging and distribution of common view elements normally used in the web.
+
+tw2.d3 is a wrapper for the d3 javascript library.
+'
+License='MIT'
+Screenshot=''
+Url='http://toscawidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

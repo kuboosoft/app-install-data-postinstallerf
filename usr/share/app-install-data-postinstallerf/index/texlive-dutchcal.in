@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-dutchcal</b>'
+Comment='<span size="xx-large">A reworking of ESSTIX13, adding a bold version</span>'
+Comment3='
+This package reworks the mathematical calligraphic font
+ESSTIX13, adding a bold version. LaTeX support files are
+included. The new fonts may also be accessed from the most
+recent version of mathalfa. The fonts themselves are subject to
+the SIL OPEN FONT LICENSE, version 1.1.
+
+date 2011-06-24 102036 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

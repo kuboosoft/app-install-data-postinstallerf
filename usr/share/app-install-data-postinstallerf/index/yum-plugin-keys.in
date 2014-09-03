@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yum-plugin-keys</b>'
+Comment='<span size="xx-large">Yum plugin to deal with signing keys</span>'
+Comment3='
+This plugin adds the commands keys, keys-info, keys-data and keys-remove. They
+allow you to query and remove signing keys.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

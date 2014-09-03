@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>asterisk</b>'
+Comment='<span size="xx-large">The Open Source PBX</span>'
+Comment3='
+Asterisk is a complete PBX in software. It runs on Linux and provides
+all of the features you would expect from a PBX and more. Asterisk
+does voice over IP in three protocols, and can interoperate with
+almost all standards-based telephony equipment using relatively
+inexpensive hardware.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.asterisk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gdouros-aegyptus-fonts</b>'
+Comment='<span size="xx-large">A font for Egyptian hieroglyphs</span>'
+Comment3='
+Aegyptus encodes over 7000 hieroglyphs.
+
+There is no standard for Egyptian Hieroglyphs or Meroitic, so they are
+allocated in the Supplementary Private Use Plane 15. The font also covers Basic
+Latin, Egyptian Transliteration characters, some Punctuation and other Symbols,
+and the Gardiner set of 1071 Egyptian Hieroglyphs, now suppored by The Unicode
+Standard 5.2 in the new SMP block 13000 - 1342F.
+It was created by George Douros, mainly based on the book Hieroglyphica,
+PIREI I?, 2000 and the work of Alan Gardiner.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://users.teilar.gr/~g1951d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

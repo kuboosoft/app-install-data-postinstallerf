@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>morfologik-stemming</b>'
+Comment='<span size="xx-large">Morfologik stemming library</span>'
+Comment3='
+Morfologik provides high quality lemmatisation for the Polish language,
+along with tools for building and using byte-based finite state automata.
+'
+License='BSD'
+Screenshot=''
+Url='http://morfologik.blogspot.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

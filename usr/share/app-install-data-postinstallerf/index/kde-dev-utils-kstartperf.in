@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-dev-utils-kstartperf</b>'
+Comment='<span size="xx-large">Startup time measurement tool for KDE applications</span>'
+Comment3='
+Startup time measurement tool for KDE applications.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

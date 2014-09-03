@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cinnamon-menus</b>'
+Comment='<span size="xx-large">A menu system for the Cinnamon project</span>'
+Comment3='
+cinnamon-menus is an implementation of the draft "Desktop
+Menu Specification" from freedesktop.org. This package
+also contains the Cinnamon menu layout configuration files,
+.directory files and assorted menu related utility programs,
+Python bindings, and a simple menu editor.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cinnamon.linuxmint.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

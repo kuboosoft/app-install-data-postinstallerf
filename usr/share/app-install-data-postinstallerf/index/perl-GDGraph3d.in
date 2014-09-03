@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-GDGraph3d</b>'
+Comment='<span size="xx-large">3D graph generation package for Perl</span>'
+Comment3='
+This is the GDGraph3d extensions module. It provides 3D graphs for
+the GDGraph module by Martien Verbruggen, which in turn generates
+graph using Lincoln Steins GD.pm.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/GD-Graph3d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

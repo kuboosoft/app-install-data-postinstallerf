@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>smc</b>'
+Comment='<span size="xx-large">2D platform game that uses OpenGL in a style similar to Super Mario</span>'
+Comment3='
+Secret Maryo Chronicles is a 2D platform game that makes use of OpenGL and is
+built upon SDL. It is similar to the classic game Super Mario.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.secretmaryo.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

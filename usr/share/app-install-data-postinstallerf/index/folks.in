@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>folks</b>'
+Comment='<span size="xx-large">GObject contact aggregation library</span>'
+Comment3='
+libfolks is a library that aggregates people from multiple sources (e.g.
+Telepathy connection managers and eventually evolution data server,
+Facebook, etc.) to create meta-contacts.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://telepathy.freedesktop.org/wiki/Folks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

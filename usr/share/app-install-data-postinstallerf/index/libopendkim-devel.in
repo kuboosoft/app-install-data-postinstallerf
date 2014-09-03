@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libopendkim-devel</b>'
+Comment='<span size="xx-large">Development files for libopendkim</span>'
+Comment3='
+This package contains the static libraries, headers, and other support files
+required for developing applications against libopendkim.
+
+'
+License='BSD and Sendmail'
+Screenshot=''
+Url='http://opendkim.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

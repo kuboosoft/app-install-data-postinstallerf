@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qdbm-cgi</b>'
+Comment='<span size="xx-large">CGI interface for QDBM Database</span>'
+Comment3='
+This package contains a CGI interface for QDBM Database.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fallabs.com/qdbm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

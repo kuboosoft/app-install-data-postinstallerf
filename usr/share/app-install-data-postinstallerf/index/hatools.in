@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>hatools</b>'
+Comment='<span size="xx-large">Improved shell scripting in High Availability environment</span>'
+Comment3='
+The HA-Tools provide some programs to improve shell scripting in a High
+Availability environment.
+
+The halockrun program provides a simple and reliable way to implement a locking
+in shell scripts. A typical usage for halockrun is to prevent cronjobs to run
+simultanously. halockrun uses a lock on a file via fcntl(2) which ensures the
+release of the lock even if the process gets killed via SIGKILL.
+The hatimerun program provides a time-out mechanism which can be used from
+shell scripts.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fatalmind.com/software/hatools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

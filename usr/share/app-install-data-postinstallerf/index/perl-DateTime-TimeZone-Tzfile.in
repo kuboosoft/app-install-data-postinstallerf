@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-DateTime-TimeZone-Tzfile</b>'
+Comment='<span size="xx-large">Tzfile (zoneinfo) timezone files</span>'
+Comment3='
+An instance of this class represents a timezone that was encoded in a file
+in the tzfile(5) format. These can express arbitrary patterns of offsets
+from Universal Time, changing over time. Offsets and change times are
+limited to a resolution of one second.
+
+This class implements the DateTimeTimeZone interface, so that its instances
+can be used with DateTime objects.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-TimeZone-Tzfile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

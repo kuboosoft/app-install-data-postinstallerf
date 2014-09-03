@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dogtail</b>'
+Comment='<span size="xx-large">GUI test tool and automation framework</span>'
+Comment3='
+GUI test tool and automation framework that uses assistive technologies to
+communicate with desktop applications.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://dogtail.fedorahosted.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wordgroupz</b>'
+Comment='<span size="xx-large">A vocabulary building application</span>'
+Comment3='
+wordGroupz is a vocabulary building application. You can store here
+words in relevant groups so that you have an idea overall meaning of
+the words. This is very useful for standard test preparations.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://gitorious.org/wordgroupz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

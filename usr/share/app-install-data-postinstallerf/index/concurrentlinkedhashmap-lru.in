@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>concurrentlinkedhashmap-lru</b>'
+Comment='<span size="xx-large">A ConcurrentLinkedHashMap for Java</span>'
+Comment3='
+A high performance version of java.util.LinkedHashMap
+for use as a software cache.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/concurrentlinkedhashmap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

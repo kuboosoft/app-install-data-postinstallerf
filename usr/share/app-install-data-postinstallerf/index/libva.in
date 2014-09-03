@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libva</b>'
+Comment='<span size="xx-large">Video Acceleration (VA) API for Linux</span>'
+Comment3='
+Libva is a library providing the VA API video acceleration API.
+
+URL          http//freedesktop.org/wiki/Software/vaapi
+'
+License='MIT'
+Screenshot=''
+Url='http://freedesktop.org/wiki/Software/vaapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

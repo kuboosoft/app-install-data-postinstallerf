@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qoauth-devel</b>'
+Comment='<span size="xx-large">Development files for the Qt OAuth support library</span>'
+Comment3='
+The qoauth-devel package contains libraries, header files and documentations
+for developing applications that use QOAuth library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://github.com/ayoy/qoauth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-eigen3</b>'
+Comment='<span size="xx-large">MinGW lightweight C++ template library for vector and matrix math</span>'
+Comment3='
+MinGW lightweight C++ template library for vector and matrix math
+'
+License='MPLv2.0 and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://eigen.tuxfamily.org/index.php?title=Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

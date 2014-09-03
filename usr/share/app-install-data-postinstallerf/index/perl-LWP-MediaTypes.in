@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-LWP-MediaTypes</b>'
+Comment='<span size="xx-large">Guess media type for a file or a URL</span>'
+Comment3='
+This module provides functions for handling media (also known as MIME)
+types and encodings. The mapping from file extensions to media types is
+defined by the media.types file. If the ~/.media.types file exists it is
+used instead. For backwards compatibility we will also look for
+~/.mime.types.
+'
+License='(GPL+ or Artistic) and Public Domain'
+Screenshot=''
+Url='http://search.cpan.org/dist/LWP-MediaTypes/'
+Summary     : Guess media type for a file or a URL'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xulrunner-devel</b>'
+Comment='<span size="xx-large">Development files for Gecko</span>'
+Comment3='
+This package contains the libraries amd header files that are needed
+for writing XUL+XPCOM applications with Mozilla XULRunner and Gecko.
+
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://developer.mozilla.org/En/XULRunner'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

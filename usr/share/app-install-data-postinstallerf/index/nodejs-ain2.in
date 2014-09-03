@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nodejs-ain2</b>'
+Comment='<span size="xx-large">A Node.js module for syslog logging (and a continuation of ain)</span>'
+Comment3='
+This module provides syslog logging for Node.js.
+
+Ain2 is written with full compatibility with the Node.js console module.
+It implements all console functions and formatting. Ain2 also supports UTF-8.
+Ain2 can send messages by UDP to 127.0.0.1514 or to the a Unix socket such
+as /dev/log.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/phuesler/ain'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

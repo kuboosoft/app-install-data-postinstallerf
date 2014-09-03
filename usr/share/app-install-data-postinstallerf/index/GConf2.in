@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>GConf2</b>'
+Comment='<span size="xx-large">A process-transparent configuration system</span>'
+Comment3='
+GConf is a process-transparent configuration database API used to
+store user preferences. It has pluggable backends and features to
+support workgroup administration.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/gconf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

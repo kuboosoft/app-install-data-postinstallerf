@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-python2-gnomevfs</b>'
+Comment='<span size="xx-large">Python bindings for interacting with gnome-vfs</span>'
+Comment3='
+This module contains a wrapper that allows the use of gnome-vfs via python.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/gnome-python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

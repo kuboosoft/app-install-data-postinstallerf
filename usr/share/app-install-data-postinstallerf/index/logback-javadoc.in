@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>logback-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for logback</span>'
+Comment3='
+API documentation for the Logback library
+'
+License='LGPLv2 or EPL'
+Screenshot=''
+Url='http://logback.qos.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

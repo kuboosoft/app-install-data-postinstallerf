@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-HTML-Tree</b>'
+Comment='<span size="xx-large">HTML tree handling modules for Perl</span>'
+Comment3='
+This distribution contains a suite of modules for representing,
+creating, and extracting information from HTML syntax trees; there is
+also relevant documentation.  These modules used to be part of the
+libwww-perl distribution, but are now unbundled in order to facilitate
+a separate development track.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-Tree/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

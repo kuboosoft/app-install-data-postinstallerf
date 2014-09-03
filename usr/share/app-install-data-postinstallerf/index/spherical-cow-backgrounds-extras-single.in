@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spherical-cow-backgrounds-extras-single</b>'
+Comment='<span size="xx-large">Single screen images for Spherical Cow Extras Backrounds</span>'
+Comment3='
+This package contains single screen images for Spherical Cow supplemental
+wallpapers.
+'
+License='CC-BY and CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F18_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

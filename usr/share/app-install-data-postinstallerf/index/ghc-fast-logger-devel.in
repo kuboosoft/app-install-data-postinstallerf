@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-fast-logger-devel</b>'
+Comment='<span size="xx-large">Haskell fast-logger library development files</span>'
+Comment3='
+This package provides the Haskell fast-logger library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/fast-logger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

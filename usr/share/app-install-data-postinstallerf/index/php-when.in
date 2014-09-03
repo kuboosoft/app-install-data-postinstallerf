@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-when</b>'
+Comment='<span size="xx-large">Date/Calendar recursion library for PHP</span>'
+Comment3='
+PHP library that handles recursive dates It determines the next date of
+recursion given an iCalendar "rrule" like pattern.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/tplaner/When'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

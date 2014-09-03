@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>erfa</b>'
+Comment='<span size="xx-large">Essential Routines for Fundamental Astronomy</span>'
+Comment3='
+ERFA is a C library containing key algorithms for astronomy, and is
+based on the SOFA library published by the International Astronomical
+Union (IAU).
+
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/liberfa/erfa'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>apacheds-shared</b>'
+Comment='<span size="xx-large">Shared APIs of Apache Directory Project</span>'
+Comment3='
+ApacheDS is an extensible and embeddable directory server
+entirely written in Java, which has been certified LDAPv3
+compatible by the Open Group. Besides LDAP it supports
+Kerberos 5 and the Change Password Protocol. It has been
+designed to introduce triggers, stored procedures, queues and
+views to the world of LDAP which has lacked these rich
+constructs.
+
+This package contains the shared APIs of the
+Apache Directory Project.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://directory.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

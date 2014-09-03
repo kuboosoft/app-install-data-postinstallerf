@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fparser-devel</b>'
+Comment='<span size="xx-large">Development files for fparser</span>'
+Comment3='
+The fparser-devel package contains libraries and header files for
+developing applications that use fparser.
+
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://warp.povusers.org/FunctionParser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

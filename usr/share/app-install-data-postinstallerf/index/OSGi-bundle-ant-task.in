@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>OSGi-bundle-ant-task</b>'
+Comment='<span size="xx-large">A wrapper around Bnd to allow easy bundle creation from ant builds</span>'
+Comment3='
+A wrapper around Bnd to allow easy bundle creation from ant builds
+'
+License='BSD'
+Screenshot=''
+Url='https://opensource.luminis.net/wiki/display/SITE/OSGi+Bundle+Ant+Task'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

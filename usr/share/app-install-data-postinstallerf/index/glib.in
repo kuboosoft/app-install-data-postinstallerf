@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>glib</b>'
+Comment='<span size="xx-large">A library of handy utility functions</span>'
+Comment3='
+GLib is a handy library of utility functions. This C library is
+designed to solve some portability problems and provide other useful
+functionality that most programs require.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

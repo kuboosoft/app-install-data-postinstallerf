@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>orthanc</b>'
+Comment='<span size="xx-large">RESTful DICOM server for healthcare and medical research</span>'
+Comment3='
+Orthanc aims at providing a simple, yet powerful standalone DICOM
+server. Orthanc can turn any computer running Windows or Linux into a
+DICOM store (in other words, a mini-PACS system). Its architecture is
+lightweight, meaning that no complex database administration is
+required, nor the installation of third-party dependencies.
+
+What makes Orthanc unique is the fact that it provides a RESTful
+API. Thanks to this major feature, it is possible to drive Orthanc
+from any computer language. The DICOM tags of the stored medical
+images can be downloaded in the JSON file format. Furthermore,
+'
+License='GPLv3 with exceptions'
+Screenshot=''
+Url='https://code.google.com/p/orthanc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-commander</b>'
+Comment='<span size="xx-large">A nice and fast file manager for the GNOME desktop</span>'
+Comment3='
+GNOME Commander is a nice and fast file manager for the GNOME desktop.
+In addition to performing the basic filemanager functions the program is
+also an FTP-client and it can browse SMB-networks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gcmd.github.io/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

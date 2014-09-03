@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Digest-HMAC</b>'
+Comment='<span size="xx-large">Keyed-Hashing for Message Authentication</span>'
+Comment3='
+HMAC is used for message integrity checks between two parties that
+share a secret key, and works in combination with some other Digest
+algorithm, usually MD5 or SHA-1. The HMAC mechanism is described in
+RFC 2104.
+
+HMAC follow the common Digest interface, but the constructor takes
+the secret key and the name of some other simple Digest as argument.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Digest-HMAC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>oflb-dignas-handwriting-fonts</b>'
+Comment='<span size="xx-large">Handwriting font</span>'
+Comment3='
+Phranzyskos sister handwriting.
+'
+License='OFL'
+Screenshot=''
+Url='http://openfontlibrary.org/media/files/phranzysko/407'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

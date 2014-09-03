@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>SheepShaver</b>'
+Comment='<span size="xx-large">Power Macintosh emulator</span>'
+Comment3='
+SheepShaver is a MacOS run-time environment that allows you to run classic
+MacOS applications. This means that both Linux and MacOS applications can
+run at the same time (usually in a window on the Linux desktop).
+
+If you are using a PowerPC-based system, applications will run at native
+speed (i.e. with no emulation involved). There is also a built-in PowerPC
+G4 emulator, without MMU support, for non-PowerPC systems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sheepshaver.cebix.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

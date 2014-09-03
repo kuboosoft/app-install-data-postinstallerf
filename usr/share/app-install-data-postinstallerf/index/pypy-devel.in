@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pypy-devel</b>'
+Comment='<span size="xx-large">Development tools for working with PyPy</span>'
+Comment3='
+Header files for building C extension modules against PyPy
+
+Requires pypy = 2.2.1-2.fc20
+'
+License='MIT and Python and UCD'
+Screenshot=''
+Url='http://pypy.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

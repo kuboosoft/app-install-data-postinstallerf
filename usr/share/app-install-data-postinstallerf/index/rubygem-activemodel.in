@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-activemodel</b>'
+Comment='<span size="xx-large">A toolkit for building modeling frameworks</span>'
+Comment3='
+Rich support for attributes, callbacks, validations, observers,
+serialization, internationalization, and testing. It provides a known
+set of interfaces for usage in model classes. It also helps building
+custom ORMs for use outside of the Rails framework.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.rubyonrails.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

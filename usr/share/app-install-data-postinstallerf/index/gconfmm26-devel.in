@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gconfmm26-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use gconfmm</span>'
+Comment3='
+This package contains the headers that programmers will need to
+develop applications which will use gconfmm, part of GTKmm, the C++
+interface to the GTK+.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

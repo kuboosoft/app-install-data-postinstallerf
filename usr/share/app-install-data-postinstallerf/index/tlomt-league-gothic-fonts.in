@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>tlomt-league-gothic-fonts</b>'
+Comment='<span size="xx-large">A sans serif gothic typeface</span>'
+Comment3='
+League Gothic is a revival of an old classic, Alternate Gothic No.1.
+It was originally designed by Morris Fuller Benton for the American
+Type Founders Company (ATF) in 1903. The company went bankrupt in 1993.
+And since the original typeface was created before 1923, the typeface
+is in the public domain. It is a sans serif gothic typeface.
+
+This is actually another version of the font which was made by
+The League of Movable Type and contributed to the Open Source Type
+Movement.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.theleagueofmoveabletype.com/fonts/7-league-gothic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

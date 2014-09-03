@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gears-backgrounds</b>'
+Comment='<span size="xx-large">Gears desktop backgrounds</span>'
+Comment3='
+This package contains desktop backgrounds for the Gears theme.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/Artwork/F10Themes/Gears'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

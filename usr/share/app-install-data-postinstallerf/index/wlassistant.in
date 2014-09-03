@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wlassistant</b>'
+Comment='<span size="xx-large">Wireless network management tool</span>'
+Comment3='
+Wireless Assistant (wlassistant) is a small application that allows you to
+connect to wireless networks.
+
+MAIN FEATURES
+- WPA-PSK Encryption Support (WPA/WPA2)
+- WEP Encryption Support
+- Not Broadcasted ("hidden") ESSIDs Support
+- Per Network (AP) Configuration Profiles
+- Automatic (DHCP, both dhcpcd and dhclient) and manual configuration options.
+- Connection status monitoring
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wlassistant.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

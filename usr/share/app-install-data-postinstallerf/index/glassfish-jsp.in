@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>glassfish-jsp</b>'
+Comment='<span size="xx-large">Glassfish J2EE JSP API implementation</span>'
+Comment3='
+This project provides a container independent implementation of JSP
+2.2. The main goals are
+  * Improves current implementation bug fixes and performance
+    improvements
+  * Provides API for use by other tools, such as Netbeans
+  * Provides a sandbox for new JSP features; provides a reference
+    implementation of next JSP spec.
+'
+License='(CDDL or GPLv2 with exceptions) and ASL 2.0'
+Screenshot=''
+Url='http://glassfish.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

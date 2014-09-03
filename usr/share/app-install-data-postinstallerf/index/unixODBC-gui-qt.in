@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>unixODBC-gui-qt</b>'
+Comment='<span size="xx-large">Several GUI (Qt) programs and plug-ins for unixODBC</span>'
+Comment3='
+unixODBC-gui-qt provides several GUI (Qt) programs and plug-ins.
+  * administrator (program)
+  * create data source wizard (program)
+  * test (program)
+  * installer (plug-in)
+  * auto test (plug-in)
+
+'
+License='GPLv3 and LGPLv3'
+Screenshot=''
+Url='http://sourceforge.net/projects/unixodbc-gui-qt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

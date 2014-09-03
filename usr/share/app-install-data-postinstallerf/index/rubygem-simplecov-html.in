@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-simplecov-html</b>'
+Comment='<span size="xx-large">Default HTML formatter for SimpleCov</span>'
+Comment3='
+Default HTML formatter for SimpleCov code coverage tool for ruby 1.9+
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/colszowka/simplecov-html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

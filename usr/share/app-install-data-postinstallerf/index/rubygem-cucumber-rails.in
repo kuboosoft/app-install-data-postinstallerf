@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-cucumber-rails</b>'
+Comment='<span size="xx-large">Cucumber Generators and Runtime for Rails</span>'
+Comment3='
+Cucumber Generators and Runtime for Rails
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/cucumber/cucumber-rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

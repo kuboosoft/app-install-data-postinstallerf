@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>clisp-devel</b>'
+Comment='<span size="xx-large">Development files for CLISP</span>'
+Comment3='
+Files necessary for linking CLISP programs.
+
+URL          http//www.clisp.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.clisp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

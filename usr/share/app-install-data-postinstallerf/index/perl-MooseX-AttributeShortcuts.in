@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-MooseX-AttributeShortcuts</b>'
+Comment='<span size="xx-large">Shorthand for common Moose attribute options</span>'
+Comment3='
+Ever find yourself repeatedly specifying writers and builders, because theres
+no good shortcut to specify them? Sometimes you want an attribute to have
+a read-only public interface, but a private writer. And wouldnt it be easier
+to just say "builder => 1" and have the attribute construct the canonical
+"_build_$name" builder name for you?
+
+This package causes an attribute trait to be applied to all attributes defined
+to the using class. This trait extends the attribute option processing to
+handle the above variations.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://metacpan.org/release/MooseX-AttributeShortcuts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n menulibre
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/menulibre.png
+Comment=An advanced menu editor that provides modern features in a clean, easy-to-use interface
+Terminal=false
+Name=Menulibre
+Categories=Qt;KDE;Utility;

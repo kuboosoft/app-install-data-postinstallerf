@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-BufferedMatrix-devel</b>'
+Comment='<span size="xx-large">Development files for R-BufferedMatrix</span>'
+Comment3='
+The R-BufferedMatrix-devel  package contains Header and libraries files for
+developing applications that use R-BufferedMatrix
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/BufferedMatrix.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

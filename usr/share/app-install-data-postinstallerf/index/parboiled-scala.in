@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>parboiled-scala</b>'
+Comment='<span size="xx-large">parboiled for Scala</span>'
+Comment3='
+An internal Scala DSL for efficiently defining your parser rules.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://parboiled.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

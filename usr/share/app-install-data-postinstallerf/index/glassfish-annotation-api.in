@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-annotation-api</b>'
+Comment='<span size="xx-large">Common Annotations API Specification (JSR 250)</span>'
+Comment3='
+Common Annotations APIs for the Java Platform (JSR 250).
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://glassfish.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

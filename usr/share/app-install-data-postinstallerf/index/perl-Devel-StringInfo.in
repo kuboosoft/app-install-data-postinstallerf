@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Devel-StringInfo</b>'
+Comment='<span size="xx-large">Gather information about strings</span>'
+Comment3='
+This module is a debugging aid that helps figure out more information
+about strings.
+'
+License='GPL+ or Artistic or MIT'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-StringInfo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

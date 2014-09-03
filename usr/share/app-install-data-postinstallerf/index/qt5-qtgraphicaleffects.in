@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>qt5-qtgraphicaleffects</b>'
+Comment='<span size="xx-large">Qt5 - QtGraphicalEffects component</span>'
+Comment3='
+The Qt Graphical Effects module provides a set of QML types for adding
+visually impressive and configurable effects to user interfaces. Effects
+are visual items that can be added to Qt Quick user interface as UI
+components.
+
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bridge-method-injector</b>'
+Comment='<span size="xx-large">Evolve Java classes without breaking compatibility</span>'
+Comment3='
+This package contains small Java library for generating
+synthetic bridge methods with different return types
+to help backward compatibility.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/infradna/bridge-method-injector'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

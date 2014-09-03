@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>qascade</b>'
+Comment='<span size="xx-large">Classic puzzle game</span>'
+Comment3='
+Qascade is a port of the simple yet addictive and enjoyable puzzle
+game that came with the Psion Revo PDA.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bitsnpieces.org.uk/qascade/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-riak_sysmon</b>'
+Comment='<span size="xx-large">Rate-limiting system_monitor event handler for Riak</span>'
+Comment3='
+Simple OTP app for managing Erlang VM system_monitor event messages.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/riak_sysmon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

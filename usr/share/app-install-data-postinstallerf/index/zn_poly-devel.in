@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zn_poly-devel</b>'
+Comment='<span size="xx-large">Development files for zn_poly</span>'
+Comment3='
+zn_poly is a C library for polynomial arithmetic in Z/nZ[x], where n is
+any modulus that fits into an unsigned long.
+
+This package contains the development files.
+'
+License='(GPLv2 or GPLv3) and GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://cims.nyu.edu/~harvey/code/zn_poly/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

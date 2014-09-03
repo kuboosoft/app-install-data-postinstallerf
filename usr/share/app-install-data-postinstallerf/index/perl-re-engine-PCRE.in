@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-re-engine-PCRE</b>'
+Comment='<span size="xx-large">Perl-compatible regular expression engine</span>'
+Comment3='
+This allows to replace perls regular expression engine in a given lexical
+scope with PCRE regular expressions provided by pcre library.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/re-engine-PCRE/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnodeupdown-devel</b>'
+Comment='<span size="xx-large">Development headers for libnodeupdown</span>'
+Comment3='
+development headers for libnodeupdown
+
+URL          https//computing.llnl.gov/linux/whatsup.html
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://computing.llnl.gov/linux/whatsup.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

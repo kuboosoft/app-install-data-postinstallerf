@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hibernate3-entitymanager</b>'
+Comment='<span size="xx-large">Hibernate Entity Manager</span>'
+Comment3='
+Hibernate Entity Manager.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.hibernate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

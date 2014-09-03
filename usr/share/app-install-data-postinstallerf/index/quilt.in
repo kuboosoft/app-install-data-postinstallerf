@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>quilt</b>'
+Comment='<span size="xx-large">Scripts for working with series of patches</span>'
+Comment3='
+These scripts allow one to manage a series of patches by keeping track of the
+changes each patch makes. Patches can be applied, un-applied, refreshed, etc.
+
+The scripts are heavily based on Andrew Mortons patch scripts found at
+http//www.zip.com.au/~akpm/linux/patches/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/quilt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

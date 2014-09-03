@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-blaze-textual</b>'
+Comment='<span size="xx-large">Fast rendering of common datatypes</span>'
+Comment3='
+A library for efficiently rendering Haskell data types to bytestrings.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/blaze-textual'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

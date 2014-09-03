@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>glibc-headers</b>'
+Comment='<span size="xx-large">Header files for development using standard C libraries.</span>'
+Comment3='
+The glibc-headers package contains the header files necessary
+for developing programs which use the standard C libraries (which are
+used by nearly all programs).  If you are developing programs which
+will use the standard C libraries, your system needs to have these
+standard header files available in order to create the
+executables.
+
+Install glibc-headers if you are going to develop programs which will
+use the standard C libraries.
+'
+License='LGPLv2+ and LGPLv2+ with exceptions and GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/glibc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

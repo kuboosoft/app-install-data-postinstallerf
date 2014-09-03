@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-elteikthesis</b>'
+Comment='<span size="xx-large">Thesis class for ELTE University Informatics wing</span>'
+Comment3='
+This is not an official University class, and has not been
+approved by the University.
+
+date 2011-05-17 175256 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

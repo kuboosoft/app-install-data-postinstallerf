@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ucommon-bin</b>'
+Comment='<span size="xx-large">ucommon system and support applications</span>'
+Comment3='
+This is a collection of command line tools that use various aspects of the
+ucommon library.  Some may be needed to prepare files or for development of
+applications.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/commoncpp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

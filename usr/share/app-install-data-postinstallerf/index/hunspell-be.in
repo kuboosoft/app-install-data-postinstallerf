@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-be</b>'
+Comment='<span size="xx-large">Belarusian hunspell dictionaries</span>'
+Comment3='
+Belarusian hunspell dictionaries.
+'
+License='GPL+ and LGPLv2+'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/project/dict-be-official'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

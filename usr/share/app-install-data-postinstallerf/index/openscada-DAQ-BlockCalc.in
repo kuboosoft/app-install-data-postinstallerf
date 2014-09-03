@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openscada-DAQ-BlockCalc</b>'
+Comment='<span size="xx-large">Open SCADA DAQ</span>'
+Comment3='
+The openscada-DAQ-BlockCalc allows block based calculator.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

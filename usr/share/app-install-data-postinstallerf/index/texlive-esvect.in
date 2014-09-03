@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-esvect</b>'
+Comment='<span size="xx-large">Vector arrows</span>'
+Comment3='
+Write vectors using an arrow which is different to the Computer
+Modern one. You have the choice between several kinds of
+arrows. The package consists of the relevant Metafont code and
+a package to use it.
+
+date 2013-11-08 163220 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

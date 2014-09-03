@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-nb</b>'
+Comment='<span size="xx-large">Bokmaal hunspell dictionaries</span>'
+Comment3='
+Bokmaal hunspell dictionaries.
+'
+License='GPL+'
+Screenshot=''
+Url='http://spell-norwegian.alioth.debian.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

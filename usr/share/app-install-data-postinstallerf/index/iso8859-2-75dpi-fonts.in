@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>iso8859-2-75dpi-fonts</b>'
+Comment='<span size="xx-large">A set of 75dpi Central European language fonts for X</span>'
+Comment3='
+This package contains a set of Central European language fonts in 75 dpi
+resolution for the X Window System.
+'
+License='MIT'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

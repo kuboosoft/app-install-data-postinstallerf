@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-pdftex</b>'
+Comment='<span size="xx-large">A TeX extension for direct creation of PDF</span>'
+Comment3='
+An extension of TeX which can be configured to directly
+generate PDF documents instead of DVI. All current free TeX
+distributionsm including TeX live, MacTeX and MiKTeX include
+pdfTeX (Plain TeX) and pdfLaTeX (LaTeX). ConTeXt was designed
+around use of pdfTeX (though it is now migrating towards
+LuaTeX).
+
+date 2011-11-09 153334 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

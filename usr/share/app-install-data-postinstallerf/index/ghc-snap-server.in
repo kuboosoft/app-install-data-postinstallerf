@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ghc-snap-server</b>'
+Comment='<span size="xx-large">A fast, iteratee-based, epoll-enabled web server for the Snap Framework</span>'
+Comment3='
+Snap is a simple and fast web development framework and server written in
+Haskell. For more information, you can visit the Snap project website at
+<http//snapframework.com/>.
+
+The Snap HTTP server is a high performance, epoll-enabled, iteratee-based web
+server library written in Haskell. Together with the snap-core library upon
+which it depends, it provides a clean and efficient Haskell programming
+interface to the HTTP protocol.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/snap-server'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

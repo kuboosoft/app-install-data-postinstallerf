@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-phacter</b>'
+Comment='<span size="xx-large">System fact look up tool</span>'
+Comment3='
+A python tool to report system facts
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/radez/phacter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

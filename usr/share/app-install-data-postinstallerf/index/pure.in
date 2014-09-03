@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>pure</b>'
+Comment='<span size="xx-large">A term-rewriting functional programming language</span>'
+Comment3='
+Pure is a modern-style functional programming language based on term
+rewriting. It offers equational definitions with pattern matching,
+full symbolic rewriting capabilities, dynamic typing, eager and lazy
+evaluation, lexical closures, built-in list and matrix support and an
+easy-to-use C interface. The interpreter uses LLVM as a back-end to
+JIT-compile Pure programs to fast native code.
+
+'
+License='LGPLv3+ with exceptions'
+Screenshot=''
+Url='http://purelang.bitbucket.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

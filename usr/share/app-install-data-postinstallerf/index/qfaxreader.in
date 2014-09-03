@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>qfaxreader</b>'
+Comment='<span size="xx-large">A multipage monochrome/color TIFF/FAX viewer</span>'
+Comment3='
+QFaxReader is a monochrome/color multipage .TIFF files
+visualisation utility designed for viewing faxes.
+
+Features
+* multi-page monochrome/color tiff/fax file support
+* fullscreen mode
+* correctly display fax images in any resolution
+* an aliases database for replacing fax IDs with real names
+* image transformation (left or right rotation, vertical flipping)
+* image export into any format supported by the Qt installation
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qfaxreader.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

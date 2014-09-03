@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-ipython-notebook</b>'
+Comment='<span size="xx-large">An enhanced interactive Python notebook</span>'
+Comment3='
+
+IPython provides a replacement for the interactive Python interpreter with
+extra functionality.
+Main features
+ * Comprehensive object introspection.
+ * Input history, persistent across sessions.
+ * Caching of output results during a session with automatically generated
+   references.
+ * Readline based name completion.
+'
+License='(BSD and MIT and Python) and GPLv2+'
+Screenshot=''
+Url='http://ipython.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

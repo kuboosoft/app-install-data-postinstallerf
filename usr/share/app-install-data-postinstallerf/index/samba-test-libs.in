@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>samba-test-libs</b>'
+Comment='<span size="xx-large">Libraries need by teh testing tools for Samba servers and clients</span>'
+Comment3='
+samba-test-libs provides libraries required by the testing tools.
+
+URL          http//www.samba.org/
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

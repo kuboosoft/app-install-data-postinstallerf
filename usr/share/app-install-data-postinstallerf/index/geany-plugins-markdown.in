@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>geany-plugins-markdown</b>'
+Comment='<span size="xx-large">Real time preview for Markdown documents</span>'
+Comment3='
+The Markdown plugin provides a real-time preview of rendered Markdown, that is,
+Markdown converted to HTML and inserted into an HTML template and loaded
+into a WebKit view.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

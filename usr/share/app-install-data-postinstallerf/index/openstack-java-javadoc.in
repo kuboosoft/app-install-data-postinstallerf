@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openstack-java-javadoc</b>'
+Comment='<span size="xx-large">Java docs for OpenStack Java SDK</span>'
+Comment3='
+This package contains the API documentation for the OpenStack Java SDK.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/woorea/openstack-java-sdk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

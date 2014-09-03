@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Excel-Writer-XLSX</b>'
+Comment='<span size="xx-large">Create a new file in the Excel 2007+ XLSX format</span>'
+Comment3='
+The ExcelWriterXLSX module can be used to create an Excel file in the
+2007+ XLSX format.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Excel-Writer-XLSX/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

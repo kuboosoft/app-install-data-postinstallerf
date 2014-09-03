@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bombardier</b>'
+Comment='<span size="xx-large">The GNU Bombing utility</span>'
+Comment3='
+Fly an ncurses plane over an ncurses city, and try to level the buildings.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://packages.debian.org/stable/source/bombardier'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

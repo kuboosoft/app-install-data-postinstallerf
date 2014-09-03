@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>aeidon</b>'
+Comment='<span size="xx-large">Package for reading, writing and manipulating text-based subtitle files</span>'
+Comment3='
+This is a Python package for reading, writing and manipulating
+text-based subtitle files. It is separate from the gaupol package,
+which provides a subtitle editor application with a GTK+ user
+interface.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://home.gna.org/gaupol'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

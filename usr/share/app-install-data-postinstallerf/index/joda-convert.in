@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>joda-convert</b>'
+Comment='<span size="xx-large">Java library for conversion to and from standard string formats</span>'
+Comment3='
+Java library to enable conversion to and from standard string formats.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/JodaOrg/joda-convert/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

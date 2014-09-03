@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>djvulibre-devel</b>'
+Comment='<span size="xx-large">Development files for DjVuLibre</span>'
+Comment3='
+Development files for DjVuLibre.
+
+URL          http//djvu.sourceforge.net/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://djvu.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

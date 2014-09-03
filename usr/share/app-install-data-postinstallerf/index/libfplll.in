@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libfplll</b>'
+Comment='<span size="xx-large">LLL-reduces euclidean lattices</span>'
+Comment3='
+fplll contains several algorithms on lattices that rely on
+floating-point computations. This includes implementations of the
+floating-point LLL reduction algorithm, offering different
+speed/guarantees ratios. It contains a wrapper choosing the
+estimated best sequence of variants in order to provide a guaranteed
+output as fast as possible. In the case of the wrapper, the
+succession of variants is oblivious to the user. It also includes
+a rigorous floating-point implementation of the Kannan-Fincke-Pohst
+algorithm that finds a shortest non-zero lattice vector, and the BKZ
+reduction algorithm.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://perso.ens-lyon.fr/damien.stehle/fplll/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

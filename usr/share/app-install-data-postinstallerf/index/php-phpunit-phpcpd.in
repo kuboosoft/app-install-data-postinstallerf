@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-phpunit-phpcpd</b>'
+Comment='<span size="xx-large">Copy/Paste Detector (CPD) for PHP code</span>'
+Comment3='
+phpcpd is a Copy/Paste Detector (CPD) for PHP code.
+
+The goal of phpcpd is not not to replace more sophisticated tools such as phpcs,
+pdepend, or phpmd, but rather to provide an alternative to them when you just
+need to get a quick overview of duplicated code in a project.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/sebastianbergmann/phpcpd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

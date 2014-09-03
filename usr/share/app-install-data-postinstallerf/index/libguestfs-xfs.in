@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libguestfs-xfs</b>'
+Comment='<span size="xx-large">XFS support for libguestfs</span>'
+Comment3='
+This adds XFS support to libguestfs.  Install it if you want to process
+disk images containing XFS.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

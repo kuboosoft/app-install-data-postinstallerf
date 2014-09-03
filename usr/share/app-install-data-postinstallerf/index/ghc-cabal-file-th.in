@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-cabal-file-th</b>'
+Comment='<span size="xx-large">Template Haskell expressions for reading cabal files</span>'
+Comment3='
+Template Haskell expressions for reading fields from a projects cabal file.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cabal-file-th'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-hs-bibutils</b>'
+Comment='<span size="xx-large">Haskell bindings to bibutils</span>'
+Comment3='
+Haskell bindings to Chris Putnams bibutils, a library that
+converts between various bibliography formats using a common
+MODS-format XML intermediate.
+'
+License='GPL+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/hs-bibutils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

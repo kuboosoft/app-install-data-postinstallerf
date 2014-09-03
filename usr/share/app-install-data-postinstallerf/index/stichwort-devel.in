@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>stichwort-devel</b>'
+Comment='<span size="xx-large">Simple library for named parameters in C++</span>'
+Comment3='
+
+Stichwort is a simple tool for C++ keyword arguments.  The library
+provides rather clean and simple API for creating keywords and handling
+them as function parameters.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/lisitsyn/stichwort'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

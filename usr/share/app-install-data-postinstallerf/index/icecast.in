@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>icecast</b>'
+Comment='<span size="xx-large">ShoutCast compatible streaming media server</span>'
+Comment3='
+Icecast is a streaming media server which currently supports Ogg Vorbis
+and MP3 audio streams. It can be used to create an Internet radio
+station or a privately running jukebox and many things in between.  It
+is very versatile in that new formats can be added relatively easily and
+supports open standards for commuincation and interaction.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.icecast.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

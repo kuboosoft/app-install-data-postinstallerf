@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libnet10-devel</b>'
+Comment='<span size="xx-large">Development files for the libnet library</span>'
+Comment3='
+The libnet10-devel package includes header files and libraries necessary for
+developing programs which use the libnet library. Using libnet, quick and
+simple packet assembly applications can be whipped up with little effort.
+With a bit more time, more complex programs can be written (traceroute and
+ping were easily rewritten using libnet and libpcap).
+
+This package contains an old and deprecated version of libnet. You need it
+only if the software you are using hasnt been updated to work with the newer
+version and the newer API.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.packetfactory.net/libnet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>trace-cmd</b>'
+Comment='<span size="xx-large">A user interface to Ftrace</span>'
+Comment3='
+trace-cmd is a user interface to Ftrace. Instead of needing to use the
+debugfs directly, trace-cmd will handle of setting of options and
+tracers and will record into a data file.
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://git.kernel.org/?p=linux/kernel/git/rostedt/trace-cmd.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

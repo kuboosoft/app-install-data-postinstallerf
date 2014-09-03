@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Hardware-Vhdl-Tidy</b>'
+Comment='<span size="xx-large">VHDL code prettifier</span>'
+Comment3='
+This module auto-indents VHDL source code. It may be extended in future to
+do other types of code prettification.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Hardware-Vhdl-Tidy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

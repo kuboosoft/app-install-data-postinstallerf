@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>AllegroOGG-devel</b>'
+Comment='<span size="xx-large">Developmental libraries and include files for AllegroOgg</span>'
+Comment3='
+Development libraries and include files for developing applications using
+the AllegroOGG library.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.allegro.cc/resource/Libraries/Audio/alogg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

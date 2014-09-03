@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Perl-Metrics-Simple</b>'
+Comment='<span size="xx-large">Count packages, subs, lines, etc. of many files</span>'
+Comment3='
+PerlMetricsSimple provides just enough methods to run static analysis
+of one or many Perl files and obtain a few metrics packages, subroutines,
+lines of code, and an approximation of cyclomatic (McCabe) complexity for
+the subroutines and the "main" portion of the code.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Metrics-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

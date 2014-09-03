@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-cookie-devel</b>'
+Comment='<span size="xx-large">Haskell cookie library development files</span>'
+Comment3='
+This package provides the Haskell cookie library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cookie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

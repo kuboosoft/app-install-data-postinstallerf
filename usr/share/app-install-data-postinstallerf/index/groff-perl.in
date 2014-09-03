@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>groff-perl</b>'
+Comment='<span size="xx-large">Parts of the groff formatting system that require Perl</span>'
+Comment3='
+The groff-perl package contains the parts of the groff text processor
+package that require Perl. These include the afmtodit (font processor
+for creating PostScript font files), groffer (tool for displaying groff
+files), grog (utility that can be used to automatically determine groff
+command-line options), chem (groff preprocessor for producing chemical
+structure diagrams), mmroff (reference preprocessor) and roff2dvi
+roff2html roff2pdf roff2ps roff2text roff2x (roff code converters).
+'
+License='GPLv3+ and GFDL and BSD and MIT'
+Screenshot=''
+Url='http://www.gnu.org/software/groff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

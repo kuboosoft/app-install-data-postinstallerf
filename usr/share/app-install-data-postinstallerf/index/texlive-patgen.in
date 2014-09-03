@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-patgen</b>'
+Comment='<span size="xx-large">Generate hyphenation patterns</span>'
+Comment3='
+This is the last version of the program distributed by Knuth;
+it advertises itself as a pattern generator for "the algorithm
+used in TeX", but, of course, the patterns used in modern
+distributions are Unicode-based.
+
+date 2012-06-09 201534 +0200
+'
+License='Knuth'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

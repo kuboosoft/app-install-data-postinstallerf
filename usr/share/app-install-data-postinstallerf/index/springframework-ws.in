@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>springframework-ws</b>'
+Comment='<span size="xx-large">Spring Web Services</span>'
+Comment3='
+Spring Web Services is a product of the Spring community
+focused on creating document-driven Web services. It
+aims to facilitate contract-first SOAP service development,
+allowing for the creation of flexible web services
+using one of the many ways to manipulate XML payloads.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://projects.spring.io/spring-ws/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

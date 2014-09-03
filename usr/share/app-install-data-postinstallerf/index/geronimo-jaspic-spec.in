@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>geronimo-jaspic-spec</b>'
+Comment='<span size="xx-large">Java Authentication SPI for Containers</span>'
+Comment3='
+Java Authentication Service Provider Interface for Containers (JSR-196) api.
+'
+License='ASL 2.0 and W3C'
+Screenshot=''
+Url='http://geronimo.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

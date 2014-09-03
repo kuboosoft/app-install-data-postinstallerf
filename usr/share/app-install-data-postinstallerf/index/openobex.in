@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>openobex</b>'
+Comment='<span size="xx-large">Library for using OBEX</span>'
+Comment3='
+OBEX (OBject EXchange) is a protocol usually used by various mobile
+devices to exchange all kind of objects like files, pictures, calendar
+entries (vCal) and business cards (vCard).  This package contains the
+Open OBEX shared C library.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://openobex.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

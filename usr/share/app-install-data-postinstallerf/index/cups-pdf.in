@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cups-pdf</b>'
+Comment='<span size="xx-large">Extension for creating pdf-Files with CUPS</span>'
+Comment3='
+"cups-pdf" is a backend script for use with CUPS - the "Common UNIX Printing
+System" (see more for CUPS under http//www.cups.org/).
+"cups-pdf" uses the ghostscript pdfwrite device to produce PDF Files.
+
+This version has been modified to store the PDF files on the Desktop of the
+user. This behavior can be changed by editing the configuration file.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.cups-pdf.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

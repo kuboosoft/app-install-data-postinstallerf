@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>finch-devel</b>'
+Comment='<span size="xx-large">Headers etc. for finch stuffs</span>'
+Comment3='
+The finch-devel package contains the header files, developer
+documentation, and libraries required for development of Finch scripts
+and plugins.
+
+'
+License='GPLv2+ and GPLv2 and MIT'
+Screenshot=''
+Url='http://pidgin.im/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

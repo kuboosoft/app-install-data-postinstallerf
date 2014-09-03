@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>adwaita-gtk3-theme</b>'
+Comment='<span size="xx-large">Adwaita gtk3 theme</span>'
+Comment3='
+The adwaita-gtk3-theme package contains a gtk3 theme for rendering widgets
+with a GNOME look and feel.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.gnome.org/browse/gnome-themes-standard'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

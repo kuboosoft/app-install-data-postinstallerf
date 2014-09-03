@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ocaml-autoconf</b>'
+Comment='<span size="xx-large">Autoconf macros for OCaml</span>'
+Comment3='
+Autoconf macros for OCaml projects.
+'
+License='BSD'
+Screenshot=''
+Url='http://forge.ocamlcore.org/projects/ocaml-autoconf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

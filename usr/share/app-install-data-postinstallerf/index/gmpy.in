@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gmpy</b>'
+Comment='<span size="xx-large">A Python interface to the GNU Multiple Precision Arithmetic Library</span>'
+Comment3='
+A C-coded Python extension module that wraps the GMP library to provide to
+Python code fast multiprecision arithmetic (integer, rational, and float),
+random number generation, advanced number-theoretical functions, and more.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/gmpy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

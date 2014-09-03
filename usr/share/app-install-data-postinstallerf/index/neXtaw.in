@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>neXtaw</b>'
+Comment='<span size="xx-large">Modified version of the Athena Widgets with N*XTSTEP appearance</span>'
+Comment3='
+neXtaw is a replacement library for the Athena (libXaw) widget set. It
+is based on Xaw3d, by Kaleb Keithley and is almost 100% backward
+compatible with it. Its goal is to try to emulate the look and feel of
+the N*XTSTEP GUI.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://siag.nu/neXtaw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-ltxindex</b>'
+Comment='<span size="xx-large">A LaTeX package to typeset indices with GNUs Texindex</span>'
+Comment3='
+A LaTeX package that allows the user to make indexes with GNUs
+Texindex program, instead of makeindex. It provides the
+indexing commands available in Texinfo by default, but only
+define other standard indexes, and there is no provision for
+custom indexes. The package is not currently maintained.
+
+date 2009-10-01 201808 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

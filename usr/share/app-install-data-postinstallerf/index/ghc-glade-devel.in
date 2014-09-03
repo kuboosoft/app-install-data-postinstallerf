@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-glade-devel</b>'
+Comment='<span size="xx-large">Haskell glade library development files</span>'
+Comment3='
+This package provides the Haskell glade library development files.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/glade'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

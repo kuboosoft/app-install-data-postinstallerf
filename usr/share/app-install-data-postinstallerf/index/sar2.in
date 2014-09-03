@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>sar2</b>'
+Comment='<span size="xx-large">An open source helicopter simulator</span>'
+Comment3='
+Search and Rescue II is a rescue helicopter simulator for Linux. It features
+several missions in which the player pilots a helicopter in order to rescue
+people in distress. There are several scenarios and helicopter models.
+
+Search and Rescue II has a strong focus on realistic physics and low graphics
+requirements. It is a fork of the game "Search and Rescue"
+(http//searchandrescue.sf.net), originally developed by Wolfpack
+Entertainment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sar2.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>sdformat</b>'
+Comment='<span size="xx-large">The Simulation Description Format</span>'
+Summary      The Simulation Description Format
+Source       sdformat-2.0.0-1.fc20.src.rpm
+Comment3='
+The Simulation Description Format (SDF) is an XML file format used to
+describe all the elements in a software simulation environment. Originally
+part of the Gazebo 3D robotic simulator, sdformat is a C++ library for reading
+and writing files in the sdf format.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://gazebosim.org/sdf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

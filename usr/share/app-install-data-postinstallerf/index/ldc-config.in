@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ldc-config</b>'
+Comment='<span size="xx-large">Config file for ldc</span>'
+Comment3='
+Provide configuration file to customize ldc. As
+- default search path for lib and include files
+- default ldc flag ?
+'
+License='Boost'
+Screenshot=''
+Url='https://github.com/ldc-developers/ldc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

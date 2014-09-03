@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-rtkinenc</b>'
+Comment='<span size="xx-large">Input encoding with fallback procedures</span>'
+Comment3='
+The rtkinenc package is functionally similar to the standard
+LaTeX package inputenc both set up active characters so that
+an input character outside the range of 7-bit visible ASCII is
+coverted into one or more corresponding LaTeX commands. The
+main difference lies in that rtkinenc allows the user to
+specify a fallback procedure to use when the text command
+corresponding to some input character isnt available. Names of
+commands in rtkinenc have been selected so that it can read
+inputenc encoding definition files, and the aim is that
+rtkinenc should be backwards compatible with inputenc. rtkinenc
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

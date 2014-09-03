@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-B-Keywords</b>'
+Comment='<span size="xx-large">Lists of reserved barewords and symbol names</span>'
+Comment3='
+Lists of reserved barewords and symbol names.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/B-Keywords/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

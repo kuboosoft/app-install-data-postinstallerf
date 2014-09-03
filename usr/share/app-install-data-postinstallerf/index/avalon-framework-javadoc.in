@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>avalon-framework-javadoc</b>'
+Comment='<span size="xx-large">API documentation avalon-framework</span>'
+Comment3='
+API documentation avalon-framework.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://avalon.apache.org/framework/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

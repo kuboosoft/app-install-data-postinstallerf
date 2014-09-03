@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-openshift-origin-common</b>'
+Comment='<span size="xx-large">Cloud Development Common</span>'
+Comment3='
+This contains the Cloud Development Common packaged as a rubygem.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openshift.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

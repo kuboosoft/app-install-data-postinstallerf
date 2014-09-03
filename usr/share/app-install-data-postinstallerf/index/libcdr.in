@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libcdr</b>'
+Comment='<span size="xx-large">A library providing ability to interpret and import CorelDRAW drawings</span>'
+Comment3='
+Libcdr is library providing ability to interpret and import CorelDRAW
+drawings into various applications. You can find it being used in
+libreoffice.
+
+'
+License='MPLv2.0 and Public Domain'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/libcdr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

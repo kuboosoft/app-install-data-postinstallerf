@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>java-gnome</b>'
+Comment='<span size="xx-large">Java GNOME bindings</span>'
+Comment3='
+These are the Java bindings for GTK and GNOME! Featuring a robust
+engineering design, completely generated internals, a lovingly
+crafted layer presenting the public API, and steadily increasing
+coverage of the underlying libraries.
+
+You can use java-gnome to develop sophisticated user interfaces
+for Linux applications so that they richly integrate with the
+GNOME Desktop while leveraging the power of the Java language
+and your expertise with it.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://java-gnome.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

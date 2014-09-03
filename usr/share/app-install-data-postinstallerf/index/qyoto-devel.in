@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qyoto-devel</b>'
+Comment='<span size="xx-large">Development libraries for qyoto</span>'
+Comment3='
+This package contains development files for the .NET/Mono bindings
+for the Qt libraries.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://techbase.kde.org/Development/Languages/Qyoto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

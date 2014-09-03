@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>freeipa-server-trust-ad</b>'
+Comment='<span size="xx-large">Virtual package to install packages required for Active Directory trusts</span>'
+Comment3='
+Cross-realm trusts with Active Directory in IPA require working Samba 4
+installation. This package is provided for convenience to install all required
+dependencies at once.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.freeipa.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

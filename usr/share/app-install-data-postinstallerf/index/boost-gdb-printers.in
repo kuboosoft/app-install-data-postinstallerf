@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>boost-gdb-printers</b>'
+Comment='<span size="xx-large">GDB pretty printers for boost</span>'
+Comment3='
+A collection of pretty printers for GDB 7.x for various boost types.
+Currently it handles classes from the following boost libraries
+* Optional
+* Pointer Container
+* Smart Pointer
+* Unordered
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://sourceforge.net/projects/boost-gdb-printers/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

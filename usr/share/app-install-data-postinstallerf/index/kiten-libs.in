@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kiten-libs</b>'
+Comment='<span size="xx-large">Runtime files for kiten</span>'
+Comment3='
+Runtime files for kiten.
+
+URL          https//projects.kde.org/projects/kde/kdeedu/kiten
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdeedu/kiten'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

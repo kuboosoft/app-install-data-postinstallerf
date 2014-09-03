@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tritonus-fluidsynth</b>'
+Comment='<span size="xx-large">Plug-in for fluidsynth</span>'
+Comment3='
+A tritonus plug-in for fluidsynth.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.tritonus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

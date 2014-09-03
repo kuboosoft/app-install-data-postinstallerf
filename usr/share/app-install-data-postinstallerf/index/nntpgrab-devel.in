@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nntpgrab-devel</b>'
+Comment='<span size="xx-large">Development files for NNTPGrab</span>'
+Comment3='
+Development files needed to create NNTPGrab frontends
+
+URL          http//www.nntpgrab.nl
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nntpgrab.nl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

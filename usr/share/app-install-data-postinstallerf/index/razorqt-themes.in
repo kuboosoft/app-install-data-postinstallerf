@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>razorqt-themes</b>'
+Comment='<span size="xx-large">Razor-qt themes</span>'
+Comment3='
+Razor-qt themes meta-package
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://razor-qt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

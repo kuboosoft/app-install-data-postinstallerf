@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-fbs</b>'
+Comment='<span size="xx-large">BibTeX style for Frontiers in Bioscience</span>'
+Comment3='
+A BibTeX style file made with custom-bib to fit Frontiers in
+Bioscience requirements - all authors, no et al, full author
+names, initials abbreviated; - only abbreviated journal name
+italicised, no abbreviation dots; - only year, no month, at end
+of reference; and - DOI excluded, ISSN excluded.
+
+date 2008-08-19 203814 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

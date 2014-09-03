@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for Python</span>'
+Comment3='
+This package contains runtime libraries for use by Python
+- the libpython dynamic library, for use by applications that embed Python as
+a scripting language, and by the main "python" executable
+- the Python standard library
+
+'
+License='Python'
+Screenshot=''
+Url='http://www.python.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

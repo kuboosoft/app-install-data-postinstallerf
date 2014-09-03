@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>jfsutils</b>'
+Comment='<span size="xx-large">Utilities for managing the JFS filesystem</span>'
+Comment3='
+The jfsutils package contains a number of utilities for creating,
+checking, modifying, and correcting any inconsistencies in JFS
+filesystems.  The following utilities are available fsck.jfs - initiate
+replay of the JFS transaction log, and check and repair a JFS formatted
+device; logdump - dump a JFS formatted devices journal log; logredo -
+"replay" a JFS formatted devices journal log;  mkfs.jfs - create a JFS
+formatted partition; xchkdmp - dump the contents of a JFS fsck log file
+created with xchklog; xchklog - extract a log from the JFS fsck workspace
+into a file;  xpeek - shell-type JFS file system editor.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://jfs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

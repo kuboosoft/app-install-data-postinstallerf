@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>log4cpp-doc</b>'
+Comment='<span size="xx-large">Development documentation for log4cpp</span>'
+Comment3='
+This package contains the development documentation for log4cpp.
+If you like to documentation to develop programs using log4cpp,
+you will need to install log4cpp-devel.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/log4cpp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

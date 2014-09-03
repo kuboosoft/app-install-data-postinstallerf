@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sphinxbase</b>'
+Comment='<span size="xx-large">Common library for CMU Sphinx voice recognition products</span>'
+Comment3='
+Sphinxbase is a common library for CMU Sphinx voice recognition products.
+This package does not provide voice recognition by itself.
+'
+License='BSD'
+Screenshot=''
+Url='http://cmusphinx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

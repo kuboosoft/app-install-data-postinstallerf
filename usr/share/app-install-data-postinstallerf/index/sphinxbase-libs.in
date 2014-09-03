@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sphinxbase-libs</b>'
+Comment='<span size="xx-large">Libraries for sphinxbase</span>'
+Comment3='
+The libraries for sphinxbase.
+
+URL          http//cmusphinx.sourceforge.net/
+'
+License='BSD'
+Screenshot=''
+Url='http://cmusphinx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

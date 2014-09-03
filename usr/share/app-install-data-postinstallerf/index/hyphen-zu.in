@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-zu</b>'
+Comment='<span size="xx-large">Zulu hyphenation rules</span>'
+Comment3='
+Zulu hyphenation rules.
+'
+License='LGPLv2+ and GPL+'
+Screenshot=''
+Url='http://zaf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

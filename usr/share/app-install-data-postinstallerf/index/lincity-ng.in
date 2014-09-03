@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lincity-ng</b>'
+Comment='<span size="xx-large">City Simulation Game</span>'
+Comment3='
+LinCity-NG is a City Simulation Game. It is a polished and improved version
+of the classic LinCity (http//www.floot.demon.co.uk/lincity.html) game with
+a new iso-3D graphics engine and a completely redone and modern GUI.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lincity-ng.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

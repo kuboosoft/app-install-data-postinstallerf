@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>openldap-devel</b>'
+Comment='<span size="xx-large">LDAP development libraries and header files</span>'
+Comment3='
+The openldap-devel package includes the development libraries and
+header files needed for compiling applications that use LDAP
+(Lightweight Directory Access Protocol) internals. LDAP is a set of
+protocols for enabling directory services over the Internet. Install
+this package only if you plan to develop or will need to compile
+customized LDAP clients.
+
+'
+License='OpenLDAP'
+Screenshot=''
+Url='http://www.openldap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

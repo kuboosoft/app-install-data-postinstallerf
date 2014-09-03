@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ncid</b>'
+Comment='<span size="xx-large">Network Caller ID server, client, and gateways</span>'
+Comment3='
+NCID is Caller ID (CID) distributed over a network to a variety of
+devices and computers.  NCID includes a server, gateways, a client,
+and client output modules.
+
+The NCID server obtains the Caller ID information from a serial device,
+like a modem, and from VOIP and YAC gateways.
+This package contains the server and gateways.  The client is in the
+ncid-client package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ncid.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

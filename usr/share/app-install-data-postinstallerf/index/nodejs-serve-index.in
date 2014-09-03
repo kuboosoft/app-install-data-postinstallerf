@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-serve-index</b>'
+Comment='<span size="xx-large">Middleware for serving directory listings for Node.js and Connect</span>'
+Comment3='
+Middleware for serving directory listings for Node.js and Connect.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/expressjs/serve-index'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

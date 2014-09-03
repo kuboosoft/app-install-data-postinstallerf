@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pm-utils-devel</b>'
+Comment='<span size="xx-large">Files for development using pm-utils</span>'
+Comment3='
+This package contains the pkg-config files for development
+when building programs that use pm-utils.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pm-utils.freedesktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

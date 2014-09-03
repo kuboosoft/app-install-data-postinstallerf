@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>swftools</b>'
+Comment='<span size="xx-large">SWF manipulation and generation utilities</span>'
+Comment3='
+SWFTools is a collection of utilities for working with Adobe Flash files (SWF
+files). The tool collection includes programs for reading SWF files, combining
+them, and creating them from other content (like images, sound files, videos or
+source code).
+'
+License='GPLv3+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.swftools.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

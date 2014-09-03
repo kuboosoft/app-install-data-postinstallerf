@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-coverage-test-runner</b>'
+Comment='<span size="xx-large">Python module for enforcing code coverage completeness</span>'
+Comment3='
+CoverageTestRunner is a Python module for running unit tests and
+failing them if the unit test module does not exercise all statements
+in the module it tests.
+
+For example, unit tests in module foo_tests.py are supposed to test
+everything in the foo.py module, and if they dont, its a bug in the
+test coverage. It does not matter if other tests happen to test the
+missing parts. The unit tests for the module should test everything in
+that module.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://liw.fi/coverage-test-runner/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

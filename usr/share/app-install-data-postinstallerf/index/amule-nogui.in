@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>amule-nogui</b>'
+Comment='<span size="xx-large">Components of aMule which dont require a GUI (for servers)</span>'
+Comment3='
+This package contains the aMule components which dont require a GUI.
+It is useful for servers which dont have Xorg.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://amule.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

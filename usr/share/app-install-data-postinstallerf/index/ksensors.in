@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ksensors</b>'
+Comment='<span size="xx-large">KDE frontend to lm_sensors</span>'
+Comment3='
+KSensors is a nice lm-sensors frontend for the K Desktop Environment.
+Install the hddtemp package if you wish to monitor hard disk
+temperatures with KSensors.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ksensors.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

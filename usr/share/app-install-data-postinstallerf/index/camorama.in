@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>camorama</b>'
+Comment='<span size="xx-large">Gnome webcam viewer</span>'
+Comment3='
+A simple Gnome webcam viewer, with the ability to apply some video effects.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://camorama.fixedgear.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

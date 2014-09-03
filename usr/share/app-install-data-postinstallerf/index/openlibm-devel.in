@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openlibm-devel</b>'
+Comment='<span size="xx-large">High quality system independent, open source libm</span>'
+Comment3='
+Contains header files for developing applications that use the openlibm
+library.
+
+'
+License='BSD and MIT and ISC and Public Domain'
+Screenshot=''
+Url='https://github.com/JuliaLang/openlibm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

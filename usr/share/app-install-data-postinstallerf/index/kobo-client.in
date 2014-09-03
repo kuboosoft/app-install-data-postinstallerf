@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kobo-client</b>'
+Comment='<span size="xx-large">CLI client</span>'
+Comment3='
+CLI client.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/kobo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lasso-devel</b>'
+Comment='<span size="xx-large">Lasso development headers and documentation</span>'
+Comment3='
+This package contains the header files, static libraries and development
+documentation for Lasso.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lasso.entrouvert.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

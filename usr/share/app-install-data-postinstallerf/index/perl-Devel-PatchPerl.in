@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Devel-PatchPerl</b>'
+Comment='<span size="xx-large">Patch perl source ? la Devel::PPPorts buildperl.pl</span>'
+Comment3='
+DevelPatchPerl is a modularisation of the patching code contained in
+DevelPPPorts buildperl.pl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-PatchPerl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

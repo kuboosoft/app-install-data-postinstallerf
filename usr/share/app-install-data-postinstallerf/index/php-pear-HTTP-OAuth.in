@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-HTTP-OAuth</b>'
+Comment='<span size="xx-large">Implementation of the OAuth spec</span>'
+Comment3='
+Allows the use of the consumer and provider angles of the OAuth spec.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/HTTP_OAuth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

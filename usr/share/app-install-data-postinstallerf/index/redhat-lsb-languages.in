@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>redhat-lsb-languages</b>'
+Comment='<span size="xx-large">LSB Languages module support</span>'
+Comment3='
+The Linux Standard Base (LSB) Languages module supports components for runtime
+languages which are found on an LSB conforming system.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.linuxfoundation.org/collaborate/workgroups/lsb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

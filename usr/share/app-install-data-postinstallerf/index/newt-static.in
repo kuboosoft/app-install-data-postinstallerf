@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>newt-static</b>'
+Comment='<span size="xx-large">Newt windowing toolkit static library</span>'
+Comment3='
+The newt-static package contains the static version of the newt library.
+Install it if you need to link statically with libnewt.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/newt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

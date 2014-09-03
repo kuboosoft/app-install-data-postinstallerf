@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dap-hdf4_handler</b>'
+Comment='<span size="xx-large">HDF4 data handler for the Hyrax OPeNDAP Data server</span>'
+Comment3='
+This is the hdf4 data handler for our data server. It reads HDF4 and HDF-EOS
+files and returns DAP responses that are compatible with DAP2 and the
+dap-server software.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opendap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

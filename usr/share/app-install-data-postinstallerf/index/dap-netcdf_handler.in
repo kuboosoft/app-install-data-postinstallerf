@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dap-netcdf_handler</b>'
+Comment='<span size="xx-large">NetCDF data handler for the OPeNDAP Data server</span>'
+Comment3='
+This is the netcdf data handler for the dap data server.  This version can
+read netcdf 4 files that have been created using the netcdf 4 classic
+API/format.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opendap.org/nc_server'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-fix2col</b>'
+Comment='<span size="xx-large">Fix miscellaneous two column mode features</span>'
+Comment3='
+Fix mark handling so that \firstmark is taken from the first
+column if that column has any marks at all; keep two column
+floats like figure* in sequence with single column floats like
+figure.
+
+date 2010-02-23 161611 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

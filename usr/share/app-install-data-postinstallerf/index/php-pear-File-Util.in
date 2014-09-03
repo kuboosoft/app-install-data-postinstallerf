@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-File-Util</b>'
+Comment='<span size="xx-large">Common file and directory utility functions</span>'
+Comment3='
+Common file and directory utility functions. Path handling, temp dir/file,
+sorting of files, listDirs, isIncludable and more.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/File_Util'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

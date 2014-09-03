@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>subversion-gnome</b>'
+Comment='<span size="xx-large">GNOME Keyring support for Subversion</span>'
+Comment3='
+The subversion-gnome package adds support for storing Subversion
+passwords in the GNOME Keyring.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://subversion.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

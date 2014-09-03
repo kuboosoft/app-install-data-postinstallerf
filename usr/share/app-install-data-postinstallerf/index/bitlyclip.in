@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>bitlyclip</b>'
+Comment='<span size="xx-large">Shorten urls in the X clipboard with bit.ly</span>'
+Comment3='
+bitlyclip is just a script that
+
+ - Takes a url in your clipboard.
+ - Shortens it with the bit.ly url shortening service.
+ - Puts the new url back in your clipboard.
+It makes a nice hotkey in whatever window manager youre using.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/bitlyclip'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

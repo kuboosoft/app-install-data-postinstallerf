@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>synopsis</b>'
+Comment='<span size="xx-large">Source-code Introspection Tool</span>'
+Comment3='
+Synopsis is a multi-language source code introspection tool that
+provides a variety of representations for the parsed code, to
+enable further processing such as documentation extraction,
+reverse engineering, and source-to-source translation.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://synopsis.fresco.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

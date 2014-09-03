@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-epspdf</b>'
+Comment='<span size="xx-large">Converter for PostScript, EPS and PDF</span>'
+Comment3='
+Epspdf[tk] is a TeXlua script which converts between PostScript
+or EPS and PDF. It has both a command-line and a GUI interface.
+Using pdftops (from the xpdf command-line utilities) for round-
+tripping opens up several new possibilities compared to older
+similarly-named utilities.
+
+date 2013-02-08 114211 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

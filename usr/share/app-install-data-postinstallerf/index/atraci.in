@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>atraci</b>'
+Comment='<span size="xx-large">Free music streaming player</span>'
+Comment3='
+Atraci is an application for Windows, Mac and Linux that lets you listen
+instantly to more than 60 million songs (way more than iTuness 26 million).
+It requires no sign up, displays no ads and is 100% safe.
+
+We believe that listening to music should always be free and available to
+everyone, and that only owning it should bear a cost.
+'
+License='MIT'
+Screenshot=''
+Url='http://getatraci.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

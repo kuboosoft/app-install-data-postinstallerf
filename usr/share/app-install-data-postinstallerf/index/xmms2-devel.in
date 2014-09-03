@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmms2-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for XMMS2</span>'
+Comment3='
+Development libraries and headers for XMMS2. You probably need this to develop
+or build new plugins for XMMS2.
+
+'
+License='LGPLv2+ and GPLv2+ and BSD'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

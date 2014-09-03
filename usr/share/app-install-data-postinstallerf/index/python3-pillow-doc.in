@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-pillow-doc</b>'
+Comment='<span size="xx-large">Documentation for python3-pillow</span>'
+Comment3='
+Documentation for python3-pillow.
+'
+License='MIT'
+Screenshot=''
+Url='http://python-imaging.github.com/Pillow/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

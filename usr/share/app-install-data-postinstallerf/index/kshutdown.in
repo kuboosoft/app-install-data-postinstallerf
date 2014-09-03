@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kshutdown</b>'
+Comment='<span size="xx-large">Graphical shutdown utility for KDE 4</span>'
+Comment3='
+KShutdown is a graphical shutdown utility for Linux and Windows. It allows you to turn off
+or suspend computer at the specified time. It features various time and delay
+options, command line support, and notifications.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://kshutdown.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

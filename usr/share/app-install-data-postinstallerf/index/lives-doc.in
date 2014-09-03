@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lives-doc</b>'
+Comment='<span size="xx-large">Doc files for LiVES</span>'
+Comment3='
+Doc files for LiVES
+'
+License='GPLv3'
+Screenshot=''
+Url='http://lives.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

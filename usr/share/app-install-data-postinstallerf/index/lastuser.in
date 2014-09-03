@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lastuser</b>'
+Comment='<span size="xx-large">User management application</span>'
+Comment3='
+User management is a pain. Theres no need to write new user management code
+for each new app to do basic things like logging in, managing the profile and
+verifying email addresses. Setup one LastUser instance for all your apps and
+defer all user management to it. Use the API to integrate with your app.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/hasgeek/lastuser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

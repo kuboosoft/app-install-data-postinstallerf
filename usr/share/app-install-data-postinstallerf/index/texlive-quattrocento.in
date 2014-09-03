@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-quattrocento</b>'
+Comment='<span size="xx-large">LaTeX support for Quattrocento and Quattrocento Sans fonts</span>'
+Comment3='
+The package provides LaTeX, pdfLaTeX, XeLaTeX and LuaLaTeX
+support for the Quattrocento and Quattrocento Sans families of
+fonts, designed by Pablo Impallari; the fonts themselves are
+also provided, in both Type 1 and OpenType format. Quattrocento
+is a classic typeface with wide and open letterforms, and great
+x-height, which makes it very legible for body text at small
+sizes. Tiny details that only show up at bigger sizes make it
+also great for display use. Quattrocento Sans is the perfect
+sans-serif companion for Quattrocento.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

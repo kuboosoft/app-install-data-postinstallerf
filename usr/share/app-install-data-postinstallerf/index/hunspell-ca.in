@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-ca</b>'
+Comment='<span size="xx-large">Catalan hunspell dictionaries</span>'
+Comment3='
+Catalan hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.softcatala.org/wiki/Projectes/Corrector_ortogr?fic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

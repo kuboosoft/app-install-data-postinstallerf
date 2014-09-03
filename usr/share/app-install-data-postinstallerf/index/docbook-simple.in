@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>docbook-simple</b>'
+Comment='<span size="xx-large">Simplified DocBook is a small subset of the DocBook XML DTD</span>'
+Comment3='
+Simplified DocBook is an attempt to provide a proper subset of DocBook
+that is simultaneously smaller and still useful. Documents written in
+the subset must be 100% legal DocBook documents. This is a subset for
+single documents (articles, white papers, etc.), so theres no need
+for books or sets, just articles. Simplified DocBook documents are
+viewable in online browsers if styled with CSS. (its XML not SGML).
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://www.oasis-open.org/docbook/xml/simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

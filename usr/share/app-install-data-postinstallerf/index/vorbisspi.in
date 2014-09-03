@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>vorbisspi</b>'
+Comment='<span size="xx-large">Java Service Provider Interface for the OGG Vorbis audio format</span>'
+Comment3='
+VorbisSPI is a Java Service Provider Interface that adds OGG Vorbis audio
+format support to Java platform. It supports Icecast streaming. It is
+based on JOrbis Java libraries.
+
+OGG Vorbis is a fully Open, non-proprietary, patent-and-royalty-free,
+general-purpose compressed audio format for high quality (44.1-48.0kHz,
+16+ bit, polyphonic) audio and music at fixed and variable bit rates from
+16 to 128 Kbps/channel. This places Vorbis in the same class as audio
+representations including MPEG-1 audio layer 3, MPEG-4 audio
+(AAC and TwinVQ), and PAC.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.javazoom.net/vorbisspi/vorbisspi.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>claws-mail-plugins-spamassassin</b>'
+Comment='<span size="xx-large">Spamassassin plugin for Claws Mail</span>'
+Comment3='
+Spamassassin plugin for Claws Mail
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://claws-mail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

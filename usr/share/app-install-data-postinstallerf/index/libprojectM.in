@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libprojectM</b>'
+Comment='<span size="xx-large">The libraries for the projectM music visualization plugin</span>'
+Comment3='
+projectM is an awesome music visualizer. There is nothing better in the world
+of Unix. projectMs greatness comes from the hard work of the community. Users
+like you can create presets that connect music with incredible visuals.
+projectM is an LGPLed reimplementation of Milkdrop under OpenGL. All projectM
+requires is a video card with 3D acceleration and your favorite music.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projectm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

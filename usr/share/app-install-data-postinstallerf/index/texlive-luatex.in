@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-luatex</b>'
+Comment='<span size="xx-large">The LuaTeX engine</span>'
+Comment3='
+LuaTeX is an extended version of pdfTeX using Lua as an
+embedded scripting language. The LuaTeX projects main
+objective is to provide an open and configurable variant of TeX
+while at the same time offering downward compatibility. LuaTeX
+uses Unicode (as UTF-8) as its default input encoding, and is
+able to use modern (OpenType) fonts (for both text and
+mathematics). It should be noted that LuaTeX is still under
+development; its specification has been declared stable, but
+absolute stability may not in practice be assumed.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

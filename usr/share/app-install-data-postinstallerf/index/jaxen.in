@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>jaxen</b>'
+Comment='<span size="xx-large">An XPath engine written in Java</span>'
+Comment3='
+Jaxen is an open source XPath library written in Java. It is adaptable
+to many different object models, including DOM, XOM, dom4j, and JDOM.
+Is it also possible to write adapters that treat non-XML trees such as compiled
+Java byte code or Java beans as XML, thus enabling you to query these trees
+with XPath too.
+'
+License='BSD'
+Screenshot=''
+Url='http://jaxen.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

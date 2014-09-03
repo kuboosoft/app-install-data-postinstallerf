@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-elsarticle</b>'
+Comment='<span size="xx-large">Class for articles for submission to Elsevier journals</span>'
+Comment3='
+The class is for typeset journal articles, is accepted for
+submitted articles, both in Elseviers electronic submission
+system and elsewhere. It replaces the 10-year-old class elsart.
+
+date 2009-09-18 140148 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>lis-devel</b>'
+Comment='<span size="xx-large">Development headers and library for lis</span>'
+Comment3='
+Lis, a Library of Iterative Solvers for linear systems, is a scalable parallel
+library for solving systems of linear equations and standard eigenvalue
+problems with real sparse matrices using iterative methods.
+
+This package contains the development headers and library.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.ssisc.org/lis/index.en.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

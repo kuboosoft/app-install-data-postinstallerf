@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-linode-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-linode</span>'
+Comment3='
+This package contains documentation for rubygem-linode.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rick/linode'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

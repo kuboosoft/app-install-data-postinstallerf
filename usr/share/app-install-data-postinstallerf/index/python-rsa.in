@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-rsa</b>'
+Comment='<span size="xx-large">Pure-Python RSA implementation</span>'
+Comment3='
+Pure-Python RSA implementation
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://stuvel.eu/rsa'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

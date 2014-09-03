@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n tkcvs
+Version=1.0
+Type=Application
+Name=tkcvs
+GenericName=CVS/Subversion Frontend
+Comment=A graphical frontend to CVS and Subversion.
+Icon=/usr/share/app-install-data-postinstallerf/icons/tkcvs.png
+Categories=RevisionControl;Development;ProjectManagement;

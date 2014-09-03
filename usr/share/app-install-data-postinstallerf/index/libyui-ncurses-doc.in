@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libyui-ncurses-doc</b>'
+Comment='<span size="xx-large">Documentation files for libyui-ncurses</span>'
+Comment3='
+This package includes the developers documentation as HTML for libyui-ncurses.
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='https://github.com/libyui/libyui-ncurses'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

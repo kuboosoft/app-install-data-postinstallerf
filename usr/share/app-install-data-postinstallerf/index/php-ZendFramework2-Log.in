@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Log</b>'
+Comment='<span size="xx-large">Zend Framework 2: Log Component</span>'
+Comment3='
+Zend\Log\Logger is a component for general purpose logging. It supports multiple
+log backends, formatting messages sent to the log, and filtering messages from
+being logged. These functions are divided into the following objects
+
+* A Logger (instance of Zend\Log\Logger) is the object that your application
+  uses the most. You can have as many Logger objects as you like; they do not
+  interact. A Logger object must contain at least one Writer, and can optionally
+  contain one or more Filters.
+* A Writer (inherits from Zend\Log\Writer\AbstractWriter) is responsible for
+  saving data to storage.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.log.overview.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

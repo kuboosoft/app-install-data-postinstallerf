@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>collectd-web</b>'
+Comment='<span size="xx-large">Contrib web interface to viewing rrd files</span>'
+Comment3='
+This package will allow for a simple web interface to view rrd files created by
+collectd.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

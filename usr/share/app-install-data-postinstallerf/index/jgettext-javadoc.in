@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jgettext-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jgettext</span>'
+Comment3='
+This package contains the API documentation for jgettext.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://github.com/zanata/jgettext'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

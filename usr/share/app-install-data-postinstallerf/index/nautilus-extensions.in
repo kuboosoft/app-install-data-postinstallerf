@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nautilus-extensions</b>'
+Comment='<span size="xx-large">Nautilus extensions library</span>'
+Comment3='
+This package provides the libraries used by nautilus extensions.
+
+URL          http//projects.gnome.org/nautilus/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/nautilus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

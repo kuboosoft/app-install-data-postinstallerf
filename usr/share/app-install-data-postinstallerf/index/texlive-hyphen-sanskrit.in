@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-sanskrit</b>'
+Comment='<span size="xx-large">Sanskrit hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Sanskrit and Prakrit in
+transliteration, and in Devanagari, Bengali, Kannada, Malayalam
+and Telugu scripts for Unicode engines.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

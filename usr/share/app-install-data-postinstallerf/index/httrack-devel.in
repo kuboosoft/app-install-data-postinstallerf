@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>httrack-devel</b>'
+Comment='<span size="xx-large">Development files for httrack</span>'
+Comment3='
+The httrack-devel package contains libraries and header files for
+developing applications that use httrack.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.httrack.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

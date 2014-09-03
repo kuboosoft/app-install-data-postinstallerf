@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plasma-widget-menubar</b>'
+Comment='<span size="xx-large">Show window menubars</span>'
+Comment3='
+A Plasma widget to display the menubar of application windows.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://launchpad.net/plasma-widget-menubar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

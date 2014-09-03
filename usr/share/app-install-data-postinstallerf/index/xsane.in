@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xsane</b>'
+Comment='<span size="xx-large">X Window System front-end for the SANE scanner interface</span>'
+Comment3='
+XSane is an X based interface for the SANE (Scanner Access Now Easy)
+library, which provides access to scanners, digital cameras, and other
+capture devices. XSane is written in GTK+ and provides control for
+performing the scan and then manipulating the captured image.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xsane.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

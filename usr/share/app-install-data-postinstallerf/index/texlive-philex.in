@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-philex</b>'
+Comment='<span size="xx-large">Cross references for named and numbered environments</span>'
+Comment3='
+Philex provides means for creating and cross-referencing named
+or numbered environments. Possible uses would be equations,
+example sentences (as in linguistics or philosophy) or named
+principles. Cross references may refer either to the number, or
+to a short name of the target environment, or to the contents
+of the environment. Philex builds on the facilities of the
+linguex package.
+
+date 2013-09-21 124219 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

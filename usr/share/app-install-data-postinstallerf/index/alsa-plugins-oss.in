@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>alsa-plugins-oss</b>'
+Comment='<span size="xx-large">Oss PCM output plugin for ALSA</span>'
+Comment3='
+This plugin converts the ALSA API over OSS API.  With this plugin,
+ALSA native apps can run on OSS drivers.
+
+This plugin provides the PCM type "oss".
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

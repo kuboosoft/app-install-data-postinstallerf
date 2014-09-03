@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gl3n</b>'
+Comment='<span size="xx-large">An OpenGL Mathematics library for D</span>'
+Comment3='
+gl3n provides all the math you need to work with OpenGL, DirectX.
+Currently gl3n supports
+- linear algebra
++ vectors
++ matrices
++ quaternions
+- interpolation
++ linear interpolation (lerp)
++ spherical linear interpolation (slerp)
++ hermite interpolation
+'
+License='MIT'
+Screenshot=''
+Url='http://dav1d.bitbucket.org/gl3n/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

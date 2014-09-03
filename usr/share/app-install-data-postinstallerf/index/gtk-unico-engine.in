@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk-unico-engine</b>'
+Comment='<span size="xx-large">Unico Gtk+ theming engine</span>'
+Comment3='
+Unico is a Gtk+ engine that aims to be the more complete yet powerful theming
+engine for Gtk+ 3.0 and newer. It?s the first Gtk+ engine written with Gtk+
+style context APIs in mind, using CSS as first class citizen.
+'
+License='LGPLv2.1'
+Screenshot=''
+Url='https://launchpad.net/unico/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netcdf-cxx4-static</b>'
+Comment='<span size="xx-large">Static library for netCDF-4 C++ API</span>'
+Comment3='
+Static library for netCDF-4 C++ API.
+
+URL          http//www.unidata.ucar.edu/software/netcdf/
+'
+License='NetCDF'
+Screenshot=''
+Url='http://www.unidata.ucar.edu/software/netcdf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

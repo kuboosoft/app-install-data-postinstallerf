@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nhn-nanum-gothic-light-fonts</b>'
+Comment='<span size="xx-large">Nanum Gothic Light family of Korean TrueType fonts</span>'
+Comment3='
+Nanum Gothic Light is an addition to Korean "Nanum Gothic" font
+family.  It provides very thin glyphs which are useful for graphic
+designs in some cases.
+'
+License='OFL'
+Screenshot=''
+Url='http://hangeul.naver.com/light'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

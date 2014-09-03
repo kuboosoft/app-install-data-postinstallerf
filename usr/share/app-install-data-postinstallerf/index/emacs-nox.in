@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>emacs-nox</b>'
+Comment='<span size="xx-large">GNU Emacs text editor without X support</span>'
+Comment3='
+Emacs is a powerful, customizable, self-documenting, modeless text
+editor. Emacs contains special code editing features, a scripting
+language (elisp), and the capability to read mail, news, and more
+without leaving the editor.
+
+This package provides an emacs binary with no X windows support for running
+on a terminal.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/emacs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

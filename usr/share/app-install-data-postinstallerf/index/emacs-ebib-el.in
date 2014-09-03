@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>emacs-ebib-el</b>'
+Comment='<span size="xx-large">Elisp source files for Ebib under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for Ebib under GNU
+Emacs. You do not need to install this package to run Ebib. Install the
+emacs-ebib package to use Ebib with GNU Emacs.
+'
+License='BSD'
+Screenshot=''
+Url='http://ebib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

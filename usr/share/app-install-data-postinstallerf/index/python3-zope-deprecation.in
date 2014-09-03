@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-zope-deprecation</b>'
+Comment='<span size="xx-large">Zope 3 Deprecation Infrastructure</span>'
+Comment3='
+This package provides a simple function called deprecated(names, reason) to
+deprecate the previously mentioned Python objects.
+'
+License='ZPLv2.1'
+Screenshot=''
+Url='http://pypi.python.org/pypi/zope.deprecation'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

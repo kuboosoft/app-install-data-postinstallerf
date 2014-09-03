@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-wordwrap</b>'
+Comment='<span size="xx-large">Word wrapping library for node</span>'
+Comment3='
+Wrap those words. Show them at what columns to start and stop.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/substack/node-wordwrap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

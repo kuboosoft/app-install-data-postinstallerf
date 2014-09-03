@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>compat-gtkhtml314</b>'
+Comment='<span size="xx-large">GtkHTML library</span>'
+Comment3='
+GtkHTML is a lightweight HTML rendering/printing/editing engine.
+It was originally based on KHTMLW, but is now being developed
+independently of it.
+
+'
+License='LGPLv2+ and GPLv2'
+Screenshot=''
+Url='http://projects.gnome.org/evolution/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

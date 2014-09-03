@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libicns</b>'
+Comment='<span size="xx-large">Library for manipulating Macintosh icns files</span>'
+Comment3='
+libicns is a library providing functionality for easily reading and
+writing Macintosh icns files
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://icns.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

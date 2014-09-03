@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>elfutils-devel-static</b>'
+Comment='<span size="xx-large">Static archives to handle compiled objects</span>'
+Comment3='
+The elfutils-devel-static package contains the static archives
+with the code to handle compiled objects.
+
+'
+License='GPLv2+ or LGPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/elfutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

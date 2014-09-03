@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>compat-libmpc</b>'
+Comment='<span size="xx-large">compat/bootstrap mpc-0.9 library</span>'
+Comment3='
+compat/bootstrap mpc-0.9 library.
+
+URL          http//www.multiprecision.org/
+'
+License='LGPLv3+ and GFDL'
+Screenshot=''
+Url='http://www.multiprecision.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

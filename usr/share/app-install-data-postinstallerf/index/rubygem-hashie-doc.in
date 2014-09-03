@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-hashie-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-hashie</span>'
+Comment3='
+Documentation for rubygem-hashie
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/intridea/hashie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

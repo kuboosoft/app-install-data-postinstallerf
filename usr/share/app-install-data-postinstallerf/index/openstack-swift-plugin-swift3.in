@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openstack-swift-plugin-swift3</b>'
+Comment='<span size="xx-large">The swift3 plugin for Openstack Swift</span>'
+Comment3='
+The swift3 plugin permits accessing Openstack Swift via the
+Amazon S3 API.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/fujita/swift3'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

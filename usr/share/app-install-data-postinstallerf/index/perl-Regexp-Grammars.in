@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Regexp-Grammars</b>'
+Comment='<span size="xx-large">Add grammatical parsing features to perl regular expressions</span>'
+Comment3='
+This module adds a small number of new regular expressions constructs that
+can be used to implement complete recursive-descent parsing.
+
+These constructs use the grammar patterns that were added to perls
+regular expressions in perl 5.10.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Regexp-Grammars/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

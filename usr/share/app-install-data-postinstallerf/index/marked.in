@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>marked</b>'
+Comment='<span size="xx-large">A markdown parser for Node.js built for speed</span>'
+Comment3='
+marked is a full-featured markdown compiler that can parse huge chunks of
+markdown without having to worry about caching the compiled output or
+blocking for an unnecessarily long time.
+
+marked is extremely fast and frequently outperforms similar markdown parsers.
+marked is very concise and still implements all markdown features, as well
+as GitHub Flavored Markdown features.
+marked more or less passes the official markdown test suite in its entirety.
+This is important because a surprising number of markdown compilers cannot
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/chjj/marked'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

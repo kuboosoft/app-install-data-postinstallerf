@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tdb-tools</b>'
+Comment='<span size="xx-large">Developer tools for the Tdb library</span>'
+Comment3='
+Tools to manage Tdb files
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://tdb.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

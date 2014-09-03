@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-przechlewski-book</b>'
+Comment='<span size="xx-large">Examples from Przechlewskis LaTeX book</span>'
+Comment3='
+The bundle provides machine-readable copies of the examples
+from the book "Praca magisterska i dyplomowa z programem
+LaTeX".
+
+date 2011-08-14 211659 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

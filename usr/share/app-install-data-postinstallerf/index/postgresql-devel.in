@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>postgresql-devel</b>'
+Comment='<span size="xx-large">PostgreSQL development header files and libraries</span>'
+Comment3='
+The postgresql-devel package contains the header files and libraries
+needed to compile C or C++ applications which will directly interact
+with a PostgreSQL database management server.  It also contains the ecpg
+Embedded C Postgres preprocessor. You need to install this package if you want
+to develop applications which will interact with a PostgreSQL server.
+
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

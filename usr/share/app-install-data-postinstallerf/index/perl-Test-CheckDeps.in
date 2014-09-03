@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-CheckDeps</b>'
+Comment='<span size="xx-large">Check for presence of dependencies</span>'
+Comment3='
+This module adds a test that assures all dependencies have been installed
+properly. If requested, it can bail out all testing on error.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/Test-CheckDeps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

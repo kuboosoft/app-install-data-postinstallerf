@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-etoc</b>'
+Comment='<span size="xx-large">Completely customisable TOCs</span>'
+Comment3='
+The package gives the user complete control of how the entries
+of the table of contents should be constituted from the name,
+number, and page number of each sectioning unit. The layout is
+controlled by the definition of line styles for each
+sectioning level used in the document. The package provides its
+own custom line styles (which may be used as examples), and
+continues to support the standard formatting inherited from the
+LaTeX document classes, but the package can also allow the user
+to delegate the details to packages dealing with list making
+environments (such as enumitem). The packages default global
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>honeyd</b>'
+Comment='<span size="xx-large">Honeypot daemon</span>'
+Comment3='
+Honeyd is a small daemon that creates virtual hosts on a network.
+The hosts can be configured to run arbitrary services, and their
+TCP personality can be adapted so that they appear to be running
+certain versions of operating systems. Honeyd enables a single
+host to claim multiple addresses on a LAN for network simulation.
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://www.honeyd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

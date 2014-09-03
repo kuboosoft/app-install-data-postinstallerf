@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgxps-devel</b>'
+Comment='<span size="xx-large">Development files for libgxps</span>'
+Comment3='
+The libgxps-devel package contains libraries and header files for
+developing applications that use libgxps.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/libgxps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ViTables-doc</b>'
+Comment='<span size="xx-large">ViTables documentation and examples</span>'
+Comment3='
+This package contains the documentation and examples
+for ViTables
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.vitables.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

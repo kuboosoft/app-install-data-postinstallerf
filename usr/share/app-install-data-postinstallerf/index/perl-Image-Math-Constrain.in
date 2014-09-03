@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Image-Math-Constrain</b>'
+Comment='<span size="xx-large">Scaling math used in image size constraining (such as thumbnails)</span>'
+Comment3='
+There are a number of different modules and systems that constrain image
+sizes, such as thumbnailing. Every one of these independantly implement the
+same logic. That is, given a width and/or height constraint, they check to
+see if the image is bigger than the constraint, and if so scale the image
+down proportionally so that it fits within the constraints.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Image-Math-Constrain/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

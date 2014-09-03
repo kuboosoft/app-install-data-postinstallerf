@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>par</b>'
+Comment='<span size="xx-large">Paragraph reformatter, vaguely like fmt, but more elaborate</span>'
+Comment3='
+par is a filter which copies its input to its output, changing all
+white characters (except newlines) to spaces, and reformatting each
+paragraph.  Paragraphs are separated by protected, blank, and bodiless
+lines (see the man page Terminology section for definitions), and
+optionally delimited by indentation (see the d option in the Options
+section).  Each output paragraph is generated from the corresponding
+input paragraph as follows
+
+  1) An optional prefix and/or suffix is removed from each input line.
+  2) The remainder is divided into words (separated by spaces).
+'
+License='Par'
+Screenshot=''
+Url='http://www.nicemice.net/par/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

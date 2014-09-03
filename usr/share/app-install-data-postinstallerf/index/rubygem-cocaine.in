@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-cocaine</b>'
+Comment='<span size="xx-large">A small library for doing (command) lines</span>'
+Comment3='
+A small library for doing (command) lines
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/thoughtbot/cocaine'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

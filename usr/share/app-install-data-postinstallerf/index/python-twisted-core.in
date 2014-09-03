@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-twisted-core</b>'
+Comment='<span size="xx-large">Asynchronous networking framework written in Python</span>'
+Comment3='
+An extensible framework for Python programming, with special focus
+on event-based network programming and multiprotocol integration.
+
+It is expected that one day the project will expanded to the point
+that the framework will seamlessly integrate with mail, web, DNS,
+netnews, IRC, RDBMSs, desktop environments, and your toaster.
+Twisted Core is used by most of the servers, clients and protocols that are
+part of other Twisted projects.
+'
+License='MIT'
+Screenshot=''
+Url='http://twistedmatrix.com/trac/wiki/TwistedCore'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

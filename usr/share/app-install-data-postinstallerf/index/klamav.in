@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>klamav</b>'
+Comment='<span size="xx-large">Clam Anti-Virus on the KDE Desktop</span>'
+Comment3='
+ClamAV Anti-Virus protection for the KDE desktop.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://klamav.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

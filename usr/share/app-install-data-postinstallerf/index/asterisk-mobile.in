@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>asterisk-mobile</b>'
+Comment='<span size="xx-large">Mobile (BlueTooth) channel for Asterisk</span>'
+Comment3='
+Mobile (BlueTooth) channel for Asterisk.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.asterisk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>octave-communications</b>'
+Comment='<span size="xx-large">Communications for Octave</span>'
+Comment3='
+Digital Communications, Error Correcting Codes (Channel Code), Source Code
+functions, Modulation and Galois Fields
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://octave.sourceforge.net/communications/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

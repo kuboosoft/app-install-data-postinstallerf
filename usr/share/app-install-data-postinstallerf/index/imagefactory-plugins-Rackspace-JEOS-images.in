@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>imagefactory-plugins-Rackspace-JEOS-images</b>'
+Comment='<span size="xx-large">JEOS images for various OSes to support Rackspace snapshot builds</span>'
+Comment3='
+These configuration files point to existing JEOS Image IDs on Rackspace that
+can be used to do "snapshot" style builds.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.aeolusproject.org/imagefactory.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-DateTime-Format-Flexible</b>'
+Comment='<span size="xx-large">Flexibly parse strings and turn them into DateTime objects</span>'
+Comment3='
+If you have ever had to use a program that made you type in the date a certain
+way and thought "Why cant the computer just figure out what date I wanted?",
+this module is for you.
+
+DateTimeFormatFlexible attempts to take any string you give it and parse
+it into a DateTime object.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-Format-Flexible/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmlsec1-openssl-devel</b>'
+Comment='<span size="xx-large">OpenSSL crypto plugin for XML Security Library</span>'
+Comment3='
+Libraries, includes, etc. for developing XML Security applications with OpenSSL
+
+URL          http//www.aleksey.com/xmlsec/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.aleksey.com/xmlsec/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

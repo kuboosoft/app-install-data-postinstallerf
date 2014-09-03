@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-HTTP-CookieJar</b>'
+Comment='<span size="xx-large">Minimalist HTTP user agent cookie jar</span>'
+Comment3='
+This module implements a minimalist HTTP user agent cookie jar in
+conformance with RFC 6265.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-CookieJar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

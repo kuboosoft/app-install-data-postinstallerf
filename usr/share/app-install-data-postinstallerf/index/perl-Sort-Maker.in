@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Sort-Maker</b>'
+Comment='<span size="xx-large">Simple way to make efficient sort subs</span>'
+Comment3='
+This module has two main goals to make it easy to create correct sort
+functions, and to make it simple to select the optimum sorting algorithm
+for the number of items to be sorted. SortMaker generates complete sort
+subroutines in one of four styles, plain, orcish manouver, Schwartzian
+Transform and the Guttman-Rosler Transform. You can also get the source for
+a sort sub you create via the sorter_source call.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sort-Maker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fawkes-lua</b>'
+Comment='<span size="xx-large">Lua libraries and scripts for Fawkes</span>'
+Comment3='
+This package contains libraries to enable Lua usage from Fawkes as well as
+common Lua modules.
+
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

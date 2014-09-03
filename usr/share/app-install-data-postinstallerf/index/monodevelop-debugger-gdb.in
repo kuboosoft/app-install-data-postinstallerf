@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>monodevelop-debugger-gdb</b>'
+Comment='<span size="xx-large">MonoDevelop gdb Debugger Add-in</span>'
+Comment3='
+Mono gdb Debugger Add-in for MonoDevelop.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.monodevelop.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

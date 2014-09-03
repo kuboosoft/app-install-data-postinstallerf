@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tito</b>'
+Comment='<span size="xx-large">A tool for managing rpm based git projects</span>'
+Comment3='
+Tito is a tool for managing tarballs, rpms, and builds for projects using
+git.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://rm-rf.ca/tito'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

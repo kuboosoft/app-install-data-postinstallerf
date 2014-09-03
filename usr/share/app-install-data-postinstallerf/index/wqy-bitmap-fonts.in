@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wqy-bitmap-fonts</b>'
+Comment='<span size="xx-large">WenQuanYi Bitmap Chinese Fonts</span>'
+Comment3='
+WenQuanYi bitmap fonts include all 20,932 Unicode 5.2
+CJK Unified Ideographs (U4E00 - U9FA5) and 6,582
+CJK Extension A characters (U3400 - U4DB5) at
+5 different pixel sizes (9pt-12X12, 10pt-13X13,
+10.5pt-14x14, 11pt-15X15 and 12pt-16x16 pixel).
+Use of this bitmap font for on-screen display of Chinese
+(traditional and simplified) in web pages and elsewhere
+eliminates the annoying "blurring" problems caused by
+insufficient "hinting" of anti-aliased vector CJK fonts.
+In addition, Latin characters, Japanese Kanas and
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://wenq.org/enindex.cgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

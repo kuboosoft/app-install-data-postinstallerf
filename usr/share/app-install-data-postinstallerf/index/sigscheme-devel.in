@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sigscheme-devel</b>'
+Comment='<span size="xx-large">Development files for sigscheme</span>'
+Comment3='
+sigscheme is a R5RS Scheme interpreter that features small footprint,
+low memory consumption, multibytes characters handling and more.
+
+This package contains header files and development library.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/sigscheme/wiki/SigScheme'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Exec=postinstaller -n fontforge
+Name=FontForge
+Name[ru]=FontForge
+Name[fr]=FontForge
+Name[zh_TW]=字型鍛造廠
+Comment=An outline font editor
+Comment[ru]=Редактор шрифтов
+Comment[fr]=Un constructeur des polices
+Comment[zh_TW]=FontForge 描邊字型編輯器
+Comment[pl_PL]=Edytor fontów
+Icon=/usr/share/app-install-data-postinstallerf/icons/fontforge.png
+StartupWMClass=fontforge
+Terminal=false
+Type=Application
+Categories=Graphics;

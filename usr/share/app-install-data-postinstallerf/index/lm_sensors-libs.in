@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lm_sensors-libs</b>'
+Comment='<span size="xx-large">Lm_sensors core libraries</span>'
+Comment3='
+Core libraries for lm_sensors applications
+
+URL          http//www.lm-sensors.org/
+'
+License='LGPLv2+ and GPLv3+ and GPLv2+ and Verbatim and Public domain'
+Screenshot=''
+Url='http://www.lm-sensors.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

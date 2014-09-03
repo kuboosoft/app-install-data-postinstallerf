@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>junitperf-demo</b>'
+Comment='<span size="xx-large">Demos and samples for junitperf</span>'
+Comment3='
+Demos and samples for junitperf.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.clarkware.com/software/JUnitPerf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

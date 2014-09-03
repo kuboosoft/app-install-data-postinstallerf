@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>virt-viewer</b>'
+Comment='<span size="xx-large">Virtual Machine Viewer</span>'
+Comment3='
+Virtual Machine Viewer provides a graphical console client for connecting
+to virtual machines. It uses the GTK-VNC or SPICE-GTK widgets to provide
+the display, and libvirt for looking up VNC/SPICE server details.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://virt-manager.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

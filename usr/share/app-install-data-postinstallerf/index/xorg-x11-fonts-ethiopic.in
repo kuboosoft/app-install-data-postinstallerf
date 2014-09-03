@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xorg-x11-fonts-ethiopic</b>'
+Comment='<span size="xx-large">Ethiopic fonts</span>'
+Comment3='
+Ethiopic fonts which are part of the core X Window System distribution.
+'
+License='MIT and Lucida and Public Domain'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

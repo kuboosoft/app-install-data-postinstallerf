@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>soxr</b>'
+Comment='<span size="xx-large">The SoX Resampler library</span>'
+Comment3='
+The SoX Resampler library `libsoxr performs one-dimensional sample-rate
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://sourceforge.net/p/soxr/wiki/Home/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

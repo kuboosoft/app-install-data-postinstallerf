@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygems-devel</b>'
+Comment='<span size="xx-large">Macros and development tools for packagin RubyGems</span>'
+Comment3='
+Macros and development tools for packagin RubyGems.
+'
+License='Ruby or MIT'
+Screenshot=''
+Url='https://rubygems.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

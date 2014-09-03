@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libclc</b>'
+Comment='<span size="xx-large">An open source implementation of the OpenCL 1.1 library requirements</span>'
+Comment3='
+libclc is an open source, BSD licensed implementation of the library
+requirements of the OpenCL C programming language, as specified by the
+OpenCL 1.1 Specification. The following sections of the specification
+impose library requirements
+
+  * 6.1 Supported Data Types
+  * 6.2.3 Explicit Conversions
+  * 6.2.4.2 Reinterpreting Types Using as_type() and as_typen()
+  * 6.9 Preprocessor Directives and Macros
+  * 6.11 Built-in Functions
+'
+License='BSD'
+Screenshot=''
+Url='http://libclc.llvm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

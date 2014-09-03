@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>qutim-quetzal</b>'
+Comment='<span size="xx-large">Support of protocols from libpurple</span>'
+Comment3='
+Add support all protocols what libpurple support (Msn, Yahoo etc).
+
+It automatically use all configured in system accounts from IM which also use
+this library (f.e. Pidgin). So, using of such programs will mutial exclusion
+in runtime!
+'
+License='GPLv3+ and CC-BY-SA'
+Screenshot=''
+Url='http://www.qutim.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

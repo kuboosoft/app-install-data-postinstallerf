@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python3-django-federated-login</b>'
+Comment='<span size="xx-large">Provides federated logins to django projects</span>'
+Comment3='
+Django Federated Login provides an authentication bridge between
+Django projects and OpenID-enabled identity providers. The bridge is
+pre-wired to be used with a single Google Apps domain, but could be
+extended to be linked with other OpenID providers also. It is different
+from other OpenID consumers as this consumer only allows connecting to
+a pre-defined identity provider.
+
+The provided backend matches users based on the e-mail address returned
+from the identity provider. If no matching user could be found, a user
+account can optionally be created.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/Bouke/django-federated-login'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

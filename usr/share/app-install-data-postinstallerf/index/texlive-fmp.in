@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-fmp</b>'
+Comment='<span size="xx-large">Include Functional MetaPost in LaTeX</span>'
+Comment3='
+fmp package
+
+date 2007-01-04 004401 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

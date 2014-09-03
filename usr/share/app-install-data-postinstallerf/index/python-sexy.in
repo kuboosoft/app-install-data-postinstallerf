@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-sexy</b>'
+Comment='<span size="xx-large">Python bindings to libsexy</span>'
+Comment3='
+sexy-python is a set of Python bindings around libsexy.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.chipx86.com/wiki/Libsexy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libmatekeyring</b>'
+Comment='<span size="xx-large">Framework for managing passwords and other secrets</span>'
+Comment3='
+libmatekeyring is a program that keep password and other secrets for
+users. The library libmatekeyring is used by applications to integrate
+with the libmatekeyring system.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>revisor-gui</b>'
+Comment='<span size="xx-large">Revisor GUI</span>'
+Comment3='
+This is the Revisor GUI package
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fedorahosted.org/revisor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

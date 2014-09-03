@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gsettings-desktop-schemas-devel</b>'
+Comment='<span size="xx-large">Development files for gsettings-desktop-schemas</span>'
+Comment3='
+The gsettings-desktop-schemas-devel package contains libraries
+and header files for developing applications that use gsettings-desktop-schemas.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://bugzilla.gnome.org/enter_bug.cgi?product=gsettings-desktop-schemas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

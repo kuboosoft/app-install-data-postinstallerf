@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-kgio-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-kgio</span>'
+Comment3='
+Documentation for rubygem-kgio
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='http://bogomips.org/kgio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

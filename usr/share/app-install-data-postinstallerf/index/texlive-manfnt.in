@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-manfnt</b>'
+Comment='<span size="xx-large">LaTeX support for the TeX book symbols</span>'
+Comment3='
+A LaTeX package for easy access to the symbols of the Knuths
+manual font, such as the Dangerous Bend and Manual-errata
+Arrow.
+
+date 2007-01-02 144333 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

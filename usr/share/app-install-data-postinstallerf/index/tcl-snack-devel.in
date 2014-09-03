@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tcl-snack-devel</b>'
+Comment='<span size="xx-large">Development files for Snack Sound Toolkit</span>'
+Comment3='
+This package contains development files for the Snack Sound Toolkit.
+
+URL          http//www.speech.kth.se/snack/
+'
+License='GPLv2+ and TCL'
+Screenshot=''
+Url='http://www.speech.kth.se/snack/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>powertop</b>'
+Comment='<span size="xx-large">Power consumption monitor</span>'
+Comment3='
+PowerTOP is a tool that finds the software component(s) that make your
+computer use more power than necessary while it is idle.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://01.org/powertop/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

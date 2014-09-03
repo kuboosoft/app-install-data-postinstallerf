@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ocaml-p3l</b>'
+Comment='<span size="xx-large">OCaml compiler for parallel programs</span>'
+Comment3='
+OCamlP3l is a compiler for Caml parallel programs.
+
+The OCamlP3l programming paradigm is skeleton programming. The
+skeletons encapsulate basic parallel programming patterns in a well
+understood and structured approach. Based on P3L, the Pisa Parallel
+Programming Language, OCamlP3l skeleton algebra is embedded in a
+full-fledged functional programming language, namely Objective Caml.
+The skeleton programming approach used in OCamlP3l allows three
+different operational interpretations of the same source program
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://ocamlp3l.inria.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

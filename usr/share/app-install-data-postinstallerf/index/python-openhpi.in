@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-openhpi</b>'
+Comment='<span size="xx-large">Python interface for OpenHPI</span>'
+Comment3='
+An extension module that makes it possible to access
+HPI api functions and structures from the Python language.
+
+It supports everything that is exposed through SaHpi.h,
+SaHpiAtca.h, SaHpiBladeCenter.h, oHpi.h, and oh_utils.h.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openhpi.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

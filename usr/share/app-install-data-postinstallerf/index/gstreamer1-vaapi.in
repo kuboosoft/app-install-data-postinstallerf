@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gstreamer1-vaapi</b>'
+Comment='<span size="xx-large">GStreamer plugins to use VA API video acceleration</span>'
+Comment3='
+
+A collection of GStreamer plugins to let you make use of VA API video
+acceleration from GStreamer applications.
+Includes elements for video decoding, display, encoding and post-processing
+using VA API (subject to hardware limitations).
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://gitorious.org/vaapi/gstreamer-vaapi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

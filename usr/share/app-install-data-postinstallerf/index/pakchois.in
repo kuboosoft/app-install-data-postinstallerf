@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pakchois</b>'
+Comment='<span size="xx-large">A wrapper library for PKCS#11</span>'
+Comment3='
+pakchois is just another PKCS#11 wrapper library. pakchois aims to
+provide a thin wrapper over the PKCS#11 interface; offering a
+modern object-oriented C interface which does not hide any of the
+underlying interface, and avoids dependencies on any cryptography
+toolkit.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.manyfish.co.uk/pakchois/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

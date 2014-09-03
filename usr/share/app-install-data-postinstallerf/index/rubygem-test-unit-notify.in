@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-test-unit-notify</b>'
+Comment='<span size="xx-large">Test::Unit::Notify - A test result notify extension for Test::Unit</span>'
+Comment3='
+TestUnitNotify - A test result notify extension for TestUnit.
+'
+License='LGPLv2+ and (LGPLv2+ or GFDL or CC-BY-SA)'
+Screenshot=''
+Url='http://rubyforge.org/projects/test-unit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

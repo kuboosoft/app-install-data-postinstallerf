@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-MAPI</b>'
+Comment='<span size="xx-large">The Python MAPI extension by Zarafa</span>'
+Comment3='
+The python-MAPI package contains the Python MAPI extension to provide the
+access to Microsoft MAPI functions while using Python. Using this Python
+MAPI extension, developers can create Python programs which use MAPI calls
+to interact with Zarafa.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

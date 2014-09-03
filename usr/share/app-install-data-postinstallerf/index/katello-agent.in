@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>katello-agent</b>'
+Comment='<span size="xx-large">The Katello Agent</span>'
+Comment3='
+Provides plugin for gofer, which allows communicating with Katello server
+and execute scheduled actions.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/katello/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xoo</b>'
+Comment='<span size="xx-large">Xoo is a graphical wrapper around xnest</span>'
+Comment3='
+Xoo is a graphical wrapper around Xnest/Xephyr, the nested X server. You can
+make Xnest look like a particular devices display and set up buttons on that
+device. This is useful for embedded developers who want to simulate a target
+device on their desktop machine.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.o-hand.com/xoo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

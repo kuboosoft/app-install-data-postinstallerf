@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libart_lgpl</b>'
+Comment='<span size="xx-large">Library of graphics routines used by libgnomecanvas</span>'
+Comment3='
+Graphics routines used by the GnomeCanvas widget and some other
+applications. libart renders vector paths and the like.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

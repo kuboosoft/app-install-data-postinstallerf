@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-logical-markup-utils</b>'
+Comment='<span size="xx-large">Packages for language-dependent inline quotes and dashes</span>'
+Comment3='
+The bundle contains two packages - quoted, for inserting
+quotation marks; and - onedash, for inserting dashes. Each
+package takes a language name as an option; accepted language
+options are american, british, german and polish.
+
+date 2009-11-09 230500 +0100
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

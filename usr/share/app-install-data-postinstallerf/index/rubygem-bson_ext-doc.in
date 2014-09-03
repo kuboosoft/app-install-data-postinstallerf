@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-bson_ext-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-bson_ext</span>'
+Comment3='
+Documentation for rubygem-bson_ext
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.mongodb.org/display/DOCS/BSON'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

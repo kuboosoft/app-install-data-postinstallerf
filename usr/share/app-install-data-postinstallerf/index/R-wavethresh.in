@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-wavethresh</b>'
+Comment='<span size="xx-large">R module, Software to perform wavelet statistics and transforms</span>'
+Comment3='
+Software to perform 1-d and 2-d wavelet statistics and transforms
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/wavethresh/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

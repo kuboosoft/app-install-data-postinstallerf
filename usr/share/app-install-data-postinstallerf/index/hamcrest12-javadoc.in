@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hamcrest12-javadoc</b>'
+Comment='<span size="xx-large">API documentation for hamcrest12</span>'
+Comment3='
+API documentation for hamcrest12.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/hamcrest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

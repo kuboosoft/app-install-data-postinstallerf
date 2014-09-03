@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kmod-ndiswrapper</b>'
+Comment='<span size="xx-large">Metapackage which tracks in ndiswrapper kernel module for newest kernel</span>'
+Comment3='
+This is a meta-package without payload which sole purpose is to require the
+ndiswrapper kernel module(s) for the newest kernel.
+to make sure you get it together with a new kernel.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ndiswrapper.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

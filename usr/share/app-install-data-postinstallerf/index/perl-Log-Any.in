@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Log-Any</b>'
+Comment='<span size="xx-large">Bringing loggers and listeners together</span>'
+Comment3='
+LogAny allows CPAN modules to safely and efficiently log messages, while
+letting the application choose (or decline to choose) a logging mechanism
+such as LogDispatch or LogLog4perl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Log-Any/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

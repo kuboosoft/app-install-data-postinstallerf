@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openscap-python</b>'
+Comment='<span size="xx-large">Python bindings for openscap</span>'
+Comment3='
+The openscap-python package contains the bindings so that openscap
+libraries can be used by python.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.open-scap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

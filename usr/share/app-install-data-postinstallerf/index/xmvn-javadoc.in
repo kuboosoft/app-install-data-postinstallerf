@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmvn-javadoc</b>'
+Comment='<span size="xx-large">API documentation for xmvn</span>'
+Comment3='
+This package provides API documentation for xmvn.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mizdebsk.fedorapeople.org/xmvn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

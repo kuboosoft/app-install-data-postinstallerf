@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-pst-fill</b>'
+Comment='<span size="xx-large">Fill or tile areas with PSTricks</span>'
+Comment3='
+Pst-fill is a PSTricks-based package for filling and tiling
+areas or characters.
+
+date 2007-03-11 153931 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

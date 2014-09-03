@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>pidgin-sipe</b>'
+Comment='<span size="xx-large">Pidgin protocol plugin to connect to MS Office Communicator</span>'
+Comment3='
+A third-party plugin for the Pidgin multi-protocol instant messenger.
+It implements the extended version of SIP/SIMPLE used by various products
+
+    * Microsoft Office 365
+    * Microsoft Business Productivity Online Suite (BPOS)
+    * Microsoft Lync Server
+    * Microsoft Office Communications Server (OCS 2007/2007 R2)
+    * Microsoft Live Communications Server (LCS 2003/2005)
+    * Reuters Messaging
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sipe.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jacknativeclient</b>'
+Comment='<span size="xx-large">Java bindings for JACK clients</span>'
+Comment3='
+This package exposes the JACK audio interface to Java clients.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://github.com/nettoyeurny/jacknativeclient/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

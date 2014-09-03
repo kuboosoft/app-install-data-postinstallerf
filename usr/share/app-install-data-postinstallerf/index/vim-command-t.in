@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>vim-command-t</b>'
+Comment='<span size="xx-large">An extremely fast, intuitive mechanism for opening files in VIM</span>'
+Comment3='
+The Command-T plug-in for VIM provides an extremely fast, intuitive mechanism
+for opening files with a minimal number of keystrokes. Its named "Command-T"
+because it is inspired by the "Go to File" window bound to Command-T
+in TextMate.
+
+Files are selected by typing characters that appear in their paths, and are
+ordered by an algorithm which knows that characters that appear in certain
+locations (for example, immediately after a path separator) should be given
+more weight.
+'
+License='BSD'
+Screenshot=''
+Url='https://wincent.com/products/command-t'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xhtml2ps</b>'
+Comment='<span size="xx-large">GUI front-end for html2ps</span>'
+Comment3='
+X-html2ps is freely-available GUI front-end for html2ps, a HTML-to-PostScript
+converter.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://user.it.uu.se/~jan/html2ps.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

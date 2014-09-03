@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nodejs-mapnik-vector-tile</b>'
+Comment='<span size="xx-large">Mapnik API for working with vector tiles</span>'
+Comment3='
+A high performance library for working with vector tiles from the
+team at MapBox.
+
+Provides C++ headers that support rendering geodata into vector tiles
+and rendering vector tiles into images.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/mapbox/mapnik-vector-tile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

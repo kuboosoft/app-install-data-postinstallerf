@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jmol-doc</b>'
+Comment='<span size="xx-large">Documentation for jmol</span>'
+Comment3='
+The documentation for jmol.
+'
+License='LGPLv2+ and IJG and BSD'
+Screenshot=''
+Url='http://jmol.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

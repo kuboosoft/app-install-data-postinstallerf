@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-formatador</b>'
+Comment='<span size="xx-large">Ruby STDOUT text formatting</span>'
+Comment3='
+STDOUT text formatting
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/geemus/formatador'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

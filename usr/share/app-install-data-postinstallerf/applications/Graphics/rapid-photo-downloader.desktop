@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n rapid-photo-downloader
+Version=1.0
+Name=Rapid Photo Downloader
+GenericName=Rapid Photo Downloader
+Comment=Download photos and videos from cameras, memory cards and Portable Storage Devices
+Icon=/usr/share/app-install-data-postinstallerf/icons/rapid-photo-downloader.png
+Terminal=false
+Type=Application
+Categories=Graphics;Photography;

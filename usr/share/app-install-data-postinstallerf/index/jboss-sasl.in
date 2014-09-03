@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-sasl</b>'
+Comment='<span size="xx-large">SASL Provider for J2SE</span>'
+Comment3='
+This package contains SASL Provider for J2SE
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/jboss-remoting/jboss-sasl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

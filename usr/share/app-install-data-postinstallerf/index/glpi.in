@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>glpi</b>'
+Comment='<span size="xx-large">Free IT asset management software</span>'
+Comment3='
+GLPI is the Information Resource-Manager with an additional Administration-
+Interface. You can use it to build up a database with an inventory for your
+company (computer, software, printers...). It has enhanced functions to make
+the daily life for the administrators easier, like a job-tracking-system with
+mail-notification and methods to build a database with basic information
+about your network-topology.
+'
+License='GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://www.glpi-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>hibernate-hql</b>'
+Comment='<span size="xx-large">Hibernate Query Parser</span>'
+Comment3='
+Experimental new parser for HQL and JP-QL queries, to convert these into SQL
+and other different targets such as Lucene queries, Map/Reduce queries for
+NoSQL stores, make it possible to perform more sophisticated SQL
+transformations.
+'
+License='LGPLv2 and ASL 2.0'
+Screenshot=''
+Url='https://github.com/hibernate/hibernate-hql-parser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

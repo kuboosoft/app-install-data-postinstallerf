@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pear-HTTP</b>'
+Comment='<span size="xx-large">Miscellaneous HTTP utilities</span>'
+Comment3='
+The HTTP class is a class with static methods for doing
+miscellaneous HTTP related stuff like date formatting,
+language negotiation or HTTP redirection.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/HTTP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

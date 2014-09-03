@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>feclipse-maven-plugin</b>'
+Comment='<span size="xx-large">Eclipse repo2runnable Maven Mojo</span>'
+Comment3='
+A Maven plugin that transform Eclipse P2 repository into a runnable form,
+so the repository can be put into dropins folder.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

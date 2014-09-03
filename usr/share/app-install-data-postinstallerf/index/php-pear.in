@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear</b>'
+Comment='<span size="xx-large">PHP Extension and Application Repository framework</span>'
+Comment3='
+PEAR is a framework and distribution system for reusable PHP
+components.  This package contains the basic PEAR components.
+'
+License='BSD and PHP and LGPLv2+'
+Screenshot=''
+Url='http://pear.php.net/package/PEAR'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

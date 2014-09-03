@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mingw64-fftw-static</b>'
+Comment='<span size="xx-large">MinGW Fast Fourier Transform library</span>'
+Comment3='
+This package contains the MinGW win64 port of the FFTW library.
+
+FFTW is a C subroutine library for computing the Discrete Fourier
+Transform (DFT) in one or more dimensions, of both real and complex
+data, and of arbitrary input size.
+This package contains static cross-compiled library
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fftw.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

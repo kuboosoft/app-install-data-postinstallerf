@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sagemath-sagetex</b>'
+Comment='<span size="xx-large">Sagemath into LaTeX documents</span>'
+Comment3='
+This is the SageTeX package. It allows you to embed code, results of
+computations, and plots from the Sage mathematics software suite
+(http//sagemath.org) into LaTeX documents.
+'
+License='ASL 2.0 and BSD and GPL+ and GPLv2+ and LGPLv2+ and MIT and Public Domain'
+Screenshot=''
+Url='http://www.sagemath.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

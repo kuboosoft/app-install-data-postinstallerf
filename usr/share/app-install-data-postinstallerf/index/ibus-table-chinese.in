@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ibus-table-chinese</b>'
+Comment='<span size="xx-large">Chinese input tables for IBus</span>'
+Comment3='
+ibus-table-chinese is provides the infrastructure for Chinese input methods.
+Input tables themselves are in sub-packages.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

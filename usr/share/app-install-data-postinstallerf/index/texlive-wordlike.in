@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-wordlike</b>'
+Comment='<span size="xx-large">Simulating word processor layout</span>'
+Comment3='
+The package simulates typical word processor layout narrow
+page margins, Times, Helvetica and Courier fonts, \LARGE or
+\Large headings, and \sloppy typesetting. The package aims at
+making life easier for users who are discontent with LaTeXs
+standard layout settings because they need a layout that
+resembles the usual "wordlike" output. The design of the
+package draws on several discussions in the de.comp.text.tex
+and comp.text.tex newsgroups that are referred to in the
+manual.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

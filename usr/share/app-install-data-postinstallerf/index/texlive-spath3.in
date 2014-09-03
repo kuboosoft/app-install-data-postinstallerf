@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-spath3</b>'
+Comment='<span size="xx-large">Manipulate "soft paths" in PGF</span>'
+Comment3='
+The spath3 library provides methods for manipulating the "soft
+paths" of TikZ/PGF. Packaged with it are two TikZ libraries
+that make use of the methods provided. These are libraries for
+drawing calligraphic paths and for drawing knot diagrams.
+
+date 2013-04-12 175637 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

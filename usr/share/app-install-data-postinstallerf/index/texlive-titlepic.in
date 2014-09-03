@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-titlepic</b>'
+Comment='<span size="xx-large">Add picture to title page of a document</span>'
+Comment3='
+The package allows you to place a picture on the title page
+(cover page) of a LaTeX document. Example of usage
+\usepackage[cc]{titlepic} \usepackage{graphicx}
+\titlepic{\includegraphics[width=\textwidth]{picture.png}} The
+package currently only works with the document classes article,
+report and book.
+
+date 2009-11-10 085014 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

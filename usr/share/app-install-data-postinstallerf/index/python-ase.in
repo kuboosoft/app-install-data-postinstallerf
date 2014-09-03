@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-ase</b>'
+Comment='<span size="xx-large">Atomic Simulation Environment</span>'
+Comment3='
+The Atomic Simulation Environment (ASE) is the common part of the simulation
+tools developed at CAMd. ASE provides Python modules for manipulating atoms,
+analyzing simulations, visualization etc.
+'
+License='LGPLv2+ and MIT'
+Screenshot=''
+Url='https://wiki.fysik.dtu.dk/ase/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

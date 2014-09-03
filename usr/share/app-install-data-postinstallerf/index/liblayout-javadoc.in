@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>liblayout-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for liblayout</span>'
+Comment3='
+Javadoc for liblayout.
+'
+License='LGPLv2+ and UCD'
+Screenshot=''
+Url='http://reporting.pentaho.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

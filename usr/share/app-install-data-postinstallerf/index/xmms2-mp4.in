@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmms2-mp4</b>'
+Comment='<span size="xx-large">XMMS2 Plugin for MP4 audio</span>'
+Comment3='
+An XMMS2 Plugin for listening to MP4 audio files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

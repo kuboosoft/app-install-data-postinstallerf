@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mozilla-esteid</b>'
+Comment='<span size="xx-large">Estonian ID card Mozilla extension</span>'
+Comment3='
+esteid-browser-plugin is cross-browser plugin exposing Estonian eID cards
+digital signing functions in JavaScript. Digital signing is a common operation
+on Estonian electronic bank sites. To protect privacy, the plugin only allows
+access for web sites in an editable whitelist.
+
+This package contains the Estonian ID card digital signing extension for
+Firefox and Thunderbird.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/esteid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

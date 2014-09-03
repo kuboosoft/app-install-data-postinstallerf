@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>freewrl-devel</b>'
+Comment='<span size="xx-large">Development files for FreeWRL</span>'
+Comment3='
+Development libraries and headers for FreeWRL.
+
+URL          http//freewrl.sourceforge.net
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://freewrl.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

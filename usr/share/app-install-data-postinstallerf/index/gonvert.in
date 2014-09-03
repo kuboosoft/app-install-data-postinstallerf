@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gonvert</b>'
+Comment='<span size="xx-large">Units conversion utility</span>'
+Comment3='
+gonvert is a conversion utility that allows conversion between many units
+like CGS, Ancient, Imperial with many categories like length, mass, numbers,
+etc. All units converted values shown at once as you type. Easy to add/change
+your own units. Written in Python, pygtk, libglade.
+'
+License='GPL+'
+Screenshot=''
+Url='http://unihedron.com/projects/gonvert'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

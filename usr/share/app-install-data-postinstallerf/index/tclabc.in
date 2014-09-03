@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tclabc</b>'
+Comment='<span size="xx-large">A Tcl interface and a Tk GUI to the ABC notation</span>'
+Comment3='
+Tclabc is designed to help on writing music in ABC notation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://moinejf.free.fr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

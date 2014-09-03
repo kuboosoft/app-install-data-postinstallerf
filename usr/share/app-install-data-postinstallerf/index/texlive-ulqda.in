@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-ulqda</b>'
+Comment='<span size="xx-large">Support of Qualitative Data Analysis</span>'
+Comment3='
+The package is for use in Qualitative Data Analysis research.
+It supports the integration of Qualitative Data Analysis (QDA)
+research tasks, specifically for Grounded Theory, into the
+LaTeX work flow. It assists in the analysis of textual data
+such as interview transcripts and field notes by providing the
+LaTeX user with macros which are used to markup textual
+
+date 2009-11-10 090049 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

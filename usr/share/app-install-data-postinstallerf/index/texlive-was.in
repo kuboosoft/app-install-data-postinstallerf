@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-was</b>'
+Comment='<span size="xx-large">A collection of small packages by Walter Schmidt</span>'
+Comment3='
+A bundle of packages that arise in the authors area of
+interest - compliance of maths typesetting with ISO standards;
+- symbols that work in both maths and text modes; - commas for
+both decimal separator and maths; and - upright Greek letters
+in maths.
+
+date 2011-02-15 103356 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gnusim8085</b>'
+Comment='<span size="xx-large">Graphical simulator for 8085 assembly language</span>'
+Comment3='
+GNUSim8085 is a graphical simulator for Intel 8085
+microprocessor assembly language. It has some very
+nice features including a keypad which can be used
+to write assembly language programs with much ease.
+It also has stack, memory and port viewers which
+can be used for debugging the programs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnusim8085.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

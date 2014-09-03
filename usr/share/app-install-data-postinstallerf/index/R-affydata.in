@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>R-affydata</b>'
+Comment='<span size="xx-large">Affymetrix data for demonstration purpose</span>'
+Comment3='
+Example data sets of a slightly large size. They represent real world
+examples, unlike the artificial examples included in the package affy.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bioconductor.org/packages/release/data/experiment/html/affydata.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

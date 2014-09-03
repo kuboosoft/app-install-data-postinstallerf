@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gv</b>'
+Comment='<span size="xx-large">A X front-end for the Ghostscript PostScript(TM) interpreter</span>'
+Comment3='
+GNU gv is a user interface for the Ghostscript PostScript(TM) interpreter.
+Gv can display PostScript and PDF documents on an X Window System.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/gv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>iscsi-initiator-utils</b>'
+Comment='<span size="xx-large">iSCSI daemon and utility programs</span>'
+Comment3='
+The iscsi package provides the server daemon for the iSCSI protocol,
+as well as the utility programs used to manage it. iSCSI is a protocol
+for distributed disk access using SCSI commands sent over Internet
+Protocol networks.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.open-iscsi.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Gtk2-Spell</b>'
+Comment='<span size="xx-large">Gtk2::Spell perl module</span>'
+Comment3='
+Perl bindings to GtkSpell, used in concert with Gtk2TextView. Provides
+mis-spelled word highlighting in red and offers a right click pop-up menu with
+suggested corrections.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Gtk2-Spell/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

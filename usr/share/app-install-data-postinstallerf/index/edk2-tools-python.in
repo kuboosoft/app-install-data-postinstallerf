@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>edk2-tools-python</b>'
+Comment='<span size="xx-large">EFI Development Kit II Tools</span>'
+Comment3='
+This package provides tools that are needed to build EFI executables
+and ROMs using the GNU tools.  You do not need to install this package;
+you probably want to install edk2-tools only.
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=EDK2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

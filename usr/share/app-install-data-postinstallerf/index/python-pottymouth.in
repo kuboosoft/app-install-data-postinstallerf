@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-pottymouth</b>'
+Comment='<span size="xx-large">Transform unstructured, untrusted text to safe, valid XHTML</span>'
+Comment3='
+PottyMouth transforms completely unstructured and untrusted text to
+valid, nice-looking, completely safe XHTML
+
+PottyMouth is designed to handle input text
+from non-technical, potentially careless or malicious users
+It produces HTML that is completely safe,
+programmatically and visually, to include on any web page
+And you dont need to make your users read any instructions
+before they start typing
+They dont even need to know that
+'
+License='BSD'
+Screenshot=''
+Url='http://glyphobet.net/pottymouth/dist/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

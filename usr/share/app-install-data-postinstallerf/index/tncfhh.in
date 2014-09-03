@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>tncfhh</b>'
+Comment='<span size="xx-large">An open source implementation of the Trusted Network Connect (TNC) framework</span>'
+Comment3='
+The TNC@FHH project is an open source implementation of the Trusted Network
+Connect (TNC) framework, which is specified by the Trusted Computing Group
+(TCG). TNC@FHH allows you to provision access to a network based upon
+factors like the user credentials and the requesting endpoints integrity state.
+
+The following TNC components and their respective interfaces are implemented by
+TNC@FHH IMCs (IF-IMC 1.2), IMVs (IF-IMV 1.2), TNCS (IF-TNCCS 1.1),
+NAA (IF-T EAP 1.1).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://trust.inform.fh-hannover.de/joomla/index.php/projects/tncfhh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

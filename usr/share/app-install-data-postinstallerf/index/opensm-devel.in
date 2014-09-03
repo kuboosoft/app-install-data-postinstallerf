@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opensm-devel</b>'
+Comment='<span size="xx-large">Development files for the opensm-libs libraries</span>'
+Comment3='
+Development environment for the opensm libraries
+
+URL          http//www.openfabrics.org/
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

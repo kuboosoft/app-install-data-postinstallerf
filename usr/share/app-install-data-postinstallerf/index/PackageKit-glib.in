@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PackageKit-glib</b>'
+Comment='<span size="xx-large">GLib libraries for accessing PackageKit</span>'
+Comment3='
+GLib libraries for accessing PackageKit.
+
+URL          http//www.packagekit.org
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

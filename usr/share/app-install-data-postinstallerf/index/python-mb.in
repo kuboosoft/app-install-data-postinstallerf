@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-mb</b>'
+Comment='<span size="xx-large">Python module used by the MirrorBrain commandline tools</span>'
+Comment3='
+MirrorBrain is a scalable download redirector.
+
+This package contains a Python module (named "mb") for easily maintaining
+MirrorBrain.
+'
+License='ASL 2.0 and GPLv2'
+Screenshot=''
+Url='http://mirrorbrain.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

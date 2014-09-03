@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-MIME-Lite-HTML</b>'
+Comment='<span size="xx-large">Provide routine to transform a HTML page in a MIME-Lite mail</span>'
+Comment3='
+This module is a Perl mail client interface for sending message that
+support HTML format and build them for you.. This module provides routine to
+transform an HTML page in a MIMELite mail. So you need this module to use
+MIME-Lite-HTML possibilities.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MIME-Lite-HTML/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

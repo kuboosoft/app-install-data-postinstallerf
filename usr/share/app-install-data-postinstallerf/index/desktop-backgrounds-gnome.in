@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>desktop-backgrounds-gnome</b>'
+Comment='<span size="xx-large">The default Fedora wallpaper from GNOME desktop</span>'
+Comment3='
+The desktop-backgrounds-gnome package sets default background in gnome.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

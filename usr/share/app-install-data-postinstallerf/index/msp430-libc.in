@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>msp430-libc</b>'
+Comment='<span size="xx-large">C library for use with GCC on Texas Instruments MSP430 microcontrollers</span>'
+Comment3='
+A C library for use on Texas Instruments MSP430 microcontrollers with
+the mspgcc toolchain.
+'
+License='BSD'
+Screenshot=''
+Url='http://mspgcc.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

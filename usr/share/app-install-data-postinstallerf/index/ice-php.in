@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ice-php</b>'
+Comment='<span size="xx-large">PHP runtime for developping Ice applications</span>'
+Comment3='
+The Ice runtime for PHP applications.
+
+URL          http//www.zeroc.com/
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://www.zeroc.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

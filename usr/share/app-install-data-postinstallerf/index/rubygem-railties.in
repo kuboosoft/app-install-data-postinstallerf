@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rubygem-railties</b>'
+Comment='<span size="xx-large">Tools for creating, working with, and running Rails applications</span>'
+Comment3='
+Rails internals application bootup, plugins, generators, and rake tasks.
+Railties is responsible to glue all frameworks together. Overall, it
+* handles all the bootstrapping process for a Rails application;
+* manager rails command line interface;
+* provides Rails generators core;
+'
+License='MIT and GPL+'
+Screenshot=''
+Url='http://www.rubyonrails.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

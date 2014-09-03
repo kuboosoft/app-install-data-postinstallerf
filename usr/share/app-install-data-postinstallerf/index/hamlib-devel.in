@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hamlib-devel</b>'
+Comment='<span size="xx-large">Development library to control radio transceivers and receivers</span>'
+Comment3='
+Hamlib radio control library C development headers and libraries
+for building C applications with Hamlib.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://hamlib.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

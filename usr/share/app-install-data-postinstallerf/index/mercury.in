@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mercury</b>'
+Comment='<span size="xx-large">Replacement for the Maven Artifact subsystem</span>'
+Comment3='
+Maven Mercury is a replacement for the Maven Artifact subsystem, and a
+complete replacement for the HTTP/HTTPS/DAV/DAVS portions of the existing
+transport.
+
+This package only contains Logging, Artifact, External Dependencies and
+Event Framework. Transports, Mercury Repositories, Crypto, Metadata, Ant
+Tasks, Shared Utilities, Maven resolusion comparison, Wagon provider
+and Plexus Component are not provided.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/mercury/mercury-artifact/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

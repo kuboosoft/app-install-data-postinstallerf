@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openlmi-scripts-storage</b>'
+Comment='<span size="xx-large">Client scripts for OpenLMI Storage provider</span>'
+Comment3='
+This packages contains client side python library for OpenLMI Storage
+provider and command line wrapper.
+'
+License='BSD'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

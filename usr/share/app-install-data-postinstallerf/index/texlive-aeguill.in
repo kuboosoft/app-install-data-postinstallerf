@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-aeguill</b>'
+Comment='<span size="xx-large">Add several kinds of guillemets to the ae fonts</span>'
+Comment3='
+The package enables the user to add guillemets from several
+source (Polish cmr, Cyrillic cmr, lasy and ec) to the ae fonts.
+This was useful when the ae fonts were used to produce PDF
+files, since the additional guillemets exist in fonts available
+in Adobe Type 1 format.
+
+date 2009-04-30 003208 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

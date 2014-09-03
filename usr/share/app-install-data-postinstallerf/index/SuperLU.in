@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>SuperLU</b>'
+Comment='<span size="xx-large">Subroutines to solve sparse linear systems</span>'
+Comment3='
+SuperLU contains a set of subroutines to solve a sparse linear system
+A*X=B. It uses Gaussian elimination with partial pivoting (GEPP).
+The columns of A may be preordered before factorization; the
+preordering for sparsity is completely separate from the factorization.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://crd-legacy.lbl.gov/~xiaoye/SuperLU/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

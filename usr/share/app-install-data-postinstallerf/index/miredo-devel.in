@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>miredo-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development documentation for miredo</span>'
+Comment3='
+This package contains the header files, development libraries and development
+documentation for miredo. If you would like to develop programs using miredo,
+you will need to install miredo-devel.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.remlab.net/miredo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

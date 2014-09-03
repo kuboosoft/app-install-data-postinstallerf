@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libXdmcp</b>'
+Comment='<span size="xx-large">X Display Manager Control Protocol library</span>'
+Comment3='
+X Display Manager Control Protocol library.
+
+URL          http//www.x.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

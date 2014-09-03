@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-mail</b>'
+Comment='<span size="xx-large">Mail provides a nice Ruby DSL for making, sending and reading emails</span>'
+Comment3='
+A really Ruby Mail handler.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/mikel/mail'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

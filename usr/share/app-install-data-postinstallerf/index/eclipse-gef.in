@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>eclipse-gef</b>'
+Comment='<span size="xx-large">Graphical Editing Framework (GEF) Eclipse plugin</span>'
+Comment3='
+The Graphical Editing Framework (GEF) allows developers to create a rich
+graphical editor from an existing application model. GEF is completely
+application neutral and provides the groundwork to build almost any
+application, including but not limited to activity diagrams, GUI builders,
+class diagram editors, state machines, and even WYSIWYG text editors.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/gef/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

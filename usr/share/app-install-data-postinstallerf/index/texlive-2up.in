@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-2up</b>'
+Comment='<span size="xx-large">2up package</span>'
+Comment3='
+2up package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

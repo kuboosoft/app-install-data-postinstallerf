@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nagios-plugins-tcp</b>'
+Comment='<span size="xx-large">Nagios Plugin - check_tcp</span>'
+Comment3='
+Provides check_tcp, check_ftp, check_imap, check_jabber, check_nntp,
+check_nntps, check_pop, check_simap, check_spop, check_ssmtp, check_udp
+and check_clamd support for Nagios.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://nagiosplug.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

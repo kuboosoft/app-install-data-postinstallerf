@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Parallel-Runner</b>'
+Comment='<span size="xx-large">An object to manage running things in parallel processes</span>'
+Comment3='
+There are several other modules to do this, you probably want one of them. This
+module exists as a super-specialized parallel task manager. You create the
+object with a process limit and callbacks for what to do while waiting for a
+free process slot, as well as a callback for what a process should do just
+before exiting.
+
+You must explicitly call $runner->finish() when you are done. If the runner is
+destroyed before its children are finished, a warning will be generated and
+your child processes will be killed, by force if necessary.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Parallel-Runner/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

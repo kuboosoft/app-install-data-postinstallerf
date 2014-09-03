@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>rsh</b>'
+Comment='<span size="xx-large">Clients for remote access commands (rsh, rlogin, rcp)</span>'
+Comment3='
+The rsh package contains a set of programs which allow users to run
+commands on remote machines, login to other machines and copy files
+between machines (rsh, rlogin and rcp).  All three of these commands
+use rhosts style authentication.  This package contains the clients
+needed for all of these services.
+The rsh package should be installed to enable remote access to other
+machines
+'
+License='BSD'
+Screenshot=''
+Url='ftp://ftp.uk.linux.org/pub/linux/Networking/netkit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

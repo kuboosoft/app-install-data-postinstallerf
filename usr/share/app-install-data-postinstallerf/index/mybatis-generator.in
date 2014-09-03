@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mybatis-generator</b>'
+Comment='<span size="xx-large">A code generator for MyBatis and iBATIS</span>'
+Comment3='
+MyBatis Generator (MBG) is a code generator for MyBatis and iBATIS.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.mybatis.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

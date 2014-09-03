@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glite-lb-state-machine-plugins</b>'
+Comment='<span size="xx-large">L&B state machine plugins</span>'
+Comment3='
+This package contains L&B state machine plugins for L&B tools and Job
+Provenance.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

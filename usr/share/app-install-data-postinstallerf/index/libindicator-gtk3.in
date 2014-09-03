@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libindicator-gtk3</b>'
+Comment='<span size="xx-large">GTK+3 build of libindicator</span>'
+Comment3='
+A set of symbols and convenience functions that all Ayatana indicators
+are likely to use. This is the GTK+ 3 build of libindicator, for use
+by GTK+ 3 apps.
+
+'
+License='GPLv3'
+Screenshot=''
+Url='https://launchpad.net/libindicator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

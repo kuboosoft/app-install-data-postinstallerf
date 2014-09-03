@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>console-bridge</b>'
+Comment='<span size="xx-large">Lightweight set of macros used for reporting information in libraries</span>'
+Comment3='
+A very lightweight set of macros that can be used for reporting information
+in libraries. The logged information can be forwarded to other systems.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://ros.org/wiki/console_bridge'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>hydra</b>'
+Comment='<span size="xx-large">Very fast network log-on cracker</span>'
+Comment3='
+Hydra is a parallelized log-in cracker which supports numerous protocols to
+attack. New modules are easy to add, beside that, it is flexible and very fast.
+
+This tool gives researchers and security consultants the possibility to show
+how easy it would be to gain unauthorized access from remote to a system.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.thc.org/thc-hydra/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

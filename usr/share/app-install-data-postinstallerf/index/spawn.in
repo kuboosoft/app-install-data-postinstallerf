@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>spawn</b>'
+Comment='<span size="xx-large">Simple tool to run several Linux command-lines in parallel</span>'
+Comment3='
+spawn is a simple parallel execution utility written to appeal to the Unix
+mindset. spawn reads shell command lines from stdin, one per line, and then
+executes them as maximum of N child processes in parallel, and waits for
+all of the children to exit.
+If a child process fails with a non-zero exit code, no new children are
+spawned. Then spawn waits for all existing children to exit and returns
+the failed exit code.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/spawntool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-amdefine</b>'
+Comment='<span size="xx-large">Provide AMDs define() API for declaring modules in the AMD format</span>'
+Comment3='
+A module that can be used to implement the Asynchronous Module Definitions
+define() in Node. This allows you to code to the AMD API and have the module
+work in node programs without requiring those other programs to use AMD.
+'
+License='BSD or MIT'
+Screenshot=''
+Url='https://github.com/jrburke/amdefine'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

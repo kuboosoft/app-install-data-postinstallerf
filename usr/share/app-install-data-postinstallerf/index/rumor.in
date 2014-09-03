@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rumor</b>'
+Comment='<span size="xx-large">Really Unintelligent Music transcriptOR</span>'
+Comment3='
+Rumor is a realtime monophonic (with chords) MIDI keyboard to Lilypond
+converter. It receives MIDI events, quantizes them according to its metronome
+on the fly and outputs handwritten-like corresponding Lilypond notation. Tempo,
+meter, key and other parameters can be set via command-line options.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://launchpad.net/rumor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

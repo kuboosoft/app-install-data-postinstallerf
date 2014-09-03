@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gnu-smalltalk</b>'
+Comment='<span size="xx-large">GNU Smalltalk</span>'
+Comment3='
+GNU Smalltalk is an implementation that closely follows the
+Smalltalk-80 language as described in the book `Smalltalk-80 the
+Language and its Implementation by Adele Goldberg and David Robson.
+The Smalltalk programming language is an object oriented programming
+language.
+
+Unlike other Smalltalks (including Smalltalk-80), GNU Smalltalk
+emphasizes Smalltalks rapid prototyping features rather than the
+graphical and easy-to-use nature of the programming environment.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.gnu.org/software/smalltalk/smalltalk.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

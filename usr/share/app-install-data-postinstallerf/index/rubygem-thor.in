@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-thor</b>'
+Comment='<span size="xx-large">Scripting framework that replaces rake, sake and rubigen</span>'
+Comment3='
+Thor is a scripting framework that replaces rake, sake and rubigen.
+'
+License='MIT'
+Screenshot=''
+Url='http://whatisthor.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

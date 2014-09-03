@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tika</b>'
+Comment='<span size="xx-large">A content analysis toolkit</span>'
+Comment3='
+The Apache Tika toolkit detects and extracts meta-data and
+structured text content from various documents using existing
+parser libraries.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tika.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libvmime07</b>'
+Comment='<span size="xx-large">A powerful C++ class library for working with MIME/Internet messages</span>'
+Comment3='
+VMime is a powerful C++ class library for parsing, generating or
+editing Internet RFC-[2]822 and MIME messages. VMime is designed
+to provide a fast and an easy way to manipulate Internet mail
+messages.
+
+It also includes support for using messaging protocols (POP3, IMAP,
+SMTP and maildir) with a lot of features supported listing folders,
+downloading and adding messages to folders, extracting parts from
+message, getting and setting message flags and a lot more.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.zarafa.com/wiki/index.php/Libvmime_patches'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

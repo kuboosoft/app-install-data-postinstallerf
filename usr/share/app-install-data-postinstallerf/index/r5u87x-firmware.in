@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>r5u87x-firmware</b>'
+Comment='<span size="xx-large">R5U87x firmware and loader</span>'
+Comment3='
+This package contains firmware needed to make cameras based on Ricoh R5U87x
+chipsets work with the uvcvideo driver. And a firmware load tool and udev
+rules to load the firmware.
+'
+License='GPLv2+ and Distributable'
+Screenshot=''
+Url='http://bitbucket.org/ahixon/r5u87x/wiki/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

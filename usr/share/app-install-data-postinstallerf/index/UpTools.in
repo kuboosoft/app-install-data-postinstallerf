@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>UpTools</b>'
+Comment='<span size="xx-large">C++ library for HPC, parallel processing, networking, DB, memory, etc</span>'
+Comment3='
+UpTools is an open source C++ development library that contains powerful
+classes to facilitate and accelerate modern application development. The
+following aspects are covered by the library High performance computing
+(HPC), Load distribution and parallel processing, Multi-threading, Time
+and timers, Memory management, Text and strings, Database access,
+Networking, and others.
+
+UpTools is developed and maintained by the Engineering School of the
+Universidad de Palermo, and originated in its Electronics and Communications
+Department projects.
+'
+License='BSD with attribution'
+Screenshot=''
+Url='http://www.palermo.edu/ingenieria/uptools_ingles.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-arrayjobx</b>'
+Comment='<span size="xx-large">Array data structures for (La)TeX</span>'
+Comment3='
+This package provides array data structures in (La)TeX, in the
+meaning of the classical procedural programming languages like
+Fortran, Ada or C, and macros to manipulate them. Arrays can be
+mono or bi-dimensional. This is useful for applications which
+require high level programming techniques, like algorithmic
+graphics programmed in the TeX language. The package supersedes
+the arrayjob package.
+
+date 2010-05-11 123630 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>argus-clients</b>'
+Comment='<span size="xx-large">Client tools for argus network audit</span>'
+Comment3='
+Clients to the argus probe which process and display information.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qosient.com/argus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

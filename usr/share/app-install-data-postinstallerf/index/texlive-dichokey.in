@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-dichokey</b>'
+Comment='<span size="xx-large">Construct dichotomous identification keys</span>'
+Comment3='
+The package can be used to construct dichotomous identification
+keys (used especially in biology for species identification),
+taking care of numbering and indentation of successive key
+steps automatically. An example file is provided, which
+demonstrates usage.
+
+date 2010-02-23 233005 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

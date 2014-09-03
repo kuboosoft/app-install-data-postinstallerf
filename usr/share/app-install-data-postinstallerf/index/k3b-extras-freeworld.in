@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>k3b-extras-freeworld</b>'
+Comment='<span size="xx-large">Additional codec plugins for the k3b CD/DVD burning application</span>'
+Comment3='
+Additional decoder/encoder plugins for k3b, a feature-rich and easy to
+handle CD/DVD burning application.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.k3b.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

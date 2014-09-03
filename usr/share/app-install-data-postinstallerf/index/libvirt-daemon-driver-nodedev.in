@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-driver-nodedev</b>'
+Comment='<span size="xx-large">Nodedev driver plugin for the libvirtd daemon</span>'
+Comment3='
+The nodedev driver plugin for the libvirtd daemon, providing
+an implementation of the node device APIs using the udev
+capabilities.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

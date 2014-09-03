@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hdf5-devel</b>'
+Comment='<span size="xx-large">HDF5 development files</span>'
+Comment3='
+HDF5 development headers and libraries.
+
+URL          http//www.hdfgroup.org/HDF5/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.hdfgroup.org/HDF5/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

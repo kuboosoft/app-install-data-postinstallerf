@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>atlas-sse3</b>'
+Comment='<span size="xx-large">ATLAS libraries for SSE3 extensions</span>'
+Comment3='
+This package contains the ATLAS (Automatically Tuned Linear Algebra
+Software) libraries compiled with optimizations for the SSE3.
+Fedora also produces ATLAS build with SSE(1) and SSE2 extensions.
+
+Software) libraries compiled with optimizations for the SSE3
+extensions to the x86_64 architecture. The base ATLAS builds in Fedora for the
+x86_64 architecture are made for the SSE2 extensions.
+'
+License='BSD'
+Screenshot=''
+Url='http://math-atlas.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

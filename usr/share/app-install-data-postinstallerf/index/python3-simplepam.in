@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-simplepam</b>'
+Comment='<span size="xx-large">Pure Python interface to the Pluggable Authentication Modules system on Linux</span>'
+Comment3='
+This module provides an authenticate function that allows the caller to
+authenticate a given username / password against the PAM system on Linux.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/leonnnn/python3-simplepam'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

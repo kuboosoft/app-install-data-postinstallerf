@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-edit-distance</b>'
+Comment='<span size="xx-large">Levenshtein and restricted Damerau-Levenshtein edit distances</span>'
+Comment3='
+Optimized edit distances for fuzzy matching, including Levenshtein
+and restricted Damerau-Levenshtein algorithms.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/edit-distance'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

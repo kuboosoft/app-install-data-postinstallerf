@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>irccat</b>'
+Comment='<span size="xx-large">Script sending data to servers running supybot-irccat</span>'
+Comment3='
+Simple script sending one line messages to remote supybot servers with the
+supybot-irccat plugin.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/leamas/supybot-irccat'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

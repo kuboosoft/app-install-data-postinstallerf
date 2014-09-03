@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-libgsf-static</b>'
+Comment='<span size="xx-large">MinGW build of structured file editing library</span>'
+Comment3='
+Static version of the MinGW Windows libgsf library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

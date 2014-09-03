@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-fototoon</b>'
+Comment='<span size="xx-large">An activity used to create cartoons</span>'
+Comment3='
+Fototoon is a sugar activity used to create cartoons using photos
+or drawings. After selecting the images, the user can select globes
+and write text to tell a story.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://activities.sugarlabs.org/en-US/sugar/addon/4253'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

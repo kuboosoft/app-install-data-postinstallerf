@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-django-horizon</b>'
+Comment='<span size="xx-large">Django application for talking to Openstack</span>'
+Comment3='
+Horizon is a Django application for providing Openstack UI components.
+It allows performing site administrator (viewing account resource usage,
+configuring users, accounts, quotas, flavors, etc.) and end user
+operations (start/stop/delete instances, create/restore snapshots, view
+instance VNC console, etc.)
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://horizon.openstack.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

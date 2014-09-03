@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-doc</b>'
+Comment='<span size="xx-large">Documentation for the ROOT system</span>'
+Comment3='
+This package contains the automatically generated ROOT class
+documentation.
+'
+License='LGPLv2+ and GPLv2+ and BSD'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

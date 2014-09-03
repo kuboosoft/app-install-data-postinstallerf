@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>eurephia-init</b>'
+Comment='<span size="xx-large">Utility for initializing a new eurephia database</span>'
+Comment3='
+This package provides a program which will initialize the eurephia
+database for you.  It will guide you through several questions and
+save the configuration in the database.  When you have configured
+and initialized eurephia, this package should be removed from the
+system.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.eurephia.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

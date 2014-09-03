@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>opari2</b>'
+Comment='<span size="xx-large">An OpenMP runtime performance measurement instrumenter</span>'
+Comment3='
+OPARI2 is a source-to-source instrumentation tool for OpenMP and hybrid
+codes.  It surrounds OpenMP directives and runtime library calls with calls
+to the POMP2 measurement interface.
+
+OPARI2 will provide you with a new initialization method that allows for
+multi-directory and parallel builds as well as the usage of pre-instrumented
+libraries. Furthermore, an efficient way of tracking parent-child
+relationships was added. Additionally, we extended OPARI2 to support
+instrumentation of OpenMP 3.0 tied tasks.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.vi-hps.org/projects/score-p/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

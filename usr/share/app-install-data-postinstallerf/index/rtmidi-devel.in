@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rtmidi-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for rtmidi</span>'
+Comment3='
+Development headers and libraries for rtmidi.
+
+URL          http//www.music.mcgill.ca/~gary/rtmidi/index.html
+'
+License='MIT'
+Screenshot=''
+Url='http://www.music.mcgill.ca/~gary/rtmidi/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

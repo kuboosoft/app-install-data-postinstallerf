@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libconcord</b>'
+Comment='<span size="xx-large">Library to talk to Logitech Harmony universal remote controls</span>'
+Comment3='
+Library to talk to Logitech Harmony universal remote controls
+
+URL          http//phildev.net/concordance/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://phildev.net/concordance/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

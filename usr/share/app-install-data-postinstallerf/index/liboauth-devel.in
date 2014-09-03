@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>liboauth-devel</b>'
+Comment='<span size="xx-large">Development files for liboauth</span>'
+Comment3='
+The liboauth-devel package contains libraries and header files for
+developing applications that use liboauth.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://liboauth.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

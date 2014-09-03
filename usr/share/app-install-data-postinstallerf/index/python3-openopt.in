@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-openopt</b>'
+Comment='<span size="xx-large">A python module for numerical optimization</span>'
+Comment3='
+Universal numerical optimization package with several
+own solvers (e.g. ralg) and connections to tens of
+other, graphical output of convergence and many other
+goodies.
+'
+License='BSD'
+Screenshot=''
+Url='http://openopt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

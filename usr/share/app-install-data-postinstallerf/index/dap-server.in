@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>dap-server</b>'
+Comment='<span size="xx-large">Basic request handling for OPeNDAP servers</span>'
+Comment3='
+This package contains general purpose handlers for use with the new
+Hyrax data server. These are the Usage, ASCII and HTML form handlers.
+Each takes input from a data handler and returns a HTML or plain text
+
+Older version of this package contain the Server3 CGI software; that
+has been removed from this version.
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.opendap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

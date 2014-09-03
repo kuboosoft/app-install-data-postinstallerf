@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsq3-devel</b>'
+Comment='<span size="xx-large">Development files for libsqlite3x</span>'
+Comment3='
+The libsq3-devel package contains libraries and header files for
+developing applications that use libsq3.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://www.wanderinghorse.net/computing/sqlite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

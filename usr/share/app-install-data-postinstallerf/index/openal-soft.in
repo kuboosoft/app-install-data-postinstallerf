@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>openal-soft</b>'
+Comment='<span size="xx-large">Open Audio Library</span>'
+Comment3='
+OpenAL Soft is a cross-platform software implementation of the OpenAL 3D
+audio API. Its built off of the open-sourced Windows version available
+originally from the SVN repository at openal.org. OpenAL provides
+capabilities for playing audio in a virtual 3d environment. Distance
+attenuation, doppler shift, and directional sound emitters are among
+the features handled by the API. More advanced effects, including air
+absorption, low-pass filters, and reverb, are available through the
+EFX extension. It also facilitates streaming audio, multi-channel buffers,
+and audio capture.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://kcat.strangesoft.net/openal.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

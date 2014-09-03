@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-amt</b>'
+Comment='<span size="xx-large">Fence agent for Intel AMT devices</span>'
+Comment3='
+The fence-agents-apc package contains a fence agent for AMT compatibile devices that are accessed via 3rd party software.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

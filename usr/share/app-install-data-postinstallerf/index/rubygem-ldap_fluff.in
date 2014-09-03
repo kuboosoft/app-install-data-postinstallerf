@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-ldap_fluff</b>'
+Comment='<span size="xx-large">LDAP Querying tools for Active Directory, FreeIPA and Posix-style</span>'
+Comment3='
+Simple library for binding & group querying on top of various ldap
+implementations
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

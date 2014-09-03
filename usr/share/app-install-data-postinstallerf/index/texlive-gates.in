@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-gates</b>'
+Comment='<span size="xx-large">Support for writing modular and customisable code</span>'
+Comment3='
+The package provides the means of writing code in a modular
+fashion big macros or functions are divided into small chunks
+(called gates) with names, which can be externally controlled
+(e.g. they can be disabled, subjected to conditionals,
+loops...) and/or augmented with new chunks. Thus complex code
+may easily be customised without having to rewrite it, or even
+understand its implementation the behavior of existing gates
+can be modified, and new ones can be added, without endangering
+the whole design. This allows code to be hacked in ways the
+original authors might have never envisioned. The gates package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

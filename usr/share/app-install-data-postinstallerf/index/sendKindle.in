@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sendKindle</b>'
+Comment='<span size="xx-large">CLI tool for sending files via email to your Amazon Kindle device</span>'
+Comment3='
+Send files as email attachments to your Amazon Kindle device. IMAP access
+to your email account is required.
+'
+License='AGPLv3+'
+Screenshot=''
+Url='https://github.com/kparal/sendKindle'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

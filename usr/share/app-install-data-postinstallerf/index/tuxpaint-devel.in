@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tuxpaint-devel</b>'
+Comment='<span size="xx-large">Development files for tuxpaint extensions/plugins</span>'
+Comment3='
+Development files for tuxpaint extensions/plugins
+
+URL          http//www.tuxpaint.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tuxpaint.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

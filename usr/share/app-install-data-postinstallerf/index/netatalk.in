@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>netatalk</b>'
+Comment='<span size="xx-large">Daemon which provides POSIX-compliant *NIX/*BSD systems with the ability to share files and printers with Apple Macintosh</span>'
+Comment3='
+Netatalk is a freely-available Open Source AFP fileserver. It also provides a
+kernel level implementation of the AppleTalk Protocol Suite. A *NIX/*BSD system
+running Netatalk is capable of serving many Macintosh clients simultaneously
+as an AppleShare file server (AFP), AppleTalk router, *NIX/*BSD print server,
+and for accessing AppleTalk printers via Printer Access Protocol (PAP). Included
+are a number of minor printing and debugging utilities.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://netatalk.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

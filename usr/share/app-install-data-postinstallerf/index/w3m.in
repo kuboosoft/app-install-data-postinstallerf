@@ -1,0 +1,26 @@
+#!/bin/sh
+Name='<b>w3m</b>'
+Comment='<span size="xx-large">A pager with Web browsing abilities</span>'
+Comment3='
+The w3m program is a pager (or text file viewer) that can also be used
+as a text-mode Web browser. W3m features include the following when
+reading an HTML document, you can follow links and view images using
+an external image viewer; its internet message mode determines the
+type of document from the header; if the Content-Type field of the
+document is text/html, the document is displayed as an HTML document;
+you can change a URL description like http//hogege.net in plain
+text into a link to that URL.
+If you want to display the inline images on w3m, you need to install
+w3m-img package as well.
+'
+License='MIT and UCD'
+Screenshot=''
+Url='http://w3m.sourceforge.net/'
+you can change a URL description like 'http://hogege.net' in plain'
+text into a link to that URL.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

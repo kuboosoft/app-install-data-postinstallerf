@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>passwd</b>'
+Comment='<span size="xx-large">An utility for setting or changing passwords using PAM</span>'
+Comment3='
+This package contains a system utility (passwd) which sets
+or changes passwords, using PAM (Pluggable Authentication
+Modules) library.
+'
+License='BSD or GPL+'
+Screenshot=''
+Url='http://fedorahosted.org/passwd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

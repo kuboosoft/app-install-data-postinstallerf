@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>wiki2beamer</b>'
+Comment='<span size="xx-large">Converts a simple wiki-like syntax to complex LaTeX beamer code</span>'
+Comment3='
+Wiki2beamer converts a simple wiki-like syntax to complex LaTeX beamer code.
+Its written in python and should run on windows and all *nix platforms. Why
+collaborative? Because you can use it with version control systems. Afraid
+to loose some LaTeX powers? Dont worry you can always fall back to plain
+LaTeX as wiki2beamer is just a preprocessor.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://sourceforge.net/projects/wiki2beamer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

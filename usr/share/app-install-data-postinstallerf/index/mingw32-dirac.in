@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-dirac</b>'
+Comment='<span size="xx-large">Dirac is an open source video codec</span>'
+Comment3='
+MinGW Windows dirac compression library.
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://dirac.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

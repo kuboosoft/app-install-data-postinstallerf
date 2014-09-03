@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-phyghtmap</b>'
+Comment='<span size="xx-large">Generate OSM contour lines from NASA SRTM data</span>'
+Comment3='
+phyghtmap is a little program which lets you easily generate OSM contour
+lines from NASA SRTM data.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://katze.tfiu.de/projects/phyghtmap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

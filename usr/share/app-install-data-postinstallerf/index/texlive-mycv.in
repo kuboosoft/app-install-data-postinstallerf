@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-mycv</b>'
+Comment='<span size="xx-large">A list-driven CV class, allowing TikZ decorations</span>'
+Comment3='
+The class provides a set of functionality for writing
+"curriculum vitae" with different layouts. The idea is that a
+user can write some custom configuration directives, by means
+of which is possible both to produce different c.v. layouts and
+quickly switch among them. In order to process such directives,
+the class uses a set of lists, provided by the package
+etextools. Basic support for using TikZ decorations is also
+provided.
+
+date 2012-05-21 105859 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>smp_utils-libs</b>'
+Comment='<span size="xx-large">Shared library for smp_utils</span>'
+Comment3='
+This package contains the shared library for smp_utils.
+
+URL          http//sg.danny.cz/sg/smp_utils.html
+'
+License='BSD'
+Screenshot=''
+Url='http://sg.danny.cz/sg/smp_utils.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

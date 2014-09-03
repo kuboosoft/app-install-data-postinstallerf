@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>motion</b>'
+Comment='<span size="xx-large">A motion detection system</span>'
+Comment3='
+Motion is a software motion detector. It grabs images from video4linux devices
+and/or from webcams (such as the axis network cameras). Motion is the perfect
+tool for keeping an eye on your property keeping only those images that are
+interesting. Motion is strictly command line driven and can run as a daemon
+with a rather small footprint. This version is built with ffmpeg support but
+without MySQL and PostgreSQL support.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lavrsen.dk/twiki/bin/view/Motion/WebHome'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>unixcw-devel</b>'
+Comment='<span size="xx-large">Development files for unixcw</span>'
+Comment3='
+UnixCW utility libraries.
+
+URL          ftp//sunsite.unc.edu/pub/Linux/apps/ham/morse/
+'
+License='GPLv2+'
+Screenshot=''
+Url='ftp://sunsite.unc.edu/pub/Linux/apps/ham/morse/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

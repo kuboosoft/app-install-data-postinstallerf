@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>muParser-devel</b>'
+Comment='<span size="xx-large">Development and doc files for {muParser}</span>'
+Comment3='
+Development files and the documentation
+
+URL          http//muparser.sourceforge.net
+'
+License='MIT'
+Screenshot=''
+Url='http://muparser.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

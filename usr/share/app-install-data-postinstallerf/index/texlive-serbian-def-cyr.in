@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-serbian-def-cyr</b>'
+Comment='<span size="xx-large">serbian-def-cyr package</span>'
+Comment3='
+serbian-def-cyr package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

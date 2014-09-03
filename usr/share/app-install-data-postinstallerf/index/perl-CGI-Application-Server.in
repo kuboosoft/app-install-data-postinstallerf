@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Server</b>'
+Comment='<span size="xx-large">Simple HTTP server for developing with CGI::Application</span>'
+Comment3='
+This is a simple HTTP server for for use during development with
+CGIApplication. At this moment, it serves our needs in a very basic way.
+The plan is to release early and release often, and add features when we
+need them. That said, we welcome any and all patches, tests and feature
+requests (the ones with which are accompanied by failing tests will get
+priority).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Server/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

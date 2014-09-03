@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>QuantLib-doc</b>'
+Comment='<span size="xx-large">The documentation for QuantLib</span>'
+Comment3='
+This package contains documentation files generated from the source code of
+QuantLib.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.quantlib.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

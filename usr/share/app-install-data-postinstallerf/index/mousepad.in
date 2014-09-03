@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mousepad</b>'
+Comment='<span size="xx-large">Simple text editor for Xfce desktop environment</span>'
+Comment3='
+Mousepad aims to be an easy-to-use and fast editor. Its target is an editor for
+quickly editing text files, not a development environment or an editor with a
+huge bunch of plugins.
+
+Mousepad is based on Leafpad. The initial reason for Mousepad was to provide
+printing support, which would have been difficult for Leafpad for various
+reasons.
+Although some features are under development, currently Mousepad has following
+features
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libQtGTL</b>'
+Comment='<span size="xx-large">Qt bindings for OpenGTL</span>'
+Comment3='
+Qt bindings for OpenGTL.
+
+URL          http//www.opengtl.org/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.opengtl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

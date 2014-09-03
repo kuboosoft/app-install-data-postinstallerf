@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>fes</b>'
+Comment='<span size="xx-large">Fast Exhaustive Search</span>'
+Comment3='
+This external library implements an efficient implement of exhaustive
+search to solve systems of low-degree boolean equations. Exhaustive
+search is asymptotically faster than computing a Groebner basis,
+except in special cases. This particular implementation is
+particularly efficient (in the good cases it tests 3 candidate
+solutions per CPU cycle on each core).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.lifl.fr/~bouillag'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

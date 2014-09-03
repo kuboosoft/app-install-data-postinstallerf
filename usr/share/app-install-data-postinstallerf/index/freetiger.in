@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>freetiger</b>'
+Comment='<span size="xx-large">Free implementation of the tiger hash algorithm</span>'
+Comment3='
+freetiger is an implementation of the tiger hash algorithm made looking
+only at the tiger reference paper (thus ignoring the reference code until
+a working implementation was made). It also includes a modified version
+of the main program included with the tiger reference implementation which
+was used for benchmarking purposes.
+
+It has been optimized for usage in the TTH calculation algorithm and
+includes optimized versions that will calculate the hashes for the
+1024 byte file chunks and the 48 byte hash concatenation appending the
+proper suffix automatically thus minimizing memory to memory copying.
+'
+License='BSD'
+Screenshot=''
+Url='http://klondike.es/freetiger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

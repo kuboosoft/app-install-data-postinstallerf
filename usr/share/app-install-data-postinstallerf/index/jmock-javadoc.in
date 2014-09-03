@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jmock-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jmock</span>'
+Comment3='
+This package contains javadoc for jmock.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.jmock.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

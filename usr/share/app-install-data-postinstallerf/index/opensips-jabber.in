@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opensips-jabber</b>'
+Comment='<span size="xx-large">Gateway between OpenSIPS and a jabber server</span>'
+Comment3='
+Jabber module that integrates XODE XML parser for parsing Jabber messages.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

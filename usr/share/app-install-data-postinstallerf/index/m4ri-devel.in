@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>m4ri-devel</b>'
+Comment='<span size="xx-large">Development files for m4ri</span>'
+Comment3='
+The m4ri-devel package contains libraries and header files for
+developing applications that use m4ri.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://m4ri.sagemath.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

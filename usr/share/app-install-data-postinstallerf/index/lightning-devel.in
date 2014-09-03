@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lightning-devel</b>'
+Comment='<span size="xx-large">Header for the lightning package</span>'
+Comment3='
+This package contains development header and libraries of the
+ligthing package
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/lightning/lightning.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

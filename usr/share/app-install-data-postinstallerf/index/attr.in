@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>attr</b>'
+Comment='<span size="xx-large">Utilities for managing filesystem extended attributes</span>'
+Comment3='
+A set of tools for manipulating extended attributes on filesystem
+objects, in particular getfattr(1) and setfattr(1).
+An attr(1) command is also provided which is largely compatible
+with the SGI IRIX tool of the same name.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://acl.bestbits.at/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

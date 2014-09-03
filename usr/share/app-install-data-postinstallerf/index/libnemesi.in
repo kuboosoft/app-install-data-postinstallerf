@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libnemesi</b>'
+Comment='<span size="xx-large">RTSP/RTP client library</span>'
+Comment3='
+Libnemesi let you add multimedia streaming playback in your applications in
+a quick and straightforward way. This software, derived from the experience
+matured with NeMeSi is fully compliant with IETFs standards for real-time
+streaming of multimedia contents over Internet. libnemesi implements RTSP ?
+Real-Time Streaming Protocol (RFC2326) and RTP/RTCP ? Real-Time Transport
+Protocol/RTP Control Protocol (RFC3550) supporting the RTP Profile for
+Audio and Video Conferences with Minimal Control (RFC3551).
+
+The library provides two different API
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.lscube.org/projects/libnemesi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

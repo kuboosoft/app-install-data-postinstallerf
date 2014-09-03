@@ -1,0 +1,10 @@
+#!/bin/sh
+Name='<b>jboss-jacc-1</b>'
+'
+Screenshot=''
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gpsbabel-gui</b>'
+Comment='<span size="xx-large">Qt GUI interface for GPSBabel</span>'
+Comment3='
+Qt GUI interface for GPSBabel
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gpsbabel.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

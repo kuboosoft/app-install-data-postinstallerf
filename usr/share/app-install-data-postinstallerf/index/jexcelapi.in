@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>jexcelapi</b>'
+Comment='<span size="xx-large">A Java API to read, write and modify Excel spreadsheets</span>'
+Comment3='
+Jexcelapi allows Java developers to read Excel spreadsheets and generate Excel
+spreadsheets dynamically. In addition, it contains a mechanism which allows
+Java applications to read a spreadsheet, modify some cells and write the
+modified spreadsheet.
+
+Thanks to jexcelapi non Windows operating systems can run pure Java applications
+which process and deliver Excel spreadsheets. Because it is Java, this API may
+be invoked from within a servlet, thus giving access to Excel functionality
+over internet and intranet web applications.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://www.andykhan.com/jexcelapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

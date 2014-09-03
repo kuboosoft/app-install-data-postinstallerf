@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libiscsi-devel</b>'
+Comment='<span size="xx-large">iSCSI client development libraries</span>'
+Comment3='
+The libiscsi-devel package includes the header files for libiscsi.
+
+URL          https//github.com/sahlberg/libiscsi
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/sahlberg/libiscsi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

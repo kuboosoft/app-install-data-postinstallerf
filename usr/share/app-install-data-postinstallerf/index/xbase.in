@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xbase</b>'
+Comment='<span size="xx-large">XBase compatible database library</span>'
+Comment3='
+XBase is an xbase (i.e. dBase, FoxPro, etc.) compatible C++ class library
+originally by Gary Kunkel and others (see the AUTHORS file).
+
+XBase is useful for accessing data in legacy dBase 3 and 4 database files as
+well as a general light-weight database engine.  It includes support for
+DBF (dBase version 3 and 4) data files, NDX and NTX indexes, and DBT
+(dBase version 3 and 4).  It supports file and record locking under *nix
+OSs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://linux.techass.com/projects/xdb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

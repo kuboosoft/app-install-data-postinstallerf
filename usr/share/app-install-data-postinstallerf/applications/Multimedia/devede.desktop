@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n devede
+Type=Application
+Name=DeVeDe
+GenericName=DVD/CD Video Creator
+Comment=Allows to create video CDs and DVDs, suitable to be reproduced in home DVD players
+Comment[ca]=Permet crear CDs i DVDs de vídeo, que poden reproduir-se en reproductors domèstics
+Comment[es]=Permite crear video CDs y DVDs, que pueden reproducirse en reproductores domésticos
+Comment[gl]=Permite crear video CDs e DVDs, que poden reproducirse en reproductores domésticos
+Comment[pl]=Pozwala stworzyć wideo na płytach CD lub DVD, do otwarzania w domowych odtwarzaczach DVD
+Categories=AudioVideo;
+Icon=/usr/share/app-install-data-postinstallerf/icons/devede.png

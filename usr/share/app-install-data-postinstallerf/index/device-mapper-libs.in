@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>device-mapper-libs</b>'
+Comment='<span size="xx-large">Device-mapper shared library</span>'
+Comment3='
+This package contains the device-mapper shared library, libdevmapper.
+
+URL          http//sources.redhat.com/lvm2
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sources.redhat.com/lvm2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

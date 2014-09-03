@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Class-MethodMaker</b>'
+Comment='<span size="xx-large">Perl module for creating generic object-oriented methods</span>'
+Comment3='
+ClassMethodMaker solves the problem of having to continually write accessor
+methods for your objects that perform standard tasks.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/~schwigon/Class-MethodMaker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

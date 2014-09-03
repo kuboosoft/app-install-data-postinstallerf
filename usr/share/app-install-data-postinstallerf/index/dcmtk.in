@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>dcmtk</b>'
+Comment='<span size="xx-large">Offis DICOM Toolkit (DCMTK)</span>'
+Comment3='
+DCMTK is a collection of libraries and applications implementing large
+parts the DICOM standard. It includes software for examining,
+constructing and converting DICOM image files, handling offline media,
+sending and receiving images over a network connection, as well as
+demonstrative image storage and worklist servers. DCMTK is is written
+in a mixture of ANSI C and C++.  It comes in complete source code and
+is made available as "open source" software. This package includes
+multiple fixes taken from the "patched DCMTK" project.
+
+Install DCMTK if you are working with DICOM format medical image files.
+'
+License='BSD'
+Screenshot=''
+Url='http://dicom.offis.de/dcmtk.php.en'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

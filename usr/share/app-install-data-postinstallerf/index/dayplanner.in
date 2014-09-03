@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dayplanner</b>'
+Comment='<span size="xx-large">An easy and clean Day Planner</span>'
+Comment3='
+Day Planner is a simple time management program.
+
+Day Planner is designed to help you easily manage your time.
+It can manage appointments, birthdays and more. It makes sure you
+remember your appointments by popping up a dialog box reminding you about it.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.day-planner.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

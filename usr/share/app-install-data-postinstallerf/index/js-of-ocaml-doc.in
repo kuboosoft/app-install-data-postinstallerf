@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>js-of-ocaml-doc</b>'
+Comment='<span size="xx-large">User manual and other documentation for js-of-ocaml</span>'
+Comment3='
+The js-of-ocaml-doc package contains the user manual, API
+reference and examples for js-of-ocaml.
+'
+License='(LGPLv2+ with exceptions) and GPLv2+ and WTFPL'
+Screenshot=''
+Url='http://ocsigen.org/js_of_ocaml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

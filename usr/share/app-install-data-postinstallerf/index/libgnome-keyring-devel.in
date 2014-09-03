@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgnome-keyring-devel</b>'
+Comment='<span size="xx-large">Development files for libgnome-keyring</span>'
+Comment3='
+The libgnome-keyring-devel package contains the libraries and
+header files needed to develop applications that use libgnome-keyring.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/GnomeKeyring'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

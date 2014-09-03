@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgeda</b>'
+Comment='<span size="xx-large">Libraries for the gEDA project</span>'
+Comment3='
+This package contains libgeda, the library needed by gEDA applications.
+
+URL          http//gpleda.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gpleda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

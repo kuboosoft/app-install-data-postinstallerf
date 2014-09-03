@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>doodle</b>'
+Comment='<span size="xx-large">Doodle is a tool to quickly search the documents on a computer</span>'
+Comment3='
+Doodle is a tool to quickly search the documents on a computer. Doodle builds
+an index using meta-data contained in the documents and allows fast searches on
+the resulting database. Doodle uses libextractor to support obtaining meta-data
+from various file-formats. The database used by doodle is a suffix tree,
+resulting in fast lookups. Doodle supports approximate searches.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnunet.org/doodle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

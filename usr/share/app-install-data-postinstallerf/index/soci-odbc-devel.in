@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>soci-odbc-devel</b>'
+Comment='<span size="xx-large">ODBC back-end for soci</span>'
+Comment3='
+This package contains the Odbc back-end for soci, i.e., header
+files and dynamic libraries specific to the Odbc database. If you
+would like to develop programs using soci and Odbc, you will need
+to install soci-odbc.
+
+'
+License='Boost'
+Screenshot=''
+Url='http://soci.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

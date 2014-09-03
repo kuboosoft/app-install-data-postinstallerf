@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-kiwi-docs</b>'
+Comment='<span size="xx-large">Documentation related to python-kiwi</span>'
+Comment3='
+This package contains documentation that contains APIs and related materials,
+useful for reference when writing software using Kiwi.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.async.com.br/projects/kiwi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

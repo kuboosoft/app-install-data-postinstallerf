@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-apsw</b>'
+Comment='<span size="xx-large">Another Python SQLite Wrapper Python 3 packages</span>'
+Comment3='
+APSW is a Python 3 wrapper for the SQLite embedded relational database
+engine. In contrast to other wrappers such as pysqlite it focuses on
+being a minimal layer over SQLite attempting just to translate the
+complete SQLite API into Python 3.
+'
+License='zlib'
+Screenshot=''
+Url='http://code.google.com/p/apsw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

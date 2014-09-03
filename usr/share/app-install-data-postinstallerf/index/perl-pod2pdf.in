@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-pod2pdf</b>'
+Comment='<span size="xx-large">Converts Pod to PDF format</span>'
+Comment3='
+pod2pdf converts documents written in Perls POD (Plain Old Documentation)
+format to PDF files.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/pod2pdf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

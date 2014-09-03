@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-weasyprint</b>'
+Comment='<span size="xx-large">Python library to render HTML and CSS to PDF</span>'
+Comment3='
+The WeasyPrint Python library is a rendering engine for HTML and CSS that
+can export to PDF. It aims to support web standards for printing.
+'
+License='BSD'
+Screenshot=''
+Url='http://weasyprint.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

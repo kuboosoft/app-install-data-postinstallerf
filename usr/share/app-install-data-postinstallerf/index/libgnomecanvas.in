@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libgnomecanvas</b>'
+Comment='<span size="xx-large">GnomeCanvas widget</span>'
+Comment3='
+The canvas widget allows you to create custom displays using stock items
+such as circles, lines, text, and so on. It was originally a port of the
+Tk canvas widget but has evolved quite a bit over time.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

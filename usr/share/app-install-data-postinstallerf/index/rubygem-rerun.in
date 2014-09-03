@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rerun</b>'
+Comment='<span size="xx-large">Restarts your app when a file changes</span>'
+Comment3='
+Launches an app, and restarts it whenever the filesystem changes
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/alexch/rerun/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>blueman-nautilus</b>'
+Comment='<span size="xx-large">Blueman Nautilus plugin</span>'
+Comment3='
+The blueman-devel package contains libraries and header files for
+developing applications that use blueman.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://blueman-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

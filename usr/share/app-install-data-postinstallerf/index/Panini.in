@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>Panini</b>'
+Comment='<span size="xx-large">A tool for creating perspective views from panoramic and wide angle images</span>'
+Comment3='
+Panini can load most common photo and panoramic formats from image files such
+as those created with hugin or QuickTimeVR (QTVR .mov) files.  Like all pano
+viewers, it then shows a linear perspective view that can be panned and zoomed.
+But Panini can also display a range of wide angle perspectives via the
+stereographic and "Pannini" vedutismo families of projections, and shift,
+rotate, and stretch the image like a software view camera.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/projects/pvqt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-cowboy-doc</b>'
+Comment='<span size="xx-large">Documentation for erlang-cowboy</span>'
+Comment3='
+Documentation for erlang-cowboy.
+'
+License='ISC'
+Screenshot=''
+Url='http://ninenines.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

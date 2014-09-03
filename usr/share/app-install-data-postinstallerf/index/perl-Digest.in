@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Digest</b>'
+Comment='<span size="xx-large">Modules that calculate message digests</span>'
+Comment3='
+The Digest modules calculate digests, also called "fingerprints" or
+"hashes", of some data, called a message. The digest is (usually)
+some small/fixed size string. The actual size of the digest depend of
+the algorithm used. The message is simply a sequence of arbitrary
+bytes or bits.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Digest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

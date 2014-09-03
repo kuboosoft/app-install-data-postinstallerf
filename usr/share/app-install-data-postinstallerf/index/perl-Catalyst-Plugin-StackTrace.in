@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-StackTrace</b>'
+Comment='<span size="xx-large">Display a stack trace on the debug screen</span>'
+Comment3='
+This plugin will enhance the standard Catalyst debug screen by including a
+stack trace of your appliation up to the point where the error occurred.
+Each stack frame is displayed along with the package name, line number,
+file name, and code context surrounding the line number.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-StackTrace/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

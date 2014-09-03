@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mm-common</b>'
+Comment='<span size="xx-large">Common build files of the C++ bindings</span>'
+Comment3='
+The mm-common module provides the build infrastructure and utilities
+shared among the GNOME C++ binding libraries.  It is a required dependency
+to build glibmm and gtkmm from git.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gtkmm.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

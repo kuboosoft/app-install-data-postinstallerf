@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>glite-lb-client-java</b>'
+Comment='<span size="xx-large">JAVA implementation of the L&B service client</span>'
+Comment3='
+JAVA implementation of the L&B service client. Supports producing (logging)
+events into L&B, event and job status queries, and receiving notifications.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

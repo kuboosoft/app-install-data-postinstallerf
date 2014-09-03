@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>qtlockedfile</b>'
+Comment='<span size="xx-large">QFile extension with advisory locking functions</span>'
+Comment3='
+This class extends the QFile class with inter-process file locking capabilities.
+If an application requires that several processes should access the same file,
+QtLockedFile can be used to easily ensure that only one process at a time is
+writing to the file, and that no process is writing to it while others are
+reading it.
+
+'
+License='GPLv3 or LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qt.nokia.com/products/appdev/add-on-products/catalog/4/Utilities/qtlockedfile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

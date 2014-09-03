@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-binary-shared-devel</b>'
+Comment='<span size="xx-large">Haskell binary-shared library development files</span>'
+Comment3='
+This package provides the Haskell binary-shared library development files.
+'
+License='GPL+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/binary-shared'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

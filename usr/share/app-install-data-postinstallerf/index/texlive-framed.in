@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-framed</b>'
+Comment='<span size="xx-large">Framed or shaded regions that can break across pages</span>'
+Comment3='
+The package creates three environments - framed, which puts an
+ordinary frame box around the region, - shaded, which shades
+the region, and - leftbar, which places a line at the left
+side. The environments allow a break at their start (the
+\FrameCommand enables creation of a title that is "attached" to
+the environment); breaks are also allowed in the course of the
+framed/shaded matter. There is also a command \MakeFramed to
+make your own framed-style environments.
+
+date 2012-06-01 124804 +0200
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

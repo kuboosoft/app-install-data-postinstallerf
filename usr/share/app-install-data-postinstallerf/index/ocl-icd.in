@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocl-icd</b>'
+Comment='<span size="xx-large">OpenCL ICD Bindings</span>'
+Comment3='
+OpenCL ICD Bindings
+
+URL          http//ocl-icd.forge.imag.fr/
+'
+License='BSD'
+Screenshot=''
+Url='http://ocl-icd.forge.imag.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

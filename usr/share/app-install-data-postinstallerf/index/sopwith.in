@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sopwith</b>'
+Comment='<span size="xx-large">SDL port of the sopwith game</span>'
+Comment3='
+This is a port of the classic computer game "Sopwith" to run on modern
+computers and operating systems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sdl-sopwith.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fann</b>'
+Comment='<span size="xx-large">A fast artificial neural network library</span>'
+Comment3='
+Fast Artificial Neural Network (FANN) Library is written in ANSI C.
+The library implements multilayer feedforward ANNs, up to 150 times faster
+than other libraries. FANN supports execution in fixed point, for fast
+execution on systems like the iPAQ.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fann.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

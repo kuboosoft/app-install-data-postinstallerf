@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>OCE-ocaf</b>'
+Comment='<span size="xx-large">OpenCASCADE CAE platform shared libraries</span>'
+Comment3='
+OpenCASCADE CAE platform shared libraries
+
+This package provides OpenCASCADE Application Framework services and
+support for data exchange.
+'
+License='Open CASCADE Technology Public License'
+Screenshot=''
+Url='https://github.com/tpaviot/oce'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

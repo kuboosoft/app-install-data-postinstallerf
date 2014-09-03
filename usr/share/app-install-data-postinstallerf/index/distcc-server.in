@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>distcc-server</b>'
+Comment='<span size="xx-large">Server for distributed C/C++ compilation</span>'
+Comment3='
+This package contains the compilation server needed to use distcc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://distcc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

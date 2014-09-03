@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>expatpp</b>'
+Comment='<span size="xx-large">C++ layer for expat</span>'
+Comment3='
+Expatpp is a simple C++ layer to make using the open source expat XML parsing
+library vastly easier for complex schemas. It has been used widely in industry
+including the Valve Steam project.
+
+'
+License='MPLv1.1'
+Screenshot=''
+Url='http://sourceforge.net/projects/expatpp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

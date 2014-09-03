@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>csdp</b>'
+Comment='<span size="xx-large">C library for SemiDefinite Programming</span>'
+Comment3='
+CSDP is a library of routines that implements a predictor corrector
+variant of the semidefinite programming algorithm of Helmberg, Rendl,
+Vanderbei, and Wolkowicz.  The main advantages of this code are that it
+is written to be used as a callable subroutine, it is written in C for
+efficiency, the code runs in parallel on shared memory multiprocessor
+systems, and it makes effective use of sparsity in the constraint
+matrices.
+
+'
+License='CPL'
+Screenshot=''
+Url='https://projects.coin-or.org/Csdp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

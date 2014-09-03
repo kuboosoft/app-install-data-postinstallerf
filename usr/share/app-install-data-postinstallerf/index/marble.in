@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>marble</b>'
+Comment='<span size="xx-large">Virtual globe and world atlas</span>'
+Comment3='
+Marble is a Virtual Globe and World Atlas that you can use to learn more
+about Earth You can pan and zoom around and you can look up places and
+roads. A mouse click on a place label will provide the respective Wikipedia
+article.
+
+Of course its also possible to measure distances between locations or watch
+the current cloud cover. Marble offers different thematic maps A classroom-
+style topographic map, a satellite view, street map, earth at night and
+temperature and precipitation maps. All maps include a custom map key, so it
+can also be used as an educational tool for use in class-rooms. For
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://edu.kde.org/marble/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

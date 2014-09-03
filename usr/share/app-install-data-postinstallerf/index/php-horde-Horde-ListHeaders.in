@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-ListHeaders</b>'
+Comment='<span size="xx-large">Horde List Headers Parsing Library</span>'
+Comment3='
+The Horde_ListHeaders library parses Mailing List Headers as defined
+in RFC 2369 & RFC 2919.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>klickety</b>'
+Comment='<span size="xx-large">Destroy groups of blocks</span>'
+Comment3='
+In Klickety, your goal is to clear the board by clicking on groups to
+destroy them. The overall aim is to get the lowest score possible. It
+will provide entertainment for all abilities, but a challenge in logical
+thought if you want to get a really low score.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/klickety'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

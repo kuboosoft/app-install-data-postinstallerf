@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>GraphicsMagick</b>'
+Comment='<span size="xx-large">An ImageMagick fork, offering faster image generation and better quality</span>'
+Comment3='
+GraphicsMagick is a comprehensive image processing package which is initially
+based on ImageMagick 5.5.2, but which has undergone significant re-work by
+of the software.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.graphicsmagick.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

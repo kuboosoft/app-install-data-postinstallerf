@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>a2jmidid</b>'
+Comment='<span size="xx-large">Daemon for exposing ALSA sequencer applications in JACK MIDI system</span>'
+Comment3='
+a2jmidid is a project that aims to ease usage of legacy ALSA sequencer
+applications, in a JACK MIDI enabled system. There are two ways to use legacy
+ALSA sequencer applications in JACK MIDI system.
+
+The first approach is to use automatic bridging. For every ALSA sequencer port
+you get one JACK MIDI port. If ALSA sequencer port is both input and output
+one, you get two JACK MIDI ports, one input and output.
+The second approach is to static bridges. You start application that creates
+one ALSA sequencer port and one JACK MIDI port. Such bridge is unidirectional.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://home.gna.org/a2jmidid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

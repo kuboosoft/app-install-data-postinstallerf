@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>drupal6-imagecache_profiles</b>'
+Comment='<span size="xx-large">Utilizes image styles for user profile pictures</span>'
+Comment3='
+ImageCache_Profiles module allows you to set user profile pictures that are
+consistent throughout your site and allows avatars on the user profile pages,
+nodes and comments to be a different size.
+
+This package provides the following Drupal modules
+* imagecache_profiles
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/imagecache_profiles'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

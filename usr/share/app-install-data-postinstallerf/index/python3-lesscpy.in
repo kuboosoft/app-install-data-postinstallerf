@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-lesscpy</b>'
+Comment='<span size="xx-large">Lesscss compiler</span>'
+Comment3='
+A compiler written in python 3 for the lesscss language.  For those of us not
+willing/able to have node.js installed in our environment.  Not all features
+of lesscss are supported (yet).  Some features wil probably never be
+supported (JavaScript evaluation).
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/robotis/lesscpy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

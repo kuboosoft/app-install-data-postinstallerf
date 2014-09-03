@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>icecream-devel</b>'
+Comment='<span size="xx-large">Development files for icecream</span>'
+Comment3='
+This package contains development files for icecream.
+
+URL          http//en.opensuse.org/Icecream
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://en.opensuse.org/Icecream'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

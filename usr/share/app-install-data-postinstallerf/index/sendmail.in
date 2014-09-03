@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>sendmail</b>'
+Comment='<span size="xx-large">A widely used Mail Transport Agent (MTA)</span>'
+Comment3='
+The Sendmail program is a very widely used Mail Transport Agent (MTA).
+MTAs send mail from one machine to another. Sendmail is not a client
+program, which you use to read your email. Sendmail is a
+behind-the-scenes program which actually moves your email over
+networks or the Internet to where you want it to go.
+
+If you ever need to reconfigure Sendmail, you will also need to have
+the sendmail-cf package installed. If you need documentation on
+Sendmail, you can install the sendmail-doc package.
+'
+License='Sendmail'
+Screenshot=''
+Url='http://www.sendmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

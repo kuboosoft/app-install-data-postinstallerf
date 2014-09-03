@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-zfstream</b>'
+Comment='<span size="xx-large">MinGW Windows abstraction API for reading and writing compressed files</span>'
+Comment3='
+MinGW zfstream C++ compressed I/O abstraction library
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.wanderinghorse.net/computing/zfstream/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

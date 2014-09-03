@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>modello</b>'
+Comment='<span size="xx-large">Modello Data Model toolkit</span>'
+Comment3='
+Modello is a Data Model toolkit in use by the Apache Maven Project.
+
+Modello is a framework for code generation from a simple model.
+Modello generates code from a simple model format based on a plugin
+architecture, various types of code and descriptors can be generated
+from the single model, including Java POJOs, XML
+marshallers/unmarshallers, XSD and documentation.
+'
+License='ASL 2.0 and BSD and MIT'
+Screenshot=''
+Url='http://modello.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

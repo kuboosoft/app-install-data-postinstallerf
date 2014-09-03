@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-typeoutfileinfo</b>'
+Comment='<span size="xx-large">Display class/package/file information</span>'
+Comment3='
+The package provides a minimalist shell script, for Unix
+systems, that displays the information content in a
+\ProvidesFile, \ProvidesPackage or \ProvidesClass command in a
+LaTeX source file. The package requires that the readprov
+package is available.
+
+date 2012-09-28 155923 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

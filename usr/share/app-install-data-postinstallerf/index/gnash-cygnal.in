@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnash-cygnal</b>'
+Comment='<span size="xx-large">Streaming media server</span>'
+Comment3='
+Cygnal is a streaming media server thats Flash aware.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/gnash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

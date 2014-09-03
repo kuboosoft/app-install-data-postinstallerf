@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ejabberd</b>'
+Comment='<span size="xx-large">A distributed, fault-tolerant Jabber/XMPP server</span>'
+Comment3='
+ejabberd is a Free and Open Source distributed fault-tolerant
+Jabber/XMPP server. It is mostly written in Erlang, and runs on many
+platforms (tested on Linux, FreeBSD, NetBSD, Solaris, Mac OS X and
+Windows NT/2000/XP).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ejabberd.im/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

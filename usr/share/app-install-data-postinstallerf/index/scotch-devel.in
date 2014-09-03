@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>scotch-devel</b>'
+Comment='<span size="xx-large">Development libraries for scotch</span>'
+Comment3='
+This package contains development libraries for scotch.
+
+URL          http//www.labri.fr/perso/pelegrin/scotch/
+'
+License='CeCILL-C'
+Screenshot=''
+Url='http://www.labri.fr/perso/pelegrin/scotch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-py2neo</b>'
+Comment='<span size="xx-large">A simple Python library that provides access to Neo4j</span>'
+Comment3='
+Py2neo is a simple and pragmatic Python library that provides access to
+the popular graph database Neo4j via its RESTful web service interface.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://py2neo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

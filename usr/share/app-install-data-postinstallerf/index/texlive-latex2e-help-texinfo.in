@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-latex2e-help-texinfo</b>'
+Comment='<span size="xx-large">Unoffical reference manual covering LaTeX2e</span>'
+Comment3='
+The manual is provided as Texinfo source (which was originally
+derived from the VMS help file in the DECUS TeX distribution of
+1990, with many subsequent changes). This is a collaborative
+development, and details of getting involved are to be found on
+the package home page. All the other formats in the
+distribution are derived from the Texinfo source, as usual.
+
+date 2013-05-14 231847 +0200
+'
+License='Latex2e'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

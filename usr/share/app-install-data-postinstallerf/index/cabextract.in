@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cabextract</b>'
+Comment='<span size="xx-large">Utility for extracting cabinet (.cab) archives</span>'
+Comment3='
+cabextract is a program which can extract files from cabinet (.cab)
+archives.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.cabextract.org.uk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

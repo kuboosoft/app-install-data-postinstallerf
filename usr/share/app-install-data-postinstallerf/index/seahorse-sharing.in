@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>seahorse-sharing</b>'
+Comment='<span size="xx-large">Sharing of PGP public keys via DNS-SD and HKP</span>'
+Comment3='
+This package ships a session daemon that allows users to share PGP public keys
+via DNS-SD and HKP.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://live.gnome.org/Seahorse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

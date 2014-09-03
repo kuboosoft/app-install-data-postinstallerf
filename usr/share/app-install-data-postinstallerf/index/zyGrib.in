@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>zyGrib</b>'
+Comment='<span size="xx-large">Visualization of meteo data from files in GRIB Format 1</span>'
+Comment3='
+ZyGrib is a GRIB file viewer. It enables 
+
+Visualization of meteo data from files in GRIB Format
+Automatic GRIB data download
+Automatic Download from IAC (fleet-code) Data
+Roh or compressed GRIB Data (gzip *.gz; bzip2 *.bz2) can be used
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.zygrib.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

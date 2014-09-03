@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>liboping</b>'
+Comment='<span size="xx-large">C library to generate ICMP echo requests</span>'
+Comment3='
+Liboping is a C library to generate ICMP echo requests, better known as
+"ping packets". It is intended for use in network monitoring applications
+or applications that would otherwise need to fork ping(1) frequently.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://verplant.org/liboping/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

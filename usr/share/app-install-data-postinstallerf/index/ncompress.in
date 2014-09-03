@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ncompress</b>'
+Comment='<span size="xx-large">Fast compression and decompression utilities</span>'
+Comment3='
+The ncompress package contains the compress and uncompress file
+compression and decompression utilities, which are compatible with the
+original UNIX compress utility (.Z file extensions).  These utilities
+cant handle gzipped (.gz file extensions) files, but gzip can handle
+compressed files.
+
+Install ncompress if you need compression/decompression utilities
+which are compatible with the original UNIX compress utility.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://ncompress.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

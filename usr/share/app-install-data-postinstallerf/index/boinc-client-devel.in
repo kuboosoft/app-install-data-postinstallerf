@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>boinc-client-devel</b>'
+Comment='<span size="xx-large">Development files for boinc-client</span>'
+Comment3='
+This package contains development files for boinc-client.
+
+URL          http//boinc.berkeley.edu/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://boinc.berkeley.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

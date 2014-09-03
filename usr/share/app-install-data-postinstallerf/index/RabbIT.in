@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>RabbIT</b>'
+Comment='<span size="xx-large">Proxy for a faster web</span>'
+Comment3='
+RabbIT is a web proxy that speeds up web surfing over slow links by doing
+	o Compress text pages to gzip streams. This reduces size by up to 75%
+	o Compress images to 10% jpeg. This reduces size by up to 95%
+	o Remove advertising
+	o Remove background images
+	o Cache filtered pages and images
+	o Uses keepalive if possible
+	o Easy and powerful configuration
+	o Multi threaded solution written in java
+	o Modular and easily extended
+'
+License='BSD'
+Screenshot=''
+Url='http://www.khelekore.org/rabbit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>unrar</b>'
+Comment='<span size="xx-large">Utility for extracting, testing and viewing RAR archives</span>'
+Comment3='
+The unrar utility is a freeware program for extracting, testing and
+viewing the contents of archives created with the RAR archiver version
+1.50 and above.
+'
+License='Freeware with further limitations'
+Screenshot=''
+Url='http://www.rarlab.com/rar_add.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

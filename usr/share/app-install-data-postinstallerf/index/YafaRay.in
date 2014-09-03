@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>YafaRay</b>'
+Comment='<span size="xx-large">A free open-source raytracing render engine</span>'
+Comment3='
+YafaRay is a free open-source raytracing render engine.
+Raytracing is a rendering technique for generating
+realistic images by tracing the path of light through a 3D scene.
+A render engine consists of a "faceless" computer program that interacts
+with a host 3D application to provide very specific raytracing capabilities
+"on demand". Blender 3D is the host application of YafaRay.
+'
+License='LGPLv2.1'
+Screenshot=''
+Url='http://www.yafray.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

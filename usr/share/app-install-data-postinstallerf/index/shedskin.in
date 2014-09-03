@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>shedskin</b>'
+Comment='<span size="xx-large">Python to C++ compiler</span>'
+Comment3='
+Shed Skin is an experimental compiler, that can translate pure, but
+implicitly statically typed Python programs into optimized C++. It can
+generate stand-alone programs or extension modules, that can be imported
+and used in larger Python programs.
+'
+License='GPLv3 and (MIT and Python) and WTFPL'
+Screenshot=''
+Url='http://code.google.com/p/shedskin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

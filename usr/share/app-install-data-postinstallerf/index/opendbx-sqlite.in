@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opendbx-sqlite</b>'
+Comment='<span size="xx-large">SQLite 3 backend - provides sqlite3 support in opendbx</span>'
+Comment3='
+Allows odbx_init with "sqlite3" as the backend parameter.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linuxnetworks.de/doc/index.php/OpenDBX'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vamp-plugin-sdk</b>'
+Comment='<span size="xx-large">An API for audio analysis and feature extraction plugins</span>'
+Comment3='
+Vamp is an API for C and C++ plugins that process sampled audio data
+to produce descriptive output (measurements or semantic observations).
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.vamp-plugins.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vice</b>'
+Comment='<span size="xx-large">Emulator for a variety of Commodore 8bit machines</span>'
+Comment3='
+An emulator for a variety of Commodore 8bit machines, including the C16, C64,
+C128, VIC-20, PET (all models, except SuperPET 9000), Plus-4, CBM-II
+(aka C610)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://vice-emu.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

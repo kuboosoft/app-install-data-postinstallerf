@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kgrab</b>'
+Comment='<span size="xx-large">A screen grabbing utility</span>'
+Comment3='
+kgrab is a screen grabbing utility for KDE.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://extragear.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

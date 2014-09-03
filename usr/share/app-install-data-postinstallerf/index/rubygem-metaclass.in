@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-metaclass</b>'
+Comment='<span size="xx-large">Adds a metaclass method to all Ruby objects</span>'
+Comment3='
+Adds a metaclass method to all Ruby objects
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/floehopper/metaclass'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

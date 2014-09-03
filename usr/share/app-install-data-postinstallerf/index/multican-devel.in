@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>multican-devel</b>'
+Comment='<span size="xx-large">Development library for multican</span>'
+Comment3='
+This package contains the header files, libraries needed to develop
+applications that use multican library to access Canon cameras.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://multican.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

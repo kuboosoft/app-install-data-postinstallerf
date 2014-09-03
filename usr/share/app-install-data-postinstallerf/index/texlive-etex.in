@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-etex</b>'
+Comment='<span size="xx-large">An extended version of TeX, from the NTS project</span>'
+Comment3='
+An extended version of TeX (which is capable of running as if
+it were TeX unmodified). E-TeX has been specified by the LaTeX
+team as the engine for the development of LaTeX 2e, in the
+immediate future; as a result, LaTeX programmers may (in all
+current TeX distributions) assume e-TeX functionality.
+Development versions of e-TeX are to be found in the TeX live
+source repository.
+
+date 2012-03-09 151211 +0100
+'
+License='Knuth'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

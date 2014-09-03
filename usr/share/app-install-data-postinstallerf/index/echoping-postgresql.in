@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>echoping-postgresql</b>'
+Comment='<span size="xx-large">PostgreSQL plugin for checking response times of PostgreSQL servers</span>'
+Comment3='
+PostgreSQL performance measurement plugin for echoping.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://echoping.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

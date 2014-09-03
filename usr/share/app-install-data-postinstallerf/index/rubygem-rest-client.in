@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-rest-client</b>'
+Comment='<span size="xx-large">Simple REST client for Ruby</span>'
+Comment3='
+A simple Simple HTTP and REST client for Ruby, inspired by the Sinatra
+microframework style of specifying actions get, put, post, delete.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/archiloque/rest-client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

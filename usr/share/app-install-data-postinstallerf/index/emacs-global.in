@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-global</b>'
+Comment='<span size="xx-large">GNU GLOBAL support for Emacs</span>'
+Comment3='
+GNU GLOBAL support for Emacs.
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://www.gnu.org/software/global'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

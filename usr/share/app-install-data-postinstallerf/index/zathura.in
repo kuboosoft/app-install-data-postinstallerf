@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>zathura</b>'
+Comment='<span size="xx-large">A lightweight document viewer</span>'
+Comment3='
+Zathura is a highly customizable and functional document viewer.
+It provides a minimalistic and space saving interface as well as
+an easy usage that mainly focuses on keyboard interaction.
+
+Zathura requires plugins to support document formats.
+For instance
+* zathura-pdf-poppler to open PDF files,
+* zathura-ps to open PostScript files,
+* zathura-djvu to open DjVu files.
+All of these are available as separate packages in Fedora.
+'
+License='zlib'
+Screenshot=''
+Url='http://pwmt.org/projects/zathura/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

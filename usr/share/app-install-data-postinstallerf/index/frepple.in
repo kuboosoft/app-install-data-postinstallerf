@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>frepple</b>'
+Comment='<span size="xx-large">Free Production PLanning</span>'
+Comment3='
+FrePPLe stands for "Free Production PLanning". It is an application for
+modeling and solving production planning problems, targeted primarily
+at discrete manufacturing industries.
+
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://www.frepple.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

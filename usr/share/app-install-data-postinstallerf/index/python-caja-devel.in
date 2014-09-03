@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-caja-devel</b>'
+Comment='<span size="xx-large">Python bindings for Caja</span>'
+Comment3='
+Python bindings for Caja
+
+URL          http//mate-desktop.org
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

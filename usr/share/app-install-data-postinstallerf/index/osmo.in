@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>osmo</b>'
+Comment='<span size="xx-large">Personal organizer</span>'
+Comment3='
+Osmo is a handy personal organizer which includes calendar, tasks manager and
+address book modules. It was designed to be a small, easy to use and good
+looking PIM tool to help to manage personal information. In current state the
+organizer is quite convenient in use - for example, user can perform nearly
+all operations using keyboard. Also, a lot of parameters are configurable to
+meet user preferences.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://clayo.org/osmo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

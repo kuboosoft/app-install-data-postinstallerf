@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>spin</b>'
+Comment='<span size="xx-large">A transparent threading solution for non-freezing Swing applications</span>'
+Comment3='
+Spin is a small library that concentrates on offering a powerful solution
+to build non-freezing Swing applications. Spin enforces good application
+design by separating the GUI and non-visual components through interfaces.
+If it is used wisely in an application framework, the GUI programmers will
+never have to think about threads again.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://spin.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

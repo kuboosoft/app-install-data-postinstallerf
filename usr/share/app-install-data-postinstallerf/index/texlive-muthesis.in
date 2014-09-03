@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-muthesis</b>'
+Comment='<span size="xx-large">Classes for University of Manchester Dept of Computer Science</span>'
+Comment3='
+The bundle provides thesis and project report document classes
+from the University of Manchesters Department of Computer
+Science.
+
+date 2011-08-26 082607 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

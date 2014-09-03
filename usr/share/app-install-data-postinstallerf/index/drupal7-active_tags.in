@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>drupal7-active_tags</b>'
+Comment='<span size="xx-large">Active Tags adds a taxonomy widget with a new jQuery enabled tag entry widget</span>'
+Comment3='
+Active Tags is a pure JavaScript widget for changing how users enter
+taxonomy terms by piggy backing onto taxonomy modules, such as Taxonomy
+and/or Content Taxonomy. This keeps Active Tags simple and small.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/active_tags'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

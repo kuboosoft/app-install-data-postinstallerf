@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mftrace</b>'
+Comment='<span size="xx-large">Utility for converting TeX bitmap fonts to Type 1 or TrueType fonts</span>'
+Comment3='
+mftrace is a small Python program that lets you trace a TeX bitmap
+font into a PFA or PFB font (A PostScript Type1 Scalable Font) or TTF
+(TrueType) font.
+
+Scalable fonts offer many advantages over bitmaps, as they allow
+documents to render correctly at many printer resolutions. Moreover,
+Ghostscript can generate much better PDF, if given scalable PostScript
+fonts.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://lilypond.org/mftrace/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

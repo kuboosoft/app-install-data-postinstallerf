@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>guitarix</b>'
+Comment='<span size="xx-large">Mono amplifier to JACK</span>'
+Comment3='
+Guitarix is a simple mono amplifier to be used in a JACKified environment,
+i.e. a system using the JACK Audio Connection Kit, a professionally-capable
+audio/MIDI server and master transport control.
+
+Guitarix provides one JACK input port and two JACK output ports. It is designed
+to produce nice trash/metal/rock/blues guitar sounds. Controls for bass, treble,
+gain, compressor, preamp, balance, distortion, freeverb, crybaby (wah) and echo
+are available. A fixed resonator is used when distortion is disabled. To modify
+the sound pressure, you can use the feedback and feedforward sliders.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://guitarix.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-captdef</b>'
+Comment='<span size="xx-large">Declare free-standing \caption commands</span>'
+Comment3='
+The \DeclareCaption command defines a class of caption command
+associated with the counter specified to the command. These
+commands are free-standing (i.e., dont need to be inside a
+float environment). The package uses \DeclareCaption to define
+\figcaption and \tabcaption, which can be used outside figure
+or table environments.
+
+date 2010-03-09 125442 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

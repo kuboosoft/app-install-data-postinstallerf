@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-czech</b>'
+Comment='<span size="xx-large">Czech hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Czech in T1/EC and UTF-8 encodings.
+Original patterns czhyphen are still distributed in the
+csplain package and loaded with ISO Latin 2 encoding (IL2).
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

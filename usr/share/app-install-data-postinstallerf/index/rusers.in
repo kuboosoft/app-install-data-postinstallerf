@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>rusers</b>'
+Comment='<span size="xx-large">Displays the users logged into machines on the local network</span>'
+Comment3='
+The rusers program allows users to find out who is logged into various
+machines on the local network.  The rusers command produces output
+similar to who, but for the specified list of hosts or for all
+machines on the local network.
+
+Install rusers if you need to keep track of who is logged into your
+local network.
+'
+License='BSD'
+Screenshot=''
+Url='http://rstatd.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

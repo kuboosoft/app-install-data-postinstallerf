@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opendbx-mysql</b>'
+Comment='<span size="xx-large">MySQL backend - provides mysql support in opendbx</span>'
+Comment3='
+Allows odbx_init with "mysql" as the backend parameter.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linuxnetworks.de/doc/index.php/OpenDBX'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

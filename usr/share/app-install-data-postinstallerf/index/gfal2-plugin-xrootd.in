@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gfal2-plugin-xrootd</b>'
+Comment='<span size="xx-large">Provide xrootd support for GFAL2</span>'
+Comment3='
+The Grid File Access Library, GFAL2, provides a simple POSIX-like API for file
+operations in grid and cloud environments. Plug-ins are available to allow
+access via a variety of protocols. This package contains a plugin for the
+xrootd protocol (root//).
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

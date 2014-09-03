@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qdbm-java</b>'
+Comment='<span size="xx-large">QDBM Database Library for Java</span>'
+Comment3='
+This package contains a Java interface for QDBM Database library.
+
+URL          http//fallabs.com/qdbm/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fallabs.com/qdbm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

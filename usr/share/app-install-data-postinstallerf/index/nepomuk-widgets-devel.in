@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nepomuk-widgets-devel</b>'
+Comment='<span size="xx-large">Developer files for nepomuk-widgets</span>'
+Comment3='
+Developer files for nepomuk-widgets.
+
+URL          http//www.kde.org/
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

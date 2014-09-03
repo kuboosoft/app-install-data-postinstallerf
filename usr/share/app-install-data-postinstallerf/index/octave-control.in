@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>octave-control</b>'
+Comment='<span size="xx-large">Computer-Aided Control System Design (CACSD) Tools for Octave</span>'
+Comment3='
+The Octave control systems package contains functions for analyzing
+and designing automatic control systems and algorithms.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://octave.sourceforge.net/control/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

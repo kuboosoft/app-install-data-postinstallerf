@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jdiff-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jdiff</span>'
+Comment3='
+This package contains javadoc for jdiff.
+'
+License='GPL+ and LGPLv2+'
+Screenshot=''
+Url='http://javadiff.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

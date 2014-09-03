@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>exempi</b>'
+Comment='<span size="xx-large">Library for easy parsing of XMP metadata</span>'
+Comment3='
+Exempi provides a library for easy parsing of XMP metadata. It is a port of
+Adobe XMP SDK to work on UNIX and to be build with GNU automake.
+It includes XMPCore and XMPFiles.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://libopenraw.freedesktop.org/wiki/Exempi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

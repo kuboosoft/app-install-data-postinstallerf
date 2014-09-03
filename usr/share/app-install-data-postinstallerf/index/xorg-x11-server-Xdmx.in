@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xorg-x11-server-Xdmx</b>'
+Comment='<span size="xx-large">Distributed Multihead X Server and utilities</span>'
+Comment3='
+Xdmx is proxy X server that provides multi-head support for multiple displays
+attached to different machines (each of which is running a typical X server).
+When Xinerama is used with Xdmx, the multiple displays on multiple machines
+are presented to the user as a single unified screen.  A simple application
+for Xdmx would be to provide multi-head support using two desktop machines,
+each of which has a single display device attached to it.  A complex
+application for Xdmx would be to unify a 4 by 4 grid of 1280x1024 displays
+(each attached to one of 16 computers) into a unified 5120x4096 display.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

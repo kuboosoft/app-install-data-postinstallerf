@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ConsoleKit-libs</b>'
+Comment='<span size="xx-large">ConsoleKit libraries</span>'
+Comment3='
+This package contains libraries and a PAM module for interacting
+with ConsoleKit.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/ConsoleKit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

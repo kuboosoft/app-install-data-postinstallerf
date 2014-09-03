@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>webacula</b>'
+Comment='<span size="xx-large">Web interface of a Bacula backup system</span>'
+Comment3='
+Webacula - Web Bacula - web interface of a Bacula backup system.
+Supports the run Job, restore all files or selected files,
+restore the most recent backup for a client,
+restore backup for a client before a specified time,
+mount/umount Storages, show scheduled, running and terminated Jobs and more.
+Supported languages English, French, German, Italian,
+Portuguese Brazil, Russian.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://webacula.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mypaint-data</b>'
+Comment='<span size="xx-large">Common data files for for mypaint</span>'
+Comment3='
+The mypaint-data package contains common data files for mypaint.
+'
+License='GPLv2+ and LGPLv2+ and CC-BY'
+Screenshot=''
+Url='http://mypaint.intilinux.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

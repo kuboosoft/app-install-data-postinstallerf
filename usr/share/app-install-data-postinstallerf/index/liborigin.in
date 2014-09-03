@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>liborigin</b>'
+Comment='<span size="xx-large">Library for reading OriginLab OPJ project files</span>'
+Comment3='
+A library for reading OriginLab OPJ project files.
+
+URL          http//sourceforge.net/projects/liborigin/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/liborigin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

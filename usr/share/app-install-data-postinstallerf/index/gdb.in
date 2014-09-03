@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gdb</b>'
+Comment='<span size="xx-large">A GNU source-level debugger for C, C++, Fortran, Go and other languages</span>'
+Comment3='
+GDB, the GNU debugger, allows you to debug programs written in C, C++,
+Java, and other languages, by executing them in a controlled fashion
+and printing their data.
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and BSD and Public Domain and GFDL'
+Screenshot=''
+Url='http://gnu.org/software/gdb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

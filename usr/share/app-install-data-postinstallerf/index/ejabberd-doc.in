@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ejabberd-doc</b>'
+Comment='<span size="xx-large">Documentation for ejabberd</span>'
+Comment3='
+Documentation for ejabberd.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ejabberd.im/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

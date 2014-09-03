@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>Falcon</b>'
+Comment='<span size="xx-large">The Falcon Programming Language</span>'
+Comment3='
+The Falcon Programming Language is an embeddable scripting language
+aiming to empower even simple applications with a powerful,
+flexible, extensible and highly configurable scripting engine.
+
+Falcon is also a standalone multiplatform scripting language that
+aims to be both simple and powerful.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.falconpl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

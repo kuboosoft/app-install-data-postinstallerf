@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-limap</b>'
+Comment='<span size="xx-large">Typeset maps and blocks according to the Information Mapping method</span>'
+Comment3='
+The Information Mapping method provides a methodology for
+structuring and presenting information. It claims to be useful
+for readers who are more concerned about finding the right
+information than reading the document as a whole. Thus short,
+highly structured, and context free pieces of information are
+used. A LaTeX style and a LaTeX class are provided. The style
+contains definitions to typeset maps and blocks according to
+the Information Mapping method. The class provides all
+definitions to typeset a whole document.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

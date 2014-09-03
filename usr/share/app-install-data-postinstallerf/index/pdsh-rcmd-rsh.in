@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pdsh-rcmd-rsh</b>'
+Comment='<span size="xx-large">Provides bsd rcmd capability to pdsh</span>'
+Comment3='
+Pdsh module for bsd rcmd functionality. Note This module
+requires that the pdsh binary be installed setuid root.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://pdsh.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

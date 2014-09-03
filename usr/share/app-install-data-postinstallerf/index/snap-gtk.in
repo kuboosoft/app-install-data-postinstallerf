@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>snap-gtk</b>'
+Comment='<span size="xx-large">Snap! GUI interface</span>'
+Comment3='
+Provides gsnap a GTK frontend to the Snap! system snapshotter
+'
+License='GPLv3'
+Screenshot=''
+Url='http://projects.morsi.org/snap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

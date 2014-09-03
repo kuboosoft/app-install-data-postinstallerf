@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xorg-x11-util-macros</b>'
+Comment='<span size="xx-large">X.Org X11 Autotools macros</span>'
+Comment3='
+X.Org X11 autotools macros required for building the various packages that
+comprise the X Window System.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n mirage
+Name=Mirage
+Comment=A fast GTK+ Image Viewer
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/mirage.png
+Categories=GTK;Graphics;2DGraphics;Viewer;

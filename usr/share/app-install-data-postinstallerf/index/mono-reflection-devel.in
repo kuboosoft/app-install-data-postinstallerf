@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mono-reflection-devel</b>'
+Comment='<span size="xx-large">Development files for Mono.Reflection library</span>'
+Comment3='
+Development files for Mono.Reflection library.
+
+URL          https//github.com/jbevain/mono.reflection
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jbevain/mono.reflection'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

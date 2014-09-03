@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libbdplus-devel</b>'
+Comment='<span size="xx-large">Development files for libbdplus</span>'
+Comment3='
+The libbdplus-devel package contains libraries and header files for
+developing applications that use libbdplus.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.videolan.org/developers/libbdplus.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

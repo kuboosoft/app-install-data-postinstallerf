@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-jinja</b>'
+Comment='<span size="xx-large">Sandboxed template engine</span>'
+Comment3='
+Jinja is a sandboxed template engine written in pure Python. It
+provides a Django-like non-XML syntax and compiles templates into
+executable python code. Its basically a combination of Django
+templates and python code.
+'
+License='BSD'
+Screenshot=''
+Url='http://jinja.pocoo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

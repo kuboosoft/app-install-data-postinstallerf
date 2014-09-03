@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>memaker</b>'
+Comment='<span size="xx-large">An avatar creator</span>'
+Comment3='
+MeMaker gives users a wide variety of images that, when placed
+together, create an avatar. This avatar is intended to represent
+the way that this person is in some way. The goal of the project
+is to have enough images that anyone can create an image that
+they feel would closely represent them without having to use a photo
+in the image itself.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://launchpad.net/memaker'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

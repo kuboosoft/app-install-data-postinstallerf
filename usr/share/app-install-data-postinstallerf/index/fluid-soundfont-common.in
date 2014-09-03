@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>fluid-soundfont-common</b>'
+Comment='<span size="xx-large">Common files for FluidR3 soundfont</span>'
+Comment3='
+
+FluidR3 is the third release of Frank Wens pro-quality GM/GS soundfont.
+The soundfont has lots of excellent samples, including all the GM instruments
+along side with the GS instruments that are recycled and reprogrammed versions
+of the GM presets.
+This package contains common files shared among all FluidR3 soundfont packages.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.hammersound.com/cgi-bin/soundlink.pl?action=view_category&category=Collections&ListStart=0&ListLength=20'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

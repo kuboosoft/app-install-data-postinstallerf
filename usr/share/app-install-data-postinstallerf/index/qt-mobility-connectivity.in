@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qt-mobility-connectivity</b>'
+Comment='<span size="xx-large">QtConnectivity support</span>'
+Comment3='
+QtConnectivity support.
+
+URL          http//qt.digia.com/Product/Qt-Add-Ons/
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qt.digia.com/Product/Qt-Add-Ons/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

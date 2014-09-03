@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>VirtualGL-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for VirtualGL</span>'
+Comment3='
+Development headers and libraries for VirtualGL.
+
+URL          http//www.virtualgl.org/
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.virtualgl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

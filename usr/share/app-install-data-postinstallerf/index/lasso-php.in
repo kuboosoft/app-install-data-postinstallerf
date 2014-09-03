@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lasso-php</b>'
+Comment='<span size="xx-large">Liberty Alliance Single Sign On (lasso) PHP bindings</span>'
+Comment3='
+PHP language bindings for the lasso (Liberty Alliance Single Sign On) library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lasso.entrouvert.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

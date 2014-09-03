@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ren</b>'
+Comment='<span size="xx-large">Rename multiple files</span>'
+Comment3='
+Whereas mv can rename (as opposed to move) only one file at a time,
+ren can rename many files according to search and replacement
+patterns, ala VMS and MS-DOS (but better). ren checks for replacement name
+collisions and handles rename chains (1 goes to 2 goes to 3 etc.)
+gracefully.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://linux.maruhn.com/sec/ren.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

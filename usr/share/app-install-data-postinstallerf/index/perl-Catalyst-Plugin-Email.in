@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-Email</b>'
+Comment='<span size="xx-large">Send emails with Catalyst</span>'
+Comment3='
+Send emails with Catalyst and EmailSend and EmailMIMECreator.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-Email/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

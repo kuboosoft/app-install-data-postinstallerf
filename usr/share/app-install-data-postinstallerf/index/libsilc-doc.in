@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libsilc-doc</b>'
+Comment='<span size="xx-large">Development documentation for libsilc</span>'
+Comment3='
+The SILC Toolkit documentation in HTML format. Useful for writing new SILC
+applications.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.silcnet.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

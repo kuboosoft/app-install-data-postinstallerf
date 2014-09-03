@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>qt5-qtimageformats</b>'
+Comment='<span size="xx-large">Qt5 - QtImageFormats component</span>'
+Comment3='
+The core Qt Gui library by default supports reading and writing image
+files of the most common file formats PNG, JPEG, BMP, GIF and a few more,
+ref. Reading and Writing Image Files. The Qt Image Formats add-on module
+provides optional support for other image file formats, including
+MNG, TGA, TIFF, WBMP.
+
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

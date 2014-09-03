@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>Io-language</b>'
+Comment='<span size="xx-large">Io is a small, prototype-based programming language</span>'
+Comment3='
+Io is a small, prototype-based programming language. The ideas in
+Io are mostly inspired by Smalltalk (all values are objects), Self
+(prototype-based), NewtonScript (differential inheritance), Act1
+(actors and futures for concurrency), LISP (code is a runtime
+inspectable/modifiable tree) and Lua (small, embeddable).
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.iolanguage.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

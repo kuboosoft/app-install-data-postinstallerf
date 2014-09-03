@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>artwiz-aleczapka-fonts</b>'
+Comment='<span size="xx-large">Very small futuristic font family</span>'
+Comment3='
+
+Artwiz is a family of very small futuristic fonts, with varying styles of
+typefaces designed at a single pixel size. The minimal nature of the
+fonts makes them popular with users of lightweight window managers. These
+fonts have been updated by Alec Zapka to be compatible with modern
+software and support an extended character set.
+This is a metapackage, which pulls in all the separated fonts in this family.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://artwizaleczapka.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jackson-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jackson</span>'
+Comment3='
+This package contains javadoc for jackson.
+'
+License='ASL 2.0 or LGPLv2'
+Screenshot=''
+Url='http://jackson.codehaus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

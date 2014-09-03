@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>audacious-plugins-exotic</b>'
+Comment='<span size="xx-large">Optional niche market plugins for Audacious</span>'
+Comment3='
+This package provides optional plugins for Audacious, which do not aim
+at a wide demographic audience. Most users of Audacious do not need this.
+
+For example, included are input plugins for exotic audio file formats,
+SID music (from Commodore 64 and compatibles), AdLib/OPL2 emulation,
+console game music, the Portable Sound Format PSF1/PSF2, Vortex AM/YM
+emulation, Game Boy Advance Sound Format GSF, Nintendo DS Sound Format
+2SF.
+'
+License='GPLv2+ and LGPLv2+ and GPLv3 and MIT and BSD'
+Screenshot=''
+Url='http://audacious-media-player.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

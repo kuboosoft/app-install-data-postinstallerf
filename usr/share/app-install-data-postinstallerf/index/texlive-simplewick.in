@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-simplewick</b>'
+Comment='<span size="xx-large">Simple Wick contractions</span>'
+Comment3='
+The package provides a simple means of drawing Wick
+contractions above and below expressions.
+
+date 2008-08-23 154835 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

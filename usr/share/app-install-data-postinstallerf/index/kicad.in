@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>kicad</b>'
+Comment='<span size="xx-large">Electronic schematic diagrams and printed circuit board artwork</span>'
+Comment3='
+Kicad is an EDA software to design electronic schematic
+diagrams and printed circuit board artwork up to 16 layers.
+Kicad is a set of four softwares and a project manager
+- Eeschema schematic entry
+- Pcbnew board editor
+- Gerbview GERBER viewer (photoplotter documents)
+- Cvpcb footprint selector for components used in the circuit design
+- Kicad project manager
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/kicad'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

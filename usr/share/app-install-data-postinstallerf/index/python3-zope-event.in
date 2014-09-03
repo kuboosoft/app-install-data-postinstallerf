@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python3-zope-event</b>'
+Comment='<span size="xx-large">Zope Event Publication (Python 3)</span>'
+Comment3='
+The zope.event package provides a simple event system. It provides
+an event publishing system and a very simple event-dispatching system
+on which more sophisticated event dispatching systems can be built.
+(For example, a type-based event dispatching system that builds on
+zope.event can be found in zope.component.)
+
+This package contains the version for Python 3.
+'
+License='ZPLv2.1'
+Screenshot=''
+Url='http://pypi.python.org/pypi/zope.event/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

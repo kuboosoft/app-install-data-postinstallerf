@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Gnome2-Vte</b>'
+Comment='<span size="xx-large">Gnome2::Vte Perl module</span>'
+Comment3='
+Gnome2Vte exposes the GNOME Virtual Terminal Emulator APIs to
+Perl applications
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Gnome2-Vte/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

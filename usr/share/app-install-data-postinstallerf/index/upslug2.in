@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>upslug2</b>'
+Comment='<span size="xx-large">Firmware update utility for the nslu2</span>'
+Comment3='
+upslug2 is a command line program intended to allow the upgrade of a LinkSys
+NSLU2 firmware to new or different versions.  Unlike upslug and the LinkSys
+(Sercomm) upgrade utilities, upslug2 will synthesise a complete image
+from a kernel and a root file system, as such it duplicates part of the
+functionality of slugimage.
+
+upslug2 also optimizes the upload to avoid transmitted parts of the image which
+need not be written or are blank (set to the erased flash value of all 1s).
+'
+License='MIT'
+Screenshot=''
+Url='http://www.nslu2-linux.org/wiki/Main/UpSlug2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

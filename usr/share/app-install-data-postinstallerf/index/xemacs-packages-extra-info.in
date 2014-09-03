@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xemacs-packages-extra-info</b>'
+Comment='<span size="xx-large">XEmacs packages documentation in GNU texinfo format</span>'
+Comment3='
+This package contains optional documentation for the XEmacs packages
+collection in GNU texinfo format
+'
+License='GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://www.xemacs.org/Documentation/packageGuide.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

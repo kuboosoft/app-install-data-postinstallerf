@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libguac</b>'
+Comment='<span size="xx-large">The common library used by all C components of Guacamole</span>'
+Comment3='
+libguac is the core library for guacd (the Guacamole proxy) and any protocol
+support plugins for guacd. libguac provides efficient buffered I/O of text and
+base64 data, as well as somewhat abstracted functions for sending Guacamole
+instructions.
+
+'
+License='MPLv1.1 or GPLv2+'
+Screenshot=''
+Url='http://guac-dev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

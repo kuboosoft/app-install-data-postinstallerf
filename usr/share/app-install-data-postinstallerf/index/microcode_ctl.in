@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>microcode_ctl</b>'
+Comment='<span size="xx-large">Tool to transform and deploy CPU microcode update for x86.</span>'
+Comment3='
+The microcode_ctl utility is a companion to the microcode driver written
+by Tigran Aivazian <tigran@aivazian.fsnet.co.uk>.
+
+The microcode update is volatile and needs to be uploaded on each system
+boot i.e. it doesnt reflash your cpu permanently, reboot and it reverts
+back to the old microcode.
+'
+License='GPLv2+ and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://fedorahosted.org/microcode_ctl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

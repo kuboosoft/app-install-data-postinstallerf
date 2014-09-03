@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>devilspie</b>'
+Comment='<span size="xx-large">A window-matching utility</span>'
+Comment3='
+A window-matching utility, inspired by Sawfishs "Matched Windows" option and
+the lack such functionality in Metacity. Devils Pie can be configured to
+detect windows as they are created, and match the window to a set of rules. If
+the window matches the rules, it can perform a series of actions on that
+window.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.burtonini.com/blog/computers/devilspie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

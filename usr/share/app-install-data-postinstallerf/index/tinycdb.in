@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tinycdb</b>'
+Comment='<span size="xx-large">Utility and library for manipulating constant databases</span>'
+Comment3='
+tinycdb is a small, fast and reliable utility and subroutine library for
+creating and reading constant databases. The database structure is tuned
+for fast reading.
+
+This package contains tinycdb utility and shared library.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.corpit.ru/mjt/tinycdb.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

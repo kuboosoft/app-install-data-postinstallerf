@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>taglib-sharp-devel</b>'
+Comment='<span size="xx-large">Provides tag reading and writing for Banshee and other Mono apps</span>'
+Comment3='
+Development files for taglib-sharp.
+
+URL          http//download.banshee-project.org/taglib-sharp/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://download.banshee-project.org/taglib-sharp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

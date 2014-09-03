@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-mceinleger</b>'
+Comment='<span size="xx-large">Creating covers for music cassettes</span>'
+Comment3='
+A package for creating MC-covers on your own. It allows the
+creation of simple covers as well as covers with an additional
+page for more information about the cassette (table of contents
+e.g.). The rotating package is required.
+
+date 2007-01-09 223610 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

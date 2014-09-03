@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>imlib2-devel</b>'
+Comment='<span size="xx-large">Development package for imlib2</span>'
+Comment3='
+This package contains development files for imlib2.
+
+Imlib 2 is a library that does image file loading and saving as well
+as rendering, manipulation, arbitrary polygon support, etc.  It does
+ALL of these operations FAST. Imlib2 also tries to be highly
+intelligent about doing them, so writing naive programs can be done
+easily, without sacrificing speed.  This is a complete rewrite over
+the Imlib 1.x series. The architecture is more modular, simple, and
+flexible.
+'
+License='Imlib2'
+Screenshot=''
+Url='http://docs.enlightenment.org/api/imlib2/html/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

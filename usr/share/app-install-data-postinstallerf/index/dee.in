@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dee</b>'
+Comment='<span size="xx-large">Model to synchronize multiple instances over DBus</span>'
+Comment3='
+Libdee is a library that uses DBus to provide objects allowing you to
+create Model-View-Controller type programs across DBus. It also
+consists of utility objects which extend DBus allowing for peer-to-peer
+discoverability of known objects without needing a central registrar.
+
+'
+License='LGPLv3'
+Screenshot=''
+Url='https://launchpad.net/dee'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

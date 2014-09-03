@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-pgsql_perl5</b>'
+Comment='<span size="xx-large">Pg - Perl5 extension for PostgreSQL</span>'
+Comment3='
+The Pg module permits you to access all functions of the Libpq interface
+of PostgreSQL. Libpq is the programmers interface to PostgreSQL.
+For examples of how to use this module, look at the file test.pl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/pgsql_perl5/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

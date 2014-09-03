@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fedup-dracut-plymouth</b>'
+Comment='<span size="xx-large">plymouth theme for system upgrade progress</span>'
+Comment3='
+The plymouth theme used during system upgrade.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/wgwoods/fedup-dracut'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

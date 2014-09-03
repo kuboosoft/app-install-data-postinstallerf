@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>luckybackup</b>'
+Comment='<span size="xx-large">A powerful, fast and reliable backup and sync tool</span>'
+Comment3='
+luckyBackup is an application that backs-up and/or synchronizes any
+directories with the power of rsync.
+
+It is simple to use, fast (transfers over only changes made and not all data),
+safe (keeps your data safe by checking all declared directories before
+proceeding in any data manipulation ), reliable and fully customizable.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://luckybackup.sourceforge.net/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-yojson-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-yojson</span>'
+Comment3='
+The ocaml-yojson-devel package contains libraries and signature files for
+developing applications that use ocaml-yojson.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://mjambon.com/yojson.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

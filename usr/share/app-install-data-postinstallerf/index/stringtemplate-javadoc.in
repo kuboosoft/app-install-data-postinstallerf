@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>stringtemplate-javadoc</b>'
+Comment='<span size="xx-large">API documentation for stringtemplate</span>'
+Comment3='
+API documentation for stringtemplate.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.stringtemplate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

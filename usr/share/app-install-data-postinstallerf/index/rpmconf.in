@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rpmconf</b>'
+Comment='<span size="xx-large">Tool to handle rpmnew and rpmsave files</span>'
+Comment3='
+This tool search for .rpmnew, .rpmsave and .rpmorig files and ask you what to do
+with them
+Keep current version, place back old version, watch the diff or merge.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://wiki.github.com/xsuchy/rpmconf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

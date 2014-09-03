@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-DBD-Multi</b>'
+Comment='<span size="xx-large">DB Proxy with fail-over and load balancing</span>'
+Comment3='
+This software manages multiple database connections for fail-overs and also
+simple load balancing. It acts as a proxy between your code and your
+database connections, transparently choosing a connection for each query,
+based on your preferences and present availability of the DB server.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DBD-Multi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

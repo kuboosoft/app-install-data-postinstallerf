@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openlmi-indicationmanager-libs</b>'
+Comment='<span size="xx-large">Libraries for CMPI indication manager</span>'
+Comment3='
+Libraries for CMPI indication manager.
+
+URL          http//fedorahosted.org/openlmi/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

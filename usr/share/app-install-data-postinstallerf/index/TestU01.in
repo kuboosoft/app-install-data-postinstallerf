@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>TestU01</b>'
+Comment='<span size="xx-large">Utilities for the statistical testing of uniform random number generators</span>'
+Comment3='
+TestU01 is a software library, implemented in the ANSI C language, and offering
+a collection of utilities for the empirical statistical testing of uniform
+random number generators.
+
+The library implements several types of random number generators in generic
+form, as well as many specific generators proposed in the literature or found
+in widely-used software. It provides general implementations of the classical
+statistical tests for random number generators, as well as several others
+proposed in the literature, and some original ones. These tests can be applied
+to the generators predefined in the library and to user-defined generators.
+'
+License='Custom (Non-Commercial Use Only)'
+Screenshot=''
+Url='http://www.iro.umontreal.ca/~simardr/testu01/tu01.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

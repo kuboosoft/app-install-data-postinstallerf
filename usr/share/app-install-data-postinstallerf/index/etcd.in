@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>etcd</b>'
+Comment='<span size="xx-large">A highly-available key value store for shared configuration</span>'
+Comment3='
+A highly-available key value store for shared configuration.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/coreos/etcd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-HTML-TokeParser-Simple</b>'
+Comment='<span size="xx-large">Easy to use HTML::TokeParser interface</span>'
+Comment3='
+HTMLTokeParser is an excellent module thats often used for parsing HTML.
+However, the tokens returned are not exactly intuitive to parse.  To simplify
+this, HTMLTokeParserSimple allows the user ask more intuitive (read more
+self-documenting) questions about the tokens returned.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-TokeParser-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

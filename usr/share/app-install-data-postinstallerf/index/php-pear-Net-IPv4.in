@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pear-Net-IPv4</b>'
+Comment='<span size="xx-large">IPv4 network calculations and validation</span>'
+Comment3='
+Class used for calculating IPv4 (AF_INET family) address information
+such as network as network address, broadcast address, and IP address
+validity.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Net_IPv4'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

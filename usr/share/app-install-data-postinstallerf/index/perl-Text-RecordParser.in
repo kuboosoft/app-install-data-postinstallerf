@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Text-RecordParser</b>'
+Comment='<span size="xx-large">Read record-oriented files</span>'
+Comment3='
+This module is for reading record-oriented data in a delimited text file.
+The most common example have records separated by newlines and fields
+separated by commas or tabs, but this module aims to provide a consistent
+interface for handling sequential records in a file however they may be
+delimited. Typically this data lists the fields in the first line of the
+file, in which case you should call bind_header to bind the field name (or
+not, and it will be called implicitly). If the first line contains data,
+you can still bind your own field names via bind_fields. Either way, you
+can then use many methods to get at the data as arrays or hashes.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-RecordParser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

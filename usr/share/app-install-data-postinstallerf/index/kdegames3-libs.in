@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdegames3-libs</b>'
+Comment='<span size="xx-large">kdegames3 runtime libraries</span>'
+Comment3='
+kdegames3 runtime libraries.
+
+URL          http//www.kde.org
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

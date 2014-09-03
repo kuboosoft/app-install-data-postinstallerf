@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>drascula</b>'
+Comment='<span size="xx-large">The Vampire Strikes Back</span>'
+Comment3='
+You play the role of John Hacker, a British estate agent, who travels to a
+small village of Transylvania in order to negotiate the sale of some ground
+of Gibraltar with the Count Drascula.
+But unfortunately Hacker is not aware of who is Drascula in reality the most
+terrible vampire with just one idea on his mind DOMINATING the World
+demonstrating that he is even more evil than his brother Vlad.
+
+Notice that music for the game is available as an addon in the separate
+drascula-music package. As are Spanish, German, French and Italian subtitles
+in the drascula-international package.
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://www.scummvm.org/downloads.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

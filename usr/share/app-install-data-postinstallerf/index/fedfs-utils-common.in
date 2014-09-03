@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>fedfs-utils-common</b>'
+Comment='<span size="xx-large">Common files for FedFS</span>'
+Comment3='
+This package contains files common to all of the fedfs packages.
+
+RFC 5716 introduces the Federated File System (FedFS, for short). FedFS
+is an extensible standardized mechanism by which system administrators
+construct a coherent file name space across multiple file servers using
+file system referrals.
+A file system referral is like a symbolic link to another file system
+share, but it is not visible to applications. It behaves like an
+auto-mounted directory where a new file system mount is done when an
+'
+License='GPLv2'
+Screenshot=''
+Url='http://wiki.linux-nfs.org/wiki/index.php/FedFsUtilsProject'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

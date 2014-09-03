@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-sendgrid</b>'
+Comment='<span size="xx-large">SendGrid library for Python</span>'
+Comment3='
+This library allows to quickly and easily send emails through
+SendGrid using Python.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/sendgrid/sendgrid-python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

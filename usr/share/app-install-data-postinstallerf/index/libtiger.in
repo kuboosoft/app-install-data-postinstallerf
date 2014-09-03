@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libtiger</b>'
+Comment='<span size="xx-large">Rendering library for Kate streams using Pango and Cairo</span>'
+Comment3='
+Libtiger is a rendering library for Kate streams using Pango and Cairo.
+More information about Kate streams may be found at
+http//wiki.xiph.org/index.php/OggKate
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libtiger.googlecode.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

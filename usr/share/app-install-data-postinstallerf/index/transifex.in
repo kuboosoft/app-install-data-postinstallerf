@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>transifex</b>'
+Comment='<span size="xx-large">A system for distributed translation submissions</span>'
+Comment3='
+Transifex is a web-system that facilitates the process of submitting
+translations in remote and disparate version control systems (VCS).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pypi.python.org/pypi/transifex'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

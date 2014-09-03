@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>owncloud-csync-plugin-sftp</b>'
+Comment='<span size="xx-large">A user level bidirectional client only file synchronizer</span>'
+Comment3='
+ocsync is an implementation of a file synchronizer which provides the
+feature of roaming home directories for clients. ocsync makes use
+of libsmbclient in Samba/Windows environments.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://owncloud.org/sync-clients/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

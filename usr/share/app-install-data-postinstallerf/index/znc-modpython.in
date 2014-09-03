@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>znc-modpython</b>'
+Comment='<span size="xx-large">python3 module for ZNC</span>'
+Comment3='
+python3 module for ZNC
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://znc.in'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

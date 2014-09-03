@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>plee-the-bear</b>'
+Comment='<span size="xx-large">2D platform game</span>'
+Comment3='
+Plee the Bear is a 2D platform game like those we found on consoles in the
+beginning of the 90s. The basis of the scenario fit in few lines
+
+4 PM or so, Plee wakes up, tired. He has dreamed again about that awesome
+period when he went across the entire world together with his belle. He
+puts his leg in the honey pot... empty! Moreover every single honey pot in
+the house is empty. "One more trick of that kid", he thinks. "Im going to
+give him such a wallop of which he sure will remember".
+Following honey drops on the ground, Plee reaches the edge of the forest.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://plee-the-bear.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

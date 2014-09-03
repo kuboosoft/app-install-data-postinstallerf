@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xemacs-muse-el</b>'
+Comment='<span size="xx-large">Muse lisp source files for XEmacs</span>'
+Comment3='
+This package contains the source lisp files for Muse for XEmacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mwolson.org/projects/MuseMode.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

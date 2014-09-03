@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sblim-cmpi-syslog</b>'
+Comment='<span size="xx-large">SBLIM syslog instrumentation</span>'
+Comment3='
+Standards Based Linux Instrumentation Syslog Providers
+
+URL          http//sourceforge.net/projects/sblim/
+'
+License='EPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/sblim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

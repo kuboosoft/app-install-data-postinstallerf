@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-GeoIP</b>'
+Comment='<span size="xx-large">Python bindings for the GeoIP geographical lookup libraries</span>'
+Comment3='
+This package contains the Python bindings for the GeoIP API, allowing IP to
+location lookups to country, city and organization level within Python code.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.maxmind.com/download/geoip/api/python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

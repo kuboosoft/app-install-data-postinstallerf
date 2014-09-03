@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ams</b>'
+Comment='<span size="xx-large">Alsa Modular Synth, a realtime modular synthesizer</span>'
+Comment3='
+AlsaModularSynth is a realtime modular synthesizer and effect
+processor. It features MIDI controlled modular software synthesis,
+realtime effect processing with capture, full control of all synthesis
+and effect parameters via MIDI, integrated LADSPA Browser with search
+capability and JACK Support.
+
+NOTE Example files are in /usr/share/ams
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://alsamodular.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

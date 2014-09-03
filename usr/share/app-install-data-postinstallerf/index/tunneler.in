@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tunneler</b>'
+Comment='<span size="xx-large">Clone of legendary Tunneler game</span>'
+Comment3='
+A clone of legendary game made by Geoffrey Silverton in 1991. In the game
+two players using the same keyboard and the same screen each control an
+underground tank. Goal is to find and destroy the opponents tank. Since
+only small part of the map is displayed on the split screen, you might
+actually have some searching to do.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://users.jyu.fi/~tvkalvas/code/tunneler/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

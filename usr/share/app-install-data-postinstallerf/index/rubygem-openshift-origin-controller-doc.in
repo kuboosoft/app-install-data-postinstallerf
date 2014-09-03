@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-openshift-origin-controller-doc</b>'
+Comment='<span size="xx-large">Cloud Development Controller docs</span>'
+Comment3='
+Cloud Development Controller ri documentation
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openshift.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

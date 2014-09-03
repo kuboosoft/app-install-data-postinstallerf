@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>carto</b>'
+Comment='<span size="xx-large">Mapnik style sheet compiler</span>'
+Comment3='
+Carto is a style sheet compiler for Mapnik. Its an evolution of
+the Cascadenik idea and language, with an emphasis on speed and
+flexibility.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/mapbox/carto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

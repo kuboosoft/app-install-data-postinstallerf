@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>giblib</b>'
+Comment='<span size="xx-large">Simple library and a wrapper for imlib2</span>'
+Comment3='
+giblib is a utility library used by many of the applications from
+linuxbrit.co.uk. It incorporates doubly linked lists, some string
+functions, and a wrapper for imlib2. The wrapper does two things.
+It gives you access to fontstyles, which can be loaded from files,
+saved to files or defined dynamically through the API. It also,
+and more importantly, wraps imlib2s context API.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://linuxbrit.co.uk/giblib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

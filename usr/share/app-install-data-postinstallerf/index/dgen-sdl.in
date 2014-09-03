@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dgen-sdl</b>'
+Comment='<span size="xx-large">A Sega Genesis (MegaDrive outside the US) emulator</span>'
+Comment3='
+DGen/SDL is an emulator for the Sega Genesis/MegaDrive game console. It
+supports save states, full screen mode, interlace mode, Game Genie, joystick,
+compressed ROM images, and more.
+'
+License='BSD'
+Screenshot=''
+Url='http://dgen.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

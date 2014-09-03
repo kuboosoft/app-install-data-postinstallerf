@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gpsd-devel</b>'
+Comment='<span size="xx-large">Development files for the gpsd library</span>'
+Comment3='
+This package provides C header files and python modules for the gpsd shared
+libraries that manage access to a GPS for applications
+
+'
+License='BSD'
+Screenshot=''
+Url='http://catb.org/gpsd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

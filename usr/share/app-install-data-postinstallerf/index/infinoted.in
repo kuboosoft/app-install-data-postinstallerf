@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>infinoted</b>'
+Comment='<span size="xx-large">Server for the infinote protocol</span>'
+Comment3='
+Server daemon for the infinote protocol.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gobby.0x539.de/trac/wiki/Infinote/Libinfinity'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

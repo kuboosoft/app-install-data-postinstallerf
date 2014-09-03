@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-method_source</b>'
+Comment='<span size="xx-large">Retrieve the source code for a method</span>'
+Comment3='
+Retrieve the source code for a method
+'
+License='MIT'
+Screenshot=''
+Url='http://banisterfiend.wordpress.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

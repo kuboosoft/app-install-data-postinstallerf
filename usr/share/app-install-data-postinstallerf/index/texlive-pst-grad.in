@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-pst-grad</b>'
+Comment='<span size="xx-large">Filling with colour gradients, using PStricks</span>'
+Comment3='
+Pst-grad is a PSTricks based package for filling with colour
+gradients. Supported are colours in the RGB, CMYK or HSB
+models. Other colour gradient mechanisms are to be found in
+package pst-slpe.
+
+date 2007-07-11 115031 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

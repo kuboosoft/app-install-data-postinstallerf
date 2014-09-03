@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mpich-autoload</b>'
+Comment='<span size="xx-large">Load mpich automatically into profile</span>'
+Comment3='
+This package contains profile files that make mpich automatically loaded.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mpich.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

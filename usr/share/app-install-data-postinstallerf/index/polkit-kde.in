@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>polkit-kde</b>'
+Comment='<span size="xx-large">PolicyKit integration for KDE Desktop</span>'
+Comment3='
+Provides Policy Kit Authentication Agent that nicely fits to KDE.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/base/polkit-kde-agent-1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

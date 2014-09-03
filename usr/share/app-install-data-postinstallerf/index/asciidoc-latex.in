@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>asciidoc-latex</b>'
+Comment='<span size="xx-large">Support for asciidoc latex output</span>'
+Comment3='
+Support for asciidoc latex output.
+'
+License='GPL+ and GPLv2+'
+Screenshot=''
+Url='http://www.methods.co.nz/asciidoc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

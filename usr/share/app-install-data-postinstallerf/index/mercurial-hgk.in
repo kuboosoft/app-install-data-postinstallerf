@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mercurial-hgk</b>'
+Comment='<span size="xx-large">Hgk interface for mercurial</span>'
+Comment3='
+A Mercurial extension for displaying the change history graphically
+using Tcl/Tk.  Displays branches and merges in an easily
+understandable way and shows diffs for each revision.  Based on
+gitk for the git SCM.
+
+Adds the "hg view" command.  See
+http//www.selenic.com/mercurial/wiki/index.cgi/UsingHgk for more
+documentation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.selenic.com/mercurial/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

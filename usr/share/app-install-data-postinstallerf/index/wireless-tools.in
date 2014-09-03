@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>wireless-tools</b>'
+Comment='<span size="xx-large">Wireless ethernet configuration tools</span>'
+Comment3='
+This package contain the Wireless tools, used to manipulate
+the Wireless Extensions. The Wireless Extension is an interface
+allowing you to set Wireless LAN specific parameters and get the
+specific stats for wireless networking equipment.
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

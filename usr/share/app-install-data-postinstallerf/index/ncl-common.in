@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ncl-common</b>'
+Comment='<span size="xx-large">Common files for NCL and NCAR Graphics</span>'
+Comment3='
+Common files for NCL and NCAR Graphics.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.ncl.ucar.edu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

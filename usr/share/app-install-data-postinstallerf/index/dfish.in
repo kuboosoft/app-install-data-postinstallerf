@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dfish</b>'
+Comment='<span size="xx-large">A generic file selection front-end</span>'
+Comment3='
+Daniels File Selection Hack (dfish) is a generic front-end
+for selecting files.
+Running dfish will give you a menu with all the files in
+the specified directory. When you double-click a file,
+an arbitrary command will be run.
+'
+License='GPL+'
+Screenshot=''
+Url='http://danielsoft.sweb.cz/dfish.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>saphire</b>'
+Comment='<span size="xx-large">Yet another shell</span>'
+Comment3='
+Yet another shell
+
+URL          http//ab25cq.wiki.fc2.com/
+'
+License='MIT'
+Screenshot=''
+Url='http://ab25cq.wiki.fc2.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

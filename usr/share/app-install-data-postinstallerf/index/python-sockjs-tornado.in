@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-sockjs-tornado</b>'
+Comment='<span size="xx-large">SockJS server implementation for Tornado</span>'
+Comment3='
+SockJS-tornado is a Python server side counterpart of the SockJS-client
+browser library running on top of the Tornado framework.
+'
+License='MIT'
+Screenshot=''
+Url='https://pypi.python.org/pypi/sockjs-tornado'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

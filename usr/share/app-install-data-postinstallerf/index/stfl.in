@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>stfl</b>'
+Comment='<span size="xx-large">The Structured Terminal Forms Language/Library</span>'
+Comment3='
+STFL is a library which implements a curses-based widget set for text
+terminals.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.clifford.at/stfl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

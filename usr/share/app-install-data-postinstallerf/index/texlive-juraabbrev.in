@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-juraabbrev</b>'
+Comment='<span size="xx-large">Abbreviations for typesetting (German) juridical documents</span>'
+Comment3='
+This package should be helpful for people working on (German)
+law. It helps you to handle abbreviations and creates a list of
+those (pre-defined) abbreviations that have actually been used
+in the document
+
+date 2007-01-08 141254 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

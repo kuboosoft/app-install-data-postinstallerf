@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python3-celery</b>'
+Comment='<span size="xx-large">Distributed Task Queue</span>'
+Comment3='
+An open source asynchronous task queue/job queue based on
+distributed message passing. It is focused on real-time
+operation, but supports scheduling as well.
+
+The execution units, called tasks, are executed concurrently
+on one or more worker nodes using multiprocessing, Eventlet
+or gevent. Tasks can execute asynchronously (in the background)
+or synchronously (wait until ready).
+Celery is used in production systems to process millions of
+'
+License='BSD'
+Screenshot=''
+Url='http://celeryproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

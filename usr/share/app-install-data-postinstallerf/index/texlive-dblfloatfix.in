@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-dblfloatfix</b>'
+Comment='<span size="xx-large">Fixes for twocolumn floats</span>'
+Comment3='
+The package solves two problems floats in a twocolumn document
+come out in the right order and allowed float positions are now
+[tbp]. The package actually merges facilities from fixltx2e and
+stfloats.
+
+date 2013-01-29 135002 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

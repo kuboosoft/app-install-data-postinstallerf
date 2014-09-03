@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-varisize</b>'
+Comment='<span size="xx-large">Change font size in Plain TeX</span>'
+Comment3='
+A series of files, each of which defines a size-change macro.
+Note that 10point.tex is by convention called by one of the
+other files, so that theres always a "way back".
+
+date 2008-11-21 013408 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>blas64</b>'
+Comment='<span size="xx-large">The Basic Linear Algebra Subprograms library (64bit INTEGER)</span>'
+Comment3='
+BLAS (Basic Linear Algebra Subprograms) is a standard library which
+provides a number of basic algorithms for numerical algebra. This build
+has 64bit INTEGER support.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.netlib.org/lapack/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

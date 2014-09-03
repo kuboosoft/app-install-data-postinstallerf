@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>claws-mail-plugins-notification</b>'
+Comment='<span size="xx-large">Various ways to notify about new messages in Claws Mail</span>'
+Comment3='
+This plugin collects various ways to notify the user of new (and possibly
+unread) mail. Currently, a pop-up and a mail banner are implemented.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://claws-mail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>grid-packaging-tools</b>'
+Comment='<span size="xx-large">Grid Packaging Tools (GPT)</span>'
+Comment3='
+GPT is a collection of packaging tools built around an XML based
+packaging data format. This format provides a straight forward way to
+define complex dependency and compatibility relationships between
+packages. The tools provide a means for developers to easily define the
+packaging data and include it as part of their source code distribution.
+Binary packages can be automatically generated from this data. The
+packages defined by GPT are compatible with other packages and can be
+easily converted.
+'
+License='NCSA'
+Screenshot=''
+Url='http://www.gridpackagingtools.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

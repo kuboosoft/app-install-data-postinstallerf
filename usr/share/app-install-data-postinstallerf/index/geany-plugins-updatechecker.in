@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geany-plugins-updatechecker</b>'
+Comment='<span size="xx-large">Automatically check for Geany updates</span>'
+Comment3='
+UpdateChecker is a plugin for Geany, which is able to check whether there is
+a more recent version of Geany available.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

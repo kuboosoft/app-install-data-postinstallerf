@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>owfs-libs</b>'
+Comment='<span size="xx-large">Core library providing base functions to other OWFS modules</span>'
+Comment3='
+owfs-libs is a core library providing base functions to other OWFS modules.
+
+URL          http//www.owfs.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.owfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

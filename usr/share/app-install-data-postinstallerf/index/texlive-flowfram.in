@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-flowfram</b>'
+Comment='<span size="xx-large">Create text frames for posters, brochures or magazines</span>'
+Comment3='
+The flowfram package enables you to create frames in a document
+such that the contents of the document environment flow from
+one frame to the next in the order in which they were defined.
+This is useful for creating posters or magazines, indeed any
+form of document that does not conform to the standard one or
+two column layout.
+
+date 2012-11-11 102517 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

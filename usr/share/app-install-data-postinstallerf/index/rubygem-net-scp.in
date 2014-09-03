@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-net-scp</b>'
+Comment='<span size="xx-large">A pure Ruby implementation of the SCP client protocol</span>'
+Comment3='
+A pure Ruby implementation of the SCP client protocol
+'
+License='MIT'
+Screenshot=''
+Url='http://net-ssh.rubyforge.org/scp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

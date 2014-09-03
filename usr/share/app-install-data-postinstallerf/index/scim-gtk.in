@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>scim-gtk</b>'
+Comment='<span size="xx-large">Smart Common Input Method Gtk IM module</span>'
+Comment3='
+This package provides a GTK input method module for SCIM.
+
+URL          http//www.scim-im.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.scim-im.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

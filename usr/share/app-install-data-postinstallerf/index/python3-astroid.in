@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-astroid</b>'
+Comment='<span size="xx-large">Python Abstract Syntax Tree New Generation</span>'
+Comment3='
+The aim of this module is to provide a common base representation of
+python source code for projects such as pychecker, pyreverse,
+pylint, and others. It extends the class defined in the compiler.ast
+python module with some additional methods and attributes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.astroid.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

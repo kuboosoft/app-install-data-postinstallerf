@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>hornetq</b>'
+Comment='<span size="xx-large">High performance messaging system</span>'
+Comment3='
+HornetQ is an open source project to build a multi-protocol, embeddable,
+very high performance, clustered, asynchronous messaging system.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/hornetq'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

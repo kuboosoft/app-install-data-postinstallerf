@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Devel-Trace</b>'
+Comment='<span size="xx-large">Print out each line before it is executed (like sh -x)</span>'
+Comment3='
+If you run your program with perl -dTrace program, this module will print
+a message to standard error just before each line is executed.
+
+This is something like the shells -x option.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Trace/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

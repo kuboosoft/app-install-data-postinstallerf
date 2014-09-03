@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cegui-devel</b>'
+Comment='<span size="xx-large">Development files for cegui</span>'
+Comment3='
+Development files for cegui
+
+URL          http//www.cegui.org.uk
+'
+License='MIT'
+Screenshot=''
+Url='http://www.cegui.org.uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

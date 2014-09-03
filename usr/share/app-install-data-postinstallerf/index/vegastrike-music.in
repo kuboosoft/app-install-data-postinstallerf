@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vegastrike-music</b>'
+Comment='<span size="xx-large">Music for Vega Strike</span>'
+Comment3='
+Music for Vega Strike, a GPL 3D OpenGL Action RPG space sim that allows
+a player to trade and bounty hunt. This archive contains the music files
+necessary to hear music in VegaStrike. These files are *not* essential to
+play the game.
+'
+License='GPL+'
+Screenshot=''
+Url='http://vegastrike.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

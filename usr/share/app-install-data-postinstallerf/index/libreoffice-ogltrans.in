@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libreoffice-ogltrans</b>'
+Comment='<span size="xx-large">3D OpenGL slide transitions for LibreOffice</span>'
+Comment3='
+OpenGL Transitions enable 3D slide transitions to be used in LibreOffice.
+Requires good quality 3D support for your graphics card for best experience.
+'
+License='(MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and Artistic and MPLv2.0'
+Screenshot=''
+Url='http://www.libreoffice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-procIAGssymp</b>'
+Comment='<span size="xx-large">Macros for IAG symposium papers</span>'
+Comment3='
+This package provides (re-)definitions of some LaTeX commands
+that can be useful for the preparation of a paper with the
+style of the proceeding of symposia sponsored by the
+International Association of Geodesy (IAG) published by
+Springer-Verlag.
+
+date 2007-01-06 211004 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

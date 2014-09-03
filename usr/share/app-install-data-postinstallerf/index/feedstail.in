@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>feedstail</b>'
+Comment='<span size="xx-large">A tail-f-like utility for feeds</span>'
+Comment3='
+Feedstail is a tail-f-like utility for feeds. It monitors a
+feed and emits new entries.
+
+Feedstail aims to be simple, hackable and compatible
+with rsstail, its C brother.
+'
+License='GPLv3+ and Public Domain'
+Screenshot=''
+Url='http://pypi.python.org/pypi/feedstail/0.4.0'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

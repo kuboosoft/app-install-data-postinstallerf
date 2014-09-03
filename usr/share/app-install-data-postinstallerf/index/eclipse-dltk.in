@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>eclipse-dltk</b>'
+Comment='<span size="xx-large">Dynamic Languages Toolkit (DLTK) Eclipse plugin</span>'
+Comment3='
+Dynamic Languages Toolkit (DLTK) is a tool for vendors, researchers, and users
+who rely on dynamic languages. DLTK is comprised of a set of extensible
+frameworks designed to reduce the complexity of building full featured
+development environments for dynamic languages such as PHP and Perl.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/dltk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

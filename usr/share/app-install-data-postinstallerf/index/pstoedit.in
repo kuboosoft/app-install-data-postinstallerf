@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pstoedit</b>'
+Comment='<span size="xx-large">Translates PostScript and PDF graphics into other vector formats</span>'
+Comment3='
+Pstoedit converts PostScript and PDF files to various vector graphic
+formats. The resulting files can be edited or imported into various
+drawing packages. Pstoedit comes with a large set of integrated format
+drivers
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.pstoedit.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>json-glib</b>'
+Comment='<span size="xx-large">Library for JavaScript Object Notation format</span>'
+Comment3='
+json-glib is a library providing serialization and deserialization support
+for the JavaScript Object Notation (JSON) format.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/JsonGlib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

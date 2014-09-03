@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-babel-ukraineb</b>'
+Comment='<span size="xx-large">babel-ukraineb package</span>'
+Comment3='
+babel-ukraineb package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

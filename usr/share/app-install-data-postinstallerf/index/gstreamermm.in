@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gstreamermm</b>'
+Comment='<span size="xx-large">C++ wrapper for GStreamer library</span>'
+Comment3='
+GStreamermm is a C++ wrapper library for the multimedia library
+GStreamer (http//gstreamer.freedesktop.org).  It is designed to allow
+C++ development of applications that work with multi-media.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-camlp5-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-camlp5</span>'
+Comment3='
+The ocaml-camlp5-devel package contains libraries and signature files for
+developing applications that use ocaml-camlp5.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://pauillac.inria.fr/~ddr/camlp5/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

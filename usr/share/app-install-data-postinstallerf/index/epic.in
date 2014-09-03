@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>epic</b>'
+Comment='<span size="xx-large">An ircII chat client</span>'
+Comment3='
+EPIC (Enhanced Programmable ircII Client) is an advanced ircII chat
+client.  Chat clients connect to servers around the world, enabling
+you to chat with other people.
+'
+License='Freely redistributable without restriction and BSD'
+Screenshot=''
+Url='http://www.epicsol.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

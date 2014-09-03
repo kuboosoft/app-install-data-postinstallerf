@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal7-translation_table</b>'
+Comment='<span size="xx-large">UI for quick translation of dynamic strings</span>'
+Comment3='
+UI for quick translation of taxonomies and menus. The i18n module allows for
+translation of taxonomy terms and menu items, but the process is tedious - you
+need to look up strings you want to translate, there is no overview of whats
+already translated etc.
+
+This module presents your taxonomy terms or menu items in a table, and
+each language has a corresponding column. Just fill out the translations
+and click Save.
+Requires the i18n module, and either taxonomy or menu string translation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/translation_table'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

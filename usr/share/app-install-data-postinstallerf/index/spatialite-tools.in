@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>spatialite-tools</b>'
+Comment='<span size="xx-large">A set of useful CLI tools for SpatiaLite</span>'
+Comment3='
+Spatialite-Tools is a set of useful CLI tools for SpatiaLite.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://www.gaia-gis.it/fossil/spatialite-tools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

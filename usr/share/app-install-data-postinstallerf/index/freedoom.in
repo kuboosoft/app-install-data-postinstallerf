@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>freedoom</b>'
+Comment='<span size="xx-large">Replacement game files for doom game engines</span>'
+Comment3='
+A set of game resources for the DOOM game engine.  While the Doom source code
+is Free, you currently still need one of the proprietary IWAD files from id in
+order to play Doom. Freedoom aims to create a Free alternative. Combined with
+the GPL-licensed Doom source code this will result in a completely Free
+Doom-based game.
+'
+License='BSD'
+Screenshot=''
+Url='https://savannah.nongnu.org/projects/freedoom/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

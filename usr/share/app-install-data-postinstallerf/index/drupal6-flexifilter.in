@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>drupal6-flexifilter</b>'
+Comment='<span size="xx-large">Allows non-admins to create their own, configurable custom filters</span>'
+Comment3='
+Flexifilter is a module that allows non-admins to create their own,
+configurable custom filters. It is not limited to simple text
+replacement or regexp replacement; it includes logic such as if() and
+while() statements, and is easily extendable by other modules.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/flexifilter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

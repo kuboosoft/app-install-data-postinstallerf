@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>adjtimex</b>'
+Comment='<span size="xx-large">A utility for adjusting kernel time variables</span>'
+Comment3='
+Adjtimex provides raw access to kernel time variables. On standalone
+or intermittently connected machines, root can use adjtimex to correct
+for systematic drift. If your machine is connected to the Internet or
+is equipped with a precision oscillator or radio clock, you should
+instead manage the system clock with the xntpd program. Users can use
+adjtimex to view kernel time variables.
+'
+License='GPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

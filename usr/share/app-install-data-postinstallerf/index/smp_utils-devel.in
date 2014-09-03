@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>smp_utils-devel</b>'
+Comment='<span size="xx-large">Development library and header files for the sg3_utils library</span>'
+Comment3='
+This package contains the smp_utils library and its header files for
+developing applications.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://sg.danny.cz/sg/smp_utils.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

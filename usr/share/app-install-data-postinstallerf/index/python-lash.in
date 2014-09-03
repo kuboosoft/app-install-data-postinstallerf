@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-lash</b>'
+Comment='<span size="xx-large">Python wrapper for LASH</span>'
+Comment3='
+Contains Python language bindings for developing Python applications that use
+LASH.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/lash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

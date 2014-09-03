@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>expatpp-devel</b>'
+Comment='<span size="xx-large">Headers and development libraries for expatpp</span>'
+Comment3='
+
+You should install this package if you would like to
+develop code based on expatpp.
+'
+License='MPLv1.1'
+Screenshot=''
+Url='http://sourceforge.net/projects/expatpp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

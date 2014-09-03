@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-hjsmin-devel</b>'
+Comment='<span size="xx-large">Haskell hjsmin library development files</span>'
+Comment3='
+This package provides the development files for the Haskell hjsmin library.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/hjsmin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tabled</b>'
+Comment='<span size="xx-large">Distributed key/value table service</span>'
+Comment3='
+tabled provides an infinitely scalable, lexicographically sorted
+key/value look-up table. Keys cannot exceed 1024 bytes; values can be
+any size, including several gigabytes or more.
+
+tabled user interface is HTTP REST, and is intended to be compatible with
+existing Amazon S3 clients.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hail.wiki.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

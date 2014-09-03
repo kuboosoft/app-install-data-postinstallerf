@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-context-chromato</b>'
+Comment='<span size="xx-large">ConTeXt macros for chromatograms</span>'
+Comment3='
+The module provides macros for drawing chromatograms.
+
+date 2006-08-27 164102 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

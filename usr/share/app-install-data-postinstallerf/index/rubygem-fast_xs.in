@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>rubygem-fast_xs</b>'
+Comment='<span size="xx-large">Provides C extensions for escaping text</span>'
+Comment3='
+fast_xs provides C extensions for escaping text.
+The original String#fast_xs method is based on the xchar code by Sam Ruby
+* http//intertwingly.net/stories/2005/09/28/xchar.rb
+* http//intertwingly.net/blog/2005/09/28/XML-Cleansing
+_why also packages an older version with Hpricot (patches submitted).
+The version here should be compatible with the latest version of Hpricot
+code.
+Ruby on Rails will automatically use String#fast_xs from either Hpricot
+or this gem version with the bundled Builder package.
+String#fast_xs is an almost exact translation of Sam Rubys original
+'
+License='MIT'
+Screenshot=''
+Url='http://fast-xs.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

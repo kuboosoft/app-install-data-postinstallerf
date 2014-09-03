@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kchmviewer-qt</b>'
+Comment='<span size="xx-large">Qt4-based CHM viewer</span>'
+Comment3='
+KchmViewer is a chm (MS HTML help file format) viewer.
+
+This package contains the Qt-only version.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.kchmviewer.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

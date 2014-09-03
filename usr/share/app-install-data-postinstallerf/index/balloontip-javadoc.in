@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>balloontip-javadoc</b>'
+Comment='<span size="xx-large">Javadoc documentation for balloontip</span>'
+Comment3='
+Javadoc documentation for balloontip
+'
+License='BSD'
+Screenshot=''
+Url='https://balloontip.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

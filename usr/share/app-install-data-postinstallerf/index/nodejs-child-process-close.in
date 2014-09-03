@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-child-process-close</b>'
+Comment='<span size="xx-large">Make child_process objects emit close events</span>'
+Comment3='
+This module makes child process objects, (created with spawn, fork, exec or
+execFile) emit the close event in node v0.6 like they do in node v0.8. This
+makes it easier to write code that works correctly on both versions of node.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/piscisaureus/child-process-close'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

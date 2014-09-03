@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>augeas-vala</b>'
+Comment='<span size="xx-large">Vala bindings for augeas</span>'
+Comment3='
+Vala bindings for augeas.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gitorious.org/valastuff/augeas-vala/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

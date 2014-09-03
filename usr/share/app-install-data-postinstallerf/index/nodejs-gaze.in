@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-gaze</b>'
+Comment='<span size="xx-large">A globbing fs.watch wrapper built from parts of other watch libraries</span>'
+Comment3='
+This Node.js module provides a globbing fs.watch wrapper built from the best
+parts of other fine watch libraries speedy data behavior from chokidar, the
+API interface from watch, and file globbing using glob.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/shama/gaze'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

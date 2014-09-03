@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>htmlcleaner</b>'
+Comment='<span size="xx-large">HTML parser written in Java</span>'
+Comment3='
+HtmlCleaner is open-source HTML parser written in Java. HTML found on Web is
+usually dirty, ill-formed and unsuitable for further processing.
+For any serious consumption of such documents, it is necessary to first
+clean up the mess and bring the order to tags, attributes and ordinary text.
+For the given HTML document, HtmlCleaner reorders individual elements and
+produces well-formed XML. By default, it follows similar rules that the most
+of web browsers use in order to create Document Object Model. However, user
+may provide custom tag and rule set for tag filtering and balancing.
+'
+License='BSD'
+Screenshot=''
+Url='http://htmlcleaner.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-Biostrings-devel</b>'
+Comment='<span size="xx-large">Development files for R-Biostrings</span>'
+Comment3='
+The R-Biostrings-devel package contains libraries and header files for
+developing applications that use R-Biostrings.
+
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/Biostrings.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>logserial</b>'
+Comment='<span size="xx-large">Package for logging incoming bytes on asynchronous serial ports</span>'
+Comment3='
+Package for logging incoming bytes on asynchronous serial ports.
+It was written for loging calls on our telephone central, but
+you can use it for any devices connected to serial ports. From
+version 0.4 it can be used to send data through serial line.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.ibiblio.org/pub/Linux/system/serial/logserial-0.4.2.lsm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

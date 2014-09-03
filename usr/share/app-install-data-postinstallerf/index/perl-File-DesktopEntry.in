@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-File-DesktopEntry</b>'
+Comment='<span size="xx-large">Object to handle .desktop files</span>'
+Comment3='
+This module is used to work with .desktop files. The format of these files
+is specified by the freedesktop "Desktop Entry" specification. This module
+can parse these files but also knows how to run the applications defined by
+these files. For this module version 1.0 of the specification was used.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-DesktopEntry/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

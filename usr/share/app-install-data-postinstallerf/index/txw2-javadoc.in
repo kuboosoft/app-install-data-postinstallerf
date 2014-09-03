@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>txw2-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for txw2</span>'
+Comment3='
+This package contains the API documentation for txw2.
+'
+License='CDDL and GPLv2 with exceptions'
+Screenshot=''
+Url='https://txw.dev.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-rails-observers</b>'
+Comment='<span size="xx-large">Rails observer (removed from core in Rails 4.0)</span>'
+Comment3='
+Rails observer (removed from core in Rails 4.0). ActiveModelObserver,
+ActiveRecordObserver and ActionControllerCachingSweeper extracted
+from Rails.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rails/rails-observers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

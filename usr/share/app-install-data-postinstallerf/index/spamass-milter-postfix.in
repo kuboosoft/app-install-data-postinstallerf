@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spamass-milter-postfix</b>'
+Comment='<span size="xx-large">Postfix support for spamass-milter</span>'
+Comment3='
+This package adds support for running spamass-milter using a Unix-domain
+socket to communicate with the Postfix MTA.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/spamass-milt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

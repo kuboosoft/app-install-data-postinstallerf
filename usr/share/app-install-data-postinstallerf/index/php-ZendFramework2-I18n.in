@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-I18n</b>'
+Comment='<span size="xx-large">Zend Framework 2: i18n Component</span>'
+Comment3='
+ZendI18n comes with a complete translation suite which supports all major
+formats and includes popular features like plural translations and text
+domains. The Translator component is mostly dependency free, except for
+the fallback to a default locale, where it relies on the Intl PHP extension.
+
+The translator itself is initialized without any parameters, as any
+configuration to it is optional. A translator without any translations
+will actually do nothing but just return the given message IDs.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.i18n.translating.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

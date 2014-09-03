@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>media-player-info</b>'
+Comment='<span size="xx-large">Data files describing media player capabilities</span>'
+Comment3='
+media-player-info is a repository of data files describing media player
+(mostly USB Mass Storage ones) capabilities. These files contain information
+about the directory layout to use to add music to these devices, about the
+supported file formats, etc.
+
+The package also installs a udev rule to identify media player devices.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/media-player-info'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

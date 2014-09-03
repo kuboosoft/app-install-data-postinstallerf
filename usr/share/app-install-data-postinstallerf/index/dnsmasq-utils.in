@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dnsmasq-utils</b>'
+Comment='<span size="xx-large">Utilities for manipulating DHCP server leases</span>'
+Comment3='
+Utilities that use the standard DHCP protocol to
+query/remove a DHCP servers leases.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.thekelleys.org.uk/dnsmasq/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

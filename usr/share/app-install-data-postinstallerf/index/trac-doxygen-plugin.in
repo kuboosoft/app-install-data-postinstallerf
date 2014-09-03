@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>trac-doxygen-plugin</b>'
+Comment='<span size="xx-large">Integrates doxygen documentation into Trac</span>'
+Comment3='
+The aim is to embed one or multiple doxygen-generated documentation(s)
+within Trac, in order to have consistent look and feel, and easy referencing
+to doxygen pages using the usual TracLinks and the doxygen prefix.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/DoxygenPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>pam_ssh</b>'
+Comment='<span size="xx-large">PAM module for use with SSH keys and ssh-agent</span>'
+Comment3='
+This PAM module provides single sign-on behavior for UNIX using SSH keys.
+Users are authenticated by decrypting their SSH private keys with the
+password provided. In the first PAM login session phase, an ssh-agent
+process is started and keys are added. The same agent is used for the
+following PAM sessions. In any case the appropriate environment variables
+are set in the session phase.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/pam-ssh/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

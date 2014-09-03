@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-slovak</b>'
+Comment='<span size="xx-large">Slovak hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Slovak in T1/EC and UTF-8 encodings.
+Original patterns skhyphen are still distributed in the
+csplain package and loaded with ISO Latin 2 encoding (IL2).
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

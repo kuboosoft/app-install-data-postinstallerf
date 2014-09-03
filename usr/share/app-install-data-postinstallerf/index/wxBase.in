@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>wxBase</b>'
+Comment='<span size="xx-large">Non-GUI support classes from the wxWidgets library</span>'
+Comment3='
+Every wxWidgets application must link against this library. It contains
+mandatory classes that any wxWidgets code depends on (like wxString) and
+portability classes that abstract differences between platforms. wxBase can
+libraries or the X Window System.
+
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.wxwidgets.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdwarf-static</b>'
+Comment='<span size="xx-large">Static libdwarf library</span>'
+Comment3='
+Static libdwarf library.
+
+URL          http//www.prevanders.net/dwarf.html
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.prevanders.net/dwarf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

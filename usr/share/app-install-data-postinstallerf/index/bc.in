@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>bc</b>'
+Comment='<span size="xx-large">GNUs bc (a numeric processing language) and dc (a calculator)</span>'
+Comment3='
+The bc package includes bc and dc. Bc is an arbitrary precision
+numeric processing arithmetic language. Dc is an interactive
+arbitrary precision stack based calculator, which can be used as a
+text mode calculator.
+
+Install the bc package if you need its number handling capabilities or
+if you would like to use its text mode calculator.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/bc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

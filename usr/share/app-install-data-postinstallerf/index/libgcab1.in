@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgcab1</b>'
+Comment='<span size="xx-large">Library to create Cabinet archives</span>'
+Comment3='
+libgcab is a library to manipulate Cabinet archive using GIO/GObject.
+
+URL          http//ftp.gnome.org/pub/GNOME/sources/gcab
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ftp.gnome.org/pub/GNOME/sources/gcab'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

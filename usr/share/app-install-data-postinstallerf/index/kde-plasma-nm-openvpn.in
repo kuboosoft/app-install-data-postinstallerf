@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-plasma-nm-openvpn</b>'
+Comment='<span size="xx-large">OpenVPN support for kde-plasma-nm</span>'
+Comment3='
+OpenVPN support for kde-plasma-nm.
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/network/plasma-nm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

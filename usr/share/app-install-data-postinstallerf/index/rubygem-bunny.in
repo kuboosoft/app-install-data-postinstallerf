@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-bunny</b>'
+Comment='<span size="xx-large">Synchronous Ruby AMQP 0.9.1 client</span>'
+Comment3='
+A synchronous Ruby AMQP client that enables interaction with AMQP-compliant
+brokers.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/ruby-amqp/bunny'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>clalsadrv</b>'
+Comment='<span size="xx-large">ALSA driver C++ Library</span>'
+Comment3='
+ALSA driver C++ access library
+
+URL          http//kokkinizita.linuxaudio.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kokkinizita.linuxaudio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

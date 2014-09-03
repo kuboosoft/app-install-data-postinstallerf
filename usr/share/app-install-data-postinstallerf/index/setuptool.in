@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>setuptool</b>'
+Comment='<span size="xx-large">A text mode system configuration tool</span>'
+Comment3='
+Setuptool is a user-friendly text mode menu utility which allows you
+to access all of the text mode configuration programs included in the
+operating system distribution.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/?p=setuptool.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

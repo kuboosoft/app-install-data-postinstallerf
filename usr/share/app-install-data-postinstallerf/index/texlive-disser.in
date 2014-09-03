@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-disser</b>'
+Comment='<span size="xx-large">Class and templates for typesetting dissertations in Russian</span>'
+Comment3='
+Disser comprises a document class and set of templates for
+typesetting dissertations in Russian. One of its primary
+advantages is a simplicity of format specification for
+titlepage, headers and elements of automatically generated
+lists (table of contents, list of figures, etc). Bibliography
+styles, that conform to the requirements of the Russian
+standard GOST R 7.0.11-2011, are provided.
+
+date 2012-11-23 111742 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

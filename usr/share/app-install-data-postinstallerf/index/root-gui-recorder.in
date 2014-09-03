@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>root-gui-recorder</b>'
+Comment='<span size="xx-large">Interface for recording and replaying events in ROOT</span>'
+Comment3='
+This library provides interface for recording and replaying events in ROOT.
+Recorded events are
+ - Commands typed by user in command line (new TCanvas)
+ - GUI events (mouse movement, button clicks, ...)
+All the recorded events from one session are stored in one TFile
+and can be replayed again anytime.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-logging-tools</b>'
+Comment='<span size="xx-large">JBoss Logging I18n Annotation Processor</span>'
+Comment3='
+This pacakge contains JBoss Logging I18n Annotation Processor
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/jboss-logging/jboss-logging-tools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

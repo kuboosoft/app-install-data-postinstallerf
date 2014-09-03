@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ebhttpd</b>'
+Comment='<span size="xx-large">HTTP server for accessing "CD-ROM books"</span>'
+Comment3='
+This package contains a specialized HTTP server that supports HTTP/1.0 and
+HTTP/1.1. which provide a way to access "CD-ROM books" through the EB library.
+
+Note that ebhttpd cant be used for generic WWW purposes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.sra.co.jp/people/m-kasahr/ebnetd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

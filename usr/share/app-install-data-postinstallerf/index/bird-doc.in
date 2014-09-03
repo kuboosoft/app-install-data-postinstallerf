@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bird-doc</b>'
+Comment='<span size="xx-large">BIRD Internet Routing Daemon</span>'
+Comment3='
+BIRD is dynamic routing daemon supporting IPv4 and IPv6 versions of routing
+protocols BGP, RIP and OSPF.
+
+This package contains documentation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bird.network.cz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mantis-config-httpd</b>'
+Comment='<span size="xx-large">Mantis configuration for Apache httpd</span>'
+Comment3='
+Mantis is a web-based issue tracking system.
+This package contains configuration-files for Apache httpd 2.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mantisbt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

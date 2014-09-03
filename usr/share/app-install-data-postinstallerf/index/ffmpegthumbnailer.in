@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ffmpegthumbnailer</b>'
+Comment='<span size="xx-large">Lightweight video thumbnailer that can be used by file managers</span>'
+Comment3='
+This video thumbnailer can be used to create thumbnails for your video files.
+
+URL          http//code.google.com/p/ffmpegthumbnailer/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/ffmpegthumbnailer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

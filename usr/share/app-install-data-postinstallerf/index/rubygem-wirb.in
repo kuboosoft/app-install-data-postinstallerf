@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-wirb</b>'
+Comment='<span size="xx-large">Wavy IRB: Colorizes irb results</span>'
+Comment3='
+Wavy IRB Colorizes irb results. It originated from Wirble, but only provides
+result highlighting. Just call Wirb.start and enjoy the colors in your IRB ;).
+You can use it with your favorite colorizer engine. See README.rdoc for more
+details.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/janlelis/wirb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

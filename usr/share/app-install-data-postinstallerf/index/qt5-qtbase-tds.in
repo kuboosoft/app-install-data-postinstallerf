@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qt5-qtbase-tds</b>'
+Comment='<span size="xx-large">TDS driver for Qt5s SQL classes</span>'
+Comment3='
+TDS driver for Qt5s SQL classes.
+
+URL          http//qt-project.org/
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

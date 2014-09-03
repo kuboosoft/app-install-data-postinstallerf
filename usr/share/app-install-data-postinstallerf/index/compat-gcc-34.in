@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>compat-gcc-34</b>'
+Comment='<span size="xx-large">Compatibility GNU Compiler Collection</span>'
+Comment3='
+This package includes a GCC 3.4.6-RH compatibility compiler.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

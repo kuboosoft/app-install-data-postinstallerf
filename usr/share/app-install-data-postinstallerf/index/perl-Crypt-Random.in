@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Crypt-Random</b>'
+Comment='<span size="xx-large">Cryptographically Secure, True Random Number Generator</span>'
+Comment3='
+CryptRandom is an interface module to the /dev/random device found on most
+modern unix systems. It also interfaces with egd, a user space entropy
+gathering daemon, available for systems where /dev/random (or similar) devices
+are not available. When MathPari is installed, CryptRandom can generate
+random integers of arbritary size of a given bitsize or in a specified
+interval.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-Random/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

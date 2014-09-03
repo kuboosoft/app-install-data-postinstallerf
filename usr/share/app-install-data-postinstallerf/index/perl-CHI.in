@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CHI</b>'
+Comment='<span size="xx-large">Unified cache handling interface</span>'
+Comment3='
+CHI provides a unified caching API, designed to assist a developer in
+persisting data for a specified period of time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CHI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

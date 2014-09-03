@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>thunar-sendto-clamtk</b>'
+Comment='<span size="xx-large">Simple virus scanning extension for Thunar</span>'
+Comment3='
+This is a simple extension to add virus scanning to Thunar
+in the send-to menu.
+
+ClamTk is a front-end for ClamAV.
+It is meant to be lightweight and easy to use.
+'
+License='GPL+ or Artistic 2.0'
+Screenshot=''
+Url='https://bitbucket.org/dave_theunsub/thunar-sendto-clamtk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

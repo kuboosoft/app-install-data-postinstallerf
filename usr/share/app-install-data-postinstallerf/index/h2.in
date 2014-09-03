@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>h2</b>'
+Comment='<span size="xx-large">Java SQL database</span>'
+Comment3='
+H2 is a the Java SQL database. The main features of H2 are
+* Very fast, open source, JDBC API
+* Embedded and server modes; in-memory databases
+* Browser based Console application
+* Small footprint around 1 MB jar file size
+'
+License='EPL'
+Screenshot=''
+Url='http://www.h2database.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

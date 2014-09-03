@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rekall-mdb</b>'
+Comment='<span size="xx-large">Rekall Microsoft Access DB driver</span>'
+Comment3='
+Driver to add Microsoft Access database support to Rekall.
+
+URL          http//www.rekallrevealed.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.rekallrevealed.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

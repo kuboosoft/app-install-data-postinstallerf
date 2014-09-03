@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>newt-python</b>'
+Comment='<span size="xx-large">Python 2 bindings for newt</span>'
+Comment3='
+The newt-python package contains the Python 2 bindings for the newt library
+providing a python API for creating text mode ionterfaces.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/newt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

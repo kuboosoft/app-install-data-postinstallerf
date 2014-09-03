@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uhd-doc</b>'
+Comment='<span size="xx-large">Documentation files for UHD</span>'
+Comment3='
+Documentation for the Universal Hardware Driver (UHD).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.ettus.com/redmine/ettus/projects/uhd/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

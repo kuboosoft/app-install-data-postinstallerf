@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfce4-wavelan-plugin</b>'
+Comment='<span size="xx-large">WaveLAN plugin for the Xfce panel</span>'
+Comment3='
+A plugin for the Xfce panel that monitors a wireless LAN interface. It
+displays stats for signal state, signal quality and network name (SSID).
+'
+License='BSD'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-wavelan-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-nicefilelist</b>'
+Comment='<span size="xx-large">Provide \listfiles alignment</span>'
+Comment3='
+The package extends longnamefilelist, keeping separate columns
+for date, version and "caption" (the caption now separately
+listed). Alignment is not disturbed by short file name
+extensions, such as ".fd". The package is not compatible with
+longnamefilelist users need to re-read the documentation.
+
+date 2012-12-13 113924 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

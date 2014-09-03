@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>shtool</b>'
+Comment='<span size="xx-large">Portable shell tool</span>'
+Comment3='
+GNU shtool is a compilation of small but very stable and portable
+shell scripts into a single shell tool. All ingredients were in
+successful use over many years in various free software projects.
+The compiled shtool program is intended to be used inside the source
+tree of other free software packages. There it can overtake various
+(usually non-portable) tasks related to the building and installation
+of such a package. It especially can replace the old mkdir.sh,
+install.sh and related scripts.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/shtool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

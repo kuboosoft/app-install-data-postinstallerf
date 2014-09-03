@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-venturisadf</b>'
+Comment='<span size="xx-large">Venturis ADF fonts collection</span>'
+Comment3='
+Serif and sans serif complete text font families, in both Adobe
+Type 1 and OpenType formats for publication. The family is
+based on Utopia family, and has been modified and developed by
+the Arkandis Digital foundry. Support for using the fonts, in
+LaTeX, is also provided (and makes use of the nfssext-cfr
+package).
+
+date 2010-07-12 222603 +0200
+'
+License='Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

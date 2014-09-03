@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-mdwtools</b>'
+Comment='<span size="xx-large">Miscellaneous tools by Mark Wooding</span>'
+Comment3='
+This collection of tools includes - support for short commands
+starting with @, - macros to sanitise the OT1 encoding of the
+cmtt fonts; - a do after command; - improved footnote
+support; - mathenv for various alignment in maths; - list
+handling; - mdwmath which adds some minor changes to LaTeX
+maths; - a rewrite of LaTeXs tabular and array environments; -
+verbatim handling; and - syntax diagrams.
+
+date 2008-06-23 174334 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

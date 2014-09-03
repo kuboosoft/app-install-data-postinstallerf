@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>google-croscore-tinos-fonts</b>'
+Comment='<span size="xx-large">The croscore Tinos family fonts</span>'
+Comment3='
+
+This package contains a collections of fonts that offers improved on-screen
+readability characteristics and the pan-European WGL character set and solves
+the needs of developers looking for width-compatible fonts to address document
+portability across platforms.
+Tinos was designed by Steve Matteson as an innovative, refreshing serif design
+that is metrically compatible with Times New Roman. Tinos offers improved
+on-screen readability characteristics and the pan-European WGL character set
+and solves the needs of developers looking for width-compatible fonts to
+address document portability across platforms.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

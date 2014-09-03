@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libmtcp</b>'
+Comment3='
+MTCP is the single process checkpoint package that is used by DMTCP to
+checkpoint processes.
+
+This package provides the libmtcp library that is required to checkpoint a
+single process.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://dmtcp.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

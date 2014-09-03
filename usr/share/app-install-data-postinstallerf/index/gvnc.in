@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gvnc</b>'
+Comment='<span size="xx-large">A GObject for VNC connections</span>'
+Comment3='
+gvnc is a GObject for managing a VNC connection. It provides all the
+infrastructure required to build a VNC client without having to deal
+with the raw protocol itself.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/gtk-vnc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

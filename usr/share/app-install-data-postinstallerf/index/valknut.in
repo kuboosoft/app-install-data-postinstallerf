@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>valknut</b>'
+Comment='<span size="xx-large">Valknut is a QT Direct Connect client</span>'
+Comment3='
+Valknut is a program that uses the Direct Connect protocol. It is compatible
+with other DC clients, such as the original DC from Neomodus, DC++ and
+derivatives. Valknut also interoperates with all common DC hub software.
+'
+License='GPLv2+ and LGPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/projects/wxdcgui/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

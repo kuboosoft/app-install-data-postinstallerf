@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-IEEEconf</b>'
+Comment='<span size="xx-large">Macros for IEEE conference proceedings</span>'
+Comment3='
+The IEEEconf class implements the formatting dictated by the
+IEEE Computer Society Press for conference proceedings.
+
+date 2009-04-06 201745 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

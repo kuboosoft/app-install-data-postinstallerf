@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>checkstyle</b>'
+Comment='<span size="xx-large">Java source code checker</span>'
+Comment3='
+A tool for checking Java source code for adherence to a set of rules.
+'
+License='LGPLv2+ and GPLv2+ and BSD'
+Screenshot=''
+Url='http://checkstyle.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

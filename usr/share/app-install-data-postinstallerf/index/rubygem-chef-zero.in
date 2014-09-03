@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-chef-zero</b>'
+Comment='<span size="xx-large">Self-contained in-memory Chef server for testing and solo setup purposes</span>'
+Comment3='
+Self-contained, easy-setup, fast-start in-memory Chef server for testing and
+solo setup purposes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/opscode/chef-zero'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

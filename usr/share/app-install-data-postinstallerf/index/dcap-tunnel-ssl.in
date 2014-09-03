@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dcap-tunnel-ssl</b>'
+Comment='<span size="xx-large">SSL tunnel for dCache</span>'
+Comment3='
+This package contains the ssl tunnel plugin library used by dcap-libs.
+This library is dynamically loaded at runtime.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.dcache.org/manuals/libdcap.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

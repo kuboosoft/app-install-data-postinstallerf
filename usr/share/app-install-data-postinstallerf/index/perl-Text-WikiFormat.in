@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Text-WikiFormat</b>'
+Comment='<span size="xx-large">Translate Wiki formatted text into other formats</span>'
+Comment3='
+The original Wiki web site had a very simple interface to edit and to
+add pages.  Its formatting rules are simple and easy to use.  They are
+also easy to translate into other, more complicated markup languages
+with this module.  It creates HTML by default, but can produce valid
+POD, DocBook, XML, or any other format imaginable.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-WikiFormat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-abraces</b>'
+Comment='<span size="xx-large">Asymmetric over-/underbraces in maths</span>'
+Comment3='
+The package provides a character key-driven interface to
+supplement new constructions of the traditional \overbrace and
+\underbrace pairs in an asymmetric or arbitrary way.
+
+date 2012-09-06 085108 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

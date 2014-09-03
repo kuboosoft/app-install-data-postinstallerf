@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-document-viewer-libs</b>'
+Comment='<span size="xx-large">Libraries for the mate-document-viewer</span>'
+Comment3='
+This package contains shared libraries needed for mate-document-viewer.
+
+URL          http//mate-desktop.org
+'
+License='GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

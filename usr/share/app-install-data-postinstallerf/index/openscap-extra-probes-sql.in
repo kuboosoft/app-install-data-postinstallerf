@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openscap-extra-probes-sql</b>'
+Comment='<span size="xx-large">SCAP probes for Database</span>'
+Comment3='
+The openscap-extra-probes-sql package contains additional OpenSCAP probes
+for querying database objects. Users are advised to install appropriate
+opendbx backend package along this one.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.open-scap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Session</b>'
+Comment='<span size="xx-large">Zend Framework 2: Session Component</span>'
+Comment3='
+Manage and preserve session data, a logical complement of cookie data, across
+multiple page requests by the same client.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/index.html#zend-session'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

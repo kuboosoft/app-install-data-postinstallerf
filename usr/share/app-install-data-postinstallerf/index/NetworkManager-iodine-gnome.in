@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>NetworkManager-iodine-gnome</b>'
+Comment='<span size="xx-large">NetworkManager VPN plugin for iodine - GNOME files</span>'
+Comment3='
+This package contains software for integrating VPN capabilities with
+the iodine server and NetworkManager (GNOME files).
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://honk.sigxcpu.org/piki/projects/network-manager-iodine'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

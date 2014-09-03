@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>boost-log</b>'
+Comment='<span size="xx-large">Run-Time component of boost logging library</span>'
+Comment3='
+
+Boost.Log library aims to make logging significantly easier for the
+application developer.  It provides a wide range of out-of-the-box
+tools along with public interfaces for extending the library.
+'
+License='Boost and MIT and Python'
+Screenshot=''
+Url='http://www.boost.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

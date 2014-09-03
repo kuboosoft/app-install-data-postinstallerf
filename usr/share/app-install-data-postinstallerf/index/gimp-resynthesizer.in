@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gimp-resynthesizer</b>'
+Comment='<span size="xx-large">Gimp plug-in for texture synthesis</span>'
+Comment3='
+Resynthesizer is a Gimp plug-in for texture synthesis. Given a sample of a
+texture, it can create more of that texture. This has uses including
+- Creating more of a texture (including creation of tileable textures)
+- Removing objects from images (great for touching up photos)
+- Creating themed images (by transfering a texture from one image to another)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://logarithmic.net/pfh/resynthesizer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

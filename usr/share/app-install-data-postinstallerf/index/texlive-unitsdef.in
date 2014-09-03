@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-unitsdef</b>'
+Comment='<span size="xx-large">Typesetting units in LaTeX</span>'
+Comment3='
+There are a lot of packages for typesetting units in LaTeX2e.
+Some define macros to typeset a lot of units but do not suit to
+the actual font settings, some make the characters needed
+available but do not predefine any unit. This package tries to
+comply with both requirements. It predefines common units,
+defines an easy to use interface to define new units and
+changes the output concerning to the surrounding font settings.
+
+date 2007-01-20 152016 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

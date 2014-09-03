@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtpcimgio-static</b>'
+Comment='<span size="xx-large">Static libraries for libtpcimgio</span>'
+Comment3='
+This package contains static libraries for libtpcimgio.
+
+URL          http//www.turkupetcentre.net/software/libdoc/libtpcimgio/index.html
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.turkupetcentre.net/software/libdoc/libtpcimgio/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

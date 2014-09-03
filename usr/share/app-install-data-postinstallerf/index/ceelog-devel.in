@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ceelog-devel</b>'
+Comment='<span size="xx-large">Development files for ceelog</span>'
+Comment3='
+Ceelog-devel package contains development libraries and header files for ceelog.
+
+URL          https//fedorahosted.org/ceelog
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/ceelog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

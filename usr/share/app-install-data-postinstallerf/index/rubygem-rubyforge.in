@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rubyforge</b>'
+Comment='<span size="xx-large">A script which automates a limited set of rubyforge operations</span>'
+Comment3='
+A script which automates a limited set of rubyforge operations.
+'
+License='MIT'
+Screenshot=''
+Url='http://rubyforge.org/projects/codeforpeople'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

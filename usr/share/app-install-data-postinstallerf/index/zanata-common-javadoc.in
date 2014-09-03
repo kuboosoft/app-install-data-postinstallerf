@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>zanata-common-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for zanata-common</span>'
+Comment3='
+This package contains the API documentation for common.
+This includes submodules
+zanata-common-util,
+zanata-adapter-po,
+zanata-adapter-properties,
+zanata-adapter-xliff and zanata-adapter-glossary
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/zanata/zanata-common'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

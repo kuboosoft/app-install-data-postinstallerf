@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-acroterm</b>'
+Comment='<span size="xx-large">Manage and index acronyms and terms</span>'
+Comment3='
+Yet another package for acronyms the package offers simple
+markup of acronyms and technical terms in the text, giving an
+index each of terms and acronyms with their expanded form.
+
+date 2010-11-19 203328 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

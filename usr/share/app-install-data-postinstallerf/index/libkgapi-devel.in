@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkgapi-devel</b>'
+Comment='<span size="xx-large">Development files for libkgapi</span>'
+Comment3='
+Libraries and header files for developing applications that use akonadi-google
+resources.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/libs/libkgapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

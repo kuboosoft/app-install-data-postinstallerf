@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>openuniverse</b>'
+Comment='<span size="xx-large">OpenGL space simulator focused on the Solar System</span>'
+Comment3='
+OpenUniverse is a space simulator.  It currently focusses on the Solar
+System and lets you visit all of its planets, major moons and a vast
+collection of smaller bodies in colorful, glorious and realtime 3D.
+
+If youve ever had a chance to visit Mercury or asteroid Geographos, here
+youll find them looking exactly the same way, following exactly the same
+path as when youve left them.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.openuniverse.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

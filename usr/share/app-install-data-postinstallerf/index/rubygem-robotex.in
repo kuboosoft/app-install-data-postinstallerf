@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-robotex</b>'
+Comment='<span size="xx-large">Ruby library to obey robots.txt</span>'
+Comment3='
+With one line of code, Robotex (pronounced like ?robotics?) will download
+and parse the robots.txt file and let you know if your program is allowed
+to visit a given link.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.github.com/chriskite/robotex'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

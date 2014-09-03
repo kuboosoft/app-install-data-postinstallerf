@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libguestfs-rescue</b>'
+Comment='<span size="xx-large">Additional tools for virt-rescue</span>'
+Comment3='
+This adds additional tools to use inside the virt-rescue shell,
+such as ssh, network utilities, editors and debugging utilities.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

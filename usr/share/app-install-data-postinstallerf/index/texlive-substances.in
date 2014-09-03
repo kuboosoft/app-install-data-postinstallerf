@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-substances</b>'
+Comment='<span size="xx-large">A database of chemicals</span>'
+Comment3='
+The package provides the means to create a database-like file
+that contains data of various chemicals. These data may be
+retrieved in the document; an index of the chemicals mentioned
+in the document can be created..
+
+date 2012-07-22 223706 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

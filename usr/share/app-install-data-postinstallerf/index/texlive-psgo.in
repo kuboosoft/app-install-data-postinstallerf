@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-psgo</b>'
+Comment='<span size="xx-large">Typeset go diagrams with PSTricks</span>'
+Comment3='
+psgo package
+
+date 2008-09-06 192059 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

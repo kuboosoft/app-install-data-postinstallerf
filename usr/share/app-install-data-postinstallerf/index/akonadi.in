@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>akonadi</b>'
+Comment='<span size="xx-large">PIM Storage Service</span>'
+Comment3='
+PIM Storage Service.
+
+URL          http//community.kde.org/KDE_PIM/Akonadi
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://community.kde.org/KDE_PIM/Akonadi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

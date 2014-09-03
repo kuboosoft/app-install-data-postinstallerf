@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kupfer-thunar</b>'
+Comment='<span size="xx-large">A Thunar plugin for kupfer</span>'
+Comment3='
+This plugin adds an option to Thunar to deal with Kupfer.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://kaizer.se/wiki/kupfer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

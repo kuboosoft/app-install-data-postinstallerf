@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-python</b>'
+Comment='<span size="xx-large">Embed Python code in LaTeX</span>'
+Comment3='
+The package enables you to embed Python code in LaTeX, and
+insert the scripts output in the document.
+
+date 2012-07-03 112815 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tomoe</b>'
+Comment='<span size="xx-large">Handwritten input system for Japanese and Chinese</span>'
+Comment3='
+A program which does Japanese handwriting recognition.
+
+URL          http//tomoe.sourceforge.jp/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tomoe.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>Field3D</b>'
+Comment='<span size="xx-large">Library for storing voxel data</span>'
+Comment3='
+Field3D is an open source library for storing voxel data. It provides C++
+classes that handle in-memory storage and a file format based on HDF5 that
+allows the C++ objects to be written to and read from disk.
+
+'
+License='BSD'
+Screenshot=''
+Url='https://sites.google.com/site/field3d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

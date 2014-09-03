@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ldns-python</b>'
+Comment='<span size="xx-large">Python extensions for ldns</span>'
+Comment3='
+Python extensions for ldns
+'
+License='BSD'
+Screenshot=''
+Url='http://www.nlnetlabs.nl/ldns/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

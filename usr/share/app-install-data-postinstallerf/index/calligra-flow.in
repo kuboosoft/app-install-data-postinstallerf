@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>calligra-flow</b>'
+Comment='<span size="xx-large">A diagramming and flowcharting application</span>'
+Comment3='
+Flow is an easy to use diagramming and flowcharting application with
+tight integration to the other KOffice applications. It enables you to
+create network diagrams, organisation charts, flowcharts and more.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.calligra-suite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-utf8-light-devel</b>'
+Comment='<span size="xx-large">Haskell utf8-light library development files</span>'
+Comment3='
+This package provides the development files for the Haskell utf8-light library.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/utf8-light'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

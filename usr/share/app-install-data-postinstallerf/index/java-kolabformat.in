@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>java-kolabformat</b>'
+Comment='<span size="xx-large">Java Bindings for libkolabxml</span>'
+Comment3='
+Java bindings for libkolabxml
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.kolab.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

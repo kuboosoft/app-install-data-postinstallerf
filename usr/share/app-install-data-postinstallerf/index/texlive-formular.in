@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-formular</b>'
+Comment='<span size="xx-large">Create forms containing field for manual entry</span>'
+Comment3='
+When typesetting forms there often arises the need for defining
+fields which consist of one or more lines where the customer
+can write something down manually. This package offers some
+commands for defining such fields in a distinctive way.
+
+date 2007-01-05 213032 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

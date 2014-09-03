@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>root-gdml</b>'
+Comment='<span size="xx-large">GDML import/export for ROOT geometries</span>'
+Comment3='
+This package contains an import/export module for ROOT geometries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

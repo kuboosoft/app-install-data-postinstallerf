@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sympol-libs</b>'
+Comment='<span size="xx-large">Symmetric polyhedra library</span>'
+Comment3='
+This package contains the SymPol library.
+
+URL          http//www.math.uni-rostock.de/~rehn/software/sympol.html
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.math.uni-rostock.de/~rehn/software/sympol.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

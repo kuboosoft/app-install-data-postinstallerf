@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-wallaby</b>'
+Comment='<span size="xx-large">Python client library for Wallaby</span>'
+Comment3='
+This package provides a Python client library for writing programs
+that interact with the Wallaby configuration service over QMF.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/grid/wallaby.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

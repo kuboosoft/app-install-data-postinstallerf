@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>lcov</b>'
+Comment='<span size="xx-large">LTP GCOV extension code coverage tool</span>'
+Comment3='
+LCOV is an extension of GCOV, a GNU tool which provides information
+about what parts of a program are actually executed (i.e. "covered")
+while running a particular test case. The extension consists of a set
+of PERL scripts which build on the textual GCOV output to implement
+HTML output and support for large projects.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ltp.sourceforge.net/coverage/lcov.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

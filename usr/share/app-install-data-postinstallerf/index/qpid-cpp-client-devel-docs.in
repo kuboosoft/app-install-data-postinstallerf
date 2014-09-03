@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>qpid-cpp-client-devel-docs</b>'
+Comment='<span size="xx-large">AMQP client development documentation</span>'
+Comment3='
+This package includes the AMQP clients development documentation in HTML
+format for easy browsing.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

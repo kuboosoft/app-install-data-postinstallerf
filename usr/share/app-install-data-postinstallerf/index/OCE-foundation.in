@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>OCE-foundation</b>'
+Comment='<span size="xx-large">OpenCASCADE CAE platform shared libraries</span>'
+Comment3='
+OpenCASCADE CAE platform shared libraries
+
+This package contains foundation classes which provide a variety of
+general-purpose services such as automated management of heap memory,
+exception handling, classes for manipulating aggregates of data, basic
+math tools.
+'
+License='Open CASCADE Technology Public License'
+Screenshot=''
+Url='https://github.com/tpaviot/oce'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

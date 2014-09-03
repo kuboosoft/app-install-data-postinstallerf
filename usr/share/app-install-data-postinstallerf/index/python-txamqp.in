@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-txamqp</b>'
+Comment='<span size="xx-large">A Python library for communicating with AMQP peers and brokers using Twisted</span>'
+Comment3='
+txAMQP is a Python library for communicating with AMQP peers and brokers using
+Twisted.
+
+This project contains all the necessary code to connect, send and receive
+messages to/from an AMQP-compliant peer or broker (Qpid, OpenAMQ, RabbitMQ)
+using Twisted.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://launchpad.net/txamqp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

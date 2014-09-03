@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cyrus-imapd-devel</b>'
+Comment='<span size="xx-large">Cyrus IMAP server development files</span>'
+Comment3='
+The cyrus-imapd-devel package contains header files and libraries
+necessary for developing applications which use the imclient library.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.cyrusimap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

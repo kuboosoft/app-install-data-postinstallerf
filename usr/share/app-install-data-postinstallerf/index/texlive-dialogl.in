@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-dialogl</b>'
+Comment='<span size="xx-large">Macros for constructing interactive LaTeX scripts</span>'
+Comment3='
+Gathers together a bunch of code and examples about how to
+write macros to carry on a dialogue with the user.
+
+date 2013-01-25 112208 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

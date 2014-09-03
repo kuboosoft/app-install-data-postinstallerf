@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>olpc-utils</b>'
+Comment='<span size="xx-large">OLPC utilities</span>'
+Comment3='
+
+Tools for starting an X session, mapping keys on the OLPC keyboards,
+becoming root, and cleaning the datastore.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Olpc-utils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

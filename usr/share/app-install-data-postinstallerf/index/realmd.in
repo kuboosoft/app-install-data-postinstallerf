@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>realmd</b>'
+Comment='<span size="xx-large">Kerberos realm enrollment service</span>'
+Comment3='
+realmd is a DBus system service which manages discovery and enrollment in realms
+and domains like Active Directory or IPA. The control center uses realmd as the
+back end to join a domain simply and automatically configure things correctly.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cgit.freedesktop.org/realmd/realmd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

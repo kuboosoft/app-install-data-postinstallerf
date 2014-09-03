@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apron-devel</b>'
+Comment='<span size="xx-large">Development files for apron</span>'
+Comment3='
+The apron-devel package contains libraries and signature files for
+developing applications that use apron.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://apron.cri.ensmp.fr/library/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

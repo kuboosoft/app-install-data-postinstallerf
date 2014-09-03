@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-keystroke</b>'
+Comment='<span size="xx-large">Graphical representation of keys on keyboard</span>'
+Comment3='
+A LaTeX package which provides macros for the graphical
+representation of the keys on a computer keyboard.
+
+date 2010-04-23 133614 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

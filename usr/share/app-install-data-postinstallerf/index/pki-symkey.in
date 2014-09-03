@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pki-symkey</b>'
+Comment='<span size="xx-large">Symmetric Key JNI Package</span>'
+Comment3='
+The Symmetric Key Java Native Interface (JNI) package supplies various native
+symmetric key operations to Java programs.
+
+This package is a part of the PKI Core used by the Certificate System.
+==================================
+||  ABOUT "CERTIFICATE SYSTEM"  ||
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pki.fedoraproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

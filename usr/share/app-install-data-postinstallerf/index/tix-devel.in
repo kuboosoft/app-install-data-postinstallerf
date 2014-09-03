@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>tix-devel</b>'
+Comment='<span size="xx-large">Tk Interface eXtension development files</span>'
+Comment3='
+Tix, the Tk Interface eXtension, is a powerful set of user interface
+components that expands the capabilities of your Tcl/Tk and Python
+applications. Using Tix together with Tk will greatly enhance the
+appearance and functionality of your application.
+
+This package contains the tix development files needed for building
+tix applications.
+'
+License='BSD'
+Screenshot=''
+Url='http://tix.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

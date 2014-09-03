@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Imager</b>'
+Comment='<span size="xx-large">Perl extension for Generating 24 bit Images</span>'
+Comment3='
+Imager is a module for creating and altering images. It can read and
+write various image formats, draw primitive shapes like lines,and
+polygons, blend multiple images together in various ways, scale, crop,
+render text and more.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Imager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

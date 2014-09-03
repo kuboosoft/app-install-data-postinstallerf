@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-rcsinfo</b>'
+Comment='<span size="xx-large">Support for the revision control system</span>'
+Comment3='
+A package to extract RCS (Revision Control System) information
+and use it in a LaTeX document. For users of LaTeX2HTML
+rcsinfo.perl is included.
+
+date 2007-01-06 100733 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

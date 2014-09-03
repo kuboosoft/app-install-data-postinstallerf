@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wsdlpull-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development documentation for wsdlpull</span>'
+Comment3='
+This package contains the header files, static libraries and development
+documentation for wsdlpull. If you like to develop programs using wsdlpull,
+you will need to install wsdlpull-devel.
+
+'
+License='LGPLv2 and OReilly and MIT'
+Screenshot=''
+Url='http://wsdlpull.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ntp-perl</b>'
+Comment='<span size="xx-large">NTP utilities written in Perl</span>'
+Comment3='
+This package contains Perl scripts ntp-wait and ntptrace.
+'
+License='(MIT and BSD and BSD with advertising) and GPLv2'
+Screenshot=''
+Url='http://www.ntp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

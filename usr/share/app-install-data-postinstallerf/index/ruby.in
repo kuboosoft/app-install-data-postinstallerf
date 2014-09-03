@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ruby</b>'
+Comment='<span size="xx-large">An interpreter of object-oriented scripting language</span>'
+Comment3='
+Ruby is the interpreted scripting language for quick and easy
+object-oriented programming.  It has many features to process text
+files and to do system management tasks (as in Perl).  It is simple,
+straight-forward, and extensible.
+
+'
+License='(Ruby or BSD) and Public Domain'
+Screenshot=''
+Url='http://ruby-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

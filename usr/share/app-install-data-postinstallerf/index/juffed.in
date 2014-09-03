@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>juffed</b>'
+Comment='<span size="xx-large">Advanced text editor</span>'
+Comment3='
+Advanced tabbed text editor with syntax highlighting for many text formats.
+
+URL          http//www.juffed.com/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-applet-streamer</b>'
+Comment='<span size="xx-large">MATE online radio streamer applet</span>'
+Comment3='
+This is a MATE panel applet to let you play your favorite online radio station
+from your system tray or panel with a single click.
+Icecast directory listing in included.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.zavedil.com/online-radio-applet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

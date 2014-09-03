@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vpnc-consoleuser</b>'
+Comment='<span size="xx-large">Allows console user to run the VPN client directly</span>'
+Comment3='
+Allows the console user to run the IPSec VPN client directly without
+switching to the root account.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.unix-ag.uni-kl.de/~massar/vpnc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-duerer</b>'
+Comment='<span size="xx-large">Computer Duerer fonts</span>'
+Comment3='
+These fonts are designed for titling use, and consist of
+capital roman letters only. Together with the normal set of
+base shapes, the family also offers an informal shape. LaTeX
+support is available in the duerer-latex bundle.
+
+date 2010-12-14 120320 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-xgoogle</b>'
+Comment='<span size="xx-large">Python library to search Google without using their API</span>'
+Comment3='
+A Python library to search Google without using their API.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.catonmat.net/blog/python-library-for-google-search/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

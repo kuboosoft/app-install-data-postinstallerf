@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-babel-romanian</b>'
+Comment='<span size="xx-large">babel-romanian package</span>'
+Comment3='
+babel-romanian package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

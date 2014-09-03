@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>heimdall</b>'
+Comment='<span size="xx-large">Flash firmware on to Samsung Galaxy S devices</span>'
+Comment3='
+Heimdall is a cross-platform open-source utility to flash firmware
+on to Samsung Galaxy S devices
+'
+License='MIT'
+Screenshot=''
+Url='http://www.glassechidna.com.au/products/heimdall/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

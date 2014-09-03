@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-pear-Var-Dump</b>'
+Comment='<span size="xx-large">Provides methods for dumping structured information about a variable</span>'
+Comment3='
+The Var_Dump class is a wrapper for the var_dump function.
+
+The var_dump function displays structured information about expressions
+that includes its type and value. Arrays are explored recursively with
+values indented to show structure.
+The Var_Dump class captures the output of the var_dump function, by using
+output control functions, and then uses external renderer classes for
+displaying the result in various graphical ways 
+* Simple text,
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Var_Dump'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

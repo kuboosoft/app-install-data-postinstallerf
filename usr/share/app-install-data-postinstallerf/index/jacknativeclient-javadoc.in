@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jacknativeclient-javadoc</b>'
+Comment='<span size="xx-large">Javadoc documentation for jacknativeclient</span>'
+Comment3='
+Javadoc documentation for jacknativeclient.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://github.com/nettoyeurny/jacknativeclient/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

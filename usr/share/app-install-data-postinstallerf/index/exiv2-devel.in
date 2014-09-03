@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>exiv2-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development documentation for exiv2</span>'
+Comment3='
+Header files, libraries and development documentation for exiv2.
+
+URL          http//www.exiv2.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.exiv2.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Sys-Detect-Virtualization</b>'
+Comment='<span size="xx-large">Library to detect if a UNIX system is running as a virtual machine</span>'
+Comment3='
+This module attempts to detect whether or not a system is running as a
+guest under virtualization, using various heuristics.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sys-Detect-Virtualization/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

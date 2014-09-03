@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-idn-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-idn</span>'
+Comment3='
+This package contains documentation for rubygem-idn.
+'
+License='ASL 2.0 and LGPLv2+'
+Screenshot=''
+Url='http://rubyforge.org/projects/idn/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

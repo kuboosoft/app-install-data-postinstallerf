@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>freeipa-server</b>'
+Comment='<span size="xx-large">The IPA authentication server</span>'
+Comment3='
+IPA is an integrated solution to provide centrally managed Identity (machine,
+user, virtual machines, groups, authentication credentials), Policy
+(configuration settings, access control information) and Audit (events,
+logs, analysis thereof). If you are installing an IPA server you need
+to install this package (in other words, most people should NOT install
+this package).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.freeipa.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

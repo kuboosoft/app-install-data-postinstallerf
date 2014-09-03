@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-bbding</b>'
+Comment='<span size="xx-large">A symbol (dingbat) font and LaTeX macros for its use</span>'
+Comment3='
+A symbol font (distributed as MetaFont source) that contains
+many of the symbols of the Zapf dingbats set, together with an
+NFSS interface for using the font. An Adobe Type 1 version of
+the fonts is available in the niceframe fonts bundle.
+
+date 2010-02-15 120242 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

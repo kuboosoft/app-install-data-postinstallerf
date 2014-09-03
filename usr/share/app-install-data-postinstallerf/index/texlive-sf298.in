@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-sf298</b>'
+Comment='<span size="xx-large">Standard form 298</span>'
+Comment3='
+A LaTeX package for generating a completed standard form 298
+(Rev. 8-98) as prescribed by ANSI Std. Z39.18 for report
+documentation as part of a document delivered, for instance, on
+a U.S. government contract.
+
+date 2007-01-14 220618 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

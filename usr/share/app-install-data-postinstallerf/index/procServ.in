@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>procServ</b>'
+Comment='<span size="xx-large">Process server with telnet console and log access</span>'
+Comment3='
+procServ is a wrapper that starts an arbitrary command as a child process in
+the background, connecting its standard input and output to a TCP port for
+telnet access. It supports logging, child restart (manual or automatic on
+exit), and more.
+
+procServ does not have the rich feature set of the screen utility,
+but is intended to provide running a command in a system service style,
+in a small, robust way.
+Handling multiple users, authorization, authentication, central logging
+is done best on a higher level, using a package like conserver.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://sourceforge.net/projects/procserv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

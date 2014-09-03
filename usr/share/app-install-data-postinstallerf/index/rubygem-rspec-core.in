@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rspec-core</b>'
+Comment='<span size="xx-large">Rspec-2 runner and formatters</span>'
+Comment3='
+Behaviour Driven Development for Ruby.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rspec/rspec-mocks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

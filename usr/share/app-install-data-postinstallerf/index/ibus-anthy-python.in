@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-anthy-python</b>'
+Comment='<span size="xx-large">Anthy Python files for IBus</span>'
+Comment3='
+This package contains the Anthy Python files for IBus
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

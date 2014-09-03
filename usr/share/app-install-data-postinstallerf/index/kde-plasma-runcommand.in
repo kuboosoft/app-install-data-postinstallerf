@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kde-plasma-runcommand</b>'
+Comment='<span size="xx-large">Simple plasmoid to run commands without using terminal or KRunner</span>'
+Comment3='
+Simple plasmoid to run commands without using terminal or KRunner. Inspired by
+KRunner runners, plasma-runner and KDE3 equivalent.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde-look.org/content/show.php/Run+Command?content=91495'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

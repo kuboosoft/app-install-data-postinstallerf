@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openslide</b>'
+Comment='<span size="xx-large">C library for reading virtual slides</span>'
+Comment3='
+The OpenSlide library allows programs to access virtual slide files
+regardless of the underlying image format.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://openslide.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

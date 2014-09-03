@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ssss</b>'
+Comment='<span size="xx-large">Shamirs secret sharing scheme</span>'
+Comment3='
+ssss is an implementation of Shamirs secret sharing scheme.  ssss does
+both the generation of shares for a known secret and the reconstruction
+of a secret using user provided shares.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://point-at-infinity.org/ssss'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

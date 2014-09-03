@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-plari</b>'
+Comment='<span size="xx-large">Typesetting stageplay scripts</span>'
+Comment3='
+Plari (the name comes from the Finnish usage for the working
+copy of a play) is a report-alike class, without section
+headings, and with paragraphs vertically separated rather than
+indented.
+
+date 2007-02-26 212645 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

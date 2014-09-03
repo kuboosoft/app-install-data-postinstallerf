@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zukitwo-xfwm4-theme</b>'
+Comment='<span size="xx-large">Zukitwo Xfwm4 themes</span>'
+Comment3='
+Themes for Xfwm4 as part of the Zukitwo theme.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://lassekongo83.deviantart.com/art/Zukitwo-203936861'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-sanitize</b>'
+Comment='<span size="xx-large">Whitelist-based HTML sanitizer</span>'
+Comment3='
+Sanitize is a whitelist-based HTML sanitizer. Given a list of acceptable
+elements and attributes, Sanitize will remove all unacceptable HTML from
+a string.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rgrove/sanitize/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

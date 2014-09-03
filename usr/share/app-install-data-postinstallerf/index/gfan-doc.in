@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gfan-doc</b>'
+Comment='<span size="xx-large">Gfan examples and documentation files</span>'
+Comment3='
+Gfan examples and documentation files.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.math.tu-berlin.de/~jensen/software/gfan/gfan.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

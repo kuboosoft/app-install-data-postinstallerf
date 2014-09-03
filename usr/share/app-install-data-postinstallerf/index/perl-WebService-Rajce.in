@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-WebService-Rajce</b>'
+Comment='<span size="xx-large">Perl interface for www.rajce.idnes.cz</span>'
+Comment3='
+This is Perl library implementing an API of a photo gallery service running on
+www.rajce.idnes.cz server.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/WebService-Rajce/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

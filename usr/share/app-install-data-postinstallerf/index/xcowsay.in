@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xcowsay</b>'
+Comment='<span size="xx-large">Displays a cute cow and message on your desktop</span>'
+Comment3='
+xcowsay displays a cute cow and message on your desktop.
+The message can be text or images (with xcowdream)
+xcowsay can run in daemon mode for sending
+your cow message with DBus.
+Inspired by the original cowsay.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.doof.me.uk/xcowsay'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

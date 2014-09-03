@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mplus-fonts-common</b>'
+Comment='<span size="xx-large">Mplus, common files (documentation?)</span>'
+Comment3='
+
+The Mplus fonts are 7 families of fonts, of which 4 are combinations
+of proportional font families,variations of fixed-fullwidth fonts,
+variations of fixed-halfwidth fonts and each have between 5 - 7
+different weights.
+This package consists of files used by other mplus-fonts packages.
+'
+License='mplus'
+Screenshot=''
+Url='http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/index-en.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-amazon-ec2-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-amazon-ec2</span>'
+Comment3='
+Documentation for rubygem-amazon-ec2
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://github.com/grempe/amazon-ec2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

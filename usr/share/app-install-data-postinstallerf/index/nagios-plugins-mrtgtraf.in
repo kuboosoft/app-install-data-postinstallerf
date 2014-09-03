@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nagios-plugins-mrtgtraf</b>'
+Comment='<span size="xx-large">Nagios Plugin - check_mrtgtraf</span>'
+Comment3='
+Provides check_mrtgtraf support for Nagios.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://nagiosplug.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cheese-libs</b>'
+Comment='<span size="xx-large">Webcam display and capture widgets</span>'
+Comment3='
+This package contains libraries needed for applications that
+want to display a webcam in their interface.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/cheese/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

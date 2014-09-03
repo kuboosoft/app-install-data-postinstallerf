@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pocl-devel</b>'
+Comment='<span size="xx-large">Portable Computing Lanugage development files</span>'
+Comment3='
+Portable Computing Lanugage development files
+
+URL          http//pocl.sourceforge.net
+'
+License='MIT and BSD and (GPLv3+ or LGPLv3+)'
+Screenshot=''
+Url='http://pocl.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

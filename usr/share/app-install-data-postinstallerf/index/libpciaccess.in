@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libpciaccess</b>'
+Comment='<span size="xx-large">PCI access library</span>'
+Comment3='
+libpciaccess is a library for portable PCI access routines across multiple
+operating systems.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://gitweb.freedesktop.org/?p=xorg/lib/libpciaccess.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

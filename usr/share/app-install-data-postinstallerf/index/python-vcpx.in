@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-vcpx</b>'
+Comment3='
+This is the package `vcpx` (pronounced "veeseepex").  It encapsulates
+the machinery needed to keep the patches in sync across different VC
+systems.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://progetti.arstecnica.it/tailor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

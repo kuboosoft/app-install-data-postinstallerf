@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmlrpc-c-devel</b>'
+Comment='<span size="xx-large">Development files for xmlrpc-c based programs</span>'
+Comment3='
+Static libraries and header files for writing XML-RPC applications in
+C and C++.
+
+'
+License='BSD and MIT'
+Screenshot=''
+Url='http://xmlrpc-c.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

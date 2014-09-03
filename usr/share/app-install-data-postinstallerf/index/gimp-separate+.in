@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gimp-separate+</b>'
+Comment='<span size="xx-large">Rudimentary CMYK support for The GIMP</span>'
+Comment3='
+Separate+ is a GIMP plug-in that convert an RGB image to CMYK format.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://cue.yellowmagic.info/softwares/separate.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-makecell</b>'
+Comment='<span size="xx-large">Tabular column heads and multilined cells</span>'
+Comment3='
+This package supports common layouts for tabular column heads
+in whole documents, based on one-column tabular environment. In
+addition, it can create multi-lined tabular cells. The Package
+all the cells in a tabular environment (similar to the function
+of the tabls package, but using the facilities of the array); -
+- macros for multirow cells, which use the facilities of the
+lines in tabular environments with defined thickness.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

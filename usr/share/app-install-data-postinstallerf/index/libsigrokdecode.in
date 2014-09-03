@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libsigrokdecode</b>'
+Comment='<span size="xx-large">Basic API for running protocol decoders</span>'
+Comment3='
+libsigrokdecode is a shared library written in C which provides the basic API
+for running sigrok protocol decoders. The protocol decoders themselves
+are written in Python.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.sigrok.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

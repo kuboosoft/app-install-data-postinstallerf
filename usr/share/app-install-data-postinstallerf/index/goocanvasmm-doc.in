@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>goocanvasmm-doc</b>'
+Comment='<span size="xx-large">Developer documentation for goocanvasmm</span>'
+Comment3='
+This package contains developers documentation for the goocanvasmm2
+library. Goocanvasmm2 is the C++ API for the goocanvas graphics library.
+
+The documentation can be viewed either through the devhelp
+documentation browser or through a web browser.
+If using a web browser the documentation is at
+/usr/share/doc/%{tarname}-1.0
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

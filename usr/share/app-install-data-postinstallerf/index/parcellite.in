@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>parcellite</b>'
+Comment='<span size="xx-large">A lightweight GTK+ clipboard manager</span>'
+Comment3='
+Parcellite is a stripped down, basic-features-only clipboard manager with a
+small memory footprint for those who like simplicity.
+
+In GNOME and Xfce the clipboard manager will be started automatically. For
+other desktops or window managers you should also install a panel with a
+system tray or notification area if you want to use this package.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://parcellite.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-iopart-num</b>'
+Comment='<span size="xx-large">Numeric citation style for IOP journals</span>'
+Comment3='
+A BibTeX style providing numeric citation in Harvard-like
+format. Intended for use with Institute of Physics (IOP)
+journals, including Journal of Physics.
+
+date 2009-01-27 151742 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

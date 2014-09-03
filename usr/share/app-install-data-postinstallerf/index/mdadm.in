@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mdadm</b>'
+Comment='<span size="xx-large">The mdadm program controls Linux md devices (software RAID arrays)</span>'
+Comment3='
+The mdadm program is used to create, manage, and monitor Linux MD (software
+RAID) devices.  As such, it provides similar functionality to the raidtools
+package.  However, mdadm is a single program, and it can perform
+almost all functions without a configuration file, though a configuration
+file can be used to help with some common tasks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kernel.org/pub/linux/utils/raid/mdadm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

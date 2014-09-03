@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ghc-data-inttrie</b>'
+Comment='<span size="xx-large">A lazy infinite trie of integers</span>'
+Comment3='
+Provides a minimal infinite, lazy trie for integral types. It intentionally
+leaves out ideas such as delete and emptiness so that it can be used lazily,
+eg as the target of an infinite foldr. Essentially its purpose is to be
+an efficient implementation of a function from integral type, given
+point-at-a-time modifications.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/data-inttrie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

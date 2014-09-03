@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kernel-debug-devel</b>'
+Comment='<span size="xx-large">Development package for building kernel modules to match the debug kernel</span>'
+Comment3='
+This package provides kernel headers and makefiles sufficient to build modules
+against the debug kernel package.
+'
+License='GPLv2 and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

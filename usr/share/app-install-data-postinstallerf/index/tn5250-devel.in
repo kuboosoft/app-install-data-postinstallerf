@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tn5250-devel</b>'
+Comment='<span size="xx-large">Development tools for the 5250 protocol</span>'
+Comment3='
+Libraries and header files to use with lib5250.
+
+URL          http//tn5250.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tn5250.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

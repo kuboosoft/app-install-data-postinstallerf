@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-augeas</b>'
+Comment='<span size="xx-large">Ruby bindings for Augeas</span>'
+Comment3='
+Ruby bindings for augeas.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://augeas.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

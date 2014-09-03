@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>openmw</b>'
+Comment='<span size="xx-large">Unofficial open source engine re-implementation of the game Morrowind</span>'
+Comment3='
+OpenMW is a new engine for 2002s Game of the Year,
+The Elder Scrolls 3 Morrowind.
+
+It aims to be a fully playable (and improved!), open source implementation of
+the games engine and functionality. You will still need the original game data
+to play OpenMW.
+'
+License='GPLv3 and MIT and zlib'
+Screenshot=''
+Url='https://openmw.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

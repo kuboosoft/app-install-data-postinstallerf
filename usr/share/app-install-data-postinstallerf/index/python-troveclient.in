@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-troveclient</b>'
+Comment='<span size="xx-large">Client library for OpenStack DBaaS API</span>'
+Comment3='
+This is a client for the Trove API. Theres a Python API (the
+troveclient module), and a command-line script (trove). Each
+implements 100% (or less ;) ) of the Trove API.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openstack.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

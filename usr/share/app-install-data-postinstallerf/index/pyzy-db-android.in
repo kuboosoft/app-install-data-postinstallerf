@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pyzy-db-android</b>'
+Comment='<span size="xx-large">The android phrase database for pyzy</span>'
+Comment3='
+The phrase database for pyzy from android project.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/pyzy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

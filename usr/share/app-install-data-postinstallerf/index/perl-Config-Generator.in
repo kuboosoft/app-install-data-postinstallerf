@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Config-Generator</b>'
+Comment='<span size="xx-large">Shared variables for the Config::Generator modules</span>'
+Comment3='
+The goal of this collection of modules is to ease the generation of low-level
+configuration files from high-level configuration items and templates.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Config-Generator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

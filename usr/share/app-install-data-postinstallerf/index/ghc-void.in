@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-void</b>'
+Comment='<span size="xx-large">Haskell 98 logically uninhabited data type</span>'
+Comment3='
+A Haskell 98 logically uninhabited data type, used to indicate that
+a given term should not exist.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/void'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

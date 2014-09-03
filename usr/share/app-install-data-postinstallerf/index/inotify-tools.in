@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>inotify-tools</b>'
+Comment='<span size="xx-large">Command line utilities for inotify</span>'
+Comment3='
+inotify-tools is a set of command-line programs for Linux providing
+a simple interface to inotify. These programs can be used to monitor
+and act upon filesystem events.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://inotify-tools.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

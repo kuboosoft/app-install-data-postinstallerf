@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hibernate-osgi</b>'
+Comment='<span size="xx-large">Hibernate OSGi Support</span>'
+Comment3='
+Support for running Hibernate O/RM in OSGi environments.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.hibernate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

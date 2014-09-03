@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-network-conduit</b>'
+Comment='<span size="xx-large">Stream socket data using conduits</span>'
+Comment3='
+Stream socket data using conduits.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/network-conduit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

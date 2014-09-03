@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkfbapi-devel</b>'
+Comment='<span size="xx-large">Development files for libkfbapi</span>'
+Comment3='
+Development files for libkfbapi.
+
+URL          https//projects.kde.org/projects/extragear/libs/libkfbapi
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/libs/libkfbapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

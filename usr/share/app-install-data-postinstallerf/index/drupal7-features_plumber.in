@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>drupal7-features_plumber</b>'
+Comment='<span size="xx-large">Remove unwanted components from your Features</span>'
+Comment3='
+This module is useful for feature development using the Features module[1].
+Occasionally the Features module auto detects components that you do not want
+exported to features. You can use this module to remove those auto-detected
+components from any and all features you choose. The Features Plumber UI module
+adds check boxes to the feature create form, and unchecking these detected
+components will cause them to be removed from the actual generated export.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/features_plumber'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

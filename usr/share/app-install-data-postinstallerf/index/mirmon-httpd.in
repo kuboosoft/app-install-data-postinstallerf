@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mirmon-httpd</b>'
+Comment='<span size="xx-large">Apache configuration for mirmon</span>'
+Comment3='
+This package provides the Apache configuration for
+applications using an Alias to mirmon.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.staff.science.uu.nl/~penni101/mirmon/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

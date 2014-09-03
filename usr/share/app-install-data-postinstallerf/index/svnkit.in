@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>svnkit</b>'
+Comment='<span size="xx-large">Pure java subversion client library</span>'
+Comment3='
+SVNKit is a pure java Subversion client library. You would like to use SVNKit
+when you need to access or modify Subversion repository from your Java
+application, as a standalone program and plugin or web application. Being a
+pure java program, SVNKit doesnt need any additional configuration or native
+binaries to work on any OS that runs java.
+'
+License='TMate'
+Screenshot=''
+Url='http://www.svnkit.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

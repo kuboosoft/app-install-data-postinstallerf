@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-django-sorting</b>'
+Comment='<span size="xx-large">A Django application for easy sorting</span>'
+Comment3='
+Django-sorting allows for easy sorting, and sorting links generation
+without modifying your views.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/django-sorting'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

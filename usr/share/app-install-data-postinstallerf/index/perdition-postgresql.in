@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perdition-postgresql</b>'
+Comment='<span size="xx-large">Library to allow perdition to access PostgreSQL based pop maps</span>'
+Comment3='
+Perdition allows for arbitrary user database access through shared
+libraries much in the manner of NSS in glibc. This package allows a user
+database stored in a PostgreSQL database.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://horms.net/projects/perdition/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

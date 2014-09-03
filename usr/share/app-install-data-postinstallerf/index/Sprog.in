@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>Sprog</b>'
+Comment='<span size="xx-large">A graphical tool to build programs by plugging parts together</span>'
+Comment3='
+Sprog is a tool for working with data. It allows you to do all the things those
+clever Unix geeks can do with their cryptic command lines but you can now do it
+all with point-n-click and drag-n-drop.
+
+A Sprog machine has many similarities to a shell script. It is built from small
+reusable parts (called gears) that are connected together to filter and massage
+your data. Once you have built a machine, you can save it and run it again and
+again to automatically perform repetitive tasks.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://sprog.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

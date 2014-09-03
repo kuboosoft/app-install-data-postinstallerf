@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>plymouth</b>'
+Comment='<span size="xx-large">Graphical Boot Animation and Logger</span>'
+Comment3='
+Plymouth provides an attractive graphical boot animation in
+place of the text messages that normally get shown.  Text
+messages are instead redirected to a log file for viewing
+after boot.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Plymouth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-scrapy</b>'
+Comment='<span size="xx-large">A high-level Python Screen Scraping framework</span>'
+Comment3='
+Scrapy is a fast high-level screen scraping and web crawling
+framework, used to crawl websites and extract structured data
+from their pages. It can be used for a wide range of purposes,
+from data mining to monitoring and automated testing
+'
+License='BSD'
+Screenshot=''
+Url='http://scrapy.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

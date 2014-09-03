@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>audit-viewer</b>'
+Comment='<span size="xx-large">Audit event viewer</span>'
+Comment3='
+A graphical utility for viewing and summarizing audit events.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/audit-viewer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

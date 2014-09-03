@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ffgtk</b>'
+Comment='<span size="xx-large">A solution for controlling Fritz!Box or compatible routers</span>'
+Comment3='
+Fritz Fun (ffgtk) is a clean solution for controlling the FRITZ!Box or
+compatible router with Linux. It offers a rich feature list, including caller
+monitor and fax support. It offers integration with the KDE, evolution and
+Thurderbird address books.
+Some plug-ins are packaged separately.
+'
+License='GPLv2'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

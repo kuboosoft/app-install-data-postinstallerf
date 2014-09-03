@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>lagan</b>'
+Comment='<span size="xx-large">Local, global, and multiple alignment of DNA sequences</span>'
+Comment3='
+LAGAN toolkit is a set of tools for local, global, and multiple alignment of
+DNA sequences.  Please visit http//lagan.stanford.edu for publications
+describing LAGAN and its components.
+
+The 4 main parts of LAGAN are
+1. CHAOS local alignment tool
+2. LAGAN pairwise global alignment tool
+3. MLAGAN multiple global alignment tool.
+4. Shuffle-LAGAN pairwise glocal alignment
+'
+License='GPLv2'
+Screenshot=''
+Url='http://lagan.stanford.edu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

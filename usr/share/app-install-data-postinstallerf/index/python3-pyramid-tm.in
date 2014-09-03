@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-pyramid-tm</b>'
+Comment='<span size="xx-large">A package which allows Pyramid requests to join the active transaction</span>'
+Comment3='
+pyramid_tm is a package which allows Pyramid requests to join the
+active transaction as provided by the transaction
+http//pypi.python.org/pypi/transaction
+
+See http//docs.pylonsproject.org/projects/pyramid_tm/dev/
+or docs/index.rst in this distribution for detailed documentation.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/pyramid_tm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-pyface-qt</b>'
+Comment='<span size="xx-large">Qt backend placeholder for pyface</span>'
+Comment3='
+Qt backend placeholder for pyface.
+'
+License='BSD and EPL and LGPLv2 and Public Domain'
+Screenshot=''
+Url='http://code.enthought.com/projects/traits_ui/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

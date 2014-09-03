@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gallery2-imageframe</b>'
+Comment='<span size="xx-large">Imageframe module for Gallery 2</span>'
+Comment3='
+Gallery 2 module - Render frames around images
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gallery.menalto.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

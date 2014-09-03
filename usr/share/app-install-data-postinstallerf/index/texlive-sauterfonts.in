@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-sauterfonts</b>'
+Comment='<span size="xx-large">Use sauter fonts in LaTeX</span>'
+Comment3='
+A package providing font definition files (plus a replacement
+for the package exscale) to access many of the fonts in
+Sauters collection. These fonts are available in all point
+sizes and look nicer for such "intermediate" document sizes as
+11pt. Also included is the package sbbm, an alternative to
+access the bbm fonts, a nice collection of blackboard bold
+symbols.
+
+date 2007-01-14 104312 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

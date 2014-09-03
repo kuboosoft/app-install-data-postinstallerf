@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Sub-Uplevel</b>'
+Comment='<span size="xx-large">Apparently run a function in a higher stack frame</span>'
+Comment3='
+Like Tcls uplevel() function, but not quite so dangerous. The idea is
+just to fool caller(). All the really naughty bits of Tcls uplevel()
+are avoided.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sub-Uplevel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

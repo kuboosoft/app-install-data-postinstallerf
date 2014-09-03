@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>sjinn</b>'
+Comment='<span size="xx-large">Simple tool for sending & receiving data from RS-232 devices</span>'
+Comment3='
+S-Jinn is a free, lightweight, open-source Linux application written in
+C. It is a simple command-line tool designed for sending & receiving
+data from PC controlled TIA/EIA-232 (RS-232) test, measurement,
+and control devices.
+
+Depending on your application you may be able to use stty or
+C-Kermit, but I believe you will find that S-Jinn is easier-to-use,
+more intuitive, and more concise in the area of command-line and/or
+scripted RS-232 data acquisition and control.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sjinn.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

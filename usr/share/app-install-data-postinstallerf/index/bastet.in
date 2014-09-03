@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bastet</b>'
+Comment='<span size="xx-large">An evil falling bricks game</span>'
+Comment3='
+Bastet is a simple ncurses-based falling bricks like game. Unlike
+normal, however, Bastet does not choose your next brick at random.
+Instead, it uses a special algorithm designed to choose the worst
+brick possible. As you can imagine, playing Bastet can be a very
+frustrating experience!
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fph.altervista.org/prog/bastet.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

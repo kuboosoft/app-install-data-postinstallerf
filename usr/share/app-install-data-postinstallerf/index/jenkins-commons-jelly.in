@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>jenkins-commons-jelly</b>'
+Comment='<span size="xx-large">Open and customizable XML processing engine</span>'
+Comment3='
+Jelly is a tool for turning XML into executable code. Its a Java
+and XML based scripting and processing engine. A Jelly script
+is an XML document which gets parsed into a Script.
+The script can then be ran to produce dynamic XML events
+which can then be turned into text, XML, HTML etc. Rather like Velocity,
+the XML can contain expressions to make the output dynamic
+and can work with a variable context.
+
+This package contains slightly modified version of the library
+used in Jenkins project.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/jenkinsci/jelly'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>x3270-text</b>'
+Comment='<span size="xx-large">IBM 3278/3279 terminal emulator for text mode</span>'
+Comment3='
+The c3270 program opens a 3270 terminal which emulates the actual look of an
+IBM 3278/3279 terminal, commonly used with mainframe applications.
+x3270 also allows you to telnet to an IBM host from the x3270 window.
+
+Install the x3270-text package if you need to access IBM hosts using an IBM
+3278/3279 terminal emulator without running X.
+'
+License='BSD'
+Screenshot=''
+Url='http://x3270.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

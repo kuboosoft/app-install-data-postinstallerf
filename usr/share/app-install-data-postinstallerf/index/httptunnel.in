@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>httptunnel</b>'
+Comment='<span size="xx-large">Tunnels a data stream in HTTP requests</span>'
+Comment3='
+HTTPTunnel creates a bidirectional virtual data stream tunnelled in
+HTTP requests. The requests can be sent via a HTTP proxy if so desired.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nocrew.org/software/httptunnel.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>latencytop-tui</b>'
+Comment='<span size="xx-large">System latency monitor (text interface only)</span>'
+Comment3='
+LatencyTOP is a tool for software developers (both kernel and userspace), aimed
+at identifying where in the system latency is happening, and what kind of
+operation/action is causing the latency to happen so that the code can be
+changed to avoid the worst latency hiccups.
+This package contains a build of LatencyTOP without GUI support (and with few
+dependencies).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.latencytop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

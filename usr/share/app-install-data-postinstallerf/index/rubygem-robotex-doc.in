@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-robotex-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-robotex</span>'
+Comment3='
+This package contains documentation for rubygem-robotex.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.github.com/chriskite/robotex'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

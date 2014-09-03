@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>automake</b>'
+Comment='<span size="xx-large">A GNU tool for automatically creating Makefiles</span>'
+Comment3='
+Automake is a tool for automatically generating `Makefile.in
+files compliant with the GNU Coding Standards.
+
+You should install Automake if you are developing software and would
+like to use its ability to automatically generate GNU standard
+Makefiles.
+'
+License='GPLv2+ and GFDL and Public Domain and MIT'
+Screenshot=''
+Url='http://www.gnu.org/software/automake/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

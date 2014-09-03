@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>patchutils</b>'
+Comment='<span size="xx-large">A collection of programs for manipulating patch files</span>'
+Comment3='
+This is a collection of programs that can manipulate patch files in
+a variety of ways, such as interpolating between two pre-patches,
+combining two incremental patches, fixing line numbers in hand-edited
+patches, and simply listing the files modified by a patch.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cyberelk.net/tim/patchutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

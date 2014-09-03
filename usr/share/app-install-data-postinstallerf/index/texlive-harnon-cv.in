@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-harnon-cv</b>'
+Comment='<span size="xx-large">harnon-cv package</span>'
+Comment3='
+harnon-cv package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-test-unit-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-test-unit</span>'
+Comment3='
+This package contains documentation for rubygem-test-unit.
+'
+License='(GPLv2 or Ruby) and (GPLv2 or Ruby or Python) and (LGPLv2+ or Ruby)'
+Screenshot=''
+Url='http://rubyforge.org/projects/test-unit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

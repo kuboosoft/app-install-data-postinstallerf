@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libeot</b>'
+Comment='<span size="xx-large">A library for parsing Embedded OpenType font files</span>'
+Comment3='
+libeot is a library for parsing Embedded OpenType files (Microsoft
+embedded font "standard") and converting them to other formats.
+
+'
+License='MPLv2.0'
+Screenshot=''
+Url='https://github.com/umanwizard/libeot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

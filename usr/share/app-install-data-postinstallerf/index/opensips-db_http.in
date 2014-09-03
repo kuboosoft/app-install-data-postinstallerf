@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>opensips-db_http</b>'
+Comment='<span size="xx-large">HTTP DB backend support</span>'
+Comment3='
+This module provides access to a database that is implemented as a
+HTTP server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

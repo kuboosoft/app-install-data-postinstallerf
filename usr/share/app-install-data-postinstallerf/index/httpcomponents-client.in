@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>httpcomponents-client</b>'
+Comment='<span size="xx-large">HTTP agent implementation based on httpcomponents HttpCore</span>'
+Comment3='
+HttpClient is a HTTP/1.1 compliant HTTP agent implementation based on
+httpcomponents HttpCore. It also provides reusable components for
+client-side authentication, HTTP state management, and HTTP connection
+management. HttpComponents Client is a successor of and replacement
+for Commons HttpClient 3.x. Users of Commons HttpClient are strongly
+encouraged to upgrade.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://hc.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

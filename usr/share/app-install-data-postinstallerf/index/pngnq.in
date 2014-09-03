@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pngnq</b>'
+Comment='<span size="xx-large">Pngnq is a tool for quantizing PNG images in RGBA format</span>'
+Comment3='
+Pngnq is a tool for quantizing PNG images in RGBA format.
+
+The neuquant algorithm uses a neural network to optimise the color
+map selection. This is fast and quite accurate, giving good results
+on many types of images.
+'
+License='BSD with advertising and MIT and BSD'
+Screenshot=''
+Url='http://pngnq.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

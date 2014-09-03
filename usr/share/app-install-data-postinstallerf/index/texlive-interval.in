@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-interval</b>'
+Comment='<span size="xx-large">Format mathematical intervals, ensuring proper spacing</span>'
+Comment3='
+When typing an open interval as $]a,b[$, a closing bracket is
+being used in place of an opening fence and vice versa. This
+leads to the wrong spacing in, say, $]-a,b[$ or $A\in]a,b[=B$.
+The package attempts to solve this using \interval{a}{b} ->
+[a,b] \interval[open]{a}{b} -> ]a,b[ \interval[open left]{a}{b}
+-> ]a,b] The package also supports fence scaling and ensures
+that the enclosing fences will end up having the proper closing
+and opening types. TeX maths does not do this job properly.
+
+date 2013-05-24 144946 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

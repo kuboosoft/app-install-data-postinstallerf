@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cuneiform-devel</b>'
+Comment='<span size="xx-large">Development files for cuneiform</span>'
+Comment3='
+Development files for cuneiform.
+
+URL          http//launchpad.net/cuneiform-linux
+'
+License='BSD'
+Screenshot=''
+Url='http://launchpad.net/cuneiform-linux'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Stream</b>'
+Comment='<span size="xx-large">Horde stream handler</span>'
+Comment3='
+An object-oriented interface to assist in creating and storing PHP stream
+resources, and to provide utility methods to access and manipulate the
+stream contents.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

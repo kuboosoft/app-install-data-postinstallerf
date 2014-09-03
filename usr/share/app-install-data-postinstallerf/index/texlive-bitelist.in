@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-bitelist</b>'
+Comment='<span size="xx-large">Split list, in TeXs mouth</span>'
+Comment3='
+The package provides commands for "splitting" a token list at
+the first occurrence of another (specified) token list. I.e.,
+for given token lists s, t return b and the shortest a, such
+that t = a s b. The packages mechanism differs from those of
+packages providing similar features, in the following ways -
+the method uses TeXs mechanism of reading delimited macro
+parameters; - the splitting macros work by pure expansion,
+without assignments; - the operation is carried out in a single
+macro call. A variant of the operation is provided, that
+retains outer braces.
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

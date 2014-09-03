@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>arp-scan</b>'
+Comment='<span size="xx-large">Scanning and fingerprinting tool</span>'
+Comment3='
+arp-scan is a command-line tool that uses the ARP protocol to discover and
+fingerprint IP hosts on the local network.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nta-monitor.com/tools/arp-scan/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

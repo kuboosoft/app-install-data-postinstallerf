@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>wxGTK3-gl</b>'
+Comment='<span size="xx-large">OpenGL add-on for the wxWidgets library</span>'
+Comment3='
+OpenGL (a 3D graphics API) add-on for the wxWidgets library.
+wxWidgets is the GTK port of the C++ cross-platform wxWidgets
+GUI library, offering classes for all common GUI controls as well as a
+comprehensive set of helper classes for most common application tasks,
+ranging from networking to HTML display and image manipulation.
+
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.wxwidgets.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

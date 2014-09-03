@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-User-Utmp</b>'
+Comment='<span size="xx-large">Perl access to utmp- and utmpx-style databases</span>'
+Comment3='
+UNIX systems record information about current and past log-ins in a user
+accounting database. This database is realized by two files File utmpx
+contains a record of all users currently logged onto the system, while file
+wtmpx contains a record of all log-ins and log-outs. Some systems (such as
+HP-UX and AIX) also maintain a third file containing failed log-in attempts.
+The information in these files is used by commands such as who(1), last(1),
+write(1), or login(1).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/User-Utmp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libX11-devel</b>'
+Comment='<span size="xx-large">Development files for libX11</span>'
+Comment3='
+X.Org X11 libX11 development package
+
+URL          http//www.x.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

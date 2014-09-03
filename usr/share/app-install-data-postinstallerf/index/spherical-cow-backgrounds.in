@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spherical-cow-backgrounds</b>'
+Comment='<span size="xx-large">Spherical Cow desktop backgrounds</span>'
+Comment3='
+This package contains desktop backgrounds for the Spherical Cow theme.
+Pulls in both Gnome and KDE themes.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F18_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

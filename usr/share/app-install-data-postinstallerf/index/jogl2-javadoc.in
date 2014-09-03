@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jogl2-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jogl2</span>'
+Comment3='
+Javadoc for jogl2.
+'
+License='BSD and MIT and ASL 2.0 and ASL 1.1'
+Screenshot=''
+Url='http://jogamp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

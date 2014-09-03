@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xhprof</b>'
+Comment='<span size="xx-large">A Hierarchical Profiler for PHP - Web interface</span>'
+Comment3='
+XHProf is a function-level hierarchical profiler for PHP and has a simple HTML
+based navigational interface.
+
+The raw data collection component, implemented in C (as a PHP extension,
+provided by the "php-pecl-xhprof" package).
+The reporting/UI layer is all in PHP. It is capable of reporting function-level
+inclusive and exclusive wall times, memory usage, CPU times and number of calls
+for each function.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pecl.php.net/package/xhprof'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

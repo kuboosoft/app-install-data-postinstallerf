@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>sylpheed</b>'
+Comment='<span size="xx-large">GTK+ based, lightweight, and fast email client</span>'
+Comment3='
+This program is an X based fast email client which has features like
+
+o user-friendly and intuitive interface
+o integrated NetNews client (partially implemented)
+o ability of keyboard-only operation
+o Mew/Wanderlust-like key bind
+o multipart MIME
+o unlimited multiple account handling
+o message queueing
+o assortment function
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sylpheed.sraoss.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

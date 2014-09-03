@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-fy</b>'
+Comment='<span size="xx-large">Frisian hunspell dictionaries</span>'
+Comment3='
+Frisian hunspell dictionaries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.mozilla-nl.org/projecten/frysk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

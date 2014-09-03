@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ksystemlog</b>'
+Comment='<span size="xx-large">System Log Viewer for KDE</span>'
+Comment3='
+This program is developed for beginner users, who dont know how to find
+information about their Linux system, and dont know where log files are.
+
+It is also of course designed for advanced users, who quickly want to understand
+problems of their machine with a more powerful and graphical tool than tail -f
+and less commands.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/applications/system/ksystemlog/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libjpeg-turbo</b>'
+Comment='<span size="xx-large">A MMX/SSE2 accelerated library for manipulating JPEG image files</span>'
+Comment3='
+The libjpeg-turbo package contains a library of functions for manipulating JPEG
+images.
+
+'
+License='IJG'
+Screenshot=''
+Url='http://sourceforge.net/projects/libjpeg-turbo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

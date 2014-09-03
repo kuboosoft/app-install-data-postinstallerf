@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>trousers</b>'
+Comment='<span size="xx-large">TCGs Software Stack v1.2</span>'
+Comment3='
+TrouSerS is an implementation of the Trusted Computing Groups Software Stack
+(TSS) specification. You can use TrouSerS to write applications that make use
+of your TPM hardware. TPM hardware can create, store and use RSA keys
+securely (without ever being exposed in memory), verify a platforms software
+state using cryptographic hashes and more.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://trousers.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

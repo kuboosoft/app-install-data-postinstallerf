@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pdf-renderer-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for PDFRenderer</span>'
+Comment3='
+API documentation for the PDFRenderer package.
+'
+License='LGPLv2+ and MIT and BSD'
+Screenshot=''
+Url='https://pdf-renderer.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

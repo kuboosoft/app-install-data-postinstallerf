@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-expat-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-expat</span>'
+Comment3='
+The ocaml-expat-devel package contains libraries and signature files for
+developing applications that use ocaml-expat.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.xs4all.nl/~mmzeeman/ocaml/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

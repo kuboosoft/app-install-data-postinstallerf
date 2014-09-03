@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vsftpd-sysvinit</b>'
+Comment='<span size="xx-large">SysV initscript for vsftpd daemon</span>'
+Comment3='
+The vsftpd-sysvinit contains SysV initscritps support.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://security.appspot.com/vsftpd.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-tvrage</b>'
+Comment='<span size="xx-large">Python client for the tvrage.com XML API</span>'
+Comment3='
+python-tvrage is a python based object oriented client interface for
+tvrage.coms XML based api feeds.
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/python-tvrage'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

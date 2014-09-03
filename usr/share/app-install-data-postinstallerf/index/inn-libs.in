@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>inn-libs</b>'
+Comment='<span size="xx-large">Libraries provided by INN</span>'
+Comment3='
+This package contains dynamic libraries provided by INN project
+
+URL          https//www.isc.org/software/INN/
+'
+License='GPLv2+ and BSD and MIT and Public Domain'
+Screenshot=''
+Url='https://www.isc.org/software/INN/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

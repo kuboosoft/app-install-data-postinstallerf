@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libaccounts-glib</b>'
+Comment='<span size="xx-large">Accounts framework for Linux and POSIX based platforms</span>'
+Comment3='
+Accounts framework for Linux and POSIX based platforms.
+
+URL          https//code.google.com/p/accounts-sso/
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://code.google.com/p/accounts-sso/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

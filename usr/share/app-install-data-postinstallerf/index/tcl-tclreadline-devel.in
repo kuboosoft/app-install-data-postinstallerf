@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tcl-tclreadline-devel</b>'
+Comment='<span size="xx-large">Development files for the tclreadline library</span>'
+Comment3='
+The tclreadline-devel package includes the header file and library
+necessary for developing programs which use the tclreadline library.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://tclreadline.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-net-irc-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-net-irc</span>'
+Comment3='
+Documentation for rubygem-net-irc
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='https://github.com/cho45/net-irc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

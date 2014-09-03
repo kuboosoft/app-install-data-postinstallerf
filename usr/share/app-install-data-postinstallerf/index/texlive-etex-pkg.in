@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-etex-pkg</b>'
+Comment='<span size="xx-large">E-TeX support package</span>'
+Comment3='
+The package provides a straightforward interface to many of the
+extensions offered by e-TeX; in particular, it modifies LaTeXs
+register allocation macros to make use of the extended register
+range. The etoolbox and etextools packages provide macros that
+make more sophisticated use of e-TeXs facilities.
+
+date 2009-07-22 124306 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

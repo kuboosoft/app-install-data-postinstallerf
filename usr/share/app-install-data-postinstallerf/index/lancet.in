@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lancet</b>'
+Comment='<span size="xx-large">A build tool like Ant or Rake</span>'
+Comment3='
+Lancet is a build tool like Ant or Rake. Lancet makes it
+easy to create build targets any Clojure function can be
+a build target. Lancet can call Ant tasks, or shell out
+and call other processes.
+'
+License='EPL'
+Screenshot=''
+Url='https://github.com/technomancy/lancet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

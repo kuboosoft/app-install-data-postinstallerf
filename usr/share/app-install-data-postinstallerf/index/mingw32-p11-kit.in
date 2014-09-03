@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mingw32-p11-kit</b>'
+Comment='<span size="xx-large">MinGW Library for loading and sharing PKCS#11 modules</span>'
+Comment3='
+p11-kit provides a way to load and enumerate PKCS#11 modules, as well as
+a standard configuration setup for installing PKCS#11 modules in such a
+way that theyre discoverable.  This library is cross-compiled for MinGW.
+'
+License='BSD'
+Screenshot=''
+Url='http://p11-glue.freedesktop.org/p11-kit.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

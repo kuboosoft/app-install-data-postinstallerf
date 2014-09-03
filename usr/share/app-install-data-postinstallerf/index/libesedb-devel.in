@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libesedb-devel</b>'
+Comment='<span size="xx-large">Development files for libesedb</span>'
+Comment3='
+The libesedb-devel package contains libraries and header files for
+developing applications that use libesedb.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/libesedb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

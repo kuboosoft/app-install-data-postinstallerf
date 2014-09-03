@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xine-lib-devel</b>'
+Comment='<span size="xx-large">Xine library development files</span>'
+Comment3='
+This package contains development files for xine-lib.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xine-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

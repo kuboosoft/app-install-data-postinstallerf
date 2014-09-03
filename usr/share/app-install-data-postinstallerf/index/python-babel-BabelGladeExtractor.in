@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-babel-BabelGladeExtractor</b>'
+Comment='<span size="xx-large">Babel Glade XML files translatable strings extractor</span>'
+Comment3='
+This is a Babel extractor plug-in which extracts translatable messages.
+'
+License='BSD'
+Screenshot=''
+Url='http://babel.edgewall.org/wiki/BabelGladeExtractor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>uw-imap-static</b>'
+Comment='<span size="xx-large">UW IMAP static library</span>'
+Comment3='
+Contains static libraries for developing programs
+which will use the UW C-client common API.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.washington.edu/imap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

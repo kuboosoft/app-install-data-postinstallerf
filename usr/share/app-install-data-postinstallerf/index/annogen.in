@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>annogen</b>'
+Comment='<span size="xx-large">Java framework for JSR-175 annotations</span>'
+Comment3='
+Annogen is a framework which helps you work with JSR175 Annotations.
+In a nutshell, Annogen generates a proxy layer in front of your
+Annotations.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://annogen.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

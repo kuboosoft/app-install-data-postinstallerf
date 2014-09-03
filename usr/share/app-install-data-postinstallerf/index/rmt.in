@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rmt</b>'
+Comment='<span size="xx-large">Provides certain programs with access to remote tape devices</span>'
+Comment3='
+The rmt utility provides remote access to tape devices for programs
+like dump (a filesystem backup program), restore (a program for
+restoring files from a backup), and tar (an archiving program).
+'
+License='CDDL'
+Screenshot=''
+Url='http://cdrecord.berlios.de/old/private/star.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

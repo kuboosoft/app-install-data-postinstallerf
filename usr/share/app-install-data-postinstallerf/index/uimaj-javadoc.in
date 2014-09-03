@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uimaj-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for uimaj</span>'
+Comment3='
+This package contains javadoc for uimaj.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://uima.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-xesearch</b>'
+Comment='<span size="xx-large">A string finder for XeTeX</span>'
+Comment3='
+The package finds strings (e.g. (parts of) words or phrases)
+and manipulates them (apply any macro), thus turning each word
+or phrase into a possible command. It is written in plain XeTeX
+and should thus work with any format (it is known to work with
+LaTeX and ConTeXt). The main application for the moment is
+XeIndex, an automatic index for XeLaTeX, but examples are given
+of simple use to check spelling, count words, and highlight
+syntax of programming languages.
+
+date 2009-11-18 121209 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

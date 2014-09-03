@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xonotic-server</b>'
+Comment='<span size="xx-large">Dedicated server for the Xonotic first person shooter</span>'
+Comment3='
+Xonotic is a fast-paced, chaotic, and intense multiplayer first person shooter,
+focused on providing basic, old style deathmatches.
+
+This is the Xonotic dedicated server required to host network games.
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.xonotic.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

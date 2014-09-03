@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-desktopcouch</b>'
+Comment='<span size="xx-large">Python bindings for desktopcouch</span>'
+Comment3='
+These are the python bindings for desktopcouch.
+'
+License='LGPLv3'
+Screenshot=''
+Url='https://launchpad.net/desktopcouch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

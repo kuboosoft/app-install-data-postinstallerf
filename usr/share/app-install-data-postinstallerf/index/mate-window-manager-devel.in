@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-window-manager-devel</b>'
+Comment='<span size="xx-large">Development files for mate-window-manager</span>'
+Comment3='
+Development files for mate-window-manager
+
+URL          http//mate-desktop.org
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

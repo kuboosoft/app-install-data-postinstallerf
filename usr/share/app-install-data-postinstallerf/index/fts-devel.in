@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fts-devel</b>'
+Comment='<span size="xx-large">Development files for File Transfer Service V3</span>'
+Comment3='
+This package contains development files
+(e.g. header files) for File Transfer Service V3.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/fts3/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

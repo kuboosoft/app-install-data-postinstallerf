@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>klatexformula</b>'
+Comment='<span size="xx-large">Application for easy image creating from a LaTeX equation</span>'
+Comment3='
+This application is especially designed for generating an image
+(e.g. PNG) from a LaTeX equation, this using a nice GUI. Support
+for Copy-Paste, Save as image/pdf/ps and drag-and-drop is included.
+The program has two modes, shrinked and expanded mode. Shrinked
+mode is straightforward, and expanded mode lets you to specify
+a few options. You can use KLatexFormula in command-line mode
+(eg. for scripts) by invoking klatexformula_cmdl executable.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://klatexformula.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

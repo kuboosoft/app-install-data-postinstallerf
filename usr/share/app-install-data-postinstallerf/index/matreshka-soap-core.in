@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>matreshka-soap-core</b>'
+Comment='<span size="xx-large">Framework for work with SOAP 1.2</span>'
+Comment3='
+Implementation of SOAP 1.2 in Matreshka.
+
+URL          http//forge.ada-ru.org/matreshka
+'
+License='BSD'
+Screenshot=''
+Url='http://forge.ada-ru.org/matreshka'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nsd</b>'
+Comment3='
+NSD is a complete implementation of an authoritative DNS name server.
+For further information about what NSD is and what NSD is not please
+consult the REQUIREMENTS document which is a part of this distribution
+(thanks to Olaf).
+'
+License='BSD'
+Screenshot=''
+Url='http://www.nlnetlabs.nl/nsd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

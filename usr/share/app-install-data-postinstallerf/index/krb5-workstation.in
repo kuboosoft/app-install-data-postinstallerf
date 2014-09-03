@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>krb5-workstation</b>'
+Comment='<span size="xx-large">Kerberos 5 programs for use on workstations</span>'
+Comment3='
+Kerberos is a network authentication system. The krb5-workstation
+package contains the basic Kerberos programs (kinit, klist, kdestroy,
+kpasswd). If your network uses Kerberos, this package should be
+installed on every workstation.
+'
+License='MIT'
+Screenshot=''
+Url='http://web.mit.edu/kerberos/www/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

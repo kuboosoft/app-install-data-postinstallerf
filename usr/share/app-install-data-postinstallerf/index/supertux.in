@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>supertux</b>'
+Comment='<span size="xx-large">Jumpn run like game</span>'
+Comment3='
+SuperTux is a jumpn run like game, Run and jump through multiple worlds,
+fighting off enemies by jumping on them or bumping them from below.
+Grabbing power-ups and other stuff on the way.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://supertux.lethargik.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

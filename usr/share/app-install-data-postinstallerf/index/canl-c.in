@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>canl-c</b>'
+Comment='<span size="xx-large">EMI Common Authentication library - bindings for C</span>'
+Comment3='
+
+URL          http//www.eu-emi.eu
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.eu-emi.eu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

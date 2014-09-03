@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openbox-gnome</b>'
+Comment='<span size="xx-large">GNOME integration for openbox</span>'
+Comment3='
+The openbox-gnome package contains the files needed for using openbox inside a
+GNOME session.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openbox.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

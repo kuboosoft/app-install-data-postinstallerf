@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>audtty</b>'
+Comment='<span size="xx-large">A ncurses based terminal client for the Audacious</span>'
+Comment3='
+audtty is a simple application for controlling Audacious from the command
+line.  It is designed to make common, simple tasks fast and easy to do.  It
+is operated using arrow keys and standard Audacious keys, to make it easy and
+intuitive to learn.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://audtty.alioth.debian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

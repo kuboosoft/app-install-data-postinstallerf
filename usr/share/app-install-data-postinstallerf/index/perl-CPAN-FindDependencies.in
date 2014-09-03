@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-CPAN-FindDependencies</b>'
+Comment='<span size="xx-large">Find dependencies for modules on CPAN</span>'
+Comment3='
+This module provides tools to find a modules dependencies (and their
+dependencies, and so on) without having to download the modules in
+their entirety.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPAN-FindDependencies/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

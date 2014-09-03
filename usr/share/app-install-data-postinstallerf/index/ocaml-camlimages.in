@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ocaml-camlimages</b>'
+Comment='<span size="xx-large">OCaml image processing library</span>'
+Comment3='
+This is an image processing library, which provides some basic
+functions of image processing and loading/saving various image file
+formats. In addition the library can handle huge images that cannot be
+(or can hardly be) stored into the memory (the library automatically
+creates swap files and escapes them to reduce the memory usage).
+
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://cristal.inria.fr/camlimages/eng.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

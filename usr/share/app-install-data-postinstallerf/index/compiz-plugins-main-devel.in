@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>compiz-plugins-main-devel</b>'
+Comment='<span size="xx-large">Development files for Compiz-Fusion</span>'
+Comment3='
+This package contain development files required for developing other plugins
+
+URL          http//www.compiz.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.compiz.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

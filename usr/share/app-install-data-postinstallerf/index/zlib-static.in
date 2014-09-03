@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zlib-static</b>'
+Comment='<span size="xx-large">Static libraries for Zlib development</span>'
+Comment3='
+The zlib-static package includes static libraries needed
+to develop programs that use the zlib compression and
+decompression library.
+
+'
+License='zlib and Boost'
+Screenshot=''
+Url='http://www.zlib.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

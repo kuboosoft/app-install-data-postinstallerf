@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-bson</b>'
+Comment='<span size="xx-large">A bson parser for node.js and the browser</span>'
+Comment3='
+A JS/C++ Bson parser for node, used in the MongoDB Native driver.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/mongodb/js-bson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

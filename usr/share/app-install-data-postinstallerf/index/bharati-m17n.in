@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bharati-m17n</b>'
+Comment='<span size="xx-large">Bharati input method based on InScript layout</span>'
+Comment3='
+bharati is an enhancement to input method based on InScript layout and
+implements unique transformation rule of deleting on the fly the previous
+dependent vowel for Indic languages.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/bharati/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

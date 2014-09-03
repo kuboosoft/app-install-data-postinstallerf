@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sugar-pippy</b>'
+Comment='<span size="xx-large">Pippy for Sugar</span>'
+Comment3='
+Teaches Python programming by providing access to Python code samples
+and a fully interactive Python interpreter.
+
+The user can type and execute simple Python expressions. For example,
+it would be possible for a user to write Python statements to calculate
+expressions, play sounds, or make simple text animation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Pippy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

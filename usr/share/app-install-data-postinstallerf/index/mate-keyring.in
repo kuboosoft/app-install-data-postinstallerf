@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mate-keyring</b>'
+Comment='<span size="xx-large">Framework for managing passwords and other secrets</span>'
+Comment3='
+The mate-keyring session daemon manages passwords and other types of
+secrets for the user, storing them encrypted with a main password.
+Applications can use the mate-keyring library to integrate with the keyring.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

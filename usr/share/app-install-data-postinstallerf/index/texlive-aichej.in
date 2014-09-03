@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-aichej</b>'
+Comment='<span size="xx-large">Bibliography style file for the AIChE Journal</span>'
+Comment3='
+The style was generated using custom-bib, and implements the
+style of the American Institute of Chemical Engineers Jounal
+(or AIChE Journal or AIChE J or AIChEJ).
+
+date 2008-08-16 203259 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-smartmatch</b>'
+Comment='<span size="xx-large">Pluggable smart matching back-ends</span>'
+Comment3='
+This module allows you to override the behavior of the smart match operator
+("~~"). "use smartmatch $matcher" hooks into the compiler to replace the
+smartmatch opcode with a call to a custom subroutine, specified either as
+a coderef or as a string, which will have "smartmatchengine" prepended to
+it and used as the name of a package in which to find a subroutine named
+"match".  The subroutine will be called with two arguments, the values on the
+left and right sides of the smart match operator, and should return the
+result.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/smartmatch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

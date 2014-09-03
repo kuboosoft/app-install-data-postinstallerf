@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-kerntest</b>'
+Comment='<span size="xx-large">Print tables and generate control files to adjust kernings</span>'
+Comment3='
+This class makes it easy to generate tables that show many
+different kerning pairs of an arbitrary font, usable by LaTeX.
+It shows the kerning values that are used in the the font by
+default. In addition, this class enables the user to alter the
+kernings and to observe the results. Kerning pairs can be
+defined for groups of similar glyphs at the same time. An mtx
+file is generated automatically. The mtx file may then be
+loaded by fontinst to introduce the user-made kernings into the
+virtual font for later use in LaTeX.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rwho</b>'
+Comment='<span size="xx-large">Displays who is logged in to local network machines</span>'
+Comment3='
+The rwho command displays output similar to the output of the who
+command (it shows who is logged in) for all machines on the local
+network running the rwho daemon.
+
+Install the rwho command if you need to keep track of the users who
+are logged in to your local network.
+'
+License='BSD and GPL+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

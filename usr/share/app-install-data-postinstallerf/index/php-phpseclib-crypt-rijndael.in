@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-phpseclib-crypt-rijndael</b>'
+Comment='<span size="xx-large">Pure-PHP implementation of Rijndael</span>'
+Comment3='
+Does not use mcrypt, even when available, for reasons discussed in
+Rijndael.php.
+'
+License='MIT'
+Screenshot=''
+Url='http://phpseclib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

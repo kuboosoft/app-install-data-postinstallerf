@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Log-Message</b>'
+Comment='<span size="xx-large">Generic message storing mechanism</span>'
+Comment3='
+This package enables you to do generic message logging throughout programs and
+projects. Every message will be logged with stack traces, time stamps and so
+on.  You can use built-in handlers immediately, or after the fact when you
+inspect the error stack. It is highly configurable and lets you even provide
+your own handlers for dealing with messages.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Log-Message/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

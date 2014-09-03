@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>apitrace</b>'
+Comment='<span size="xx-large">Tools for tracing OpenGL</span>'
+Comment3='
+apitrace consists of a set of tools to
+ * trace OpenGL and OpenGL ES  APIs calls to a file;
+ * replay OpenGL and OpenGL ES calls from a file
+ * inspect OpenGL state at any call while retracing
+ * visualize and edit trace files
+'
+License='MIT'
+Screenshot=''
+Url='http://apitrace.github.io/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

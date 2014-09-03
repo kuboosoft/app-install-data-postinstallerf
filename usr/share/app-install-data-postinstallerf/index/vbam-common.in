@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>vbam-common</b>'
+Comment='<span size="xx-large">Common configuration for VBA-M, a high compatibility Gameboy Advance Emulator</span>'
+Comment3='
+This package provides common configurations for both GUI and SDL versions.
+VisualBoyAdvance-M is a Nintendo Game Boy Emulator with high compatibility with
+commercial games. It emulates the Nintendo Game Boy Advance hand held console,
+in addition to the original Game Boy hand held systems and its Super and Color
+variants. VBA-M is a continued development of the now inactive VisualBoy
+Advance project, with many improvements from various developments of VBA.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.vba-m.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

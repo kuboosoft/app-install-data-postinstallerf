@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ruby-rc4</b>'
+Comment='<span size="xx-large">Pure Ruby implementation of the RC4 algorithm</span>'
+Comment3='
+RC4 is a pure Ruby implementation of the RC4 algorithm.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/caiges/Ruby-RC4'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

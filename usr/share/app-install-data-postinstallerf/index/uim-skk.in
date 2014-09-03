@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uim-skk</b>'
+Comment='<span size="xx-large">SKK support for Uim</span>'
+Comment3='
+This package provides support for SKK, a Japanese input method.
+'
+License='BSD and LGPLv2+ and (BSD or LGPLv2)'
+Screenshot=''
+Url='http://code.google.com/p/uim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

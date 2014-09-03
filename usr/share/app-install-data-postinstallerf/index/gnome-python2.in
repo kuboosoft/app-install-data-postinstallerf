@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gnome-python2</b>'
+Comment='<span size="xx-large">PyGNOME Python extension module</span>'
+Comment3='
+The gnome-python package contains the source packages for the Python
+bindings for GNOME called PyGNOME.
+
+PyGNOME is an extension module for Python that provides access to the
+base GNOME libraries, so you have access to more widgets, a simple
+configuration interface, and metadata support.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/gnome-python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

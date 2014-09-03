@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-icon-theme-legacy</b>'
+Comment='<span size="xx-large">Old names for icons in gnome-icon-theme</span>'
+Comment3='
+This package contains symlinks to make the icons in gnome-icon-theme
+available under old names.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

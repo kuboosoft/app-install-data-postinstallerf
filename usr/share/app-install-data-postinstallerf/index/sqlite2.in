@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>sqlite2</b>'
+Comment='<span size="xx-large">Embeddable SQL engine in a C library</span>'
+Comment3='
+SQLite is a small, fast, embeddable SQL database engine that supports
+most of SQL92, including transactions with atomic commit and rollback,
+subqueries, compound queries, triggers, and views. A complete database
+is stored in a single cross-platform disk file. The native C/C++ API
+is simple and easy to use. Bindings for other languages are also
+available.
+
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.sqlite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

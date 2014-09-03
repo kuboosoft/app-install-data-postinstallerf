@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>localizer</b>'
+Comment='<span size="xx-large">Type-safe localization message access for Java</span>'
+Comment3='
+This package provides Java code generator for type-safe
+message resource bundle access.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kohsuke/localizer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-MooseX-MethodAttributes</b>'
+Comment='<span size="xx-large">Introspect your method code attributes</span>'
+Comment3='
+This module allows code attributes of methods to be introspected using
+Moose meta method objects.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-MethodAttributes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

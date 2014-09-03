@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-pfl-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for glassfish-pfl</span>'
+Comment3='
+This package contains javadoc for glassfish-pfl.
+'
+License='(CDDL or GPLv2 with exceptions) and ASL 2.0'
+Screenshot=''
+Url='http://java.net/projects/gmbal/pages/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

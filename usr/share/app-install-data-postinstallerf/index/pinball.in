@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pinball</b>'
+Comment='<span size="xx-large">Emilia arcade game</span>'
+Comment3='
+The Emilia Pinball project is an open source pinball simulator for linux
+and other unix systems. The current release is a stable and mature alpha.
+There is only one level to play with but it is however very addictive.
+'
+License='GPL+'
+Screenshot=''
+Url='http://pinball.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

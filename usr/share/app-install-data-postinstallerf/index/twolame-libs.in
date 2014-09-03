@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>twolame-libs</b>'
+Comment='<span size="xx-large">TwoLAME is an optimised MPEG Audio Layer 2 encoding library based on tooLAME</span>'
+Comment3='
+TwoLAME is an optimised MPEG Audio Layer 2 encoding library based on tooLAME,
+which in turn is based heavily on
+- the ISO dist10 code
+- improvement to algorithms as part of the LAME project (www.sulaco.org/mp3)
+
+This package contains the shared library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.twolame.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

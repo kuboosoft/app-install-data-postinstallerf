@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-numdisplay</b>'
+Comment='<span size="xx-large">Visualize numpy array objects in ds9</span>'
+Comment3='
+Numdisplay provides the capability to visualize numpy array objects using
+astronomical image display tools such as DS9 or XIMTOOL directly from
+the Python command line. This task can display any numpy object, whether
+it was created interactively or read in from a FITS file using PyFITS
+on any platform which supports Python and numpy.
+'
+License='BSD'
+Screenshot=''
+Url='http://stsdas.stsci.edu/numdisplay'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libe-book</b>'
+Comment='<span size="xx-large">A library for import of non-HTML reflowable e-book formats</span>'
+Comment3='
+libe-book is a library for import of non-HTML reflowable e-book formats.
+Currently supported are PalmDoc, TealDoc, Plucker eBook, eReader eBook,
+FictionBook v.2, TCR, zTXT.
+
+'
+License='LGPLv2+ or MPLv2.0'
+Screenshot=''
+Url='https://sourceforge.net/projects/libebook/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

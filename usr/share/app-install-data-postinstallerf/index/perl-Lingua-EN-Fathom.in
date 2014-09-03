@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Lingua-EN-Fathom</b>'
+Comment='<span size="xx-large">Measure readability of English text</span>'
+Comment3='
+This module analyses English text in either a string or file. Totals are
+then calculated for the number of characters, words, sentences, blank and
+non blank (text) lines and paragraphs.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Lingua-EN-Fathom/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

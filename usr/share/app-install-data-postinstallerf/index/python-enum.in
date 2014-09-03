@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-enum</b>'
+Comment='<span size="xx-large">Robust enumerated type support in Python</span>'
+Comment3='
+This package provides a module for robust enumerations in Python.
+'
+License='GPLv2+ or Python'
+Screenshot=''
+Url='http://pypi.python.org/pypi/enum/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

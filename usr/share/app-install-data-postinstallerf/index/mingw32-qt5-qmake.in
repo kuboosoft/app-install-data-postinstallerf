@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw32-qt5-qmake</b>'
+Comment='<span size="xx-large">Qt5 for Windows build environment</span>'
+Comment3='
+This package contains the build environment for cross compiling
+applications with the Fedora Windows Qt Library and cross-compiler.
+'
+License='GPLv3 with exceptions or LGPLv2 with exceptions'
+Screenshot=''
+Url='http://www.qtsoftware.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

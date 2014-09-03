@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>input-pad-devel</b>'
+Comment='<span size="xx-large">Development tools for input-pad</span>'
+Comment3='
+The input-pad-devel package contains the header files.
+
+URL          http//code.google.com/p/input-pad/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/input-pad/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

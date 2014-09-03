@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>opensips-mysql</b>'
+Comment='<span size="xx-large">MySQL storage support for the OpenSIPS</span>'
+Comment3='
+The opensips-mysql package contains the MySQL plugin for opensips, which allows
+a MySQL-Database to be used for persistent storage.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

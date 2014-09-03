@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-ntgclass</b>'
+Comment='<span size="xx-large">"European" versions of standard classes</span>'
+Comment3='
+Versions of the standard LaTeX article and report classes,
+rewritten to reflect a more European design, by the Dutch TeX
+
+date 2006-12-05 172305 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

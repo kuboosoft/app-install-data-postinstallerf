@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-yesod-routes</b>'
+Comment='<span size="xx-large">Efficient routing for Yesod</span>'
+Comment3='
+Provides an efficient routing system, a parser and TH code generation.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/yesod-routes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

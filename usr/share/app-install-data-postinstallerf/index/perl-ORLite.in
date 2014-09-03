@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-ORLite</b>'
+Comment='<span size="xx-large">Extremely light weight SQLite-specific ORM</span>'
+Comment3='
+SQLite is a light weight single file SQL database that provides
+an excellent platform for embedded storage of structured data.
+However, while it is superficially similar to a regular server-side
+SQL database, SQLite has some significant attributes that make using
+it like a traditional database difficult. For example, SQLite is
+extremely fast to connect to compared to server databases
+(1000 connections per second is not unknown) and is particularly bad
+at concurrency, as it can only lock transactions at a database-wide level.
+This role as a super-fast internal data store can clash with the roles and
+designs of traditional object-relational modules like ClassDBI or
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/ORLite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

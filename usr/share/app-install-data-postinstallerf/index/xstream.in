@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>xstream</b>'
+Comment='<span size="xx-large">Java XML serialization library</span>'
+Comment3='
+XStream is a simple library to serialize objects to XML
+and back again. A high level facade is supplied that
+simplifies common use cases. Custom objects can be serialized
+without need for specifying mappings. Speed and low memory
+footprint are a crucial part of the design, making it suitable
+for large object graphs or systems with high message throughput.
+No information is duplicated that can be obtained via reflection.
+This results in XML that is easier to read for humans and more
+compact than native Java serialization. XStream serializes internal
+fields, including private and final. Supports non-public and inner
+'
+License='BSD'
+Screenshot=''
+Url='http://xstream.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

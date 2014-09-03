@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nss_updatedb</b>'
+Comment='<span size="xx-large">Maintains a local cache of network directory user and group information</span>'
+Comment3='
+The nss_updatedb utility maintains a local cache of network directory user
+and group information. Used in conjunction with the pam_ccreds module,
+it provides a mechanism for disconnected use of network directories.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.padl.com/OSS/nss_updatedb.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

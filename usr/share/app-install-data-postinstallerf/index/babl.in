@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>babl</b>'
+Comment='<span size="xx-large">A dynamic, any to any, pixel format conversion library</span>'
+Comment3='
+Babl is a dynamic, any to any, pixel format conversion library. It
+provides conversions between the myriad of buffer types images can be
+stored in. Babl doesnt only help with existing pixel formats, but also
+facilitates creation of new and uncommon ones.
+
+'
+License='LGPLv3+ and GPLv3+'
+Screenshot=''
+Url='http://www.gegl.org/babl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkdegames-devel</b>'
+Comment='<span size="xx-large">Development files for libkdegames</span>'
+Comment3='
+Development files for libkdegames.
+
+URL          https//projects.kde.org/projects/kde/kdegames/libkdegames
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/libkdegames'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

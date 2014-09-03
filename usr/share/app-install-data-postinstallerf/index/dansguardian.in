@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>dansguardian</b>'
+Comment='<span size="xx-large">Content filtering web proxy</span>'
+Comment3='
+DansGuardian filters the content of pages based on many methods including
+phrase matching, PICS filtering and URL filtering. It does not purely filter
+based on a banned list of sites.
+
+It provides real-time virus scanning capabilities for content access.
+DansGuardian is designed to be completely flexible and allows you to tailor the
+filtering to your exact needs. It can be as draconian or as unobstructive as
+you want. The default settings are geared towards what a primary school might
+want but DansGuardian puts you in control of what you want to block.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.dansguardian.org/'
+phrase matching, PICS filtering and URL filtering. It does not purely filter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

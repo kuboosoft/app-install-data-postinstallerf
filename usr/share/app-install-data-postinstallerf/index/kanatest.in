@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kanatest</b>'
+Comment='<span size="xx-large">Hiragana and Katakana drill tool</span>'
+Comment3='
+Kanatest is a simple, GTK 2-based kana drill tool. It offers three drill modes
+hiragana, katakana, and mixed mode. The tester shows random kana characters
+and waits until you enter the romaji equivalent in an entry field. At the end,
+statistics are provided
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://clayo.org/kanatest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>liblzf</b>'
+Comment='<span size="xx-large">Small data compression library</span>'
+Comment3='
+LibLZF is a very small data compression library. It consists
+of only two .c and two .h files and is very easy to
+incorporate into your own programs.  The compression algorithm
+is very, very fast, yet still written in portable C.
+
+'
+License='BSD or GPLv2+'
+Screenshot=''
+Url='http://oldhome.schmorp.de/marc/liblzf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

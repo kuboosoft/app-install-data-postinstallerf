@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-spie</b>'
+Comment='<span size="xx-large">Support for formatting SPIE Proceedings manuscripts</span>'
+Comment3='
+A class and a BibTeX style are provided.
+
+date 2007-04-25 152803 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>AllegroOGG</b>'
+Comment='<span size="xx-large">Ogg library for use with the Allegro game library</span>'
+Comment3='
+AllegroOGG is an Allegro wrapper for the Ogg Vorbis decoder from the Xiph.org
+foundation. This lib lets you play OGGs and convert OGGs to Allegro SAMPLEs
+amongst a lot of other capabilites.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.allegro.cc/resource/Libraries/Audio/alogg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

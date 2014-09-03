@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>jinput</b>'
+Comment='<span size="xx-large">Java Game Controller API</span>'
+Comment3='
+jinput is an implementation of an API for game controller discovery and
+polled input.  It is part of a suite of open-source technologies
+intention of making the development of high performance games in Java a
+reality.  The API itself is pure Java and presents a platform-neutral,
+completely portable model of controller discovery and polling.  It can
+handle arbitrary controllers and returns both human and machine
+understandable descriptions of the inputs available.
+'
+License='BSD'
+Screenshot=''
+Url='http://java.net/projects/jinput'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>wireshark</b>'
+Comment='<span size="xx-large">Network traffic analyzer</span>'
+Comment3='
+Wireshark is a network traffic analyzer for Unix-ish operating systems.
+
+This package lays base for libpcap, a packet capture and filtering
+library, contains command-line utilities, contains plugins and
+documentation for wireshark. A graphical user interface is packaged
+separately to GTK+ package.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.wireshark.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

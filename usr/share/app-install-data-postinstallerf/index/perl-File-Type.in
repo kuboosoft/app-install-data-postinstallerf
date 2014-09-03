@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-File-Type</b>'
+Comment='<span size="xx-large">Determine file type using magic</span>'
+Comment3='
+FileType uses magic numbers (typically at the start of a file) to
+determine the MIME type of that file.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Type/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

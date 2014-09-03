@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>octave-symbolic</b>'
+Comment='<span size="xx-large">Symbolic computations for Octave</span>'
+Comment3='
+Symbolic toolbox based on GiNaC and CLN.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://octave.sourceforge.net/symbolic/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

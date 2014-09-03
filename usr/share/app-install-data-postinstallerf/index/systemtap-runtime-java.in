@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>systemtap-runtime-java</b>'
+Comment='<span size="xx-large">Systemtap Java Runtime Support</span>'
+Comment3='
+This package includes support files needed to run systemtap scripts
+that probe Java processes running on the OpenJDK 1.6 and OpenJDK 1.7
+runtimes using Byteman.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceware.org/systemtap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

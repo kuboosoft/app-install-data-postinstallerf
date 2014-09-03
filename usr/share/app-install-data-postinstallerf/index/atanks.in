@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>atanks</b>'
+Comment='<span size="xx-large">Remake of a classic DOS game "Scorched Earth"</span>'
+Comment3='
+Atomic Tanks is a game in which you control an overly-powerful
+tank and attempt to blow up other highly powerful tanks. Players
+get to select a number of weapons and defensive items and then
+attack each other in a turn-based manner. The last tank standing
+is the winner.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://atanks.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

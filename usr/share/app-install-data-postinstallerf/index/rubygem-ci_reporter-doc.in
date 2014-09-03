@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ci_reporter-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-ci_reporter</span>'
+Comment3='
+Documentation for rubygem-ci_reporter
+'
+License='MIT'
+Screenshot=''
+Url='http://caldersphere.rubyforge.org/ci_reporter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>phpMemcachedAdmin</b>'
+Comment='<span size="xx-large">Graphic stand-alone administration for memcached to monitor and debug purpose</span>'
+Comment3='
+Graphic stand-alone administration for memcached to monitor and debug purpose.
+
+This program allows to see in real-time (top-like) or from the start of the
+server, stats for get, set, delete, increment, decrement, evictions, reclaimed,
+cas command, as well as server stats (network, items, server version) with
+googlecharts and server internal configuration.
+You can go further to see each server slabs, occupation, memory wasted and
+items (key & value).
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/phpmemcacheadmin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

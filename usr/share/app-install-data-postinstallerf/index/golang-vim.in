@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>golang-vim</b>'
+Comment='<span size="xx-large">Vim plugins for Go</span>'
+Comment3='
+Vim plugins for Go.
+'
+License='BSD'
+Screenshot=''
+Url='http://golang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

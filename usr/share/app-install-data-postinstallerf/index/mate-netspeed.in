@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mate-netspeed</b>'
+Comment='<span size="xx-large">MATE netspeed</span>'
+Comment3='
+MATE netspeed is an applet that shows how much
+traffic occurs on a specified network device.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

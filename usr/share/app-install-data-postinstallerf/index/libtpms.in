@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtpms</b>'
+Comment='<span size="xx-large">Library providing Trusted Platform Module (TPM) functionality</span>'
+Comment3='
+A library providing TPM functionality for VMs. Targeted for integration
+into Qemu.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/ibmswtpm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

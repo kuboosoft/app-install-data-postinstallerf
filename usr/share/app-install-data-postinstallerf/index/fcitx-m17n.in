@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fcitx-m17n</b>'
+Comment='<span size="xx-large">M17n Engine for Fcitx</span>'
+Comment3='
+Fcitx-m17n is a M17n engine wrapper for Fcitx.
+It allows input of many languages using the
+input table maps from m17n-db.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/M17N'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

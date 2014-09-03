@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gambas3-gb-eval-highlight</b>'
+Comment='<span size="xx-large">Gambas3 component package for eval highlight</span>'
+Comment3='
+Gambas3 component package for eval highlight
+'
+License='GPL+'
+Screenshot=''
+Url='http://gambas.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

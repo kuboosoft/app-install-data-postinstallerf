@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-pitex</b>'
+Comment='<span size="xx-large">Documentation macros</span>'
+Comment3='
+The bundle provides macros that the author uses when writing
+documentation (for example, that of the texapi and yax
+packages). The tools could be used by anyone, but there is no
+documentation, and the macros are subject to change without
+notice.
+
+date 2011-11-18 012858 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

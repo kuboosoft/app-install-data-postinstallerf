@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-passenger</b>'
+Comment='<span size="xx-large">Passenger Ruby web application server</span>'
+Comment3='
+Phusion Passenger? ? a.k.a. mod_rails or mod_rack ? makes deployment
+of Ruby web applications, such as those built on the revolutionary
+Ruby on Rails web framework, a breeze. It follows the usual Ruby on
+Rails conventions, such as ?Don?t-Repeat-Yourself?.
+'
+License='Boost and BSD and BSD with advertising and MIT and zlib'
+Screenshot=''
+Url='http://www.modrails.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

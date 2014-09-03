@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pegdown</b>'
+Comment='<span size="xx-large">Java library for Markdown processing</span>'
+Comment3='
+A pure-Java Markdown processor based on a parboiled PEG parser
+supporting a number of extensions.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pegdown.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

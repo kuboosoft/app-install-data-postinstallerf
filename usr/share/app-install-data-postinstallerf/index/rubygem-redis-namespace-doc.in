@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-redis-namespace-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-redis-namespace</span>'
+Comment3='
+Documentation for rubygem-redis-namespace
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/resque/redis-namespace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

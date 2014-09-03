@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gts</b>'
+Comment='<span size="xx-large">GNU Triangulated Surface Library</span>'
+Comment3='
+GTS provides a set of useful functions to deal with 3D surfaces meshed
+with interconnected triangles including collision detection,
+multiresolution models, constrained Delaunay triangulations and robust
+set operations (union, intersection, differences).
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gts.sourceforge.net/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-iso10303</b>'
+Comment='<span size="xx-large">Typesetting the STEP standards</span>'
+Comment3='
+Class and package files building on iso for typesetting the ISO
+10303 (STEP) standards. Standard documents prepared using these
+packages have been published by ISO.
+
+date 2007-01-09 140922 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

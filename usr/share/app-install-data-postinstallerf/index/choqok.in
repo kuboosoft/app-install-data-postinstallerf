@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>choqok</b>'
+Comment='<span size="xx-large">KDE Micro-Blogging Client</span>'
+Comment3='
+A Free/Open Source micro-blogging client for K Desktop Environment.
+The name comes from an ancient Persian word, which means Sparrow!
+Choqok currently supports Twitter.com and Identi.ca services.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://choqok.gnufolks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

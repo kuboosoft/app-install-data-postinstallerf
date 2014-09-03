@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>fftw-devel</b>'
+Comment='<span size="xx-large">Headers, libraries and docs for the FFTW library</span>'
+Comment3='
+FFTW is a C subroutine library for computing the Discrete Fourier
+Transform (DFT) in one or more dimensions, of both real and complex
+data, and of arbitrary input size.
+
+This package contains header files and development libraries needed to
+develop programs using the FFTW fast Fourier transform library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fftw.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

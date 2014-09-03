@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-XML-SAX</b>'
+Comment='<span size="xx-large">SAX parser access API for Perl</span>'
+Comment3='
+XMLSAX consists of several framework classes for using and building
+Perl SAX2 XML parsers, filters, and drivers. It is designed around the
+need to be able to "plug in" different SAX parsers to an application
+without requiring programmer intervention. Those of you familiar with
+the DBI will be right at home. Some of the designs come from the Java
+JAXP specification (SAX part), only without the javaness.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-SAX/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

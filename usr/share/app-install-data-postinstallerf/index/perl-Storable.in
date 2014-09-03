@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Storable</b>'
+Comment='<span size="xx-large">Persistence for Perl data structures</span>'
+Comment3='
+The Storable package brings persistence to your Perl data structures
+containing scalar, array, hash or reference objects, i.e. anything that
+can be conveniently stored to disk and retrieved at a later time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Storable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

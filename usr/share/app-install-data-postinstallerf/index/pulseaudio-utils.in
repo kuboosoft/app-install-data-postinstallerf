@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pulseaudio-utils</b>'
+Comment='<span size="xx-large">PulseAudio sound server utilities</span>'
+Comment3='
+This package contains command line utilities for the PulseAudio sound server.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/PulseAudio'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

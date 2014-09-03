@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>flexdock</b>'
+Comment='<span size="xx-large">Docking framework for Java Swing GUI apps</span>'
+Comment3='
+FlexDock is a Java docking framework for use in cross-platform
+Swing applications.
+'
+License='MIT'
+Screenshot=''
+Url='http://forge.scilab.org/index.php/p/flexdock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

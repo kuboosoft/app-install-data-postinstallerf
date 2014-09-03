@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libgxps-tools</b>'
+Comment='<span size="xx-large">Command-line utility programs for manipulating XPS files</span>'
+Comment3='
+The libgxps-tools contains command-line programs for manipulating XPS format
+documents using the libgxps library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/libgxps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>npth-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for GNU nPth</span>'
+Comment3='
+Development headers and libraries for GNU Pth.
+
+URL          ftp//ftp.gnupg.org/gcrypt/npth/
+'
+License='LGPLv3+ or GPLv2+ or (LGPLv3+ and GPLv2+)'
+Screenshot=''
+Url='ftp://ftp.gnupg.org/gcrypt/npth/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

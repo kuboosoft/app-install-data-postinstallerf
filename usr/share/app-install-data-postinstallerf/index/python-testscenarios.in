@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-testscenarios</b>'
+Comment='<span size="xx-large">Testscenarios, a pyunit extension for dependency injection</span>'
+Comment3='
+testscenarios provides clean dependency injection for python unittest style
+tests. This can be used for interface testing (testing many implementations via
+a single test suite) or for classic dependency injection (provide tests with
+dependencies externally to the test code itself, allowing easy testing in
+different situations).
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='https://launchpad.net/testscenarios'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

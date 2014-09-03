@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pymetar</b>'
+Comment='<span size="xx-large">METAR weather reports parser for Python</span>'
+Comment3='
+This library downloads the weather report for a given station ID, decodes it
+and provides easy access to all the data found in the report.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.schwarzvogel.de/software-pymetar.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

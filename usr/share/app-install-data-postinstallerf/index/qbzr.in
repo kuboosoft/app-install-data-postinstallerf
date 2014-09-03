@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qbzr</b>'
+Comment='<span size="xx-large">Bazaar plugin for Qt interface to most Bazaar operations</span>'
+Comment3='
+QBzr provides GUI frontends for many core bzr commands and several dialogs and
+helper commands. Equivalents for core bzr commands have the same names as the
+CLI commands but prefixed with "q".  The QBzr dialogs can also be used by other
+programs looking to implement a GUI interface for bzr.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.bazaar-vcs.org/QBzr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

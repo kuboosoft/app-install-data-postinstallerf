@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-ps2pkm</b>'
+Comment='<span size="xx-large">Generate a PK font from an Adobe Type 1 font</span>'
+Comment3='
+Generates a PK file from an Adobe Type 1 font. PK fonts are (or
+used to be) valuable in enabling previewers to view documents
+generated that use Type 1 fonts. The program makes use of code
+donated to the X consortium by IBM.
+
+date 2012-07-20 203939 +0200
+'
+License='MIT'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

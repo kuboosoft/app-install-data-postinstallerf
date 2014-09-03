@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>golang-github-kraman-libcontainer-devel</b>'
+Comment='<span size="xx-large">Reference implementation for containers</span>'
+Comment3='
+Reference implementation for containers
+
+This package contains library source intended for building other packages
+which use kraman/libcontainer.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/kraman/libcontainer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

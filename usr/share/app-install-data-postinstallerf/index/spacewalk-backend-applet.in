@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spacewalk-backend-applet</b>'
+Comment='<span size="xx-large">Handler for /APPLET</span>'
+Comment3='
+These are the files required for running the /APPLET handler, which
+provides the functions for the RHN applet.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

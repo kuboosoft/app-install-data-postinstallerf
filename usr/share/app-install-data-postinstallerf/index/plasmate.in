@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>plasmate</b>'
+Comment='<span size="xx-large">IDE tailored for development of Plasma components</span>'
+Comment3='
+A small IDE tailored for development of Plasma components,
+such as Widgets, Runners, Dataengines.
+'
+License='BSD and (GPLv2 or GPLv3) and GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/sdk/plasmate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

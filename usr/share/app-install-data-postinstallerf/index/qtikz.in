@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>qtikz</b>'
+Comment='<span size="xx-large">Editor for the TikZ language</span>'
+Comment3='
+QTikZ is a small application to assist in the creation of diagrams and drawings
+using the TikZ macros from the LaTeX package "pgf". It consists of a text editor
+pane in which the TikZ code for the drawing is edited and a preview pane showing
+the drawing as rendered by LaTeX. The preview pane can be updated in
+real-time. Common drawing tools, options and styles are available from the menus
+to assist the coding process.
+
+This package contains the Qt version of the program.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.hackenberger.at/blog/ktikz-editor-for-the-tikz-language'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

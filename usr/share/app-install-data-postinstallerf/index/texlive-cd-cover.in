@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-cd-cover</b>'
+Comment='<span size="xx-large">Typeset CD covers</span>'
+Comment3='
+The CD-cover class will typeset front and back cover sheets for
+CD jewel cases, or an entire paper cover, or a label for a
+plastic slip-cover.
+
+date 2010-02-21 013659 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

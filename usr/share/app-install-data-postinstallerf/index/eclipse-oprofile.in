@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-oprofile</b>'
+Comment='<span size="xx-large">Eclipse plugin for OProfile integration</span>'
+Comment3='
+Eclipse plugins to integrate OProfiles profiling capabilities with the CDT.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/linuxtools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

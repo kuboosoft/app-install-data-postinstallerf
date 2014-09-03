@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>adwaita-cursor-theme</b>'
+Comment='<span size="xx-large">Adwaita cursor theme</span>'
+Comment3='
+The adwaita-cursor-theme package contains a modern set of cursors originally
+designed for the GNOME desktop.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.gnome.org/browse/gnome-themes-standard'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

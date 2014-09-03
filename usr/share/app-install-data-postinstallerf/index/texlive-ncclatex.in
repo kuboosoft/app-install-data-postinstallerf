@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-ncclatex</b>'
+Comment='<span size="xx-large">An extended general-purpose class</span>'
+Comment3='
+The ncc class provides a framework for a common class to
+replace the standard article, book and report classes, and
+providing a "preprint" class. The classs extensions are
+provided in a number of small packages, some of which may also
+be used with the standard classes. The ncclatex package also
+loads many of the packages of, and requires the latest version
+of the ncctools bundle.
+
+date 2007-02-23 220112 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

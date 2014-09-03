@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-compactbib</b>'
+Comment='<span size="xx-large">Multiple thebibliography environments</span>'
+Comment3='
+Allows a second bibliography, optionally with a different
+title, after the main bibliography.
+
+date 2007-01-01 113906 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

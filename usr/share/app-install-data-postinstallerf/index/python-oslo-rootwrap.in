@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-oslo-rootwrap</b>'
+Comment='<span size="xx-large">Oslo Rootwrap</span>'
+Comment3='
+The Oslo Rootwrap allows fine filtering of shell commands to run as `root`
+from OpenStack services.
+
+Unlike other Oslo deliverables, it should **not** be used as a Python library,
+but called as a separate process through the `oslo-rootwrap` command
+`sudo oslo-rootwrap ROOTWRAP_CONFIG COMMAND_LINE`
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://launchpad.net/oslo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

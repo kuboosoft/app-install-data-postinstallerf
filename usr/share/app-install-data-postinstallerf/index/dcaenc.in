@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>dcaenc</b>'
+Comment='<span size="xx-large">A Free Software (LGPL-licensed) encoder for the DTS Coherent Acoustics audio format</span>'
+Comment3='
+dcaenc is a Free Software (LGPL-licensed) encoder for the DTS Coherent
+Acoustics audio format. It may be useful if you want to create a DTS CD
+or a DTS soundtrack for a DVD from a 6-channel PCM wav file using linux.
+Another use case is related to real-time encoding of multichannel PCM
+audio output from arbitrary linux applications for transmission over SPDIF.
+
+The DTS technology is heavily patented. Please do not download and do not
+use this software if you live in a country such as USA where software
+patents are legal and you dont have a patent license from DTS, Inc.
+'
+License='LGPL'
+Screenshot=''
+Url='http://aepatrakov.narod.ru/dcaenc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

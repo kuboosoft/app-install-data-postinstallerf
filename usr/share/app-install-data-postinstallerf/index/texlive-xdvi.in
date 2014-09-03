@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-xdvi</b>'
+Comment='<span size="xx-large">A DVI previewer for the X Window System</span>'
+Comment3='
+The canonical previewer for use on Unix and other X-windows
+based systems. The distribution has been integrated with that
+of xdvik (no longer separately available), so that it will
+build with web2c "out of the box". In practice, it is usually
+distributed via Tex-live.
+
+date 2013-05-08 111641 +0200
+'
+License='MIT'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-atomic</b>'
+Comment='<span size="xx-large">An atomic reference implementation for JRuby, Rubinius, and MRI</span>'
+Comment3='
+An atomic reference implementation for JRuby, Rubinius, and MRI.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/headius/ruby-atomic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

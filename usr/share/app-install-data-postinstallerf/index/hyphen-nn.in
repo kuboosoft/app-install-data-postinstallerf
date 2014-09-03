@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-nn</b>'
+Comment='<span size="xx-large">Nynorsk hyphenation rules</span>'
+Comment3='
+Nynorsk hyphenation rules
+'
+License='GPL+'
+Screenshot=''
+Url='http://spell-norwegian.alioth.debian.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

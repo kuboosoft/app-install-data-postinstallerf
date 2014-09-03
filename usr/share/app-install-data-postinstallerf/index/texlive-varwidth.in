@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-varwidth</b>'
+Comment='<span size="xx-large">A variable-width minipage</span>'
+Comment3='
+The varwidth environment is superficially similar to minipage,
+get a narrower "natural" width.
+
+date 2010-11-26 120018 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

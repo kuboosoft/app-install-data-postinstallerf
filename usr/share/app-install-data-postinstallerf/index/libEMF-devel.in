@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libEMF-devel</b>'
+Comment='<span size="xx-large">libEMF header files</span>'
+Comment3='
+libEMF header files.
+
+URL          http//libemf.sourceforge.net/
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://libemf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

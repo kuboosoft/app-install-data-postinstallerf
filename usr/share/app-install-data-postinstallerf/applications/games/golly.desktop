@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n golly
+Type=Application
+Name=Golly
+GenericName=Game of Life Simulator
+Comment=A Conway s Game of Life simulator
+Comment[it]=Un simulatore del "gioco della vita" di Conway
+Comment[ja]=コンウェイのライフゲーム
+Icon=/usr/share/app-install-data-postinstallerf/icons/golly.png
+Terminal=false
+Categories=Game;LogicGame;

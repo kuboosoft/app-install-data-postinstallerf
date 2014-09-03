@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xorg-x11-fonts-Type1</b>'
+Comment='<span size="xx-large">Type1 fonts provided by the X Window System</span>'
+Comment3='
+A collection of Type1 fonts which are part of the core X Window System
+distribution.
+'
+License='MIT and Lucida and Public Domain'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

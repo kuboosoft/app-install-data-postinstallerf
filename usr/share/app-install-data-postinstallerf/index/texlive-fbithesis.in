@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-fbithesis</b>'
+Comment='<span size="xx-large">Computer Science thesis class for University of Dortmund</span>'
+Comment3='
+At the department of computer science at the University of
+Dortmund there are cardboard cover pages for research or
+internal reports like master/phd-theses. The main function of
+this LaTeX2e document-class is a replacement for the \maketitle
+command to typeset a title page that is adjusted to these cover
+pages.
+
+date 2011-02-07 094754 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

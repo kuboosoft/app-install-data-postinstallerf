@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xfce4-appfinder</b>'
+Comment='<span size="xx-large">Appfinder for the Xfce4 Desktop Environment</span>'
+Comment3='
+xfce-appfinder shows system wide installed applications.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

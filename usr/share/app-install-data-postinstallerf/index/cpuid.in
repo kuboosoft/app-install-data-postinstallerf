@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cpuid</b>'
+Comment='<span size="xx-large">Dumps information about the CPU(s)</span>'
+Comment3='
+cpuid dumps detailed information about x86 CPU(s) gathered from the CPUID
+instruction, and also determines the exact model of CPU(s). It supports Intel,
+AMD, and VIA CPUs, as well as older Transmeta, Cyrix, UMC, NexGen, and Rise
+CPUs.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.etallen.com/cpuid.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

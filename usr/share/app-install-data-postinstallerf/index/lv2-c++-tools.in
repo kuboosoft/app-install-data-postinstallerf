@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lv2-c++-tools</b>'
+Comment='<span size="xx-large">Support library for writing LV2 plugins in C++</span>'
+Comment3='
+This software package contains libraries and programs that should make it
+easier to write LV2 plugins in C++.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://ll-plugins.nongnu.org/hacking.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

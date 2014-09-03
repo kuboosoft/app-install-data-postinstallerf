@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sugar-cp-modemconfiguration</b>'
+Comment='<span size="xx-large">Sugar Modem configuration control panel</span>'
+Comment3='
+This is the Sugar Modem configuration control panel
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sugarlabs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

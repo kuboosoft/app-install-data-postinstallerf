@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-ezc-ConsoleTools</b>'
+Comment='<span size="xx-large">A set of classes to do different actions with the console</span>'
+Comment3='
+The ConsoleTools component provides several useful tools to build applications
+that run on a computer console (sometimes also called shell or command line).
+'
+License='BSD'
+Screenshot=''
+Url='http://ezcomponents.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

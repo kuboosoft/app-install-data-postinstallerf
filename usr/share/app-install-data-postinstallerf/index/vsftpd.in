@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vsftpd</b>'
+Comment='<span size="xx-large">Very Secure Ftp Daemon</span>'
+Comment3='
+vsftpd is a Very Secure FTP daemon. It was written completely from
+scratch.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://security.appspot.com/vsftpd.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jtidy-javadoc</b>'
+Comment='<span size="xx-large">API documentation for jtidy</span>'
+Comment3='
+This package contains API documentation for jtidy.
+'
+License='zlib'
+Screenshot=''
+Url='http://jtidy.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

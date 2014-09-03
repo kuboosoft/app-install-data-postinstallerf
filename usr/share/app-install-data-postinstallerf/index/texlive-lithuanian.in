@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-lithuanian</b>'
+Comment='<span size="xx-large">Lithuanian language support</span>'
+Comment3='
+This language support package provides - Lithuanian language
+hyphenation patterns; - Lithuanian support for Babel; -
+Lithuanian mapping and metrics for using the URW base-35 Type 1
+fonts; - examples for making Lithuanian fonts with fontinst;
+and - extra tools for intputenc and fontenc.
+
+date 2008-11-06 003015 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

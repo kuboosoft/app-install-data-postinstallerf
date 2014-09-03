@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>qsf</b>'
+Comment='<span size="xx-large">Quick Spam Filter</span>'
+Comment3='
+Quick Spam Filter (QSF) is an Open Source email classification filter,
+designed to be small, fast, and accurate, which works to classify
+incoming email as either spam or non-spam.
+
+To recognise spam, QSF strips the text out of the email (using MIME
+decoding and HTML stripping) and then splits it into tokens (words,
+word pairs, URLs, and so on). These tokens are then looked up in a
+database and analysed using the Bayesian technique to see whether the
+email should be classified as spam or not.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://www.ivarch.com/programs/qsf/'
+word pairs, URLs, and so on). These tokens are then looked up in a'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

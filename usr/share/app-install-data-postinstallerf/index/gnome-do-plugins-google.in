@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-do-plugins-google</b>'
+Comment='<span size="xx-large">GNOME Do Google plugins</span>'
+Comment3='
+GNOME Dos Google-related plugins that utilize GData
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://do.davebsd.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

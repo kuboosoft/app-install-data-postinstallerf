@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-OpenGL</b>'
+Comment='<span size="xx-large">Perl OpenGL bindings</span>'
+Comment3='
+Perl bindings to implementations of OpenGL and GLUT, providing virtually all
+of the OpenGL 1.0, and 1.1 functions, and most of 1.2.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://sourceforge.net/projects/pogl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

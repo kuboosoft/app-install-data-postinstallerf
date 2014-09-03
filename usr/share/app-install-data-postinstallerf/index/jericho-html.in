@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>jericho-html</b>'
+Comment='<span size="xx-large">Java library allowing analysis and manipulation of parts of an HTML document</span>'
+Comment3='
+Jericho HTML Parser is a java library allowing analysis and manipulation of
+parts of an HTML document, including server-side tags, while reproducing
+verbatim any unrecognized or invalid HTML. It also provides high-level HTML
+form manipulation functions.
+
+It is an open source library released under both the Eclipse Public License
+(EPL) and GNU Lesser General Public License (LGPL). You are therefore free to
+use it in commercial applications subject to the terms detailed in either one
+of these license documents.
+'
+License='EPL or LGPLv2+'
+It is an open source library released under both the Eclipse Public License'
+(EPL) and GNU Lesser General Public License (LGPL). You are therefore free to'
+Screenshot=''
+Url='http://jericho.htmlparser.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mpqc-doc</b>'
+Comment='<span size="xx-large">HTML documentation for MPQC</span>'
+Comment3='
+This package contains the full documentation for MPQC that can be viewed
+with a graphical browser like Mozilla.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.mpqc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

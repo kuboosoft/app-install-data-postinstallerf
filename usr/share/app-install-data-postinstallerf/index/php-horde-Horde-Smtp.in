@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Smtp</b>'
+Comment='<span size="xx-large">Horde SMTP Client</span>'
+Comment3='
+Provides interfaces for connecting to a SMTP (RFC 5321) server to send
+e-mail messages..
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

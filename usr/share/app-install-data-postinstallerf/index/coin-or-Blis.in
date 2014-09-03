@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>coin-or-Blis</b>'
+Comment='<span size="xx-large">BLIS (BiCePS Linear Integer Solver)</span>'
+Comment3='
+BLIS (BiCePS Linear Integer Solver) is an application developed on top of
+BiCePS and is part of the CHiPPS library hierarchy. BLIS is a branch and cut
+solver for Mixed Integer Linear Programs.
+
+'
+License='EPL'
+Screenshot=''
+Url='http://projects.coin-or.org/CHiPPS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

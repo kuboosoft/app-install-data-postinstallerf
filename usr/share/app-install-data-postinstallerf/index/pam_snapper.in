@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pam_snapper</b>'
+Comment='<span size="xx-large">PAM module for calling snapper</span>'
+Comment3='
+A PAM module for calling snapper during user login and logout.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://en.opensuse.org/Portal:Snapper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

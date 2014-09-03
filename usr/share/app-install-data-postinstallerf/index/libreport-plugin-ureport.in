@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libreport-plugin-ureport</b>'
+Comment='<span size="xx-large">libreports micro report plugin</span>'
+Comment3='
+Uploads micro-report to abrt server
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

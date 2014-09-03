@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>prototype</b>'
+Comment='<span size="xx-large">JavaScript framework</span>'
+Comment3='
+Prototype is a JavaScript framework that aims to ease development of dynamic
+web applications. It offers a familiar class-style OO framework, extensive
+Ajax support, higher-order programming constructs, and easy DOM manipulation.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.prototypejs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

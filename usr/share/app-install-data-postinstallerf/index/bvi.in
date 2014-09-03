@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bvi</b>'
+Comment='<span size="xx-large">Display-oriented editor for binary files</span>'
+Comment3='
+The bvi is a display-oriented editor for binary files, based
+on the vi text-editor. If you are familiar with vi, just start
+the editor and begin to edit! A bmore program is also
+included in the package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bvi.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

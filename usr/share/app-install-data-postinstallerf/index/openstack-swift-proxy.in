@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openstack-swift-proxy</b>'
+Comment='<span size="xx-large">A proxy server for Swift</span>'
+Comment3='
+OpenStack Object Storage (Swift) aggregates commodity servers to work together
+in clusters for reliable, redundant, and large-scale storage of static objects.
+
+This package contains the openstack-swift proxy server.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://launchpad.net/swift'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

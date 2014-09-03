@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>uriparser</b>'
+Comment='<span size="xx-large">URI parsing library - RFC 3986</span>'
+Comment3='
+Uriparser is a strictly RFC 3986 compliant URI parsing library written
+in C. uriparser is cross-platform, fast, supports Unicode and is
+licensed under the New BSD license.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://uriparser.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

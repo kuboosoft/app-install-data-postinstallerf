@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ocaml-ocamlgraph</b>'
+Comment='<span size="xx-large">OCaml library for arc and node graphs</span>'
+Comment3='
+Ocamlgraph provides several different implementations of graph data
+structures. It also provides implementations for a number of classical
+graph algorithms like Kruskals algorithm for MSTs, topological
+ordering of DAGs, Dijkstras shortest paths algorithm, and
+Ford-Fulkersons maximal-flow algorithm to name a few. The algorithms
+and data structures are written functorially for maximal
+reusability. Also has input and output capability for Graph Modeling
+Language file format and Dot and Neato graphviz (graph visualization)
+tools.
+
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://ocamlgraph.lri.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

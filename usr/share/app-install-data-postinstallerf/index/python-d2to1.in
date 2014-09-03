@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-d2to1</b>'
+Comment='<span size="xx-large">Allows using distutils2-like setup.cfg files with setup.py</span>'
+Comment3='
+d2to1 allows using distutils2-like setup.cfg files for a packages metadata
+with a distribute/setuptools setup.py script. It works by providing a
+distutils2-formatted setup.cfg file containing all of a packages metadata,
+and a very minimal setup.py which will slurp its arguments from the setup.cfg.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/d2to1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

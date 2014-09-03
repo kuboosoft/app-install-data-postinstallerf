@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ansifilter</b>'
+Comment='<span size="xx-large">ANSI terminal escape code converter</span>'
+Comment3='
+Ansifilter handles text files containing ANSI terminal escape codes.
+The command sequences may be stripped or be interpreted to generate formatted
+output (HTML, RTF, TeX, LaTeX, BBCode).
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.andre-simon.de/doku/ansifilter/ansifilter.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

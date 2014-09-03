@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pdfposter</b>'
+Comment='<span size="xx-large">Scale and tile PDF images/pages to print on multiple pages</span>'
+Comment3='
+Pdfposter can be used to create a large poster by building it from multple
+pages and/or printing it on large media. It expects as input a PDF file,
+normally printing on a single page. The output is again a PDF file, maybe
+containing multiple pages together building the poster.  The input page
+will be scaled to obtain the desired size.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://pythonhosted.org/pdftools.pdfposter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

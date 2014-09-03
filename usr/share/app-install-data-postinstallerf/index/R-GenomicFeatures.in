@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>R-GenomicFeatures</b>'
+Comment='<span size="xx-large">Tools for making and manipulating transcript centric annotations</span>'
+Comment3='
+A set of tools and methods for making and manipulating transcript centric
+annotations. With these tools the user can easily download the genomic
+locations of the transcripts, exons and cds of a given organism, from either
+the UCSC Genome Browser or a BioMart database (more sources will be supported
+in the future). This information is then stored in a local database that
+keeps track of the relationship between transcripts, exons, cds and genes.
+Flexible methods are provided for extracting the desired features in a
+convenient format.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://bioconductor.org/packages/2.9/bioc/html/GenomicFeatures.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

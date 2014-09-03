@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-generic-pool</b>'
+Comment='<span size="xx-large">Generic resource pooling for Node.js</span>'
+Comment3='
+Generic resource pooling for Node.js
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/coopernurse/node-pool'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

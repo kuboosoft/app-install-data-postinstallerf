@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-DateTime-Format-Excel</b>'
+Comment='<span size="xx-large">Convert between DateTime and Excel dates</span>'
+Comment3='
+Excel uses a different system for its dates than most Unix programs.
+This module allows to convert between a few of the Excel raw formats
+and DateTime objects, which can then be further converted via any of
+the other DateTimeFormat* modules, or with DateTimes methods.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-Format-Excel/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-configuration</b>'
+Comment='<span size="xx-large">Pure Ruby scoped configuration files</span>'
+Comment3='
+Ruby configuration gem provides a mechanism for configuring ruby programs
+with ruby configuration files.
+'
+License='Ruby or BSD'
+Screenshot=''
+Url='http://codeforpeople.com/lib/ruby/configuration/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

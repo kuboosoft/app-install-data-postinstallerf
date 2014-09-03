@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gnumeric-devel</b>'
+Comment='<span size="xx-large">Files necessary to develop gnumeric-based applications</span>'
+Comment3='
+Gnumeric is a spreadsheet program for the GNOME GUI desktop
+environment. The gnumeric-devel package includes files necessary to
+develop gnumeric-based applications.
+
+'
+License='GPLv2+ and GPLv3+ and LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/gnumeric/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>asterisk-postgresql</b>'
+Comment='<span size="xx-large">Applications for Asterisk that use PostgreSQL</span>'
+Comment3='
+Applications for Asterisk that use PostgreSQL.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.asterisk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

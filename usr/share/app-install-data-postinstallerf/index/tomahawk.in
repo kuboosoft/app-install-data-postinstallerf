@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>tomahawk</b>'
+Comment='<span size="xx-large">The Social Media Player</span>'
+Comment3='
+Stop chasing your music across different machines, services and
+websites. Its time to take the work out of "play". If the song you want
+to listen to is in your local library, it just plays. If the song is on
+a remote machine, it just plays. If the song is on the web, or available
+from your subscription service, it just plays. By abstracting a piece
+of contents metadata from its file location, users can easily share
+playlists, listening history and more. Its sort of like Wonka Vision,
+Tomahawk will reassemble it on the other side. OK, maybe thats not a
+good analogy... but its just as delicious.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tomahawk-player.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

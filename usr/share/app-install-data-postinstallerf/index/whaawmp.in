@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>whaawmp</b>'
+Comment='<span size="xx-large">Lightweight Media Player</span>'
+Comment3='
+Whaaw! Media Player is a lightweight media player that supports fullscreen
+mode, seeking, changing video colour settings and more. It will play any audio
+or video files that GStreamer can play. It is intended to be a basic media
+player without any GNOME dependencies.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://home.gna.org/whaawmp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

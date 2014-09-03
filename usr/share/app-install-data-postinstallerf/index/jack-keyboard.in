@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>jack-keyboard</b>'
+Comment='<span size="xx-large">Virtual keyboard for JACK MIDI</span>'
+Comment3='
+jack-keyboard is a virtual MIDI keyboard - a program that allows you to send
+JACK MIDI events using your PC keyboard. Its somewhat similar to vkeybd,
+except it uses JACK MIDI instead of ALSA, and the default keyboard mapping is
+much better - it uses the same layout as trackers (like Impulse Tracker) did,
+so you have two and half octaves under your fingers.
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/jack-keyboard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

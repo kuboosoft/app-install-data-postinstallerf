@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jnr-constants</b>'
+Comment='<span size="xx-large">Java Native Runtime constants</span>'
+Comment3='
+Provides java values for common platform C constants (e.g. errno).
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/jnr/jnr-constants/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

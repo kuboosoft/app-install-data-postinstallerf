@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>simple-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for simple</span>'
+Comment3='
+This package contains javadoc for simple.
+'
+License='ASL 2.0 and LGPLv2+'
+Screenshot=''
+Url='http://www.simpleframework.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

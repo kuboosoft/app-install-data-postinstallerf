@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openlmi-scripts-software</b>'
+Comment='<span size="xx-large">Client scripts for OpenLMI Software provider</span>'
+Comment3='
+This packages contains client side python library for OpenLMI Software
+provider and command line wrapper.
+'
+License='BSD'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

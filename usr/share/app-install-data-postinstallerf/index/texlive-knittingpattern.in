@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-knittingpattern</b>'
+Comment='<span size="xx-large">Create knitting patterns</span>'
+Comment3='
+The class provides a simple, effective method for knitters to
+produce high-quality, attractive patterns using LaTeX. It does
+this by providing commands to handle as much of the layout of
+the document as possible, leaving the author free to
+concentrate on the pattern.
+
+date 2010-03-09 131330 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

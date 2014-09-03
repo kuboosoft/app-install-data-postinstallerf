@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Test-Mojibake</b>'
+Comment='<span size="xx-large">Check your source for encoding misbehavior</span>'
+Comment3='
+Many modern text editors automatically save files using UTF-8 codification.
+However, the perl interpreter does not expect it by default. Whilst this does
+not represent a big deal on (most) backend-oriented programs, Web framework
+(Catalyst, Mojolicious) based applications will suffer so-called Mojibake
+(literally "unintelligible sequence of characters"). Even worse if an editor
+saves BOM (Byte Order Mark, U+FEFF character in Unicode) at the start of a
+script with the executable bit set (on Unix systems), it wont execute at all,
+due to shebang corruption.
+
+Avoiding codification problems is quite simple
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Mojibake/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>netbeans-platform-javadoc</b>'
+Comment='<span size="xx-large">Javadoc documentation for NetBeans Platform</span>'
+Comment3='
+NetBeans Platform is a set of modules, each providing
+their own APIs and working together or in a standalone
+mode. This package provides one master
+javadoc to all of them.
+'
+License='GPLv2 with exceptions or CDDL'
+Screenshot=''
+Url='http://platform.netbeans.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

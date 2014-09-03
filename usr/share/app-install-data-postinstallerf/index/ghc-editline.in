@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ghc-editline</b>'
+Comment='<span size="xx-large">Haskell editline library</span>'
+Comment3='
+A binding to the BSD editline library
+(http//thrysoee.dk/editline). It provides a basic interface
+to the editline API for reading lines in input for the user.
+
+Additionally, a readline compatibility module is included, which
+provides a subset of the functionality of the readline library.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/editline'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

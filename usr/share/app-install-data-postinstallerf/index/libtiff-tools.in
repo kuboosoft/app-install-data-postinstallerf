@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libtiff-tools</b>'
+Comment='<span size="xx-large">Command-line utility programs for manipulating TIFF files</span>'
+Comment3='
+This package contains command-line programs for manipulating TIFF format
+image files using the libtiff library.
+'
+License='libtiff'
+Screenshot=''
+Url='http://www.remotesensing.org/libtiff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

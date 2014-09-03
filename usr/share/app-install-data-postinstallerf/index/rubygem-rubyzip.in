@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rubyzip</b>'
+Comment='<span size="xx-large">A ruby module for reading and writing zip files</span>'
+Comment3='
+A ruby library for reading and writing zip files.
+'
+License='Ruby or GPLv2'
+Screenshot=''
+Url='http://rubyzip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

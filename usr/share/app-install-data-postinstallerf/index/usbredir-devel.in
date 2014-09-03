@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>usbredir-devel</b>'
+Comment='<span size="xx-large">Development files for usbredir</span>'
+Comment3='
+The usbredir-devel package contains libraries and header files for
+developing applications that use usbredir.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://spice-space.org/page/UsbRedir'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

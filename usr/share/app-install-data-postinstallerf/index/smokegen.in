@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>smokegen</b>'
+Comment='<span size="xx-large">Smoke Generator</span>'
+Comment3='
+This package includes Smoke Generator.
+
+URL          https//projects.kde.org/projects/kde/kdebindings/smoke
+'
+License='LGPLv2 and GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdebindings/smoke'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

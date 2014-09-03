@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-libturpial</b>'
+Comment='<span size="xx-large">Micro blogging python library, needed for turpial (twitter client)</span>'
+Comment3='
+libturpial is a library that handles multiple micro blogging protocols. It
+implements a lot of features and aims to support all the features for each
+protocol. This library is the back-end used for Turpial.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://turpial.org.ve'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

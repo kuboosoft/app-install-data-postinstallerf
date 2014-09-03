@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>checkstyle-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for checkstyle</span>'
+Comment3='
+API documentation for checkstyle.
+'
+License='LGPLv2+ and GPLv2+ and BSD'
+Screenshot=''
+Url='http://checkstyle.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

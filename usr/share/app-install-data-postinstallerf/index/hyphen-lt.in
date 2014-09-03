@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-lt</b>'
+Comment='<span size="xx-large">Lithuanian hyphenation rules</span>'
+Comment3='
+Lithuanian hyphenation rules.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/tex-hyphen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

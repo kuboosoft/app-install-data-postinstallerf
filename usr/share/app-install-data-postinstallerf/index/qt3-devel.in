@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>qt3-devel</b>'
+Comment='<span size="xx-large">Development files for the Qt 3 GUI toolkit</span>'
+Comment3='
+The qt3-devel package contains the files necessary to develop
+applications using the Qt GUI toolkit the header files, the Qt meta
+object compiler.
+
+Install qt3-devel if you want to develop GUI applications using the Qt 3
+toolkit.
+'
+License='QPL or GPLv2 or GPLv3'
+Screenshot=''
+Url='http://www.troll.no'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

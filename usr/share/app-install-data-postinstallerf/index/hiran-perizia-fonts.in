@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hiran-perizia-fonts</b>'
+Comment='<span size="xx-large">English asymmetric font</span>'
+Comment3='
+perizia is an asymmetric English font.
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://hiran.in/blog/thanks-perizia-is-now-a-font'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ibus-pygtk2</b>'
+Comment='<span size="xx-large">IBus pygtk2 library</span>'
+Comment3='
+This is a pygtk2 library for IBus. Now major IBus engines use pygobject3
+and this package will be deprecated.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

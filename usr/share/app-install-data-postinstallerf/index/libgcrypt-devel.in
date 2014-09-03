@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libgcrypt-devel</b>'
+Comment='<span size="xx-large">Development files for the libgcrypt package</span>'
+Comment3='
+Libgcrypt is a general purpose crypto library based on the code used
+in GNU Privacy Guard.  This package contains files needed to develop
+applications using libgcrypt.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.gnupg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

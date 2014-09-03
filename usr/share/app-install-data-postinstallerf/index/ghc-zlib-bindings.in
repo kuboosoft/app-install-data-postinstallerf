@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-zlib-bindings</b>'
+Comment='<span size="xx-large">Low-level bindings to the zlib package</span>'
+Comment3='
+Provides necessary functions for producing a streaming interface.
+This is used for example by zlib-conduit and zlib-enum.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/zlib-bindings'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

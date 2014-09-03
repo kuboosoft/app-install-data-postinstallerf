@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-safe_yaml-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-safe_yaml</span>'
+Comment3='
+Documentation for rubygem-safe_yaml
+'
+License='MIT'
+Screenshot=''
+Url='http://dtao.github.com/safe_yaml/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

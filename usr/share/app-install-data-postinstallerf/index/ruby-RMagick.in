@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ruby-RMagick</b>'
+Comment='<span size="xx-large">Graphics Processing for Ruby and Ruby on Rails</span>'
+Comment3='
+RMagick is an interface between the Ruby programming language and the
+ImageMagick and GraphicsMagick image processing libraries.
+'
+License='MIT'
+Screenshot=''
+Url='http://rmagick.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

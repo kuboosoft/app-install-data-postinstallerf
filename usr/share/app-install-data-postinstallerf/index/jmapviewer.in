@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jmapviewer</b>'
+Comment='<span size="xx-large">A java component to integrate an OSM map view into your Java application</span>'
+Comment3='
+JMapViewer is a Java Swing component for integrating OSM maps into your Java
+application. JMapViewer allows you to set markers on the map or zoom to
+a specific location on the map.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.openstreetmap.org/wiki/JMapViewer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

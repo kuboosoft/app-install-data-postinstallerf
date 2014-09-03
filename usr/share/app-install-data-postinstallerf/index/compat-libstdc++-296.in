@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>compat-libstdc++-296</b>'
+Comment='<span size="xx-large">Compatibility 2.96-RH standard C++ libraries</span>'
+Comment3='
+The compat-libstdc++-296 package contains 2.96-RH compatibility standard
+C++ libraries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

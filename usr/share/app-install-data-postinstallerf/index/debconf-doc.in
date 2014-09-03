@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>debconf-doc</b>'
+Comment='<span size="xx-large">Debconf documentation</span>'
+Comment3='
+This package contains lots of additional documentation for Debconf,
+including the debconf users guide, documentation about using
+different backend databases via the /etc/debconf.conf file, and a
+developers guide to debconf.
+'
+License='BSD'
+Screenshot=''
+Url='http://packages.debian.org/sid/debconf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

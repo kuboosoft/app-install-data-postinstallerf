@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-hacking</b>'
+Comment='<span size="xx-large">OpenStack Hacking Guideline Enforcement</span>'
+Comment3='
+OpenStack Hacking Guidline Enforcement
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/openstack-dev/hacking'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

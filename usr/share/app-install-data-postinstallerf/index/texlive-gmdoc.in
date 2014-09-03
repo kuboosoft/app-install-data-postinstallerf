@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-gmdoc</b>'
+Comment='<span size="xx-large">Documentation of LaTeX packages</span>'
+Comment3='
+A LaTeX package and an example class for documenting (La)TeX
+packages, document classes, .dtx etc., providing hyperlinks.
+The package is believed to be compatible with doc and permits
+minimal markup of code (the macrocode environment is no longer
+necessary). The package provides automatic detection of
+definitions (detecting such things as \def, \newcommand,
+\DeclareOption etc.). The package needs hyperref and the
+authors three basic packages gmutils, gmverb and gmiflink.
+As a bonus (and as an example of doc compatibility) driver
+files are provided that may be used to typeset the LaTeX Base.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-keycommand</b>'
+Comment='<span size="xx-large">Simple creation of commands with key-value arguments</span>'
+Comment3='
+The package (which requires e-TeX) provides a natural way to
+define commands with optional keys. The package provides
+\newkeycommand, \renewkeycommand, \providekeycommand,
+\newkeyenvironment and \renewkeyenvironment, together with
+\keycmd for a more advanced interface. The package is based on
+kvsetkeys by Heiko Oberdiek.
+
+date 2010-04-27 095923 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

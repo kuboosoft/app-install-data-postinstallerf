@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsolv-tools</b>'
+Comment='<span size="xx-large">A new approach to package dependency solving</span>'
+Comment3='
+Package dependency solver tools.
+
+URL          https//github.com/openSUSE/libsolv
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/openSUSE/libsolv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

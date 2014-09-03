@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-progressbar</b>'
+Comment='<span size="xx-large">Text progressbar library for python</span>'
+Comment3='
+
+This library provides a text mode progress bar. This is typically used to
+display the progress of a long running operation, providing a visual clue that
+processing is under way.
+The progressbar module is very easy to use, yet very powerful. And
+automatically supports features like auto-re-sizing when available.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/python-progressbar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

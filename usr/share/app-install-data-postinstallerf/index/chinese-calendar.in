@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>chinese-calendar</b>'
+Comment='<span size="xx-large">A Chinese traditional calendar of UbuntuKylin</span>'
+Comment3='
+This is a Chinese traditional calendar for UbuntuKylin. In line with the
+Chinese habit?it can help users to query date conveniently.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://launchpad.net/chinese-calendar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

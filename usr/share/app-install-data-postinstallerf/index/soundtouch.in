@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>soundtouch</b>'
+Comment='<span size="xx-large">Audio Processing library for changing Tempo, Pitch and Playback Rates</span>'
+Comment3='
+SoundTouch is a LGPL-licensed open-source audio processing library for
+changing the Tempo, Pitch and Playback Rates of audio streams or
+files. The SoundTouch library is suited for application developers
+writing sound processing tools that require tempo/pitch control
+functionality, or just for playing around with the sound effects.
+
+The SoundTouch library source kit includes an example utility
+SoundStretch which allows processing .wav audio files from a
+command-line interface.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.surina.net/soundtouch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

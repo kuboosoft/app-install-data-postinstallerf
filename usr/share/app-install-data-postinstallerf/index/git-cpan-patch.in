@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>git-cpan-patch</b>'
+Comment='<span size="xx-large">Patch CPAN modules using Git</span>'
+Comment3='
+git-cpan-patch provides a suite of git commands aimed at making trivially
+easy the process of grabbing any distribution off CPAN, stuffing it in a
+local git repository and, once gleeful hacking has been perpetrated,
+sending back patches to its maintainer.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Git-CPAN-Patch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

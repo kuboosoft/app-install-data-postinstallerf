@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jack_capture</b>'
+Comment='<span size="xx-large">Record sound files with JACK</span>'
+Comment3='
+Jack_capture is a program for recording sound files with JACK. Its default
+operation is to capture whatever sound is going out to your speakers into a
+file, but it can do a number of other operations as well.
+'
+License='GPLv2+ and BSD and LGPLv3+'
+Screenshot=''
+Url='http://www.musix.org.ar/wiki/index.php/Jack_capture'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

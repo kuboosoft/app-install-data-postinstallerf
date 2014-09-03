@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>moc</b>'
+Comment='<span size="xx-large">Music on Console - Console audio player for Linux/UNIX</span>'
+Comment3='
+MOC (music on console) is a console audio player for LINUX/UNIX designed to be
+powerful and easy to use. You just need to select a file from some directory
+using the menu similar to Midnight Commander, and MOC will start playing all
+files in this directory beginning from the chosen file.
+'
+License='GPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://www.moc.daper.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

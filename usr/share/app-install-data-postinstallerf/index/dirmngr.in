@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>dirmngr</b>'
+Comment='<span size="xx-large">Client for Managing/Downloading CRLs</span>'
+Comment3='
+Dirmngr is a server for managing and downloading certificate
+revocation lists (CRLs) for X.509 certificates and for downloading
+the certificates themselves. Dirmngr also handles OCSP requests as
+an alternative to CRLs. Dirmngr is either invoked internally by
+gpgsm (from gnupg2) or when running as a system daemon through
+the dirmngr-client tool.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnupg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

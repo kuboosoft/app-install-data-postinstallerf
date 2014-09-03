@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>kapow</b>'
+Comment='<span size="xx-large">A punch clock program</span>'
+Comment3='
+Kapow is a punch clock program designed to easily keep track of your hours,
+whether youre working on one project or many. Simply clock in and out with the
+Start/Stop button. If you make a mistake in your hours, you can go back and
+edit any of the entries by double-clicking on the session in question. Kapow
+also allows you to easily keep track of the hours since you last billed a
+work after the last billed session.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gottcode.org/kapow'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

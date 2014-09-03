@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>kile</b>'
+Comment='<span size="xx-large">(La)TeX source editor and TeX shell</span>'
+Comment3='
+Kile is a user friendly (La)TeX editor.  The main features are
+  * Compile, convert and view your document with one click.
+  * Auto-completion of (La)TeX commands
+  * Templates and wizards makes starting a new document very little work.
+  * Easy insertion of many standard tags and symbols and the option to define
+    (an arbitrary number of) user defined tags.
+  * Inverse and forward search click in the DVI viewer and jump to the
+    corresponding LaTeX line in the editor, or jump from the editor to the
+    corresponding page in the viewer.
+  * Finding chapter or sections is very easy, Kile constructs a list of all
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kile.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

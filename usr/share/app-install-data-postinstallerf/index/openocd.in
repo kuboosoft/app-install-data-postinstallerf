@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>openocd</b>'
+Comment='<span size="xx-large">Debugging, in-system programming and boundary-scan testing for embedded devices</span>'
+Comment3='
+The Open On-Chip Debugger (OpenOCD) provides debugging, in-system programming
+and boundary-scan testing for embedded devices.  Various different boards,
+targets, and interfaces are supported to ease development time.
+
+Install OpenOCD if you are looking for an open source solution for hardware
+debugging.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/openocd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

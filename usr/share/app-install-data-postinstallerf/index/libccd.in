@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libccd</b>'
+Comment='<span size="xx-large">Library for collision detection between convex shapes</span>'
+Comment3='
+libccd implements variation on Gilbert-Johnson-Keerthi (GJK) algorithm +
+Expand Polytope Algorithm (EPA). It also implements Minkowski Portal
+Refinement (MPR, a.k.a. XenoCollide) algorithm as published in Game
+Programming Gems 7.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://libccd.danfis.cz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

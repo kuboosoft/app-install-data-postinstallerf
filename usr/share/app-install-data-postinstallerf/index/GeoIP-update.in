@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>GeoIP-update</b>'
+Comment='<span size="xx-large">Crontab entry to facilitate automatic updates of IPv4 GeoIP databases</span>'
+Comment3='
+Crontab entry to provide weekly updates of the GeoIP free IPv4 databases.
+'
+License='LGPLv2+ and GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://www.maxmind.com/app/c'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

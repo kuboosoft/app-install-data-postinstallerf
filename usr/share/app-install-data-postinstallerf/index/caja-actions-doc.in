@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>caja-actions-doc</b>'
+Comment='<span size="xx-large">Documentations for caja-actions</span>'
+Comment3='
+This package contains the documentation for caja-actions
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://github.com/NiceandGently/caja-actions'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

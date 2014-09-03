@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>qdigidoc-nautilus</b>'
+Comment='<span size="xx-large">Nautilus extension for qdigidoc</span>'
+Comment3='
+The qdigidoc-nautilus package contains the qdigidoc extension for the
+nautilus file manager.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/esteid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

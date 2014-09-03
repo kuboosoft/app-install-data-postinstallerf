@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-turbojson</b>'
+Comment='<span size="xx-large">Python template plugin that supports json</span>'
+Comment3='
+This package provides a template engine plugin, allowing you
+to easily use Json with TurboGears, Buffet or other systems
+that support python.templating.engines.
+'
+License='MIT'
+Screenshot=''
+Url='http://cheeseshop.python.org/pypi/TurboJson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

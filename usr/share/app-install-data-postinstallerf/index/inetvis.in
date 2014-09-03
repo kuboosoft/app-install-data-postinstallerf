@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>inetvis</b>'
+Comment='<span size="xx-large">3-D scatter-plot visualization for network traffic</span>'
+Comment3='
+InetVis is a 3-D scatter-plot visualization for network traffic.
+In way, its more or less like a media player, but for network traffic.
+Its quite handy for observing scan activity and other anomolous
+traffic patterns.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.cs.ru.ac.za/research/g02v2468/inetvis.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

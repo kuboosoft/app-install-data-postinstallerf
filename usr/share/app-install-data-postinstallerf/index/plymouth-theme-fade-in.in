@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plymouth-theme-fade-in</b>'
+Comment='<span size="xx-large">Plymouth "Fade-In" theme</span>'
+Comment3='
+This package contains the "Fade-In" boot splash theme for
+Plymouth. It features a centered logo that fades in and out
+while stars twinkle around the logo during system boot up.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Plymouth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

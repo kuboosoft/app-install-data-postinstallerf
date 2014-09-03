@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xmlada</b>'
+Comment='<span size="xx-large">XML library for Ada</span>'
+Comment3='
+XML/Ada includes support for parsing XML files, including DTDs,
+full support for SAX,
+and an almost complete support for the core part of the DOM.
+It includes support for validating XML files with XML schemas.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libre.adacore.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

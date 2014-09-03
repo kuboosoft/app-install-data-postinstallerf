@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>radiusclient-ng</b>'
+Comment='<span size="xx-large">RADIUS protocol client library</span>'
+Comment3='
+Portable, easy-to-use and standard compliant library suitable for
+developing free and commercial software that need support for a RADIUS
+protocol (RFCs 2128 and 2139).
+
+'
+License='BSD'
+Screenshot=''
+Url='http://developer.berlios.de/projects/radiusclient-ng/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

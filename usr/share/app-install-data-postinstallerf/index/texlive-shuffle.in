@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-shuffle</b>'
+Comment='<span size="xx-large">A symbol for the shuffle product</span>'
+Comment3='
+The bundle provides a LaTeX package and a font (as MetaFont
+source) for the shuffle product which is used in some part of
+mathematics and physics.
+
+date 2008-10-30 094608 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

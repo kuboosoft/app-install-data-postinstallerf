@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>tclap</b>'
+Comment='<span size="xx-large">Template-Only Command Line Argument Parser</span>'
+Comment3='
+tclap is a small, flexible library that provides a simple interface for
+defining and accessing command line arguments. It was initially inspired by
+the user friendly CLAP library. The difference is that this library is
+template-only, so the argument class is type independent. Type independence
+avoids identical-except-for-type objects, such as IntArg, FloatArg, and
+StringArg. While the library is not strictly compliant with the GNU or
+POSIX standards, it is close.
+
+tclap is written in ANSI C++ and is meant to be compatible with any
+standards-compliant C++ compiler. The library is implemented entirely
+'
+License='MIT'
+Screenshot=''
+Url='http://tclap.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

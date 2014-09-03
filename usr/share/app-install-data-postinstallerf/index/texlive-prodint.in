@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-prodint</b>'
+Comment='<span size="xx-large">A font that provides the product integral symbol</span>'
+Comment3='
+Product integrals are to products, as integrals are to sums.
+They have been around for more than a hundred years, they have
+not become part of the standard toolbox, possibly because no-
+one invented the right mathematical symbol for them. The
+authors remedied that situation by proposing the symbol and
+providing this font.
+
+date 2011-03-30 120752 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

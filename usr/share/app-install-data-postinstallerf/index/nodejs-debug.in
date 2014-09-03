@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-debug</b>'
+Comment='<span size="xx-large">A small debugging utility for Node.js</span>'
+Comment3='
+This module is a tiny Node.js debugging utility modeled after node cores
+debugging technique.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/debug'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

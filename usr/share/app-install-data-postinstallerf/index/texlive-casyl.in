@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-casyl</b>'
+Comment='<span size="xx-large">Typeset Cree/Inuktitut in Canadian Aboriginal Syllabics</span>'
+Comment3='
+The bundle constitutes a font (as MetaFont source) and LaTeX
+macros for its use within a document.
+
+date 2008-10-26 181750 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

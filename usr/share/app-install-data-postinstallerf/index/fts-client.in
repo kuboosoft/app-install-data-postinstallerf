@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fts-client</b>'
+Comment='<span size="xx-large">File Transfer Service version 3 client</span>'
+Comment3='
+A set of command line tools for submitting, querying
+and canceling transfer-jobs to the FTS service. Additionally,
+there is a CLI that can be used for configuration and
+administering purposes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/fts3/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

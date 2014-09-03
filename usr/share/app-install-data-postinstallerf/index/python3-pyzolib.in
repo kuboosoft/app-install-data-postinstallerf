@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-pyzolib</b>'
+Comment='<span size="xx-large">Utilities for the Pyzo environment</span>'
+Comment3='
+This package implements several small sub-modules and sub-packages that expose
+common functionality in a range of packages and applications in the Pyzo
+framework.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.pyzo.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

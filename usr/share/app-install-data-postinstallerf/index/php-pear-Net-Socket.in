@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-pear-Net-Socket</b>'
+Comment='<span size="xx-large">Network Socket Interface</span>'
+Comment3='
+  Net_Socket is a class interface to TCP sockets.  It provides blocking
+  and non-blocking operation, with different reading and writing modes
+  (byte-wise, block-wise, line-wise and special formats like network
+  byte-order ip addresses).
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Net_Socket'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

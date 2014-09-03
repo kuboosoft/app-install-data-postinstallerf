@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xfce4-mailwatch-plugin</b>'
+Comment='<span size="xx-large">Mail Watcher plugin for the Xfce panel</span>'
+Comment3='
+Mailwatch is a plugin for the Xfce 4 panel. It is intended to replace the
+current (4.0, 4.2) mail checker plugin in Xfce 4.4. It supports IMAP and POP,
+local mailboxes in Mbox, Maildir and MH-Maildir format as well as Gmail.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-mailwatch-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

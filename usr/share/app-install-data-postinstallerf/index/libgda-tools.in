@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libgda-tools</b>'
+Comment='<span size="xx-large">Graphical tools for libgda</span>'
+Comment3='
+This libgda-tools package provides graphical tools for libgda.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome-db.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

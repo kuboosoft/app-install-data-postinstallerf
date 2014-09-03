@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>unittest</b>'
+Comment='<span size="xx-large">C++ Unit Test Framework</span>'
+Comment3='
+Unittest is a C++ unit test framework. Its design goals are to be simple, to
+be idiomatic C++, and to follow the basic xUnit style to the extent that doing
+so is compatible with the earlier goals. Its main differences from other xUnit
+frameworks are that it uses constructors and destructors for setup/teardown
+and that it requires you to represent tests as classes, instead of methods.
+'
+License='BSD'
+Screenshot=''
+Url='http://unittest.red-bean.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

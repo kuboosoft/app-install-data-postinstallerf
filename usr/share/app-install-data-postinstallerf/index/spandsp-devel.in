@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>spandsp-devel</b>'
+Comment='<span size="xx-large">SpanDSP development files</span>'
+Comment3='
+SpanDSP development files.
+
+URL          http//www.soft-switch.org/
+'
+License='LGPLv2 and GPLv2'
+Screenshot=''
+Url='http://www.soft-switch.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

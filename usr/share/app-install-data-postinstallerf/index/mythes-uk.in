@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-uk</b>'
+Comment='<span size="xx-large">Ukrainian thesaurus</span>'
+Comment3='
+Ukrainian thesaurus.
+'
+License='(GPLv2+ or LGPLv2+) and (GPLv2+ or LGPLv2+ or MPLv1.1) and GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/ispell-uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

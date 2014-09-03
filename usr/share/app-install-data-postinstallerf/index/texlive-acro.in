@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-acro</b>'
+Comment='<span size="xx-large">Typeset acronyms</span>'
+Comment3='
+The package enables the author to create acronyms in a simple
+way, and provides means to add them to different classes of
+acronyms. Lists can be created of separate acronym classes. The
+package option single instructs the package to ignore
+acronyms that are used only once in the whole document. As an
+experimental feature the package also offers the option sort
+which automatically sorts the list created by \printacronyms.
+
+date 2013-12-19 183849 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

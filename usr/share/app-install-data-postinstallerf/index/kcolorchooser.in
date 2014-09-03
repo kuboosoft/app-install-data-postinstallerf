@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kcolorchooser</b>'
+Comment='<span size="xx-large">A color chooser</span>'
+Comment3='
+A color chooser.
+'
+License='BSD'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/kcolorchooser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

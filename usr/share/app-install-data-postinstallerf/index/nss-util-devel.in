@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nss-util-devel</b>'
+Comment='<span size="xx-large">Development libraries for Network Security Services Utilities</span>'
+Comment3='
+Header and library files for doing development with Network Security Services.
+
+URL          http//www.mozilla.org/projects/security/pki/nss/
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.mozilla.org/projects/security/pki/nss/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-pytest-cov</b>'
+Comment='<span size="xx-large">Pytest plugin for coverage reporting</span>'
+Comment3='
+Py.test plugin for coverage reporting with support for both centralised and
+distributed testing, including subprocesses and multiprocessing for Python 2.
+'
+License='MIT'
+Screenshot=''
+Url='https://pypi.python.org/pypi/pytest-cov'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

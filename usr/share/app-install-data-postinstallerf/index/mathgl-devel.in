@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mathgl-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for mathgl library</span>'
+Comment3='
+The mathgl-devel package contains libraries and header files for
+developing applications that use serial version of mathgl.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mathgl.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

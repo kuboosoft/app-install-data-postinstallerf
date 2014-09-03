@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>light-theme-gnome</b>'
+Comment='<span size="xx-large">Ambiance and Radiance GNOME themes</span>'
+Comment3='
+Includes matching Ambiance and Radiance GNOME themes.
+* Ambiance is a light-on-dark theme
+* Radiance is a dark-on-light theme
+Introduced as the default themes in Ubuntu 10.04 LTS.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://launchpad.net/ubuntu-themes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

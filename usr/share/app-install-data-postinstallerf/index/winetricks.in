@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>winetricks</b>'
+Comment='<span size="xx-large">Package and settings manager for Wine</span>'
+Comment3='
+Winetricks is an easy way to work around problems in Wine. It has a menu of
+supported games/apps for which it can do all the workarounds automatically.
+It also lets you install missing DLLs or tweak various Wine settings individually.
+'
+License='GPL+'
+Screenshot=''
+Url='http://wiki.winehq.org/winetricks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

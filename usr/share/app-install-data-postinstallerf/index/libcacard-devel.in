@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcacard-devel</b>'
+Comment='<span size="xx-large">CAC Emulation devel</span>'
+Comment3='
+CAC emulation development files.
+
+URL          http//www.qemu.org/
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.qemu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

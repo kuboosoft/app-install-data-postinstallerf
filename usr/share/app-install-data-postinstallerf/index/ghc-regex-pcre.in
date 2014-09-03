@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-regex-pcre</b>'
+Comment='<span size="xx-large">Haskell PCRE binding</span>'
+Comment3='
+A Haskell binding to the Perl Compatible Regular Expressions library.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/regex-pcre'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

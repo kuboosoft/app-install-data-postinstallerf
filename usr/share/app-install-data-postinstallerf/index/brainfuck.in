@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>brainfuck</b>'
+Comment='<span size="xx-large">Brainfuck interpreter</span>'
+Comment3='
+This is an interpreter of the brainf*ck language,
+written in the pure, lazy, functional language Haskell.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/brainfuck'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

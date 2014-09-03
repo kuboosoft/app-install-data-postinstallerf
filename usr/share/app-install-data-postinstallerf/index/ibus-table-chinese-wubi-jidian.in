@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ibus-table-chinese-wubi-jidian</b>'
+Comment='<span size="xx-large">Jidian Wubi 86 input method, JiShuang 6.0</span>'
+Comment3='
+Jidian Wubi input methods. Current includes
+Wubi 86.
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

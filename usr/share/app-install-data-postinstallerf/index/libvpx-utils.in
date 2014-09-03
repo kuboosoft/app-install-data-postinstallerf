@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libvpx-utils</b>'
+Comment='<span size="xx-large">VP8 utilities and tools</span>'
+Comment3='
+A selection of utilities and tools for VP8, including a sample encoder
+and decoder.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.webmproject.org/tools/vp8-sdk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

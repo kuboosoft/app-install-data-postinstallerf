@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-ActionRole-ACL</b>'
+Comment='<span size="xx-large">User role-based authorization action class</span>'
+Comment3='
+Provides a Catalyst reusable action role for user role-based authorization.
+ACLs are applied via the assignment of attributes to application action
+subroutines.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-ActionRole-ACL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

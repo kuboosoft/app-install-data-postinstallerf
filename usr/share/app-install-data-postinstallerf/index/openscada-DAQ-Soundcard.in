@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openscada-DAQ-Soundcard</b>'
+Comment='<span size="xx-large">Open SCADA DAQ</span>'
+Comment3='
+The openscada-DAQ-Soundcard allows access to sound card data.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

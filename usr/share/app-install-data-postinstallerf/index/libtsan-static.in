@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libtsan-static</b>'
+Comment='<span size="xx-large">The Thread Sanitizer static library</span>'
+Comment3='
+This package contains Thread Sanitizer static runtime library.
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

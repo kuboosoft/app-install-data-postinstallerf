@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nessus-libraries-devel</b>'
+Comment='<span size="xx-large">Development package for nessus-libraries</span>'
+Comment3='
+The nessus-libraries-devel package contains the files needed for development
+with nessus-libraries.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.nessus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

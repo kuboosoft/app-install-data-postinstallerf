@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-german</b>'
+Comment='<span size="xx-large">Support for German typography</span>'
+Comment3='
+Supports the new German orthography (neue deutsche
+Rechtschreibung).
+
+date 2012-06-19 202915 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

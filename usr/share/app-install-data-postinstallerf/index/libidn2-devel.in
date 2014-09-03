@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libidn2-devel</b>'
+Comment='<span size="xx-large">Development files for libidn2</span>'
+Comment3='
+The libidn2-devel package contains libraries and header files for
+developing applications that use libidn2.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/libidn/#libidn2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

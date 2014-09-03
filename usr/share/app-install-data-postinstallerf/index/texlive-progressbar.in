@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-progressbar</b>'
+Comment='<span size="xx-large">Visualize shares of total amounts in the form of a (progress-)bar</span>'
+Comment3='
+This package allows you to easily visualize shares of total
+amounts in the form of a bar. So basically you can convert any
+number between 0 and 1 to a progressbar using the command
+\progressbar{<number>}. Also a lot of customizations are
+possible, allowing you to create an unique progressbar on your
+own. The package uses TikZ to produce its graphics.
+
+date 2013-01-06 181217 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

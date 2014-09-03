@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>remoot</b>'
+Comment='<span size="xx-large">Pseudo-universal remote control wrapper</span>'
+Comment3='
+ReMoot is a remote control that supports many popular multimedia applications
+running on GNU/Linux. It wraps around these apps and provides a unified and
+easy-to-use interface which can be accessed in many different ways. You can
+use the remote control from the command-line, with desktop icons or panel
+buttons, over the web with "rewwwoot" or by mapping your multimedia keyboard
+to it so that you can control all supported applications with the same keys.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://remoot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

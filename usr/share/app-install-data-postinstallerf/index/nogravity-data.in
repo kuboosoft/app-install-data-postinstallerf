@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nogravity-data</b>'
+Comment='<span size="xx-large">Data files for No Gravity</span>'
+Comment3='
+Data files (audio, maps, etc) for No Gravity.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.realtech-vr.com/nogravity/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

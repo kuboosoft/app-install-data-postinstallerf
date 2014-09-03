@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-tabularborder</b>'
+Comment='<span size="xx-large">Correct index entries for chemical compounds</span>'
+Comment3='
+The tabular environment is changed so that the outer
+\tabcolseps are compensated and a \hline has the same length as
+the text. No @{} is needed.
+
+date 2010-04-29 124052 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

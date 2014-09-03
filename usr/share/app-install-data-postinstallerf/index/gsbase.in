@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gsbase</b>'
+Comment='<span size="xx-large">A collection of java utility classes</span>'
+Comment3='
+A collection of classes that are helpful
+when writing JUnit test cases. Classes
+include things like a logging subsystem and
+a complex layout manager.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/gsbase/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

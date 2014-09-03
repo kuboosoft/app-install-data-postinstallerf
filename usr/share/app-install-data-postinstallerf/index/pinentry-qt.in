@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pinentry-qt</b>'
+Comment='<span size="xx-large">Passphrase/PIN entry dialog based on Qt4</span>'
+Comment3='
+Pinentry is a collection of simple PIN or passphrase entry dialogs which
+utilize the Assuan protocol as described by the aegypten project; see
+http//www.gnupg.org/aegypten/ for details.
+This package contains the Qt4 GUI based version of the PIN entry dialog.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.gnupg.org/aegypten/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

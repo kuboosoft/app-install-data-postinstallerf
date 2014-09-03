@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pigz</b>'
+Comment='<span size="xx-large">Parallel implementation of gzip</span>'
+Comment3='
+pigz, which stands for parallel implementation of gzip,
+is a fully functional replacement for gzip that exploits
+multiple processors and multiple cores to the hilt when compressing data.
+'
+License='zlib'
+Screenshot=''
+Url='http://www.zlib.net/pigz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnjb-devel</b>'
+Comment='<span size="xx-large">Development files for libnjb</span>'
+Comment3='
+This package provides development files for the libnjb
+library for Creative Nomad/Zen/Jukebox and Dell DJ line of MP3 players.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://libnjb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

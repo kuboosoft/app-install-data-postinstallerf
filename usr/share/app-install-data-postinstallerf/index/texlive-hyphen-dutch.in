@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-dutch</b>'
+Comment='<span size="xx-large">Dutch hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Dutch in T1/EC and UTF-8 encodings.
+These patterns dont handle cases like menuutje > menu-tje,
+and dont hyphenate words that have different hyphenations
+according to their meaning.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

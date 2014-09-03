@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>novacom</b>'
+Comment='<span size="xx-large">Utility to connect to WebOS devices</span>'
+Comment3='
+Novacom allows you to connect to WebOS devices that are connected over USB.
+
+This package installs both the client and the server.  To use the client, you
+must first start the server using systemctl start novacomd.service as root,
+and then run novacom as a regular user.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/openwebos/novacom'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

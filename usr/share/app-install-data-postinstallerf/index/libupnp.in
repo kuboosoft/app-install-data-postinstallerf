@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libupnp</b>'
+Comment='<span size="xx-large">Universal Plug and Play (UPnP) SDK</span>'
+Comment3='
+The Universal Plug and Play (UPnP) SDK for Linux provides
+support for building UPnP-compliant control points, devices,
+and bridges on Linux.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.libupnp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

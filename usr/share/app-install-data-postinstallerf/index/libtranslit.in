@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtranslit</b>'
+Comment='<span size="xx-large">ASCII to Unicode transliteration library with multiple backends</span>'
+Comment3='
+ASCII to Unicode transliteration library with multiple backends.
+
+URL          http//github.com/ueno/libtranslit
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://github.com/ueno/libtranslit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

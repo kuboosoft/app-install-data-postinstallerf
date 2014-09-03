@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qpid-proton-java</b>'
+Comment='<span size="xx-large">Java libraries for Qpid Proton</span>'
+Comment3='
+Java language bindings for the Qpid Proton messaging framework
+
+URL          http//qpid.apache.org/proton/
+Java language bindings for the Qpid Proton messaging framework.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org/proton/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

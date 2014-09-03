@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tesseract-langpack-ben</b>'
+Comment='<span size="xx-large">Bengali language data for Tesseract</span>'
+Comment3='
+Bengali language data for Tesseract
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/tesseract-ocr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-tins-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-tins</span>'
+Comment3='
+Documentation for rubygem-tins.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/flori/tins'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

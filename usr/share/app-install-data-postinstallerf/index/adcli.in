@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>adcli</b>'
+Comment='<span size="xx-large">Active Directory enrollment</span>'
+Comment3='
+adcli is a library and tool for joining an Active Directory domain using
+standard LDAP and Kerberos calls.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cgit.freedesktop.org/realmd/adcli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>Singular-emacs</b>'
+Comment='<span size="xx-large">Emacs mode for Singular</span>'
+Comment3='
+Emacs mode for Singular.
+'
+License='BSD and LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.singular.uni-kl.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-puppet-lint</b>'
+Comment='<span size="xx-large">Ensure your Puppet manifests conform with the Puppetlabs style guide</span>'
+Comment3='
+Checks your Puppet manifests against the Puppetlabs
+style guide and alerts you to any discrepancies.
+'
+License='MIT'
+Screenshot=''
+Url='http://puppet-lint.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

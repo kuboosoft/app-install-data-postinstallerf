@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-ksfh_nat</b>'
+Comment='<span size="xx-large">ksfh_nat package</span>'
+Comment3='
+ksfh_nat package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

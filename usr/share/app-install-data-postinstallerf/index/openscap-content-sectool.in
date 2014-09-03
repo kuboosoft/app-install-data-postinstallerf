@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openscap-content-sectool</b>'
+Comment='<span size="xx-large">Sectool content</span>'
+Comment3='
+SCAP/SCE content that conforms to sectool checks.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.open-scap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

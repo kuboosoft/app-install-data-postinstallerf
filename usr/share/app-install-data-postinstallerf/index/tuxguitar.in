@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tuxguitar</b>'
+Comment='<span size="xx-large">A multitrack tablature editor and player written in Java-SWT</span>'
+Comment3='
+TuxGuitar is a guitar tablature editor with player support through midi. It can
+display scores and multitrack tabs. Various features TuxGuitar provides include
+autoscrolling while playing, note duration management, bend/slide/vibrato/
+hammer-on/pull-off effects, support for tuplets, time signature management,
+tempo management, gp3/gp4/gp5 import and export.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.tuxguitar.com.ar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

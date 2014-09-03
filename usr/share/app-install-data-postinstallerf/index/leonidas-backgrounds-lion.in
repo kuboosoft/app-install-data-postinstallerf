@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>leonidas-backgrounds-lion</b>'
+Comment='<span size="xx-large">Extra leonidas desktop background featuring lion</span>'
+Comment3='
+This package includes extra leonidas background featuring the lion that is
+present in F11 Leonidas only on dual screens both on single screens as well.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F11_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

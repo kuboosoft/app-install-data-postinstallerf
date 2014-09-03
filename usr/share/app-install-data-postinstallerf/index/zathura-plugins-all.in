@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zathura-plugins-all</b>'
+Comment='<span size="xx-large">Zathura plugins (all plugins)</span>'
+Comment3='
+This package provides all Zathura plugins.
+'
+License='zlib'
+Screenshot=''
+Url='http://pwmt.org/projects/zathura/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

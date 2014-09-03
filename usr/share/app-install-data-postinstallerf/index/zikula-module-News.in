@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zikula-module-News</b>'
+Comment='<span size="xx-large">Manages news articles on your Zikula site</span>'
+Comment3='
+News module to manage news articles on your site. Provides
+multi-categorization, scheduled publishing, the basic management
+features and includes some highly customizable blocks and plugins for
+the Content module.
+'
+License='GPL+'
+Screenshot=''
+Url='http://code.zikula.org/news'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

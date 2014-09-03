@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ksaneplugin</b>'
+Comment='<span size="xx-large">KDE sane service</span>'
+Comment3='
+KDE sane service.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/ksaneplugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

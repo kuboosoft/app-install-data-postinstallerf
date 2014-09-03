@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipselink-persistence-api</b>'
+Comment='<span size="xx-large">JPA 2.0 Spec OSGi Bundle</span>'
+Comment3='
+EclipseLink definition of the Java Persistence 2.0 API.
+'
+License='EPL and ASL 2.0'
+Screenshot=''
+Url='http://www.eclipse.org/eclipselink/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

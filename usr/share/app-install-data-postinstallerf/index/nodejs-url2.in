@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>nodejs-url2</b>'
+Comment='<span size="xx-large">The Node.js URL module plus relative paths</span>'
+Comment3='
+This module builds upon the existing URL module in Node.js, but adds
+relative(source, target) which returns the shortest relative path between
+any two equally qualified URLs. If the paths are not equally qualified,
+it returns the target.
+
+In addition, this package augments the URL object definition as returned
+by parse and consumed by format.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kriskowal/url2'
+Summary     : The Node.js URL module plus relative paths'
+This module builds upon the existing URL module in Node.js, but adds'
+any two equally qualified URLs. If the paths are not equally qualified,'
+In addition, this package augments the URL object definition as returned'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

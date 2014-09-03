@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ConsoleKit</b>'
+Comment='<span size="xx-large">System daemon for tracking users, sessions and seats</span>'
+Comment3='
+ConsoleKit is a system daemon for tracking what users are logged
+into the system and how they interact with the computer (e.g.
+which keyboard and mouse they use).
+
+It provides asynchronous notification via the system message bus.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/ConsoleKit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

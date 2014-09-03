@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>caja-actions</b>'
+Comment='<span size="xx-large">Caja extension for customizing the context menu</span>'
+Comment3='
+Caja actions is an extension for Caja, the MATE file manager.
+It provides an easy way to configure programs to be launch on files
+selected in Caja interface
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://github.com/NiceandGently/caja-actions'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

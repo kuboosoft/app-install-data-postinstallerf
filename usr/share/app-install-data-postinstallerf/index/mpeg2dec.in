@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mpeg2dec</b>'
+Comment='<span size="xx-large">MPEG-2 decoder program</span>'
+Comment3='
+The libmpeg2-devel package contains libraries and header files for
+developing applications that use libmpeg2.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libmpeg2.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

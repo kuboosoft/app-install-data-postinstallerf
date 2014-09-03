@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-void-devel</b>'
+Comment='<span size="xx-large">Haskell void library development files</span>'
+Comment3='
+This package provides the Haskell void library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/void'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

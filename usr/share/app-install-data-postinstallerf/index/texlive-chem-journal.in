@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-chem-journal</b>'
+Comment='<span size="xx-large">Various BibTeX formats for journals in Chemistry</span>'
+Comment3='
+Various BibTeX formats for journals in Chemistry, including
+Reviews in Computational Chemistry, Journal of Physical
+Chemistry, Journal of Computational Chemistry, and Physical
+Chemistry Chemical Physics.
+
+date 2007-01-01 103154 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

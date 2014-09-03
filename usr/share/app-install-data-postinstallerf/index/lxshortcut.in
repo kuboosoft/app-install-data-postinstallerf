@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lxshortcut</b>'
+Comment='<span size="xx-large">Small utility to edit application shortcuts</span>'
+Comment3='
+LXShortcut is a small utility to edit application shortcuts created with
+freedesktop.org Desktop Entry spec. Now editing of application shortcuts
+becomes quite easy.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lxde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>openxcap</b>'
+Comment='<span size="xx-large">Fully featured XCAP server</span>'
+Comment3='
+Fully featured XCAP server. An XCAP server is used by SIP SIMPLE clients and
+servers to manage buddy lists and policy for subscriptions to presence or
+other type of events published using SIP protocol.
+
+XCAP protocol allows a client to read, write and modify application
+configuration data stored in XML format on a server. XCAP maps XML document
+sub-trees and element attributes to HTTP URIs, so that these components can
+be directly accessed by HTTP. An XCAP server is used by the XCAP clients to
+store data like Presence policy in combination with a SIP Presence server
+that supports PUBLISH/SUBSCRIBE/NOTIFY methods to provide a complete SIP
+'
+License='GPLv2'
+Screenshot=''
+Url='http://openxcap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

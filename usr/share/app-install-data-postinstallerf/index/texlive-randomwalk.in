@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-randomwalk</b>'
+Comment='<span size="xx-large">Random walks using TikZ</span>'
+Comment3='
+The randomwalk package provides a user command, \RandomWalk, to
+draw random walks with a given number of steps. Lengths and
+angles of the steps can be customized in various ways. The
+package uses PGF/TikZ for its graphical output.
+
+date 2013-01-08 143626 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

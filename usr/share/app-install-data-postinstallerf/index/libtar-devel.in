@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtar-devel</b>'
+Comment='<span size="xx-large">Development files for libtar</span>'
+Comment3='
+The libtar-devel package contains libraries and header files for
+developing applications that use libtar.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.feep.net/libtar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-nonumonpart</b>'
+Comment='<span size="xx-large">Prevent page numbers on part pages</span>'
+Comment3='
+The package bundles the answer to the long-standing FAQ about
+removing page numbers on \part pages. The package accepts no
+options and defines no user commands; the user needs only to
+load it, and the requirement is met.
+
+date 2011-04-15 124328 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vtk-examples</b>'
+Comment='<span size="xx-large">Examples for VTK</span>'
+Comment3='
+This package contains many well-commented examples showing how to use
+VTK. Examples are available in the C++, Tcl, Python and Java
+programming languages.
+'
+License='BSD'
+Screenshot=''
+Url='http://vtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

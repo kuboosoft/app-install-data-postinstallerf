@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>openslp</b>'
+Comment='<span size="xx-large">Open implementation of Service Location Protocol V2</span>'
+Comment3='
+Service Location Protocol is an IETF standards track protocol that
+provides a framework to allow networking applications to discover the
+existence, location, and configuration of networked services in
+enterprise networks.
+
+OpenSLP is an open source implementation of the SLPv2 protocol as defined
+by RFC 2608 and RFC 2614.
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/openslp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

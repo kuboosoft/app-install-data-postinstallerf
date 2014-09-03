@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tinyproxy</b>'
+Comment='<span size="xx-large">A small, efficient HTTP/SSL proxy daemon</span>'
+Comment3='
+tinyproxy is a small, efficient HTTP/SSL proxy daemon that is very useful in a
+small network setting, where a larger proxy like Squid would either be too
+resource intensive, or a security risk.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://www.banu.com/tinyproxy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

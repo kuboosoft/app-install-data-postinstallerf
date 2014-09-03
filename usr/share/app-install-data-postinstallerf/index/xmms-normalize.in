@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmms-normalize</b>'
+Comment='<span size="xx-large">Relative volume adjustment plugin for XMMS</span>'
+Comment3='
+Plugin for XMMS to honour relative volume adjustment (RVA2) ID3 tag frames.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://normalize.nongnu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

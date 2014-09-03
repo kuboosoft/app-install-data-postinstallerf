@@ -1,0 +1,22 @@
+[Desktop Entry]
+Exec=postinstaller -n hedgewars
+Type=Application
+Version=1.0
+Name=Hedgewars
+GenericName=Fighting Hedgehogs
+GenericName[de]=Kämpfende Igel
+GenericName[es]=Batallas entre erizos
+GenericName[fr]=Bataille de hérissons
+GenericName[ko]=고슴도치 싸우기
+GenericName[ja]=ファイチングハリネズミ
+GenericName[it]=Ricci combattenti
+GenericName[pl]=Walczące jeże
+GenericName[pt]=Batalhas entre ouriços
+GenericName[ru]=Битвы ежей
+GenericName[sk]=Bojujúci ježkovia
+GenericName[cs]=Bojující ježci
+GenericName[sv]=Stridande igelkottar
+Icon=/usr/share/app-install-data-postinstallerf/icons/hedgewars.png
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;StrategyGame;

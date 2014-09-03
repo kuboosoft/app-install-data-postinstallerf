@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Taint-Runtime</b>'
+Comment='<span size="xx-large">Runtime enable taint checking</span>'
+Comment3='
+This module enables run-time taint checking, for cases where the -T
+switch on the command line is not appropriate or viable. There are
+a somewhat limited number of legitimate use cases where you should
+use this module instead of the -T switch. Unless you have a specific and
+good reason for not using the -T option, you should use the -T option.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Taint-Runtime'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

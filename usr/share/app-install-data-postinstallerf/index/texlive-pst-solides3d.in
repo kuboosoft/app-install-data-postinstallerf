@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pst-solides3d</b>'
+Comment='<span size="xx-large">Draw perspective views of 3D solids</span>'
+Comment3='
+The package is designed to draw solids in 3d perspective.
+Features include - create primitive solids; - create solids by
+including a list of its vertices and faces; - faces of solids
+and surfaces can be colored by choosing from a very large
+palette of colors; - draw parametric surfaces in algebraic and
+reverse polish notation; - create explicit and parameterized
+algebraic functions drawn in 2 or 3 dimensions; - project text
+onto a plane and onto the faces of a solid; - support for
+including external database files
+
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

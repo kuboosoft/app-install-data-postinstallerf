@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bash</b>'
+Comment='<span size="xx-large">The GNU Bourne Again shell</span>'
+Comment3='
+The GNU Bourne Again shell (Bash) is a shell or command language
+interpreter that is compatible with the Bourne shell (sh). Bash
+incorporates useful features from the Korn shell (ksh) and the C shell
+(csh). Most sh scripts can be run by bash without modification.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/bash'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

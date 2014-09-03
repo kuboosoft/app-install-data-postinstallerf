@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-symfony-cssselector</b>'
+Comment='<span size="xx-large">Symfony CssSelector Component</span>'
+Comment3='
+The CssSelector Component converts CSS selectors to XPath expressions.
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com/doc/current/components/css_selector.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

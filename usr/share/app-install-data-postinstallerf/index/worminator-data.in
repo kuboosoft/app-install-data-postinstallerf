@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>worminator-data</b>'
+Comment='<span size="xx-large">Data for worminator the game</span>'
+Comment3='
+Data for worminator the game where you play as The Worminator and fight your
+way through many levels of madness and mayhem. Worminator features nine unique
+weapons, visible character damage, full screen scrolling, sound and music, and
+much more!
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/worminator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

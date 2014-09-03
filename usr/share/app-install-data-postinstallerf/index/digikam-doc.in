@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>digikam-doc</b>'
+Comment='<span size="xx-large">Application handbook, documentation, and translations</span>'
+Comment3='
+Application handbook, documentation, and translations.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.digikam.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

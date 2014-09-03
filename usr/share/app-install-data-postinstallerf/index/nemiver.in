@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nemiver</b>'
+Comment='<span size="xx-large">A GNOME C/C++ Debugger</span>'
+Comment3='
+Nemiver is an ongoing effort to write a standalone graphical debugger that
+integrates well in the GNOME desktop environment. It currently features a
+backend which uses the well known GNU Debugger (gdb) to debug C/C++ programs.
+
+The yelp package must be installed to make use of Nemivers documentation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/nemiver'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

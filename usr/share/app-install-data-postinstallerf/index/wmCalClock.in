@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wmCalClock</b>'
+Comment='<span size="xx-large">A Calendar clock with antialiased text</span>'
+Comment3='
+A Calendar clock with antialiased text
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.dockapps.org/file.php/id/9'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

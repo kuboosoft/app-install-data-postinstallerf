@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jspeex-javadoc</b>'
+Comment='<span size="xx-large">Java docs for jspeex</span>'
+Comment3='
+This package contains the API documentation for jspeex.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://jspeex.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

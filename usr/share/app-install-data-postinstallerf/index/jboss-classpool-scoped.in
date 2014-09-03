@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-classpool-scoped</b>'
+Comment='<span size="xx-large">A custom class pool for several JBoss products</span>'
+Comment3='
+A custom class pool for several JBoss products.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/jbossreflect'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

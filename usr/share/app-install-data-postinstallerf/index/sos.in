@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sos</b>'
+Comment='<span size="xx-large">A set of tools to gather troubleshooting information from a system</span>'
+Comment3='
+Sos is a set of tools that gathers information about system
+hardware and configuration. The information can then be used for
+diagnostic purposes and debugging. Sos is commonly used to help
+support technicians and developers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/sos'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

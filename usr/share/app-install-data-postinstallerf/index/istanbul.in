@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>istanbul</b>'
+Comment='<span size="xx-large">Desktop Session Recorder</span>'
+Comment3='
+Istanbul is a desktop session recorder.  You can use it to record your
+desktop session and then play it back for demos, tutorials and
+presentations.  Sessions are recorded to ogg theora files for later
+playback.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://live.gnome.org/Istanbul'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

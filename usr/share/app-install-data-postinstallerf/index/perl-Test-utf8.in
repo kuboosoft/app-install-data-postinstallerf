@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-utf8</b>'
+Comment='<span size="xx-large">Handy utf8 tests</span>'
+Comment3='
+This module is a collection of tests thats useful when dealing with utf8
+strings in Perl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-utf8/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

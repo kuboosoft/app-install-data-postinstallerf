@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-heroku-api-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-heroku-api</span>'
+Comment3='
+Documentation for rubygem-heroku-api
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/heroku/heroku.rb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

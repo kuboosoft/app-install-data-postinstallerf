@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>uthash-devel</b>'
+Comment='<span size="xx-large">Development files for uthash</span>'
+Comment3='
+This package contains libraries and header files for
+developing applications that use uthash.
+'
+License='BSD'
+Screenshot=''
+Url='http://troydhanson.github.io/uthash'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

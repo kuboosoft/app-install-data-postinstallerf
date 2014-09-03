@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-pause</b>'
+Comment='<span size="xx-large">Node.js module to pause streams</span>'
+Comment3='
+Node.js module to pause streams.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/node-pause'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

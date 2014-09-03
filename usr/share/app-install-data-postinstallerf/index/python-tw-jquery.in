@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-tw-jquery</b>'
+Comment='<span size="xx-large">ToscaWidgets wrapping for jQuery</span>'
+Comment3='
+ToscaWidgets wrapping for jQuery
+'
+License='MIT'
+Screenshot=''
+Url='http://toscawidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

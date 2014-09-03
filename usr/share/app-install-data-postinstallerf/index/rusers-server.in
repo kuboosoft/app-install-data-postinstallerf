@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>rusers-server</b>'
+Comment='<span size="xx-large">Server for the rusers protocol</span>'
+Comment3='
+The rusers program allows users to find out who is logged into various
+machines on the local network.  The rusers command produces output
+similar to who, but for the specified list of hosts or for all
+machines on the local network. The rusers-server package contains the
+server for responding to rusers requests.
+
+Install rusers-server if you want remote users to be able to see
+who is logged into your machine.
+'
+License='BSD'
+Screenshot=''
+Url='http://rstatd.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

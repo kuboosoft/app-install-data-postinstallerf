@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>rfdump</b>'
+Comment='<span size="xx-large">RFID tags detector</span>'
+Comment3='
+RFDump is a tool to detect RFID-Tags and show their meta information
+Tag ID, Tag Type, manufacturer etc. The user data memory of a tag can
+be displayed and modified using either a Hex or an ASCII editor. Tag
+contents can be stored and loaded using a specific XML fomrat. This
+effectively allows to copy data from one tag to another. In addition,
+the integrated cookie feature demonstrates how easy it is for a
+company to abuse RFID technology to spy on their customers.  RFDump
+works with the ACG Multi-Tag Reader or similar card reader hardware.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rfdump.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

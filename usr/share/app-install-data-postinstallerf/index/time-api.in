@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>time-api</b>'
+Comment='<span size="xx-large">JSR-310 - Date and Time API</span>'
+Comment3='
+This JSR will provide a new and improved date and
+time API for Java.
+'
+License='BSD and GPLv2+ and Public Domain'
+Screenshot=''
+Url='http://threeten.github.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

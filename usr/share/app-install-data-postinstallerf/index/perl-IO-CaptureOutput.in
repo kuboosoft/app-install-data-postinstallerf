@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-IO-CaptureOutput</b>'
+Comment='<span size="xx-large">Capture STDOUT/STDERR from sub-processes and XS/C modules</span>'
+Comment3='
+Capture STDOUT/STDERR from sub-processes and XS/C modules.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-CaptureOutput'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

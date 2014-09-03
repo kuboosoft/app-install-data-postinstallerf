@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libindi</b>'
+Comment='<span size="xx-large">Instrument Neutral Distributed Interface</span>'
+Comment3='
+INDI is a distributed control protocol designed to operate
+astronomical instrumentation. INDI is small, flexible, easy to parse,
+and scalable. It supports common DCS functions such as remote control,
+data acquisition, monitoring, and a lot more.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.indilib.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

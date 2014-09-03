@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-geojson</b>'
+Comment='<span size="xx-large">Encoder/decoder for simple GIS features</span>'
+Comment3='
+Geojson provides geometry, feature, and collection classes, and supports
+pickle-style dump and load of objects that provide the labs Python geo
+interface.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/geojson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

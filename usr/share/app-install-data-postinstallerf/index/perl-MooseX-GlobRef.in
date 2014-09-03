@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-MooseX-GlobRef</b>'
+Comment='<span size="xx-large">Store a Moose object in glob reference</span>'
+Comment3='
+This meta-policy allows to store Moose object in glob reference or file
+handle. The class attributes will be stored in anonymous hash associated
+with glob reference. It allows to create a Moose version of IOHandle.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-GlobRef/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

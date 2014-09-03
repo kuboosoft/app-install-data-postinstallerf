@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Devel-REPL</b>'
+Comment='<span size="xx-large">Modern perl interactive shell</span>'
+Comment3='
+This is an interactive shell for Perl, commonly known as a REPL - Read,
+Evaluate, Print, Loop. The shell provides for rapid development or testing
+of code without the need to create a temporary source code file.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-REPL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

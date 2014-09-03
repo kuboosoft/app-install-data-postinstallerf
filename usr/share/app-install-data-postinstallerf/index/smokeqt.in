@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>smokeqt</b>'
+Comment='<span size="xx-large">Bindings for Qt libraries</span>'
+Comment3='
+This package includes Bindings for Qt libraries.
+
+URL          https//projects.kde.org/projects/kde/kdebindings/smoke
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdebindings/smoke'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>redhat-lsb-supplemental</b>'
+Comment='<span size="xx-large">LSB supplemental dependencies required by LSB certification tests</span>'
+Comment3='
+This subpackage brings in supplemental dependencies for components required for
+passing LSB (Linux Standard Base) certification testsuite, but not directly required
+to be on LSB conforming system.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.linuxfoundation.org/collaborate/workgroups/lsb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

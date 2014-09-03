@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>aether-transport-http</b>'
+Comment='<span size="xx-large">Aether Transport HTTP</span>'
+Comment3='
+Aether is a standalone library to resolve, install and deploy
+artifacts the Maven way.  This package provides a transport
+implementation for repositories using http// and https// URLs.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/aether'
+implementation for repositories using http:// and https:// URLs.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

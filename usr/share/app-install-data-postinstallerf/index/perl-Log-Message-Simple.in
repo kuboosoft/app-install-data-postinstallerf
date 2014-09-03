@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Log-Message-Simple</b>'
+Comment='<span size="xx-large">Simplified interface to Log::Message</span>'
+Comment3='
+This module is a simplified front-end to LogMessage, offering
+most common use for logging, and easy access to the stack (in both
+raw and pretty-printable form).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Log-Message-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

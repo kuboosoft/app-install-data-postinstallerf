@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>datovka</b>'
+Comment='<span size="xx-large">A free graphical interface for Czech Databox (Datov? schr?nky)</span>'
+Comment3='
+GUI application allowing access to Czech Databox - an electronic communication
+interface endorsed by the Czech government.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://labs.nic.cz/datove-schranky/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

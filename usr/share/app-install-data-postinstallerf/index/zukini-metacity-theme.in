@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zukini-metacity-theme</b>'
+Comment='<span size="xx-large">Zukini Metacity themes</span>'
+Comment3='
+Themes for Metacity as part of the Zukini theme.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://lassekongo83.deviantart.com/art/Zukini-272660042'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

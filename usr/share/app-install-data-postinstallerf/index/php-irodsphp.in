@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-irodsphp</b>'
+Comment='<span size="xx-large">PHP client API for iRODS</span>'
+Comment3='
+PRODS is a PHP client API for iRODS (http//www.irods.org). It talks to
+an iRODS server directly via sockets with a native iRODS XML protocol.
+'
+License='BSD'
+Screenshot=''
+Url='https://code.renci.org/gf/project/irodsphp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

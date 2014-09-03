@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-cs</b>'
+Comment='<span size="xx-large">Czech/Slovak-tuned Computer Modern fonts</span>'
+Comment3='
+The fonts are provided as Metafont source; Type 1 format
+versions (csfonts-t1) are also available.
+
+date 2012-04-25 130932 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

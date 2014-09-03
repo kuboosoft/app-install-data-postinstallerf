@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mupen64plus-extraplugins</b>'
+Comment='<span size="xx-large">Additional plugins for Mupen64Plus</span>'
+Comment3='
+Additional plugins for Mupen64Plus
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/mupen64plus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

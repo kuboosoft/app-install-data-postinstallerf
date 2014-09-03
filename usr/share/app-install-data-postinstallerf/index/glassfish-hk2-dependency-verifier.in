@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-hk2-dependency-verifier</b>'
+Comment='<span size="xx-large">HK2 Static Analyser for verifying module dependency</span>'
+Comment3='
+HK2 Static Analyser for verifying module dependency.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://hk2.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

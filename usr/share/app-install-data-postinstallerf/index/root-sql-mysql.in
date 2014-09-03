@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>root-sql-mysql</b>'
+Comment='<span size="xx-large">MySQL client plugin for ROOT</span>'
+Comment3='
+This package contains the MySQL plugin for ROOT. This plugin
+provides a thin client (interface) to MySQL servers. Using this
+client, one can obtain information from a MySQL database into the
+ROOT environment.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>geoclue-gui</b>'
+Comment='<span size="xx-large">Testing gui for geoclue</span>'
+Comment3='
+Testing gui for geoclue
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://geoclue.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

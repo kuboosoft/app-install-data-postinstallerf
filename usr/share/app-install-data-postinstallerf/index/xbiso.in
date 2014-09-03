@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xbiso</b>'
+Comment='<span size="xx-large">ISO extraction utility for xdvdfs images</span>'
+Comment3='
+xbiso is an ISO extraction utility for xdvdfs images.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/xbiso/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

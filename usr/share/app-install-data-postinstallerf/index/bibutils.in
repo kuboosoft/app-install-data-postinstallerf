@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bibutils</b>'
+Comment='<span size="xx-large">Bibliography conversion tools</span>'
+Comment3='
+The bibutils package converts between various bibliography
+formats using a common MODS-format XML intermediate.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/p/bibutils/home/Bibutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

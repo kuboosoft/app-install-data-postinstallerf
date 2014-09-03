@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bkchem</b>'
+Comment='<span size="xx-large">Chemical drawing program</span>'
+Comment3='
+BKChem is a free chemical drawing program. It was conceived and
+written by Beda Kosata.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://bkchem.zirael.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sems-conference</b>'
+Comment='<span size="xx-large">Conferencing application</span>'
+Comment3='
+Conferencing application for SEMS.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.iptel.org/sems'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

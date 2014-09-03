@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>file-roller-nautilus</b>'
+Comment='<span size="xx-large">File Roller extension for nautilus</span>'
+Comment3='
+This package contains the file-roller extension for the nautilus file manger.
+It adds an item to the nautilus context menu that lets you compress files
+or directories.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/file-roller/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

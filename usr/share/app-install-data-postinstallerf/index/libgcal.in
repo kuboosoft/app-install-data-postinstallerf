@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libgcal</b>'
+Comment='<span size="xx-large">A library to access google calendar events and contacts</span>'
+Comment3='
+This is a library to access google calendar events and contacts, its purpose is
+   - provide easy access to available events/contacts
+   - enable common operations add, delete, edit
+   - have few dependencies (up until now, only requires libcurl and libxml)
+
+It implements Google Data API 2.0 and is tested on Linux and MacOSX.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/libgcal/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

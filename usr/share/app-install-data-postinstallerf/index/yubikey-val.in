@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yubikey-val</b>'
+Comment='<span size="xx-large">The YubiKey Validation Server</span>'
+Comment3='
+This is a server that validates Yubikey OTPs. It is written in PHP, for use
+with web servers such as Apache
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/yubikey-val-server-php/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

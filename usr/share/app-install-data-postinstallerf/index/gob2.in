@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gob2</b>'
+Comment='<span size="xx-large">The GObject Builder</span>'
+Comment3='
+GOB is a simple preprocessor for making GObject objects (glib objects).
+It makes objects from a single file which has inline C code so that
+you dont have to edit the generated files.  Syntax is somewhat inspired
+by java and yacc.  It supports generating C++ code
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.5z.com/jirka/gob.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

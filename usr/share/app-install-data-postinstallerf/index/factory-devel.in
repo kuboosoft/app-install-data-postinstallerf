@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>factory-devel</b>'
+Comment='<span size="xx-large">C++ class library for multivariate polynomial data</span>'
+Comment3='
+Factory is a C++ class library that implements a recursive representation
+of multivariate polynomial data.
+
+'
+License='BSD and LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.singular.uni-kl.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

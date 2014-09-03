@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pocketsphinx</b>'
+Comment='<span size="xx-large">Real-time speech recognition</span>'
+Comment3='
+PocketSphinx is a version of the open-source Sphinx-II speech recognition
+system which is able to recognize speech in real-time.  While it may be
+somewhat less accurate than the offline speech recognizers, it is lightweight
+enough to run on handheld and embedded devices.
+'
+License='BSD'
+Screenshot=''
+Url='http://cmusphinx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

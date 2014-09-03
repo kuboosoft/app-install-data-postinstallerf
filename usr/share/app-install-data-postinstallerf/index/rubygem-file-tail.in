@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-file-tail</b>'
+Comment='<span size="xx-large">File::Tail for Ruby</span>'
+Comment3='
+Library to tail files in Ruby
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://flori.github.com/file-tail'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

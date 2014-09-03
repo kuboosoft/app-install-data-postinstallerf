@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-powerdot-FUBerlin</b>'
+Comment='<span size="xx-large">Powerdot, using the style of FU Berlin</span>'
+Comment3='
+The bundle provides a powerdot-derived class and a package for
+use with powerdot to provide the corporate design of the Free
+University in Berlin. Users may use the class itself
+(FUpowerdot) or use the package in the usual way with
+\style=BerlinFU as a class option. Examples of using both the
+class and the package are provided; the PDF is visually
+identical, so the catalogue only lists one; the sources of the
+examples do of course differ.
+
+date 2009-07-30 215753 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

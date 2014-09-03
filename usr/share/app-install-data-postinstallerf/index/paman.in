@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>paman</b>'
+Comment='<span size="xx-large">Management tool for PulseAudio</span>'
+Comment3='
+PulseAudio Manager (paman) is a simple GTK frontend for the PulseAudio sound
+server. With paman you may browser most of PulseAudios internals. There is
+support for changing volume of sinks and sink outputs. Youre able to play
+samples from the sample cache.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://0pointer.de/lennart/projects/paman'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

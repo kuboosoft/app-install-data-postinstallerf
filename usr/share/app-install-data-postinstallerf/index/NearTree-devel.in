@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>NearTree-devel</b>'
+Comment='<span size="xx-large">Development tools for compiling programs using NearTree</span>'
+Comment3='
+The NearTree-devel package includes the header and library files for
+developing applications that use NearTree.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://neartree.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

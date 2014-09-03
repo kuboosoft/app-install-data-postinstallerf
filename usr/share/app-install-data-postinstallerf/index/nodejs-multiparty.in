@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-multiparty</b>'
+Comment='<span size="xx-large">A multipart/form-data parser for Node.js which supports streaming</span>'
+Comment3='
+A multipart/form-data parser for Node.js which supports streaming.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/andrewrk/node-multiparty'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

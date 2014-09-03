@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-dk-bib</b>'
+Comment='<span size="xx-large">Danish variants of standard BibTeX styles</span>'
+Comment3='
+Dk-bib is a translation of the four standard BibTeX style files
+(abbrv, alpha, plain and unsrt) and the apalike style file into
+Danish. The files have been extended with URL, ISBN, ISSN,
+annote and printing fields which can be enabled through a LaTeX
+style file. Dk-bib also comes with a couple of Danish sorting
+order files for BibTeX8.
+
+date 2009-09-25 225435 +0200
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+Danish. The files have been extended with URL, ISBN, ISSN,'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wallaby-http-server</b>'
+Comment='<span size="xx-large">Wallaby web service interface</span>'
+Comment3='
+The Wallaby HTTP server is a read-only web service gateway to Wallaby
+configuration information.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/grid/wallaby.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

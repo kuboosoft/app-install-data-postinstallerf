@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>spec-version-maven-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for spec-version-maven-plugin</span>'
+Comment3='
+This package contains javadoc for spec-version-maven-plugin.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://glassfish.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

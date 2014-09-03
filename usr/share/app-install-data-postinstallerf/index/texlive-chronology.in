@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-chronology</b>'
+Comment='<span size="xx-large">Provides a horizontal timeline</span>'
+Comment3='
+A timeline package that allows labelling of events with per-day
+granularity. Other features include relative positioning with
+unit specification, adjustable tick mark step size, and scaling
+to specified width.
+
+date 2013-04-05 175033 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

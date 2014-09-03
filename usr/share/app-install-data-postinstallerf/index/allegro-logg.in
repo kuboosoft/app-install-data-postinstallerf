@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>allegro-logg</b>'
+Comment='<span size="xx-large">OGG/Vorbis library for the Allegro game library</span>'
+Comment3='
+LOGG is an Allegro add-on library for playing OGG/Vorbis audio files.
+
+URL          http//trent.gamblin.ca/logg/
+'
+License='MIT'
+Screenshot=''
+Url='http://trent.gamblin.ca/logg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

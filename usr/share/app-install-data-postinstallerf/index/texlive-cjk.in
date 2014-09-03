@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-cjk</b>'
+Comment='<span size="xx-large">CJK language support</span>'
+Comment3='
+CJK is a macro package for LaTeX, providing simultaneous
+support for various Asian scripts in many encodings (including
+Unicode) - Chinese (both traditional and simplified), -
+Japanese, - Korean and - Thai. A special add-on feature is an
+interface to the Emacs editor (cjk-enc.el) which gives
+simultaneous, easy-to-use support to a bunch of other scripts
+in addition to the above - Cyrillic, - Greek, - Latin-based
+scripts, - Russian and - Vietnamese.
+
+date 2012-05-09 202735 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

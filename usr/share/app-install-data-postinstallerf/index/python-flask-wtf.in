@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-flask-wtf</b>'
+Comment='<span size="xx-large">Simple integration of Flask and WTForms</span>'
+Comment3='
+Flask-WTF offers simple integration with WTForms. This integration
+includes optional CSRF handling for greater security.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/lepture/flask-wtf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

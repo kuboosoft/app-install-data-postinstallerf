@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gpsdrive</b>'
+Comment='<span size="xx-large">A GPS based navigation tool</span>'
+Comment3='
+Gpsdrive is a map-based navigation system.
+It displays your position on a zoomable map
+provided from a NMEA-capable GPS receiver. The maps are autoselected
+for the best resolution, depending of your position, and the displayed
+image can be zoomed. Maps can be downloaded from the Internet with one
+mouse click. The program provides information about speed, direction,
+bearing, arrival time, actual position, and target position.
+Speech output is also available. MySQL is supported.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gpsdrive.de/index.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

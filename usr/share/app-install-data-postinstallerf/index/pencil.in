@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pencil</b>'
+Comment='<span size="xx-large">A sketching and GUI prototyping tool</span>'
+Comment3='
+Pencil is an open source GUI prototyping and sketching tools released under GPL.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://code.google.com/p/evoluspencil/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jemalloc-devel</b>'
+Comment='<span size="xx-large">Development files for jemalloc</span>'
+Comment3='
+The jemalloc-devel package contains libraries and header files for
+developing applications that use jemalloc.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.canonware.com/jemalloc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

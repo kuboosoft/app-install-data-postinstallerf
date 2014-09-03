@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>conmux</b>'
+Comment='<span size="xx-large">ConMux - The Console Multiplexor</span>'
+Comment3='
+Conmux is a console management program designed to support a large
+number of console devices and simultaneous users.  It currently supports
+IBMs blade and hmc servers.
+
+Its features include
+  - driver interface abstracts how to connect to the console
+  - helpers for dealing with autobooting
+  - can support additional commands for dealing with power management
+  - allows multiple clients to be connected to the same console
+'
+License='GPLv2'
+Screenshot=''
+Url='http://test.kernel.org/autotest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

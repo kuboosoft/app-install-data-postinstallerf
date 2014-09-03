@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>woden</b>'
+Comment='<span size="xx-large">Web Service Description Language (WSDL) validating parser</span>'
+Summary      Web Service Description Language (WSDL) validating parser
+Source       woden-1.0-0.7.M9.fc20.src.rpm
+Comment3='
+The Woden project is a sub-project of the Apache Web Services Project
+to develop a Java class library for reading, manipulating, creating
+and writing WSDL documents, initially to support WSDL 2.0 but with the
+longer term aim of supporting past, present and future versions of WSDL.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ws.apache.org/woden/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

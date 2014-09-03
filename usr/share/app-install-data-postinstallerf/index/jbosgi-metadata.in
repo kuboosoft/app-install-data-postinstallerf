@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jbosgi-metadata</b>'
+Comment='<span size="xx-large">JBoss OSGi Metadata</span>'
+Comment3='
+This package contains the JBoss OSGi Metadata.
+'
+License='LGPLv2+ and LGPLv2 and ASL 2.0'
+Screenshot=''
+Url='http://community.jboss.org/wiki/JBossOSGi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

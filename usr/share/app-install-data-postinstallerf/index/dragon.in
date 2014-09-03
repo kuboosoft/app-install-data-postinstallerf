@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dragon</b>'
+Comment='<span size="xx-large">Media player</span>'
+Comment3='
+Media player.
+'
+License='(GPLv2 or GPLv3) and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdemultimedia/dragon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gfalFS</b>'
+Comment='<span size="xx-large">Filesystem client based on GFAL 2.0</span>'
+Comment3='
+gfalFS is a filesystem based on FUSE capable of operating on remote storage
+systems managed by GFAL 2.0. This include the common file access protocols
+in lcg ( SRM, GRIDFTP, DCAP, RFIO, LFN, ...). The practical effect is that
+the user can seamlessly interact with grid and cloud storage systems just
+as if they were local files.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

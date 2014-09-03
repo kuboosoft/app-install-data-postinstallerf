@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libkexif-devel</b>'
+Comment='<span size="xx-large">Development files for libkexif</span>'
+Comment3='
+Development files for libkexif.
+This package contains the files needed to build applications with libkexif
+support.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://extragear.kde.org/apps/kipi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

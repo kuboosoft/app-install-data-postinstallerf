@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>opensips-b2bua</b>'
+Comment='<span size="xx-large">Back-2-Back User Agent</span>'
+Comment3='
+B2BUA is an implementation of the behavior of a B2BUA as defined in RFC 3261
+that offers the possibility to build certain services on top of it.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-frontespizio</b>'
+Comment='<span size="xx-large">Create a frontispiece for Italian theses</span>'
+Comment3='
+Typesetting a frontispiece independently of the layout of the
+main document is difficult. This package provides a solution by
+producing an auxiliary TeX file to be typeset on its own and
+the result is automatically included at the next run. The
+markup necessary for the frontispiece is written in the main
+document in a frontespizio environment. Documentation is mainly
+in Italian, as the style is probably apt only to theses in
+Italy.
+
+date 2011-09-21 154555 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

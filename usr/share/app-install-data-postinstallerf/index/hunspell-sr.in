@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-sr</b>'
+Comment='<span size="xx-large">Serbian hunspell dictionaries</span>'
+Comment3='
+Serbian hunspell dictionaries.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/project/dict-sr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

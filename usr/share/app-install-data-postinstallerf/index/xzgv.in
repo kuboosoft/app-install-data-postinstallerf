@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xzgv</b>'
+Comment='<span size="xx-large">Picture viewer</span>'
+Comment3='
+A picture viewer with a thumbnail-based file selector.  Many file
+formats are supported, and the thumbnails used are compatible with xv,
+zgv and the Gimp.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/xzgv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

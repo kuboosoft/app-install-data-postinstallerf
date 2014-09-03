@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-stix</b>'
+Comment='<span size="xx-large">OpenType Unicode maths fonts</span>'
+Comment3='
+The STIX fonts are a suite of unicode OpenType fonts containing
+a complete set of mathematical glyphs. The CTAN copy is a
+mirror of their official release, organised as specified by the
+TeX Directory Structure, for inclusion in standard TeX
+distributions.
+
+date 2011-12-20 125609 +0100
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

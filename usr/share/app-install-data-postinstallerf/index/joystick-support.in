@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>joystick-support</b>'
+Comment='<span size="xx-large">Load joystick / game pad drivers at boot time</span>'
+Comment3='
+By default the joystick and game pad drivers are not loaded at boot time. Nor
+are they installed by default. Installing this package will load the main
+joystick and game pad drivers as part of the install, will bring in
+kernel-modules-extra if it isnt already, and will set things so that they
+will be loaded during future boots.
+'
+License='MIT'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

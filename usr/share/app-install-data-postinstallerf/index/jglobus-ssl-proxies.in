@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jglobus-ssl-proxies</b>'
+Comment='<span size="xx-large">Globus Java - SSL and proxy certificate support</span>'
+Comment3='
+Globus Java library with SSL and proxy certificate support
+'
+License='ASL 2.0 and MIT'
+Screenshot=''
+Url='http://github.com/jglobus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

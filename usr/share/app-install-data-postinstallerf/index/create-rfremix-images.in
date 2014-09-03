@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>create-rfremix-images</b>'
+Comment='<span size="xx-large">Scripts to build RFRemix install media and live CD/DVD</span>'
+Comment3='
+This package contains scripts for creating various images of
+RFRemix and Fedora.
+
+create-install-images create installation DVD/CD images of
+RFRemix/Fedora
+create-live create live CD/DVD images of current RFRemix
+'
+License='GPLv2'
+Screenshot=''
+Url='http://russianfedora.ru'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

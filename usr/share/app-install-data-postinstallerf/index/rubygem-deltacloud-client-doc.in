@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-deltacloud-client-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-deltacloud-client</span>'
+Comment3='
+Documentation for rubygem-deltacloud-client
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.deltacloud.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-tikz-cd</b>'
+Comment='<span size="xx-large">Create commutative diagrams with TikZ</span>'
+Comment3='
+The general-purpose drawing package TiKZ can be used to typeset
+commutative diagrams and other kinds of mathematical pictures,
+generating high-quality results. The purpose of this package is
+to make the process of creation of such diagrams easier by
+providing a convenient set of macros and reasonable default
+settings. This package also includes an arrow tip library that
+match closely the arrows present in the Computer Modern
+typeface.
+
+date 2013-01-02 180112 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

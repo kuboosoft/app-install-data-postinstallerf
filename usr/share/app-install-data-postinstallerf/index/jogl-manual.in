@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jogl-manual</b>'
+Comment='<span size="xx-large">User manual for jogl</span>'
+Comment3='
+User manual for jogl
+'
+License='MIT and BSD'
+Screenshot=''
+Url='http://jogl.dev.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

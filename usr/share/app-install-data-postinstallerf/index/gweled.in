@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gweled</b>'
+Comment='<span size="xx-large">Swapping gem game</span>'
+Comment3='
+Gweled is a Gnome version of a popular PalmOS/Windows/Java game called
+"Bejeweled" or "Diamond Mine". The aim of the game is to make alignment of 3 or
+more gems, both vertically or horizontally by swapping adjacent gems. The game
+ends when there are no possible moves left.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://launchpad.net/gweled'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

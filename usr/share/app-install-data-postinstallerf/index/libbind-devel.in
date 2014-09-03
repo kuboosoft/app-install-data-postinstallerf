@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libbind-devel</b>'
+Comment='<span size="xx-large">Header files for ISCs libbind</span>'
+Comment3='
+libbind-devel provides header files and documentation for development with
+ISCs libbind
+
+'
+License='ISC'
+Screenshot=''
+Url='ftp://ftp.isc.org/isc/libbind/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

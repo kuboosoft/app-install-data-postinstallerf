@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-newsletr</b>'
+Comment='<span size="xx-large">Macros for making newsletters with Plain TeX</span>'
+Comment3='
+newsletr package
+
+date 2006-12-22 191447 +0100
+'
+License='Newsletr'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

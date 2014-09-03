@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kxml</b>'
+Comment='<span size="xx-large">Small XML pull parser</span>'
+Comment3='
+kXML is a small XML pull parser, specially designed for constrained
+environments such as Applets, Personal Java or MIDP devices.
+'
+License='MIT'
+Screenshot=''
+Url='http://kxml.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

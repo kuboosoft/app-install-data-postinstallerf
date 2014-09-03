@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-combinat</b>'
+Comment='<span size="xx-large">R routines for combinatorics</span>'
+Comment3='
+R routines for combinatorics
+'
+License='GPLv2'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/combinat/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

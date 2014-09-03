@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>evolution-devel</b>'
+Comment='<span size="xx-large">Development files for building against evolution</span>'
+Comment3='
+Development files needed for building things which link against evolution.
+
+URL          http//projects.gnome.org/evolution/
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/evolution/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

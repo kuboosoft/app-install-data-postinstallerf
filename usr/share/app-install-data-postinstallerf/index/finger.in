@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>finger</b>'
+Comment='<span size="xx-large">The finger client</span>'
+Comment3='
+Finger is a utility which allows users to see information about system
+users (login name, home directory, name, how long theyve been logged
+in to the system, etc.).  The finger package includes a standard
+finger client.
+
+You should install finger if youd like to retrieve finger information
+from other systems.
+'
+License='BSD'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

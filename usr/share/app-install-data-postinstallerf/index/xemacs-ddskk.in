@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xemacs-ddskk</b>'
+Comment='<span size="xx-large">Compiled elisp files to run Daredevil SKK under XEmacs</span>'
+Comment3='
+This package contains the byte compiled elisp packages to use Daredevil SKK with
+XEmacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openlab.ring.gr.jp/skk/main.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

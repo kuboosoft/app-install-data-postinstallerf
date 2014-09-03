@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rsyslog-snmp</b>'
+Comment='<span size="xx-large">SNMP protocol support for rsyslog</span>'
+Comment3='
+The rsyslog-snmp package contains the rsyslog plugin that provides the
+ability to send syslog messages as SNMPv1 and SNMPv2c traps.
+'
+License='(GPLv3+ and ASL 2.0)'
+Screenshot=''
+Url='http://www.rsyslog.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

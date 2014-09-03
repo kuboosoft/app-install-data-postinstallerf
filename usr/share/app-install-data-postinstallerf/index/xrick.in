@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>xrick</b>'
+Comment='<span size="xx-large">A clone of the game Rick Dangerous</span>'
+Comment3='
+xrick is a clone of Rick Dangerous. Written entirely in C, it relies
+on the Simple DirectMedia Layer library and has been ported to Linux
+(its primary target). Way before Lara Croft, back in the 1980s and
+early 1990s, Rick Dangerous was the Indiana Jones of computer games,
+running away from rolling rocks and avoiding traps in places from
+South America to a futuristic missile base via Egypt and the
+Schwarzendumpf castle.
+'
+License='Distributable'
+Screenshot=''
+Url='http://www.bigorno.net/xrick/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

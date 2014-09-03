@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lexertl-examples</b>'
+Comment='<span size="xx-large">Example code for use with lexertl</span>'
+Comment3='
+Example code for use with lexertl.
+'
+License='Boost'
+Screenshot=''
+Url='http://www.benhanson.net/lexertl.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

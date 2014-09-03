@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>protobuf-devel</b>'
+Comment='<span size="xx-large">Protocol Buffers C++ headers and libraries</span>'
+Comment3='
+This package contains Protocol Buffers compiler for all languages and
+C++ headers and libraries
+
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/protobuf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

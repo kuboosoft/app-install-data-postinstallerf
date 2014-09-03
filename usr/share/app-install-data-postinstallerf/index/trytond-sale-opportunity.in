@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>trytond-sale-opportunity</b>'
+Comment='<span size="xx-large">sale-opportunity module for Tryton</span>'
+Comment3='
+sale-opportunity module for Tryton application server.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.tryton.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

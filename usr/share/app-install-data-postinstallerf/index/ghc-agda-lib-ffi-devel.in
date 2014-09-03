@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-agda-lib-ffi-devel</b>'
+Comment='<span size="xx-large">Haskell agda-lib-ffi library development files</span>'
+Comment3='
+This package provides the Haskell agda-lib-ffi library development files.
+'
+License='MIT'
+Screenshot=''
+Url='http://wiki.portal.chalmers.se/agda/agda.php?n=Libraries.StandardLibrary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

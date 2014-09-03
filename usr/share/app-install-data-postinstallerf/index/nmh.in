@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>nmh</b>'
+Comment='<span size="xx-large">A capable mail handling system with a command line interface.</span>'
+Comment3='
+Nmh is an email system based on the MH email system and is intended to
+be a (mostly) compatible drop-in replacement for MH.  Nmh isnt a
+single comprehensive program.  Instead, it consists of a number of
+fairly simple single-purpose programs for sending, receiving, saving,
+retrieving and otherwise manipulating email messages.  You can freely
+intersperse nmh commands with other shell commands or write custom
+scripts which utilize nmh commands.  If you want to use nmh as a true
+email user agent, youll want to also install exmh to provide a user
+'
+License='BSD'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/nmh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

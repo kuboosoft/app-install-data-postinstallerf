@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>why3-xemacs</b>'
+Comment='<span size="xx-large">XEmacs support file for why3 files</span>'
+Comment3='
+This package contains an XEmacs support file for working with why3 files.
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://why3.lri.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

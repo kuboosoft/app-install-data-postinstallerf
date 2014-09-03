@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-dev-scripts</b>'
+Comment='<span size="xx-large">KDE SDK scripts</span>'
+Comment3='
+KDE SDK scripts
+'
+License='GPLv2+ and GPLv2+ and BSD'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/kde-dev-scripts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

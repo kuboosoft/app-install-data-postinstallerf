@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-biblatex</b>'
+Comment='<span size="xx-large">Bibliographies in LaTeX using BibTeX for sorting only</span>'
+Comment3='
+Biblatex is a complete reimplementation of the bibliographic
+facilities provided by LaTeX in conjunction with BibTeX. It
+redesigns the way in which LaTeX interacts with BibTeX at a
+fairly fundamental level. With biblatex, BibTeX is only used
+(if it is used at all) to sort the bibliography and to generate
+labels. Formatting of the bibliography is entirely controlled
+by TeX macros (the BibTeX-based mechanism embeds some parts of
+formatting in the BibTeX style file. Good working knowledge in
+LaTeX should be sufficient to design new bibliography and
+citation styles; nothing related to BibTeXs language is
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

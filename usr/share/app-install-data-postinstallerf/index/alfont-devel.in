@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>alfont-devel</b>'
+Comment='<span size="xx-large">Development files for alfont</span>'
+Comment3='
+The alfont-devel package contains libraries and header files for
+developing applications that use alfont.
+
+'
+License='FTL'
+Screenshot=''
+Url='http://chernsha.sitesled.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

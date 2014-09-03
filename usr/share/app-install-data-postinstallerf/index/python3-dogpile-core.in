@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-dogpile-core</b>'
+Comment='<span size="xx-large">A dogpile lock, typically used as a component of a larger caching solution</span>'
+Comment3='
+A "dogpile" lock, one which allows a single thread to generate an expensive
+resource while other threads use the "old" value, until the "new" value is
+ready.
+
+Dogpile is basically the locking code extracted from the Beaker package,
+for simple and generic usage.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/dogpile.core'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

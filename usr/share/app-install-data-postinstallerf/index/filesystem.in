@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>filesystem</b>'
+Comment='<span size="xx-large">The basic directory layout for a Linux system</span>'
+Comment3='
+The filesystem package is one of the basic packages that is installed
+on a Linux system. Filesystem contains the basic directory layout
+for a Linux operating system, including the correct permissions for
+the directories.
+'
+License='Public Domain'
+Screenshot=''
+Url='https://fedorahosted.org/filesystem'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

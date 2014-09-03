@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>rubygem-prawn</b>'
+Comment='<span size="xx-large">A fast and nimble PDF generator for Ruby</span>'
+Comment3='
+Prawn is a pure Ruby PDF generation library that provides a lot of great
+functionality while trying to remain simple and reasonably performant.
+Here are some of the important features we provide
+
+- Vector drawing support, including lines, polygons, curves, ellipses, etc.
+- Extensive text rendering support, including flowing text and limited inline
+  formatting options.
+- Support for both PDF builtin fonts as well as embedded TrueType fonts
+- A variety of low level tools for basic layout needs, including a simple
+  grid system
+'
+License='(GPLv2 or GPLv3 or Ruby) and APAFML'
+Screenshot=''
+Url='http://prawn.majesticseacreature.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

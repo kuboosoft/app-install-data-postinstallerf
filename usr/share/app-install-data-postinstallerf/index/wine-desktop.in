@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wine-desktop</b>'
+Comment='<span size="xx-large">Desktop integration features for wine</span>'
+Comment3='
+Desktop integration features for wine, including mime-types and a binary format
+handler service.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-gcc</b>'
+Comment='<span size="xx-large">MinGW Windows cross-compiler (GCC) for C for the win32 target</span>'
+Comment3='
+MinGW Windows cross-compiler (GCC) for C for the win32 target.
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

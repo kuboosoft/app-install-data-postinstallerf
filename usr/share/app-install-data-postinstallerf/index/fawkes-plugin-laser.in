@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-laser</b>'
+Comment='<span size="xx-large">Fawkes plugin to access laser range finders</span>'
+Comment3='
+This package contains a Fawkes plugin to access laser range finders
+like the Hokuyo URG.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

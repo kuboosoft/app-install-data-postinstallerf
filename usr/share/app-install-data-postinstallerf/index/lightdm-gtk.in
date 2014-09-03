@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lightdm-gtk</b>'
+Comment='<span size="xx-large">LightDM GTK+ Greeter</span>'
+Comment3='
+A LightDM greeter that uses the GTK+ toolkit.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://launchpad.net/lightdm-gtk-greeter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

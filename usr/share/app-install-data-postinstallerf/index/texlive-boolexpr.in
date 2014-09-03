@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-boolexpr</b>'
+Comment='<span size="xx-large">A boolean expression evaluator and a switch command</span>'
+Comment3='
+The \boolexpr macro evaluates boolean expressions in a purely
+expandable way. \boolexpr{ A \OR B \AND C } expands to 0 if the
+logical expression is TRUE. A, B, C may be - numeric
+expressions such as x=y, x<>y, x>y or x<y; - boolean switches
+\iftrue 0\else 1\fi; - conditionals \ifcsname
+whatsit\endcsname 0\else 1\fi; - another \boolexpr \boolexpr{
+D \OR E \AND F } \boolexpr may be used with \ifcase
+\ifcase\boolexpr{ A \OR B \AND C } What to do if true \else
+What to do if false \fi The \switch command (which is also
+expandable) has the form \switch \case{<boolean expression>}
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

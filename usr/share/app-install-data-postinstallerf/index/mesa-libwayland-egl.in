@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mesa-libwayland-egl</b>'
+Comment='<span size="xx-large">Mesa libwayland-egl library</span>'
+Comment3='
+Mesa libwayland-egl runtime library.
+
+URL          http//www.mesa3d.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mesa3d.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

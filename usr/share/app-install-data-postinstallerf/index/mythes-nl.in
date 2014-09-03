@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-nl</b>'
+Comment='<span size="xx-large">Dutch thesaurus</span>'
+Comment3='
+Dutch thesaurus.
+'
+License='BSD or CC-BY'
+Screenshot=''
+Url='http://data.opentaal.org/opentaalbank/thesaurus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

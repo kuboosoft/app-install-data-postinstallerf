@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-colored</b>'
+Comment='<span size="xx-large">Extends ruby string class in order to colorize terminal output</span>'
+Comment3='
+Rubygem extending the ruby string class to include methods that generates
+colored terminal output.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/defunkt/colored'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

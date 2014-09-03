@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-channel-nrk</b>'
+Comment='<span size="xx-large">Adds pear.nrk.io channel to PEAR</span>'
+Comment3='
+This package adds the pear.nrk.io channel which allows PEAR packages
+from this channel to be installed.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://pear.nrk.io/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

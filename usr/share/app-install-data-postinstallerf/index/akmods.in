@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>akmods</b>'
+Comment='<span size="xx-large">Automatic kmods build and install tool</span>'
+Comment3='
+Akmods startup script will rebuild akmod packages during system
+boot while its background daemon will build them for kernels right
+after they were installed.
+'
+License='MIT'
+Screenshot=''
+Url='http://rpmfusion.org/Packaging/KernelModules/Akmods'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

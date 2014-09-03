@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>m17n-db-devel</b>'
+Comment='<span size="xx-large">Development files for m17n-db</span>'
+Comment3='
+m17n-db development files
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/m17n'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

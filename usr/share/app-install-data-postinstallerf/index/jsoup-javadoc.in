@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jsoup-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jsoup</span>'
+Comment3='
+API documentation for jsoup.
+'
+License='MIT'
+Screenshot=''
+Url='http://jsoup.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

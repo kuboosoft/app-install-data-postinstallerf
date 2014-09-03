@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>selinux-policy-targeted</b>'
+Comment='<span size="xx-large">SELinux targeted base policy</span>'
+Comment3='
+SELinux Reference policy targeted base module.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://oss.tresys.com/repos/refpolicy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

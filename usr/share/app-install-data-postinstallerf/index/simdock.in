@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>simdock</b>'
+Comment='<span size="xx-large">Fast and customizable dockbar</span>'
+Comment3='
+SimDock is a fast and customizable dockbar. It is written in c++ and
+wxWidgets and fits well in Gnome but works on most desktop
+environments. Does not require Compiz nor 3D acceleration.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/onli/simdock'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

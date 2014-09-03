@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>synce-sync-engine</b>'
+Comment='<span size="xx-large">Synce synchronization engine</span>'
+Comment3='
+Synce synchronization engine.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.synce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

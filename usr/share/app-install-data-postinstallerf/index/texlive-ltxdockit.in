@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-ltxdockit</b>'
+Comment='<span size="xx-large">Documentation support</span>'
+Comment3='
+This bundle, consisting of a simple wrapper class and some
+packages, forms a small LaTeX/BibTeX documentation kit; the
+author uses it for some of his own packages. The package is not
+supported users should not attempt its use unless they are
+capable of dealing with problems unaided. (The actual purpose
+of releasing the package is to make it possible for third
+parties to compile the documentation of other packages, should
+that be necessary.)
+
+date 2010-12-10 173244 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>minicomputer</b>'
+Comment='<span size="xx-large">Software Synthesizer</span>'
+Comment3='
+Minicomputer is a standalone Linux software synthesizer for creating
+experimental electronic sounds as its often used in but not limited to
+Industrial music, IDM, EBM, Glitch, sound design and minimal electronic. It is
+monophonic but can produce up to 8 different sounds at the same time. It uses
+Jack as realtime audio infrastructure and can be controlled via Midi.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://minicomputer.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

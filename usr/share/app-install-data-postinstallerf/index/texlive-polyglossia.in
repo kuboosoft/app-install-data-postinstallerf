@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-polyglossia</b>'
+Comment='<span size="xx-large">Modern multilingual typesetting with XeLaTeX</span>'
+Comment3='
+This package provides a complete Babel replacement for users of
+LuaLaTeX and XeLaTeX; it relies on the fontspec package,
+version 2.0 at least. This is the first release that supports
+use with LuaLaTeX; it should be considered "transitional" in
+that role.
+
+date 2013-05-28 182004 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

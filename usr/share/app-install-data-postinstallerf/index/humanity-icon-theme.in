@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>humanity-icon-theme</b>'
+Comment='<span size="xx-large">Humanity icon theme</span>'
+Comment3='
+Humanity and Humanity Dark are nice and well polished icon themes for the GNOME
+desktop.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://launchpad.net/humanity/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

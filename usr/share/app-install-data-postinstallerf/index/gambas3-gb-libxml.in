@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gambas3-gb-libxml</b>'
+Comment='<span size="xx-large">Gambas3 component package for libxml</span>'
+Comment3='
+Gambas3 component package for libxml
+'
+License='GPL+'
+Screenshot=''
+Url='http://gambas.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

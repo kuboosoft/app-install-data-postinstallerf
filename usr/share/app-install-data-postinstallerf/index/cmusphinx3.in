@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cmusphinx3</b>'
+Comment='<span size="xx-large">Large vocabulary speech recognition in C</span>'
+Comment3='
+Sphinx-3 is CMUs state-of-the-art large vocabulary speech recognition system.
+It uses Hidden Markov Models (HMM) with continuous output probability density
+functions (PDF).  It supports several modes of operation.  The more accurate
+mode, known as the "flat decoder", is descended from the original Sphinx-3
+release.  The faster mode, known as the "tree decoder", was developed
+separately.  The two decoders were merged in Sphinx 3.5, though the flat
+decoder was not fully functional until Sphinx 3.7.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.cmusphinx.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

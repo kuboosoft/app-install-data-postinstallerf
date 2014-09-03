@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>waffle-examples</b>'
+Comment='<span size="xx-large">Example programs using waffle</span>'
+Comment3='
+Example programs using waffle.
+'
+License='MIT'
+Screenshot=''
+Url='http://people.freedesktop.org/~chadversary/waffle/releases.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

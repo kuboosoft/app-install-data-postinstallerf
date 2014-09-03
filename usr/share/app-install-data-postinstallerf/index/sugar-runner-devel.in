@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-runner-devel</b>'
+Comment='<span size="xx-large">Development package for sugar-runner</span>'
+Comment3='
+Files for development with sugar-runner.
+
+URL          http//sugarlabs.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sugarlabs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

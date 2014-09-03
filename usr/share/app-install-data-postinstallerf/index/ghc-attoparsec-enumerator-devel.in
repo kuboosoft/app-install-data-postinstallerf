@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-attoparsec-enumerator-devel</b>'
+Comment='<span size="xx-large">Haskell attoparsec-enumerator library development files</span>'
+Comment3='
+This package provides the Haskell attoparsec-enumerator library development files.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/attoparsec-enumerator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

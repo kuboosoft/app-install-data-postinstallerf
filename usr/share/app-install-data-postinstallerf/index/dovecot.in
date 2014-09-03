@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>dovecot</b>'
+Comment='<span size="xx-large">Secure imap and pop3 server</span>'
+Comment3='
+Dovecot is an IMAP server for Linux/UNIX-like systems, written with security
+primarily in mind.  It also contains a small POP3 server.  It supports mail
+in either of maildir or mbox formats.
+
+The SQL drivers and authentication plug-ins are in their subpackages.
+'
+License='MIT and LGPLv2'
+Screenshot=''
+Url='http://www.dovecot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

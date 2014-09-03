@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cbmc</b>'
+Comment='<span size="xx-large">Bounded Model Checker for ANSI-C and C++ programs</span>'
+Comment3='
+CBMC generates traces that demonstrate how an assertion can be violated, or
+proves that the assertion cannot be violated within a given number of loop
+iterations.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.cprover.org/cbmc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

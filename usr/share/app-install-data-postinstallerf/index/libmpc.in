@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libmpc</b>'
+Comment='<span size="xx-large">C library for multiple precision complex arithmetic</span>'
+Comment3='
+
+MPC is a C library for the arithmetic of complex numbers with
+arbitrarily high precision and correct rounding of the result. It is
+built upon and follows the same principles as Mpfr.
+'
+License='LGPLv3+ and GFDL'
+Screenshot=''
+Url='http://www.multiprecision.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

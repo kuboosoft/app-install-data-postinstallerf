@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>hesiod</b>'
+Comment='<span size="xx-large">Shared libraries for querying the Hesiod naming service</span>'
+Comment3='
+Hesiod is a system which uses existing DNS functionality to provide access
+to databases of information that changes infrequently.  It is often used to
+distribute information kept in the /etc/passwd, /etc/group, and /etc/printcap
+files, among others.
+
+'
+License='MIT'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

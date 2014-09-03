@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>compat-libf2c-34</b>'
+Comment='<span size="xx-large">Fortran 77 compatibility runtime</span>'
+Comment3='
+This package contains Fortran 77 shared library which is needed to run
+Fortran 77 dynamically linked programs.
+
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

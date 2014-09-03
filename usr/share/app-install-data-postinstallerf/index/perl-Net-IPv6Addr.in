@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Net-IPv6Addr</b>'
+Comment='<span size="xx-large">Perl module to check validity of IPv6 addresses</span>'
+Comment3='
+NetIPv6Addr checks strings for valid IPv6 addresses, as specified in
+RFC1884. You throw possible addresses at it, it either accepts them or throws
+an exception.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-IPv6Addr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

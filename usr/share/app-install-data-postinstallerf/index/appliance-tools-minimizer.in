@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>appliance-tools-minimizer</b>'
+Comment='<span size="xx-large">Tool to minimize a appliance image</span>'
+Comment3='
+Tool that helps remove unwanted files from the appliance image.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://thincrust.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

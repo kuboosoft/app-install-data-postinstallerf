@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bleachbit</b>'
+Comment='<span size="xx-large">Python utility to free disk space and improve privacy</span>'
+Comment3='
+BleachBit deletes unnecessary files to free valuable disk space, maintain
+privacy, and remove junk. Rid your system of old clutter including cache,
+cookies, Internet history, localizations, logs, temporary files, and broken
+shortcuts. It wipes clean the cache and history list of many common programs.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://bleachbit.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

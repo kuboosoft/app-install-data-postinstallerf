@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nsnake</b>'
+Comment='<span size="xx-large">Classic snake game on console</span>'
+Comment3='
+nSnake is a implementation of the classic snake game with textual interface.
+It is playable at command-line and uses the nCurses C library for graphics.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.alexdantas.net/projects/nsnake/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

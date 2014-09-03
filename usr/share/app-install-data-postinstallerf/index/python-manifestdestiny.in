@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-manifestdestiny</b>'
+Comment='<span size="xx-large">Universal manifests for Mozilla test harnesses</span>'
+Comment3='
+Universal manifests for Mozilla test harnesses
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='https://wiki.mozilla.org/Auto-tools/Projects/MozBase'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

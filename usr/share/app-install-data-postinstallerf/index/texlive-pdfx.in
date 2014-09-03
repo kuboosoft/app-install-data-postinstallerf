@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-pdfx</b>'
+Comment='<span size="xx-large">PDF/X-1a and PDF/A-1b support for pdfTeX</span>'
+Comment3='
+The package helps LaTeX users to create PDF/X-1a and PFD/A-1b
+compliant pdf documents with pdfTeX.
+
+date 2009-05-04 110703 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>frepple-devel</b>'
+Comment='<span size="xx-large">The libraries and header files needed for frePPLe development</span>'
+Comment3='
+These are the libraries and header files need for developing plug-ins and
+extensions of frePPLe - free Production PLanning.
+
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://www.frepple.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

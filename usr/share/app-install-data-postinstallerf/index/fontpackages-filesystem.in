@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fontpackages-filesystem</b>'
+Comment='<span size="xx-large">Directories used by font packages</span>'
+Comment3='
+This package contains the basic directory layout used by font packages,
+including the correct permissions for the directories.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/fontpackages'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

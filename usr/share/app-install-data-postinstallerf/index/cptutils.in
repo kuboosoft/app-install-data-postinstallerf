@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>cptutils</b>'
+Comment='<span size="xx-large">Utilities to manipulate and translate color gradients</span>'
+Comment3='
+The cptutils package contains a number of utilities for the manipulation of
+color gradients; mainly for translating between different formats. Formats
+supported include ggr (GIMP gradient), cpt (GMT color palette table),
+avl (Arcview Legend), lut (xmedcon), svg, and version 3 of the grd format.
+
+The cptutils package was written to aid the construction of the cpt archive
+cpt-city http//soliton.vm.bytemark.co.uk/pub/cpt-city where thousands of
+gradients can be downloaded.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://soliton.vm.bytemark.co.uk/pub/jjg/en/code/cptutils.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

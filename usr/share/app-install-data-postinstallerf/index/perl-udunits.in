@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-udunits</b>'
+Comment='<span size="xx-large">Perl module for udunits</span>'
+Comment3='
+A perl module for udunits.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.unidata.ucar.edu/software/udunits/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

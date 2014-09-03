@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-flask-mongoengine</b>'
+Comment='<span size="xx-large">Flask extension that provides integration with MongoEngine</span>'
+Comment3='
+A Flask extension that provides integration with MongoEngine. It handles
+connection management for your app. You can also use WTForms as model forms
+for your models.
+'
+License='BSD'
+Screenshot=''
+Url='https://flask-mongoengine.readthedocs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

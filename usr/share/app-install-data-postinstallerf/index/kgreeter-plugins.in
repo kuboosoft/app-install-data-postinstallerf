@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kgreeter-plugins</b>'
+Comment='<span size="xx-large">KDE Greeter Plugin Components</span>'
+Comment3='
+KDE Greeter Plugin Components that are needed by KDM and Screensaver unlocking.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-workspace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

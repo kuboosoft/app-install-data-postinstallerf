@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>openser-seas</b>'
+Comment='<span size="xx-large">Transfers the execution logic control to a given external entity</span>'
+Comment3='
+SEAS module enables OpenSER to transfer the execution logic control of a sip
+message to a given external entity, called the Application Server. When the
+OpenSER script is being executed on an incoming SIP message, invocation of
+the as_relay_t() function makes this module send the message along with some
+transaction information to the specified Application Server. The Application
+Server then executes some call-control logic code, and tells OpenSER to take
+some actions, ie. forward the message downstream, or respond to the message
+with a SIP repy, etc
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

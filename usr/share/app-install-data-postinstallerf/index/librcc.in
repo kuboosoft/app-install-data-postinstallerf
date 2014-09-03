@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>librcc</b>'
+Comment='<span size="xx-large">RusXMMS Charset Conversion Library</span>'
+Comment3='
+The Abilities of LibRCC Library
+
+- Language Autodetection.
+- On the fly translation between languages, using online-services!
+- Encoding Autodetection for most of European Languages.
+- Support for encoding detection plugins (besides Enca and LibRCD)
+- Recoding/translation of multi-language playlists!
+- Cache to speed-up re-recoding.
+- Possibility to configure new languages and encodings.
+- Shared configuration file. For example mentioned TagLib and LibID3
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://rusxmms.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

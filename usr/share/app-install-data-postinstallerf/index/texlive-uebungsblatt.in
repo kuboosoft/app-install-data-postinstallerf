@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-uebungsblatt</b>'
+Comment='<span size="xx-large">A LaTeX class for writing exercise sheets</span>'
+Comment3='
+This package implements a LaTeX class for writing exercise
+sheets for a lecture. Features - quick typesetting of exercise
+sheets or their revisions, - simple user friendly commands, -
+elegant page formatting, - automatic numbering of exercises and
+sub-exercises, - the number of the exercise sheet is extracted
+automatically from the file name, - static information about
+the lectures and the authors needs to provided at one point
+only.
+
+date 2008-08-24 144348 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

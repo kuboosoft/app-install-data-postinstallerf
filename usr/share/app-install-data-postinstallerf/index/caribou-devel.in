@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>caribou-devel</b>'
+Comment='<span size="xx-large">Development files for caribou</span>'
+Comment3='
+The caribou-devel package contains libraries and header files for
+developing applications that use caribou.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/Caribou'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

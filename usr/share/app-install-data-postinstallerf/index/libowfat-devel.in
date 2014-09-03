@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libowfat-devel</b>'
+Comment='<span size="xx-large">Reimplementation of libdjb</span>'
+Comment3='
+This library is a reimplementation of libdjb, which means that it provides
+Daniel Bernsteins interfaces (with some extensions).
+
+It contains wrappers around memory allocation, buffered I/O, routines for
+formatting and scanning, a full DNS resolver, several socket routines,
+wrappers for socket functions, mkfifo, opendir, wait, and an abstraction
+around errno.  It also includes wrappers for Unix signal functions and a
+layer of mmap and sendfile.
+The library is available for use with the diet libc.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.fefe.de/libowfat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

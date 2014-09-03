@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>geda-gnetlist</b>'
+Comment='<span size="xx-large">Netlister for the gEDA project</span>'
+Comment3='
+Gnetlist generates netlists from schematics drawn with gschem
+(the gEDA schematic editor). Possible output formats are
+- native
+- tango
+- spice
+- allegro
+- PCB
+- verilog
+and others.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gpleda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

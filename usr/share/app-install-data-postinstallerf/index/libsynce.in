@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libsynce</b>'
+Comment='<span size="xx-large">Connection library for Pocket PC devices</span>'
+Comment3='
+The purpose of the SynCE project is to provide a means of
+communication with a Windows CE device from a computer running Linux,
+FreeBSD or a similar operating system.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.synce.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

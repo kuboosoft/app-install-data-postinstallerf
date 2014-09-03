@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ubuntu-title-fonts</b>'
+Comment='<span size="xx-large">A titling decorative font to create the lettering of the Ubuntu logo</span>'
+Comment3='
+Ubuntu-title is a font designed by Andrew Fitzsimon commissioned by Canonical,
+the sponsor of Ubuntu, to create the lettering of the Ubuntu logo.
+'
+License='OFL or GPLv2 with exceptions'
+Screenshot=''
+Url='https://launchpad.net/ubuntutitle'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

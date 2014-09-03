@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>givaro</b>'
+Comment='<span size="xx-large">C++ library for arithmetic and algebraic computations</span>'
+Comment3='
+Givaro is a C++ library for arithmetic and algebraic computations.
+Its main features are implementations of the basic arithmetic of many
+mathematical entities Primes fields, Extensions Fields, Finite Fields,
+Finite Rings, Polynomials, Algebraic numbers, Arbitrary precision
+integers and rationals (C++ wrappers over gmp) It also provides
+data-structures and templated classes for the manipulation of basic
+algebraic objects, such as vectors, matrices (dense, sparse, structured),
+univariate polynomials (and therefore recursive multivariate).
+
+'
+License='CeCILL-B'
+Screenshot=''
+Url='http://ljk.imag.fr/CASYS/LOGICIELS/givaro/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

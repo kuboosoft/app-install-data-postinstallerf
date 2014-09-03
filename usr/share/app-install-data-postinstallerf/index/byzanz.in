@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>byzanz</b>'
+Comment='<span size="xx-large">A desktop recorder</span>'
+Comment3='
+Byzanz is a desktop recorder striving for ease of use. It can record to
+GIF images, Ogg Theora video - optionally with sound - and other formats.
+A command-line recording tool is included.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://git.gnome.org/browse/byzanz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

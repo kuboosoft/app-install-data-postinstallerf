@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>felix-parent</b>'
+Comment='<span size="xx-large">Parent POM file for Apache Felix Specs</span>'
+Comment3='
+Parent POM file for Apache Felix Specs.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

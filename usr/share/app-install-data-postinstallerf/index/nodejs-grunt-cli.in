@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nodejs-grunt-cli</b>'
+Comment='<span size="xx-large">Command-line interface for Grunt, the JavaScript testing framework</span>'
+Comment3='
+Grunt is the JavaScript task runner.
+
+Grunt-cli gives you access to the grunt command-line interface anywhere on
+your system, which is useful when running a locally installed Grunt for your
+project.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/gruntjs/grunt-cli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

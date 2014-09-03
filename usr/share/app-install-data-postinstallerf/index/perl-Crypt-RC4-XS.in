@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Crypt-RC4-XS</b>'
+Comment='<span size="xx-large">Perl implementation of the RC4 encryption algorithm</span>'
+Comment3='
+This module XS implementation of the RC4 algorithm, developed by RSA
+Security, Inc. Here is the description from Wikipedia website
+
+In cryptography, RC4 (also known as ARC4 or ARCFOUR meaning Alleged RC4, see
+below) is the most widely-used software stream cipher and is used in popular
+protocols such as Secure Sockets Layer (SSL) (to protect Internet traffic)
+and WEP (to secure wireless networks). While remarkable for its simplicity
+and speed in software, RC4 is vulnerable to attacks when the beginning of the
+output keystream is not discarded, or a single keystream is used twice; some
+ways of using RC4 can lead to very insecure cryptosystems such as WEP.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-RC4-XS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

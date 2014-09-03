@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bpg-dejavu-sans-fonts</b>'
+Comment='<span size="xx-large">DejaVu Sans with BPG Georgian changes</span>'
+Comment3='
+BPG Fonts are a set of GPL licensed Georgian Unicode fonts.
+
+This package contains an improved version of DejaVu Sans with BPG Georgian
+changes.
+'
+License='Bitstream Vera'
+Screenshot=''
+Url='http://groups.google.com/group/bpg-fonts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

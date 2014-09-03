@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>evolution-mapi-devel</b>'
+Comment='<span size="xx-large">Development files for building against evolution-mapi</span>'
+Comment3='
+Development files needed for building things which link against evolution-mapi.
+
+URL          http//projects.gnome.org/evolution
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/evolution'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

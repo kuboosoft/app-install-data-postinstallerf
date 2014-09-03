@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-DBIx-Class-IntrospectableM2M</b>'
+Comment='<span size="xx-large">Introspect many-to-many shortcuts</span>'
+Comment3='
+Because the many-to-many relationships are not real relationships, they can
+not be introspected with DBIxClass. Many-to-many relationships are
+actually just a collection of convenience methods installed to bridge two
+relationships. This DBIxClass component can be used to store all relevant
+information about these non-relationships so they can later be introspected
+and examined.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DBIx-Class-IntrospectableM2M/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

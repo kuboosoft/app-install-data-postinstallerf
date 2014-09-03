@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-GStreamer</b>'
+Comment='<span size="xx-large">Perl bindings to the GStreamer framework</span>'
+Comment3='
+GStreamer makes everybody dance like crazy.  It provides the means to play,
+GStreamer wraps the GStreamer library in a nice and Perlish way, freeing
+the programmer from any memory management and object casting hassles.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/GStreamer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

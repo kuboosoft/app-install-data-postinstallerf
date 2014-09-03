@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-solv</b>'
+Comment='<span size="xx-large">Python bindings for the libsolv library</span>'
+Comment3='
+Python bindings for sat solver.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/openSUSE/libsolv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

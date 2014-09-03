@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clean-Gast</b>'
+Comment='<span size="xx-large">Model-based testing library for clean</span>'
+Comment3='
+A library for testing applications based on a model
+'
+License='LGPLv2+ or BSD'
+Screenshot=''
+Url='http://wiki.clean.cs.ru.nl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

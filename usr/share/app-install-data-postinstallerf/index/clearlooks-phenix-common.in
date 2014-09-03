@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clearlooks-phenix-common</b>'
+Comment='<span size="xx-large">Files common to Clearlooks-Phenix themes</span>'
+Comment3='
+Files which are common to all Clearlooks-Phenix themes.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.jpfleury.net/en/software/clearlooks-phenix.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

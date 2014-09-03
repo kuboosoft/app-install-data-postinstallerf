@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>compat-gtkhtml314-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc to develop gtkhtml applications</span>'
+Comment3='
+Libraries and include files that can be used to develop GtkHTML applications.
+
+URL          http//projects.gnome.org/evolution/
+'
+License='LGPLv2+ and GPLv2'
+Screenshot=''
+Url='http://projects.gnome.org/evolution/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

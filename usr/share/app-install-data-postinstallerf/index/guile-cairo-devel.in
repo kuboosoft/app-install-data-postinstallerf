@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>guile-cairo-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for guile-cairo</span>'
+Comment3='
+Package guile-cairo-devel contains libraries and header files for
+developing applications that use guile-cairo.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://home.gna.org/guile-cairo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

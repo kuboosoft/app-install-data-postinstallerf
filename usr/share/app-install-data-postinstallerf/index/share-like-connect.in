@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>share-like-connect</b>'
+Comment='<span size="xx-large">Share, like and connect concept for Plasma Active</span>'
+Comment3='
+Share, like and connect concept for Plasma Active.
+
+Share-like-connect is part of Plasma Active project.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/base/share-like-connect'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

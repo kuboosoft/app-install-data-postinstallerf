@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>evolution-ews</b>'
+Comment='<span size="xx-large">Evolution extension for Exchange Web Services</span>'
+Comment3='
+This package allows Evolution to interact with Microsoft Exchange servers,
+versions 2007 and later, through its Exchange Web Services (EWS) interface.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://projects.gnome.org/evolution'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

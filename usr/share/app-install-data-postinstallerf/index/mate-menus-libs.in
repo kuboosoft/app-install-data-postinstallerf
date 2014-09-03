@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-menus-libs</b>'
+Comment='<span size="xx-large">Shared libraries for mate-menus</span>'
+Comment3='
+Shared libraries for mate-menus
+
+URL          http//mate-desktop.org
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

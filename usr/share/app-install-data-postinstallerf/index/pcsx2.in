@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pcsx2</b>'
+Comment='<span size="xx-large">A Sony Playstation2 emulator</span>'
+Comment3='
+A Playstation 2 emulator. Requires a dump of a real PS2 BIOS (not included)
+WARNING It requires a CPU with SSE2 instructions. If your CPU does not
+support this instruction set, it does not have enough horse power to run
+this emulator anyway.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://code.google.com/p/pcsx2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

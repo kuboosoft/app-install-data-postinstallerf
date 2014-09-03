@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>beediff</b>'
+Comment='<span size="xx-large">Visual tool for comparing and merging files</span>'
+Comment3='
+This package provides a visual application (beediff) for comparing and
+merging files. User have a possibility to work with two text
+files. Every one is in separate panel. Panels are side by side. All
+differences of both textes are highlighted in colors. Operation
+buttons (merge, remove) are located direct inside compared textes in
+appropriate positions. Program is user friendly, very simply and
+efficient.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.beesoft.org/index.php?id=beediff'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

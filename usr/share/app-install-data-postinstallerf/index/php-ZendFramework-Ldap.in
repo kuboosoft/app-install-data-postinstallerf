@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-Ldap</b>'
+Comment='<span size="xx-large">Basic LDAP operations API</span>'
+Comment3='
+Zend_Ldap is a class for performing LDAP operations including but not limited
+to binding, searching and modifying entries in an LDAP directory.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

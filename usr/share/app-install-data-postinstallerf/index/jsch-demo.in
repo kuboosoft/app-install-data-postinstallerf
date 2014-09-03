@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jsch-demo</b>'
+Comment='<span size="xx-large">Examples for jsch</span>'
+Comment3='
+Examples for jsch.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.jcraft.com/jsch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>SoQt</b>'
+Comment='<span size="xx-large">High-level 3D visualization library</span>'
+Comment3='
+SoQt is a Qt GUI component toolkit library for Coin.  It is also compatible
+with SGI and TGS Open Inventor, and the API is based on the API of the
+InventorXt GUI component toolkit.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.coin3d.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-HTML-PrettyPrinter</b>'
+Comment='<span size="xx-large">Generate nice HTML files from HTML syntax trees</span>'
+Comment3='
+HTMLPrettyPrinter produces nicely formatted HTML code from a HTML syntax
+tree. It is especially useful if the produced HTML file shall be read or
+edited manually afterwards. Various parameters let you adapt the output to
+different styles and requirements.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-PrettyPrinter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

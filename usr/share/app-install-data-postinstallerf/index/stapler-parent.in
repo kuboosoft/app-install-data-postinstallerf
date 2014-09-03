@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>stapler-parent</b>'
+Comment='<span size="xx-large">Parent POM file for stapler</span>'
+Comment3='
+This package contains parent POM file for stapler.
+'
+License='BSD and ASL 2.0'
+Screenshot=''
+Url='http://stapler.kohsuke.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

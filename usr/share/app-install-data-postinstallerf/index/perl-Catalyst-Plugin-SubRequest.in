@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-SubRequest</b>'
+Comment='<span size="xx-large">Make subrequests to actions in Catalyst</span>'
+Comment3='
+Make subrequests to actions in Catalyst. Uses the Catalyst dispatcher, so
+it will work like an external url call.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-SubRequest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eekboard-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for eekboard</span>'
+Comment3='
+This package contains the libraries for eekboard
+
+URL          http//fedorahosted.org/eekboard/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/eekboard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sipwitch-cgi</b>'
+Comment='<span size="xx-large">cgi web interface to control sipwitch server</span>'
+Comment3='
+This package offers a means to perform remote management of a sipwitch
+server using the cgi interface of an installed web server.  The primary
+service this offers is xmlrpc access to sipwitch shared memory and
+control interfaces in a manner analgolous to the sipwitch command utility.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/sipwitch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

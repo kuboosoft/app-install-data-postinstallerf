@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcryptui-devel</b>'
+Comment='<span size="xx-large">Header files required to develop with libcryptui</span>'
+Comment3='
+The libcryptui-devel package contains the header files and developer
+documentation for the libcryptui library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/seahorse/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

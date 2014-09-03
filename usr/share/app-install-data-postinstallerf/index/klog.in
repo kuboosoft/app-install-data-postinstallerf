@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>klog</b>'
+Comment='<span size="xx-large">A Ham radio logging program for KDE</span>'
+Comment3='
+
+KLog is a Ham radio logging program for KDE
+Some features include
+	* DXCC award support.
+	* Basic IOTA support.
+	* Importing from Cabrillo files.
+	* Importing from TLF.
+	* Adding/Editing QSOs.
+	* Save/read to/from disk file the log - ADIF format by default.
+	* English/Spanish/Portuguese/Galician/Serbian/Swedish support.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://jaime.robles.es/eklog.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

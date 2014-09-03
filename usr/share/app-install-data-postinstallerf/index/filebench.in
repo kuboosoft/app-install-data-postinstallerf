@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>filebench</b>'
+Comment='<span size="xx-large">A model based file system workload generator</span>'
+Comment3='
+Filebench is a file system and storage benchmark that allows to generate a
+high variety of workloads. It employs extensive Workload Model Language (WML)
+for detailed workload specification.
+'
+License='CDDL'
+Screenshot=''
+Url='http://filebench.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

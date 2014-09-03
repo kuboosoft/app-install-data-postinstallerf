@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openconnect-devel</b>'
+Comment='<span size="xx-large">Development package for OpenConnect VPN authentication tools</span>'
+Comment3='
+This package provides the core HTTP and authentication support from
+the OpenConnect VPN client, to be used by GUI authentication dialogs
+for NetworkManager etc.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.infradead.org/openconnect.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

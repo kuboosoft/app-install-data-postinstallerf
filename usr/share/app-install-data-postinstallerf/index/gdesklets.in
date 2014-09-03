@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gdesklets</b>'
+Comment3='
+gDesklets provides an advanced architecture for desktop applets -
+tiny displays that sit on your desktop such as status meters, icon
+bars, weather sensors, news tickers.
+'
+License='GPL+'
+Screenshot=''
+Url='http://gdesklets.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

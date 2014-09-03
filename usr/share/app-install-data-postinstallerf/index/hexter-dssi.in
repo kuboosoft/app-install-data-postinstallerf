@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>hexter-dssi</b>'
+Comment='<span size="xx-large">DSSI software synthesizer plugin emulating DX7</span>'
+Comment3='
+hexter is a software synthesizer that models the sound generation of a Yamaha
+DX7 synthesizer. It can easily load most DX7 patch bank files, accept patch
+editing commands via MIDI sys-ex messages (ALSA systems only), and recreate the
+sound of the DX7 with greater accuracy than any previous open-source emulation
+(that the author is aware of....)
+
+hexter operates as a plugin for the Disposable Soft Synth Interface (DSSI).
+DSSI is a plugin API for software instruments (soft synths) with user
+interfaces, permitting them to be hosted in-process by audio applications.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dssi.sourceforge.net/hexter.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

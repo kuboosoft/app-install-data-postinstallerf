@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>tlomt-junction-fonts</b>'
+Comment='<span size="xx-large">A humanist sans serif font</span>'
+Comment3='
+Designed by Caroline Hadilaksono, inspired by her favorite humanist
+sans serif typefaces. It has the hand drawn and human qualities of a
+serif, and still retains the clarity and efficiencies of a sans serif
+typeface. It combines the best of both worlds.
+
+Old style and lining figures are included.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.theleagueofmoveabletype.com/fonts/1-junction'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

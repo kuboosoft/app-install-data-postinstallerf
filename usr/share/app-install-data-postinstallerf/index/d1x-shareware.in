@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>d1x-shareware</b>'
+Comment='<span size="xx-large">Shareware version of Descent 1</span>'
+Comment3='
+D1X is a modification of the Descent 1 source that was released by
+Parallax. Its mostly compatible with the Descent 1 v1.5, both in
+multiplayer and on the local machine.
+
+This package contains the shareware version of the game.
+'
+License='non-commercial'
+Screenshot=''
+Url='http://www.dxx-rebirth.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>google-crosextra-carlito-fonts</b>'
+Comment='<span size="xx-large">Sans-serif font metric-compatible with Calibri font</span>'
+Comment3='
+Carlito is metric-compatible with Calibri font. Carlito comes in regular, bold,
+italic, and bold italic. The family covers Latin-Greek-Cyrillic (not a
+complete set, though) with about 2,000 glyphs. It has the same character
+coverage as Calibri. This font is sans-serif typeface family based on Lato.
+'
+License='OFL'
+Screenshot=''
+Url='http://code.google.com/p/chromium/issues/detail?id=280557'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

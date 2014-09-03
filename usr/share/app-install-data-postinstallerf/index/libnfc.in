@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libnfc</b>'
+Comment='<span size="xx-large">NFC SDK and Programmers API</span>'
+Comment3='
+libnfc is the first free NFC SDK and Programmers API released under the
+GNU Lesser General Public License. It provides complete transparency and
+royalty-free use for everyone.
+
+'
+License='LGPLv3+'
+GNU Lesser General Public License. It provides complete transparency and'
+Screenshot=''
+Url='http://www.libnfc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

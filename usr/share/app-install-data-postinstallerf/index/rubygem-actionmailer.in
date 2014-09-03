@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-actionmailer</b>'
+Comment='<span size="xx-large">Service layer for easy email delivery and testing</span>'
+Comment3='
+Makes it trivial to test and deliver emails sent from a single service layer.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.rubyonrails.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

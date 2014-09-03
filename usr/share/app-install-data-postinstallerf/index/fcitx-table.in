@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fcitx-table</b>'
+Comment='<span size="xx-large">Table Engine for Fcitx</span>'
+Comment3='
+This package contains table engine for Fcitx.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/Table'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

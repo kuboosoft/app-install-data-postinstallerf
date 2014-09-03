@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mod_flvx</b>'
+Comment='<span size="xx-large">FLV progressive download streaming for the Apache HTTP Server</span>'
+Comment3='
+FLV streaming means it can be sought to any position during video, and
+browser (Flash player) will buffer only from this position to the end.
+Thus streaming allows to skip boring parts or see video ending without
+loading the whole file, which simply saves bandwidth. Even H264 is more
+efficient, FLV is still a common container format for videos, because
+H264 is supported by Flash since version 9.115.
+
+For using FLV streaming on the web, a pseudo-streaming compliant Flash
+player, such as Flowplayer, is needed. Streaming requires that the FLV
+has embedded key-frame markers (meta-data), that can be injected by any
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tperspective.blogspot.com/2009/02/apache-flv-streaming-done-right.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

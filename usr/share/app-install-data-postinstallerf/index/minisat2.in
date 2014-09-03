@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>minisat2</b>'
+Comment='<span size="xx-large">Minimalistic SAT solver</span>'
+Comment3='
+MiniSat is a minimalistic, open-source Boolean satisfiability problem
+(SAT) solver, developed to help researchers and developers alike to get
+started on SAT.  Together with SatELite, MiniSat was recently awarded in
+the three industrial categories and one of the "crafted" categories of
+the SAT 2005 competition.
+
+A SAT solver can determine if it is possible to find assignments to
+boolean variables that would make a given expression true, if the
+expression is written with only AND, OR, NOT, parentheses, and boolean
+variables.  If the expression is satisfiable, MiniSAT can also produce a
+'
+License='MIT'
+Screenshot=''
+Url='http://minisat.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

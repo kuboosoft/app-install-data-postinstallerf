@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-tw2-polymaps</b>'
+Comment='<span size="xx-large">Toscawidgets2 wrapper for polymaps - amazing javascript maps</span>'
+Comment3='
+tw2.polymaps is a toscawidgets2 (tw2) wrapper for polymaps.
+
+toscawidgets2 (tw2) aims to be a practical and useful widgets framework
+that helps people build interactive websites with compelling features,
+faster and easier. Widgets are re-usable web components that can include a
+template, server-side code and JavaScripts/CSS resources. The library aims
+to be flexible, reliable, documented, performant, and as simple as
+possible.
+polymaps is a JavaScript library for image- and vector-tiled maps using
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/tw2.polymaps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

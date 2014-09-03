@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>Inventor-data</b>'
+Comment='<span size="xx-large">SGI Open Inventor (TM) data</span>'
+Comment3='
+SGI Open Inventor data files.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://oss.sgi.com/projects/inventor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

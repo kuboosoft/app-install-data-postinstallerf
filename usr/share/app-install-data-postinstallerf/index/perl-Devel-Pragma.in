@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Devel-Pragma</b>'
+Comment='<span size="xx-large">Helper functions for developers of lexical pragmas</span>'
+Comment3='
+This module provides helper functions for developers of lexical pragmas.
+These can be used both in older versions of perl (from 5.8.1), which have
+limited support for lexical pragmas, and in the most recent versions, which
+have improved support.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Pragma/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

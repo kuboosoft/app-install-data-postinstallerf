@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>quota-warnquota</b>'
+Comment='<span size="xx-large">Send e-mail to users over quota</span>'
+Comment3='
+Utility that checks disk quota for each local file system and mails a warning
+message to those users who have reached their soft limit.  It is typically run
+via cron(8).
+'
+License='BSD and LGPLv2+ and GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/linuxquota/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

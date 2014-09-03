@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libalpm-devel</b>'
+Comment='<span size="xx-large">Development headers for libalpm</span>'
+Comment3='
+This package contains the public headers necessary to use libalpm.
+
+URL          https//www.archlinux.org/pacman
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://www.archlinux.org/pacman'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

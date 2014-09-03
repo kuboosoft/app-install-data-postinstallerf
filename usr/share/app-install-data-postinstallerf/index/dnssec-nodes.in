@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dnssec-nodes</b>'
+Comment='<span size="xx-large">DNS Visualization Tool</span>'
+Comment3='
+A graphical DNS visualization application, specializing in DNSSEC.
+The DNSSEC-Nodes application is a graphical debugging utility that
+allows administrators to watch the data being logged into a libval or
+bind logging file.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.dnssec-tools.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>postgresql-server</b>'
+Comment='<span size="xx-large">The programs needed to create and run a PostgreSQL server</span>'
+Comment3='
+PostgreSQL is an advanced Object-Relational database management system (DBMS).
+The postgresql-server package contains the programs needed to create
+and run a PostgreSQL server, which will in turn allow you to create
+and maintain PostgreSQL databases.
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.postgresql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

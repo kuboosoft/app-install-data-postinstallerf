@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>prover9-doc</b>'
+Comment='<span size="xx-large">LADR Deduction Library - Documentation</span>'
+Comment3='
+Prover9 is an automated theorem prover for first-order and equational logic.
+It is a successor of the Otter prover. Prover9 uses the inference techniques
+of ordered resolution and paramodulation with literal selection.
+
+This package provides documentation for Prover9, Mace4 and other associated
+programs.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://www.cs.unm.edu/~mccune/prover9/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

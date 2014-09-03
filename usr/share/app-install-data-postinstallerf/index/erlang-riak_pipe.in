@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-riak_pipe</b>'
+Comment='<span size="xx-large">Riak Pipelines</span>'
+Comment3='
+Riak Pipelines.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/riak_pipe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

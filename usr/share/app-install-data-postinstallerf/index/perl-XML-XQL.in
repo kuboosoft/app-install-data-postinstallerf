@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-XML-XQL</b>'
+Comment='<span size="xx-large">Perl module for querying XML tree structures with XQL</span>'
+Comment3='
+This is a Perl extension that allows you to perform XQL queries on XML
+object trees. Currently only the XMLDOM module is supported, but
+other implementations, like XMLGrove, may soon follow.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-XQL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

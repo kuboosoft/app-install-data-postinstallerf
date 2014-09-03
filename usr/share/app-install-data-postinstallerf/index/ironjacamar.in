@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ironjacamar</b>'
+Comment3='
+specification.
+
+connecting the Java EE platform to heterogeneous Enterprise Information
+Systems (EIS). Examples of EISs include Enterprise Resource Planning (ERP),
+mainframe transaction processing (TP), database and messaging systems.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.ironjacamar.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mpg123</b>'
+Comment='<span size="xx-large">MPEG audio player</span>'
+Comment3='
+Real time command line MPEG audio player for Layer 1, 2 and Layer3.
+'
+License='GPLv2+ and LGPLv2'
+Screenshot=''
+Url='http://mpg123.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

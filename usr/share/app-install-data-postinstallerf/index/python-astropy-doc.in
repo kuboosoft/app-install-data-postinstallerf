@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-astropy-doc</b>'
+Comment='<span size="xx-large">Documentation for python-astropy, includes full API docs</span>'
+Comment3='
+This package contains the full API documentation for python-astropy.
+'
+License='BSD'
+Screenshot=''
+Url='http://astropy.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libsodium</b>'
+Comment='<span size="xx-large">A fork of networking and cryptography library with compatible APIs</span>'
+Comment3='
+Sodium is a portable, cross-compilable, installable, packageable library
+forked from NaCl(networking and cryptography library), with a compatible API.
+Its goal is to provide all of the core operations needed to build higher-level
+cryptographic tools.
+
+'
+License='ISC'
+Screenshot=''
+Url='https://github.com/jedisct1/libsodium'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

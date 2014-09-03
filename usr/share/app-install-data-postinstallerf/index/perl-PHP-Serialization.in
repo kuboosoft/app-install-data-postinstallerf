@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-PHP-Serialization</b>'
+Comment='<span size="xx-large">Converts between PHPs serialize() output and the equivalent Perl structure</span>'
+Comment3='
+Provides a simple, quick means of serializing perl memory structures
+(including object data!) into a format that PHP can deserialize() and
+access, and vice versa.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PHP-Serialization/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n projectm-pulseaudio
+Name=projectM PulseAudio Visualization
+GenericName=PulseAudio Stream Visualization
+Comment=Visualization of PulseAudio streams with projectM
+Icon=/usr/share/app-install-data-postinstallerf/icons/prjm16-transparent.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libecap-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for the libecap library</span>'
+Comment3='
+This package provides the libraries, include files, and other
+resources needed for developing libecap applications.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.e-cap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

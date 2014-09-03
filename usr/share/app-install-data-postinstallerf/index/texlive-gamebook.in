@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-gamebook</b>'
+Comment='<span size="xx-large">Typeset gamebooks and other interactive novels</span>'
+Comment3='
+This package provides the means in order to lay-out gamebooks
+with LaTeX. A simple gamebook example is included with the
+package, and acts as a tutorial.
+
+date 2011-11-29 165500 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

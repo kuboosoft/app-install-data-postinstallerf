@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sword</b>'
+Comment='<span size="xx-large">Free Bible Software Project</span>'
+Comment3='
+The SWORD Project is the CrossWire Bible Societys free Bible software
+Bible societies to write new Bible software more quickly and easily. We
+also create Bible study software for all readers, students, scholars,
+and translators of the Bible, and have a growing collection of over 200
+texts in over 50 languages.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.crosswire.org/sword/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

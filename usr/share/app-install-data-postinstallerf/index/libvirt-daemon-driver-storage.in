@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-driver-storage</b>'
+Comment='<span size="xx-large">Storage driver plugin for the libvirtd daemon</span>'
+Comment3='
+The storage driver plugin for the libvirtd daemon, providing
+an implementation of the storage APIs using LVM, iSCSI,
+parted and more.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

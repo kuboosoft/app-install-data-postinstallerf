@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-neutronclient</b>'
+Comment='<span size="xx-large">Python API and CLI for OpenStack Neutron</span>'
+Comment3='
+Client library and command line utility for interacting with Openstack
+Neutrons API.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://launchpad.net/python-neutronclient/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

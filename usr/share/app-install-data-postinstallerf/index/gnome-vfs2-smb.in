@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-vfs2-smb</b>'
+Comment='<span size="xx-large">Windows fileshare support for gnome-vfs</span>'
+Comment3='
+This package provides support for reading and writing files on windows
+shares (SMB) to applications using GNOME VFS.
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

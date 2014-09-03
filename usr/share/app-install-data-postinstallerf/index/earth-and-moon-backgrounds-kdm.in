@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>earth-and-moon-backgrounds-kdm</b>'
+Comment='<span size="xx-large">Earth-and-moon desktop background for KDM</span>'
+Comment3='
+Earth-and-moon desktop background used in KDM.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://bioinformatiques.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

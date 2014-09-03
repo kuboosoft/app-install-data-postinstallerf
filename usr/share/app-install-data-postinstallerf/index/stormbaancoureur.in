@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>stormbaancoureur</b>'
+Comment='<span size="xx-large">Simulated obstacle course for automobiles</span>'
+Comment3='
+Stormbaancoureur is Dutch for "assault course driver"... for expert drivers
+only. If you want to master the obstacle course, try to have the laws of
+physics work with you, not against you.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.stolk.org/stormbaancoureur/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

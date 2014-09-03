@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-stmaryrd</b>'
+Comment='<span size="xx-large">St Mary Road symbols for theoretical computer science</span>'
+Comment3='
+The fonts were originally distributed as MetaFont sources only,
+but Adobe Type 1 versions are also now available. Macro support
+is provided for use under LaTeX; the package supports the
+"only" option (provided by the somedefs package) to restrict
+what is loaded, for those who dont need the whole font.
+
+date 2009-10-10 005128 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

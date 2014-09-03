@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Mojolicious</b>'
+Comment='<span size="xx-large">A next generation web framework for Perl</span>'
+Comment3='
+Back in the early days of the web there was this wonderful Perl library
+called CGI, many people only learned Perl because of it. It was simple
+enough to get started without knowing much about the language and powerful
+enough to keep you going, learning by doing was much fun. While most of the
+techniques used are outdated now, the idea behind it is not. Mojolicious is
+a new attempt at implementing this idea using state of the art technology.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://mojolicious.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

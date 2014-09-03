@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mkelfimage</b>'
+Comment='<span size="xx-large">Utility to create ELF boot images from Linux kernel images</span>'
+Comment3='
+mkelfImage is a program that makes a elf boot image for linux kernel images.
+The image should work with any i386 multiboot compliant boot loader, an ELF
+boot loader that passes no options, a loader compliant with the linuxBIOS elf
+booting spec or with the linux kexec kernel patch.  A key feature here is that
+nothing relies upon BIOS calls, but they are made when necessary.  This is
+useful for systems running linuxbios.
+'
+License='GPLv2'
+Screenshot=''
+Url='ftp://ftp.lnxi.com/pub/mkelfImage/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>konkretcmpi</b>'
+Comment='<span size="xx-large">Tool for rapid CMPI providers development</span>'
+Comment3='
+KonkretCMPI makes CMPI provider development easier by generating type-safe
+concrete CIM interfaces from MOF definitions and by providing default
+implementations for many of the provider operations.
+
+'
+License='MIT'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

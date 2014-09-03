@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gtkhash</b>'
+Comment='<span size="xx-large">GTK+ utility for computing message digests or checksums</span>'
+Comment3='
+GtkHash is a GTK+ utility for computing message digests or checksums. Currently
+supported hash functions include
+* MD2, MD4 and MD5
+* SHA1, SHA224, SHA256, SHA384 and SHA512,
+* RIPEMD128, RIPEMD160, RIPEMD256 and RIPEMD320
+* TIGER128, TIGER160 and TIGER192
+* HAVAL128-3, HAVAL160-3, HAVAL192-3, HAVAL224-3 and HAVAL256-3
+* SNEFRU128 and SNEFRU256
+* ADLER32, CRC32, GOST and WHIRLPOOL
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gtkhash.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

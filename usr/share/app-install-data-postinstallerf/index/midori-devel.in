@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>midori-devel</b>'
+Comment='<span size="xx-large">Development files for midori</span>'
+Comment3='
+The midori-devel package contains libraries and header files for
+developing extensions for midori.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://midori-browser.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

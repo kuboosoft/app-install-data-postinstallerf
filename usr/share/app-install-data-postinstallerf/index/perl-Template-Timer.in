@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Template-Timer</b>'
+Comment='<span size="xx-large">Template::Timer Perl module</span>'
+Comment3='
+TemplateTimer provides inline timings of the template processing
+througout your code.  Its an overridden version of TemplateContext that
+wraps the process() and include() methods.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Template-Timer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

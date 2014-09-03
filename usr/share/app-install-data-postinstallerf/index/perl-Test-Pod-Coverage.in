@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Test-Pod-Coverage</b>'
+Comment='<span size="xx-large">Check for pod coverage in your distribution</span>'
+Comment3='
+Checks for POD coverage in files for your distribution.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Pod-Coverage/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>docbook-utils</b>'
+Comment='<span size="xx-large">Shell scripts for managing DocBook documents</span>'
+Comment3='
+This package contains scripts are for easy conversion from DocBook
+files to other formats (for example, HTML, RTF, and PostScript), and
+for comparing SGML files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sources.redhat.com/docbook-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libreport-plugin-reportuploader</b>'
+Comment='<span size="xx-large">libreports reportuploader plugin</span>'
+Comment3='
+Plugin to report bugs into anonymous FTP site associated with ticketing system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

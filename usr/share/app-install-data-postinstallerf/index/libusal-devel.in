@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libusal-devel</b>'
+Comment='<span size="xx-large">Development files for libusal</span>'
+Comment3='
+The libusal-devel package contains C libraries and header files
+for developing applications that use libusal for communication with
+SCSI devices.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://cdrkit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

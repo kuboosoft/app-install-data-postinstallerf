@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pcc</b>'
+Comment='<span size="xx-large">The Portable C Compiler</span>'
+Comment3='
+The compiler is based on the original Portable C Compiler by Stephen
+C. Johnson, written in the late 70s. Even though much of the
+compiler has been rewritten, some of the basics still remain.
+
+Ritchies original C compiler) in both System V and the BSD 4.x
+releases. Some history about pcc is in the A History of UNIX before
+Berkeley UNIX Evolution 1975-1984 and in the Evolution of C.
+About 50% of the front-end code and 80% of the back-end code has been
+'
+License='BSD with advertising and BSD and ISC'
+Screenshot=''
+Url='http://pcc.ludd.ltu.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

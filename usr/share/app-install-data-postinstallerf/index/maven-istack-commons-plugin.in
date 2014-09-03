@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-istack-commons-plugin</b>'
+Comment='<span size="xx-large">istack-commons Maven Mojo</span>'
+Comment3='
+This package contains the istack-commons Maven Mojo.
+'
+License='CDDL and GPLv2 with exceptions'
+Screenshot=''
+Url='http://istack-commons.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

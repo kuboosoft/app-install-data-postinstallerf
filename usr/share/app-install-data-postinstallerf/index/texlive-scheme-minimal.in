@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-scheme-minimal</b>'
+Comment='<span size="xx-large">minimal scheme (plain only)</span>'
+Comment3='
+This is the minimal TeX Live scheme, with support for only
+plain TeX. (No LaTeX macros.)  LuaTeX is included because Lua
+scripts are used in TeX Live infrastructure.  This scheme
+corresponds exactly to collection-basic.
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

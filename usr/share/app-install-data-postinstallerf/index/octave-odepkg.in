@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>octave-odepkg</b>'
+Comment='<span size="xx-large">A package for solving ordinary differential equations and more</span>'
+Comment3='
+A package for solving ordinary differential equations and more
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://octave.sourceforge.net/odepkg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

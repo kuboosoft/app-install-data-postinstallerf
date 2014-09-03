@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-blowup</b>'
+Comment='<span size="xx-large">Upscale or downscale all pages of a document</span>'
+Comment3='
+The package blowup only defines the user-level macro \blowup,
+which can be used to upscale or downscale all pages of a
+document. It is similar to the TeX primitive \magnification but
+more accurate and user-friendly.
+
+date 2009-06-04 134819 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

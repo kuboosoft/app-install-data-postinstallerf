@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>homerun-libs</b>'
+Comment='<span size="xx-large">Library files of homerun launcher</span>'
+Comment3='
+This package provides the library files of the homerun launcher.
+
+URL          http//userbase.kde.org/Homerun
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='http://userbase.kde.org/Homerun'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

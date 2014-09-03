@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glite-lb-types</b>'
+Comment='<span size="xx-large">Auxiliary build-time component defining LB event types and job status fields</span>'
+Comment3='
+Auxiliary build-time component defining LB event types and job status fields.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

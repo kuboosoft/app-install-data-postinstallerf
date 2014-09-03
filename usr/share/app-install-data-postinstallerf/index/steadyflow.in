@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>steadyflow</b>'
+Comment='<span size="xx-large">Simple download manager for GNOME</span>'
+Comment3='
+GTK+ based download manager that aims for minimalism, ease of use,
+and a clean, malleable code base. It should be easy to control, whether
+from the GUI, command line, or D-Bus
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://launchpad.net/steadyflow'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

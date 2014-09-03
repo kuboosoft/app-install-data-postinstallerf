@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-shade</b>'
+Comment='<span size="xx-large">Shade pieces of text</span>'
+Comment3='
+The package provides a shaded backdrop to a box of text. It
+uses a Metafont font (provided) which generates to appropriate
+shading dependent on the resolution used in the Metafont
+printer parameters.
+
+date 2011-04-25 220130 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

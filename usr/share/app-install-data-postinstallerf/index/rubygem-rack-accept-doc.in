@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rack-accept-doc</b>'
+Comment='<span size="xx-large">Documentation for rack-accept</span>'
+Comment3='
+This package contains documentation for rack-accept
+'
+License='MIT'
+Screenshot=''
+Url='http://mjijackson.com/rack-accept'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

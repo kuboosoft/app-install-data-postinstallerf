@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>bubbros</b>'
+Comment='<span size="xx-large">Bub and Brothers game inspired by the classic Bubble and Bobble</span>'
+Comment3='
+This is a direct clone of the MacOS game Bub & Bob of McSebi. Thanks Sebi for
+all the cool graphics and sounds!
+
+Features
+    * Same gameplay as the famous McSebis Bub & Bob.
+    * Over-the-network game and/or up to 3 players on the same computer.
+    * Completely original crazy bonuses!
+    * Capture other players in a bubble!
+'
+License='MIT and Artistic Licenses'
+Screenshot=''
+Url='http://bub-n-bros.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

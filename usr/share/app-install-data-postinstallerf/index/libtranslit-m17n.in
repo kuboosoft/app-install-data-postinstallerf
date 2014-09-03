@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libtranslit-m17n</b>'
+Comment='<span size="xx-large">Transliteration module using m17n-lib for libtranslit</span>'
+Comment3='
+The libtranslit-m17n package contains a transliteration module using
+m17n-lib for libtranslit.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://github.com/ueno/libtranslit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

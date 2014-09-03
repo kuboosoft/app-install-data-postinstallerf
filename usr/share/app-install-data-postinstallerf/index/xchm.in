@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>xchm</b>'
+Comment='<span size="xx-large">A GUI front-end to CHMlib</span>'
+Comment3='
+xCHM is a wxWidgets-based .chm viewer. xCHM can show the contents tree if
+one is available, print the displayed page, change fonts faces and size,
+work with bookmarks, do the usual history stunts (forward, back, home),
+provide a searchable index and seach for text in the whole book. The
+search is a fast B-tree search, based on the internal $FIftiMain file
+found inside indexed .chm archives, and it can be customized to search in
+content or just the topics titles.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xchm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

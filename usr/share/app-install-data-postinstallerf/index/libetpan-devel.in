@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libetpan-devel</b>'
+Comment='<span size="xx-large">Development package for libetpan</span>'
+Comment3='
+The libetpan-devel package contains the files needed for development
+with libetpan.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.etpan.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

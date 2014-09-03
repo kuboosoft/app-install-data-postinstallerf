@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pam_oath</b>'
+Comment='<span size="xx-large">A PAM module for pluggable login authentication for OATH</span>'
+Comment3='
+A PAM module for pluggable login authentication for OATH.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.nongnu.org/oath-toolkit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qrencode-libs</b>'
+Comment='<span size="xx-large">QR Code encoding library - Shared libraries</span>'
+Comment3='
+The qrencode-libs package contains the shared libraries and header files for
+applications that use qrencode.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fukuchi.org/works/qrencode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

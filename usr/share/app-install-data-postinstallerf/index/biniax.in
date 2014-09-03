@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>biniax</b>'
+Comment='<span size="xx-large">A unique arcade logic game</span>'
+Comment3='
+The gaming field is 5x7 pairs of elements. Every pair consists of two elements
+out of four possible types (colors). Player is a single element, who can move on
+empty fields or can take a pair, if the players element is present in the pair.
+If a pair is taken, the players element is swapped to the other element of the
+pair. The field is scrolling down on time event or after certain moves are spend
+(depending on the game mode). Game over is when there is no move for the player.
+'
+License='zlib'
+Screenshot=''
+Url='http://www.biniax.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

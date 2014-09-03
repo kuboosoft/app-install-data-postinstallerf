@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wkhtmltopdf-devel</b>'
+Comment='<span size="xx-large">Development files for wkhtmltopdf</span>'
+Comment3='
+The wkhtmltopdf-devel package contains libraries and header files for
+developing applications that use wkhtmltopdf.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wkhtmltopdf.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

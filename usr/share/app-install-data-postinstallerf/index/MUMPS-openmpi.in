@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>MUMPS-openmpi</b>'
+Comment='<span size="xx-large">MUMPS libraries compiled against openmpi</span>'
+Comment3='
+MUMPS libraries compiled against openmpi
+
+URL          http//mumps.enseeiht.fr/
+'
+License='Public Domain'
+Screenshot=''
+Url='http://mumps.enseeiht.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

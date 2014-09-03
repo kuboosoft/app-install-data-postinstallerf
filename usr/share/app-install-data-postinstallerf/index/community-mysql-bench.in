@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>community-mysql-bench</b>'
+Comment='<span size="xx-large">MySQL benchmark scripts and data</span>'
+Comment3='
+MySQL is a multi-user, multi-threaded SQL database server. This
+package contains benchmark scripts and data for use when benchmarking
+MySQL.
+'
+License='GPLv2 with exceptions and LGPLv2 and BSD'
+Screenshot=''
+Url='http://www.mysql.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

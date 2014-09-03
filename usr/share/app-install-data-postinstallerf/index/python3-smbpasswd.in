@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-smbpasswd</b>'
+Comment='<span size="xx-large">Python SMB Password Hst Generator Module for Python 3</span>'
+Comment3='
+This package contains a python module, which is able to generate LANMAN and
+NT password hashes suiteable to us with Samba.
+
+This is a ported release for python 3.1
+'
+License='GPLv2'
+Screenshot=''
+Url='http://barryp.org/software/py-smbpasswd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-tvz</b>'
+Comment='<span size="xx-large">Draw trees with more than on root node, using PSTricks</span>'
+Comment3='
+The package uses PSTricks to draw trees with more than one root
+node. It is similar to pst-tree, though it uses a different
+placement algorithm.
+
+date 2011-06-14 173027 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

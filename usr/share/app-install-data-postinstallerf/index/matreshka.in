@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>matreshka</b>'
+Comment='<span size="xx-large">Set of Ada libraries to help to develop information systems</span>'
+Comment3='
+Matreshka is a set of Ada libraries to help to develop information systems.
+It includes
+
+internationalization and globalization; including
+   cursors to iterate other characters and grapheme clusters;
+   advanced locale tailored operations such as case conversion,
+   case folding, collation, normalization;
+'
+License='BSD'
+Screenshot=''
+Url='http://forge.ada-ru.org/matreshka'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

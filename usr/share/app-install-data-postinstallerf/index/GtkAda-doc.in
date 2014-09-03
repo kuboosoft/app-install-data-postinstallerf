@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>GtkAda-doc</b>'
+Comment='<span size="xx-large">Documentation for GtkAda</span>'
+Comment3='
+GtkAda is an Ada binding to the graphical toolkit GTK+. It allows you to
+develop graphical user interfaces in Ada using GTK+.
+
+The GtkAda-doc package contains the documentation for GtkAda.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libre.adacore.com/libre/tools/GtkAda/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

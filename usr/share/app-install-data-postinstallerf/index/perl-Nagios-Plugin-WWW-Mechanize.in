@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Nagios-Plugin-WWW-Mechanize</b>'
+Comment='<span size="xx-large">Login to a web page as a user and get data as a Nagios plugin</span>'
+Comment3='
+This module ties NagiosPlugin with WWWMechanize so that theres less
+code in your perl script and the most common work is done for you.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Nagios-Plugin-WWW-Mechanize/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

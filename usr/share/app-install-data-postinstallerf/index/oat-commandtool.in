@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>oat-commandtool</b>'
+Comment='<span size="xx-large">Command line tools for OpenAttestation</span>'
+Comment3='
+OpenAttestation (OAT) is a open source project providing a SDK for managing
+host integrity verification using TCG-defined remote attestation protocol,
+targeting to be integrated into cloud and enterprise management tools.
+
+This package provides a number of command line tools which are useful for
+interacting with a OAT appraisal server.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/OpenAttestation/OpenAttestation'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

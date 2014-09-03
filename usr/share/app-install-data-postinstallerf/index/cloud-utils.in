@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>cloud-utils</b>'
+Comment='<span size="xx-large">Cloud image management utilities</span>'
+Comment3='
+This package provides a useful set of utilities for managing cloud images.
+
+The euca2ools package (a dependency of cloud-utils) provides an Amazon EC2 API
+compatible set of utilities for bundling kernels, ramdisks, and root
+filesystems, and uploading them to either EC2 or UEC.
+The tasks associated with image bundling are often tedious and repetitive. The
+cloud-utils package provides several scripts that wrap the complicated tasks
+with a much simpler interface.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://launchpad.net/cloud-utils/trunk/0.27/+download/cloud-utils-0.27.tar.gz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

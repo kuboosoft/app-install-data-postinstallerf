@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gl2ps-devel</b>'
+Comment='<span size="xx-large">Header files for GL2PS library</span>'
+Comment3='
+Header files for GL2PS library.
+
+URL          http//www.geuz.org/gl2ps/
+'
+License='LGPLv2+ or GL2PS'
+Screenshot=''
+Url='http://www.geuz.org/gl2ps/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

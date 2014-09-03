@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Params-Coerce</b>'
+Comment='<span size="xx-large">Allows your classes to do coercion of parameters</span>'
+Comment3='
+A big part of good API design is that we should be able to be flexible in
+the ways that we take parameters. ParamsCoerce attempts to encourage this,
+by making it easier to take a variety of different arguments, while adding
+negligible additional complexity to your code.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Params-Coerce/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sugar-logos</b>'
+Comment='<span size="xx-large">Boot splash imagery for Sugar on a Stick</span>'
+Comment3='
+A boot splash screen for Sugar using Plymouth.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.sugarlabs.org/projects/sugar-logos'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

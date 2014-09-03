@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-markupsafe</b>'
+Comment='<span size="xx-large">Implements a XML/HTML/XHTML Markup safe string for Python</span>'
+Comment3='
+A library for safe markup escaping.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/MarkupSafe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

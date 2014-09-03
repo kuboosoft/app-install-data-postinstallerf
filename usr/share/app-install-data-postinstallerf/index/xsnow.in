@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xsnow</b>'
+Comment='<span size="xx-large">An X Window System based dose of Christmas cheer</span>'
+Comment3='
+The Xsnow toy provides a continual gentle snowfall, trees, and Santa
+Claus flying his sleigh around the screen.  Xsnow is only for the X
+Window System, though; consoles just get coal.
+'
+License='Distributable'
+Screenshot=''
+Url='http://dropmix.xs4all.nl/rick/Xsnow/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

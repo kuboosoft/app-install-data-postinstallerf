@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n extrema
+Name=eXtrema
+Comment=eXtrema
+Icon=/usr/share/app-install-data-postinstallerf/icons/extrema.png
+Terminal=0
+Type=Application
+Categories=Education;Science;Math;DataVisualization;NumericalAnalysis;

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gphotoframe</b>'
+Comment='<span size="xx-large">Photo Frame Gadget for the GNOME Desktop</span>'
+Comment3='
+Gnome Photo Frame is a photo frame gadget for the GNOME Desktop.
+'
+License='GPLv3 and GPLv2+ and GFDL'
+Screenshot=''
+Url='http://code.google.com/p/gphotoframe/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

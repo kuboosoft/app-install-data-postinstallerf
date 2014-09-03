@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ibus-gtk3</b>'
+Comment='<span size="xx-large">IBus im module for gtk3</span>'
+Comment3='
+This package contains ibus im module for gtk3
+
+URL          http//code.google.com/p/ibus/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

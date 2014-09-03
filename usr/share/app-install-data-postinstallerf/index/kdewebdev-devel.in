@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdewebdev-devel</b>'
+Comment='<span size="xx-large">Header files and documentation for kdewebdev</span>'
+Comment3='
+Header files and documentation for kdewebdev.
+
+URL          http//kdewebdev.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://kdewebdev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

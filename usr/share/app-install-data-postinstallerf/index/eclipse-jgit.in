@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-jgit</b>'
+Comment='<span size="xx-large">Eclipse JGit</span>'
+Comment3='
+A pure Java implementation of the Git version control system.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.eclipse.org/egit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

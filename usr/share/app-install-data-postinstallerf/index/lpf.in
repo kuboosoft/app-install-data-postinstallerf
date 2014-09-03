@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>lpf</b>'
+Comment='<span size="xx-large">Local package factory - build non-redistributable rpms</span>'
+Comment3='
+lpf (Local Package Factory) is designed to handle two separate
+problems
+ - Packages built from sources which does not allow redistribution.
+ - Packages requiring user to accept EULA-like terms.
+
+It works by downloading sources, possibly requiring a user to accept
+license terms and then building and installing rpm package(s) locally.
+Besides being interactive the operation is similar to akmod and dkms.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/leamas/lpf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

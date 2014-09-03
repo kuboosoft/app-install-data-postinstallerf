@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tclx-devel</b>'
+Comment='<span size="xx-large">Extended Tcl development files</span>'
+Comment3='
+This package contains the tclx development files needed for building
+applications embedding tclx.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://tclx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Moose-Autobox</b>'
+Comment='<span size="xx-large">Autoboxed wrappers for native Perl datatypes</span>'
+Comment3='
+MooseAutobox provides an implementation of SCALAR, ARRAY, HASH & CODE
+for use with autobox.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Moose-Autobox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>glite-lbjp-common-server-bones</b>'
+Comment='<span size="xx-large">Skeleton of multi-process network server</span>'
+Comment3='
+The multi-process network server. A server listening on multiple ports, passing
+inbound requests to slaves and maintaining connections to specific slaves if
+possible. The library provides callback handles on connection initialization,
+incoming request, etc.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-ilmbase-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows ilmbase library</span>'
+Comment3='
+Static version of the MinGW Windows ilmbase library.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openexr.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

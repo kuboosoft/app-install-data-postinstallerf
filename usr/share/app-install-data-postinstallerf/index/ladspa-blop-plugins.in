@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ladspa-blop-plugins</b>'
+Comment='<span size="xx-large">Bandlimited LADSPA Oscillator Plugins</span>'
+Comment3='
+BLOP comprises a set of LADSPA plugins that generate bandlimited
+sawtooth, square, variable pulse and slope-variable triangle waves,
+for use in LADSPA hosts, principally for use with one of the many
+modular software synthesisers available.
+
+They are wavetable based, and are designed to produce output with
+harmonic content as high as possible over a wide pitch range.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://blop.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

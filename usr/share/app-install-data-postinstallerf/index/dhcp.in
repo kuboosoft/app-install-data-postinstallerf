@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>dhcp</b>'
+Comment='<span size="xx-large">Dynamic host configuration protocol software</span>'
+Comment3='
+DHCP (Dynamic Host Configuration Protocol) is a protocol which allows
+individual devices on an IP network to get their own network
+configuration information (IP address, subnetmask, broadcast address,
+etc.) from a DHCP server. The overall purpose of DHCP is to make it
+easier to administer a large network.
+
+To use DHCP on your network, install a DHCP service (or relay agent),
+and on clients run a DHCP client daemon.  The dhcp package provides
+the ISC DHCP service and relay agent.
+'
+License='ISC'
+Screenshot=''
+Url='http://isc.org/products/DHCP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

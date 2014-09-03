@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>emacs-common-ess</b>'
+Comment='<span size="xx-large">Emacs Speaks Statistics add-on package for Emacs</span>'
+Comment3='
+
+Emacs Speaks Statistics (ESS) is an add-on package for GNU Emacs and XEmacs.
+It provides Emacs-based front ends for popular statistics packages.
+ESS provides an intelligent, consistent interface between the user and
+the software.  ESS interfaces with S-PLUS, R, SAS, BUGS and other
+statistical analysis packages under the Unix, Microsoft Windows, and
+Apple Mac OS operating systems.  ESS is a package for the GNU Emacs
+and XEmacs text editors whose features ESS uses to streamline the
+creation and use of statistical software.  ESS knows the syntax and
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ESS.R-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

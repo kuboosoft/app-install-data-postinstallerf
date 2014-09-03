@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-aws-sdk-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-aws-sdk</span>'
+Comment3='
+Documentation for rubygem-aws-sdk
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://aws.amazon.com/sdkforruby/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

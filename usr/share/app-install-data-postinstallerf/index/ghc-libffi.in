@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-libffi</b>'
+Comment='<span size="xx-large">A binding to libffi</span>'
+Comment3='
+A binding to libffi, allowing C functions of types only known at runtime to be
+called from Haskell.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/libffi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

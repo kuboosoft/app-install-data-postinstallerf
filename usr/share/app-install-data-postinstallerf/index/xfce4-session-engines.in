@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xfce4-session-engines</b>'
+Comment='<span size="xx-large">Additional engines for xfce4-session</span>'
+Comment3='
+Additional splash screen engines for the Xfce Session Manager.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

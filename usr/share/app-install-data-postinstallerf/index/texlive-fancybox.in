@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-fancybox</b>'
+Comment='<span size="xx-large">Variants of \fbox and other games with boxes</span>'
+Comment3='
+Provides variants of \fbox \shadowbox, \doublebox, \ovalbox,
+\Ovalbox, with helpful tools for using box macros and flexible
+verbatim macros. You can box mathematics, floats, center,
+flushleft, and flushright, lists, and pages.
+
+date 2010-05-15 224527 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

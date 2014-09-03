@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-lockfile-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-lockfile</span>'
+Comment3='
+Documentation for rubygem-lockfile
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://codeforpeople.com/lib/ruby/lockfile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

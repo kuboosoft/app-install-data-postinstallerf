@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdap-devel</b>'
+Comment='<span size="xx-large">Development and header files from libdap</span>'
+Comment3='
+This package contains all the files needed to develop applications that
+will use libdap.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.opendap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

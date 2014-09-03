@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maxima-src</b>'
+Comment='<span size="xx-large">maxima lisp source code</span>'
+Comment3='
+maxima lisp source code.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://maxima.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

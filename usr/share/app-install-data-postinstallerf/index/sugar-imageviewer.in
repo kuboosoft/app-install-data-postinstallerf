@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-imageviewer</b>'
+Comment='<span size="xx-large">Simple Image viewer for Sugar</span>'
+Comment3='
+The Image Viewer activity is a simple and fast image viewer tool for Sugar.
+It has features one would expect of a standard image viewer, like zoom,
+rotate, etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Image_Viewer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

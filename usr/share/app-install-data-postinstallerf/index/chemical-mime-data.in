@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>chemical-mime-data</b>'
+Comment='<span size="xx-large">Support for chemical/* MIME types</span>'
+Comment3='
+A collection of data files which tries to give support for various chemical
+MIME types (chemical/*) on Linux/UNIX desktops. Chemical MIMEs have been
+proposed in 1995, though it seems they have never been registered with IANA.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/chemical-mime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CPAN-Meta-Check</b>'
+Comment='<span size="xx-large">Verify requirements in a CPAN::Meta object</span>'
+Comment3='
+This module verifies if requirements described in a CPANMeta object are
+present.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/CPAN-Meta-Check'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

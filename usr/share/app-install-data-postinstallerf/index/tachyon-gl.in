@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tachyon-gl</b>'
+Comment='<span size="xx-large">Parallel / Multiprocessor Ray Tracing System with OpenGL display</span>'
+Comment3='
+A portable, high performance parallel ray tracing system with
+multithreaded implementation.
+
+This package contains OpenGL-enabled build.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://jedi.ks.uiuc.edu/~johns/raytracer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

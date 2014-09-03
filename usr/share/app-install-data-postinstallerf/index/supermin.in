@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>supermin</b>'
+Comment='<span size="xx-large">Tool for creating supermin appliances</span>'
+Comment3='
+Supermin is a tool for building supermin appliances.  These are tiny
+appliances (similar to virtual machines), usually around 100KB in
+size, which get fully instantiated on-the-fly in a fraction of a
+second when you need to boot one of them.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://people.redhat.com/~rjones/supermin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

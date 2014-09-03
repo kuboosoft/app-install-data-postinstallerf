@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ColPack</b>'
+Comment='<span size="xx-large">Algorithms for specialized vertex coloring problems</span>'
+Comment3='
+ColPack is a package comprising of implementation of algorithms for
+specialized vertex coloring problems that arise in sparse derivative
+computation. It is written in an object-oriented fashion heavily using
+the Standard Template Library (STL).  It is designed to be simple,
+modular, extendable and efficient.
+
+This build has openMP-support enabled.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://cscapes.cs.purdue.edu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

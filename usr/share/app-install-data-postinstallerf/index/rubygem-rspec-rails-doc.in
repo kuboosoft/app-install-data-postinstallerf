@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rspec-rails-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rspec-rails</span>'
+Comment3='
+Documentation for rubygem-rspec-rails
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rspec/rspec-rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

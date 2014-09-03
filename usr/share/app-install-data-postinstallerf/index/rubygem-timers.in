@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-timers</b>'
+Comment='<span size="xx-large">Pure Ruby one-shot and periodic timers</span>'
+Comment3='
+Schedule procs to run after a certain time using any API that accepts a timeout
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/celluloid/timers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

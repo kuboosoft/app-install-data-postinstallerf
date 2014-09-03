@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glyphtracer</b>'
+Comment='<span size="xx-large">Program for creating fonts from images</span>'
+Comment3='
+Glyphtracer takes an image of letters. It detects all letter forms and allows
+the user to tag them.  They are then vectorised and passed on to Fontforge for
+fine tuning.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://launchpad.net/glyphtracer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

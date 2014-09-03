@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-DateTime-TimeZone</b>'
+Comment='<span size="xx-large">Time zone object base class and factory</span>'
+Comment3='
+This class is the base class for all time zone objects. A time zone is
+represented internally as a set of observances, each of which describes the
+offset from GMT for a given time period.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-TimeZone/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

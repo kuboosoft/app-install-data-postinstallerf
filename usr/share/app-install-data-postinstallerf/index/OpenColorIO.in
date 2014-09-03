@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>OpenColorIO</b>'
+Comment='<span size="xx-large">Enables color transforms and image display across graphics apps</span>'
+Comment3='
+OCIO enables color transforms and image display to be handled in a consistent
+manner across multiple graphics applications. Unlike other color management
+solutions, OCIO is geared towards motion-picture post production, with an
+emphasis on visual effects and animation color pipelines.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://opencolorio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

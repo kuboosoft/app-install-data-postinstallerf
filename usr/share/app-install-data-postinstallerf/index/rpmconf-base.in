@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rpmconf-base</b>'
+Comment='<span size="xx-large">Filesystem for rpmconf</span>'
+Comment3='
+Directory hierarchy for installation scripts, which are handled by rpmconf.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://wiki.github.com/xsuchy/rpmconf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

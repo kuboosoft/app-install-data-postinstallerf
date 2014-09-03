@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>drumstick-devel</b>'
+Comment='<span size="xx-large">Developer files for drumstick</span>'
+Comment3='
+Developer files for drumstick.
+
+URL          http//drumstick.sourceforge.net/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drumstick.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

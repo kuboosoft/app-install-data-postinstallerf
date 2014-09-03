@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cmigemo-devel</b>'
+Comment='<span size="xx-large">Development files for cmigemo</span>'
+Comment3='
+This package  contains libraries and header files for
+developing applications that use cmigemo.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.kaoriya.net/software/cmigemo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

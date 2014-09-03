@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>itstool</b>'
+Comment='<span size="xx-large">ITS-based XML translation tool</span>'
+Comment3='
+ITS Tool allows you to translate XML documents with PO files, using rules from
+the W3C Internationalization Tag Set (ITS) to determine what to translate and
+how to separate it into PO file messages.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://itstool.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xsc</b>'
+Comment='<span size="xx-large">A clone of the old vector graphics video game Star Castle</span>'
+Comment3='
+The object is to blast a hole in the rings and destroy the enemy ship.
+The only problem is that it tracks your every move and as soon as you
+knock a hole in all three rings, and they all line up, it lets loose
+with the big nasty green fireballs.  Avoid them.  Avoid the little green
+buzzers, too.  Shoot em if you want.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.panix.com/~mbh/projects.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

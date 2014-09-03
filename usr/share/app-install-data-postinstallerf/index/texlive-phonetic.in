@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-phonetic</b>'
+Comment='<span size="xx-large">MetaFont Phonetic fonts, based on Computer Modern</span>'
+Comment3='
+The fonts are based on Computer Modern, and specified in
+MetaFont. Macros for the fonts use are provided, both for
+LaTeX 2.09 and for current LaTeX.
+
+date 2011-03-28 222158 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-iso8601</b>'
+Comment='<span size="xx-large">Node.js module to parse and print ISO8601 dates</span>'
+Comment3='
+Node.js module to parse and print ISO8601 dates
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/calmh/node-iso8601'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

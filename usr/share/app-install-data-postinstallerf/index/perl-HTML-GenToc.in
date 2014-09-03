@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-HTML-GenToc</b>'
+Comment='<span size="xx-large">Generate a Table of Contents for HTML documents</span>'
+Comment3='
+HTMLGenToc generates anchors and a table of contents for HTML documents.
+Depending on the arguments, it will insert the information it generates, or
+output to a string, a separate file or STDOUT.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-GenToc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

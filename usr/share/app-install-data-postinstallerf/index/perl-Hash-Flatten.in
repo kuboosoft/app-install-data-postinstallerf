@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Hash-Flatten</b>'
+Comment='<span size="xx-large">Flatten/unflatten complex data hashes</span>'
+Comment3='
+Converts back and forth between a nested hash structure and a flat hash of
+delimited key-value pairs. Useful for protocols that only support key-value
+pairs (such as CGI and DBMs).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/Hash-Flatten/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

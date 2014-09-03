@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mate-terminal</b>'
+Comment='<span size="xx-large">Terminal emulator for MATE</span>'
+Comment3='
+Mate-terminal is a terminal emulator for MATE. It supports translucent
+backgrounds, opening multiple terminals in a single window (tabs) and
+clickable URLs.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://mate-desktop.org'
+clickable URLs.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

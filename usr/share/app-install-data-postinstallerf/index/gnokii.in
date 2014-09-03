@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gnokii</b>'
+Comment='<span size="xx-large">Linux/Unix tool suite for various mobile phones</span>'
+Comment3='
+Gnokii provides tools and a user space driver for use with mobile
+phones under Linux, various unices and Win32. With gnokii you can do
+such things as make data calls, update your address book, change
+calendar entries, send and receive SMS messages and load ring tones
+depending on the phone you have.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnokii.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

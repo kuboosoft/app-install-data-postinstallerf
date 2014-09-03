@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nagios-plugins-dummy</b>'
+Comment='<span size="xx-large">Nagios Plugin - check_dummy</span>'
+Comment3='
+Provides check_dummy support for Nagios.
+This plugin does not actually check anything, simply provide it with a flag
+0-4 and it will return the corresponding status code to Nagios.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://nagiosplug.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>equalx</b>'
+Comment='<span size="xx-large">A graphical editor for writing LaTeX equations</span>'
+Comment3='
+EqualX is an application that helps you write equations in LaTeX
+and preview them in real-time.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://equalx.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

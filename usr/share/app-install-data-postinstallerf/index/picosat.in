@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>picosat</b>'
+Comment='<span size="xx-large">A SAT solver</span>'
+Comment3='
+PicoSAT solves the SAT problem, which is the classical NP complete
+problem of searching for a satisfying assignment of a propositional
+formula in conjunctive normal form (CNF).  PicoSAT can generate proofs
+and cores in memory by compressing the proof trace.  It supports the
+proof format of TraceCheck.
+'
+License='MIT'
+Screenshot=''
+Url='http://fmv.jku.at/picosat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

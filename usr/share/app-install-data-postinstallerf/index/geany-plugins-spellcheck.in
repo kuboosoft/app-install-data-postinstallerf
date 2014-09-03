@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geany-plugins-spellcheck</b>'
+Comment='<span size="xx-large">Spellcheck Text in Geany using the Enchant Library</span>'
+Comment3='
+Spellcheck checks the selected text (or the whole document) with the spellcheck
+library Enchant
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

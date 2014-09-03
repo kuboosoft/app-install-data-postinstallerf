@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-asana-math</b>'
+Comment='<span size="xx-large">A font to typeset maths in Xe(La)TeX and Lua(La)TeX</span>'
+Comment3='
+The Asana-Math font is an OpenType font that includes almost
+all mathematical Unicode symbols and it can be used to typeset
+mathematical text with any software that can understand the
+MATH OpenType table (e.g., XeTeX 0.997 and Microsoft Word
+2007). The font is beta software. Typesetting support for use
+with LaTeX is provided by the fontspec and unicode-math
+packages.
+
+date 2013-09-22 214313 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

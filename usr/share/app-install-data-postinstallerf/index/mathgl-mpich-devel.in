@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mathgl-mpich-devel</b>'
+Comment='<span size="xx-large">Devel files for MPICH version of mathgl library</span>'
+Comment3='
+Devel files for MPICH version of mathgl library.
+
+URL          http//mathgl.sourceforge.net
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mathgl.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libpam4j</b>'
+Comment='<span size="xx-large">Java binding for libpam.so</span>'
+Comment3='
+This package provides Java binding for libpam library.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kohsuke/libpam4j'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>xsd</b>'
+Comment='<span size="xx-large">W3C XML schema to C++ data binding compiler</span>'
+Comment3='
+CodeSynthesis XSD is an open-source, cross-platform W3C XML Schema to
+C++ data binding compiler. Provided with an XML instance specification
+(XML Schema), it generates C++ classes that represent the given
+vocabulary as well as parsing and serialization code.
+You can then access the data stored in XML using types and functions
+that semantically correspond to your application domain rather than
+dealing with intricacies of reading and writing XML.
+'
+License='GPLv2 with exceptions and ASL 2.0'
+Screenshot=''
+Url='http://www.codesynthesis.com/products/xsd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

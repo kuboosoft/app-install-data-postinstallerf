@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>julius-japanese-models</b>'
+Comment='<span size="xx-large">Julius Japanese language model and acoustic models</span>'
+Comment3='
+A Japanese language model (20k-word trained by newspaper article) and acoustic
+models (Phonetic tied-mixture triphone / monophone) for use with Julius.
+'
+License='Julius'
+Screenshot=''
+Url='http://julius.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

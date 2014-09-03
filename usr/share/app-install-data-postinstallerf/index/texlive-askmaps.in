@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-askmaps</b>'
+Comment='<span size="xx-large">Typeset American style Karnaugh maps</span>'
+Comment3='
+The package provides 2, 3, 4 and 5 variable Karnaugh maps, in
+the style used in numerous textbooks on digital design. The
+package draws K-maps where the most significant input variables
+are placed on top of the columns and the least significant
+variables are placed left of the rows.
+
+date 2013-12-04 203916 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

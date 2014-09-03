@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>orthancclient-devel</b>'
+Comment='<span size="xx-large">Header files for Orthanc Client library</span>'
+Comment3='
+This package contains the development and header files for the Orthanc
+Client library.
+
+'
+License='GPLv3 with exceptions'
+Screenshot=''
+Url='https://code.google.com/p/orthanc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

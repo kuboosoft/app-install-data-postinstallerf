@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Test-HexString</b>'
+Comment='<span size="xx-large">Test binary strings with hex dump diagnostics</span>'
+Comment3='
+This testing module provides a single function, is_hexstr(), which asserts
+that the given string matches what was expected. When the strings match
+(i.e. compare equal using the eq operator), the behaviour is identical to
+the usual is() function provided by TestMore.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-HexString/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

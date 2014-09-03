@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>octave-optim</b>'
+Comment='<span size="xx-large">A non-linear optimization tool kit for Octave</span>'
+Comment3='
+This package contains a non-linear optimization tool kit for Octave, containing
+functions for curve fitting and the following minimization algorithms
+* Nead-Miller simplex
+* Conjugate Gradients
+* Memory limited BFGS
+* Simulated Annealing
+'
+License='GPLv3+ and GFDL'
+Screenshot=''
+Url='http://octave.sourceforge.net/optim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

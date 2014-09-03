@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-gobject</b>'
+Comment='<span size="xx-large">libvirt object APIs for managing virtualization hosts</span>'
+Comment3='
+This package provides APIs for managing virtualization host
+objects
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

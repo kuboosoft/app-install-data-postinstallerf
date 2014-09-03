@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-namespc</b>'
+Comment='<span size="xx-large">Rudimentary c++-like namespaces in LaTeX</span>'
+Comment3='
+The namespc package adds rudimentary c++-like namespace
+functionality to LaTeX. It may be used to declare local LaTeX
+commands, which can be made accessible in a later contexts
+without defining them globally.
+
+date 2006-12-22 143719 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

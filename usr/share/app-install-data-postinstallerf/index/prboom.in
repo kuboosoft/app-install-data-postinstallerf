@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>prboom</b>'
+Comment='<span size="xx-large">Open source port of the DOOM game engine</span>'
+Comment3='
+prboom is an open-source port of Doom, the classic 3D first-person shooter
+game.  It totally outclassed any 3D world games that preceded it, with amazing
+speed, flexibility, and outstanding gameplay. The specs to the game were
+released, and thousands of extra levels were written by fans of the game; even
+today new levels are written for Doom faster then any one person could play
+them.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://prboom.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

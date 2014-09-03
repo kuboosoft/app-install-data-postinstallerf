@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pear-Numbers-Roman</b>'
+Comment='<span size="xx-large">Provides methods for converting to and from Roman Numerals</span>'
+Comment3='
+Numbers_Roman provides static methods for converting to and from Roman
+numerals. It supports Roman numerals in both uppercase and lowercase
+styles and conversion for and to numbers up to 5 999 999.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Numbers_Roman'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

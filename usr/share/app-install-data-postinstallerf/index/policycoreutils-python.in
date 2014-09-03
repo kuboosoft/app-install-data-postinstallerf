@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>policycoreutils-python</b>'
+Comment='<span size="xx-large">SELinux policy core python utilities</span>'
+Comment3='
+The policycoreutils-python package contains the management tools use to manage
+an SELinux environment.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.selinuxproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

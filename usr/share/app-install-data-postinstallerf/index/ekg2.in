@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ekg2</b>'
+Comment='<span size="xx-large">Multi-protocol instant messaging and chat client</span>'
+Comment3='
+Multi-protocol instant messaging and chat client with many plugins.
+This is a meta package that installs ekg2 with popular plugins.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.ekg2.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

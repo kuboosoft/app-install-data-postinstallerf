@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-lambda-lists</b>'
+Comment='<span size="xx-large">Lists in TeXs mouth</span>'
+Comment3='
+These list-processing macros avoid the reassignments employed
+in the macros shown in Appendix D of the TeXbook all the
+manipulations take place in what Knuth is pleased to call
+"TeXs mouth".
+
+date 2013-08-09 202641 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

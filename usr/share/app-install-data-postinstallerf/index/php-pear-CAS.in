@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-CAS</b>'
+Comment='<span size="xx-large">Central Authentication Service client library in php</span>'
+Comment3='
+This package is a PEAR library for using a Central Authentication Service.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://wiki.jasig.org/display/CASC/phpCAS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

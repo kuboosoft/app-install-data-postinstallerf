@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gsm</b>'
+Comment='<span size="xx-large">Shared libraries for GSM speech compressor</span>'
+Comment3='
+Contains runtime shared libraries for libgsm, an implementation of
+the European GSM 06.10 provisional standard for full-rate speech
+transcoding, prI-ETS 300 036, which uses RPE/LTP (residual pulse
+excitation/long term prediction) coding at 13 kbit/s.
+
+GSM 06.10 compresses frames of 162 13-bit samples (8 kHz sampling
+rate, i.e. a frame rate of 50 Hz) into 260 bits; for compatibility
+with typical UNIX applications, our implementation turns frames of 160
+16-bit linear samples into 33-byte frames (1650 Bytes/s).
+The quality of the algorithm is good enough for reliable speaker
+'
+License='MIT'
+Screenshot=''
+Url='http://www.quut.com/gsm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

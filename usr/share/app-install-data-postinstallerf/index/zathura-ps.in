@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>zathura-ps</b>'
+Comment='<span size="xx-large">PS support for zathura via libspectre</span>'
+Comment3='
+The zathura-ps plugin adds PostScript support to zathura by
+using the libspectre library.
+'
+License='zlib'
+Screenshot=''
+Url='http://pwmt.org/projects/zathura/plugins/zathura-ps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

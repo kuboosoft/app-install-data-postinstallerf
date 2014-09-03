@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-rsslib</b>'
+Comment='<span size="xx-large">Create RSS feeds in Python</span>'
+Comment3='
+This library encapsulates the generation of an RSS (2.0) feed.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://berserk.org/rsslib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

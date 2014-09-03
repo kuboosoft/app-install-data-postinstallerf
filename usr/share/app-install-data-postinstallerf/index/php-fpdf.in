@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-fpdf</b>'
+Comment='<span size="xx-large">PHP class to generate PDF Files</span>'
+Comment3='
+FPDF is a PHP class which allows to generate PDF files with pure PHP, that is
+to say without using the PDFlib library. F from FPDF stands for Free you may
+use it for any kind of usage and modify it to suit your needs.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.fpdf.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

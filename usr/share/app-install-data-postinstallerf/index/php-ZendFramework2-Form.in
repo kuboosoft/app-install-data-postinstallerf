@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Form</b>'
+Comment='<span size="xx-large">Zend Framework 2: Form Component</span>'
+Comment3='
+Zend\Form is intended primarily as a bridge between your domain models and the
+View Layer. It composes a thin layer of objects representing form elements, an
+InputFilter, and a small number of methods for binding data to and from the
+form and attached objects.
+
+The Zend\Form component consists of the following objects
+* Elements, which simply consist of a name and attributes.
+* Fieldsets, which extend from Elements, but allow composing other fieldsets
+  and elements.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.form.intro.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

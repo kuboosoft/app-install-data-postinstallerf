@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-dotconf</b>'
+Comment='<span size="xx-large">Parser for the dot.conf configuration file</span>'
+Comment3='
+Parser for the dot.conf configuration file
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/python-dotconf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

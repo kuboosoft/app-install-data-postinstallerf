@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>aj-snapshot</b>'
+Comment='<span size="xx-large">Restores ALSA and JACK connections</span>'
+Comment3='
+aj-snapshot is a small program that can be used to make snapshots of the
+connections made between JACK and/or ALSA clients. Because JACK can provide
+both audio and MIDI support to programs, aj-snapshot can store both types of
+connections for JACK. ALSA, on the other hand, only provides routing
+facilities for MIDI clients. You can also run aj-snapshot in daemon mode if
+you want to have your connections continually restored.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://aj-snapshot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

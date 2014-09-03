@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-coverpage</b>'
+Comment='<span size="xx-large">Automatic cover page creation for scientific papers (with BibTeX data and copyright notice)</span>'
+Comment3='
+The package CoverPage was created to supplement scientific
+papers with a cover page containing bibliographical
+information, a copyright notice, and/or some logos of the
+authors institution. The cover page is created (almost)
+automatically; this is done by parsing BibTeX information
+corresponding to the main document and reading a configuration
+file in which the author can set information like the
+affiliation he or she is associated with. The cover page
+consists of header, body and footer; all three are macros which
+can be redefined using \renewcommand, thus allowing easy
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

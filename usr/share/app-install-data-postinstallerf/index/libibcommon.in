@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libibcommon</b>'
+Comment='<span size="xx-large">OpenFabrics Alliance InfiniBand management common library</span>'
+Comment3='
+libibcommon provides common utility functions for the OFA diagnostic and
+management tools.
+
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

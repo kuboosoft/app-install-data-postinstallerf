@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sugar-base</b>'
+Comment='<span size="xx-large">Base Sugar library</span>'
+Comment3='
+
+The base libary for Sugar, the user interface of the One Laptop Per
+Child project. It provides helpers for the development of services and
+activities.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://sugarlabs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

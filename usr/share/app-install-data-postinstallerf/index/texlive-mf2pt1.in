@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-mf2pt1</b>'
+Comment='<span size="xx-large">Produce PostScript Type 1 fonts from Metafont source</span>'
+Comment3='
+mf2pt1 facilitates producing PostScript Type 1 fonts from a
+Metafont source file. It is not, as the name may imply, an
+automatic converter of arbitrary Metafont fonts to Type 1
+format. mf2pt1 imposes a number of restrictions on the Metafont
+input. If these restrictions are met, mf2pt1 will produce valid
+Type 1 output with more accurate control points than can be
+reverse-engineered by TeXtrace, mftrace, and other programs
+which convert bitmaps to outline fonts.
+
+date 2012-08-25 105821 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

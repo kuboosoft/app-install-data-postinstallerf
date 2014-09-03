@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>redhat-lsb-submod-security</b>'
+Comment='<span size="xx-large">LSB Security submodule support</span>'
+Comment3='
+The Linux Standard Base (LSB) Security submodule specifications define
+components that are required to be present on an LSB conforming system.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.linuxfoundation.org/collaborate/workgroups/lsb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

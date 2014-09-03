@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-version</b>'
+Comment='<span size="xx-large">Conditionally include text</span>'
+Comment3='
+Defines macros \includeversion{NAME} and \excludeversion{NAME},
+each of which defines an environment NAME whose text is to be
+included or excluded from compilation. Although the command
+syntax is very similar to that of comment, comment.sty is to be
+preferred to version.sty for documents where significant chunks
+of text may be excluded.
+
+date 2011-04-02 154325 +0200
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

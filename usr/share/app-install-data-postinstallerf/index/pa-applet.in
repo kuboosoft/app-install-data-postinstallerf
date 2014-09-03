@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pa-applet</b>'
+Comment='<span size="xx-large">Applet to control PulseAudio volume level and default sink</span>'
+Comment3='
+pa-applet is a systray-applet that allows you to control some of
+PulseAudios features. More specifically, pa-applet allows you to control
+the volume level of the default sink and mute or unmute it. It also allows you
+to change the active profile of the default sink, which can be useful to tell
+PulseAudio to redirect audio to the HDMI output instead of outputting to the
+built-in speakers in a computer connected to an HDMI device.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/fernandotcl/pa-applet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

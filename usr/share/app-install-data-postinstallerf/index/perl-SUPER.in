@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-SUPER</b>'
+Comment='<span size="xx-large">Sane superclass method dispatcher</span>'
+Comment3='
+When subclassing a class, you occasionally want to dispatch control to the
+superclass - at least conditionally and temporarily. This module provides
+an easier, cleaner way for class methods to access their ancestors
+implementation.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/SUPER/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

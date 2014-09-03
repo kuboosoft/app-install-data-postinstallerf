@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-editdist</b>'
+Comment='<span size="xx-large">CPython module to quickly calculate Levenshteins edit distance</span>'
+Comment3='
+"editdist" is a CPython module that calculates the Levenshtein edit
+distance between two strings.
+'
+License='BSD and ISC'
+Screenshot=''
+Url='http://code.google.com/p/py-editdist/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

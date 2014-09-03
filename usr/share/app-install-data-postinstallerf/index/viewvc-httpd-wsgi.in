@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>viewvc-httpd-wsgi</b>'
+Comment='<span size="xx-large">ViewVC configuration for Apache/mod_wsgi</span>'
+Comment3='
+ViewVC configuration for Apache/mod_wsgi. This package should provide ViewVC
+with decent performance when run under Apache.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.viewvc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

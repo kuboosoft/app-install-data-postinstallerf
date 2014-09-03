@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-packagekit-installer</b>'
+Comment='<span size="xx-large">PackageKit package installer</span>'
+Comment3='
+A graphical package installer for PackageKit which is used to manage software
+not shown in GNOME Software.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

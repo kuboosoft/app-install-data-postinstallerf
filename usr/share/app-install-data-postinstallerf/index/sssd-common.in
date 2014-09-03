@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sssd-common</b>'
+Comment='<span size="xx-large">Common files for the SSSD</span>'
+Comment3='
+Common files for the SSSD. The common package includes all the files needed
+to run a particular back end, however, the back ends are packaged in separate
+subpackages such as sssd-ldap.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

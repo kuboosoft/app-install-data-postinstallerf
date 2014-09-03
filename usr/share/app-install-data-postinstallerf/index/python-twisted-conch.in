@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-twisted-conch</b>'
+Comment='<span size="xx-large">SSH and SFTP protocol implementation together with clients and servers</span>'
+Comment3='
+Twisted is an event-based framework for internet applications.
+
+Conch is an SSHv2 implementation written in Python. SSH is a protocol designed
+to allow remote access to shells and commands, but it is generic enough to
+allow everything from TCP forwarding to generic filesystem access. Since conch
+is written in Python, it interfaces well with other Python projects, such as
+Imagination. Conch also includes a implementations of the telnet and vt102
+protocols, as well as support for rudamentary line editing behaviors. A new
+implementation of Twisteds Manhole application is also included, featuring
+server-side input history and interactive syntax coloring.
+'
+License='MIT'
+Screenshot=''
+Url='http://twistedmatrix.com/trac/wiki/TwistedConch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtdb-devel</b>'
+Comment='<span size="xx-large">Header files need to link the Tdb library</span>'
+Comment3='
+Header files needed to develop programs that link against the Tdb library.
+
+URL          http//tdb.samba.org/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://tdb.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

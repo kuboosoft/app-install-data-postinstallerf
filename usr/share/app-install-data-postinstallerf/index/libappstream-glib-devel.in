@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libappstream-glib-devel</b>'
+Comment='<span size="xx-large">GLib Libraries and headers for appstream-glib</span>'
+Comment3='
+GLib headers and libraries for appstream-glib.
+
+URL          http//people.freedesktop.org/~hughsient/appstream-glib/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://people.freedesktop.org/~hughsient/appstream-glib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

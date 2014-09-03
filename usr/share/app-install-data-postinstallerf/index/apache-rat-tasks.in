@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-rat-tasks</b>'
+Comment='<span size="xx-large">Ant tasks for apache-rat</span>'
+Comment3='
+Ant tasks for running RAT.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://creadur.apache.org/rat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

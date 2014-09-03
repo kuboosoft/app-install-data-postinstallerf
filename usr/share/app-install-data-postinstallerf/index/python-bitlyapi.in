@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-bitlyapi</b>'
+Comment='<span size="xx-large">A thin python wrapper for the bit.ly REST API</span>'
+Comment3='
+
+This is a thin Python wrapper for the bit.ly API.  Basic usage looks
+like this
+    >>> import bitlyapi
+    >>> b = bitlyapi.BitLy(api_user, api_key)
+    >>> res = b.shorten(longUrl=http//www.google.com/)
+    >>> print res[url]
+    http//bit.ly/6Hwstb
+    >>> print res[long_url]
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/bitlyapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

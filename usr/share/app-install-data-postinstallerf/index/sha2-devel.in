@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sha2-devel</b>'
+Comment='<span size="xx-large">Development files for sha2</span>'
+Comment3='
+The sha2-devel package contains libraries and header files for
+developing applications that use sha2.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.aarongifford.com/computers/sha.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

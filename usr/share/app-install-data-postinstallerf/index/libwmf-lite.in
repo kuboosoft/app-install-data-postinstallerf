@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwmf-lite</b>'
+Comment='<span size="xx-large">Windows Metafile parser library</span>'
+Comment3='
+A library for parsing Windows MetaFile vector graphics (WMF).
+
+URL          http//wvware.sourceforge.net/libwmf.html
+'
+License='LGPLv2+ and GPLv2+ and GPL+'
+Screenshot=''
+Url='http://wvware.sourceforge.net/libwmf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

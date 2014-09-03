@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libfame-devel</b>'
+Comment='<span size="xx-large">Libraries and include to develop using FAME</span>'
+Comment3='
+FAME is a library for fast MPEG encoding.
+This package contains the libraries, include files and other resources
+you can use to develop FAME applications.
+
+'
+License='LGPL'
+Screenshot=''
+Url='http://fame.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

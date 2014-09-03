@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-PHPMailer</b>'
+Comment='<span size="xx-large">PHP email transport class with a lot of features</span>'
+Comment3='
+Full Featured Email Transfer Class for PHP. PHPMailer features
+
+    * Supports emails digitally signed with S/MIME encryption!
+    * Supports emails with multiple TOs, CCs, BCCs and REPLY-TOs
+    * Works on any platform.
+    * Supports Text & HTML emails.
+    * Embedded image support.
+    * Multipart/alternative emails for mail clients that do not read
+      HTML email.
+    * Flexible debugging.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://phpmailer.worxware.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

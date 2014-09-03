@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openshift-java-client</b>'
+Comment='<span size="xx-large">OpenShift Java Client</span>'
+Comment3='
+This is a client for OpenShift written in java. It pretty much offers all
+features that are currently available in the rhc-* command line tools
+(create/rename a domain, create/destroy applications, list all existing
+applications, available cartridges, embed cartridges etc.).
+'
+License='EPL'
+Screenshot=''
+Url='http://openshift.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

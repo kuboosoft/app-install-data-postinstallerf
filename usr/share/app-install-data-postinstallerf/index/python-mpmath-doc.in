@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-mpmath-doc</b>'
+Comment='<span size="xx-large">HTML documentation for python-mpmath</span>'
+Comment3='
+This package contains the HTML documentation for python-mpmath.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/mpmath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

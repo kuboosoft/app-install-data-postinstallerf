@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-unf_ext-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-unf_ext</span>'
+Comment3='
+Documentation for rubygem-unf_ext.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/knu/ruby-unf_ext'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

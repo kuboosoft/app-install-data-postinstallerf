@@ -1,0 +1,14 @@
+[Desktop Entry]
+Exec=postinstaller -n tupi
+Name=Tupi: 2D Magic
+Name[es]=Tupí: Magia 2D
+Name[pt]=Tupí: Magia 2D
+Name[ru]=Tupi: 2D Magic
+Icon=/usr/share/app-install-data-postinstallerf/icons/tupi.png
+Type=Application
+Categories=Application;Graphics;2DGraphics;RasterGraphics;
+Comment=2D Animation Toolkit
+Comment[es]=Herramienta para Animación 2D
+Comment[pt]=Ferramenta de animação 2D
+Comment[ru]=Создание двухмерной векторной анимации
+Terminal=false

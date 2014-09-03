@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jbosgi-vfs-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jbosgi-vfs</span>'
+Comment3='
+This package contains the API documentation for jbosgi-vfs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://community.jboss.org/wiki/JBossOSGi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

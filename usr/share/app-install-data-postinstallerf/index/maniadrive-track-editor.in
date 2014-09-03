@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maniadrive-track-editor</b>'
+Comment='<span size="xx-large">ManiaDrive track editor</span>'
+Comment3='
+Track editor for ManiaDrive, an arcade car game on acrobatic tracks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://maniadrive.raydium.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

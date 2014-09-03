@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>avr-gcc</b>'
+Comment='<span size="xx-large">Cross Compiling GNU GCC targeted at avr</span>'
+Comment3='
+This is a Cross Compiling version of GNU GCC, which can be used to
+compile for the avr platform, instead of for the
+native x86_64 platform.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gcc.gnu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

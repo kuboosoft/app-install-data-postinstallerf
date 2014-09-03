@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>validns</b>'
+Comment='<span size="xx-large">DNS and DNSSEC zone file validator</span>'
+Comment3='
+DNS and DNSSEC zone file validator. It comes with no man page and no
+useful README or information, but its a nice tool anyway )
+'
+License='BSD'
+Screenshot=''
+Url='http://www.validns.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

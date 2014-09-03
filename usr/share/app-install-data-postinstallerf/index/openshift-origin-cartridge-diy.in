@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openshift-origin-cartridge-diy</b>'
+Comment='<span size="xx-large">DIY OpenShift cartridge</span>'
+Comment3='
+DIY cartridge for openshift. (Cartridge Format V2)
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://www.openshift.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

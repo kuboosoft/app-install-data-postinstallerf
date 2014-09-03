@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-hledger-lib</b>'
+Comment='<span size="xx-large">Core library for the hledger accounting tool</span>'
+Comment3='
+This is the core library of the hledger financial app used
+by various hledger packages.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://hackage.haskell.org/package/hledger-lib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

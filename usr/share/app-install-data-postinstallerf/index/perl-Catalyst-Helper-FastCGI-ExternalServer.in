@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Helper-FastCGI-ExternalServer</b>'
+Comment='<span size="xx-large">FastCGI daemon start/stop script for using FastCgiExternalServer</span>'
+Comment3='
+This module allows configuration using /etc/sysconfig/myapp. First make
+a file called /etc/sysconfig/myapp and then write some variables in it.
+The variables that you add to the file will automatically override the
+environment variables.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Helper-FastCGI-ExternalServer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

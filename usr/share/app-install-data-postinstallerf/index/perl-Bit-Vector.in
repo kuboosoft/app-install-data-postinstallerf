@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Bit-Vector</b>'
+Comment='<span size="xx-large">Efficient bit vector, set of integers and "big int" math library</span>'
+Comment3='
+BitVector is an efficient C library which allows you to handle bit
+vectors, sets (of integers), "big integer arithmetic" and boolean
+matrices, all of arbitrary sizes.
+
+The library is efficient (in terms of algorithmical complexity) and
+therefore fast (in terms of execution speed) for instance through the
+widespread use of divide-and-conquer algorithms.
+'
+License='(GPLv2+ or Artistic) and LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Bit-Vector/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

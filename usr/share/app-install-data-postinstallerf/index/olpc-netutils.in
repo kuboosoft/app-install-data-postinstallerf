@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>olpc-netutils</b>'
+Comment='<span size="xx-large">OLPC network utilities</span>'
+Comment3='
+olpc-netutils is a GPL-licensed collection of scripts for logging network
+status information on OLPC XOs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Olpc-netutils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

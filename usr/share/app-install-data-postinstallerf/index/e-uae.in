@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>e-uae</b>'
+Comment='<span size="xx-large">A powerful Amiga Emulator, based on UAE</span>'
+Comment3='
+E-UAE is an Amiga Emulator based on UAE which attempts to bring all the
+features of WinUAE to non Windows platforms. E-UAE includes almost
+complete emulation of the custom chips, including AGA, bsdsocket
+emulation, JIT compilation for X86 processors, emulation of the 68000 to
+the 68060 as well as the FPUs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rcdrummond.net/uae/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

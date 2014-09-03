@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zukitwo-gtk3-theme</b>'
+Comment='<span size="xx-large">Zukitwo GTK+3 themes</span>'
+Comment3='
+Themes for GTK+3 as part of the Zukitwo theme.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://lassekongo83.deviantart.com/art/Zukitwo-203936861'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

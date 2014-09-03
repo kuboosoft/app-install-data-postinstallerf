@@ -1,0 +1,14 @@
+#!/bin/sh
+Name='<b>erlang-sasl</b>'
+Comment3='
+release upgrades and alarm handling etc.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

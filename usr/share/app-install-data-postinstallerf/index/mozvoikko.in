@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mozvoikko</b>'
+Comment='<span size="xx-large">Finnish Voikko spell-checker extension for Mozilla programs</span>'
+Comment3='
+This is mozvoikko, an extension for Mozilla programs for using the Finnish
+spell-checker Voikko.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://voikko.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mldonkey-server</b>'
+Comment='<span size="xx-large">Enables mldonkey as a system daemon</span>'
+Comment3='
+Contains init and configs to launch mldonkey as a service.
+
+NOTE by default incoming dir is located in /var/lib/mldonkey/incoming
+and temp dir in /var/lib/cache/mldonkey. Mlondkey is launched
+with the mldonkey user (created after installation).
+NOTE If you are using a password for your mldonkey, you need to specify
+it in your /etc/sysconfig/mldonkey, because mldonkey now stores
+it encrypted.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mldonkey.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

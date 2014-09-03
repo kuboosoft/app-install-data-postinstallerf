@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rasmol-gtk</b>'
+Comment='<span size="xx-large">GTK version of rasmol</span>'
+Comment3='
+GTK version of rasmol.
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://www.rasmol.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

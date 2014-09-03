@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>http-parser-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for http-parser</span>'
+Comment3='
+Development headers and libraries for http-parser.
+
+URL          http//github.com/joyent/http-parser
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/joyent/http-parser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

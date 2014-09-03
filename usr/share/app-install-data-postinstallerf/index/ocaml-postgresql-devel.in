@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-postgresql-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-postgresql</span>'
+Comment3='
+The ocaml-postgresql-devel package contains libraries and signature files for
+developing applications that use ocaml-postgresql.
+
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='https://bitbucket.org/mmottl/postgresql-ocaml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

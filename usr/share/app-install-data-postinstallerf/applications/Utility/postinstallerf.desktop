@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n postinstallerf
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/postinstallerf.png
+Comment=PostInstallerF will install all the software that Fedora doesn't include by default.
+Terminal=false
+Name=PostInstallerF
+Categories=Qt;KDE;Utility;

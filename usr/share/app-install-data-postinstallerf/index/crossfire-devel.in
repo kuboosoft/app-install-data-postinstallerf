@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>crossfire-devel</b>'
+Comment='<span size="xx-large">Development files for writing crossfire plugins</span>'
+Comment3='
+Development files for writing crossfire plugins.
+
+URL          http//crossfire.real-time.com
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://crossfire.real-time.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

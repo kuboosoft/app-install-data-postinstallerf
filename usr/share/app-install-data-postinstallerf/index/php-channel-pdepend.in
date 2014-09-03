@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-channel-pdepend</b>'
+Comment='<span size="xx-large">PHP Depend PEAR channel</span>'
+Comment3='
+This package adds the PHP Depend PEAR channe which allows
+PEAR packages from this channel to be installed.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.pdepend.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

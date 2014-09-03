@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>glibc-static</b>'
+Comment='<span size="xx-large">C library static libraries for -static linking.</span>'
+Comment3='
+The glibc-static package contains the C library static libraries
+for -static linking.  You dont need these, unless you link statically,
+which is highly discouraged.
+
+'
+License='LGPLv2+ and LGPLv2+ with exceptions and GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/glibc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

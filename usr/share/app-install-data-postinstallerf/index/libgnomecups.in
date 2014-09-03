@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgnomecups</b>'
+Comment='<span size="xx-large">GNOME library for CUPS integration</span>'
+Comment3='
+GNOME library for CUPS integration
+
+URL          http//www.gnome.org
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

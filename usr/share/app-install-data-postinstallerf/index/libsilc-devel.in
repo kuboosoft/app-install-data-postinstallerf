@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsilc-devel</b>'
+Comment='<span size="xx-large">Headers and shared libraries for libsilc</span>'
+Comment3='
+The SILC Toolkit development libraries and headers. Required for building
+SILC clients.
+
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.silcnet.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

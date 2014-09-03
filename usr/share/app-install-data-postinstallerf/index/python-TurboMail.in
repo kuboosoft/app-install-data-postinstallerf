@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-TurboMail</b>'
+Comment='<span size="xx-large">Multi-threaded mail queue manager for TurboGears applications</span>'
+Comment3='
+TurboMail is a multi-threaded mail delivery subsystem and MIME message
+generation framework for Python. TurboMail uses built-in Python modules for SMTP
+communication and MIME e-mail creation, but greatly simplifies these tasks by
+performing the grunt-work for you.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.python-turbomail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

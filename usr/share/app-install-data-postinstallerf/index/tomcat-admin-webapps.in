@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tomcat-admin-webapps</b>'
+Comment='<span size="xx-large">The host-manager and manager web applications for Apache Tomcat</span>'
+Comment3='
+The host-manager and manager web applications for Apache Tomcat.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tomcat.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

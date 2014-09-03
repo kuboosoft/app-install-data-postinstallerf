@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>switchdesk</b>'
+Comment='<span size="xx-large">A desktop environment switcher</span>'
+Comment3='
+The Desktop Switcher is a tool which enables users to easily switch
+between various desktop environments that they have installed.
+
+Support for different environments on different computers is available, as
+well as support for setting a global default environment.
+Install switchdesk if you need a tool for switching between desktop
+environments.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://than.fedorapeople.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

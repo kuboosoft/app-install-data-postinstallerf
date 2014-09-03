@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-tcltk</b>'
+Comment='<span size="xx-large">Tcl/Tk interface for scripting language Ruby</span>'
+Comment3='
+Tcl/Tk interface for the object-oriented scripting language Ruby.
+'
+License='(Ruby or BSD) and Public Domain'
+Screenshot=''
+Url='http://ruby-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

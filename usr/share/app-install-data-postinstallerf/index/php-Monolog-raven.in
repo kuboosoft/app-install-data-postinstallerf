@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-Monolog-raven</b>'
+Comment='<span size="xx-large">Monolog Sentry handler</span>'
+Comment3='
+Allow sending log messages to a Sentry server.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/Seldaek/monolog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

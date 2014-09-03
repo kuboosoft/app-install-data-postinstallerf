@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-activemodel-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-activemodel</span>'
+Comment3='
+Documentation for rubygem-activemodel
+'
+License='MIT'
+Screenshot=''
+Url='http://www.rubyonrails.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

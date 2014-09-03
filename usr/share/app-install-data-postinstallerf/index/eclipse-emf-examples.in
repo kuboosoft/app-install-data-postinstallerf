@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eclipse-emf-examples</b>'
+Comment='<span size="xx-large">Eclipse EMF/XSD examples</span>'
+Comment3='
+Installable versions of the example projects from the SDKs that demonstrate how
+to use the Eclipse Modeling Framework (EMF) and XML Schema Definition (XSD)
+plugins.
+'
+License='EPL'
+Screenshot=''
+Url='https://projects.eclipse.org/projects/modeling.emf.emf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

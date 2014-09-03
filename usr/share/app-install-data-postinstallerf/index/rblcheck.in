@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rblcheck</b>'
+Comment='<span size="xx-large">Command-line interface to RBL-style listings</span>'
+Comment3='
+rblcheck is a very basic interface to RBL-style DNS listings such as those
+operated by the MAPS (http//www.mail-abuse.org/) and ORBL
+(http//www.orbl.org/) projects.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rblcheck.wiki.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

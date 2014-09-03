@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>vcdimager</b>'
+Comment='<span size="xx-large">VideoCD (pre-)mastering and ripping tool</span>'
+Comment3='
+VCDImager allows you to create VideoCD BIN/CUE CD images from MPEG
+files. These can be burned with cdrdao or any other program capable of
+burning BIN/CUE files.
+
+Also included is VCDRip which does the reverse operation, that is to
+rip MPEG streams from images or burned VideoCDs and to show
+information about a VideoCD.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/vcdimager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mod_wso2-axis2</b>'
+Comment='<span size="xx-large">An Apache HTTPD module which adds axis2 support</span>'
+Comment3='
+An Apache HTTPD module that adds support for axis2 WebServices.  This package
+is a modified version of the module provided by the developers of WSO2
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://wso2.org/library/wsf/cpp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

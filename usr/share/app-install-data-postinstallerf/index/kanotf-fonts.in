@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kanotf-fonts</b>'
+Comment='<span size="xx-large">OpenType Kannada fonts</span>'
+Comment3='
+Consists of two Kannada open-type fonts named "Kedage" and "Mallige".
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/brahmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

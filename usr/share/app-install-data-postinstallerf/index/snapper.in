@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>snapper</b>'
+Comment='<span size="xx-large">Tool for filesystem snapshot management</span>'
+Comment3='
+This package contains snapper, a tool for filesystem snapshot management.
+
+URL          http//en.opensuse.org/PortalSnapper
+'
+License='GPLv2'
+Screenshot=''
+Url='http://en.opensuse.org/Portal:Snapper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

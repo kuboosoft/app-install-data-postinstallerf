@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lightsquid</b>'
+Comment='<span size="xx-large">Light, small, and fast log analyzer for squid proxy</span>'
+Comment3='
+lightsquid is a small and fast Squid log analyzer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lightsquid.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

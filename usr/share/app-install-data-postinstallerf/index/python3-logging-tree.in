@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python3-logging-tree</b>'
+Comment='<span size="xx-large">Introspect and display the logger tree inside "logging"</span>'
+Comment3='
+Introspection for the ``logging`` logger tree in the Standard Library.
+
+While you can write programs that call this packages ``tree()``
+function and examine the hierarchy of logger objects that it finds
+inside of the Standard Library ``logging`` module, the simplest use of
+this package for debugging is to call ``printout()`` to print the
+loggers, filters, and handlers that your application has configured
+    >>> logging.getLogger(a)
+    >>> logging.getLogger(a.b).setLevel(logging.DEBUG)
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/logging_tree'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

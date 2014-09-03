@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libedit</b>'
+Comment='<span size="xx-large">The NetBSD Editline library</span>'
+Comment3='
+Libedit is an autotool- and libtoolized port of the NetBSD Editline library.
+It provides generic line editing, history, and tokenization functions, similar
+to those found in GNU Readline.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.thrysoee.dk/editline/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

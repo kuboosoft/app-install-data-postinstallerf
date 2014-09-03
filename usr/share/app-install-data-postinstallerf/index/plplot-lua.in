@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plplot-lua</b>'
+Comment='<span size="xx-large">Functions for scientific plotting with Lua</span>'
+Comment3='
+Functions for scientific plotting with Lua.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://plplot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

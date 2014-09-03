@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pangox-compat-devel</b>'
+Comment='<span size="xx-large">Development files for pangox-compat</span>'
+Comment3='
+The pangox-compat-devel package contains libraries and header files for
+developing applications that use pangox-compat.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ftp.gnome.org/pub/GNOME/sources/pangox-compat/0.0/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

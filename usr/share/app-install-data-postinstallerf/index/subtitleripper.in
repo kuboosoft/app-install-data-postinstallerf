@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>subtitleripper</b>'
+Comment='<span size="xx-large">Command line tool to rip DVD subtitles</span>'
+Comment3='
+Converts DVD subtitles into text format (e.g. subrip format) or VobSub
+format. Based on transcode.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://subtitleripper.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

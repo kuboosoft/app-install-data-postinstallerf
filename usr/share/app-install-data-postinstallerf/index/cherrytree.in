@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cherrytree</b>'
+Comment='<span size="xx-large">Hierarchical note taking application</span>'
+Comment3='
+CherryTree is a hierarchical note taking application, featuring rich text and
+syntax highlighting, storing all the data (including images) in a single XML
+file with extension ".ctd".
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.giuspen.com/cherrytree/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

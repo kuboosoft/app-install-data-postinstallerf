@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pycanberra</b>'
+Comment='<span size="xx-large">A very basic (and incomplete) wrapper for libcanberra</span>'
+Comment3='
+A very basic (and incomplete) wrapper of libcanberra for Python 2.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://github.com/psykoyiko/pycanberra/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

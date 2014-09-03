@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>etckeeper</b>'
+Comment='<span size="xx-large">Store /etc in a SCM system (git, mercurial, bzr or darcs)</span>'
+Comment3='
+The etckeeper program is a tool to let /etc be stored in a git,
+mercurial, bzr or darcs repository. It hooks into yum to automatically
+commit changes made to /etc during package upgrades. It tracks file
+metadata that version control systems do not normally support, but that
+is important for /etc, such as the permissions of /etc/shadow. Its
+quite modular and configurable, while also being simple to use if you
+understand the basics of working with version control.
+
+The default backend is git, if want to use a another backend please
+install the appropriate tool (mercurial, darcs or bzr).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kitenet.net/~joey/code/etckeeper/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

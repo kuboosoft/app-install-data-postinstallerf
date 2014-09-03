@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libnxt</b>'
+Comment='<span size="xx-large">Utility for flashing LEGO Mindstorms NXT firmware</span>'
+Comment3='
+LibNXT is an utility library for talking to the LEGO Mindstorms NXT.
+ It currently does
+ * Handling USB communication and locating the NXT in the USB tree.
+ * Interaction with the Atmel AT91SAM boot assistant.
+ * Flashing of a firmware image to the NXT.
+ * Execution of code directly in RAM.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/libnxt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>festival-speechtools-devel</b>'
+Comment='<span size="xx-large">Development files for Edinburgh Speech Tools libraries</span>'
+Comment3='
+Development files for the Edinburgh Speech Tools Library, used by the
+Festival speech synthesis system.
+
+'
+License='MIT and GPL+ and TCL'
+Screenshot=''
+Url='http://www.cstr.ed.ac.uk/projects/festival/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

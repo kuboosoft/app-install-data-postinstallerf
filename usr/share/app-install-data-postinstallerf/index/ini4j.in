@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ini4j</b>'
+Comment='<span size="xx-large">Java API for handling files in Windows .ini format</span>'
+Comment3='
+ini4j is a simple Java API for handling configuration files in Windows
+.ini format. Additionally, the library includes Java Preferences API
+implementation based on the .ini file.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.ini4j.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

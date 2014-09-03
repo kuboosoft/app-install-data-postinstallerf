@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libusbx-devel-doc</b>'
+Comment='<span size="xx-large">Development files for libusbx</span>'
+Comment3='
+This package contains API documentation for libusbx.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libusb.info'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

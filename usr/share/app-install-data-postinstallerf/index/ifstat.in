@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ifstat</b>'
+Comment='<span size="xx-large">Interface statistics</span>'
+Comment3='
+ifstat(1) is a little tool to report interface activity like vmstat/iostat do.
+In addition, ifstat can poll remote hosts through SNMP if you have the ucd-snmp
+library. It will also be used for localhost if no other known method works (You
+need to have snmpd running for this though).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gael.roualland.free.fr/ifstat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

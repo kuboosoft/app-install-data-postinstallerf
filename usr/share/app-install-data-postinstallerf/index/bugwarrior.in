@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bugwarrior</b>'
+Comment='<span size="xx-large">Sync github, bitbucket, and trac issues with taskwarrior</span>'
+Comment3='
+bugwarrior is a command line utility for updating your local taskwarrior
+database from your forge issue trackers.
+
+It currently supports pulling issues from github, bitbucket, trac, bugzilla,
+megaplan, teamlab, redmine, and activecollab
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/bugwarrior'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

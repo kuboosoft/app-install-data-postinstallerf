@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n kchmviewer
+Name=KchmViewer
+Categories=Qt;KDE;Office;Viewer;
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/kchmviewer.png
+GenericName=CHM file viewer
+Comment=A viewer of CHM (MS-Help) files

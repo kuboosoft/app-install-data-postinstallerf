@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-gtkspell3</b>'
+Comment='<span size="xx-large">MinGW Windows GtkSpell3 library</span>'
+Comment3='
+MinGW Windows GtkSpell3 library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gtkspell.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

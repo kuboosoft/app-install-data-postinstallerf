@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-engpron</b>'
+Comment='<span size="xx-large">Helps to type the pronunciation of English words</span>'
+Comment3='
+This package provides macros beginning with the  character,
+made active, which enable us to write the British or American
+English pronunciation as one can find it in the English
+Pronouncing Dictionary by Daniel Jones. There is an option to
+typeset the pronunciation in the style of Harraps dictionary.
+
+date 2008-08-16 173304 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

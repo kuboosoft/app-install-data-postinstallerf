@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>system-config-bind</b>'
+Comment='<span size="xx-large">BIND DNS Configuration Tool</span>'
+Comment3='
+The system-config-bind package provides a graphical user interface (GUI) to
+server, "named", with a set of python modules.
+Users new to BIND configuration can use this tool to quickly set up a working
+DNS server.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fedorahosted.org/system-config-bind'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

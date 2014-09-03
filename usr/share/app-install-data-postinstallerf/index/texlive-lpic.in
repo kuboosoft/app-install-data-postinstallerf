@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-lpic</b>'
+Comment='<span size="xx-large">Put LaTeX material over included graphics</span>'
+Comment3='
+The package defines a convenient interface to put any LaTeX
+material on top of included graphics. The LaTeX material may
+also be rotated and typeset on top of a white box overshadowing
+the graphics. The coordinates of the LaTeX boxes are given
+relative to the original, unscaled graphics; when the graphics
+is rescaled, the LaTeX annotations stay at their right places
+(unless you do something extreme). In a draft mode, the package
+enables you to draw a coordinate grid over the picture for easy
+adjustment of positions of the annotations.
+
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

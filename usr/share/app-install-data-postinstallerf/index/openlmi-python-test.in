@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openlmi-python-test</b>'
+Comment='<span size="xx-large">OpenLMI test utilities</span>'
+Comment3='
+The openlmi-python-test package contains test utilities and base
+classes for provider test cases.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

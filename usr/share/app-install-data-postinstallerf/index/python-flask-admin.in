@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-flask-admin</b>'
+Comment='<span size="xx-large">Simple and extensible admin interface framework for Flask</span>'
+Comment3='
+Flask-Admin is advanced, extensible and simple to use administrative interface
+building extension for Flask framework.
+
+It comes with batteries included model scaffolding for SQLAlchemy,
+MongoEngine, MongoDB and Peewee ORMs, simple file management interface
+and a lot of usage samples.
+Youre not limited by the default functionality - instead of providing simple
+scaffolding for the ORM models, Flask-Admin provides tools that can be used to
+construct administrative interfaces of any complexity, using a consistent look
+'
+License='BSD'
+Screenshot=''
+Url='http://flask-admin.readthedocs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

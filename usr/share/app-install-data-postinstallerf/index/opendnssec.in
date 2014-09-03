@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opendnssec</b>'
+Comment='<span size="xx-large">DNSSEC key and zone management software</span>'
+Comment3='
+OpenDNSSEC was created as an open-source turn-key solution for DNSSEC.
+It secures zone data just before it is published in an authoritative
+name server. It requires a PKCS#11 crypto module library, such as softhsm
+'
+License='BSD'
+Screenshot=''
+Url='http://www.opendnssec.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

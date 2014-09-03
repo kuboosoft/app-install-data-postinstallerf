@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kmod-xtables-addons</b>'
+Comment='<span size="xx-large">Metapackage which tracks in xtables-addons kernel module for newest kernel</span>'
+Comment3='
+This is a meta-package without payload which sole purpose is to require the
+xtables-addons kernel module(s) for the newest kernel.
+to make sure you get it together with a new kernel.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://xtables-addons.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

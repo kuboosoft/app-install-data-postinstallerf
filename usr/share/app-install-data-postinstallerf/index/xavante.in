@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xavante</b>'
+Comment='<span size="xx-large">Lua Web Server with WSAPI support</span>'
+Comment3='
+Xavante is a Lua HTTP 1.1 Web server that uses a modular architecture based
+on URI mapped handlers. Xavante currently offers a file handler, a redirect
+handler and a WSAPI handler. Those are used for general files, URI remapping
+and WSAPI applications respectively.
+'
+License='MIT'
+Screenshot=''
+Url='http://keplerproject.github.com/xavante/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

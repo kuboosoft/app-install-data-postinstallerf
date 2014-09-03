@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libquvi</b>'
+Comment='<span size="xx-large">A cross-platform library for parsing flash media stream</span>'
+Comment3='
+Libquvi is a cross-platform library for parsing flash media stream
+URLs with C API.
+
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://quvi.sourceforge.net'
+URLs with C API.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

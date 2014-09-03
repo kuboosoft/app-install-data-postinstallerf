@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jigdo-gui</b>'
+Comment='<span size="xx-large">Jigdo graphical interface</span>'
+Comment3='
+GTK2 frontend to jigdo.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://atterer.org/jigdo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

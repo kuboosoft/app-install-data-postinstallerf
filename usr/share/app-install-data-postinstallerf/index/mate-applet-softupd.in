@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mate-applet-softupd</b>'
+Comment='<span size="xx-large">MATE Software Update Applet</span>'
+Comment3='
+Software updates notification applet for the MATE desktop environment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.zavedil.com/mate-software-updates-applet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

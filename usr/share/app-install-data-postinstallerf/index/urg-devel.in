@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>urg-devel</b>'
+Comment='<span size="xx-large">Development files for urg</span>'
+Comment3='
+The urg-devel package contains libraries and header files for
+developing applications that use urg.
+
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://www.hokuyo-aut.jp/cgi-bin/urg_programs_en/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

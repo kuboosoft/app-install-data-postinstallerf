@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-decimal</b>'
+Comment='<span size="xx-large">LaTeX package for the English raised decimal point</span>'
+Comment3='
+This LaTeX package should be used by people who need the
+traditional English raised decimal point, instead of the
+American-style period.
+
+date 2011-06-06 110901 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

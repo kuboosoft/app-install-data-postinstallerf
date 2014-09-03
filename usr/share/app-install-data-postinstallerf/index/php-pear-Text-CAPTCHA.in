@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-Text-CAPTCHA</b>'
+Comment='<span size="xx-large">Generation of CAPTCHAs</span>'
+Comment3='
+Implementation of CAPTCHAs (completely automated public Turing test to tell
+computers and humans apart)
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Text_CAPTCHA'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

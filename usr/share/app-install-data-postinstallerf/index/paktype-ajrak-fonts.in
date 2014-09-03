@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>paktype-ajrak-fonts</b>'
+Comment='<span size="xx-large">Fonts for Arabic from PakType</span>'
+Comment3='
+The paktype-ajrak-fonts package contains fonts for the display of \
+Arabic from the PakType by Lateef Sagar.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://sourceforge.net/projects/paktype/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

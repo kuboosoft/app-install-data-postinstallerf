@@ -1,0 +1,15 @@
+[Desktop Entry]
+Exec=postinstaller -n qcomicbook
+Name=qcomicbook
+GenericName=ComicBook Viewer
+GenericName[pl]=Przeglądarka komiksów
+GenericName[tr]=Çizgi Roman Görüntüleyicisi
+GenericName[fr]=Visualiseur de Bandes Dessinnées
+Comment=QComicBook is a viewer for comic book archives (cbz, cbr, cbt). QComicBook has specific features like page preview, thumbnails view, bookmarks, manga mode for easing comicbook reading.
+Comment[tr]=QComicBook cbz, cbr, cbt biçimindeki çizgi roman arşivlerini görüntülemek için kullanılır. Sayfa ön görünümü, sayfa döşeme, yer imi, mangalar için sayfa sırasını ters gösterme gibi çizgi roman okumayı kolaylaştırıcı özellikleri bulunuyor.
+Comment[pl]=Przeglądarka do archiwów z komiksami
+Icon=/usr/share/app-install-data-postinstallerf/icons/qcomicbook.png
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Qt;Graphics;RasterGraphics;Viewer;

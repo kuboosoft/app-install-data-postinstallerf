@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ctan-cm-lgc-fonts-common</b>'
+Comment='<span size="xx-large">CM-LGC Type 1 fonts, common files (documentation?)</span>'
+Comment3='
+The CM-LGC PostScript Type 1 fonts are converted from the METAFONT
+sources of the Computer Modern font families. CM-LGC supports the T1, T2A,
+LGR, and TS1 encodings, i.e. Latin, Cyrillic, and Greek.
+This package consists of files used by other ctan-cm-lgc-fonts packages.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.ctan.org/tex-archive/fonts/ps-type1/cm-lgc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

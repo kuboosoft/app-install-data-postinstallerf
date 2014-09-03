@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>plymouth-plugin-script</b>'
+Comment='<span size="xx-large">Plymouth "script" plugin</span>'
+Comment3='
+This package contains the "script" boot splash plugin for
+Plymouth. It features an extensible, scriptable boot splash
+language that simplifies the process of designing custom
+boot splash themes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Plymouth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

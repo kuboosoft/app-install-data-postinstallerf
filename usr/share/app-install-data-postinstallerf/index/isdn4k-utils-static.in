@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>isdn4k-utils-static</b>'
+Comment='<span size="xx-large">Static library for capi development</span>'
+Comment3='
+The isdn4k-utils-devel package contains the capi static library required to
+develop capi applications.
+
+'
+License='GPLv2+ and GPL+ and MIT and BSD and zlib'
+Screenshot=''
+Url='http://www.isdn4linux.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

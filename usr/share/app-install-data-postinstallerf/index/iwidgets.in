@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>iwidgets</b>'
+Comment='<span size="xx-large">A set of useful widgets based on itcl and itk</span>'
+Comment3='
+A set of useful widgets based on itcl and itk.
+'
+License='MIT'
+Screenshot=''
+Url='http://incrtcl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

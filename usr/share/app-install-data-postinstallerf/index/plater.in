@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>plater</b>'
+Comment='<span size="xx-large">RepRap STL plater</span>'
+Comment3='
+Plater is a GUI tool to prepare printing plate from STL files for ReRap.
+It is a part of Printrun.
+'
+License='GPLv3+ and CC0'
+Screenshot=''
+Url='https://github.com/kliment/Printrun'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

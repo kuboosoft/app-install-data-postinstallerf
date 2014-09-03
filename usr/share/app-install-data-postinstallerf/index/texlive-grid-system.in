@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-grid-system</b>'
+Comment='<span size="xx-large">Page organisation, modelled on CSS facilities</span>'
+Comment3='
+The package provides the means for LaTeX to implement a grid
+system as known from CSS grid systems. The facility is useful
+for creating box layouts as used in brochures.
+
+date 2013-11-07 154159 +0100
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

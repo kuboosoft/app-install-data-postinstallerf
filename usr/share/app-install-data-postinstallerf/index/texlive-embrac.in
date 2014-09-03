@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-embrac</b>'
+Comment='<span size="xx-large">Upright brackets in emphasised text</span>'
+Comment3='
+The package redefines the commands \emph and \textit so that
+parentheses and square brackets are typeset in an upright font
+in their arguments. The package requires expl3 from the
+l3kernel bundle, and xparse and l3keys2e from the l3packages
+bundle.
+
+date 2013-05-13 200716 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

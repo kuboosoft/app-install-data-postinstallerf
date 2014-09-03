@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>amarok-nepomukcollection</b>'
+Comment='<span size="xx-large">Nepomuk collection plugin for amarok</span>'
+Comment3='
+Nepomuk collection plugin for amarok.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://amarok.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>t1lib-static</b>'
+Comment='<span size="xx-large">Static libraries for t1lib</span>'
+Comment3='
+This package contains static libraries for t1lib.
+
+URL          ftp//sunsite.unc.edu/pub/Linux/libs/graphics/t1lib-5.1.2.lsm
+'
+License='LGPLv2+'
+Screenshot=''
+Url='ftp://sunsite.unc.edu/pub/Linux/libs/graphics/t1lib-5.1.2.lsm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

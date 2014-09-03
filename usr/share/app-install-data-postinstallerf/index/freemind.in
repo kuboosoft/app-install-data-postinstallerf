@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>freemind</b>'
+Comment='<span size="xx-large">Free mind mapping software</span>'
+Comment3='
+FreeMind is a premier free mind-mapping software written in Java. The
+recent development has hopefully turned it into high productivity tool.
+So you want to write a completely new metaphysics? Why dont you use
+FreeMind? You have a tool at hand that remarkably resembles the tray
+slips of Robert Pirsig, described in his sequel to Zen and the Art of
+Motorcycle Maintenance called Lila. Do you want to refactor your essays
+in a similar way you would refactor software? Or do you want to keep
+personal knowledge base, which is easy to manage? Why dont you try
+FreeMind? Do you want to prioritize, know where you are, where youve
+been and where you are heading, as Stephen Covey would advise you? Have
+'
+License='GPLv2 and MIT'
+Screenshot=''
+Url='http://freemind.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

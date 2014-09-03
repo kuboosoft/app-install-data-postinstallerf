@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>blktap</b>'
+Comment='<span size="xx-large">blktap user space utilities</span>'
+Comment3='
+This package contains the blktap userspace utilities
+
+URL          http//xen.org
+'
+License='BSD and LGPLv2+'
+Screenshot=''
+Url='http://xen.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

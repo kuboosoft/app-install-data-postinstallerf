@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cegui06-devel-doc</b>'
+Comment='<span size="xx-large">API documentation for cegui06</span>'
+Comment3='
+API and Falagard skinning documentation for cegui06
+'
+License='MIT and LGPLv2+'
+Screenshot=''
+Url='http://www.cegui.org.uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

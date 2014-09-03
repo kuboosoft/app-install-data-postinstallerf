@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-plugin-tools-model</b>'
+Comment='<span size="xx-large">Maven Plugin Metadata Model</span>'
+Comment3='
+The Maven Plugin Metadata Model provides an API to play with the Metadata
+model.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugin-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

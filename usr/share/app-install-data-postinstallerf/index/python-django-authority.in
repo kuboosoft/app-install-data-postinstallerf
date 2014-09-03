@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-django-authority</b>'
+Comment='<span size="xx-large">A Django app for generic per-object permissions and custom permission checks</span>'
+Comment3='
+This is a Django app for generic per-object permissions, custom permission
+checks and permission requests. It also includes view decorators and template
+tags for ease of use.
+'
+License='BSD'
+Screenshot=''
+Url='http://bitbucket.org/jezdez/django-authority/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

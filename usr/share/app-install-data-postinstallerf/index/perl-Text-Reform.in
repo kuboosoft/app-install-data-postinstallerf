@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Text-Reform</b>'
+Comment='<span size="xx-large">Manual text wrapping and reformatting</span>'
+Comment3='
+The module supplies a re-entrant, highly configurable replacement for the
+built-in Perl format() mechanism.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Reform/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

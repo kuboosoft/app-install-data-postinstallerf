@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-lxfonts</b>'
+Comment='<span size="xx-large">Set of slide fonts based on CM</span>'
+Comment3='
+The bundle contains the traditional slides fonts revised to be
+completely usable both as text fonts and mathematics fonts;
+they are fully integrate with the new operators, letters,
+symbols and extensible delimiter fonts, as well as with the AMS
+fonts, all redone with the same stylistic parameters.
+
+date 2013-12-07 134720 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

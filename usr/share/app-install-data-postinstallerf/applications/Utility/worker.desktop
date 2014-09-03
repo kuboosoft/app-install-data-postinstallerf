@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=postinstaller -n worker
+Version=1.0
+Type=Application
+Name=Worker
+GenericName=File Manager
+GenericName[de]=Dateimanager
+GenericName[lv]=Failu pārvaldnieks
+Comment=File manager for X.
+Comment[de]=Dateimanager für X.
+Comment[lv]=Failu pārvaldnieks X serverim.
+Icon=/usr/share/app-install-data-postinstallerf/icons/WorkerIcon48.png
+Categories=Utility;FileTools;FileManager;

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nbc</b>'
+Comment='<span size="xx-large">Simple language and compiler to program the LEGO NXT brick</span>'
+Comment3='
+Next Byte Codes (NBC) is a simple language with an assembly language
+syntax that can be used to program LEGOs NXT programmable brick
+(from the new LEGO Mindstorms NXT set).
+
+Not Exactly C (NXC) is a high level language, similar to C, built on
+top of the NBC compiler. It can also be used to program the NXT brick.
+NXC is basically NQC (Not Quite C) for the NXT.
+'
+License='MPLv1.1'
+Screenshot=''
+Url='http://bricxcc.sourceforge.net/nbc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

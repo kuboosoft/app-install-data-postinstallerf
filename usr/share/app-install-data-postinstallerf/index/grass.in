@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>grass</b>'
+Comment='<span size="xx-large">GRASS - Geographic Resources Analysis Support System</span>'
+Comment3='
+GRASS (Geographic Resources Analysis Support System) is a Geographic
+Information System (GIS) used for geospatial data management and
+analysis, image processing, graphics/maps production, spatial
+modeling, and visualization. GRASS is currently used in academic and
+commercial settings around the world, as well as by many governmental
+agencies and environmental consulting companies.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://grass.osgeo.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

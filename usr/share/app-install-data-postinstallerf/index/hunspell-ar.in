@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-ar</b>'
+Comment='<span size="xx-large">Arabic hunspell dictionaries</span>'
+Comment3='
+Arabic (Egypt, Algeria, etc.) hunspell dictionaries.
+'
+License='GPLv2 or LGPLv2 or MPLv1.1'
+Screenshot=''
+Url='http://ayaspell.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

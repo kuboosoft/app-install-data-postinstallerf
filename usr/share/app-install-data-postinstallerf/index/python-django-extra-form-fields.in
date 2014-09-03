@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-django-extra-form-fields</b>'
+Comment='<span size="xx-large">Additional form fields for Django applications</span>'
+Comment3='
+Additional form fields to use in Django applications
+
+    NextUrlField - add to forms that need to store url of next page
+    get_next_url - utility function to extract next url from the request object
+    UserNameField - field to enter user name - allows unique username site-wide
+    UserEmailField - allows unique email address site-wide if
+                     EMAIL_UNIQUE setting is True
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/django-extra-form-fields/0.0.1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>scilab</b>'
+Comment='<span size="xx-large">Scientific software package for numerical computations</span>'
+Comment3='
+Scilab is the free software for numerical computation providing a powerful
+computing environment for engineering and scientific applications. It
+includes hundreds of mathematical functions. It has a high level programming
+language allowing access to advanced data structures, 2-D and 3-D graphical
+functions.
+
+'
+License='CeCILL'
+Screenshot=''
+Url='http://www.scilab.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

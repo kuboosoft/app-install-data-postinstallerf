@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gambas3-examples</b>'
+Comment='<span size="xx-large">Example projects provided with Gambas3</span>'
+Comment3='
+This package includes all the example projects provided with Gambas3.
+'
+License='GPL+ and GPLv2+'
+Screenshot=''
+Url='http://gambas.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

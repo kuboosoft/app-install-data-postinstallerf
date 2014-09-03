@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>abrt-dbus</b>'
+Comment='<span size="xx-large">ABRT DBus service</span>'
+Comment3='
+ABRT DBus service which provides org.freedesktop.problems API on dbus and
+uses PolicyKit to authorize to access the problem data.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

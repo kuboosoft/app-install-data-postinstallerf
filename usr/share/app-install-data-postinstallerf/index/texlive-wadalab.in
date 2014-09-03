@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-wadalab</b>'
+Comment='<span size="xx-large">Wadalab (Japanese) font packages</span>'
+Comment3='
+These are font bundles for the Japanese Wadalab fonts which
+work with the CJK package. All subfonts now have glyph names
+compliant to the Adobe Glyph List, making ToUnicode CMaps in
+PDF documents (created automatically by dvipdfmx) work
+correctly. All font bundles now contain virtual Unicode
+subfonts.
+
+date 2011-05-21 132015 +0200
+'
+License='Wadalab'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

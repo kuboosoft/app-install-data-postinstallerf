@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ocaml-lablgtk</b>'
+Comment='<span size="xx-large">Objective Caml interface to gtk+</span>'
+Comment3='
+LablGTK is is an Objective Caml interface to gtk+.
+
+It uses the rich type system of Objective Caml 3 to provide a strongly
+typed, yet very comfortable, object-oriented interface to gtk+. This
+is not that easy if you know the dynamic typing approach taken by
+gtk+.
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://lablgtk.forge.ocamlcore.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

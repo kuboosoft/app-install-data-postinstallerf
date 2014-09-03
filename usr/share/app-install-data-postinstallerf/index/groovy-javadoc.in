@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>groovy-javadoc</b>'
+Comment='<span size="xx-large">API Documentation for groovy</span>'
+Comment3='
+JavaDoc documentation for groovy
+'
+License='ASL 2.0 and BSD and EPL and Public Domain and CC-BY'
+Screenshot=''
+Url='http://groovy.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

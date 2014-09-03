@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-htmlentities-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-htmlentities</span>'
+Comment3='
+This package contains documentation for rubygem-htmlentities.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/threedaymonk/htmlentities'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

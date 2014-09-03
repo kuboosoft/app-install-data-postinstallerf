@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdr-streamdev-server</b>'
+Comment='<span size="xx-large">Streaming server plug-in for VDR</span>'
+Comment3='
+Lets your VDR act as a streaming server for other clients.
+This will let you watch TV or Recordings across the network.
+'
+License='GPL+ and GPLv2+'
+Screenshot=''
+Url='http://projects.vdr-developer.org/projects/plg-streamdev'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

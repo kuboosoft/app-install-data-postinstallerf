@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gyachi-recre8-theme</b>'
+Comment='<span size="xx-large">GyachI Prototype theme</span>'
+Comment3='
+GyachI Prototype theme This package supplies the artwork for the GyachI recre8 theme.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://gyachi.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

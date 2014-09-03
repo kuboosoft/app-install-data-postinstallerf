@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>drupal6-node_import</b>'
+Comment='<span size="xx-large">Allows users to import node content from a CSV or TSV file</span>'
+Comment3='
+Node import allows users to import content (node, user, taxonomy) from CSV or
+TSV files.
+
+Note that all files need to be in UTF8 encoding.
+This package provides the following Drupal modules
+* node_import
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/node_import'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

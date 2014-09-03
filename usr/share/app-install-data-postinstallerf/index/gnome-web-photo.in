@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-web-photo</b>'
+Comment='<span size="xx-large">HTML pages thumbnailer</span>'
+Comment3='
+gnome-web-photo contains a thumbnailer that will be used by GNOME applications,
+including the file manager, to generate screenshots of web pages.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/gnome-web-photo/0.10/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-flask-script</b>'
+Comment='<span size="xx-large">Scripting support for Flask</span>'
+Comment3='
+The Flask-Script extension provides support for writing external scripts in
+Flask.This includes running a development server, a customized Python shell,
+scripts to set up your database, cronjobs, and other command-line tasks that
+belong outside the web application itself.
+'
+License='BSD'
+Screenshot=''
+Url='http://flask-script.readthedocs.org/en/latest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

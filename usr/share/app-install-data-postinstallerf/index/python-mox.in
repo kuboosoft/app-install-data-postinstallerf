@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-mox</b>'
+Comment='<span size="xx-large">Mock object framework</span>'
+Comment3='
+Mox is a mock object framework for Python based on the Java mock object
+framework EasyMock.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/pymox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

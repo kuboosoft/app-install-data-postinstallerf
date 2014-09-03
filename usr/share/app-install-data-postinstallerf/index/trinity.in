@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>trinity</b>'
+Comment='<span size="xx-large">System call fuzz tester</span>'
+Comment3='
+Trinity makes syscalls at random, with random arguments.  Where Trinity
+differs from other fuzz testers is that the arguments it passes are not
+purely random.
+
+We found some bugs in the past by just passing random values, but once
+the really dumb bugs were found, these dumb fuzzers would just run and
+run.  The problem was if a syscall took for example a file descriptor as
+an argument, one of the first things it would try to do was validate
+that fd.  Being garbage, the kernel would just reject it as -EINVAL of
+course.  So on startup, Trinity creates a list of file descriptors, by
+'
+License='GPLv2'
+Screenshot=''
+Url='http://codemonkey.org.uk/projects/trinity/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

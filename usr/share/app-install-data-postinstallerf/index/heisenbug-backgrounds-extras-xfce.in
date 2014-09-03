@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>heisenbug-backgrounds-extras-xfce</b>'
+Comment='<span size="xx-large">Extra Heisenbug Wallpapers for XFCE</span>'
+Comment3='
+This package contains Heisenbug supplemental wallpapers for XFCE
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F20_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

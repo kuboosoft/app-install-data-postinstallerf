@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libzdb-devel</b>'
+Comment='<span size="xx-large">Developer header files & libraries for libzdb database API</span>'
+Comment3='
+Developer header files & libraries for libzdb database API.
+
+URL          http//www.tildeslash.com/libzdb/
+'
+License='GPLv3+ and MIT'
+Screenshot=''
+Url='http://www.tildeslash.com/libzdb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

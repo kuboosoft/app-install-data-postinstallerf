@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pymodbus</b>'
+Comment='<span size="xx-large">A Modbus Protocol Stack in Python</span>'
+Comment3='
+Pymodbus is a full Modbus protocol implementation using twisted for its
+asynchronous communications core.
+
+The library currently supports the following
+Client Features
+    * Full read/write protocol on discrete and register
+    * Most of the extended protocol (diagnostic/file/pipe/setting/information)
+    * TCP, UDP, Serial ASCII, Serial RTU, and Serial Binary
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/pymodbus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

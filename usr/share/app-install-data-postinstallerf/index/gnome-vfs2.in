@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gnome-vfs2</b>'
+Comment='<span size="xx-large">The GNOME virtual file-system libraries</span>'
+Comment3='
+GNOME VFS is the GNOME virtual file system. It is the foundation of
+the Nautilus file manager. It provides a modular architecture and
+ships with several modules that implement support for file systems,
+http, ftp, and others. It provides a URI-based API, backend
+supporting asynchronous file operations, a MIME type manipulation
+library, and other features.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

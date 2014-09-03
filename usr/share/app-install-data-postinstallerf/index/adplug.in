@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>adplug</b>'
+Comment='<span size="xx-large">A software library for AdLib (OPL2) emulation</span>'
+Comment3='
+AdPlug is a free software, cross-platform, hardware independent AdLib
+sound player library, mainly written in C++ and released under the
+LGPL. AdPlug plays sound data, originally created for the AdLib (OPL2)
+audio board, directly from its original format on top of an OPL2
+emulator or by using the real hardware. No OPL chip is required for
+playback. It supports various audio formats from MS-DOS AdLib trackers.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://adplug.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

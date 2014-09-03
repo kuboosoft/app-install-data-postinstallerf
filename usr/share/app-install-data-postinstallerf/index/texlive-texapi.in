@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-texapi</b>'
+Comment='<span size="xx-large">Macros to write format-independent packages</span>'
+Comment3='
+Texapi provides utility macros to write format-independent (and
+-aware) packages. It is similar in spirit to the etoolbox,
+except that it isnt tied to LaTeX. Tools include engine and
+format detection, expansion control, command definition and
+manipulation, various testing macros, string operations, and
+highly customizable while and for loops. The package requires
+e-TeX (and, should you want to compile its documentation, the
+pitex package is also needed).
+
+date 2011-10-03 085214 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

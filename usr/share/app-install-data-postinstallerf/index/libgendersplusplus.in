@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgendersplusplus</b>'
+Comment='<span size="xx-large">Genders libraries for C++</span>'
+Comment3='
+Genders API for C++.
+
+URL          http//genders.sf.net
+'
+License='GPLv2'
+Screenshot=''
+Url='http://genders.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

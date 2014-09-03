@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Spreadsheet-ParseExcel-Simple</b>'
+Comment='<span size="xx-large">Simple interface to Excel data</span>'
+Comment3='
+This library provides a simple abstraction of the SpreadsheetParseExcel
+module, for a kinder, gentler interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Spreadsheet-ParseExcel-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

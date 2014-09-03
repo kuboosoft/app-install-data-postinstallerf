@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Captcha-reCAPTCHA</b>'
+Comment='<span size="xx-large">Perl implementation of the reCAPTCHA API</span>'
+Comment3='
+reCAPTCHA is a hybrid mechanical turk and captcha that allows visitors who
+complete the captcha to assist in the digitization of books.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Captcha-reCAPTCHA/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>picviz</b>'
+Comment='<span size="xx-large">Parallel coordinates plotter</span>'
+Comment3='
+Picviz is a parallel coordinates plotter which enables easy scripting
+from various input (tcpdump, syslog, iptables logs, apache logs,
+etc..) to visualize your data and discover interesting results
+quickly.
+
+Its primary goal is to graph data in order to be able to quickly
+analyze problems and find correlations among variables. With security
+analysis in mind, the program has been designed to be very flexible,
+able to graph millions of events.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.wallinfire.net/picviz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

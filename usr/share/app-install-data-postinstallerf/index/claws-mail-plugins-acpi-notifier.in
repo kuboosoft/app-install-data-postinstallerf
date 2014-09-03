@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>claws-mail-plugins-acpi-notifier</b>'
+Comment='<span size="xx-large">ACPI notification plugin for Claws Mail</span>'
+Comment3='
+Enables mail notification via LEDs on some laptops. Options can be found on
+the Plugins/Acpi Notifier page of the preferences.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://claws-mail.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

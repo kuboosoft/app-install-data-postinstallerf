@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mkproject</b>'
+Comment='<span size="xx-large">Make project skeletons</span>'
+Comment3='
+Make Project is a command that makes project skeletons. Make Project
+automatizes the task of starting a new project with the information
+provided from the command line. The package created by default is a
+hello world project of the selected skeleton that is managed with
+auto tools. There are skeletons for bash, c, c library, python, c++, c++
+library and Perl.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/makeproject'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>phplogcon</b>'
+Comment='<span size="xx-large">A syslog data viewer for the web</span>'
+Comment3='
+phpLogCon is a web interface to syslog and other network event data. It
+provides easy browsing and some basic analysis of realtime network events.
+Depending on the applications feeding the database, it can process syslog
+messages, Windows event log entries and even SNMP trap data - just to name a
+few.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.phplogcon.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-jaxb</b>'
+Comment='<span size="xx-large">JAXB Reference Implementation</span>'
+Comment3='
+GlassFish JAXB Reference Implementation.
+'
+License='CDDL and GPLv2 with exceptions'
+Screenshot=''
+Url='http://jaxb.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Path-FindDev</b>'
+Comment='<span size="xx-large">Find a development path somewhere in an upper hierarchy</span>'
+Comment3='
+This package is mostly a glue layer around PathIsDev with a few directory
+walking tricks.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Path-FindDev/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

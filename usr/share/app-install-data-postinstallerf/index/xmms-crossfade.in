@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xmms-crossfade</b>'
+Comment='<span size="xx-large">Audio crossfade plugin for XMMS</span>'
+Comment3='
+A plugin for XMMS featuring crossfading, continuous output between songs and
+a gap-killer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.eisenlohr.org/xmms-crossfade/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

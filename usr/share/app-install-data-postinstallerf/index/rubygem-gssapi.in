@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-gssapi</b>'
+Comment='<span size="xx-large">A FFI wrapper around the system GSSAPI library</span>'
+Comment3='
+A FFI wrapper around the system GSSAPI library. Please make sure and read
+the Yard docs or standard GSSAPI documentation if you have any questions.
+There is also a class called GSSAPISimple that wraps many of the common
+features used for GSSAPI.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/zenchild/gssapi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

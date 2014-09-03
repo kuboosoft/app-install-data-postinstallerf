@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>csync2</b>'
+Comment='<span size="xx-large">Cluster synchronization tool</span>'
+Comment3='
+Csync2 is a cluster synchronization tool. It can be used to keep files on
+multiple hosts in a cluster in sync. Csync2 can handle complex setups with
+much more than just 2 hosts, handle file deletions and can detect conflicts.
+It is expedient for HA-clusters, HPC-clusters, COWs and server farms.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://oss.linbit.com/csync2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

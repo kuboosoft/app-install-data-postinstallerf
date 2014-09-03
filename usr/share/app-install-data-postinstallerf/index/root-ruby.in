@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>root-ruby</b>'
+Comment='<span size="xx-large">Ruby extension for ROOT</span>'
+Comment3='
+This package contains the Ruby extension for ROOT. The interface
+goes both ways - that is, you can call ROOT functions from Ruby, and
+invoke the Ruby interpreter from ROOT.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

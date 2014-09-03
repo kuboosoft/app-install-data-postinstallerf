@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>proas</b>'
+Comment='<span size="xx-large">Planning of astronomical observations</span>'
+Comment3='
+Proas is a program devoted to the computation of the visibility conditions of
+astronomical objects. The initial data are the observatory location, observing
+date, and the target coordinates. The program computes the object altitude as
+a function of the universal time (UT).
+'
+License='GPL+'
+Screenshot=''
+Url='https://guaix.fis.ucm.es/projects/proas/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

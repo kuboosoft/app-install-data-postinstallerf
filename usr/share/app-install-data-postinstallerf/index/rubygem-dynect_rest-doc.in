@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-dynect_rest-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-dynect_rest</span>'
+Comment3='
+Documentation for rubygem-dynect_rest
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/adamhjk/dynect_rest'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Net-STOMP-Client</b>'
+Comment='<span size="xx-large">STOMP object oriented client module</span>'
+Comment3='
+This module provides an object oriented client interface to interact with
+servers supporting STOMP (Streaming Text Orientated Messaging Protocol). It
+supports the major features of messaging brokers SSL, asynchronous I/O,
+receipts and transactions.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-STOMP-Client/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

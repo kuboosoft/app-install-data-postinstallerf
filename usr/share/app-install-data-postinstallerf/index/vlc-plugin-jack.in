@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vlc-plugin-jack</b>'
+Comment='<span size="xx-large">JACK audio plugin for VLC</span>'
+Comment3='
+JACK audio plugin for the VLC media player.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.videolan.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

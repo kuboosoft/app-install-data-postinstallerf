@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libxfcegui4-devel</b>'
+Comment='<span size="xx-large">Development tools for libxfcegui4 library</span>'
+Comment3='
+The libxfcegui4-devel package contains libraries and header files for
+developing applications that use libxfcegui4.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>system-switch-mail-gnome</b>'
+Comment='<span size="xx-large">A GUI interface for Mail Transport Agent Switcher</span>'
+Comment3='
+The system-switch-mail-gnome package contains a GNOME interface for the
+Mail Transport Agent Switcher.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://than.fedorapeople.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

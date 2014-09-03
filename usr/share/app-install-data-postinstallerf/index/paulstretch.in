@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>paulstretch</b>'
+Comment='<span size="xx-large">An audio sample stretching utility</span>'
+Comment3='
+paulstretch is a program for stretching the audio. It is suitable only for
+extreme sound stretching of the audio (like 50x) and for applying
+special effects by "spectral smoothing" the sounds. It can transform
+any sound/music to a texture.
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://hypermammut.sourceforge.net/paulstretch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

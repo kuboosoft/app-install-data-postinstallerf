@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-fedmsg-genacls</b>'
+Comment='<span size="xx-large">A fedmsg consumer that sets gitosis acls in response to pkgdb messages</span>'
+Comment3='
+An example of using fedmsg to monitor pkgdb for messages, but delaying action
+for a few seconds to accumulate messages and avoid pile-up.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/fedmsg_genacls'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

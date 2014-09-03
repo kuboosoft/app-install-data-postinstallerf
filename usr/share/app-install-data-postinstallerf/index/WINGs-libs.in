@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>WINGs-libs</b>'
+Comment='<span size="xx-large">Widgets and image libraries needed for WindowMaker</span>'
+Comment3='
+Widgets and image libraries needed for WindowMaker.
+
+URL          http//www.windowmaker.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.windowmaker.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

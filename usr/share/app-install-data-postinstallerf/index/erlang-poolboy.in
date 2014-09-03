@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-poolboy</b>'
+Comment='<span size="xx-large">A hunky Erlang worker pool factory</span>'
+Comment3='
+A hunky Erlang worker pool factory.
+'
+License='Public Domain or ASL 2.0'
+Screenshot=''
+Url='https://github.com/devinus/poolboy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

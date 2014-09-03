@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jthread</b>'
+Comment='<span size="xx-large">JThread provides classes to make use of threads easy on different platforms</span>'
+Comment3='
+JThread provides some classes to make use of threads easy on different
+platforms. The classes are actually rather simple wrappers around
+existing thread implementations.
+'
+License='MIT'
+Screenshot=''
+Url='http://research.edm.uhasselt.be/~jori/page/index.php?n=CS.Jthread'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

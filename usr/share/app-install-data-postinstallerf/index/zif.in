@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zif</b>'
+Comment='<span size="xx-large">Simple wrapper for rpm and the Fedora package metadata</span>'
+Comment3='
+Zif is a simple yum-compatible library that provides read-write
+access to the rpm database and the Fedora metadata for PackageKit.
+
+Zif is not designed as a replacement to yum, nor to be used by end users.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://people.freedesktop.org/~hughsient/zif/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

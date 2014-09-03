@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mecab</b>'
+Comment='<span size="xx-large">Yet Another Part-of-Speech and Morphological Analyzer</span>'
+Comment3='
+MeCab is a open source morphological analyzer which uses
+CRF (Conditional Random Fields) as the estimation of parameters.
+
+NOTE
+You have to install MeCab dictionary rpm to make use
+of MeCab.
+'
+License='BSD or LGPLv2+ or GPL+'
+Screenshot=''
+Url='http://mecab.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

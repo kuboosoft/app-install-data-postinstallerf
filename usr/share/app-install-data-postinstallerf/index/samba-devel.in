@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>samba-devel</b>'
+Comment='<span size="xx-large">Developer tools for Samba libraries</span>'
+Comment3='
+The samba4-devel package contains the header files for the libraries
+needed to develop programs that link against the SMB, RPC and other
+libraries in the Samba suite.
+
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

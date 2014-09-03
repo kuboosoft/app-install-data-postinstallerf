@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-DBD-MySQL</b>'
+Comment='<span size="xx-large">A MySQL interface for Perl</span>'
+Comment3='
+DBDmysql is the Perl5 Database Interface driver for the MySQL database. In
+other words DBDmysql is an interface between the Perl programming language
+and the MySQL programming API that comes with the MySQL relational database
+management system.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DBD-mysql/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

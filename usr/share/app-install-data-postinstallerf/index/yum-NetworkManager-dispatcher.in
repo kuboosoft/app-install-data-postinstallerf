@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>yum-NetworkManager-dispatcher</b>'
+Comment='<span size="xx-large">NetworkManager script which tells yum to check its cache on network change</span>'
+Comment3='
+This NetworkManager "dispatch script" forces yum to check its cache if/when a
+new network connection happens in NetworkManager. Note that currently there is
+no checking of previous data, so if your WiFi keeps going up and down (or you
+suspend/resume a lot) yum will recheck its cached data a lot.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

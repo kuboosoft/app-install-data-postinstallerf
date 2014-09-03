@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-cc-pl</b>'
+Comment='<span size="xx-large">Polish extension of Computer Concrete fonts</span>'
+Comment3='
+These MetaFont sources rely on the availability of the MetaFont
+Polish fonts and of the MetaFont sources of the original
+Concrete fonts. Adobe Type 1 versions of the fonts are
+included.
+
+date 2009-09-24 205304 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

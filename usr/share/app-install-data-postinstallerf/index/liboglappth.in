@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>liboglappth</b>'
+Comment='<span size="xx-large">An OpenGL wrapper library</span>'
+Comment3='
+Library for creating portable OpenGL applications with easy-to-code
+scene setup and selection operations.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.uku.fi/~thassine/ghemical'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-css-text</b>'
+Comment='<span size="xx-large">CSS parser and renderer</span>'
+Comment3='
+CSS parser and renderer.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/css-text'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

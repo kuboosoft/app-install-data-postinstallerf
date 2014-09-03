@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-francais-bst</b>'
+Comment='<span size="xx-large">Bibliographies conforming to French typographic standards</span>'
+Comment3='
+The package provides bibliographies (in French) conforming to
+the rules in "Guide de la communication ecrite" (Malo, M.,
+Quebec Amerique, 1996. ISBN 978-2-8903-7875-9) The BibTeX
+styles were generated using custom-bib and they are compatible
+with natbib
+
+date 2013-05-12 223231 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

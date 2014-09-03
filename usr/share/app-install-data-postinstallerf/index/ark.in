@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ark</b>'
+Comment='<span size="xx-large">Archive manager</span>'
+Comment3='
+Ark is a program for managing various archive formats.
+
+Archives can be viewed, extracted, created and modified from within Ark.
+The program can handle various formats such as tar, gzip, bzip2, zip,
+rar and lha (if appropriate command-line programs are installed).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://utils.kde.org/projects/ark'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

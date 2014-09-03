@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-online-miners</b>'
+Comment='<span size="xx-large">Crawls through your online content</span>'
+Comment3='
+GNOME Online Miners provides a set of crawlers that go through your online
+content and index them locally in Tracker. It has miners for Flickr, Google
+and SkyDrive.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://wiki.gnome.org/Projects/GnomeOnlineMiners'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

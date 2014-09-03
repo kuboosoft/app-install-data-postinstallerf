@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>radiusclient-ng-devel</b>'
+Comment='<span size="xx-large">Development files for radiusclient-ng</span>'
+Comment3='
+Development files for radiusclient-ng.
+
+URL          http//developer.berlios.de/projects/radiusclient-ng/
+'
+License='BSD'
+Screenshot=''
+Url='http://developer.berlios.de/projects/radiusclient-ng/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

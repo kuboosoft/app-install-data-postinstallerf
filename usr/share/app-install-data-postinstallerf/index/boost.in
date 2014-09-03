@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>boost</b>'
+Comment='<span size="xx-large">The free peer-reviewed portable C++ source libraries</span>'
+Comment3='
+Boost provides free peer-reviewed portable C++ source libraries.  The
+emphasis is on libraries which work well with the C++ Standard
+Library, in the hopes of establishing "existing practice" for
+extensions and providing reference implementations so that the Boost
+libraries are suitable for eventual standardization. (Some of the
+libraries have already been included in the C++ 2011 standard and
+others have been proposed to the C++ Standards Committee for inclusion
+in future standards.)
+'
+License='Boost and MIT and Python'
+Screenshot=''
+Url='http://www.boost.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

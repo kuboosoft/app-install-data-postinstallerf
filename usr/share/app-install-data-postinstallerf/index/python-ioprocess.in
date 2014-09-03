@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-ioprocess</b>'
+Comment='<span size="xx-large">Python bindings for ioprocess</span>'
+Comment3='
+Python bindings for ioprocess
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/ficoos/ioprocess'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

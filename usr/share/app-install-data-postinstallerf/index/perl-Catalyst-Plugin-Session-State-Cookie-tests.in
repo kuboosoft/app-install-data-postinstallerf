@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-Session-State-Cookie-tests</b>'
+Comment='<span size="xx-large">Test suite for package perl-Catalyst-Plugin-Session-State-Cookie</span>'
+Comment3='
+This package provides the test suite for package perl-Catalyst-Plugin-Session-State-Cookie.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-Session-State-Cookie/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

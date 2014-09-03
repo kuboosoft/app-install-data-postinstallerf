@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ffgtk-plugin-google-addressbook</b>'
+Comment='<span size="xx-large">Google addressbook plugin for ffgtk (BETA)</span>'
+Comment3='
+This package contains the addressbook plugin to access your Google contacts.
+This plugin has beta quality
+'
+License='GPLv2'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

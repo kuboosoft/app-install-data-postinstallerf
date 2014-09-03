@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>shinken</b>'
+Comment='<span size="xx-large">Python Monitoring tool</span>'
+Comment3='
+Shinken is a new monitoring tool written in Python.
+The main goal of Shinken is to allow users to have a fully flexible
+architecture for their monitoring system that can easily scale to large
+environments.
+Shinken also provide interfaces with NDODB and Merlin database,
+Livestatus connector Shinken does not include any human interfaces.
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://www.shinken-monitoring.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

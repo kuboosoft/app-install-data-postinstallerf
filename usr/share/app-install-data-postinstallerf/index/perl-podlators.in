@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-podlators</b>'
+Comment='<span size="xx-large">Format POD source into various output formats</span>'
+Comment3='
+This package contains PodMan and PodText modules which convert POD input
+to *roff source output, suitable for man pages, or plain text.  It also
+includes several sub-classes of PodText for formatted output to terminals
+with various capabilities.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/podlators/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

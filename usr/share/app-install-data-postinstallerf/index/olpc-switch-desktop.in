@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>olpc-switch-desktop</b>'
+Comment='<span size="xx-large">OLPC desktop switching utilities</span>'
+Comment3='
+This package contains a Sugar control panel extension for switching to GNOME,
+and a GNOME program for switching back to Sugar.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Olpc-switch-desktop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>quartz</b>'
+Comment='<span size="xx-large">Enterprise Job Scheduler for Java</span>'
+Comment3='
+Quartz is a job scheduling system that can be integrated with, or used
+along side virtually any J2EE or J2SE application. Quartz can be used
+to create simple or complex schedules for executing tens, hundreds, or
+even tens-of-thousands of jobs; jobs whose tasks are defined as standard
+Java components or EJBs.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.quartz-scheduler.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

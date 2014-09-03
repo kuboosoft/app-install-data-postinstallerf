@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>keybinder3-doc</b>'
+Comment='<span size="xx-large">Documentation for keybinder3</span>'
+Comment3='
+This package contains documentation for keybinder3.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/engla/keybinder/tree/keybinder-3.0'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

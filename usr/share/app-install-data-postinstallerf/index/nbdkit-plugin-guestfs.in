@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nbdkit-plugin-guestfs</b>'
+Comment='<span size="xx-large">libguestfs plugin for nbdkit</span>'
+Comment3='
+This package is a libguestfs plugin for nbdkit.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/libguestfs/nbdkit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

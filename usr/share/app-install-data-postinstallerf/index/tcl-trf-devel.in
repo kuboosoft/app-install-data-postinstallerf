@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tcl-trf-devel</b>'
+Comment='<span size="xx-large">Development files for tcl-trf</span>'
+Comment3='
+Development files for tcl-trf.
+
+URL          http//tcltrf.sourceforge.net
+'
+License='MIT and BSD and LGPLv2+ and GPLv2+ and Public Domain and OpenSSL'
+Screenshot=''
+Url='http://tcltrf.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>sphinx</b>'
+Comment='<span size="xx-large">Free open-source SQL full-text search engine</span>'
+Comment3='
+Sphinx is a full-text search engine, distributed under GPL version 2.
+Commercial licensing (e.g. for embedded use) is also available upon request.
+
+Generally, its a standalone search engine, meant to provide fast,
+size-efficient and relevant full-text search functions to other
+applications. Sphinx was specially designed to integrate well with SQL
+databases and scripting languages.
+Currently built-in data source drivers support fetching data either via
+direct connection to MySQL, or PostgreSQL, or from a pipe in a custom XML
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sphinxsearch.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

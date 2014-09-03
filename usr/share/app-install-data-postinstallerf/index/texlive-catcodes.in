@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-catcodes</b>'
+Comment='<span size="xx-large">Generic handling of TeX category codes</span>'
+Comment3='
+The bundle deals with category code switching; the packages of
+the bundle should work with any TeX format (with the support of
+the plainpkg package). The bundle provides - stacklet.sty,
+which supports stacks that control the use of different
+catcodes; - actcodes.sty, which deals with active characters;
+and - catchdq.sty, which provides a simple quotation character
+control mechanism.
+
+date 2012-11-08 104944 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-introspection</b>'
+Comment='<span size="xx-large">Dynamic inspection of the hierarchy of method definitions on a Ruby object</span>'
+Comment3='
+Dynamic inspection of the hierarchy of method definitions on a Ruby object
+'
+License='MIT'
+Screenshot=''
+Url='http://jamesmead.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcapsimage</b>'
+Comment='<span size="xx-large">Provides IPF support, primarily for UAE/E-UAE</span>'
+Comment3='
+Provides support for reading IPF files, an Amiga disk image format developed by
+the Amiga Preservation Society, as part of the C.A.P.S. project.
+
+'
+License='SPSFLA'
+Screenshot=''
+Url='http://www.softpres.org/?id=download'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>efreet-devel</b>'
+Comment='<span size="xx-large">Efreet headers, documentation and test programs</span>'
+Comment3='
+Libraries and header files for efreet
+
+URL          http//enlightenment.org
+'
+License='BSD and GPLv2+'
+Screenshot=''
+Url='http://enlightenment.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libfreenect-opencv</b>'
+Comment='<span size="xx-large">OpenCV bindings for libfreenect</span>'
+Comment3='
+The libfreenect-opencv package contains the libfreenect binding
+library for OpenCV development.
+
+'
+License='GPLv2+ or ASL 2.0'
+Screenshot=''
+Url='http://www.openkinect.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

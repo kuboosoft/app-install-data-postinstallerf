@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spacewalk-backend-sql</b>'
+Comment='<span size="xx-large">Core functions providing SQL connectivity for the RHN backend modules</span>'
+Comment3='
+This package contains the basic code that provides SQL connectivity for
+the Spacewalk backend modules.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

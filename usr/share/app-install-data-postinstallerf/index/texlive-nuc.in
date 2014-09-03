@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-nuc</b>'
+Comment='<span size="xx-large">Notation for nuclear isotopes</span>'
+Comment3='
+A simple package providing nuclear sub- and superscripts as
+commonly used in radiochemistry, radiation science, and nuclear
+physics and engineering applications. Isotopes which have Z
+with more digits than A require special spacing to appear
+properly; this spacing is supported in the package.
+
+date 2011-04-28 124540 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

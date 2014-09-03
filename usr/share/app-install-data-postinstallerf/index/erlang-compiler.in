@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-compiler</b>'
+Comment='<span size="xx-large">A byte code compiler for Erlang which produces highly compact code</span>'
+Comment3='
+A byte code compiler for Erlang which produces highly compact code.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-ceilometerclient</b>'
+Comment='<span size="xx-large">Python API and CLI for OpenStack Ceilometer</span>'
+Comment3='
+This is a client library for Ceilometer built on the Ceilometer API. It
+provides a Python API (the ceilometerclient module) and a command-line tool
+(ceilometer).
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/openstack/python-ceilometerclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

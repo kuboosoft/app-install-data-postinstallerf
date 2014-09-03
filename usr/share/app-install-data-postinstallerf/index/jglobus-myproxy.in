@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jglobus-myproxy</b>'
+Comment='<span size="xx-large">Globus Java - MyProxy</span>'
+Comment3='
+Globus Java library with MyProxy support
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/jglobus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

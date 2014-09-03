@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fmit</b>'
+Comment='<span size="xx-large">Free Music Instrument Tuner</span>'
+Comment3='
+fmit is a graphical utility for tuning musical instruments, with
+error and volume history and advanced features like waveform shape,
+harmonics ratio (formants), and micro-tonal tuning.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://home.gna.org/fmit/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

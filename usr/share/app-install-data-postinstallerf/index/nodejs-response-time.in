@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-response-time</b>'
+Comment='<span size="xx-large">X-Response-Time header for Node.js and Connect</span>'
+Comment3='
+X-Response-Time header for Node.js and Connect.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/expressjs/response-time'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

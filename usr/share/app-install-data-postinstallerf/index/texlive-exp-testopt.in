@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-exp-testopt</b>'
+Comment='<span size="xx-large">Expandable \@testopt (and related) macros</span>'
+Comment3='
+The package provides an expandable variant of the LaTeX kernel
+command \@testopt, named \@expandable@testopt, and a more
+general \@expandable@ifopt, both intended for package writers.
+Also we have a variant of \newcommand which uses these macros
+to check for optional arguments.
+
+date 2009-03-08 173829 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

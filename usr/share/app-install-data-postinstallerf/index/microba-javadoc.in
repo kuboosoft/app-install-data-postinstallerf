@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>microba-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for microba</span>'
+Comment3='
+API documentation for microba.
+'
+License='BSD'
+Screenshot=''
+Url='http://microba.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

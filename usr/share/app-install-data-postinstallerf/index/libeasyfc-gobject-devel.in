@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libeasyfc-gobject-devel</b>'
+Comment='<span size="xx-large">Development files for libeasyfc-gobject</span>'
+Comment3='
+libeasyfc aims to provide an easy interface to generate
+fontconfig configuration on demand.
+
+This package contains the development files to make any
+applications with libeasyfc-gobject.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://tagoh.bitbucket.org/libeasyfc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mipv6-daemon</b>'
+Comment='<span size="xx-large">Mobile IPv6 (MIPv6) Daemon</span>'
+Comment3='
+The mobile IPv6 daemon allows nodes to remain
+reachable while moving around in the IPv6 Internet.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.umip.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-qooxdoo-compat</b>'
+Comment='<span size="xx-large">Perl backend for Qooxdoo</span>'
+Comment3='
+This package provides the Perl backend for Qooxdoo, a comprehensive
+and innovative Ajax application framework. This package supports
+Qooxdoo 0.7.
+'
+License='LGPLv2 or EPL'
+Screenshot=''
+Url='http://qooxdoo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

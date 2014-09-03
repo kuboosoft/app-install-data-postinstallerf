@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-basque-date</b>'
+Comment='<span size="xx-large">Print the date in Basque</span>'
+Comment3='
+The package provides two LaTeX commands to print the current
+date in Basque according to the correct forms ruled by The
+Basque Language Academy (Euskaltzaindia). The commands
+automatically solve the complex declination issues of numbers
+in Basque.
+
+date 2012-05-17 145637 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

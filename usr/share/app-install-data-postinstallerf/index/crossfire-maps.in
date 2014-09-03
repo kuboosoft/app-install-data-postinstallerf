@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>crossfire-maps</b>'
+Comment='<span size="xx-large">Map files for the crossfire server</span>'
+Comment3='
+Map files for the crossfire server.
+'
+License='GPL+ and BSD'
+Screenshot=''
+Url='http://crossfire.real-time.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

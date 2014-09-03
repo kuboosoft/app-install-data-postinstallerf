@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ocaml-cairo</b>'
+Comment='<span size="xx-large">OCaml library for accessing cairo graphics</span>'
+Comment3='
+Cairo is a multi-platform library providing anti-aliased vector-based
+rendering for multiple target backends. Paths consist of line segments
+and cubic splines and can be rendered at any width with various join
+and cap styles. All colors may be specified with optional translucence
+(opacity/alpha) and combined using the extended Porter/Duff
+compositing algebra as found in the X Render Extension.
+
+Cairo exports a stateful rendering API similar in spirit to the path
+construction, text, and painting operators of PostScript, (with the
+significant addition of translucence in the imaging model). When
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://cairographics.org/cairo-ocaml/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

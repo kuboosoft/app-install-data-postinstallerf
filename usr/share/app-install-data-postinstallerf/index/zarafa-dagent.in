@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zarafa-dagent</b>'
+Comment='<span size="xx-large">Mail Delivery Agent for Zarafa Collaboration Platform</span>'
+Comment3='
+The zarafa-dagent package includes the Zarafa Delivery Agent to deliver
+e-mail messages from Internet Mail format to Zarafa. The Zarafa Delivery
+Agent can be used trigger the local mailer (MDA) or even act as the LMTP
+server.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

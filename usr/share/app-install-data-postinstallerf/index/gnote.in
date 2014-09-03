@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnote</b>'
+Comment='<span size="xx-large">Note-taking application</span>'
+Comment3='
+Gnote is a desktop note-taking application which is simple and easy to use.
+It lets you organize your notes intelligently by allowing you to easily link
+ideas together with Wiki style interconnects. It is a port of Tomboy to C++
+and consumes fewer resources.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://live.gnome.org/Gnote'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

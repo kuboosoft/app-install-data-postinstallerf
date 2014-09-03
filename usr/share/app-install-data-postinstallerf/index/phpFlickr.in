@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>phpFlickr</b>'
+Comment='<span size="xx-large">PHP client for the Flickr web service</span>'
+Comment3='
+PHP client for the Flickr web service. It has functions that return the
+responses from Flickrs API in a meaningful way for PHP developers.
+It will also contain functions that aggregate data from multiple methods.
+Compatible with PHP4 and PHP5.
+'
+License='LGPL'
+Screenshot=''
+Url='http://phpflickr.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-eperl</b>'
+Comment='<span size="xx-large">Embedded Perl Language</span>'
+Comment3='
+ePerl interprets an ASCII file bristled with Perl 5 program statements
+by evaluating the Perl 5 code while passing through the plain ASCII
+data. It can operate in various ways As a stand-alone Unix filter or
+integrated Perl 5 module for general file generation tasks and as a
+powerful Webserver scripting language for dynamic HTML page
+programming.
+
+The documentation and latest release can be found on
+http//www.ossp.org/pkg/tool/eperl/
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://www.ossp.org/pkg/tool/eperl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

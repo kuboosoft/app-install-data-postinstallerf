@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-MooseX-AttributeHelpers</b>'
+Comment='<span size="xx-large">Extended Moose attribute interfaces</span>'
+Comment3='
+While Moose attributes provide you with a way to name your accessors,
+readers, writers, clearers and predicates, this library provides commonly
+used attribute helper methods for more specific types of data.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-AttributeHelpers/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

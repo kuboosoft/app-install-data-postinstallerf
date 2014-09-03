@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ser2net</b>'
+Comment='<span size="xx-large">Proxy that allows tcp connections to serial ports</span>'
+Comment3='
+ser2net provides a way for a user to connect from a network connection to a
+serial port. It provides all the serial port setup, a configuration file to
+configure the ports, a control login for modifying port parameters,
+monitoring ports, and controlling ports.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ser2net.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-pyasn1-modules</b>'
+Comment='<span size="xx-large">Modules for pyasn1</span>'
+Comment3='
+ASN.1 types modules for python3-pyasn1.
+'
+License='BSD'
+Screenshot=''
+Url='http://pyasn1.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

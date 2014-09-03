@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xorg-x11-resutils</b>'
+Comment='<span size="xx-large">X.Org X11 X resource utilities</span>'
+Comment3='
+A collection of utilities for managing X resources.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

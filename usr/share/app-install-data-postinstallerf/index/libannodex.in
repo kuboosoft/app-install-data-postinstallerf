@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libannodex</b>'
+Comment='<span size="xx-large">Library for annotating and indexing networked media</span>'
+Comment3='
+libannodex is a library to provide reading and writing of Annodex
+files and streams.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.annodex.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

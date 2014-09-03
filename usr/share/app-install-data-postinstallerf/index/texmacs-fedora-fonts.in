@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texmacs-fedora-fonts</b>'
+Comment='<span size="xx-large">Fonts for TeXmacs</span>'
+Comment3='
+TeXmacs font.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.texmacs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

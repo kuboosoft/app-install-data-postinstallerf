@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnokii-smsd-mysql</b>'
+Comment='<span size="xx-large">MySQL support for Gnokii SMS daemon</span>'
+Comment3='
+MySQL support for Gnokii SMS daemon.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnokii.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

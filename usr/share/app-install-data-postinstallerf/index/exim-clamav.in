@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>exim-clamav</b>'
+Comment='<span size="xx-large">Clam Antivirus scanner d?mon configuration for use with Exim</span>'
+Comment3='
+This package contains configuration files which invoke a copy of the
+clamav d?mon for use with Exim. It can be activated by adding (or
+uncommenting)
+
+   av_scanner = clamd/var/run/clamd.exim/clamd.sock
+in your exim.conf, and using the malware condition in the DATA ACL,
+as follows
+   deny message = This message contains malware ($malware_name)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.exim.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

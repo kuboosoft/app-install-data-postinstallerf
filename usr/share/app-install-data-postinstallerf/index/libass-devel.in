@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libass-devel</b>'
+Comment='<span size="xx-large">Development files for libass</span>'
+Comment3='
+The libass-devel package contains libraries and header files for
+developing applications that use libass.
+
+'
+License='ISC'
+Screenshot=''
+Url='http://code.google.com/p/libass/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

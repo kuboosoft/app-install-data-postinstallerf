@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkomparediff2</b>'
+Comment='<span size="xx-large">Library to compare files and strings</span>'
+Comment3='
+A shared library to compare files and strings using kdelibs and GNU diff,
+used in Kompare and KDevelop.
+
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/libkomparediff2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aajohan-comfortaa-fonts</b>'
+Comment='<span size="xx-large">Modern style true type font</span>'
+Comment3='
+Comfortaa is a sans-serif font comfortable in every aspect with
+Bold, Regular, and Thin variants.
+It has very good European language coverage and decent Cyrillic coverage.
+'
+License='OFL'
+Screenshot=''
+Url='http://aajohan.deviantart.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

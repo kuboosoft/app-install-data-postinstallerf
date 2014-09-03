@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-gevent-websocket</b>'
+Comment='<span size="xx-large">Websocket handler for the gevent pywsgi server</span>'
+Comment3='
+gevent-websocket is a websocket library for the gevent networking library
+written written and maintained by Jeffrey Gelens. It is licensed under the
+BSD license.
+'
+License='BSD'
+Screenshot=''
+Url='https://bitbucket.org/Jeffrey/gevent-websocket'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

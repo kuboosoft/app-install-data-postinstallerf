@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>emacs-verilog-mode</b>'
+Comment='<span size="xx-large">Verilog mode for Emacs</span>'
+Comment3='
+Verilog-mode.el is a free Verilog mode for Emacs
+which provides context-sensitive highlighting,
+auto indenting, and provides macro expansion
+capabilities to greatly reduce Verilog coding time.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.veripool.org/wiki/verilog-mode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

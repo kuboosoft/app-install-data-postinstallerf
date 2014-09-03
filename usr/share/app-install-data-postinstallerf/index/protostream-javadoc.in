@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>protostream-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for protostream</span>'
+Comment3='
+This package contains the API documentation for protostream.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://infinispan.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

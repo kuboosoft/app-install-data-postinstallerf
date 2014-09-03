@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gfal2-python-doc</b>'
+Comment='<span size="xx-large">Documentation for gfal2-python</span>'
+Comment3='
+documentation files  of gfal2-python .
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2-python'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

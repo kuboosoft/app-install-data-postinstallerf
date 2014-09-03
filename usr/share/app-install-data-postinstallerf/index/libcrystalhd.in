@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libcrystalhd</b>'
+Comment='<span size="xx-large">Broadcom Crystal HD device interface library</span>'
+Comment3='
+The libcrystalhd library provides userspace access to Broadcom Crystal HD
+video decoder devices. The device supports hardware decoding of MPEG-2,
+h.264 and VC1 video codecs, up to 1080p at 40fps for the first-generation
+bcm970012 hardware, and up to 1080p at 60fps for the second-generation
+bcm970015 hardware.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.broadcom.com/support/crystal_hd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

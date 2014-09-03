@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-BSgenome</b>'
+Comment='<span size="xx-large">Infrastructure for Biostrings-based genome data packages</span>'
+Comment3='
+Infrastructure shared by all the Biostrings-based genome data packages
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/BSgenome.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

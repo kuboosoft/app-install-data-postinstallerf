@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lovelock-backgrounds-single</b>'
+Comment='<span size="xx-large">Single screen images for Lovelock Backgrounds</span>'
+Comment3='
+This package contains single screen images for Lovelock Backgrounds
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F14_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

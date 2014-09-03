@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-polynomial</b>'
+Comment='<span size="xx-large">Typeset (univariate) polynomials</span>'
+Comment3='
+The package offers an easy way to write (univariate)
+polynomials and rational functions. It defines two commands,
+one for polynomials \polynomial{coeffs} and one for rational
+functions \polynomialfrac{Numerator}{Denominator}. Both
+commands take lists of coefficients as arguments, and offer
+limited optional behaviour.
+
+date 2008-08-23 000602 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

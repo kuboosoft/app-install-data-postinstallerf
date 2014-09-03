@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-slime-el</b>'
+Comment='<span size="xx-large">Elisp source files for emacs-slime</span>'
+Comment3='
+This package contains the Elisp source files for emacs-slime. You do not need
+to install this package to use emacs-slime.
+'
+License='Public Domain and GPLv3+ and GPLv2+ and LLGPL'
+Screenshot=''
+Url='http://common-lisp.net/project/slime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

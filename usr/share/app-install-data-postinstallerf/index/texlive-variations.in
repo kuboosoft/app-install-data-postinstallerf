@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-variations</b>'
+Comment='<span size="xx-large">Typeset tables of variations of functions</span>'
+Comment3='
+The package provides macros for typesetting tables showing
+variations of functions according to French usage. These macros
+may be used by both LaTeX and plain TeX users.
+
+date 2007-03-13 090646 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>infinispan</b>'
+Comment='<span size="xx-large">Data grid platform</span>'
+Comment3='
+Infinispan is an extremely scalable, highly available data grid
+platform - 100% open source, and written in Java. The purpose of
+Infinispan is to expose a data structure that is highly concurrent,
+designed ground-up to make the most of modern multi-processor/multi-core
+architectures while at the same time providing distributed cache
+capabilities.  At its core Infinispan exposes a Cache interface which
+extends java.util.Map. It is also optionally is backed by a peer-to-peer
+network architecture to distribute state efficiently around a data grid.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/infinispan'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

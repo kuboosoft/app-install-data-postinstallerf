@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Server-Starter</b>'
+Comment='<span size="xx-large">Superdaemon for hot-deploying server programs</span>'
+Comment3='
+It is often a pain to write a server program that supports graceful
+restarts, with no resource leaks. ServerStarter, solves the problem by
+splitting the task into two. One is start_server, a script provided as a
+part of the module, which works as a superdaemon that binds to zero or
+more TCP ports, and repeatedly spawns the server program that actually
+handles the necessary tasks (for example, responding to incoming
+connections). The spawned server programs under ServerStarter call
+accept(2) and handle the requests.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Server-Starter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

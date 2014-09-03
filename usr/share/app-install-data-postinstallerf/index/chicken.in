@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>chicken</b>'
+Comment='<span size="xx-large">A practical and portable Scheme system</span>'
+Comment3='
+CHICKEN is a compiler for the Scheme programming language.
+CHICKEN produces portable, efficient C, supports almost all of the R5RS
+Scheme language standard, and includes many enhancements and extensions.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://call-cc.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

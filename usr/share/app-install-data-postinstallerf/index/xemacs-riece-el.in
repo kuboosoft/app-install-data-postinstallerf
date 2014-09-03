@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xemacs-riece-el</b>'
+Comment='<span size="xx-large">Elisp source files for Riece under XEmacs</span>'
+Comment3='
+This package contains the elisp source files for Riece under
+XEmacs. You do not need to install this package to run
+Riece. Install the xemacs-riece package to use Riece with
+XEmacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://riece.nongnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

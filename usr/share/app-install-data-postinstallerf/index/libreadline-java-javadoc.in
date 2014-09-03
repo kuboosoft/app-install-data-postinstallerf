@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libreadline-java-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for libreadline-java</span>'
+Comment3='
+API documentation for libreadline-java.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://java-readline.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

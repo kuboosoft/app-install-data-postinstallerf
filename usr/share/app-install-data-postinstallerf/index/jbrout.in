@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>jbrout</b>'
+Comment='<span size="xx-large">Photo manager, written in python/pygtk</span>'
+Comment3='
+jBrout is able to 
+   * manage albums/photos (= folders/files)
+   * tag photos with IPTC keywords
+   * use internal jpeg thumbnail
+   * comment photos (with jpeg comment) and album (textfile in
+     folder)
+   * rotate loss-less jpeg (and internal jpeg thumbnail)
+     use EXIF info (date, size ..)
+   * search pictures (tags, comment, date, ...)
+   * use plugins (to export to html/gallery, to act like
+'
+License='GPLv2'
+Screenshot=''
+Url='http://jbrout.manatlan.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

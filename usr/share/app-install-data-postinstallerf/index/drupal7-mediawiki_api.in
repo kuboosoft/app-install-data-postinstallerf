@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>drupal7-mediawiki_api</b>'
+Comment='<span size="xx-large">Provides a MediaWiki syntax to html conversion input filter</span>'
+Comment3='
+This module provides an input filter which allows the conversion
+of content marked up using MediaWiki syntax to html
+for display on your drupal site,
+by using the parse feature of the MediaWiki API.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/mediawiki_api'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

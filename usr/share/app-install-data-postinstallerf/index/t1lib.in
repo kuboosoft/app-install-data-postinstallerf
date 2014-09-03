@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>t1lib</b>'
+Comment='<span size="xx-large">PostScript Type 1 font rasterizer</span>'
+Comment3='
+T1lib is a rasterizer library for Adobe Type 1 Fonts. It supports
+rotation and transformation, kerning underlining and antialiasing. It
+does not depend on X11, but does provides some special functions for
+X11.
+
+AFM-files can be generated from Type 1 font files and font subsetting
+is possible.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='ftp://sunsite.unc.edu/pub/Linux/libs/graphics/t1lib-5.1.2.lsm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

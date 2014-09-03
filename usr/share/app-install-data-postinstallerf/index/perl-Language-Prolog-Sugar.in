@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Language-Prolog-Sugar</b>'
+Comment='<span size="xx-large">Syntactic sugar for Prolog term constructors</span>'
+Comment3='
+LanguagePrologSugar is able to export to the calling package a set of
+subroutines to create Prolog terms as defined in the
+LanguagePrologTypes module. Perl programs using these constructors have
+the same look as real Prolog programs.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Language-Prolog-Sugar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>thunar-volman</b>'
+Comment='<span size="xx-large">Automatic management of removable drives and media for Thunar</span>'
+Comment3='
+The Thunar Volume Manager is an extension for the Thunar file manager, which
+enables automatic management of removable drives and media. For example, if
+thunar-volman is installed and configured properly, and you plug in your
+digital camera, it will automatically launch your preferred photo application
+and import the new pictures from the camera into your photo collection.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/thunar-plugins/thunar-volman'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

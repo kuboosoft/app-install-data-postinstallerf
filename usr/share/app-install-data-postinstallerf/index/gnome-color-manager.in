@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-color-manager</b>'
+Comment='<span size="xx-large">Color management tools for GNOME</span>'
+Comment3='
+gnome-color-manager is a session framework that makes it easy to manage, install
+and generate color profiles in the GNOME desktop.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/gnome-color-manager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-savefnmark</b>'
+Comment='<span size="xx-large">Save name of the footnote mark for reuse</span>'
+Comment3='
+Sometimes the same footnote applies to more than one location
+in a table. With this package the mark of a footnote can be
+saved into a name, and re-used subsequently without creating
+another footnote at the bottom.
+
+date 2007-01-14 152052 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

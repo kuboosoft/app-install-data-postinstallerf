@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-inlinestyler</b>'
+Comment='<span size="xx-large">Inlines external CSS into HTML elements</span>'
+Comment3='
+inlinestyler is an easy way to locally inline CSS into an HTML email message.
+'
+License='BSD'
+Screenshot=''
+Url='https://pypi.python.org/pypi/inlinestyler/0.1.7'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

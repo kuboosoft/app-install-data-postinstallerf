@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>CVector-devel</b>'
+Comment='<span size="xx-large">Development tools for compiling programs using CVector</span>'
+Comment3='
+The CVector-devel package includes the header and library files for
+developing applications that use CVector.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cvector.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

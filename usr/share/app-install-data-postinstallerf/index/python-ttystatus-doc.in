@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-ttystatus-doc</b>'
+Comment='<span size="xx-large">Documentation for ttystatus</span>'
+Comment3='
+This package contains the documentation for ttystatus, a Python
+library providing progress and status updates on terminals.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://liw.fi/ttystatus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

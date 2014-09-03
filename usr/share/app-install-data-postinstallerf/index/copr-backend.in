@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>copr-backend</b>'
+Comment='<span size="xx-large">Backend for Copr</span>'
+Comment3='
+COPR is lightweight build system. It allows you to create new project in WebUI,
+and submit new builds and COPR will create yum repository from latest builds.
+
+This package contains backend.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/copr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

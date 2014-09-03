@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>guitone</b>'
+Comment='<span size="xx-large">A frontend for Monotone</span>'
+Comment3='
+Guitone is a Qt-based, cross-platform graphical user interface for the
+distributed version control system monotone. It aims towards a full
+implementation of the monotone automation interface and is especially
+targeted at beginners.
+
+Functionality provided by guitone
+* Browse a loaded workspace, filter by file states
+* Display attributes of selected files
+* Open files in the systems default viewer on double-click
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://guitone.thomaskeller.biz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Gtk2-Ex-Simple-List</b>'
+Comment='<span size="xx-large">Simple interface to Gtk2s complex MVC list widget</span>'
+Comment3='
+Gtk2 has a powerful, but complex MVC (Model, View, Controller) system used
+to implement list and tree widgets. Gtk2ExSimpleList automates the
+complex setup work and allows you to treat the list model as a more natural
+list of lists structure.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Gtk2-Ex-Simple-List/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

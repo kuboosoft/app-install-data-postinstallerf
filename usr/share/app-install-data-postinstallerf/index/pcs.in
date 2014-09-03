@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pcs</b>'
+Comment='<span size="xx-large">Pacemaker Configuration System</span>'
+Comment3='
+pcs is a corosync and pacemaker configuration tool.  It permits users to
+easily view, modify and created pacemaker based clusters.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://github.com/feist/pcs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

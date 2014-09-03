@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Barcode-Code128</b>'
+Comment='<span size="xx-large">Generate CODE 128 bar codes</span>'
+Comment3='
+BarcodeCode128 generates bar codes using the CODE 128 symbology. It can
+generate images in PNG or GIF format using the GD package, or it can
+generate a text string representing the barcode that you can render using
+some other technology if desired.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://search.cpan.org/dist/Barcode-Code128/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

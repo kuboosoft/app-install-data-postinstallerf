@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xsupplicant</b>'
+Comment='<span size="xx-large">Open Source Implementation of IEEE 802.1x</span>'
+Comment3='
+This software allows a GNU/Linux or BSD workstation to authenticate with
+a RADIUS server using 802.1x and various EAP protocols.  The intended
+use is for computers with wireless LAN connections to complete a strong
+authentication before joining the network.
+
+'
+License='GPLv2+ or BSD with advertising'
+Screenshot=''
+Url='http://www.open1x.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-fakefs-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-fakefs</span>'
+Comment3='
+Documentation for rubygem-fakefs
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/defunkt/fakefs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

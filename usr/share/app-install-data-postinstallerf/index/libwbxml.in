@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libwbxml</b>'
+Comment='<span size="xx-large">Library and tools to parse, encode and handle WBXML documents</span>'
+Comment3='
+The WBXML Library (libwbxml) contains a library and its associated tools to
+parse, encode and handle WBXML documents. The WBXML format is a binary
+representation of XML, defined by the Wap Forum, and used to reduce
+bandwidth in mobile communications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://libwbxml.opensync.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

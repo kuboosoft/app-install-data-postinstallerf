@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal6-messaging</b>'
+Comment='<span size="xx-large">Messaging Framework to allow message sending in an independent way</span>'
+Comment3='
+This is a Messaging Framework to allow message sending in a channel independent
+way. It will provide a common API for message composition and sending while
+allowing plug-ins for multiple messaging methods.
+
+When using this framework, you wont send e-mails to users anymore. You will
+send them messages and they will decide how they want to get them delivered,
+that may be by mail, IM, SMS, depending on users preferences.
+This package provides the following Drupal modules
+* messaging
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/messaging'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

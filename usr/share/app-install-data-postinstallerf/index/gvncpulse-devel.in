@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gvncpulse-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. to compile with the gvncpulse library</span>'
+Comment3='
+gvncpulse is a bridge to the Pulse Audio system for VNC.
+It allows VNC clients to play back audio on the local
+system
+
+Libraries, includes, etc. to compile with the gvnc library
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/gtk-vnc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

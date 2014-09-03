@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ctags</b>'
+Comment='<span size="xx-large">A C programming language indexing and/or cross-reference tool</span>'
+Comment3='
+Ctags generates an index (or tag) file of C language objects found in
+C source and header files.  The index makes it easy for text editors or
+other utilities to locate the indexed items.  Ctags can also generate a
+cross reference file which lists information about the various objects
+found in a set of C language files in human readable form.  Exuberant
+Ctags improves on ctags because it can find all types of C language tags,
+including macro definitions, enumerated values (values inside enum{...}),
+function and method definitions, enum/struct/union tags, external
+function prototypes, typedef names and variable declarations.  Exuberant
+Ctags is far less likely to be fooled by code containing #if preprocessor
+'
+License='GPLv2+ and LGPLv2+ and Public Domain'
+Screenshot=''
+Url='http://ctags.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

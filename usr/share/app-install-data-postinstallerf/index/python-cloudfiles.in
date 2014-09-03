@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-cloudfiles</b>'
+Comment='<span size="xx-large">Python language bindings for Rackspace CloudFiles API</span>'
+Comment3='
+Python language bindings for Rackspace CloudFiles API
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rackspace/python-cloudfiles'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

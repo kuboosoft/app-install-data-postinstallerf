@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plasma-wallpaper-marble</b>'
+Comment='<span size="xx-large">Marble wallpaper for kde-plasma</span>'
+Comment3='
+Marble wallpaper for kde-plasma.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

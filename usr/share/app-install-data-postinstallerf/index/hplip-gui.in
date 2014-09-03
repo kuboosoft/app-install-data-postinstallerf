@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hplip-gui</b>'
+Comment='<span size="xx-large">HPLIP graphical tools</span>'
+Comment3='
+HPLIP graphical tools.
+'
+License='BSD'
+Screenshot=''
+Url='http://hplip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

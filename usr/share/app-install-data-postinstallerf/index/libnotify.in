@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libnotify</b>'
+Comment='<span size="xx-large">Desktop notification library</span>'
+Comment3='
+libnotify is a library for sending desktop notifications to a notification
+daemon, as defined in the freedesktop.org Desktop Notifications spec. These
+notifications can be used to inform the user about an event or display some
+form of information without getting in the users way.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

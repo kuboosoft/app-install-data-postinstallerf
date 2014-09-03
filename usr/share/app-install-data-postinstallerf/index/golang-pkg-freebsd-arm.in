@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>golang-pkg-freebsd-arm</b>'
+Comment='<span size="xx-large">Golang compiler toolchain to compile for freebsd arm</span>'
+Comment3='
+Golang compiler toolchain to compile for freebsd arm
+'
+License='BSD'
+Screenshot=''
+Url='http://golang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

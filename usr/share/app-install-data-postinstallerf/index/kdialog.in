@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdialog</b>'
+Comment='<span size="xx-large">Nice dialog boxes from shell scripts</span>'
+Comment3='
+KDialog can be used to show nice dialog boxes from shell scripts.
+'
+License='GPLv2 and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-baseapps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-horde-imp</b>'
+Comment='<span size="xx-large">A web based webmail system</span>'
+Comment3='
+IMP, the Internet Mail Program, is one of the most popular and widely
+deployed open source webmail applications in the world. It allows
+universal, web-based access to IMAP and POP3 mail servers and provides
+Ajax, mobile and traditional interfaces with a rich range of features
+normally found only in desktop email clients.
+'
+License='GPLv2 and MIT'
+Screenshot=''
+Url='http://www.horde.org/apps/imp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

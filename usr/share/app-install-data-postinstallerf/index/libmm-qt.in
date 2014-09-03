@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmm-qt</b>'
+Comment='<span size="xx-large">Qt-only wrapper for ModemManager DBus API</span>'
+Comment3='
+Qt library for ModemManager
+
+URL          https//projects.kde.org/projects/extragear/libs/libmm-qt
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/libs/libmm-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-virtkey</b>'
+Comment='<span size="xx-large">Python extension for emulating keypresses and getting current keyboard layout</span>'
+Comment3='
+Python-virtkey is a python extension for emulating keypresses and getting
+current keyboard layout.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/virtkey'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

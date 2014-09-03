@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-ifmib</b>'
+Comment='<span size="xx-large">Fence agent for devices with IF-MIB interfaces</span>'
+Comment3='
+The fence-agents-ifmib package contains a fence agent for IF-MIB interfaces that are accessed via the SNMP protocol.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

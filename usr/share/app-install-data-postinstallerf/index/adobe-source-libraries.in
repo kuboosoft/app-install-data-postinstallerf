@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>adobe-source-libraries</b>'
+Comment='<span size="xx-large">General purpose C++ libraries</span>'
+Comment3='
+ASL provides peer-reviewed and portable C++ source libraries. The
+libraries are intended to be widely useful, leveraging and extending
+both the C++ Standard Library and the Boost Libraries.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://stlab.adobe.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

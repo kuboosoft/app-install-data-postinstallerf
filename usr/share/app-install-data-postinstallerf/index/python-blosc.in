@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-blosc</b>'
+Comment='<span size="xx-large">Python wrapper for the blosc high performance compressor</span>'
+Comment3='
+Python wrapper for the Blosc high performance compressor.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/FrancescAlted/python-blosc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>SkyX</b>'
+Comment='<span size="xx-large">Photo-realistic sky simulator</span>'
+Comment3='
+SkyX is a photo-realistic, simple and fast sky simulator.  It can be used
+with the OGRE engine.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.paradise-studios.net/?page_id=183'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

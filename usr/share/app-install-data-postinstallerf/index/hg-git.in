@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>hg-git</b>'
+Comment='<span size="xx-large">Mercurial Plugin for Communicating with Git Servers</span>'
+Comment3='
+This is the Hg-Git plugin for Mercurial, adding the ability to push and pull
+to/from a Git server repository from Hg. This means you can collaborate on Git
+based projects from Hg, or use a Git server as a collaboration point for a team
+with developers using both Git and Hg. It can also convert commits/changesets
+losslessly from one system to another, so you can push via an Hg repository
+and another Hg client can pull it and their changeset node ids will be
+identical - Mercurial data does not get lost in translation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hg-git.github.io'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

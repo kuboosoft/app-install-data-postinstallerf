@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>asterisk-voicemail-imap</b>'
+Comment='<span size="xx-large">Store voicemail on an IMAP server</span>'
+Comment3='
+Voicemail implementation for Asterisk that stores voicemail on an IMAP
+server.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.asterisk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

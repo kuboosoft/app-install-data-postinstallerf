@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>zookeeper</b>'
+Comment='<span size="xx-large">A high-performance coordination service for distributed applications</span>'
+Comment3='
+ZooKeeper is a centralized service for maintaining configuration information,
+naming, providing distributed synchronization, and providing group services.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://zookeeper.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

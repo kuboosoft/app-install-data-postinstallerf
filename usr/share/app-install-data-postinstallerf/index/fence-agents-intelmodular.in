@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-intelmodular</b>'
+Comment='<span size="xx-large">Fence agent for devices with Intel Modular interfaces</span>'
+Comment3='
+The fence-agents-intelmodular package contains a fence agent for Intel Modular interfaces that are accessed via the SNMP protocol.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

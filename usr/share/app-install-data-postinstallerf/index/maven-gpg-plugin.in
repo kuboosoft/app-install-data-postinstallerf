@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-gpg-plugin</b>'
+Comment='<span size="xx-large">Maven GPG Plugin</span>'
+Comment3='
+This plugin signs all of the projects attached artifacts with
+GnuPG. It adds goals gpgsign and gpgsign-and-deploy-file.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-gpg-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>copr-cli-doc</b>'
+Comment='<span size="xx-large">Code documentation for COPR</span>'
+Comment3='
+COPR is lightweight build system. It allows you to create new project in WebUI,
+and submit new builds and COPR will create yum repository from latests builds.
+
+This package include documentation for COPR code. Mostly useful for developers
+only.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/copr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

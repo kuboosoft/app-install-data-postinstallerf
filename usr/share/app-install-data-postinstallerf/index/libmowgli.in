@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libmowgli</b>'
+Comment='<span size="xx-large">Library of many utility functions and classes</span>'
+Comment3='
+libmowgli is a development framework for C (like GLib), which provides high
+performance and highly flexible algorithms. It can be used as a suppliment to
+GLib (to add additional functions (dictionaries, hashes), or replace some of
+the slow GLib list manipulation functions), or stand alone. It also provides a
+powerful hook system and convenient logging for your code, as well as a high
+performance block allocator.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.atheme.org/project/mowgli'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

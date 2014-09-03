@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-abind</b>'
+Comment='<span size="xx-large">Combine multi-dimensional arrays</span>'
+Comment3='
+Combine multi-dimensional arrays. This is a generalization of cbind and rbind.
+Takes a sequence of vectors, matrices, or arrays and produces a single array
+of the same or higher dimension.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/abind/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

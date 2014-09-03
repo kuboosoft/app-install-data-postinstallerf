@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pam_mapi</b>'
+Comment='<span size="xx-large">PAM module for authentication via MAPI against a Zarafa server</span>'
+Comment3='
+pam_mapi is a PAM module (Pluggable Authentication Modules) for authentication
+against a Zarafa server. Applications like Zarafa WebAccess, Zarafa WebApp or
+Microsoft Outlook which directly connect to the Zarafa Collaboration Platform
+use MAPI in SOAP to do so. If Zarafa is configured to use the DB authentication
+plugin, all user information are stored in a MySQL database.
+
+Once IMAP/POP3 is used via the Zarafa Gateway, SMTP gets involved for outbound
+e-mails, too. Usually this requires SMTP authentication (to avoid open relays),
+but the user information in the MySQL database is unfortunately not accessible
+for established SASL daemons. The pam_mapi module is filling this gap by adding
+'
+License='BSD and GPLv2+'
+Screenshot=''
+Url='http://linux.robert-scheck.de/software/pam_mapi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

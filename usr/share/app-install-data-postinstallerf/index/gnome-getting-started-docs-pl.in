@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-getting-started-docs-pl</b>'
+Comment='<span size="xx-large">Polish translations for gnome-getting-started-docs videos</span>'
+Comment3='
+Polish (pl) translations for the Getting Started guide videos.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://help.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

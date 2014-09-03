@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-logging-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-logging</span>'
+Comment3='
+This package contains documentation for rubygem-logging.
+'
+License='Ruby or BSD'
+Screenshot=''
+Url='http://rubygems.org/gems/logging'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

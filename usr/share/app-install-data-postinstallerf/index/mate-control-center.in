@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-control-center</b>'
+Comment='<span size="xx-large">MATE Desktop control-center</span>'
+Comment3='
+MATE Control Center configures system settings such as themes, keyboards shortcuts, etc.
+
+URL          http//mate-desktop.org
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

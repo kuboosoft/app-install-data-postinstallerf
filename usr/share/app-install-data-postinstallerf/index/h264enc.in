@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>h264enc</b>'
+Comment='<span size="xx-large">An interactive menu-driven frontend for mencoder</span>'
+Comment3='
+h264enc is an advanced and powerful interactive menu-driven shell
+script written for the GNU/Linux operating system which can help you
+to encode a DVD, a video file, a directory with video files or a (S)VCD
+to the H.264/MPEG-4 Part 10/AVC video format using the MEncoder encoder
+from the MPlayer project and the libx264 library. It supports muxing
+the final encode from AVI to Matroska, from AVI to OGM, from AVI to TS
+and from AVI to the MP4 container.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://h264enc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

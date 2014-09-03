@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>uzbl-tabbed</b>'
+Comment='<span size="xx-large">Tabbed interface to Uzbl</span>'
+Comment3='
+Uzbl-tabbed wraps around uzbl-browser and multiplexes it. It spawns
+one window containing multiple tabs, each tab containing a full
+embedded uzbl-browser Ideal as a quick and simple solution to manage
+multiple uzbl-browser instances without getting lost.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.uzbl.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

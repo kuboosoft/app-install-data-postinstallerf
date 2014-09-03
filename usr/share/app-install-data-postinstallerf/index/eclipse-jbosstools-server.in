@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools-server</b>'
+Comment='<span size="xx-large">JBoss Server Tools</span>'
+Comment3='
+Server Tools provide the JBoss Server Adapter for Eclipse WTP, project
+archive tooling and JMX views.
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

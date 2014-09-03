@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openclipart</b>'
+Comment='<span size="xx-large">Open Clip Art Library</span>'
+Comment3='
+Open Clip Art Gallery contains thousand of SVG vector images that can be
+freely used.  SVG files can be opened in various tools including
+Inkscape vector graphics editor, OpenOffice.org and Firefox web browser.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.openclipart.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

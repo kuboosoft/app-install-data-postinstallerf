@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-power-manager</b>'
+Comment='<span size="xx-large">GNOME power management service</span>'
+Comment3='
+GNOME Power Manager uses the information and facilities provided by UPower
+displaying icons and handling user callbacks in an interactive GNOME session.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/gnome-power-manager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

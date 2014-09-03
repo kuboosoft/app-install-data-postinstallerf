@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>unifont-fonts</b>'
+Comment='<span size="xx-large">Unicode font with a glyph for every visible BMP code point</span>'
+Comment3='
+Unifont is a fixed-width Unicode font with a glyph for every visible
+Unicode Basic Multilingual Plane code point and more. The latest
+version of Unifont includes approximately 54,700 glyphs for all the
+visible Unicode BMP code points.
+
+This font strives for very wide coverage rather than beauty, so use it
+only as fallback or for special purposes.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://savannah.gnu.org/projects/unifont'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dvdisaster</b>'
+Comment='<span size="xx-large">Additional error protection for CD/DVD media</span>'
+Comment3='
+dvdisaster provides a margin of safety against data loss on CD and DVD media
+caused by scratches or aging. It creates error correction data,
+which is used to recover unreadable sectors if the disc becomes damaged
+at a later time.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dvdisaster.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

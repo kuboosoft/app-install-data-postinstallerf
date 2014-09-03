@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openbox-libs</b>'
+Comment='<span size="xx-large">Shared libraries for openbox</span>'
+Comment3='
+The openbox-libs package contains shared libraries used by openbox.
+
+URL          http//openbox.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://openbox.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

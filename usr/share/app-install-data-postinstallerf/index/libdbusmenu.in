@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libdbusmenu</b>'
+Comment='<span size="xx-large">A library that pulling out some code out of indicator-applet</span>'
+Comment3='
+It passes a menu structure across DBus so that a program can create
+a menu simply without worrying about how it is displayed on the
+other side of the bus
+
+'
+License='LGPLv3 or LGPLv2 and GPLv3'
+Screenshot=''
+Url='https://launchpad.net/libdbusmenu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

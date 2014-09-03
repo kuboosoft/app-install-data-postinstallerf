@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-graphics</b>'
+Comment='<span size="xx-large">Standard LaTeX graphics</span>'
+Comment3='
+The package was designed to accommodate all needs for inclusion
+of graphics in LaTeX documents, replacing many earlier packages
+used in LaTeX 2.09. The package aims to give a consistent
+interface to including the file types that are understood in
+your output, by use of printer drivers (now known, simply, as
+drivers). The distribtion of the package contains several
+drivers, but others (for example, pdfTeX) are distributed
+separately. The package also offers several means of
+manipulating graphics in the course of inserting them into a
+document (for example, rotation and scaling). For extended
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

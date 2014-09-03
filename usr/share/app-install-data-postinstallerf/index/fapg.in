@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>fapg</b>'
+Comment='<span size="xx-large">Fast Audio Playlist Generator</span>'
+Comment3='
+FAPG means Fast Audio Playlist Generator.
+It is a tool to generate list of audio files (Wav, MP3, Ogg, etc)
+in various formats (M3U, PLS, HTML, etc).
+It is very useful if you have a large amount of audio files
+and you want to quickly and frequently build a playlist.
+
+It is coded in C to be as fast as possible, and does not use
+any specific audio library (like ID3Lib).
+This allow you to deploy it faster and easier, and to have
+better performances since the less informations are loaded.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://royale.zerezo.com/fapg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

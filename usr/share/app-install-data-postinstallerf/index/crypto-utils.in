@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>crypto-utils</b>'
+Comment='<span size="xx-large">SSL certificate and key management utilities</span>'
+Comment3='
+This package provides tools for managing and generating
+SSL certificates and keys.
+'
+License='MIT and GPLv2 and (MPLv1.1+ or GPLv2+ or LPGLv2+)'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

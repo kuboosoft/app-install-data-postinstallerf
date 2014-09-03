@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hippo-canvas-devel</b>'
+Comment='<span size="xx-large">Development files for hippo-canvas</span>'
+Comment3='
+The hippo-canvas-devel package contains libraries and header files for
+developing applications that use hippo-canvas.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://developer.mugshot.org/wiki/Hippo_Canvas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

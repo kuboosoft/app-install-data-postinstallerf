@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-imagesize-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-imagesize</span>'
+Comment3='
+Documentation for rubygem-imagesize
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://imagesize.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

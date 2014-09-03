@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>munin-netip-plugins</b>'
+Comment='<span size="xx-large">Network-wide graphing framework (dhcpd3 and ntp plugins)</span>'
+Comment3='
+Munin plugins that require NetIP.  This is only dhcpd3 and ntp currently.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://munin-monitoring.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

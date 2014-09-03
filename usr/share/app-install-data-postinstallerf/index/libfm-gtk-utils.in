@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libfm-gtk-utils</b>'
+Comment='<span size="xx-large">GTK+ related utility package for libfm</span>'
+Comment3='
+This package contains some GTK+ related utility files for
+libfm.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pcmanfm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>uptimed-devel</b>'
+Comment='<span size="xx-large">Development header and library for uptimed</span>'
+Comment3='
+Development header and library for uptimed.
+
+URL          http//podgorny.cz/moin/Uptimed
+'
+License='GPLv2'
+Screenshot=''
+Url='http://podgorny.cz/moin/Uptimed'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

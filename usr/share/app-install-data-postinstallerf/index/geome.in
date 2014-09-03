@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>geome</b>'
+Comment='<span size="xx-large">Obtain your geo-location data from Google using NetworkManager</span>'
+Comment3='
+geome queries NetworkManager for its wifi information, such as ESSIDs
+and signal strength, and sends it to Google Location to obtain your
+geographic location.
+It can return all of the information Google returns, or with the -s
+flag, only return the latitude/longitude. This last mode is used by
+the Pidgin OTR nearby friends plugin.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://ftp.nohats.ca/geome'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>crystal-project</b>'
+Comment='<span size="xx-large">Crystal Project KDE Icon set</span>'
+Comment3='
+Crystal Project is a KDE Icon set.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.everaldo.com/crystal'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>snapper-devel</b>'
+Comment='<span size="xx-large">Header files and documentation for libsnapper</span>'
+Comment3='
+This package contains header files and documentation for developing with
+snapper.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://en.opensuse.org/Portal:Snapper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

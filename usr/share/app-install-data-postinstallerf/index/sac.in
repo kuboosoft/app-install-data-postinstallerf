@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sac</b>'
+Comment='<span size="xx-large">Java standard interface for CSS parser</span>'
+Comment3='
+SAC is a standard interface for CSS parsers, intended to work with CSS1, CSS2,
+CSS3 and other CSS derived languages.
+'
+License='W3C'
+Screenshot=''
+Url='http://www.w3.org/Style/CSS/SAC/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

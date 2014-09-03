@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>symmetrica-static</b>'
+Comment='<span size="xx-large">Static libraries for symmetrica</span>'
+Comment3='
+The symmetrica-static package contains static libraries for
+developing applications that use symmetrica.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

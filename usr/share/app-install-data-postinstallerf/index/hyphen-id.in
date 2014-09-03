@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-id</b>'
+Comment='<span size="xx-large">Indonesian hyphenation rules</span>'
+Comment3='
+Indonesian hyphenation rules.
+'
+License='GPL+'
+Screenshot=''
+Url='http://wiki.services.openoffice.org/wiki/Dictionaries'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

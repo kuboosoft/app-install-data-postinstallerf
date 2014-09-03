@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-semaphor</b>'
+Comment='<span size="xx-large">Semaphore alphabet font</span>'
+Comment3='
+These fonts represent semaphore in a highly schematic, but very
+clear, fashion. The fonts are provided as MetaFont source, and
+in both OpenType and Adobe Type 1 formats.
+
+date 2008-04-15 095426 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

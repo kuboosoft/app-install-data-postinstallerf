@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fence-virtd-libvirt</b>'
+Comment='<span size="xx-large">Libvirt backend for fence-virtd</span>'
+Comment3='
+Provides fence_virtd with a connection to libvirt to fence
+virtual machines.  Useful for running a cluster of virtual
+machines on a desktop.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fence-virt.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

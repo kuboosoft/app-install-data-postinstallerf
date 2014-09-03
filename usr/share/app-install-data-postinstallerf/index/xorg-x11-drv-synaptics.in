@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>xorg-x11-drv-synaptics</b>'
+Comment='<span size="xx-large">Xorg X11 Synaptics touchpad input driver</span>'
+Comment3='
+This is the Synaptics touchpad driver for the X.Org X server. The following
+touchpad models are supported
+* Synaptics
+* appletouch (Post February 2005 and October 2005 Apple Aluminium Powerbooks)
+* Elantech (EeePC)
+* bcm5974 (Macbook Air (Jan 2008), Macbook Pro Penryn (Feb 2008), iPhone
+  (2007), iPod Touch (2008)
+
+Note that support for appletouch, elantech and bcm5974 requires the respective
+kernel module.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

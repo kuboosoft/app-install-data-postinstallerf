@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-librebaskerville</b>'
+Comment='<span size="xx-large">LaTeX support for the Libre Baskerville family of fonts</span>'
+Comment3='
+Libre Baskerville is designed by Pablo Impallari. It is
+primarily intended to be a web font but is also attractive as a
+TeX font. As there is currently no bold italic variant, an
+artificially slanted version of the bold variant has been
+generated.
+
+date 2013-09-23 215636 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-smalltableof</b>'
+Comment='<span size="xx-large">Create listoffigures etc. in a single chapter</span>'
+Comment3='
+The package allows you to create a list of figures and list of
+tables in a chapter named List that contains separate
+sections for each list of figures, tables, etc.
+
+date 2010-11-05 121003 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

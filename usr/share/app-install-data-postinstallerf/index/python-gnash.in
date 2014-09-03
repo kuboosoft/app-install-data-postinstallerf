@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-gnash</b>'
+Comment='<span size="xx-large">Gnash Python bindings</span>'
+Comment3='
+Python bindings for the Gnash widget. Can be used to embed Gnash into any PyGTK
+application.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/gnash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

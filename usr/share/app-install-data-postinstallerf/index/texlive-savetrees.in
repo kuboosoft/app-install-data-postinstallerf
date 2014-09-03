@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-savetrees</b>'
+Comment='<span size="xx-large">Pack as much as possible onto each page of a LaTeX document</span>'
+Comment3='
+The goal of the savetrees package is to pack as much text as
+possible onto each page of a LaTeX document. Admittedly, this
+makes the document far less attractive. Nevertheless, savetrees
+is a simple way to save paper when printing draft copies of a
+document. It can also be useful when trying to meet a tight
+page-length requirement for a conference or journal submission.
+
+date 2013-04-10 072756 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jd</b>'
+Comment='<span size="xx-large">A 2ch browser</span>'
+Comment3='
+JD is a 2ch browser based on gtkmm2.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://jd4linux.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>e_dbus-devel</b>'
+Comment='<span size="xx-large">Development files for e_dbus</span>'
+Comment3='
+The e_dbus-devel package contains libraries and header files for
+developing applications that use e_dbus.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.enlightenment.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

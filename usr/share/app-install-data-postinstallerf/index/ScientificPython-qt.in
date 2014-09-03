@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ScientificPython-qt</b>'
+Comment='<span size="xx-large">The Qt widgets from ScientificPython</span>'
+Comment3='
+This package contains the ScientificPython Qtwidgets
+'
+License='CeCILL'
+Screenshot=''
+Url='http://dirac.cnrs-orleans.fr/ScientificPython/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

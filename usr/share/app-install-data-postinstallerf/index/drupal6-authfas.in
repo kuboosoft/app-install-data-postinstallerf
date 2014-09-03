@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>drupal6-authfas</b>'
+Comment='<span size="xx-large">Drupal 6 module for authentication via a Fedora Account System</span>'
+Comment3='
+This module allows Drupal 6 users to be authenticated via an instance
+of the Fedora Account System (FAS).  Each Drupal role can also be
+mapped to a group in FAS, and group memberships are updated for a user
+before the session starts.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/drupal6-authfas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

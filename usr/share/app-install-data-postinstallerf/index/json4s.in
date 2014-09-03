@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>json4s</b>'
+Comment='<span size="xx-large">Common AST for Scala JSON parsers</span>'
+Comment3='
+
+json4s is a common AST for Scala JSON parsers.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/json4s/json4s'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

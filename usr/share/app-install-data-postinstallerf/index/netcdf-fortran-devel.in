@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netcdf-fortran-devel</b>'
+Comment='<span size="xx-large">Development files for Fortran NetCDF API</span>'
+Comment3='
+This package contains the NetCDF Fortran header files, shared devel libraries,
+and man pages.
+
+'
+License='NetCDF'
+Screenshot=''
+Url='http://www.unidata.ucar.edu/software/netcdf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

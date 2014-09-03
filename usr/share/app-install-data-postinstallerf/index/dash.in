@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dash</b>'
+Comment='<span size="xx-large">Small and fast POSIX-compliant shell</span>'
+Comment3='
+DASH is a POSIX-compliant implementation of /bin/sh that aims to be as small as
+possible. It does this without sacrificing speed where possible. In fact, it is
+significantly faster than bash (the GNU Bourne-Again SHell) for most tasks.
+'
+License='BSD and GPLv2+ and Public Domain and Copyright only'
+Screenshot=''
+Url='http://gondor.apana.org.au/~herbert/dash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

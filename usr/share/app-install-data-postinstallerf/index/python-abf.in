@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-abf</b>'
+Comment='<span size="xx-large">Python API for ABF (https://abf.rosalinux.ru)</span>'
+Comment3='
+abf-console-client is the python API to ABF (https//abf.rosalinux.ru).
+It contains a set of basic operations, done with either HTML
+parsing or through ABF json API. It also provides datamodel to
+operate with.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://wiki.rosalab.ru/en/index.php/ABF_Console_Client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wine-pulseaudio</b>'
+Comment='<span size="xx-large">Pulseaudio support for wine</span>'
+Comment3='
+This package adds a pulseaudio driver for wine. Please do not report bugs in
+the pulseaudio wine backend at winehq.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

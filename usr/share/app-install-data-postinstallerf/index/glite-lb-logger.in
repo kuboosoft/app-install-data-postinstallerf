@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>glite-lb-logger</b>'
+Comment='<span size="xx-large">gLite Logging and Bookkeeping local-logger and inter-loggers</span>'
+Comment3='
+glite-lb-logger is the gLite L&B local-logger and inter-loggers. This package
+contains the local-logger (glite-lb-logd), inter-logger (glite-lb-interlogd),
+notification inter-logger (glite-lb-notif-interlogd) and proxy inter-logger
+(glite-lb-proxy-interlogd) daemons.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

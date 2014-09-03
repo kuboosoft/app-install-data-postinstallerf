@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pyusb</b>'
+Comment='<span size="xx-large">Python bindings for libusb</span>'
+Comment3='
+PyUSB provides easy USB access to python. The module contains classes and
+methods to support most USB operations.
+'
+License='BSD'
+Screenshot=''
+Url='http://pyusb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

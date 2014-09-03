@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n tremulous
+Type=Application
+Version=1.0
+Name=Tremulous
+Comment=First Person Shooter game based on the Quake 3 engine
+Icon=/usr/share/app-install-data-postinstallerf/icons/tremulous.png
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;ArcadeGame

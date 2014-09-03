@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>csound-virtual-keyboard</b>'
+Comment='<span size="xx-large">Virtual MIDI keyboard plugin for Csound</span>'
+Comment3='
+A virtual MIDI keyboard plugin for Csound
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://csound.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kvkbd</b>'
+Comment='<span size="xx-large">Virtual keyboard for KDE</span>'
+Comment3='
+Kvkbd is a virtual keyboard for KDE, it contains many feature like system
+tray and dock support, autodetection and on the fly change of the keyboard
+layout, scripting with DBus, etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde-apps.org/content/show.php/Kvkbd+-+KDE4?content=94374'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

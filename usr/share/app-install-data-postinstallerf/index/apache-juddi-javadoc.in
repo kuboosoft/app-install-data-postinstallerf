@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-juddi-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for apache-juddi</span>'
+Comment3='
+This package contains the API documentation for apache-juddi.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://juddi.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

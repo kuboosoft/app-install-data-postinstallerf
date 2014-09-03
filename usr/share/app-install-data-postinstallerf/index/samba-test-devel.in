@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>samba-test-devel</b>'
+Comment='<span size="xx-large">Testing devel files for Samba servers and clients</span>'
+Comment3='
+samba-test-devel provides testing devel files for both the server and client
+packages of Samba.
+
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

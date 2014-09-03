@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mingw32-SDL2</b>'
+Comment='<span size="xx-large">MinGW Windows port of SDL cross-platform multimedia library</span>'
+Comment3='
+Simple DirectMedia Layer (SDL) is a cross-platform multimedia library
+designed to provide fast access to the graphics frame buffer and audio
+device.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.libsdl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

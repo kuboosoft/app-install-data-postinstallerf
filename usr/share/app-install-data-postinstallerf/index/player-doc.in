@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>player-doc</b>'
+Comment='<span size="xx-large">Development documentation for Player</span>'
+Comment3='
+This package contains the development documentation for Player.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://playerstage.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

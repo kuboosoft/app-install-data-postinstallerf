@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Text-Autoformat</b>'
+Comment='<span size="xx-large">Automatic text wrapping and reformatting</span>'
+Comment3='
+TextAutoformat provides intelligent formatting of plaintext without the
+need for any kind of embedded mark-up. The module recognizes Internet
+quoting conventions, a wide range of bulleting and number schemes, centered
+text, and block quotations, and reformats each appropriately. Other options
+allow the user to adjust inter-word and inter-paragraph spacing, justify
+text, and impose various capitalization schemes.
+
+The module also supplies a re-entrant, highly configurable replacement for
+the built-in Perl format() mechanism.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Autoformat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

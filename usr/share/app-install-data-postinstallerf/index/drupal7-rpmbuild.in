@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>drupal7-rpmbuild</b>'
+Comment='<span size="xx-large">Rpmbuild files for drupal7</span>'
+Comment3='
+Rpmbuild files for drupal7.
+'
+License='GPLv2+ and BSD and MIT'
+Screenshot=''
+Url='http://www.drupal.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>oidentd</b>'
+Comment='<span size="xx-large">Implementation of the RFC1413 identification server</span>'
+Comment3='
+The oidentd package contains identd, which implements the RFC1413
+identification server.  Identd looks up specific TCP/IP connections
+and returns either the user name or other information about the
+process that owns the connection.
+
+Install oidentd if you need to look up information about specific
+TCP/IP connections.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ojnk.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

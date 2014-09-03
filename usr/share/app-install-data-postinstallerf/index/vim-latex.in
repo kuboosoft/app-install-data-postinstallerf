@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vim-latex</b>'
+Comment='<span size="xx-large">Tools to view, edit and compile LaTeX documents in Vim</span>'
+Comment3='
+A comprehensive set of tools to view, edit and compile LaTeX documents without
+needing to ever quit Vim. Together, they provide tools starting from macros to
+speed up editing LaTeX documents to compiling TeX files to forward searching
+.dvi documents.
+'
+License='Vim'
+Screenshot=''
+Url='http://vim-latex.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>OpenEXR_CTL</b>'
+Comment='<span size="xx-large">A simplified OpenEXR interface to CTL</span>'
+Comment3='
+IlmImfCtl provides a simplified OpenEXR interface to CTL
+
+exrdpx is an initial version of a CTL-driven file converter
+that translates DPX files into OpenEXR files and vice versa.
+The conversion between the DPX and OpenEXR color spaces is
+handled by CTL transforms.
+exr_ctl_exr is an initial version of a program that can bake
+the effect of a series of CTL transforms into the pixels of
+an OpenEXR file.
+'
+License='AMPAS BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/ampasctl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

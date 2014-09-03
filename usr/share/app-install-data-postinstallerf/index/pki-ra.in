@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>pki-ra</b>'
+Comment='<span size="xx-large">Certificate System - Registration Authority</span>'
+Comment3='
+Certificate System (CS) is an enterprise software system designed
+to manage enterprise Public Key Infrastructure (PKI) deployments.
+
+The Registration Authority (RA) is an optional PKI subsystem that acts as a
+front-end for authenticating and processing enrollment requests, PIN reset
+requests, and formatting requests.
+An RA communicates over SSL with a Certificate Authority (CA) to fulfill
+the users requests. An RA may often be located outside an organizations
+firewall to allow external users the ability to communicate with that
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pki.fedoraproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

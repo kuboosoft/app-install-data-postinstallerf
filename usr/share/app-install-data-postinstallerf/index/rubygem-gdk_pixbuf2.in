@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-gdk_pixbuf2</b>'
+Comment='<span size="xx-large">Ruby binding of GdkPixbuf-2.x</span>'
+Comment3='
+Ruby/GdkPixbuf2 is a Ruby binding of GdkPixbuf-2.x.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

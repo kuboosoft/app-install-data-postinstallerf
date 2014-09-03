@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libpano13-devel</b>'
+Comment='<span size="xx-large">Development tools for programs which will use the libpano13 library</span>'
+Comment3='
+The libpano13-devel package includes the header files necessary for developing
+programs which will manipulate panoramas using the libpano13 library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://panotools.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

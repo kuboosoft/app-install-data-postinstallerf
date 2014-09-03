@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-system-log</b>'
+Comment='<span size="xx-large">A log file viewer for GNOME</span>'
+Comment3='
+gnome-system-log lets you view various log files on your system.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

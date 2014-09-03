@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-virtualenv-clone</b>'
+Comment='<span size="xx-large">Script to clone virtualenvs</span>'
+Comment3='
+A script for cloning a non-relocatable virtualenv.
+
+Virtualenv provides a way to make virtualenvs relocatable which could then
+be copied as we wanted. However making a virtualenv relocatable this way
+breaks the no-site-packages isolation of the virtualenv as well as other
+aspects that come with relative paths and /usr/bin/env shebangs that may
+be undesirable.
+Also, the .pth and .egg-link rewriting doesnt seem to work as intended.
+This attempts to overcome these issues and provide a way to easily clone an
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/virtualenv-clone'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

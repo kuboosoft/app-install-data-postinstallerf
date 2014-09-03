@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>libasync</b>'
+Comment='<span size="xx-large">Svxlink async libs</span>'
+Comment3='
+The Async library is a programming framework that is used to write event driven
+applications. It provides abstractions for file descriptor watches, timers,
+network communications, serial port communications and config file reading.
+
+Async is written in such a way that it can support other frameworks. Right now
+there are two basic frameworks, a simple "select" based implementation and a Qt
+implementation. The idea is that advanced libraries can be implemented in such
+a way that they only depend on Async. That means that these libraries can be
+used in both Qt and pure console applications and in any future frameworks
+supported by Async (e.g. Gtk, wxWidgets etc).
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://svxlink.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

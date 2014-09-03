@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-lcd</b>'
+Comment='<span size="xx-large">Alphanumerical LCD-style displays</span>'
+Comment3='
+A LaTeX package that will display text as on an LCD display.
+Assumes 8-bit input in its internal verbatim-style environment.
+
+date 2006-11-14 200517 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gifview</b>'
+Comment='<span size="xx-large">Lightweight animated-GIF viewer</span>'
+Comment3='
+gifview is a lightweight animated-GIF viewer which can show animations as
+slideshows or in real time,
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lcdf.org/gifsicle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

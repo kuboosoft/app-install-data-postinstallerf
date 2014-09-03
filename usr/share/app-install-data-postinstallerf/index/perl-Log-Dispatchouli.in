@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Log-Dispatchouli</b>'
+Comment='<span size="xx-large">Simple wrapper around Log::Dispatch</span>'
+Comment3='
+LogDispatchouli is a thin layer above LogDispatch and meant to make it
+dead simple to add logging to a program without having to think much about
+categories, facilities, levels, or things like that. It is meant to make
+logging just configurable enough that you can find the logs you want and
+just easy enough that you will actually log things.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Log-Dispatchouli/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

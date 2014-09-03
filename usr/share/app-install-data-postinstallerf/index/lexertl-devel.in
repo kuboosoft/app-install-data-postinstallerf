@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>lexertl-devel</b>'
+Comment='<span size="xx-large">Headers used to build programs with lexertl</span>'
+Comment3='
+Lexertl is a modern, modular lexical analyzer generator.  Traditionally,
+programs such as lex generate source code as their output and even only
+support one kind of programming language.  The lexertl developers are
+seeking to offer much more flexibility than that by exposing the state
+machine that is generated from a supplied lex specification.  By doing
+this the user has much more freedom in how the data is processed, which
+means it becomes easy to
+- Build a lexical analyzer at runtime and start using it immediately.
+- Generate source code from the state machine in your preferred
+  programming language.
+'
+License='Boost'
+Screenshot=''
+Url='http://www.benhanson.net/lexertl.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xwxapt</b>'
+Comment='<span size="xx-large">GTK+ graphical application for decoding and saving weather images</span>'
+Comment3='
+xwxapt is a GTK+ graphical version of wxapt. It uses the same decoding
+engine as wxapt but it displays APT images at half-size as they are
+received, storing the full-sized files when reception is completed.
+
+It also displays some status information (audio level, sync level,
+sync status etc) and text messages as it runs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://5b4az.chronos.org.uk/pages/apt.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

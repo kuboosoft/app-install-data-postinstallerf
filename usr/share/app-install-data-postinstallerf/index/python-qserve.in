@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-qserve</b>'
+Comment='<span size="xx-large">Job queue server</span>'
+Comment3='
+qserve is a job queue server written in Python.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/pediapress/qserve'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-eso-pic</b>'
+Comment='<span size="xx-large">Add picture commands (or backgrounds) to every page</span>'
+Comment3='
+The package adds one or more user commands to LaTeXs shipout
+routine, which may be used to place the output at fixed
+positions. The grid option may be used to find the correct
+places.
+
+date 2013-10-10 162627 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

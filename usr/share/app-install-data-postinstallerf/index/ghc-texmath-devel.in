@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-texmath-devel</b>'
+Comment='<span size="xx-large">Haskell texmath library development files</span>'
+Comment3='
+This package provides the Haskell texmath library development files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/texmath'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

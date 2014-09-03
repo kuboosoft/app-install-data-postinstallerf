@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>herbstluftwm-zsh</b>'
+Comment='<span size="xx-large">herbstluftwm zsh completion support</span>'
+Comment3='
+This package provides zsh completion script of herbstluftwm.
+'
+License='BSD'
+Screenshot=''
+Url='http://herbstluftwm.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

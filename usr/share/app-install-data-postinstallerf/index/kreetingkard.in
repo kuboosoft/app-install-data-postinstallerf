@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kreetingkard</b>'
+Comment='<span size="xx-large">Japanese greeting card writing software for KDE</span>'
+Comment3='
+KreetingKard is a tool for making Japanese greeting cards. It allows you to
+make greeting cards easily by choosing a template and changing the words.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://linux-life.net/program/cc/kde/app/kreetingkard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Data-Section-Simple</b>'
+Comment='<span size="xx-large">Read data from __DATA__</span>'
+Comment3='
+DataSectionSimple is a simple module to extract data from the __DATA__
+section of the file.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://github.com/miyagawa/Data-Section-Simple'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

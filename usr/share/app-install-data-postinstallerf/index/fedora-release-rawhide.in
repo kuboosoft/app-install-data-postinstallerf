@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fedora-release-rawhide</b>'
+Comment='<span size="xx-large">Rawhide repo definitions</span>'
+Comment3='
+This package provides the rawhide repo definitions.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fedoraproject.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

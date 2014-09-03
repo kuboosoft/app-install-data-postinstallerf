@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>check</b>'
+Comment='<span size="xx-large">A unit test framework for C</span>'
+Comment3='
+Check is a unit test framework for C. It features a simple interface for
+defining unit tests, putting little in the way of the developer. Tests
+are run in a separate address space, so Check can catch both assertion
+failures and code errors that cause segmentation faults or other signals.
+The output from unit tests can be used within source code editors and IDEs.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://check.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

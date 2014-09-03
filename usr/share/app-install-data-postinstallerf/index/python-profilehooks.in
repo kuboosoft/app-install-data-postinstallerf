@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-profilehooks</b>'
+Comment='<span size="xx-large">Decorators for profiling/timing/tracing individual functions</span>'
+Comment3='
+Profilehooks is a collection of decorators for profiling functions.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/profilehooks/1.6'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

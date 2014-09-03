@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-binary-shared</b>'
+Comment='<span size="xx-large">Haskell library for sharing binary elements</span>'
+Comment3='
+Provides capability to share elements created by binary package.
+'
+License='GPL+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/binary-shared'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

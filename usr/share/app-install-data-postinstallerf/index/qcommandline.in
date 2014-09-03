@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qcommandline</b>'
+Comment='<span size="xx-large">Command line parser for Qt programs</span>'
+Comment3='
+QCommandLine is a command line parser for Qt programs (like getopt).
+Features include options, switches, parameters and automatic
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://xf.iksaif.net/dev/qcommandline.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

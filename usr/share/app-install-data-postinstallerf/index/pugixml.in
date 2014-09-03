@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>pugixml</b>'
+Comment='<span size="xx-large">A light-weight C++ XML processing library</span>'
+Comment3='
+pugixml is a light-weight C++ XML processing library.
+It features
+- DOM-like interface with rich traversal/modification capabilities
+- Extremely fast non-validating XML parser which constructs the DOM tree from
+  an XML file/buffer
+- XPath 1.0 implementation for complex data-driven tree queries
+- Full Unicode support with Unicode interface variants and automatic encoding
+  conversions
+
+'
+License='MIT'
+Screenshot=''
+Url='http://pugixml.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Lock</b>'
+Comment='<span size="xx-large">Horde Resource Locking System</span>'
+Comment3='
+The Horde_Lock library provides the Horde resource locking system.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

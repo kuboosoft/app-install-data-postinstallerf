@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>qt-assistant-adp</b>'
+Comment='<span size="xx-large">Compatibility version of Qt Assistant</span>'
+Comment3='
+The old version of Qt Assistant, based on Assistant Document Profile (.adp)
+files, and the associated QtAssistantClient library, for compatibility with
+applications providing help in that format.
+
+New applications should use the new version of Qt Assistant introduced in Qt
+4.4, based on the Qt Help Framework also introduced in Qt 4.4, instead.
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://qt.nokia.com/doc/4.6/qassistantclient.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-is</b>'
+Comment='<span size="xx-large">Icelandic hunspell dictionaries</span>'
+Comment3='
+Icelandic hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://extensions.services.openoffice.org/project/dict-is'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

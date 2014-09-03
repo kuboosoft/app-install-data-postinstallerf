@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jsslutils-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jsslutils</span>'
+Comment3='
+This package contains javadoc for jsslutils.
+'
+License='ASL 2.0 and BSD and LGPLv2+ and Public Domain'
+Screenshot=''
+Url='http://code.google.com/p/jsslutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

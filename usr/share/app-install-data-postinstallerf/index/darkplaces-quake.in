@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>darkplaces-quake</b>'
+Comment='<span size="xx-large">Multiplayer, deathmatch oriented first person shooter</span>'
+Comment3='
+Rage through levels of sheer terror and fully immersive sound and
+lighting.  Arm yourself against the cannibalistic Ogre, fiendish Vore
+and indestructible Schambler using letal nails, fierce Thunderbolts
+and abominable Rocket and Grenade Launchers.
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.xonotic.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

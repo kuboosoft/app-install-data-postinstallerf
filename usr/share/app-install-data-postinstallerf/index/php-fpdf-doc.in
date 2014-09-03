@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-fpdf-doc</b>'
+Comment='<span size="xx-large">Documentation for php-fpdf</span>'
+Comment3='
+Documentation for php-fpdf
+'
+License='MIT'
+Screenshot=''
+Url='http://www.fpdf.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

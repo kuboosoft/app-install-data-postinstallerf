@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dmlite-plugins-librarian</b>'
+Comment='<span size="xx-large">Librarian plugin for dmlite</span>'
+Comment3='
+This package provides the librarian plug-in for dmlite. This plug-in handles
+the necessary logic to hop between difference replicas when accessing a file
+managed by the grid.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>isdn4k-utils</b>'
+Comment='<span size="xx-large">Utilities for configuring an ISDN subsystem</span>'
+Comment3='
+The isdn4k-utils package contains a collection of utilities needed for
+configuring an ISDN subsystem.
+
+'
+License='GPLv2+ and GPL+ and MIT and BSD and zlib'
+Screenshot=''
+Url='http://www.isdn4linux.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

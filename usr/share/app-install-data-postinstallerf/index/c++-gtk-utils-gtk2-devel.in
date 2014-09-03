@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>c++-gtk-utils-gtk2-devel</b>'
+Comment='<span size="xx-large">Development files for the c++-gtk-utils library - GTK2 version</span>'
+Comment3='
+This package contains libraries and header files needed for development of
+applications or toolkits which use c++-gtk-utils.
+
+This version is built against GTK2.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://cxx-gtk-utils.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

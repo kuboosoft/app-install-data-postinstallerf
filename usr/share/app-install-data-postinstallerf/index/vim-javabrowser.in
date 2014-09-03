@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vim-javabrowser</b>'
+Comment='<span size="xx-large">The javabrowser plugin for VIM editor</span>'
+Comment3='
+This script is SPECIFICALLY tailored for Java language.
+So, it shows structure of the Java file starting with classes defined within it
+and NOT in a general tag structure.
+It also has a nice syntax to show the class members in UML format.
+'
+License='Vim'
+Screenshot=''
+Url='http://www.vim.org/scripts/script.php?script_id=588'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

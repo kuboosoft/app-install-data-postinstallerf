@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>symmetrica</b>'
+Comment='<span size="xx-large">A Collection of Routines for Solving Symmetric Groups</span>'
+Comment3='
+Symmetrica is a collection of routines, written in the programming
+language C, through which the user can readily write his/her own
+programs. Routines which manipulate many types of mathematical objects
+are available.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

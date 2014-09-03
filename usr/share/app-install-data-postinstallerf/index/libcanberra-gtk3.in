@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcanberra-gtk3</b>'
+Comment='<span size="xx-large">Gtk+ 3.x Bindings for libcanberra</span>'
+Comment3='
+Gtk+ 3.x bindings for libcanberra
+
+URL          http//git.0pointer.de/?p=libcanberra.git;a=summary
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.0pointer.de/?p=libcanberra.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

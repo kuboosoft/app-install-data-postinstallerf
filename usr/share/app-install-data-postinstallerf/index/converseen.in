@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>converseen</b>'
+Comment='<span size="xx-large">A batch image conversion tool written in C++ with Qt4 and Magick++</span>'
+Comment3='
+Converseen is a batch image conversion tool and resizer written in C++ with Qt4
+and Magick++.  Converseen allows you to convert images in more than 100
+different formats!
+'
+License='GPLv3'
+Screenshot=''
+Url='http://converseen.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

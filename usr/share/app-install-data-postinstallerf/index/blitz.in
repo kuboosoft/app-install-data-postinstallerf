@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>blitz</b>'
+Comment='<span size="xx-large">C++ class library for matrix scientific computing</span>'
+Comment3='
+Blitz++ is a C++ class library for scientific computing which provides
+performance on par with Fortran 77/90. It uses template techniques to achieve
+high performance. Blitz++ provides dense arrays and vectors, random number
+generators, and small vectors
+
+'
+License='LGPLv3+ or BSD or Artistic 2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/blitz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Data-TreeDumper</b>'
+Comment='<span size="xx-large">Improved replacement for Data::Dumper</span>'
+Comment3='
+DataDumper and other modules do a great job of dumping data structures.
+Their output, however, often takes more brain power to understand than the
+data itself.  When dumping large amounts of data, the output can be
+overwhelming and it can be difficult to see the relationship between each
+piece of the dumped data.
+
+DataTreeDumper also dumps data in a tree-like fashion but hopefully in a
+format more easily understood.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Data-TreeDumper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

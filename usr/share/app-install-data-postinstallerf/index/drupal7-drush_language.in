@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>drupal7-drush_language</b>'
+Comment='<span size="xx-large">Drush language commands</span>'
+Comment3='
+Drush commands allowing languages to be added, switched, enabled, disabled,
+imported and exported from the commandline. This module only provides drush
+commands, so you will see no functionality in the UI.
+
+This package provides the following Drupal module
+* drush_language
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/drush_language'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>juffed-plugin-xmlformat</b>'
+Comment='<span size="xx-large">XMLFormat plugin for juffed</span>'
+Comment3='
+Reformat XML files plugin.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

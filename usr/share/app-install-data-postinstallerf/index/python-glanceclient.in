@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-glanceclient</b>'
+Comment='<span size="xx-large">Python API and CLI for OpenStack Glance</span>'
+Comment3='
+This is a client for the OpenStack Glance API. Theres a Python API (the
+glanceclient module), and a command-line script (glance). Each implements
+100% of the OpenStack Glance API.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/openstack/python-glanceclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

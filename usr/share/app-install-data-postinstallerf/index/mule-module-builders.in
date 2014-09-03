@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mule-module-builders</b>'
+Comment='<span size="xx-large">Standard configuration builders for Mule</span>'
+Comment3='
+Standard configuration builders for Mule.
+'
+License='CPAL'
+Screenshot=''
+Url='http://www.mulesoft.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

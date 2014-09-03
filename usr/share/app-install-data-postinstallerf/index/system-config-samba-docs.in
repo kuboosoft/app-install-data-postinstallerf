@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>system-config-samba-docs</b>'
+Comment='<span size="xx-large">Documentation for configuring a Samba server</span>'
+Comment3='
+This package contains the online documentation for system-config-samba which is
+a graphical user interface for creating, modifying, and deleting samba shares.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/system-config-samba-docs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

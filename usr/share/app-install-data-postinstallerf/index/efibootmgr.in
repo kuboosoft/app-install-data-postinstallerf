@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>efibootmgr</b>'
+Comment='<span size="xx-large">EFI Boot Manager</span>'
+Comment3='
+efibootmgr displays and allows the user to edit the Intel Extensible
+Firmware Interface (EFI) Boot Manager variables.  Additional
+information about EFI can be found at
+http//developer.intel.com/technology/efi/efi.htm and http//uefi.org/.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://linux.dell.com/efibootmgr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

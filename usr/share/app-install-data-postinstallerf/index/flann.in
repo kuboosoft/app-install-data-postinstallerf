@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>flann</b>'
+Comment='<span size="xx-large">Fast Library for Approximate Nearest Neighbors</span>'
+Comment3='
+FLANN is a library for performing fast approximate nearest neighbor searches
+in high dimensional spaces. It contains a collection of algorithms found
+to work best for nearest neighbor search and a system for automatically
+choosing the best algorithm and optimum parameters depending on the data sets.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.cs.ubc.ca/~mariusm/index.php/FLANN/FLANN'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-et</b>'
+Comment='<span size="xx-large">Estonian hunspell dictionaries</span>'
+Comment3='
+Estonian hunspell dictionaries.
+'
+License='LGPLv2+ and LPPL'
+Screenshot=''
+Url='http://www.meso.ee/~jjpp/speller/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

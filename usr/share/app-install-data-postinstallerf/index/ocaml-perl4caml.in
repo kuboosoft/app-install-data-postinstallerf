@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ocaml-perl4caml</b>'
+Comment='<span size="xx-large">OCaml library for calling Perl libraries and code</span>'
+Comment3='
+Perl4caml allows you to use Perl code within Objective CAML (OCaml),
+thus neatly side-stepping the (old) problem with OCaml which was that
+it lacked a comprehensive set of libraries. Well now you can use any
+part of CPAN in your OCaml code.
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://merjis.com/developers/perl4caml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

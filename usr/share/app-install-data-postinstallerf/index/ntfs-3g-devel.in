@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ntfs-3g-devel</b>'
+Comment='<span size="xx-large">Development files and libraries for ntfs-3g</span>'
+Comment3='
+Headers and libraries for developing applications that use ntfs-3g
+functionality.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ntfs-3g.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

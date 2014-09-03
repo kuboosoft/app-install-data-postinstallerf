@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-deep-equal</b>'
+Comment='<span size="xx-large">Nodes assert.deepEqual algorithm</span>'
+Comment3='
+Nodes `assert.deepEqual()` algorithm implemented as a standalone module.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/substack/node-deep-equal'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

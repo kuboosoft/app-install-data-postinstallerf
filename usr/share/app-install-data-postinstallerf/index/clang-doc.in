@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clang-doc</b>'
+Comment='<span size="xx-large">Documentation for Clang</span>'
+Comment3='
+Documentation for the Clang compiler front-end.
+'
+License='NCSA'
+Screenshot=''
+Url='http://llvm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

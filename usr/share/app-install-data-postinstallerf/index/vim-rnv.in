@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vim-rnv</b>'
+Comment='<span size="xx-large">Vim plugin for validating XML files against Relax NG Compact schemas using RNV</span>'
+Comment3='
+Vim plugin providing redefined make command that validates
+XML files against Relax NG schemas.
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/rnv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

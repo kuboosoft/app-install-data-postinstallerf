@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eigen2-devel</b>'
+Comment='<span size="xx-large">A lightweight C++ template library for vector and matrix math</span>'
+Comment3='
+A lightweight C++ template library for vector and matrix math
+'
+License='GPLv2+ or LGPLv3+'
+Screenshot=''
+Url='http://eigen.tuxfamily.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

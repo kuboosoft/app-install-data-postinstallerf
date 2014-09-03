@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iris</b>'
+Comment='<span size="xx-large">A library for working with the XMPP/Jabber protocol</span>'
+Comment3='
+A library for working with the XMPP/Jabber protocol.
+
+URL          http//delta.affinix.com/iris/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://delta.affinix.com/iris/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

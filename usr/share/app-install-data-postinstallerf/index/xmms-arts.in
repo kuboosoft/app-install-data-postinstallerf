@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xmms-arts</b>'
+Comment='<span size="xx-large">X MultiMedia System output plugin for the aRts sound system</span>'
+Comment3='
+X MultiMedia System output plugin to use aRts (analog real-time synthesizer),
+the KDE sound system.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.xmms.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

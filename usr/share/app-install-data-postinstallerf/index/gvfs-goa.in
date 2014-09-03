@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gvfs-goa</b>'
+Comment='<span size="xx-large">GOA support for gvfs</span>'
+Comment3='
+This package provides seamless integration with gnome-online-accounts
+file services.
+'
+License='GPLv3 and LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

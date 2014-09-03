@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>junit-addons</b>'
+Comment='<span size="xx-large">JUnitX helper classes for JUnit</span>'
+Comment3='
+JUnit-addons is a collection of helper classes for JUnit.
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://sourceforge.net/projects/junit-addons/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

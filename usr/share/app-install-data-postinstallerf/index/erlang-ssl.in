@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-ssl</b>'
+Comment='<span size="xx-large">Secure Socket Layer support</span>'
+Comment3='
+Secure Socket Layer support.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

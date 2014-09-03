@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fcitx-fbterm</b>'
+Comment='<span size="xx-large">Fbterm Support for Fcitx</span>'
+Comment3='
+Fcitx-fbterm is a Wrapper for Fcitx in fbterm,
+a fast Framebuffer based terminal emulator.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/fcitx/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

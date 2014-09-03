@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>uimaj</b>'
+Comment='<span size="xx-large">Apache UIMA is an implementation of the OASIS-UIMA specifications</span>'
+Comment3='
+Apache UIMA is an implementation of the OASIS-UIMA specifications.
+
+OASIS UIMA Committee <http//www.oasis-open.org/committees/uima/>.
+Unstructured Information Management applications are software systems
+that analyze large volumes of unstructured information in order to
+discover knowledge that is relevant to an end user.
+An example UIM application might ingest plain text and identify
+entities, such as persons, places, organizations; or relations,
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://uima.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

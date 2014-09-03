@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mausezahn</b>'
+Comment='<span size="xx-large">A fast versatile packet generator</span>'
+Comment3='
+Mausezahn is a free fast traffic generator written in C which allows you to
+send nearly every possible and impossible packet. Mausezahn can also be used
+for example as didactical tool in network labs or for security audits including
+penetration and DoS testing. As traffic generator Mausezahn is for example used
+to test IP multicast or VoIP networks. Speeds close to the Ethernet limit are
+reachable (depending on the HW platform).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.perihel.at/sec/mz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

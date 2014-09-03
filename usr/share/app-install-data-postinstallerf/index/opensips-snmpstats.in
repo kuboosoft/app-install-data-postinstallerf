@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>opensips-snmpstats</b>'
+Comment='<span size="xx-large">SNMP management interface for the OpenSIPS</span>'
+Comment3='
+The opensips-snmpstats package provides an SNMP management interface to
+OpenSIPS.  Specifically, it provides general SNMP queryable scalar statistics,
+table representations of more complicated data such as user and contact
+information, and alarm monitoring capabilities.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://opensips.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

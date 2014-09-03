@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hyperestraier-java</b>'
+Comment='<span size="xx-large">Hyper Estraier library for Java</span>'
+Comment3='
+This package contains a Java interface for Hyper Estraier
+
+URL          http//hyperestraier.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://hyperestraier.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

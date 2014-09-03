@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ncl-devel</b>'
+Comment='<span size="xx-large">Development files for NCL and NCAR Graphics</span>'
+Comment3='
+Development files for NCL and NCAR Graphics.
+
+URL          http//www.ncl.ucar.edu
+'
+License='BSD'
+Screenshot=''
+Url='http://www.ncl.ucar.edu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Types-Stringlike</b>'
+Comment='<span size="xx-large">Moose type constraints for strings or string-like objects</span>'
+Comment3='
+This module provides a more general version of the Str type. If coercions are
+enabled, it will accept objects that overload stringification and coerces them
+into strings.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Types-Stringlike/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

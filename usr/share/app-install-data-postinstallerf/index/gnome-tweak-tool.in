@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gnome-tweak-tool</b>'
+Comment='<span size="xx-large">A tool to customize advanced GNOME 3 options</span>'
+Comment3='
+GNOME Tweak Tool is an application for changing the advanced settings
+of GNOME 3.
+
+Features
+* Install and switch gnome-shell themes
+* Switch gtk/icon/cursor themes
+* Switch window manager themes
+* Change
+        * The user-interface and titlebar fonts
+        * Icons in menus and buttons
+'
+License='GPLv3'
+Screenshot=''
+Url='http://live.gnome.org/GnomeTweakTool'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

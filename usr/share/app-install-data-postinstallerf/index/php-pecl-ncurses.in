@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-pecl-ncurses</b>'
+Comment='<span size="xx-large">Terminal screen handling and optimization package</span>'
+Comment3='
+ncurses (new curses) is a free software emulation of curses in
+System V Rel 4.0 (and above). It uses terminfo format, supports
+pads, colors, multiple highlights, form characters and function
+key mapping. Because of the interactive nature of this library,
+it will be of little use for writing Web applications, but may
+be useful when writing scripts meant using PHP from the command
+line.
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/ncurses'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

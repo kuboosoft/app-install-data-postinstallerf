@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-unicode-math</b>'
+Comment='<span size="xx-large">Unicode mathematics support for XeTeX and LuaTeX</span>'
+Comment3='
+The current release of this package typesets mathematics with
+unicode input and using OpenType maths fonts. (There is little
+compatibility with older maths packages.) XeTeX support is well
+tested, though LuaTeX support less so. The package can typeset
+using STIX fonts, the XITS development of those fonts, the
+Asana-Math fonts, the Latin Modern Math, and the TeX Gyre Math
+font familiess, as well as the commercial Cambria Math fonts.
+There is no support for extra alphabets in the Unicode private
+use area. The package relies on recent versions of the
+fontspec package and the l3kernel and l3packages bundles.
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

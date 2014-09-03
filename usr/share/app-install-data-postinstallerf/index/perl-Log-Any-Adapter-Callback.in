@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Log-Any-Adapter-Callback</b>'
+Comment='<span size="xx-large">Send Log::Any logs to a subroutine</span>'
+Comment3='
+This adapter lets you specify callback subroutine to be called by
+LogAnys logging methods (like $log->debug(), $log->error(), etc) and
+detection methods (like $log->is_warning(), $log->is_fatal(), etc.).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Log-Any-Adapter-Callback/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

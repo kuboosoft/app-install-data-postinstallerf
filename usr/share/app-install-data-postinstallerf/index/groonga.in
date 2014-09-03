@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>groonga</b>'
+Comment='<span size="xx-large">An Embeddable Fulltext Search Engine</span>'
+Comment3='
+Groonga is an embeddable full-text search engine library.  It can
+integrate with DBMS and scripting languages to enhance their search
+functionality.  It also provides a standalone data store server based
+on relational data model.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://groonga.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lttv</b>'
+Comment='<span size="xx-large">Linux Trace Toolkit Viewer</span>'
+Comment3='
+LTTV is a modular stand-alone viewer for Linux kernel and user-space traces.
+It can perform analysis on traces of a Linux kernel or user-space applications
+instrumented with LTTng and UST.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://lttng.org/lttv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

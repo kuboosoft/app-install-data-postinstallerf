@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libsolv-demo</b>'
+Comment='<span size="xx-large">Applications demoing the libsolv library</span>'
+Comment3='
+Applications demoing the libsolv library.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/openSUSE/libsolv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

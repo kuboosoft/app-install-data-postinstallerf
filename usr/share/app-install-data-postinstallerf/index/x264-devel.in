@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>x264-devel</b>'
+Comment='<span size="xx-large">Development files for the x264 library</span>'
+Comment3='
+x264 is a free library for encoding H264/AVC video streams, written from
+scratch.
+
+This package contains the development files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://developers.videolan.org/x264.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

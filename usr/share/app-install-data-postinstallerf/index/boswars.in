@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>boswars</b>'
+Comment='<span size="xx-large">Bos Wars is a futuristic real-time strategy game</span>'
+Comment3='
+Bos Wars is a futuristic real-time strategy game. It is possible to play
+against human opponents over LAN, internet, or against the computer.
+Bos Wars aims to create a completly original and fun open source RTS game.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.boswars.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

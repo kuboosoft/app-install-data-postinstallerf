@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xlhtml</b>'
+Comment='<span size="xx-large">Excel 95/97 and PowerPoint to HTML converter</span>'
+Comment3='
+The xlhtml program will take an Excel 95, or 97 file as input and
+convert it to HTML. The output is via standard out so it can be
+re-directed to files or piped to filters or used as a gateway to the
+internet. pptHtml program converts PowerPoint files to HTML.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://chicago.sourceforge.net/xlhtml/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

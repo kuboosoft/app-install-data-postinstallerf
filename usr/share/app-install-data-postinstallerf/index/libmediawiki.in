@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmediawiki</b>'
+Comment='<span size="xx-large">a MediaWiki C++ interface</span>'
+Comment3='
+a MediaWiki C++ interface.
+
+URL          http//www.digikam.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.digikam.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

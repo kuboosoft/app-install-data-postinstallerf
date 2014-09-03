@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-svg-doc</b>'
+Comment='<span size="xx-large">Documentation for python-syg</span>'
+Comment3='
+pySVG is a pure Python library to create/load and manipulate SVG documents.
+
+Its main use is to "code" svg images.
+These are the documentation files.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/pysvg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

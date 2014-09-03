@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>yafc</b>'
+Comment='<span size="xx-large">Yet Another FTP/SFTP Client</span>'
+Comment3='
+Yafc is an OpenSource console mode FTP client. It has support for Kerberos 4/5
+authentication and sftp (ssh2). Other features include tab completion,
+directory cache, powerful aliases, recursive file commands and bookmarks with
+autologin.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yafc.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

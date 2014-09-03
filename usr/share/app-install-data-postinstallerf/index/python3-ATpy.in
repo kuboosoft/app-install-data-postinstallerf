@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-ATpy</b>'
+Comment='<span size="xx-large">Astronomical Tables in Python</span>'
+Comment3='
+ATpy is a high-level Python package providing a way to manipulate tables of
+astronomical data in a uniform way. It provides built-in support for NumPy
+recarrays and common astronomical file/database formats (FITS, VO, HDF5,
+and ASCII tables) with a very simple API.
+'
+License='MIT'
+Screenshot=''
+Url='http://atpy.readthedocs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-openstack-quantum-client-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-openstack-quantum-client</span>'
+Comment3='
+Documentation for rubygem-openstack-quantum-client
+'
+License='MIT'
+Screenshot=''
+Url='http://rubygems.org/gems/openstack-quantum-client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

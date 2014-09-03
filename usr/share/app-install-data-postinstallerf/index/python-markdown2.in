@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-markdown2</b>'
+Comment='<span size="xx-large">A fast and complete Python implementation of Markdown</span>'
+Comment3='
+Markdown is a text-to-HTML filter; it translates an easy-to-read /
+easy-to-write structured text format into HTML. Markdowns text format
+is most similar to that of plain text email, and supports features
+such as headers, emphasis, code blocks, blockquotes, and links.
+
+This is a fast and complete Python implementation of the Markdown
+spec.
+For information about markdown itself, see
+http//daringfireball.net/projects/markdown/
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/trentm/python-markdown2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

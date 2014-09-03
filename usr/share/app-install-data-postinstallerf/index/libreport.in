@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libreport</b>'
+Comment='<span size="xx-large">Generic library for reporting various problems</span>'
+Comment3='
+Libraries providing API for reporting different problems in applications
+to different bug targets like Bugzilla, ftp, trac, etc...
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tideEditor</b>'
+Comment='<span size="xx-large">Editor for Tide Constituent Database (TCD) files</span>'
+Comment3='
+tideEditor is an editor for Tide Constituent Database (TCD) files.  It
+was written by Jan C. Depner but is now jointly maintained by David
+Flater and Jan Depner.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.flaterco.com/xtide/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-tikzposter</b>'
+Comment='<span size="xx-large">Create scientific posters using TikZ</span>'
+Comment3='
+A document class provides a simple way of using TikZ for
+generating posters. Several formatting options are available,
+and spacing and layout of the poster is to a large extent
+automated.
+
+date 2013-04-04 112851 +0200
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

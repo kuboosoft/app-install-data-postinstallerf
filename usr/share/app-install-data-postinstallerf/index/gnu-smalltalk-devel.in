@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnu-smalltalk-devel</b>'
+Comment='<span size="xx-large">Development Stuff for the GNU Smalltalk package</span>'
+Comment3='
+This Package contains header files and other stuff provided by
+GNU Smalltalk.
+
+You will need this package, if you want to extent GNU Smalltalk
+with functions written in C.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.gnu.org/software/smalltalk/smalltalk.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

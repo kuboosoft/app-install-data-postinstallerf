@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jalv-qt</b>'
+Comment='<span size="xx-large">QT implementation of jalv</span>'
+Comment3='
+jalv-qt is an LV2 host for QT LV2 plugins
+'
+License='MIT'
+Screenshot=''
+Url='http://drobilla.net/software/jalv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-bbcard</b>'
+Comment='<span size="xx-large">Bullshit bingo, calendar and baseball-score cards</span>'
+Comment3='
+Three jiffy packages for creating cards of various sorts with
+MetaPost.
+
+date 2008-08-17 010050 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mate-sensors-applet</b>'
+Comment='<span size="xx-large">MATE panel applet for hardware sensors</span>'
+Comment3='
+MATE Sensors Applet is an applet for the MATE Panel to display readings
+from hardware sensors, including CPU and system temperatures, fan speeds
+and voltage readings under Linux.
+Can interface via the Linux kernel i2c modules, or the i8k kernel modules
+Includes a simple, yet highly customization display and intuitive
+user-interface.
+Alarms can be set for each sensor to notify the user once a certain value
+has been reached, and can be configured to execute a given command at given
+repeated intervals.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

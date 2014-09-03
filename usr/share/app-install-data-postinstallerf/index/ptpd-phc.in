@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ptpd-phc</b>'
+Comment='<span size="xx-large">Precision Time Protocol daemon</span>'
+Comment3='
+This is the PTP daemon (PTPd) implementing the Precision Time Protocol (PTP)
+version 2 as defined by IEEE Std 1588-2008. PTP provides precise time
+coordination of Ethernet LAN connected computers. It was designed primarily
+for instrumentation and control systems.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/richardcochran/ptpd-phc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

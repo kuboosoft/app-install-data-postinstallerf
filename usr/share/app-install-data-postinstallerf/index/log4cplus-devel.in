@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>log4cplus-devel</b>'
+Comment='<span size="xx-large">Development files for log4cplus C++ logging framework</span>'
+Comment3='
+This package contains headers and libraries needed to develop applications
+using log4cplus logging framework.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/log4cplus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

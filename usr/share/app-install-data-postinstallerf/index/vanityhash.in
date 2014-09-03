@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>vanityhash</b>'
+Comment='<span size="xx-large">Hexadecimal hash fragment creation tool</span>'
+Comment3='
+This is a tool that can discover data to be added to the end of a file to
+produce a desired hexadecimal hash fragment.  It searches a message space and
+runs a hashing algorithm against the original data plus the appended data to
+determine if the desired hash fragment is present.  vanityhash can run
+multiple parallel workers to effectively make use of multiple processors/cores/
+threads, and supports multiple hash digest types (MD5, SHA-1, SHA-256, etc).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.finnie.org/software/vanityhash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

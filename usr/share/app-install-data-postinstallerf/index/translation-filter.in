@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>translation-filter</b>'
+Comment='<span size="xx-large">A l10n file filter</span>'
+Comment3='
+A l10n file filter to check translations
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fedorahosted.org/translation-filter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

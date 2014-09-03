@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>maradns</b>'
+Comment='<span size="xx-large">Authoritative and recursive DNS server made with security in mind</span>'
+Comment3='
+essential internet service. MaraDNS has the following advantages
+	* Secure.
+	* Supported.
+	* Easy to use.
+	* Small.
+	* Open Source.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.maradns.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

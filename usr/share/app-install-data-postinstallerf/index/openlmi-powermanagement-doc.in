@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openlmi-powermanagement-doc</b>'
+Comment='<span size="xx-large">Power management CIM provider documentation</span>'
+Comment3='
+This package contains the documents for OpenLMI power management provider.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

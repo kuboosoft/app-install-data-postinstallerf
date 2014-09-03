@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-mikmatch-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-mikmatch</span>'
+Comment3='
+The ocaml-mikmatch-devel package contains libraries and signature files for
+developing applications that use ocaml-mikmatch.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://mjambon.com/micmatch.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

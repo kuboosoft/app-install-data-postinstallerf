@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>scythia</b>'
+Comment='<span size="xx-large">Just a small ftp client</span>'
+Comment3='
+Scythia project is an simple and portable Ftp client. It does not claim to be
+able to replace the biggest (no SSH etc.), but only to satisfy some persons
+and to give us a bigger experience in programming.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://scythia.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

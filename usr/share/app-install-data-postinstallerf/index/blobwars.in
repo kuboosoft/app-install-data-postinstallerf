@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>blobwars</b>'
+Comment='<span size="xx-large">Mission and Objective based 2D Platform Game</span>'
+Comment3='
+Blob Wars  Metal Blob Solid. This is Episode I of the Blob Wars Saga.
+You must undertake the role of fearless Blob solider, Bob, as he infiltrates
+various enemy installations and hideouts in an attempt to rescue as many
+MIAs as possible.
+'
+License='GPLv2+ and CC-BY-SA and CC-BY and BSD and Public Domain'
+Screenshot=''
+Url='http://www.parallelrealities.co.uk/p/blob-wars-metal-blob-solid.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

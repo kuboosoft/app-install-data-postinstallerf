@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xpdf</b>'
+Comment='<span size="xx-large">A PDF file viewer for the X Window System</span>'
+Comment3='
+Xpdf is an X Window System based viewer for Portable Document Format
+(PDF) files. Xpdf is a small and efficient program which uses
+standard X fonts.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://www.foolabs.com/xpdf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

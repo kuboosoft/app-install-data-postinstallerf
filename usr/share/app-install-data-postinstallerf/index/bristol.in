@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bristol</b>'
+Comment='<span size="xx-large">Synthesizer emulator</span>'
+Comment3='
+Bristol is an emulation package for a number of different classic
+synthesizers including additive and subtractive and a few organs.
+The application consists of the engine, which is called bristol,
+and its own GUI library called brighton that represents all the emulations.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bristol.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

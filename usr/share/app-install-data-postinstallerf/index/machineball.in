@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>machineball</b>'
+Comment='<span size="xx-large">A futuristic ball game with simple rules</span>'
+Comment3='
+Machine Ball is a futuristic sport with amazing 3D graphics and realistic
+physics with very simple rules Get the ball into your opponents goal. You can
+use your machine to push the ball in, or you can collect powerups such as
+missiles and blast the ball into the goal. Be creative.
+'
+License='GPL+'
+Screenshot=''
+Url='http://benny.kramekweb.com/machineball/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

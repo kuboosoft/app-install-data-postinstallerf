@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>system-config-date</b>'
+Comment='<span size="xx-large">A graphical interface for modifying system date and time</span>'
+Comment3='
+system-config-date is a graphical interface for changing the system date and
+time, configuring the system time zone, and setting up the NTP daemon to
+synchronize the time of the system with an NTP time server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/system-config-date'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

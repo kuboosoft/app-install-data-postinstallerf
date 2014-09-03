@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fedocal</b>'
+Comment='<span size="xx-large">A web based calendar application</span>'
+Comment3='
+fedocal is a web- based calendar application for Fedora. It aims at replacing
+the tables in the wiki which are hard to edit and maintain.
+Calendar can be exported to an iCal format allowing read-only integration with
+most calendar application.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/fedocal/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

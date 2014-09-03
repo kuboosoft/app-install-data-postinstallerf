@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rss2email</b>'
+Comment='<span size="xx-large">Deliver news from RSS feeds to your SMTP server as text or HTML mail</span>'
+Comment3='
+rss2email lets you subscribe to a list of XML newsfeeds (RSS or Atom). It can
+parse them regularly with the help of cron and send new items to you by email.
+
+An HTML mail will be send in the default configuration to the local SMTP server.
+See the manual page r2e for details on how to set up rss2email.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://www.allthingsrss.com/rss2email/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

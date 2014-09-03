@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>licq</b>'
+Comment='<span size="xx-large">A graphical ICQ client with multiple protocols support</span>'
+Comment3='
+Licq is a instant messaging client for UNIX supporting multiple
+protocols (currently ICQ, MSN and Jabber). Licq uses a extensive plugin
+system to manage many different functions.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.licq.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

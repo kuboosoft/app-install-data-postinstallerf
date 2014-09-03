@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Module-Mask</b>'
+Comment='<span size="xx-large">Pretend certain modules are not installed</span>'
+Comment3='
+Sometimes you need to test what happens when a given module is not
+installed. This module provides a way of temporarily hiding installed
+modules from perls require mechanism. The ModuleMask object adds itself
+to @INC and blocks require calls to restricted modules.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Mask/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

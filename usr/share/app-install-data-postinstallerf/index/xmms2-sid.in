@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmms2-sid</b>'
+Comment='<span size="xx-large">XMMS2 plugin for SID audio format</span>'
+Comment3='
+This package contains an XMMS2 Plugin for listening to C64 mono and stereo file
+formats.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

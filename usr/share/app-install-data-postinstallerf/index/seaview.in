@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>seaview</b>'
+Comment='<span size="xx-large">Graphical multiple sequence alignment editor</span>'
+Comment3='
+SeaView is a graphical multiple sequence alignment editor developed by Manolo
+Gouy.  SeaView is able to read and write various alignment formats (NEXUS, MSF,
+CLUSTAL, FASTA, PHYLIP, MASE).  It allows to manually edit the alignment, and
+also to run DOT-PLOT or CLUSTALW/MUSCLE programs to locally improve the
+alignment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pbil.univ-lyon1.fr/software/seaview.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

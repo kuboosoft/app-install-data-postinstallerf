@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>sord</b>'
+Comment='<span size="xx-large">A lightweight Resource Description Framework (RDF) C library</span>'
+Summary      A lightweight Resource Description Framework (RDF) C library
+Source       sord-0.12.0-3.fc20.src.rpm
+Comment3='
+sord is a lightweight C library for storing Resource Description
+Framework (RDF) data in memory. sord and parent library serd form
+a lightweight RDF tool-set for resource limited or performance critical
+applications.
+
+'
+License='ISC'
+Screenshot=''
+Url='http://drobilla.net/software/sord/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

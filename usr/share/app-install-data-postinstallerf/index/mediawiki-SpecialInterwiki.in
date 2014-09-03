@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mediawiki-SpecialInterwiki</b>'
+Comment='<span size="xx-large">An extension to provide an interwiki management system</span>'
+Comment3='
+Interwiki management extension allowing the viewing and management of InterWiki
+links for Mediawiki preventing the need for direct database access.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mediawiki.org/wiki/Extension:SpecialInterwiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-libarchive</b>'
+Comment='<span size="xx-large">Fully functional Python wrapper for libarchive</span>'
+Comment3='
+Fully functional Python wrapper for libarchive. Created using SWIG. The
+low-level API provides access to all of the functionality of libarchive.
+
+The package also includes a high level python library which mimics the zipfile
+and tarfile modules.
+Libarchive supports the following
+- Reads a variety of formats, including tar, pax, cpio, zip, xar, lha, ar, cab,
+  mtree, rar, and ISO images.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/python-libarchive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

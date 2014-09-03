@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mecab-java</b>'
+Comment='<span size="xx-large">Java binding for MeCab</span>'
+Comment3='
+Java binding for MeCab.
+'
+License='BSD or LGPLv2+ or GPL+'
+Screenshot=''
+Url='http://mecab.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

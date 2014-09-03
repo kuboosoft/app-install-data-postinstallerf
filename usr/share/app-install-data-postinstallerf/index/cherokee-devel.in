@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cherokee-devel</b>'
+Comment='<span size="xx-large">Development files of cherokee</span>'
+Comment3='
+Cherokee is a very fast, flexible and easy to configure Web Server. It supports
+the widespread technologies nowadays FastCGI, SCGI, PHP, CGI, TLS and SSL
+encrypted connections, Virtual hosts, Authentication, on the fly encoding,
+Apache compatible log files, and much more.
+
+This package holds the development files for cherokee.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.cherokee-project.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

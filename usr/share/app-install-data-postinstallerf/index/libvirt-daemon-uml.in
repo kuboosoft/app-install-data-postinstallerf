@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-uml</b>'
+Comment='<span size="xx-large">Server side daemon & driver required to run UML guests</span>'
+Comment3='
+Server side daemon and driver required to manage the virtualization
+capabilities of UML
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-case-insensitive-devel</b>'
+Comment='<span size="xx-large">Haskell case-insensitive library development files</span>'
+Comment3='
+This package provides the Haskell case-insensitive library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/case-insensitive'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

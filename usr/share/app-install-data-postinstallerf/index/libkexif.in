@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkexif</b>'
+Comment='<span size="xx-large">Allow Kipi plugins to extract EXIF information</span>'
+Comment3='
+This library allows Kipi plugins to extract EXIF information from JPEG files.
+
+URL          http//extragear.kde.org/apps/kipi
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://extragear.kde.org/apps/kipi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

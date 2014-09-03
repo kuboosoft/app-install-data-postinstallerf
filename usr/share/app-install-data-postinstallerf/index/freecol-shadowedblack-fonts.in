@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>freecol-shadowedblack-fonts</b>'
+Comment='<span size="xx-large">Gothic font with drop shadows</span>'
+Comment3='
+A gothic font with drop shadows originally created by Paul Lloyd in 2002,
+extended by the freecol project to include most accented latin characters.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freecol.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

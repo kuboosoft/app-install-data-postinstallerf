@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-txfontsb</b>'
+Comment='<span size="xx-large">Extensions to txfonts, using GNU Freefont</span>'
+Comment3='
+A set of fonts that extend the txfonts bundle with small caps
+and old style numbers, together with Greek support. The
+extensions are made with modifications of the GNU Freefont.
+
+date 2011-03-01 170911 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

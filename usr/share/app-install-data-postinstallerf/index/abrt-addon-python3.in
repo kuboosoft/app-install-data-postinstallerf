@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>abrt-addon-python3</b>'
+Comment='<span size="xx-large">abrts addon for catching and analyzing Python 3 exceptions</span>'
+Comment3='
+This package contains python 3 hook and python analyzer plugin for handling
+uncaught exception in python 3 programs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

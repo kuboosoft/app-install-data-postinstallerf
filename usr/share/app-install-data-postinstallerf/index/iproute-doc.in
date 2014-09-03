@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>iproute-doc</b>'
+Comment='<span size="xx-large">ip and tc documentation with examples</span>'
+Comment3='
+The iproute documentation contains howtos and examples of settings.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kernel.org/pub/linux/utils/net/iproute2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

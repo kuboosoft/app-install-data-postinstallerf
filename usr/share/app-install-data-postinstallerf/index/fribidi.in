@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fribidi</b>'
+Comment='<span size="xx-large">Library implementing the Unicode Bidirectional Algorithm</span>'
+Comment3='
+A library to handle bidirectional scripts (for example Hebrew, Arabic),
+so that the display is done in the proper way; while the text data itself
+is always written in logical order.
+
+'
+License='LGPLv2+ and UCD'
+Screenshot=''
+Url='http://fribidi.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

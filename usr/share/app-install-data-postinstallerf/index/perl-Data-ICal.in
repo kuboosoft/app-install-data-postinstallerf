@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Data-ICal</b>'
+Comment='<span size="xx-large">Generates iCalendar (RFC 2445) calendar files</span>'
+Comment3='
+A DataICal object represents a VCALENDAR object as defined in the
+iCalendar protocol (RFC 2445, MIME type "text/calendar"), as implemented in
+many popular calendaring programs such as Apples iCal.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Data-ICal/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

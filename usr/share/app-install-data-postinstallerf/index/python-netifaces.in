@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-netifaces</b>'
+Comment='<span size="xx-large">Python library to retrieve information about network interfaces</span>'
+Comment3='
+This package provides a cross platform API for getting address information
+from network interfaces.
+'
+License='MIT'
+Screenshot=''
+Url='http://alastairs-place.net/netifaces/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

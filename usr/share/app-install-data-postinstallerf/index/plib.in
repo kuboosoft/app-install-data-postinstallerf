@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>plib</b>'
+Comment='<span size="xx-large">Set of portable libraries especially useful for games</span>'
+Comment3='
+This is a set of OpenSource (LGPL) libraries that will permit programmers
+to write games and other realtime interactive applications that are 100%
+portable across a wide range of hardware and operating systems. Here is
+what you need - its all free and available with LGPLed source code on
+the web. All of it works well together.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://plib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

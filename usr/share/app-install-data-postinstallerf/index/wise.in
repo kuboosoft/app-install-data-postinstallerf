@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>wise</b>'
+Comment='<span size="xx-large">JBoss Wise: Wise invokes services easily</span>'
+Comment3='
+Wise is a Java framework for easily invoking webservices, which can be used as
+base for zero-code webservice invocation applications. Wise can be the proper
+solution when total and effective client/server decoupling through WS is
+required.
+
+While basic JAX-WS tool for wsdl-to-java generation (like wsconsume) are great
+for most Java developer usecases, the generated stub classes kind of introduce
+a new (or renewed )) level of coupling very similar to Corba IDL; by
+generating statical webservice stubs you actually couple client and server.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/wise'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

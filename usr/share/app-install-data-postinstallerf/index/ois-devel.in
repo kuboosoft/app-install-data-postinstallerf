@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ois-devel</b>'
+Comment='<span size="xx-large">Development files for ois</span>'
+Comment3='
+The ois-devel package contains libraries and header files for
+developing applications that use ois.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://sourceforge.net/projects/wgois'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

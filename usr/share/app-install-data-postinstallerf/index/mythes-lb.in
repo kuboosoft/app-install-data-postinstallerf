@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-lb</b>'
+Comment='<span size="xx-large">Luxembourgish thesaurus</span>'
+Comment3='
+Luxembourgish thesaurus.
+'
+License='EUPL 1.1'
+Screenshot=''
+Url='http://spellchecker.lu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

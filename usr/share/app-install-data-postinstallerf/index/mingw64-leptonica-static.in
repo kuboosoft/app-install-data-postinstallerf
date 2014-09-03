@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-leptonica-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows Leptonica library</span>'
+Comment3='
+Static version of the MinGW Windows Leptonica library.
+'
+License='Leptonica'
+Screenshot=''
+Url='http://code.google.com/p/leptonica/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdeltacloud</b>'
+Comment='<span size="xx-large">A library for accessing deltacloud</span>'
+Comment3='
+Libdeltacloud is a library for accessing deltacloud via a
+convenient C API.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://git.fedorahosted.org/git/deltacloud/libdeltacloud.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gedit-plugins</b>'
+Comment='<span size="xx-large">Plugins for gedit</span>'
+Comment3='
+A collection of plugins for gedit.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/GeditPlugins'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

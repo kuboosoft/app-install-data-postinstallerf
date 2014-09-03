@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>webkit-sharp</b>'
+Comment='<span size="xx-large">.NET bindings for WebKit</span>'
+Comment3='
+WebKit-sharp is .NET bindings for the WebKit rendering engine.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

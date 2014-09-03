@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rubyforge-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rubyforge</span>'
+Comment3='
+This package contains documentation for rubygem-rubyforge.
+'
+License='MIT'
+Screenshot=''
+Url='http://rubyforge.org/projects/codeforpeople'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

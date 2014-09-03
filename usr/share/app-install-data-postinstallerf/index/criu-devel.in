@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>criu-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for criu</span>'
+Comment3='
+This package contains header files and libraries for criu.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://criu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

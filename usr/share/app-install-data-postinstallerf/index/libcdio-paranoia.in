@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libcdio-paranoia</b>'
+Comment='<span size="xx-large">CD paranoia on top of libcdio</span>'
+Comment3='
+This CDDA reader distribution (libcdio-cdparanoia) reads audio from the
+CDROM directly as data, with no analog step between, and writes the
+data to a file or pipe as .wav, .aifc or as raw 16 bit linear PCM.
+
+Split off from libcdio to allow more flexible licensing and to be compatible
+with cdparanoia-III-10.2s license. And also, libcdio is just too large.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/libcdio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

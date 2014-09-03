@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnm-qt</b>'
+Comment='<span size="xx-large">Qt-only wrapper for NetworkManager DBus API</span>'
+Comment3='
+Qt library for NetworkManager
+
+URL          https//projects.kde.org/projects/extragear/libs/libnm-qt
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/libs/libnm-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-ptp-fortran</b>'
+Comment='<span size="xx-large">PTP Fortran Support</span>'
+Comment3='
+Adds Fortran support to PTP.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/ptp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>milyn-smooks-csv</b>'
+Comment='<span size="xx-large">Milyn Smooks Cartridge - CSV</span>'
+Comment3='
+Milyn Smooks Cartridge - CSV.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.smooks.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

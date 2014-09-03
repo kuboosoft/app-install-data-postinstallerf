@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>dieharder-libs</b>'
+Comment='<span size="xx-large">A library of random number generator tests and timing routines</span>'
+Comment3='
+
+libdieharder is the core library of dieharder designed to be "the last
+suite of random number testers youll ever wear".  It can test any of
+its many pre-built and library linked generators (basically all of those
+in the Gnu Scientific Library plus a number of others from various
+sources) or a potentially random data-set in either an ASCII-formatted
+or raw (presumed 32 bit unsigned int) binary file.  It is fairly
+straightforward to wrap new software generators for testing, or to add
+hardware generators that have a software interface for testing, and the
+file input method permits pretty much any software or hardware RNG to be
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.phy.duke.edu/~rgb/General/dieharder.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

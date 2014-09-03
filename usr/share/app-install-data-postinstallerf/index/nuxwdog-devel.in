@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nuxwdog-devel</b>'
+Comment='<span size="xx-large">Development files for the Nuxwdog Watchdog</span>'
+Comment3='
+The nuxwdog-devel package contains the header files needed to build clients
+that call WatchdogClient functions, so that clients can interact with the
+nuxwdog watchdog server.
+
+'
+License='LGPLv2 and (GPL+ or Artistic)'
+Screenshot=''
+Url='http://www.redhat.com/certificate_system'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

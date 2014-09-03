@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rpm-cron</b>'
+Comment='<span size="xx-large">Create daily logs of installed packages.</span>'
+Comment3='
+This package contains a cron job which creates daily logs of installed
+packages on a system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rpm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

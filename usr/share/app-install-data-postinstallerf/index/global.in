@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>global</b>'
+Comment='<span size="xx-large">Source code tag system</span>'
+Comment3='
+GNU GLOBAL is a source code tag system that works the same way across
+diverse environments. It supports C, C++, Yacc, Java, PHP and
+assembler source code.
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://www.gnu.org/software/global'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

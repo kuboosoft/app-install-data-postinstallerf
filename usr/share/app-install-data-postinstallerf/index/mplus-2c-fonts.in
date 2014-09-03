@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mplus-2c-fonts</b>'
+Comment='<span size="xx-large">M+ C is optimized to be proportioned and has two variations</span>'
+Comment3='
+
+The combination of fixed-fullwidth M+ 2C for Japanese and proportional
+M+ 2C Type-2 for alphabets. They are 7 weights from Thin to Black.
+'
+License='mplus'
+Screenshot=''
+Url='http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/index-en.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

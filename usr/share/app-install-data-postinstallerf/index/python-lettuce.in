@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-lettuce</b>'
+Comment='<span size="xx-large">Behaviour Driven Development for Python</span>'
+Comment3='
+Lettuce is a Behavior Driven Development tool for Python, 100% inspired on
+Cucumber - BDD with elegance and joy.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://lettuce.it/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

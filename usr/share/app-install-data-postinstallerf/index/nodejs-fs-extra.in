@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-fs-extra</b>'
+Comment='<span size="xx-large">A drop-in replacement for Nodes native fs module with a few extra methods</span>'
+Comment3='
+A drop-in replacement for Nodes native fs module with a few extra methods.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jprichardson/node-fs-extra'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pari-galdata</b>'
+Comment='<span size="xx-large">PARI/GP Computer Algebra System Galois resolvents</span>'
+Comment3='
+This package contains the optional PARI package galdata, which provides
+the Galois resolvents for the polgalois function, for degrees 8 through 11.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pari.math.u-bordeaux.fr/packages.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

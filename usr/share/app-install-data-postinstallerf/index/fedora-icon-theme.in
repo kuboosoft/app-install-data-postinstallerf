@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fedora-icon-theme</b>'
+Comment='<span size="xx-large">Fedora icon theme</span>'
+Comment3='
+This package contains the Fedora icon theme.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xorg-x11-xauth</b>'
+Comment='<span size="xx-large">X.Org X11 X authority utilities</span>'
+Comment3='
+xauth is used to edit and display the authorization information
+used in connecting to an X server.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

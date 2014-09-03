@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n jkmeter
+Type=Application
+Name=Jkmeter
+GenericName=Audio Level Meter
+Comment=Audio level meter for JACK
+Icon=/usr/share/app-install-data-postinstallerf/icons/jkmeter32x32.png
+Terminal=false
+Categories=AudioVideo;Audio;

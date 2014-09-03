@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python3-execnet</b>'
+Comment='<span size="xx-large">Elastic Python Deployment</span>'
+Comment3='
+execnet provides a share-nothing model with channel-send/receive
+communication for distributing execution across many Python
+interpreters across version, platform and network barriers. It has a
+minimal and fast API targetting the following uses
+
+ * distribute tasks to (many) local or remote CPUs
+ * write and deploy hybrid multi-process applications
+ * write scripts to administer multiple environments
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://codespeak.net/execnet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dirvish</b>'
+Comment='<span size="xx-large">Fast, disk based, rotating network backup system</span>'
+Comment3='
+Dirvish is a fast, disk based, rotating network backup system. With dirvish you
+can maintain a set of complete images of your filesystems with unattended
+creation and expiration. A dirvish backup vault is like a time machine for your
+data.
+'
+License='OSL 2.0'
+Screenshot=''
+Url='http://www.dirvish.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>valyriatear</b>'
+Comment='<span size="xx-large">Valyria Tear is a free 2D J-RPG based on the Hero of Allacrost engine</span>'
+Comment3='
+Valyria Tear is a free (as meant in the GNU Public License) 2D J-RPG game
+based on the Hero of Allacrost engine.
+
+You can play it very much like a typical console role-playing game.
+You can explore maps and talk to non-playable characters (NPCs),
+fight active-time battles against multiple enemies,
+and manage your characters and equipment through a series of menus.
+Valyria Tear runs in a series of "game modes" which represent
+different states of operation in the game.
+'
+License='GPLv2'
+Valyria Tear is a free (as meant in the GNU Public License) 2D J-RPG game'
+Screenshot=''
+Url='http://valyriatear.blogspot.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

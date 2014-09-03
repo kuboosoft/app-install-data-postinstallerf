@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pacemaker-cli</b>'
+Comment='<span size="xx-large">Command line tools for controlling Pacemaker clusters</span>'
+Comment3='
+Pacemaker is an advanced, scalable High-Availability cluster resource
+manager for Corosync, CMAN and/or Linux-HA.
+
+The pacemaker-cli package contains command line tools that can be used
+to query and control the cluster from machines that may, or may not,
+be part of the cluster.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.clusterlabs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

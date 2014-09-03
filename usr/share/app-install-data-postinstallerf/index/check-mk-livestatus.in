@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>check-mk-livestatus</b>'
+Comment='<span size="xx-large">The check-mks Livestatus</span>'
+Comment3='
+This package contains livestatus, the check-mks plugin	for
+accessing the relevant Nagios files being responsible of
+listing	the hosts and services status.
+'
+License='GPLv2 and GPLv3'
+Screenshot=''
+Url='http://mathias-kettner.de/check_mk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jbosscache-common-parent</b>'
+Comment='<span size="xx-large">Parent pom for jbosscache</span>'
+Comment3='
+The jbosscache-common-parent package contains the parent pom file
+required by jbosscache.
+'
+License='LGPL'
+Screenshot=''
+Url='http://www.jboss.org/jbosscache'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

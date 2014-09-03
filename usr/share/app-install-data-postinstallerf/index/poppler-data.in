@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>poppler-data</b>'
+Comment='<span size="xx-large">Encoding files</span>'
+Comment3='
+This package consists of encoding files for poppler.  When installed,
+the encoding files enables poppler to correctly render CJK and Cyrillic
+properly.
+'
+License='BSD and GPLv2'
+Screenshot=''
+Url='http://poppler.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

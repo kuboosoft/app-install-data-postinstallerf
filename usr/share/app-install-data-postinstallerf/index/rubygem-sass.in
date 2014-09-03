@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-sass</b>'
+Comment='<span size="xx-large">A powerful but elegant CSS compiler that makes CSS fun again</span>'
+Comment3='
+Sass makes CSS fun again. Sass is an extension of CSS3, adding
+nested rules, variables, mixins, selector inheritance, and more.
+Its translated to well-formatted, standard CSS using the
+command line tool or a web-framework plugin.
+'
+License='MIT'
+Screenshot=''
+Url='http://sass-lang.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

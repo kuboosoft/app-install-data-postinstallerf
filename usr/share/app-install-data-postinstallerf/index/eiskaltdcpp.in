@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>eiskaltdcpp</b>'
+Comment='<span size="xx-large">Qt Direct Connect client</span>'
+Comment3='
+EiskaltDC++ is a program the uses the Direct Connect protocol. It is compatible
+with other DC clients, such as the original DC from Neomodus, DC++ and
+derivatives. EiskaltDC++ also interoperates with all common DC hub software.
+
+'
+License='BSD, GPLv2+ and GPLv3+ with exceptions'
+Screenshot=''
+Url='http://code.google.com/p/eiskaltdc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

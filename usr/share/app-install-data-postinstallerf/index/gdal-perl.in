@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gdal-perl</b>'
+Comment='<span size="xx-large">Perl modules for the GDAL file format library</span>'
+Comment3='
+The GDAL Perl modules provide support to handle multiple GIS file formats.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gdal.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

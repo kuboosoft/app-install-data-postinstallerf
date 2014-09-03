@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libjpeg-turbo-devel</b>'
+Comment='<span size="xx-large">Headers for the libjpeg-turbo library</span>'
+Comment3='
+This package contains header files necessary for developing programs which will
+manipulate JPEG files using the libjpeg-turbo library.
+
+'
+License='IJG'
+Screenshot=''
+Url='http://sourceforge.net/projects/libjpeg-turbo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

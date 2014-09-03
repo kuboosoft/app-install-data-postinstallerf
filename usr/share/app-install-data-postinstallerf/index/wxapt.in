@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wxapt</b>'
+Comment='<span size="xx-large">Console application for decoding and saving weather images</span>'
+Comment3='
+wxapt is a console application for decoding and saving weather images
+transmitted in the APT format of NOAA and METEOR satellites.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://5b4az.chronos.org.uk/pages/apt.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

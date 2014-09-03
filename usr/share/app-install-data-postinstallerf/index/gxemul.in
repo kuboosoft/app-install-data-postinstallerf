@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gxemul</b>'
+Comment='<span size="xx-large">Instruction-level machine emulator</span>'
+Comment3='
+GXemul is an experimental instruction-level machine emulator. It can be
+used to run binary code for (among others) MIPS-based machines, regardless
+of host platform. Several emulation modes are available. For some modes,
+processors and surrounding hardware components are emulated well enough to
+let unmodified operating systems (e.g. NetBSD) run as if they were running
+on a real machine.
+'
+License='BSD'
+Screenshot=''
+Url='http://gxemul.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

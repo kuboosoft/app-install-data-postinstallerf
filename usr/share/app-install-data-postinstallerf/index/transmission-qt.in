@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>transmission-qt</b>'
+Comment='<span size="xx-large">Transmission Qt interface</span>'
+Comment3='
+Qt graphical interface of Transmission BitTorrent client.
+'
+License='MIT and GPLv2'
+Screenshot=''
+Url='http://www.transmissionbt.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

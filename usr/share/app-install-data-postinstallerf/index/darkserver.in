@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>darkserver</b>'
+Comment='<span size="xx-large">GNU build-id service</span>'
+Comment3='
+Service to provide details of GNU build-id. This is a Django based web-service
+which keeps records of GNU build-ids of various ELF files imported from RPMs
+and provide them in JSON format through web.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/kushaldas/darkserver'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

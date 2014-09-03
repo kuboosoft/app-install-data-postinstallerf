@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-climate_control-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-climate_control</span>'
+Comment3='
+Documentation for rubygem-climate_control
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/thoughtbot/climate_control'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

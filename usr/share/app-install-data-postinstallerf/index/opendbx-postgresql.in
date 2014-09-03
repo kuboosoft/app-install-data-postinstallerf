@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opendbx-postgresql</b>'
+Comment='<span size="xx-large">PostgreSQL backend - provides postgresql support in opendbx</span>'
+Comment3='
+Allows odbx_init with "pgsql" as the backend parameter.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.linuxnetworks.de/doc/index.php/OpenDBX'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-aws-sdk</b>'
+Comment='<span size="xx-large">Amazon Web Services framework for PHP</span>'
+Comment3='
+Amazon Web Services SDK for PHP enables developers to build solutions for
+Amazon Simple Storage Service (Amazon S3), Amazon Elastic Compute Cloud
+(Amazon EC2), Amazon SimpleDB, and more.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://aws.amazon.com/sdkforphp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

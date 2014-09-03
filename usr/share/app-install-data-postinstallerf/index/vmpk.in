@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>vmpk</b>'
+Comment='<span size="xx-large">Virtual MIDI Piano Keyboard</span>'
+Comment3='
+VMPK is a MIDI event generator/receiver. It doesnt produce any sound by
+itself, but can be used to drive a MIDI synthesizer (either hardware or
+software, internal or external). You can use the computers keyboard to play
+MIDI notes, and also the mouse. You can use the Virtual MIDI Piano Keyboard to
+display the played MIDI notes from another instrument or MIDI file player.
+
+This package is compiled with JACK driver.
+'
+License='GPLv3+ and (LGPLv2 with exceptions or GPLv3)'
+Screenshot=''
+Url='http://vmpk.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

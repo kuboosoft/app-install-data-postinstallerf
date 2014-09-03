@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-tiltout</b>'
+Comment='<span size="xx-large">Tilt templates with layouts and helpers</span>'
+Comment3='
+Tiltout is a small abstraction on top of Tilt that allows you to render
+templates with optional layouts, share state between layout and template,
+register helper modules and optionally cache templates.
+'
+License='MIT'
+Screenshot=''
+Url='http://gitorious.org/gitorious/tiltout'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

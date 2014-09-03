@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-doxia-modules</b>'
+Comment='<span size="xx-large">Doxia modules for several markup languages.</span>'
+Comment3='
+This package provides Doxia modules for several markup languages..
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/doxia/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

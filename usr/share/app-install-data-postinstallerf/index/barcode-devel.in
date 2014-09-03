@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>barcode-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for barcode development</span>'
+Comment3='
+The barcode-devel package contains the header files and libraries needed
+to develop programs that use the barcode library.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/barcode/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

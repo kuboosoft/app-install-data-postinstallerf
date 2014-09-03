@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-uwthesis</b>'
+Comment='<span size="xx-large">University of Washington thesis class</span>'
+Comment3='
+uwthesis package
+
+date 2010-01-23 110854 +0100
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

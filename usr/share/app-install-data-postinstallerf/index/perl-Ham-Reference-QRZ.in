@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Ham-Reference-QRZ</b>'
+Comment='<span size="xx-large">An object oriented front end for the QRZ.COM Amateur Radio call-sign database</span>'
+Comment3='
+An object oriented front end for the QRZ.COM Amateur Radio call-sign database.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Ham-Reference-QRZ/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

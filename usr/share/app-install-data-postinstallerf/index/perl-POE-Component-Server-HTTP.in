@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-Server-HTTP</b>'
+Comment='<span size="xx-large">Foundation of a POE HTTP Daemon</span>'
+Comment3='
+POEComponentServerHTTP (PoCoHTTPD) is a framework for building
+custom HTTP servers based on POE. It is loosely modeled on the ideas of
+apache and the mod_perl/Apache module.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-Server-HTTP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

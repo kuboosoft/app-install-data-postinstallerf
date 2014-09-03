@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mac-libs</b>'
+Comment='<span size="xx-large">Library for Monkeys Audio Codec</span>'
+Comment3='
+The mac-libs package contains library for Monkeys Audio Codec.
+
+URL          http//supermmx.org/linux/mac/
+'
+License='Monkeys Audio Source Code License Agreement'
+Screenshot=''
+Url='http://supermmx.org/linux/mac/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

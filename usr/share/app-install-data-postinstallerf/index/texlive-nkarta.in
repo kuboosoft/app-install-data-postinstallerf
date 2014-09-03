@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-nkarta</b>'
+Comment='<span size="xx-large">A "new" version of the karta cartographic fonts</span>'
+Comment3='
+A development of the karta font, offering more mathematical
+stability in MetaFont. A version that will produce the glyphs
+as Encapsulated PostScript, using MetaPost, is also provided.
+
+date 2009-12-20 193544 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

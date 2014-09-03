@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nodejs-sntp</b>'
+Comment='<span size="xx-large">SNTP v4 client (RFC4330) for Node.js</span>'
+Comment3='
+An SNTP v4 client (RFC4330) for Node.js. Simply connects to the NTP or SNTP
+server requested and returns the server time along with the round-trip duration
+and clock offset. To adjust the local time to the NTP time, add the returned
+time offset to the local time.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/hueniverse/sntp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>php-guzzlehttp-guzzle</b>'
+Comment='<span size="xx-large">PHP HTTP client and webservice framework</span>'
+Comment3='
+Guzzle is a PHP HTTP client that makes it easy to work with HTTP/1.1 and takes
+the pain out of consuming web services.
+
+* Pluggable HTTP adapters that can send requests serially or in parallel
+* Doesnt require cURL, but uses cURL by default
+* Streams data for both uploads and downloads
+* Provides event hooks & plugins for cookies, caching, logging, OAuth, mocks,
+  etc
+* Keep-Alive & connection pooling
+* SSL Verification
+'
+License='MIT'
+Screenshot=''
+Url='http://guzzlephp.org'
+* Doesn't require cURL, but uses cURL by default'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

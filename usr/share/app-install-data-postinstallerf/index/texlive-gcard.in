@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-gcard</b>'
+Comment='<span size="xx-large">Arrange text on a sheet to fold into a greeting card</span>'
+Comment3='
+The package provides a simple means of producing greeting
+cards. It arranges four panels onto a single sheet so that when
+the sheet is folded twice the four panels are arranged as front
+cover, inside left and right pages, and back cover. It uses the
+textpos package for placement on the sheet and the graphicx
+package for the necessary rotation. The four panels are set in
+minipages for formatting by the user.
+
+date 2008-08-19 210004 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

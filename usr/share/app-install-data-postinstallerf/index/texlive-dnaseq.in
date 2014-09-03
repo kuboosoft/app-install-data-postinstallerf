@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-dnaseq</b>'
+Comment='<span size="xx-large">Format DNA base sequences</span>'
+Comment3='
+Defines a means of specifying sequences of bases. The bases may
+be numbered (per line) and you may specify that subsequences be
+coloured. For a more vanilla-flavoured way of typesetting
+base sequences, the user might consider the seqsplit package.
+
+date 2010-02-24 212809 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

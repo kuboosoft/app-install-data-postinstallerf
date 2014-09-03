@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>tcpreplay</b>'
+Comment='<span size="xx-large">Replay captured network traffic</span>'
+Comment3='
+Tcpreplay is a tool to replay captured network traffic. Currently, tcpreplay
+supports pcap (tcpdump) and snoop capture formats. Also included, is tcpprep
+a tool to pre-process capture files to allow increased performance under
+certain conditions as well as capinfo which provides basic information about
+capture files.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://tcpreplay.appneta.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

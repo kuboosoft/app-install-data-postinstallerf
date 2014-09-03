@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plug</b>'
+Comment='<span size="xx-large">Linux software for Fender Mustang amplifiers</span>'
+Comment3='
+Linux replacement for Fender FUSE software for Mustang amps.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://piorekf.org/plug/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

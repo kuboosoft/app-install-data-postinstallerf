@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Exception</b>'
+Comment='<span size="xx-large">Horde Exception Handler</span>'
+Comment3='
+This class provides the default exception handlers for the Horde
+Application Framework.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

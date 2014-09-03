@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>starplot-gliese3</b>'
+Comment='<span size="xx-large">Stellar data set for use by the StarPlot tool</span>'
+Comment3='
+Stellar data set for use by the StarPlot tool from the Third Catalogue of
+Nearby Stars (preliminary edition), Gliese and Jahreiss, 1991. The data set
+was obtained from the archives of the Astronomical Data Center (ADC) at NASA
+Goddard Space Flight Center.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://starplot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

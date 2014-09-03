@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python3-straight-plugin</b>'
+Comment='<span size="xx-large">Python plugin loader</span>'
+Comment3='
+straight.plugin is a Python plugin loader inspired by twisted.plugin with two
+important distinctions
+
+ - Fewer dependencies
+ - Python 3 compatible
+The system is used to allow multiple Python packages to provide plugins within
+a namespace package, where other packages will locate and utilize. The plugins
+themselves are modules in a namespace package where the namespace identifies
+the plugins in it for some particular purpose or intent.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/ironfroggy/straight.plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

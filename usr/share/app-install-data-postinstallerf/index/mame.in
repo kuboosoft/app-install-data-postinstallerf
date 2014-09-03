@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mame</b>'
+Comment='<span size="xx-large">Multiple Arcade Machine Emulator</span>'
+Comment3='
+MAME stands for Multiple Arcade Machine Emulator.  When used in conjunction
+with an arcade games data files (ROMs), MAME will more or less faithfully
+reproduce that game on a PC.
+
+The ROM images that MAME utilizes are "dumped" from arcade games original
+circuit-board ROM chips.  MAME becomes the "hardware" for the games, taking
+the place of their original CPUs and support chips.  Therefore, these games
+are NOT simulations, but the actual, original games that appeared in arcades.
+MAMEs purpose is to preserve these decades of video-game history.  As gaming
+'
+License='MAME License and BSD'
+Screenshot=''
+Url='http://mamedev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Lingua-Preferred</b>'
+Comment='<span size="xx-large">Perl extension to choose a language</span>'
+Comment3='
+Many web browsers let you specify which languages you understand.
+Then they negotiate with the web server to get documents in the best
+language possible.  This is something similar in Perl.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Lingua-Preferred/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

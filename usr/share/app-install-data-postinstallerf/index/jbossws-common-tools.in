@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jbossws-common-tools</b>'
+Comment='<span size="xx-large">JBossWS Common Tools</span>'
+Comment3='
+JBoss Web Services - Common Tools
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/jbossws'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

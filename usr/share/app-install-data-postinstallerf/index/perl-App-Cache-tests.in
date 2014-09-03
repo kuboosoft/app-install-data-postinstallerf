@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-App-Cache-tests</b>'
+Comment='<span size="xx-large">Test suite for package perl-App-Cache</span>'
+Comment3='
+This package provides the test suite for package perl-App-Cache.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/App-Cache'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

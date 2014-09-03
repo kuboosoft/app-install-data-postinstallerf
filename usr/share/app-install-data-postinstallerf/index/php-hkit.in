@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-hkit</b>'
+Comment='<span size="xx-large">Simple PHP5 API for extracting common microformats from a page</span>'
+Comment3='
+  hKit is a simple toolkit for extracting common microformats from a page.
+The page can be presented as a string or a URL, and the result is handed
+back as a standard PHP array structure. hKit uses SimpleXML for parsing,
+and therefore requires PHP5.
+  Designed for humans first and machines second, microformats are a set of
+simple, open data formats built upon existing and widely adopted standards.
+  The only microformat module currently supported by hKit is hCard. However,
+hKit makes possible for a user to write its own microformat module.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://allinthehead.com/hkit'
+The page can be presented as a string or a URL, and the result is handed'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

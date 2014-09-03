@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pst-sigsys</b>'
+Comment='<span size="xx-large">Support of signal processing-related disciplines</span>'
+Comment3='
+The package offers a collection of useful macros for
+disciplines related to signal processing. It defines macros for
+plotting a sequence of numbers, drawing the pole-zero diagram
+of a system, shading the region of convergence, creating an
+adder or a multiplier node, placing a framed node at a given
+coordinate, creating an up-sampler or a down-sampler node,
+drawing the block diagram of a system, drawing adaptive
+systems, sequentially connecting a list of nodes, and
+connecting a list of nodes using any node-connecting macro.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

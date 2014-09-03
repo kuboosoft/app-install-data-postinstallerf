@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-flask-sqlalchemy</b>'
+Comment='<span size="xx-large">Adds SQLAlchemy support to Flask application</span>'
+Comment3='
+Flask-SQLAlchemy is an extension for Flask that adds support for
+SQLAlchemy to your application. It aims to simplify using SQLAlchemy with
+Flask by providing useful defaults and extra helpers that make it easier
+to accomplish common tasks.
+
+This package includes the python 3 version of the module.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/mitsuhiko/flask-sqlalchemy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

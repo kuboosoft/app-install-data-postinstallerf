@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Log-Trivial</b>'
+Comment='<span size="xx-large">Very simple tool for writing very simple log files</span>'
+Comment3='
+Use this module when you want use "Yet Another" very simple, light weight
+log file writer.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Log-Trivial/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

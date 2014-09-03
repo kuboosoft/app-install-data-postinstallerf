@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gallery2-siriux</b>'
+Comment='<span size="xx-large">Siriux theme for Gallery 2</span>'
+Comment3='
+Gallery 2 theme - Siriux.net Gallery theme
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gallery.menalto.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

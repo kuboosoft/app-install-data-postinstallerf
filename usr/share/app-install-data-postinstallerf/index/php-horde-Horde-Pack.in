@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Pack</b>'
+Comment='<span size="xx-large">Horde Pack Utility</span>'
+Comment3='
+A replacement for serialize()/json_encode() that will automatically use the
+most efficient serialization available based on the input.
+
+The serialization extensions you may want to install are
+- php-json
+- php-pecl-igbinary
+- php-pecl-msgpack
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ssbd</b>'
+Comment='<span size="xx-large">Voice keyer for use in hamradio</span>'
+Comment3='
+Ssbd (Single-Side Band daemon) is voice keyer for hamradio use.
+Its written as part of Tucnak, contest log for VHF contests,
+but is possible to use ssbd with any other program.
+'
+License='GPL+'
+Screenshot=''
+Url='http://tucnak.nagano.cz/ssbd0en.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Plugin-FormState</b>'
+Comment='<span size="xx-large">Store Form State without Hidden Fields</span>'
+Comment3='
+CGIApplicationPluginFormState provides a temporary storage area
+within the users session for storing form-related data.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Plugin-FormState/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

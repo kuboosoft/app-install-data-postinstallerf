@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wayland-devel</b>'
+Comment='<span size="xx-large">Common headers for wayland</span>'
+Comment3='
+Common headers for wayland
+
+URL          http//wayland.freedesktop.org/
+'
+License='MIT'
+Screenshot=''
+Url='http://wayland.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

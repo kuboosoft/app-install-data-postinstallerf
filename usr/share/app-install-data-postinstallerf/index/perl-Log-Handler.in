@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Log-Handler</b>'
+Comment='<span size="xx-large">Log messages to several outputs</span>'
+Comment3='
+This module is a object oriented handler for logging, tracing and debugging.
+It is very easy to use and provides a simple interface for multiple output
+objects with lots of configuration parameters. You can easily filter the
+amount of logged information on a per-output base, define priorities, create
+patterns to format the messages and reload the complete logging machine.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Log-Handler'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

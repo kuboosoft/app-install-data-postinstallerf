@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ftplib</b>'
+Comment='<span size="xx-large">Library of FTP routines</span>'
+Comment3='
+ftplib is a set of routines that implement the FTP protocol. They allow
+applications to create and access remote files through function calls
+instead of needing to fork and exec an interactive ftp client program.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://nbpfaus.net/~pfau/ftplib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

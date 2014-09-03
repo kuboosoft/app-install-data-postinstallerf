@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-bytestring-trie-devel</b>'
+Comment='<span size="xx-large">Haskell bytestring-trie library development files</span>'
+Comment3='
+This package provides the Haskell bytestring-trie library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/bytestring-trie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

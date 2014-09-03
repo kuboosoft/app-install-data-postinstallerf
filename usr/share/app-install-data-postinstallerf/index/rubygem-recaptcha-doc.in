@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-recaptcha-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-recaptcha</span>'
+Comment3='
+This package contains the documentation files for
+rubygem-recaptcha.
+'
+License='MIT'
+Screenshot=''
+Url='http://rubygems.org/gems/recaptcha'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

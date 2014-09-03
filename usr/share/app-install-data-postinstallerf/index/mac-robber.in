@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mac-robber</b>'
+Comment='<span size="xx-large">Tool to create a timeline of file activity for mounted file systems</span>'
+Comment3='
+mac-robber is a digital forensics and incident response tool that can be used
+with The Sleuth Kit to create a timeline of file activity for mounted
+file systems.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/mac-robber/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

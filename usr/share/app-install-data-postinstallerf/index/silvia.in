@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>silvia</b>'
+Comment='<span size="xx-large">SImple Library for the Verification and Issuance of Attributes</span>'
+Comment3='
+SImple Library for the Verification and
+Issuance of Attributes of IRMA cards (irmacard.org).
+
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/credentials/silvia'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

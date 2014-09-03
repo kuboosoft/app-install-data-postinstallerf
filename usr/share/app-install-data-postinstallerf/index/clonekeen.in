@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>clonekeen</b>'
+Comment='<span size="xx-large">"Commander Keen: Invasion of the Vorticons" clone</span>'
+Comment3='
+CloneKeen is an almost complete clone of the old classic DOS game,
+"Commander Keen Invasion of the Vorticons" by by id Software
+http//www.idsoftware.com/
+CloneKeen requires the original id Software gamedata files to work.
+
+If you posess the original DOS games. You can play all three episodes of the
+game. If you dont, you can can still play the shareware episode one. Which can
+be freely downloaded from Apogee, but cannot be distributed as a part of
+Fedora. When you start CloneKeen for the first time it will offer to download
+the shareware datafiles for you.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://clonekeen.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

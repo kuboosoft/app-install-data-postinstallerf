@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-ezc-File</b>'
+Comment='<span size="xx-large">Provides support for file operations which are not covered by PHP</span>'
+Comment3='
+Provides support for file operations which are not covered by PHP or are just
+missing.
+'
+License='BSD'
+Screenshot=''
+Url='http://ezcomponents.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

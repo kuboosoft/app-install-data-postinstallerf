@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nss-softokn-freebl-devel</b>'
+Comment='<span size="xx-large">Header and Library files for doing development with the Freebl library for NSS</span>'
+Comment3='
+NSS Softoken Cryptographic Module Freebl Library Development Tools
+This package supports special needs of some PKCS #11 module developers and
+is otherwise considered private to NSS. As such, the programming interfaces
+may change and the usual NSS binary compatibility commitments do not apply.
+Developers should rely only on the officially supported NSS public API.
+
+'
+License='MPLv2.0'
+Screenshot=''
+Url='http://www.mozilla.org/projects/security/pki/nss/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

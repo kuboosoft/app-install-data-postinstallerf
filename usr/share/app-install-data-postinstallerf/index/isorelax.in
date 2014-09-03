@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>isorelax</b>'
+Comment='<span size="xx-large">Public interfaces for RELAX Core</span>'
+Comment3='
+The ISO RELAX project was started to host public interfaces
+useful for applications to support RELAX Core. Now, however,
+some of the hosted material is schema language-neutral.
+'
+License='MIT and ASL 1.1'
+Screenshot=''
+Url='http://iso-relax.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

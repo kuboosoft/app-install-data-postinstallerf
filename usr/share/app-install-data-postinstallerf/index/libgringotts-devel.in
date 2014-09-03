@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgringotts-devel</b>'
+Comment='<span size="xx-large">Development files for libgringotts</span>'
+Comment3='
+The libgringotts-devel package contains libraries and header files for
+developing applications that use libgringotts.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gringotts.shlomifish.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

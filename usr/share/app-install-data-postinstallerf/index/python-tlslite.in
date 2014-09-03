@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-tlslite</b>'
+Comment='<span size="xx-large">Python module for SSL/TLS support</span>'
+Comment3='
+TLS Lite is an open source Python library that implements SSL and
+TLS. TLS Lite supports RSA and SRP cipher suites. TLS Lite is pure
+Python, however it can use other libraries for faster crypto
+operations. TLS Lite integrates with several stdlib networking
+libraries.
+'
+License='BSD'
+Screenshot=''
+Url='http://trevp.net/tlslite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

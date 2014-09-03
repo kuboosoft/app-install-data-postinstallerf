@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythweb</b>'
+Comment='<span size="xx-large">The web interface to MythTV</span>'
+Comment3='
+The web interface to MythTV.
+'
+License='GPLv2 and LGPLv2 and MIT'
+Screenshot=''
+Url='http://www.mythtv.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

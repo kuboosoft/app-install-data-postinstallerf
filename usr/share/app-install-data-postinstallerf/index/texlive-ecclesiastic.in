@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-ecclesiastic</b>'
+Comment='<span size="xx-large">Typesetting Ecclesiastic Latin</span>'
+Comment3='
+The package modifies the way the latin option to babel operates
+when typesetting Latin. The style is somewhat frenchified in
+respect of punctuation spacings and footnote style; shortcuts
+are available in order to set accents on all vowels, including
+y and the diphthongs ae and oe.
+
+date 2012-07-30 112232 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

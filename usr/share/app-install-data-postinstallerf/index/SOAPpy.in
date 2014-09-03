@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>SOAPpy</b>'
+Comment='<span size="xx-large">Full-featured SOAP library for Python</span>'
+Comment3='
+The goal of the SOAPpy team is to provide a full-featured SOAP library
+for Python that is very simple to use and that fully supports dynamic
+interaction between clients and servers.
+'
+License='BSD and ZPLv2.0'
+Screenshot=''
+Url='http://pywebsvcs.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

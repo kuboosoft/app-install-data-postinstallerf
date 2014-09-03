@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>geronimo-jta</b>'
+Comment='<span size="xx-large">J2EE JTA v1.1 API</span>'
+Comment3='
+Java Transaction API (JTA) specifies standard Java interfaces between a
+transaction manager and the parties involved in a distributed transaction
+system the resource manager, the application server, and the transactional
+applications.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://geronimo.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

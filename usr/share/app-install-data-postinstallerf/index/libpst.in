@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libpst</b>'
+Comment='<span size="xx-large">Utilities to convert Outlook .pst files to other formats</span>'
+Comment3='
+The Libpst utilities include readpst which can convert email messages
+to both mbox and MH mailbox formats, pst2ldif which can convert the
+contacts to .ldif format for import into ldap databases, and pst2dii
+which can convert email messages to the DII load file format used by
+Summation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.five-ten-sg.com/libpst/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

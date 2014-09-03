@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>geany-plugins-geanylatex</b>'
+Comment='<span size="xx-large">LaTeX support for Geany</span>'
+Comment3='
+This plugin improves LaTeX support in Geany. It provides several templates for
+new documents, help with adding labels and inserting special characters,
+and much more.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

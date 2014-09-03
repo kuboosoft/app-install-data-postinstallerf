@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-capillary</b>'
+Comment='<span size="xx-large">Generate a JSON payload from Git log output</span>'
+Comment3='
+Capillary works in conjunction with capillary.js, which outputs a beautiful
+graphical representation of your repository history.
+'
+License='AGPLv3+'
+Screenshot=''
+Url='https://gitorious.org/capillary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

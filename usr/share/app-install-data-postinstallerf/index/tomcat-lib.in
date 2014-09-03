@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tomcat-lib</b>'
+Comment='<span size="xx-large">Libraries needed to run the Tomcat Web container</span>'
+Comment3='
+Libraries needed to run the Tomcat Web container.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tomcat.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

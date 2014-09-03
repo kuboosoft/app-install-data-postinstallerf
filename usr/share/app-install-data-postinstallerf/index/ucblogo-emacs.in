@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ucblogo-emacs</b>'
+Comment='<span size="xx-large">Emacs Logo mode</span>'
+Comment3='
+Emacs mode for UCBLogo.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.cs.berkeley.edu/~bh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

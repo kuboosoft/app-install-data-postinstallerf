@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-temporary</b>'
+Comment='<span size="xx-large">An easy way to create temporary files and directories</span>'
+Comment3='
+An easy way to create temporary files and directories.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/vesln/temporary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

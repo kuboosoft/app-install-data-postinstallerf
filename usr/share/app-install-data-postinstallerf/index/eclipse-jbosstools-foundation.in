@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools-foundation</b>'
+Comment='<span size="xx-large">JBoss Tools Foundation</span>'
+Comment3='
+JBoss Tools Foundation provides utility classes and infrastructure for all other
+plugins.
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

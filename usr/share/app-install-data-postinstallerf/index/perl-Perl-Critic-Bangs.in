@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Perl-Critic-Bangs</b>'
+Comment='<span size="xx-large">Collection of handy Perl::Critic policies</span>'
+Comment3='
+The rules included with the PerlCriticBangs group include
+  - Commented-out code is usually noise.  It should be removed.
+  - Watch for comments like "XXX", "TODO", etc.
+  - Tests should have a plan.
+  - Variables like $user and $user2 are insufficiently distinguished.
+  - Determining the class in a constructor by using "ref($proto) || $proto".
+  - Adding modifiers to a regular expression made up entirely of a variable
+  created with qr() is usually not doing what you expect.
+  - Vague variables like $data or $info are not descriptive enough.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic-Bangs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

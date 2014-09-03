@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-node-uuid</b>'
+Comment='<span size="xx-large">Simple and fast generation of RFC4122 (v1 and v4) UUIDs for Node.js</span>'
+Comment3='
+This Node.js module provides simple and fast generation of RFC4122 (v1 and v4)
+UUIDs. It runs in Node.js and all browsers and can also generate
+cryptographically strong random numbers.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/broofa/node-uuid'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

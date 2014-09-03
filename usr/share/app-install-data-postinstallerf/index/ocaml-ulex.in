@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ocaml-ulex</b>'
+Comment='<span size="xx-large">OCaml lexer generator for Unicode</span>'
+Comment3='
+Ulex is an OCaml lexer generator for Unicode
+
+- ulex is a lexer generator.
+- it is implemented as an OCaml syntax extension
+  lexer specifications are embedded in regular OCaml code.
+- the lexers work with a new kind of "lexbuf" that supports Unicode;
+  a single lexer can work with arbitrary encodings of the input stream.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.cduce.org/download.html#side'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

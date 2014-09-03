@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-fnbreak</b>'
+Comment='<span size="xx-large">Warn for split footnotes</span>'
+Comment3='
+This package detects footnotes that are split over several
+pages, and writes a warning to the log file.
+
+date 2012-01-02 142413 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

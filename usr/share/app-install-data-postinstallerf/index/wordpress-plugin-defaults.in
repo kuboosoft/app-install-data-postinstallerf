@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wordpress-plugin-defaults</b>'
+Comment='<span size="xx-large">Wordpress blog defaults plugin for WordPress</span>'
+Comment3='
+
+This package allows you to set various defaults to automatically
+apply to new blogs, such as the default theme, etc.
+This package is built for use with WordPress
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wordpress.org/extend/plugins/wpmu-new-blog-defaults/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

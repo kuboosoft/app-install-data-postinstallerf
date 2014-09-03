@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdevplatform-devel</b>'
+Comment='<span size="xx-large">Developer files for kdevplatform</span>'
+Comment3='
+Developer files for kdevplatform.
+
+URL          http//www.kde.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

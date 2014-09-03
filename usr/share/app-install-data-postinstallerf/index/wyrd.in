@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wyrd</b>'
+Comment='<span size="xx-large">A ncurses frontend for the calendar application remind</span>'
+Comment3='
+wyrd is a ncurses frontend for the calendar application remind.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pessimization.com/software/wyrd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

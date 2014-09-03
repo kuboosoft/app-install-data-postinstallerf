@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-totcount</b>'
+Comment='<span size="xx-large">Find the last value of a counter</span>'
+Comment3='
+The package records the value that was last set, for any
+counter of interest; since most such counters are simply
+incremented when they are changed, the recorded value will
+usually be the maximum value.
+
+date 2011-01-25 212141 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

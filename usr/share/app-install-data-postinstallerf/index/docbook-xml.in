@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>docbook-xml</b>'
+Comment='<span size="xx-large">A widely used XML scheme for writing documentation and help</span>'
+Comment3='
+A widely used XML scheme for writing documentation and help
+'
+License='MIT'
+Screenshot=''
+Url='http://www.oasis-open.org/docbook/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

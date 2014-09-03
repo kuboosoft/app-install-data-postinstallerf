@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n winpdb
+Version=1.0
+Type=Application
+Name=Winpdb
+Comment=Platform independent Python debugger
+Icon=/usr/share/app-install-data-postinstallerf/icons/winpdb.png
+Categories=Development;Debugger;

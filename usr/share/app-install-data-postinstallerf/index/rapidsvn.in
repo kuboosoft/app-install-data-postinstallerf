@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rapidsvn</b>'
+Comment='<span size="xx-large">Graphical interface for the Subversion revision control system</span>'
+Comment3='
+RapidSVN is a GUI front-end for the Subversion revision control system. It
+allows access to most of the features of Subversion through a user-friendly
+interface.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.rapidsvn.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

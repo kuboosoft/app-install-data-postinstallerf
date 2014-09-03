@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-pbox</b>'
+Comment='<span size="xx-large">A variable-width \parbox command</span>'
+Comment3='
+Defines a command \pbox{<max width>}{<text>} which adjusts its
+width to that of the enclosed text, up to the maximum width
+given. The package also defines some associated length
+commands.
+
+date 2011-12-08 013940 +0100
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

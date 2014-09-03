@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rdist</b>'
+Comment='<span size="xx-large">Maintains identical copies of files on multiple machines</span>'
+Comment3='
+The RDist program maintains identical copies of files on multiple
+hosts.  If possible, RDist will preserve the owner, group, mode and
+mtime of files and it can update programs that are executing.
+
+Install rdist if you need to maintain identical copies of files on
+multiple hosts.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.MagniComp.com/rdist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

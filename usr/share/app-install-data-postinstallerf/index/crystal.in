@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>crystal</b>'
+Comment='<span size="xx-large">KDE window decoration</span>'
+Comment3='
+Crystal is a kwin window decoration theme, which offers you (pseudo)
+TRANSPARENT titlebar, buttons and borders. It also has some little
+usuability enhancements.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde-look.org/content/show.php?content=13969'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>device-mapper-multipath-sysvinit</b>'
+Comment='<span size="xx-large">SysV init script for device-mapper-multipath</span>'
+Comment3='
+SysV style init script for device-mapper-multipth. It needs to be
+installed only if systemd is not used as the system init process.
+'
+License='GPL+'
+Screenshot=''
+Url='http://christophe.varoqui.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

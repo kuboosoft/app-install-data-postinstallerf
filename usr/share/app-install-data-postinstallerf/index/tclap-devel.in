@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tclap-devel</b>'
+Comment='<span size="xx-large">Header files for the Template-Only Command Line Argument Parser</span>'
+Comment3='
+Headers for the Template-Only Command Line Argument Parser.
+Note as that project has only headers (i.e., no library/binary object),
+this package (i.e., the -devel package) is the one containing most of the
+project.
+'
+License='MIT'
+Screenshot=''
+Url='http://tclap.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

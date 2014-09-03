@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>umph</b>'
+Comment='<span size="xx-large">Command line tool for parsing video links from Youtube feeds</span>'
+Comment3='
+umph is a command line tool for parsing video links from Youtube feeds,
+such as playlists, favorites and uploads. The parsed video links are printed
+to the standard output each separated with a newline.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/umph/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

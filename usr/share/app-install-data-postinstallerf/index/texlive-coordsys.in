@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-coordsys</b>'
+Comment='<span size="xx-large">Draw cartesian coordinate systems</span>'
+Comment3='
+The package provides commands for typesetting number lines
+(coordinate axes), coordinate systems and grids in the picture
+environment. The package may be integrated with other drawing
+mechanisms the documentation shows examples of drawing graphs
+(coordinate tables created by Maple), using the eepic packages
+drawing capabilities.
+
+date 2007-02-20 104906 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

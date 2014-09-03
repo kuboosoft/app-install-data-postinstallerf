@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gmpc</b>'
+Comment='<span size="xx-large">GNOME frontend for the MPD</span>'
+Comment3='
+Gmpc is a GNOME client for the Music Player Daemon
+Features 
+ * Support for loading/saving playlists.
+ * File Browser
+ * Browser based on ID3 information. (on artist and albums)
+ * Search
+ * Current playlist viewer with search.
+ * ID3 information
+ * Lots more
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gmpclient.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hawtjni-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for hawtjni</span>'
+Comment3='
+This package contains the API documentation for hawtjni.
+'
+License='ASL 2.0 and EPL and BSD'
+Screenshot=''
+Url='http://hawtjni.fusesource.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mingw32-gtkglext-static</b>'
+Comment='<span size="xx-large">Static version of gtkglext, OpenGL Extension to GTK+ for the Win32 target</span>'
+Comment3='
+GtkGLExt is an OpenGL extension to GTK+.
+It provides additional GDK objects which support OpenGL rendering
+in GTK+ and GtkWidget API add-ons to make GTK+ widgets OpenGL-capable.
+Static version of gtkglext compiled for the Win32 target.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://projects.gnome.org/gtkglext/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

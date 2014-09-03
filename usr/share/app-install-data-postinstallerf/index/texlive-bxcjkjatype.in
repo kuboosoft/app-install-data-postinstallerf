@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-bxcjkjatype</b>'
+Comment='<span size="xx-large">Typeset Japanese with pdfLaTeX and CJK</span>'
+Comment3='
+The package provides a working configuration of the CJK
+package, suitable for Japanese typesetting of moderate quality.
+Moreover, it facilitates use of the CJK package for pLaTeX
+users, by providing commands that are similar to those used by
+the pLaTeX kernel and some other packages used with it.
+
+date 2013-10-30 114337 +0100
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

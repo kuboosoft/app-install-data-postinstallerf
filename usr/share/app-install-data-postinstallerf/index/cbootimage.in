@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>cbootimage</b>'
+Comment='<span size="xx-large">Tools to dump and generate boot config table on Tegra devices</span>'
+Comment3='
+This package contains two programs to parse the boot config table (bct)
+of Tegra SoC based devices and to generate a new bct with appended
+bootloader (e.g. u-boot) read to be flashed to a storage device.
+The boot config table is used in the early boot process to setup the sdhci,
+DRAM memory controller and also points to the position of the bootloader.
+
+For more information, see
+http//http.download.nvidia.com/tegra-public-appnotes/bct-overview.html
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/NVIDIA/cbootimage'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

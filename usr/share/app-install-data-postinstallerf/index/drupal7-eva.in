@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>drupal7-eva</b>'
+Comment='<span size="xx-large">Eva allows the output of a View to be attached to content of entities</span>'
+Comment3='
+"Eva" is short for "Entity Views Attachment;" it provides a Views display
+plugin that allows the output of a View to be attached to the content of
+any Drupal entity. The body of a node or comment, the profile of a user
+account, or the listing page for a Taxonomy term are all examples of entity
+content.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/eva'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

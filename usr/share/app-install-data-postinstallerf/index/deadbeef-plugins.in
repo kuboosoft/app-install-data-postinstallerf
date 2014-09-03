@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>deadbeef-plugins</b>'
+Comment='<span size="xx-large">Plugins for deadbeef</span>'
+Comment3='
+This package contains plugins for deadbeef
+'
+License='GPLv2'
+Screenshot=''
+Url='http://deadbeef.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

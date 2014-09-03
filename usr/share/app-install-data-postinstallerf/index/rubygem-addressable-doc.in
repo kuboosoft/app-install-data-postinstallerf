@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-addressable-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-addressable</span>'
+Comment3='
+This package contains documentation for rubygem-addressable.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://addressable.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

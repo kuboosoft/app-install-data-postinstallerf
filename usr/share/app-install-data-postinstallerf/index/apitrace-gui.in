@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apitrace-gui</b>'
+Comment='<span size="xx-large">Graphical frontend for apitrace</span>'
+Comment3='
+This package contains qapitrace, the Graphical frontend for apitrace.
+'
+License='MIT'
+Screenshot=''
+Url='http://apitrace.github.io/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

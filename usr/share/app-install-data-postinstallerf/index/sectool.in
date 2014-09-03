@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sectool</b>'
+Comment='<span size="xx-large">A security audit system and intrusion detection system</span>'
+Comment3='
+sectool is a security tool that can be used both as a security audit
+and intrusion detection system. It consists of set of tests, library
+and command line interface tool. Tests are sorted into groups and security
+levels. Admins can run certain tests, groups or whole security levels.
+The library and the tools are implemented in python and tests are
+language independent.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/sectool'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

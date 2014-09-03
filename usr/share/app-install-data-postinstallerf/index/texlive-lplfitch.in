@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-lplfitch</b>'
+Comment='<span size="xx-large">Fitch-style natural deduction proofs</span>'
+Comment3='
+The package provides macros for typesetting natural deduction
+proofs in "Fitch" style, with subproofs indented and offset by
+scope lines. The proofs from use of the package are in the
+format used in the textbook Language, Proof, and Logic by Dave
+Barker-Plummer, Jon Barwise, and John Etchemendy.
+
+date 2013-07-02 162031 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

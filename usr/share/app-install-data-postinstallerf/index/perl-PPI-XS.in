@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-PPI-XS</b>'
+Comment='<span size="xx-large">XS acceleration for PPI</span>'
+Comment3='
+PPIXS provides XS-based acceleration of the core PPI packages. It
+selectively replaces a (small but growing) number of methods throughout PPI
+with identical but much faster C versions.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PPI-XS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

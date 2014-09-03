@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-stomp-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-stomp</span>'
+Comment3='
+This package contains documentation for rubygem-stomp.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://stomp.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

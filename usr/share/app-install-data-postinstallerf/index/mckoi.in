@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mckoi</b>'
+Comment='<span size="xx-large">Open Source Java SQL Database</span>'
+Comment3='
+Mckoi SQL Database is an Open Source SQL Database System written in Java.
+The Mckoi SQL Database project was started in 1998, and the goal was to
+build a database management system in a traditional shared disk/shared memory
+style architecture. Mckoi SQL Database includes some nice features such as
+write-ahead-logging. Many of the design ideas implemented in this project
+were carried through into MckoiDDB, the evolution of this project.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://mckoi.com/database/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

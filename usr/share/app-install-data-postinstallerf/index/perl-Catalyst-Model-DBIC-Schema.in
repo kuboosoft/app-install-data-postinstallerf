@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Model-DBIC-Schema</b>'
+Comment='<span size="xx-large">DBIx::Class::Schema Model Class</span>'
+Comment3='
+This is a Catalyst Model for DBIxClassSchema-based Models. See the
+documentation for CatalystHelperModelDBICSchema for information on
+generating these Models via Helper scripts.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

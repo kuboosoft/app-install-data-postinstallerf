@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>json-lib-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for json-lib</span>'
+Comment3='
+API documentation for json-lib.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://json-lib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

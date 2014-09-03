@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>Vuurmuur</b>'
+Comment='<span size="xx-large">Firewall manager built on top of iptables</span>'
+Comment3='
+Vuurmuur is a powerful middle-end/front-end for netfilter/iptables aimed
+at system-administrators who need a decent firewall, but dont have netfilter
+specific knowledge.
+
+The program is basicly split into three pieces. One piece (the middle-end)
+converts humanly-readable rules, hosts, groups, networks, zones, interfaces
+and services into a iptables ruleset (or optional into a bash-script). The
+second part is a little daemon that converts the netfiler logs to easy
+readable logs, that reflect all the predefined objects described above. The
+third part is a Ncurses-based Gui (the front-end) in which one can manage
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.vuurmuur.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

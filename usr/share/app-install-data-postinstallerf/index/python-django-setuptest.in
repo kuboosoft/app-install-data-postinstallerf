@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-django-setuptest</b>'
+Comment='<span size="xx-large">Simple module enabling Django app testing</span>'
+Comment3='
+Simple module enabling Django app testing via
+$ python setup.py test.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/praekelt/django-setuptest'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

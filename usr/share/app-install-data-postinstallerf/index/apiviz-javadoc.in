@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apiviz-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for apiviz</span>'
+Comment3='
+This package contains the API documentation for apiviz.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/apiviz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

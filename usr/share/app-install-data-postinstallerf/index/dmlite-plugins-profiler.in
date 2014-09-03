@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dmlite-plugins-profiler</b>'
+Comment='<span size="xx-large">Profiler plugin for dmlite</span>'
+Comment3='
+This package provides the profiler plug-in for dmlite. This plug-in is a simple
+wrapper around a real plug-in implementation, and is used to do multiple
+measurements regarding the performance of each call to dmlite.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-tbgrep</b>'
+Comment='<span size="xx-large">Extract Python Tracebacks from text</span>'
+Comment3='
+A module & command-line tool for extracting Python tracebacks from text.
+
+    $ tbgrep file1 file2 file3
+    $ tail -f logfile | tbgrep
+tbgrep can extract tracebacks from logs of various formats. For example,
+CherryPy starts the traceback on a line with other details (like module,
+timestamp, etc), but the rest of the trace starts at the beginning of the
+line. Apache logs, on the other hand, will prefix each line of the
+traceback with this information. tbgrep is designed to these kinds of
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/tbgrep'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

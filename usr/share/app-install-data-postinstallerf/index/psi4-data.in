@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>psi4-data</b>'
+Comment='<span size="xx-large">Data files necessary for operation of PSI4</span>'
+Comment3='
+This package contains necessary data files for PSI4, e.g., basis sets
+and the quadrature grids.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://www.psicode.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

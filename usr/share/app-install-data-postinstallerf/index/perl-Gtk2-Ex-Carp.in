@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Gtk2-Ex-Carp</b>'
+Comment='<span size="xx-large">GTK+ friendly die() and warn() functions</span>'
+Comment3='
+This module exports four functions, of which two override the standard
+die() and warn() functions, and two which allow for extended error
+reporting. When called, these functions display a user-friendly message
+dialog window.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Gtk2-Ex-Carp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-keybinder</b>'
+Comment='<span size="xx-large">python3-keybinder is python3 global keybinding library for X</span>'
+Comment3='
+python3-keybinder is python3 global keybinding library for X
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/LiuLang/python3-keybinder'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

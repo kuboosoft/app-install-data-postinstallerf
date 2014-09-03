@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-babelbib</b>'
+Comment='<span size="xx-large">Multilingual bibliographies</span>'
+Comment3='
+This package enables to generate multilingual bibliographies in
+cooperation with babel. Two approaches are possible Each
+citation may be written in another language, or the whole
+bibliography can be typeset in a language chosen by the user.
+In addition, the package supports commands to change the
+typography of the bibliographies.
+
+date 2012-01-30 123422 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

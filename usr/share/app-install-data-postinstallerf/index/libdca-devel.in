@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libdca-devel</b>'
+Comment='<span size="xx-large">Development files for libdca</span>'
+Comment3='
+Development files for libdca.
+
+Install libdca-devel if you wish to develop or compile
+applications that use libdca.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.videolan.org/developers/libdca.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

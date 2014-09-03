@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libssh</b>'
+Comment='<span size="xx-large">A library implementing the SSH protocol</span>'
+Comment3='
+The ssh library was designed to be used by programmers needing a working SSH
+implementation by the mean of a library. The complete control of the client is
+made by the programmer. With libssh, you can remotely execute programs, transfer
+files, use a secure and transparent tunnel for your remote programs. With its
+Secure FTP implementation, you can play with remote files easily, without
+third-party programs others than libcrypto (from openssl).
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.libssh.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

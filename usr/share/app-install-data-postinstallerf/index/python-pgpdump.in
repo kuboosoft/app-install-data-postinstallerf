@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-pgpdump</b>'
+Comment='<span size="xx-large">PGP packet parser library in Python 2.x</span>'
+Comment3='
+python-pgpdump is a Python library for parsing PGP packets. The intent here
+is not on completeness, as we dont currently decode every packet type, but
+on being able to do what people actually have to 95% of the time.
+
+Currently supported things include
+* Signature packets
+* Public key packets
+* Secret key packets
+* Trust, user ID, and user attribute packets
+'
+License='BSD'
+Screenshot=''
+Url='http://www.mew.org/~kazu/proj/pgpdump/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

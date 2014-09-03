@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Object-MultiType</b>'
+Comment='<span size="xx-large">Perl Objects as Hash, Array, Scalar, Code and Glob at the same time</span>'
+Comment3='
+This module return an object that works like a Hash, Array, Scalar, Code
+and Glob object at the same time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Object-MultiType/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qpid-proton-c</b>'
+Comment='<span size="xx-large">C libraries for Qpid Proton</span>'
+Comment3='
+C libraries for Qpid Proton.
+
+URL          http//qpid.apache.org/proton/
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org/proton/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

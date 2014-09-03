@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>projectM-libvisual</b>'
+Comment='<span size="xx-large">The projectM visualization plugin for libvisual</span>'
+Comment3='
+This package allows the use of the projectM visualization plugin through any
+libvisual compatible applications.
+'
+License='GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://projectm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

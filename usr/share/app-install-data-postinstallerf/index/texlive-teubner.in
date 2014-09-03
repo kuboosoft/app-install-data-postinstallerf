@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-teubner</b>'
+Comment='<span size="xx-large">Philological typesetting of classical Greek</span>'
+Comment3='
+An extension to babel greek option for typesetting classical
+Greek with a philological approach. The package works with the
+authors greek fonts using the Lispiakos font shape derived
+from that of the fonts used in printers shops in Lispia. The
+package name honours the publisher B.G. Teubner
+Verlaggesellschaft whose Greek text publications are of high
+quality.
+
+date 2013-12-18 141305 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

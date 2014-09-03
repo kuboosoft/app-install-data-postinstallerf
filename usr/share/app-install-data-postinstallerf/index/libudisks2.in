@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libudisks2</b>'
+Comment='<span size="xx-large">Dynamic library to access the udisks daemon</span>'
+Comment3='
+This package contains the dynamic library libudisks2, which provides
+access to the udisks daemon. This package is for the udisks 2.x
+series.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/udisks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>fuse-dislocker</b>'
+Comment='<span size="xx-large">FUSE-Filesystem to access BitLocker encrypted volumes</span>'
+Comment3='
+Dislocker has been designed to read BitLocker encrypted partitions ("drives")
+under a Linux system. The driver used to only read volumes encrypted under a
+Microsoft Windows 7 system but is now Microsoft Windows Vista capable and has
+the write functionality.
+
+A mount point needs to be given to fuse-dislocker. Once keys are decrypted, a
+file named dislocker-file appears into this provided mount point. This file
+is a virtual NTFS partition, it can be mounted as any NTFS partition and then
+reading from it or writing to it is possible.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/Aorimn/dislocker#readme'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

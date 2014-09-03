@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>xnec2c</b>'
+Comment='<span size="xx-large">GTK based graphical wrapper for nec2c</span>'
+Comment3='
+xnec2c is a GUI interactive application that (in its current form) reads NEC2
+input files but presents output data in graphical form, e.g. as wire frame
+drawings of the radiation pattern or near E/H field, graphs of maximum gain,
+input impedance, vswr etc against frequency and simple rendering of the antenna
+structure, including color code representation of currents or charge densities.
+
+These results are only calculated and drawn on user demand via menu items or
+buttons, e.g. xnec2c is interactive and does not execute NEC2 "commands" in
+batch style as the original does.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.qsl.net/5b4az/pages/nec2.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

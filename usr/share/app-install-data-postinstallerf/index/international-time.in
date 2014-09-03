@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>international-time</b>'
+Comment='<span size="xx-large">A tool for arranging times in advance with overseas colleagues</span>'
+Comment3='
+This is a graphical tool for converting a local "wall-clock" time into
+UTC.  This is useful for arranging conference calls where participants
+from other countries are expected
+'
+License='GPL+'
+Screenshot=''
+Url='http://cyberelk.net/tim/data/international-time/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

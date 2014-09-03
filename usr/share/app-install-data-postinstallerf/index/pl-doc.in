@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pl-doc</b>'
+Comment='<span size="xx-large">Documentation for SWI Prolog</span>'
+Comment3='
+Documentation for SWI Prolog.
+'
+License='CC-BY-SA and LGPLv2+'
+Screenshot=''
+Url='http://www.swi-prolog.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n garden-of-coloured-lights
+Name=Garden of Coloured Lights
+Comment=Abstract vertical shooter with music elements
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_garden.png
+Terminal=false
+Type=Application
+Categories=Game;

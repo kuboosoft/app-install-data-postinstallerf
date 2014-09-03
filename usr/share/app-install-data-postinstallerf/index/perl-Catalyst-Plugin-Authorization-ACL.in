@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-Authorization-ACL</b>'
+Comment='<span size="xx-large">ACL Support for Catalyst Applications</span>'
+Comment3='
+This module provides Access Control List style path protection, with
+arbitrary rules for Catalyst applications. It operates only on the
+Catalyst private namespace, at least at the moment.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-Authorization-ACL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

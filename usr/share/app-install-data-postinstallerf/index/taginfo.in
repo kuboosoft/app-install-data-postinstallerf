@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>taginfo</b>'
+Comment='<span size="xx-large">Printer of Tag Information from Media Files</span>'
+Comment3='
+Taginfo is a quick implementation of the TagLib API for use in the music
+jukebox program Room Juice.  Its meant to be fast, not featureful. Taginfo
+reads what tags TagLib can read, which as of this writing are ID3, ID3V2,
+Ogg, and FLAC.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://grecni.com/software/taginfo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

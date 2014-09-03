@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hivex-devel</b>'
+Comment='<span size="xx-large">Development tools and libraries for hivex</span>'
+Comment3='
+hivex-devel contains development tools and libraries
+for hivex.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

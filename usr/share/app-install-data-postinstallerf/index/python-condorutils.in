@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-condorutils</b>'
+Comment='<span size="xx-large">Common functions/utilities for condor job hooks</span>'
+Comment3='
+Common functions and utilities used by condor features.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/grid/job_hooks.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

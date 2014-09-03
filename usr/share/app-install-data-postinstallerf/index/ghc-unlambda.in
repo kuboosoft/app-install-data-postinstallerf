@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-unlambda</b>'
+Comment='<span size="xx-large">Haskell unlambda library</span>'
+Comment3='
+This package provides the Haskell unlambda shared library.
+'
+License='GPL+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/unlambda'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

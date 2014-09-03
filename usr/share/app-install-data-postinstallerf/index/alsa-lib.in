@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>alsa-lib</b>'
+Comment3='
+functionality to the Linux operating system.
+
+This package includes the ALSA runtime libraries to simplify application
+programming and provide higher level functionality as well as support for
+the older OSS API, providing binary compatibility for most OSS programs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

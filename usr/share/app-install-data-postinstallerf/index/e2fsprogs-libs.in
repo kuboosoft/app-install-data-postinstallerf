@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>e2fsprogs-libs</b>'
+Comment='<span size="xx-large">Ext2/3/4 filesystem-specific shared libraries</span>'
+Comment3='
+E2fsprogs-libs contains libe2p and libext2fs, the libraries of the
+e2fsprogs package.
+
+These libraries are used to directly acccess ext2/3/4 filesystems
+from userspace.
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://e2fsprogs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

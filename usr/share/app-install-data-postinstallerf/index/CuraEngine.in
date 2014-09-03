@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>CuraEngine</b>'
+Comment='<span size="xx-large">Engine for processing 3D models into G-code instructions for 3D printers</span>'
+Comment3='
+CuraEngine is a C++ console application for 3D printing G-code generation. It
+has been made as a better and faster alternative to the old Skeinforge engine.
+
+This is just a console application for G-code generation. For a full graphical
+application look at cura with is the graphical frontend for CuraEngine.
+'
+License='AGPLv3'
+Screenshot=''
+Url='https://github.com/Ultimaker/CuraEngine'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

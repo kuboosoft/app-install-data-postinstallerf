@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-overpic</b>'
+Comment='<span size="xx-large">Combine LaTeX commands over included graphics</span>'
+Comment3='
+The overpic environment is a cross between the LaTeX picture
+environment and the \includegraphics command of graphicx. The
+resulting picture environment has the same dimensions as the
+included eps graphic. LaTeX commands can be placed on the
+graphic at defined positions. A grid for orientation is
+available.
+
+date 2010-09-13 113912 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

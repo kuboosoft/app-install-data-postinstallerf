@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>compiz-devel</b>'
+Comment='<span size="xx-large">Development packages for compiz</span>'
+Comment3='
+The compiz-devel package includes the header files,
+and developer docs for the compiz package.
+Install compiz-devel if you want to develop plugins for the compiz
+windows and compositing manager.
+
+'
+License='GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://www.compiz.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-pdftools</b>'
+Comment='<span size="xx-large">PDF-related utilities, including PostScript-to-PDF conversion</span>'
+Comment3='
+The command-line programs pdfopen and pdfclose allow you to
+control the X Window System version of Adobes Acrobat Reader
+from the command line or from within a (shell) script. The
+programs work with Acrobat Reader 5, 7, 8 and 9 for Linux, xpdf
+and evince. This version derives from one written by Fabrice
+Popineau for Microsoft operating systems.
+
+date 2012-09-07 165433 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

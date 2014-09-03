@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gutenprint-foomatic</b>'
+Comment='<span size="xx-large">Foomatic printer database information for gutenprint</span>'
+Comment3='
+This package contains a database of printers,printer drivers,
+and driver descriptions.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gimp-print.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

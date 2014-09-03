@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fox-devel</b>'
+Comment='<span size="xx-large">Development files for fox</span>'
+Comment3='
+The fox-devel package contains libraries and header files for
+developing applications that use fox.
+
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fox-toolkit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

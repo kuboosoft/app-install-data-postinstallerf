@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-cli</b>'
+Comment='<span size="xx-large">Command-line interface for PHP</span>'
+Comment3='
+The php-cli package contains the command-line interface
+executing PHP scripts, /usr/bin/php, and the CGI interface.
+
+'
+License='PHP and Zend and BSD'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gputils</b>'
+Comment='<span size="xx-large">Development utilities for Microchip (TM) PIC (TM) microcontrollers</span>'
+Comment3='
+This is a collection of development tools for Microchip (TM) PIC (TM)
+microcontrollers.
+
+Gputils includes gpasm, gplink and gplib as well as the utilities
+gpdasm, gpstrip, gpvc, gpvo.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gputils.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

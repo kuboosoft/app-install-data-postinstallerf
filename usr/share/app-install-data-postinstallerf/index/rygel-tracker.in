@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rygel-tracker</b>'
+Comment='<span size="xx-large">Tracker plugin for rygel</span>'
+Comment3='
+A plugin for rygel to use tracker to locate media on the local machine.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/Rygel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

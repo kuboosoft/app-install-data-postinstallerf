@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openvswitch</b>'
+Comment='<span size="xx-large">Open vSwitch daemon/database/utilities</span>'
+Comment3='
+Open vSwitch provides standard network bridging functions and
+support for the OpenFlow protocol for remote per-flow control of
+traffic.
+'
+License='ASL 2.0 and LGPLv2+ and SISSL'
+Screenshot=''
+Url='http://openvswitch.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

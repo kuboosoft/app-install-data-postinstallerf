@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>procinfo-ng</b>'
+Comment='<span size="xx-large">Console-based system monitoring utility</span>'
+Comment3='
+Procinfo-NG is a complete rewrite of the old system monitoring application
+procinfo.  The goal is to make more readable (and reusable) code and to
+restore broken functionality.
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/procinfo-ng/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

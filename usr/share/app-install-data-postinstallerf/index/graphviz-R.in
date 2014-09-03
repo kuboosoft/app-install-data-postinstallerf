@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>graphviz-R</b>'
+Comment='<span size="xx-large">R extension for graphviz</span>'
+Comment3='
+R extension for graphviz.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.graphviz.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

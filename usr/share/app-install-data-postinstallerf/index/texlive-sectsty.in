@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-sectsty</b>'
+Comment='<span size="xx-large">Control sectional headers</span>'
+Comment3='
+A LaTeX2e package to help change the style of any or all of
+LaTeXs sectional headers in the article, book, or report
+classes. Examples include the addition of rules above or below
+a section title.
+
+date 2007-01-14 152052 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libepc-devel</b>'
+Comment='<span size="xx-large">Development files for libepc</span>'
+Comment3='
+The libepc-devel package contains libraries and header files for
+developing applications that use libepc.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/libepc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

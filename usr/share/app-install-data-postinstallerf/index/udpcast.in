@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>udpcast</b>'
+Comment='<span size="xx-large">UDP broadcast file distribution and installation</span>'
+Comment3='
+Command-line client for UDP sender and receiver.  Udpcast is an
+application for multicasting data to multiple targets.
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://udpcast.linux.lu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

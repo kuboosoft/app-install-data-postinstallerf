@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmtp-devel</b>'
+Comment='<span size="xx-large">Development files for libmtp</span>'
+Comment3='
+This package provides development files for the libmtp
+library for MTP media players.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libmtp.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

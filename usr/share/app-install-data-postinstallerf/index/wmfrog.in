@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wmfrog</b>'
+Comment='<span size="xx-large">A weather application, it shows the weather in a graphical way</span>'
+Comment3='
+This is a weather application, it shows the weather in a graphical way. The
+artwork looks like a kiddo did it, but thats part of the charm? Ok, I did it
+when I was 25, Im a programmer not a designer )
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.colar.net/wmfrog_dockapp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

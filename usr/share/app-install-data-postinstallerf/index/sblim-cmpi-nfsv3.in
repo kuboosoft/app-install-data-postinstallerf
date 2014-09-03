@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sblim-cmpi-nfsv3</b>'
+Comment='<span size="xx-large">SBLIM nfsv3 instrumentation</span>'
+Comment3='
+Standards Based Linux Instrumentation Nfsv3 Providers
+
+URL          http//sourceforge.net/projects/sblim/
+'
+License='EPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/sblim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

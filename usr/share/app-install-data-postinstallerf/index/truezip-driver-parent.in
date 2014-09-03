@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>truezip-driver-parent</b>'
+Comment='<span size="xx-large">Parent POM for TrueZip pluggable file system drivers</span>'
+Comment3='
+Parent POM for TrueZip pluggable file system drivers.
+'
+License='EPL'
+Screenshot=''
+Url='http://truezip.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

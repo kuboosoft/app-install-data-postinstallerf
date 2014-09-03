@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libpuzzle</b>'
+Comment='<span size="xx-large">Library to quickly find visually similar images (gif, png, jpg)</span>'
+Comment3='
+The Puzzle library is designed to quickly find visually similar images
+(gif, png, jpg), even if they have been resized, recompressed,
+recolored or slightly modified. The library is free, lightweight yet
+very fast, configurable, easy to use and it has been designed with
+security in mind.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://libpuzzle.pureftpd.org/project/libpuzzle'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

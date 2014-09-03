@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>garmindev</b>'
+Comment='<span size="xx-large">Drivers for communication with Garmin GPS devices</span>'
+Comment3='
+Drivers for communication with Garmin GPS devices used by QLandkarteGT.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.qlandkarte.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

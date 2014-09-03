@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-ccom</b>'
+Comment='<span size="xx-large">Perl module for context-sensitive phonetic string replacement</span>'
+Comment3='
+A perl module for context-sensitive phonetic string replacement to modify
+strings according to predefined replacement rules in such a way that words
+with the same pronunciation (e.g. "tail" and "tale") are converted to the
+same string. This can, for example, be used to implement error-tolerant
+search routines in address databases. It contains phonetic rules for German
+only, but the software has been prepared for multi-language support.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.heise.de/ct/ftp/99/25/252/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

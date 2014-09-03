@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pdf-trans</b>'
+Comment='<span size="xx-large">A set of macros for various transformations of TeX boxes</span>'
+Comment3='
+pdf-trans is a set of macros offering various transformations
+of TeX boxes (based on plain and pdfeTeX primitives). It was
+initially inspired by trans.tex, remade to work with pdfTeX.
+
+date 2013-11-23 011410 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

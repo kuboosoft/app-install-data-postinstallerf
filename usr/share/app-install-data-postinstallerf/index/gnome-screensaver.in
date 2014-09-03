@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-screensaver</b>'
+Comment='<span size="xx-large">GNOME Screensaver</span>'
+Comment3='
+gnome-screensaver is a screen saver and locker that aims to have
+simple, sane, secure defaults and be well integrated with the desktop.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

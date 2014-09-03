@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sqljet-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for sqljet</span>'
+Comment3='
+API documentation for sqljet.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sqljet.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

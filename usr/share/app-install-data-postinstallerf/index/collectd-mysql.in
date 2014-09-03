@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>collectd-mysql</b>'
+Comment='<span size="xx-large">MySQL plugin for collectd</span>'
+Comment3='
+MySQL querying plugin. This plugin provides data of issued commands,
+called handlers and database traffic.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

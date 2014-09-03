@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hibernate-c3p0</b>'
+Comment='<span size="xx-large">Hibernate C3P0 ConnectionProvider</span>'
+Comment3='
+C3P0-based implementation of the Hibernate ConnectionProvder contract.
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.hibernate.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

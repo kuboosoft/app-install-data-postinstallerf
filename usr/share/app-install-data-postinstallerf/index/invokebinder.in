@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>invokebinder</b>'
+Comment='<span size="xx-large">A Java DSL for binding method handles forward, rather than backward</span>'
+Comment3='
+This library hopes to provide a more friendly DSL for binding method handles.
+Unlike the normal MethodHandle API, handles are bound forward from a source
+MethodType and eventually adapted to a final target MethodHandle. Along the
+way the transformations are pushed onto a stack and eventually applied in
+reverse order, as the standard API demands.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/headius/invokebinder/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

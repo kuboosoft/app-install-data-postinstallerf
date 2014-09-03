@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-egameps</b>'
+Comment='<span size="xx-large">LaTeX package for typesetting extensive games</span>'
+Comment3='
+The style is intended to have enough features to draw any
+extensive game with relative ease. The facilities of PSTricks
+are used for graphics. (An older version of the package, which
+uses the LaTeX picture environment rather than PSTricks and
+consequently has many fewer features is available on the
+package home page.)
+
+date 2009-11-06 132936 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

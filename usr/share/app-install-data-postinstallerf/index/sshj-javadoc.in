@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sshj-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for sshj</span>'
+Comment3='
+This package contains javadoc for sshj.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://schmizz.net/sshj/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

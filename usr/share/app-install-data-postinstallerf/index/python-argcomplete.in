@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-argcomplete</b>'
+Comment='<span size="xx-large">Bash tab completion for argparse</span>'
+Comment3='
+Argcomplete provides easy, extensible command line tab completion of
+arguments for your Python script.
+
+It makes two assumptions
+ * Youre using bash as your shell
+ * Youre using argparse to manage your command line arguments/options
+Argcomplete is particularly useful if your program has lots of
+options or subparsers, and if your program can dynamically suggest
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/kislyuk/argcomplete'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-zope-i18nmessageid</b>'
+Comment='<span size="xx-large">Message Identifiers for internationalization</span>'
+Comment3='
+This module provides message identifiers for internationalization.
+'
+License='ZPLv2.1'
+Screenshot=''
+Url='http://pypi.python.org/pypi/zope.i18nmessageid'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

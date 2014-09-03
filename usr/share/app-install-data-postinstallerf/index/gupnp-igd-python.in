@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gupnp-igd-python</b>'
+Comment='<span size="xx-large">Python bindings for gupnp-igd</span>'
+Comment3='
+The gupnp-igd-python package contains the Python bindings for
+gupnp-igd.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/GUPnP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

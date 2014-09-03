@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sqlgrey</b>'
+Comment='<span size="xx-large">Postfix grey-listing policy service</span>'
+Comment3='
+SQLgrey is a Postfix grey-listing policy service with auto-white-listing
+written in Perl with SQL database as storage backend.  Greylisting stops 50
+to 90% of junk mails (spam and virus) before they reach your Postfix server
+(saves BW, user time and CPU time).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sqlgrey.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

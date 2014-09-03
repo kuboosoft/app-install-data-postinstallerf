@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pykka-docs</b>'
+Comment='<span size="xx-large">Documentation for pykka</span>'
+Comment3='
+This package provides the documentation for pykka, e.g. the API as
+devhelp docs, and examples.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.pykka.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

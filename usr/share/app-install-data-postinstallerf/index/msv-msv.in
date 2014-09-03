@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>msv-msv</b>'
+Comment='<span size="xx-large">Multi-Schema Validator Core</span>'
+Comment3='
+Multi-Schema Validator Core.
+'
+License='BSD and ASL 1.1 and ASL 2.0 and Public Domain'
+Screenshot=''
+Url='http://msv.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

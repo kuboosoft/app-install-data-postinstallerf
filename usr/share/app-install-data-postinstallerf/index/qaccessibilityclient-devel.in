@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qaccessibilityclient-devel</b>'
+Comment='<span size="xx-large">Development files for qaccessibilityclient</span>'
+Comment3='
+Development files for qaccessibilityclient.
+
+URL          https//projects.kde.org/projects/playground/accessibility/libkdeaccessibilityclient
+'
+License='LGPLv2 or LGPLv3'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/accessibility/libkdeaccessibilityclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

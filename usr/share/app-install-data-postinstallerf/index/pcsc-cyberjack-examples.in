@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pcsc-cyberjack-examples</b>'
+Comment='<span size="xx-large">Sample code</span>'
+Comment3='
+sample code to use/test SCardControl() API by Ludovic Rousseau
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.reiner-sct.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

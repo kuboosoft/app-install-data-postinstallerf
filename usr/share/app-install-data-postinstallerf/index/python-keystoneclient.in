@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-keystoneclient</b>'
+Comment='<span size="xx-large">Client library for OpenStack Identity API</span>'
+Comment3='
+Client library and command line utility for interacting with Openstack
+Identity API.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/python-keystoneclient'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

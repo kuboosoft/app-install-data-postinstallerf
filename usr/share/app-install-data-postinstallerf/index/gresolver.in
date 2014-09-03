@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gresolver</b>'
+Comment='<span size="xx-large">Graphical DNS query tool</span>'
+Comment3='
+GResolver is a graphical DNS query tool. It allows system administrators
+to quickly and easily make the most common DNS queries without constructing
+lengthy dig commands.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://jodrell.net/projects/gresolver'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

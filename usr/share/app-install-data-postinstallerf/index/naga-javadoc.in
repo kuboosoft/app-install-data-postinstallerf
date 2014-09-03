@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>naga-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for naga</span>'
+Comment3='
+This package contains the API documentation for naga.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/naga/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

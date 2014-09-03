@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-pydb</b>'
+Comment='<span size="xx-large">Pydb support for Emacs</span>'
+Comment3='
+Pydb support for Emacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bashdb.sourceforge.net/pydb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

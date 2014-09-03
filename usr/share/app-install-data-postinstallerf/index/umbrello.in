@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>umbrello</b>'
+Comment='<span size="xx-large">UML modeler and UML diagram tool</span>'
+Comment3='
+GUI for diagramming Unified Modeling Language (UML)
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

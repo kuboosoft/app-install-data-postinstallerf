@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-welsh</b>'
+Comment='<span size="xx-large">Welsh hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Welsh in T1/EC and UTF-8 encodings.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

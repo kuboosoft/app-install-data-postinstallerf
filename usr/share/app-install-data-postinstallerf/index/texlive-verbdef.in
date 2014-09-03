@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-verbdef</b>'
+Comment='<span size="xx-large">Define commands which expand to verbatim text</span>'
+Comment3='
+The package defines a single command \verbdef (which has a *-
+form, like \verb). \verbdef will define a robust command whose
+body expands to verbatim text. By using commands defined by
+\verbdef, one can put verbatim text into the arguments of
+commands; since the defined command is robust, it doesnt
+matter if the argument is moving. (Full details of syntax and
+caveats about use are in comments in the file itself.)
+
+date 2010-03-09 131330 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

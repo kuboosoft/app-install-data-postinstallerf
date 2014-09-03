@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-amazon-ec2</b>'
+Comment='<span size="xx-large">Amazon EC2 Ruby Gem</span>'
+Comment3='
+A Ruby library for accessing the Amazon Web Services EC2, ELB, RDS,
+Cloudwatch, and Autoscaling APIs.
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://github.com/grempe/amazon-ec2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

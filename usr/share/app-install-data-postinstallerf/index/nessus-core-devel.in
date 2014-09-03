@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nessus-core-devel</b>'
+Comment='<span size="xx-large">Header files for plugin development</span>'
+Comment3='
+Header files for plugin development
+
+URL          http//www.nessus.org
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nessus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

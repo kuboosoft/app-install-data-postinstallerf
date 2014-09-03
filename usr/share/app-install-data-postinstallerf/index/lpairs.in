@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lpairs</b>'
+Comment='<span size="xx-large">Classical memory game with cards</span>'
+Comment3='
+LPairs is a classical memory game. This means you have to find pairs of
+identical cards which will then be removed. Your time and tries needed
+will be counted but there is no highscore chart or limit to this.
+'
+License='GPLv2+ and CC-BY-SA and Freely redistributable without restriction'
+Screenshot=''
+Url='http://lgames.sourceforge.net/index.php?project=LPairs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

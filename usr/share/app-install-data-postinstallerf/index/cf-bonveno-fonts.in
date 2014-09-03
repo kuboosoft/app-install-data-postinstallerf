@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cf-bonveno-fonts</b>'
+Comment='<span size="xx-large">A fun font by Barry Schwartz</span>'
+Comment3='
+A set of fun fonts from the crud factory.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://home.comcast.net/~crudfactory/cf3/bonveno.xhtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

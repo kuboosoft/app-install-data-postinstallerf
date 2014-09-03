@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-tw2-jquery</b>'
+Comment='<span size="xx-large">jQuery for ToscaWidgets2</span>'
+Comment3='
+toscawidgets2 (tw2) aims to be a practical and useful widgets framework
+that helps people build interactive websites with compelling features, faster
+and easier. Widgets are re-usable web components that can include a template,
+server-side code and JavaScripts/CSS resources. The library aims to be
+flexible, reliable, documented, performant, and as simple as possible.
+
+jQuery is a fast and concise JavaScript Library that simplifies HTML
+document traversing, event handling, animating, and Ajax interactions
+for rapid web development. jQuery is designed to change the way that
+you write JavaScript.
+'
+License='MIT'
+Screenshot=''
+Url='http://toscawidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

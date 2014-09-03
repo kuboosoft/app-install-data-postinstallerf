@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zarafa-ical</b>'
+Comment='<span size="xx-large">iCal/CalDAV gateway for the Zarafa Collaboration Platform</span>'
+Comment3='
+The zarafa-ical package includes the Zarafa iCal/CalDAV gateway service
+to enable users to access their calendar using iCalendar (RFC 2445/5545)
+or CalDAV (RFC 4791) compliant clients. The iCal/CalDAV gateway service
+can be configured to listen for HTTP and HTTPS requests.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.zarafa.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

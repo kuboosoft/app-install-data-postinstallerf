@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>virt-manager-common</b>'
+Comment='<span size="xx-large">Common files used by the different Virtual Machine Manager interfaces</span>'
+Comment3='
+Common files used by the different virt-manager interfaces, as well as
+virt-install related tools.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://virt-manager.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

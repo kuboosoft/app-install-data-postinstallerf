@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n toppler
+Categories=Game;ArcadeGame;
+Name=Tower Toppler
+Comment=A clone of the  Nebulus  game on old 8 and 16 bit machines.
+Comment[de]=Klon des alten Spiels  Nebulus 
+Comment[cs]=Klon hry  Nebulus  z dob 8 a 16 bitov�oech počítačů.
+Icon=/usr/share/app-install-data-postinstallerf/icons/toppler.png
+Terminal=0
+Type=Application

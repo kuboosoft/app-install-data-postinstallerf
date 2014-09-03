@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pgfmolbio</b>'
+Comment='<span size="xx-large">Draw graphs typically found in molecular biology texts</span>'
+Comment3='
+The package draws graphs typically found in molecular biology
+texts. Currently, the package contains modules for drawing DNA
+sequencing chromatograms and protein domain diagrams.
+
+date 2013-07-31 091305 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

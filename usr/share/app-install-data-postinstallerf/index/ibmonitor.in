@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ibmonitor</b>'
+Comment='<span size="xx-large">Interactive bandwidth monitor</span>'
+Comment3='
+The program ibmonitor is an interactive linux console application which shows
+bandwidth consumed and total data transferred on all interfaces.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ibmonitor.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

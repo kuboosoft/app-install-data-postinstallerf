@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sweep</b>'
+Comment='<span size="xx-large">An audio editor and live playback tool</span>'
+Comment3='
+Sweep is an audio editor and live playback tool for GNU/Linux, BSD and
+compatible systems. It supports many music and voice formats including
+WAV, AIFF, Ogg Vorbis, Speex and MP3, with multichannel editing and
+LADSPA effects plugins.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.metadecks.org/software/sweep/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>liblo</b>'
+Comment='<span size="xx-large">Open Sound Control library</span>'
+Comment3='
+liblo is an implementation of the Open Sound Control protocol for
+POSIX systems developed by Steve Harris.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://liblo.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

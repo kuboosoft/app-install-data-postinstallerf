@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>coccinella</b>'
+Comment='<span size="xx-large">Chat client with whiteboard</span>'
+Comment3='
+Coccinella is a free and open-source cross-platform chat client with a built-in
+whiteboard for improved collaboration with other people. Other key features of
+Coccinella include
+* File transfer
+* Plugin system
+* Avatars and emoticons
+* Multi-lingual and internationalized
+* Secured connections (TLS and SASL)
+* Open standard instant messaging protocol (Jabber/XMPP)
+'
+License='GPLv3+ and BSD'
+Screenshot=''
+Url='http://thecoccinella.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

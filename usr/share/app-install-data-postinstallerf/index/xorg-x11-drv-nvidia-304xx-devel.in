@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xorg-x11-drv-nvidia-304xx-devel</b>'
+Comment='<span size="xx-large">Development files for xorg-x11-drv-nvidia-304xx</span>'
+Comment3='
+This package provides the development files of the xorg-x11-drv-nvidia-304xx package,
+such as OpenGL headers.
+
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.nvidia.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

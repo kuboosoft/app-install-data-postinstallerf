@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libhocr</b>'
+Comment='<span size="xx-large">A Hebrew optical character recognition library</span>'
+Comment3='
+LibHocr is a GNU Hebrew optical character recognition library. It scans
+document images, improve the image, analyzes the page layout, recognizes
+the characters and outputs the text. The output texts are now editable
+text, ready for your blog, word processor or any other use.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://hocr.berlios.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

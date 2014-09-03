@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tdom-devel</b>'
+Comment='<span size="xx-large">Development files for compiling against tdom</span>'
+Comment3='
+Development header files for compiling against tdom.
+
+URL          http//www.tdom.org
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.tdom.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

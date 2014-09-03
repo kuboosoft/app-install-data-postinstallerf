@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pfarrei</b>'
+Comment='<span size="xx-large">LaTeX support of pastors and priests work</span>'
+Comment3='
+In "Die TeXnische Komodie" (issue 1/2013) Christian Justen
+described his use of LaTeX in his work as priest (similar
+requirements may be encountered in the work of pastors and
+other ministers of religion). One point was to arrange A5 pages
+onto A4 landscape paper, either side-by-side or as a booklet.
+Justen made two bash scripts for this job; the package provides
+one texlua script for both requirements. (Note that file
+a5toa4.tlu should have execute permissions in any
+installation.)
+
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

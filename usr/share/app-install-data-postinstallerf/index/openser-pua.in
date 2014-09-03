@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openser-pua</b>'
+Comment='<span size="xx-large">Offer the functionality of a presence user agent client</span>'
+Comment3='
+This module offer the functionality of a presence user agent client, sending
+Subscribe and Publish messages.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

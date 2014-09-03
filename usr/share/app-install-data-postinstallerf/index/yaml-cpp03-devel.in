@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>yaml-cpp03-devel</b>'
+Comment='<span size="xx-large">Development files for yaml-cpp03</span>'
+Comment3='
+The yaml-cpp03-devel package contains libraries and header files for
+developing applications that use yaml-cpp03.
+
+This is a compatibility package for version 3.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/yaml-cpp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

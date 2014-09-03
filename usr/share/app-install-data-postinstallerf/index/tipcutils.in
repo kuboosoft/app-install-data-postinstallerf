@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>tipcutils</b>'
+Comment='<span size="xx-large">Utils package required to configure TIPC</span>'
+Comment3='
+Tipcutils is a set of userspace programs used to configure and manage TIPC on
+your system. It provides the tipc-config and tipc-pipe utilities.
+The tipc-config tool provides numerous commands for configuring and
+monitoring a TIPC network. Certain commands are only available to users
+having network administrator privileges (eg. root) to prevent unauthorized
+users from reconfiguring the network. The tipc-pipe utility acts as a netcat
+like program for TIPC. It is used for reading and writing network connections
+using TIPC.
+'
+License='BSD and GPL'
+Screenshot=''
+Url='http://tipc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

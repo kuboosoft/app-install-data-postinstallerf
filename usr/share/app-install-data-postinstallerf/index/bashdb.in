@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>bashdb</b>'
+Comment='<span size="xx-large">BASH debugger, the BASH symbolic debugger</span>'
+Comment3='
+The Bash Debugger Project is a source-code debugger for bash,
+which follows the gdb command syntax.
+The purpose of the BASH debugger is to check
+what is going on ?inside? a bash script, while it executes
+    * Start a script, specifying conditions that might affect its behavior.
+    * Stop a script at certain conditions (break points).
+    * Examine the state of a script.
+    * Experiment, by changing variable values on the fly.
+The 4.0 series is a complete rewrite of the previous series.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bashdb.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

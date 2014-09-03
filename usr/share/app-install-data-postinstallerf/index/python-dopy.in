@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-dopy</b>'
+Comment='<span size="xx-large">Python client for the Digital Ocean API</span>'
+Comment3='
+Digital Ocean API Python Wrapper
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/dopy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

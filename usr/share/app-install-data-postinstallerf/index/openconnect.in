@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openconnect</b>'
+Comment='<span size="xx-large">Open client for Cisco AnyConnect VPN</span>'
+Comment3='
+This package provides a client for the Cisco AnyConnect VPN protocol, which
+is based on HTTPS and DTLS.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.infradead.org/openconnect.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

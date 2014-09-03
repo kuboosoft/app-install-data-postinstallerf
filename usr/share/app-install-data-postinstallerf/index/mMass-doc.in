@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mMass-doc</b>'
+Comment='<span size="xx-large">mMass documentation</span>'
+Comment3='
+mMass PDF User Guide.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.mmass.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

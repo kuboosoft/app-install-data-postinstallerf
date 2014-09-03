@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nemo-extensions</b>'
+Comment='<span size="xx-large">Nemo extensions library</span>'
+Comment3='
+This package provides the libraries used by nemo extensions.
+
+URL          https//github.com/linuxmint/nemo
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/linuxmint/nemo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

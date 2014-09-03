@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-hcs_utils</b>'
+Comment='<span size="xx-large">A collection of useful python snippets for hcss projects</span>'
+Comment3='
+This collection of python snippets includes
+* memoize decorator (caching)
+* a storage class wrapping a dict.
+* unittest assert functions.
+* Functions for handling large JSON documents.
+* list_dir(path) ?> (dirnames, filenames)
+* PID file locking
+* A synchronization decorator
+'
+License='ISC'
+Screenshot=''
+Url='http://pypi.python.org/pypi/hcs_utils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

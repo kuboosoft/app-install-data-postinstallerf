@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>cairo-devel</b>'
+Comment='<span size="xx-large">Development files for cairo</span>'
+Comment3='
+Cairo is a 2D graphics library designed to provide high-quality display
+and print output.
+
+This package contains libraries, header files and developer documentation
+needed for developing software which uses the cairo graphics library.
+'
+License='LGPLv2 or MPLv1.1'
+Screenshot=''
+Url='http://cairographics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

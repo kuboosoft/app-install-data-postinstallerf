@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-TinyMocker</b>'
+Comment='<span size="xx-large">A very simple tool to mock external modules</span>'
+Comment3='
+This module allows you to override methods with arbitrary code blocks. This lets
+you simulate some kind of behavior for your tests.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-TinyMocker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

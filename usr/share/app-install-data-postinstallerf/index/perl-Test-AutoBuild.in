@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-AutoBuild</b>'
+Comment='<span size="xx-large">Framework for performing continuous, unattended, automated software builds</span>'
+Comment3='
+Test-AutoBuild is a Perl framework for performing continuous, unattended,
+automated software builds
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://autobuild.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

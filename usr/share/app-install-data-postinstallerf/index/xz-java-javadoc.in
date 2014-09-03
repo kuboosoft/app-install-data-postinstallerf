@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xz-java-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for xz-java</span>'
+Comment3='
+This package contains the API documentation for xz-java.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tukaani.org/xz/java.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

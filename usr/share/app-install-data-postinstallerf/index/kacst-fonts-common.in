@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kacst-fonts-common</b>'
+Comment='<span size="xx-large">Common files for kacst-fonts</span>'
+Comment3='
+
+This package contains fonts for the display of Arabic
+from the King Abdulaziz City for Science & Technology(kacst).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.arabeyes.org/resources.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

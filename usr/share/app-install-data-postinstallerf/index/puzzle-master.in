@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>puzzle-master</b>'
+Comment='<span size="xx-large">Fun and addictive jigsaw puzzle game</span>'
+Comment3='
+puzzle-master is a jigsaw puzzle game that lets you use your own
+images (and contains some built-in ones) for generating puzzles.
+You can decide the size and the difficulty of the puzzle.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://puzzle-master.colorful.hu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

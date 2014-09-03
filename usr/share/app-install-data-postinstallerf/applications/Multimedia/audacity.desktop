@@ -1,0 +1,16 @@
+[Desktop Entry]
+Exec=postinstaller -n audacity
+Name=Audacity
+Name[de]=Audacity
+Name[ru]=Audacity
+GenericName=Sound Editor
+GenericName[de]=Audio-Editor
+GenericName[ru]=Редактор звуковых файлов
+Comment=Record and edit audio files
+Comment[de]=Audio-Dateien aufnehmen und bearbeiten
+Comment[ru]=Запись и редактирование звуковых файлов
+Icon=/usr/share/app-install-data-postinstallerf/icons/audacity.png
+Type=Application
+Categories=AudioVideo;Audio;AudioVideoEditing;
+StartupNotify=false
+Terminal=false

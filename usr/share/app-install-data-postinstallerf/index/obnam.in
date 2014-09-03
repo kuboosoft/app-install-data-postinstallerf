@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>obnam</b>'
+Comment='<span size="xx-large">An easy, secure backup program</span>'
+Comment3='
+Obnam is an easy, secure backup program. Backups can be stored on
+local hard disks, or online via the SSH SFTP protocol. The backup
+server, if used, does not require any special software, on top of SSH.
+
+Some features that may interest you
+ * Snapshot backups. Every generation looks like a complete snapshot,
+   so you dont need to care about full versus incremental backups, or
+   rotate real or virtual tapes.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://liw.fi/obnam/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

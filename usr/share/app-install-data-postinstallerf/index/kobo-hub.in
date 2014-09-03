@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kobo-hub</b>'
+Comment='<span size="xx-large">Xml-rpc and web interface to a task database</span>'
+Comment3='
+Hub is a xml-rpc and web interface to a task database.
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/kobo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

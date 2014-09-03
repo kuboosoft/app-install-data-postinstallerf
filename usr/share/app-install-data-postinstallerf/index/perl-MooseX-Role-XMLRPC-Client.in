@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Role-XMLRPC-Client</b>'
+Comment='<span size="xx-large">Provide the needed bits to be a XML-RPC client</span>'
+Comment3='
+This is a Moose role that provides the methods and attributes needed
+to enable a class to serve as an XML-RPC client.  It is parameterized
+through MooseXRoleParameterized, so you can customize how it embeds
+in your class. You can even embed it multiple times with different
+paramaterization, if it strikes your fancy -)
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Role-XMLRPC-Client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

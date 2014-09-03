@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>omniORB</b>'
+Comment='<span size="xx-large">A robust high performance CORBA ORB for C++ and Python</span>'
+Comment3='
+omniORB is a robust high performance CORBA ORB for C++ and Python.
+omniORB is a certified CORBA 2.1 implementation and largely CORBA 2.6
+compliant.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://omniorb.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

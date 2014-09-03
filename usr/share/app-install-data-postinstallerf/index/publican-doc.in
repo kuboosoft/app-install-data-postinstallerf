@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>publican-doc</b>'
+Comment='<span size="xx-large">Documentation for the Publican package</span>'
+Comment3='
+Publican is a tool for publishing material authored in DocBook XML.
+This guide explains how to  to create and build books and articles
+using publican. It is not a DocBook XML tutorial and concentrates
+solely on using the publican tools.
+'
+License='(GPLv2+ or Artistic) and CC0'
+Screenshot=''
+Url='https://publican.fedorahosted.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

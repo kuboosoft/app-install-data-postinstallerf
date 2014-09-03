@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gmock</b>'
+Comment='<span size="xx-large">Google C++ Mocking Framework</span>'
+Comment3='
+Inspired by jMock, EasyMock, and Hamcrest, and designed with C++s
+specifics in mind, Google C++ Mocking Framework (or Google Mock for
+short) is a library for writing and using C++ mock classes.
+
+Google Mock
+ o lets you create mock classes trivially using simple macros,
+ o supports a rich set of matchers and actions,
+ o handles unordered, partially ordered, or completely ordered
+   expectations,
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/googlemock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

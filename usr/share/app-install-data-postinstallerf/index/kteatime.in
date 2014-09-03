@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kteatime</b>'
+Comment='<span size="xx-large">Handy timer for steeping tea</span>'
+Comment3='
+KTeaTime makes sure your tea does not get too strong.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdetoys/amor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

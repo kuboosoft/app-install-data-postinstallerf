@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rospack</b>'
+Comment='<span size="xx-large">ROS package and stack tools</span>'
+Comment3='
+rospack is a command-line tool for retrieving information about ROS packages
+available on the file system. It implements a wide variety of commands
+ranging from locating ROS packages in the file system, to listing available
+stacks, to calculating the dependency tree of stacks.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.ros.org/wiki/rospack'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

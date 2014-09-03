@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jetty-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jetty</span>'
+Comment3='
+Javadoc for jetty.
+'
+License='(ASL 2.0 or EPL) and MIT'
+Screenshot=''
+Url='http://www.eclipse.org/jetty/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

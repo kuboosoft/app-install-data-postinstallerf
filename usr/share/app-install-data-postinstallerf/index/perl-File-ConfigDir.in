@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-File-ConfigDir</b>'
+Comment='<span size="xx-large">Get directories of configuration files</span>'
+Comment3='
+This module is a helper for installing, reading and finding configuration
+file locations. Its intended to work in every supported Perl5 environment
+and will always try to Do The Right Thing(TM).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-ConfigDir/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

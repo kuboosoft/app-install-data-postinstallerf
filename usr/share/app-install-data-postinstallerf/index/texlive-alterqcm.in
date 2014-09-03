@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-alterqcm</b>'
+Comment='<span size="xx-large">Multiple choice questionnaires in two column tables</span>'
+Comment3='
+Macros to support the creation of multiple-choice
+questionnaires in two-column tables.
+
+date 2011-06-06 001059 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

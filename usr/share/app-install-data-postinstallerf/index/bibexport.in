@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>bibexport</b>'
+Comment='<span size="xx-large">Extract entries from BibTeX and .aux files</span>'
+Comment3='
+bibexport.sh is a small shell script, relying on BibTeX, that extracts
+entries of one or several bib file(s). It will expand abbreviations
+and cross-references, except standard month and journal
+abbreviations. The output is indented as neatly as possible, yielding a
+readable bib file even if the original one was not.
+'
+License='LPPL'
+Screenshot=''
+Url='http://www.ctan.org/tex-archive/help/Catalogue/entries/bibexport.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

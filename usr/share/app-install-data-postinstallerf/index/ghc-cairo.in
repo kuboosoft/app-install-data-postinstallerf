@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-cairo</b>'
+Comment='<span size="xx-large">Binding to the Cairo library</span>'
+Comment3='
+Cairo is a library to render high quality vector graphics.
+There exist various backends that allows rendering to Gtk windows,
+PDF, PS, PNG and SVG documents, amongst others.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cairo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

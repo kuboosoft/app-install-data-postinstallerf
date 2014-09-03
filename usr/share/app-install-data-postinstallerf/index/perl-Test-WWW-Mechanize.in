@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-WWW-Mechanize</b>'
+Comment='<span size="xx-large">Testing-specific WWW::Mechanize subclass</span>'
+Comment3='
+TestWWWMechanize is a subclass of WWWMechanize that incorporates
+features for web application testing.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-WWW-Mechanize/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

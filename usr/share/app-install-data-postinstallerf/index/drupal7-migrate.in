@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>drupal7-migrate</b>'
+Comment='<span size="xx-large">The migrate module provides a flexible framework for migrating content</span>'
+Comment3='
+The migrate module provides a flexible framework for migrating content into
+Drupal from other sources (e.g., when converting a web site from another
+CMS to Drupal). Out-of-the-box, support for creating core Drupal objects
+such as nodes, users, and comments is included - it can easily be extended
+for migrating other kinds of content. Content is imported and rolled back
+using Drush commands.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/migrate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

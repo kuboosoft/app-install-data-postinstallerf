@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libUnihan</b>'
+Comment='<span size="xx-large">C library for Unihan character database in fifth normal form</span>'
+Comment3='
+libUnihan provides a C library for Unihan character database in fifth
+normal form (5NF).
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libunihan'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

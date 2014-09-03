@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>londonlaw</b>'
+Comment='<span size="xx-large">Online multiplayer version of a well known detective boardgame</span>'
+Comment3='
+London Law is an online multiplayer version of a well known detective
+boardgame. The game is unusually asymmetric; one player controls the movements
+of the criminal Mr. X as he tries to evade the detectives, while another one to
+five players control five detectives trying to track him down. Mr. X has an
+advantage in access to transportation routes, and his precise location remains
+hidden for most of the game. The detectives have only the advantage of superior
+numbers, so they must work in concert to limit the criminals options. London
+Law features an attractive map overlaid on high-resolution satellite imagery.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pessimization.com/software/londonlaw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

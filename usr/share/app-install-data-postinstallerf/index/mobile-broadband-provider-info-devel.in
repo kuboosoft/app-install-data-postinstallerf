@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mobile-broadband-provider-info-devel</b>'
+Comment='<span size="xx-large">Development files for mobile-broadband-provider-info</span>'
+Comment3='
+The mobile-broadband-provider-info-devel package contains files necessary for
+developing developing applications that use mobile-broadband-provider-info.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://live.gnome.org/NetworkManager/MobileBroadband/ServiceProviders'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

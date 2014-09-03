@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>templates_parser-devel</b>'
+Comment='<span size="xx-large">Development files for AWS templates engine</span>'
+Comment3='
+The templates parser package has been designed to parse files and to
+replace some specific tags into these files by some specified values.
+
+This package contains the development files necessary to build and link
+from other project files.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://docs.adacore.com/aws-docs/templates_parser.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

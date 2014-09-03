@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xorg-x11-server-Xspice</b>'
+Comment='<span size="xx-large">XSpice is an X server that can be accessed by a Spice client</span>'
+Comment3='
+XSpice is both an X and a Spice server.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

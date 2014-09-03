@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-basho_stats</b>'
+Comment='<span size="xx-large">Basic Erlang statistics library</span>'
+Comment3='
+Basic Erlang statistics library.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/basho/basho_stats'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

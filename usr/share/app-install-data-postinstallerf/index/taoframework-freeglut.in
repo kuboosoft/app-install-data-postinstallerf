@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>taoframework-freeglut</b>'
+Comment='<span size="xx-large">The Tao Framework for Mono, freeglut Bindings</span>'
+Comment3='
+
+The Tao Framework is a collection of bindings to facilitate cross-platform
+media application development.
+This package contains freeglut Bindings
+'
+License='MIT'
+Screenshot=''
+Url='http://www.taoframework.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

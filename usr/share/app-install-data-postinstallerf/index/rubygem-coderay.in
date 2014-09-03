@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-coderay</b>'
+Comment='<span size="xx-large">Fast syntax highlighter engine for many programming languages</span>'
+Comment3='
+Coderay is a Ruby library for syntax highlighting. CodeRay is build to be easy
+to use and intuitive, but at the same time fully featured, complete, fast and
+efficient.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://coderay.rubychan.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

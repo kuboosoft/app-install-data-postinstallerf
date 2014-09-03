@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libblkid</b>'
+Comment='<span size="xx-large">Block device ID library</span>'
+Comment3='
+This is block device identification library, part of util-linux.
+
+URL          http//en.wikipedia.org/wiki/Util-linux
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://en.wikipedia.org/wiki/Util-linux'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

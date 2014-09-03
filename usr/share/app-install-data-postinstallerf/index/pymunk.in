@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pymunk</b>'
+Comment='<span size="xx-large">Python wrapper for the chipmunk 2D physics engine</span>'
+Comment3='
+Pymunk is a Python wrapper for the wrapper for the chipmunk 2D physics
+engine.  It aims to be easy to use, "Pythonic", and non-intrusive.
+'
+License='MIT and GPL+'
+Screenshot=''
+Url='http://code.google.com/p/pymunk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

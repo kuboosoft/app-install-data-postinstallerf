@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hydra-frontend</b>'
+Comment='<span size="xx-large">The GTK+ front end for hydra</span>'
+Comment3='
+This package includes xhydra, a GTK+ front end for hydra.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.thc.org/thc-hydra/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

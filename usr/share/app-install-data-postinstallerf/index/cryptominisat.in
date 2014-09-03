@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>cryptominisat</b>'
+Comment='<span size="xx-large">SAT solver</span>'
+Comment3='
+CryptoMiniSat is a SAT solver that aims to become a premiere SAT solver
+with all the features and speed of successful SAT solvers, such as
+MiniSat and PrecoSat.  The long-term goals of CryptoMiniSat are to be an
+efficient sequential, parallel and distributed solver.  There are
+solvers that are good at one or the other, e.g. ManySat (parallel) or
+PSolver (distributed), but we wish to excel at all.
+
+CryptoMiniSat 2.5 won the SAT Race 2010 among 20 solvers submitted by
+researchers and industry.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.msoos.org/cryptominisat2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

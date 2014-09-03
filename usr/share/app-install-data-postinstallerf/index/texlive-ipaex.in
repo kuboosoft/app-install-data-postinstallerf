@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-ipaex</b>'
+Comment='<span size="xx-large">IPA and IPAex fonts from Information-technology Promotion Agency, Japan</span>'
+Comment3='
+The fonts provide fixed-width glyphs for Kana and Kanji
+characters, proportional width glyphs for Western characters.
+
+date 2011-11-03 091942 +0100
+'
+License='IPA'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

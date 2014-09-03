@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>alsa-tools</b>'
+Comment='<span size="xx-large">Specialist tools for ALSA</span>'
+Comment3='
+This package contains several specialist tools for use with ALSA, including
+a number of programs that provide access to special hardware facilities on
+certain sound cards.
+
+* as10k1 - AS10k1 Assembler
+* cspctl - Sound Blaster 16 ASP/CSP control program
+* echomixer - Mixer for Echo Audio (indigo) devices
+* envy24control - Control tool for Envy24 (ice1712) based soundcards
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

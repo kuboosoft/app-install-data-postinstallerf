@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-descendants_tracker-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-descendants_tracker</span>'
+Comment3='
+Documentation for rubygem-descendants_tracker
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/dkubb/descendants_tracker'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

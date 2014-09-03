@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Net-SSLGlue</b>'
+Comment='<span size="xx-large">Add/extend SSL support for common perl modules</span>'
+Comment3='
+Some commonly used perl modules dont have SSL support at all, even if the
+protocol would support it. Others have SSL support, but most of them dont
+do proper checking of the servers certificate.
+
+The NetSSLGlue* modules try to add SSL support or proper certificate to
+these modules. Currently is support for the following modules available
+- NetSMTP - add SSL from beginning or using STARTTLS
+- NetLDAP - add proper certificate checking
+- LWP - add proper certificate checking
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-SSLGlue/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

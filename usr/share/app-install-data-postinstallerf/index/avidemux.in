@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>avidemux</b>'
+Comment='<span size="xx-large">Graphical video editing and transcoding tool</span>'
+Comment3='
+Avidemux is a free video editor designed for simple cutting, filtering and
+encoding tasks. It supports many file types, including AVI, DVD compatible
+MPEG files, MP4 and ASF, using a variety of codecs. Tasks can be automated
+using projects, job queue and powerful scripting capabilities.
+
+This is a meta package that brings in all interfaces GTK, QT, and CLI.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.avidemux.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

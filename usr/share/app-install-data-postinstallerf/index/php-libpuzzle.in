@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-libpuzzle</b>'
+Comment='<span size="xx-large">PHP extension for libpuzzle</span>'
+Comment3='
+The libpuzzle native PHP extension for developing PHP applications that
+use libpuzzle.
+'
+License='BSD'
+Screenshot=''
+Url='http://libpuzzle.pureftpd.org/project/libpuzzle'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

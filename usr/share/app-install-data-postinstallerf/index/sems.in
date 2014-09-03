@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sems</b>'
+Comment='<span size="xx-large">SIP Express Media Server, an extensible SIP media server</span>'
+Comment3='
+SEMS (SIP Express Media Server) is very extensible and programmable
+SIP media server for SER or OpenSER. The plug-in based SDK enables
+you to extend SEMS and write your own applications and integrate new
+codec. Voice-mail, announcement and echo plug-ins are already included.
+SEMS supports g711u, g711a, GSM06.10 and wav file.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.iptel.org/sems'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdwarves1</b>'
+Comment='<span size="xx-large">Debugging information  processing library</span>'
+Comment3='
+Debugging information processing library.
+
+URL          http//acmel.wordpress.com
+'
+License='GPLv2'
+Screenshot=''
+Url='http://acmel.wordpress.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

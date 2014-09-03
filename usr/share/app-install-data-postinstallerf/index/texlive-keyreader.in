@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-keyreader</b>'
+Comment='<span size="xx-large">A robust interface to xkeyval</span>'
+Comment3='
+The package provides a robust interface to controlling keys in
+xkeyval, removing some of that packages restrictions. The
+package also addresses some of the issues now covered by the
+authors ltxkeys package, which was assumed to be a replacement
+for keyreader. Since keyreader has remained a favourite with
+users, it has been reinstated.
+
+date 2012-11-06 200731 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

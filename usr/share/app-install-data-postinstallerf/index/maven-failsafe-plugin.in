@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>maven-failsafe-plugin</b>'
+Comment='<span size="xx-large">Maven plugin for running integration tests</span>'
+Comment3='
+The Failsafe Plugin is designed to run integration tests while the
+Surefire Plugins is designed to run unit. The name (failsafe) was
+chosen both because it is a synonym of surefire and because it implies
+that when it fails, it does so in a safe way.
+
+If you use the Surefire Plugin for running tests, then when you have a
+test failure, the build will stop at the integration-test phase and
+your integration test environment will not have been torn down
+correctly.
+'
+License='ASL 2.0 and CPL'
+Screenshot=''
+Url='http://maven.apache.org/surefire/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

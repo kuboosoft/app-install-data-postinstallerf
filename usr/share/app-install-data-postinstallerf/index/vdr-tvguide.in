@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vdr-tvguide</b>'
+Comment='<span size="xx-large">TvGuide is a highly customizable 2D EPG viewer plugin</span>'
+Comment3='
+VDR plugin tvguide - TvGuide is a highly customizable 2D EPG viewer plugin
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.vdr-developer.org/projects/plg-tvguide'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

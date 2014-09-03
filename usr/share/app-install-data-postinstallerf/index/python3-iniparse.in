@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python3-iniparse</b>'
+Comment='<span size="xx-large">Python 3 Module for Accessing and Modifying Configuration Data in INI files</span>'
+Comment3='
+iniparse is an INI parser for Python 3 which is API compatible
+with the standard librarys configparser, preserves structure of INI
+files (order of sections & options, indentation, comments, and blank
+lines are preserved when data is updated), and is more convenient to
+use.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/iniparse/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

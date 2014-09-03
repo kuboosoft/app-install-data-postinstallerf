@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>c-graph</b>'
+Comment='<span size="xx-large">A tool for visualizing convolution</span>'
+Comment3='
+GNU C-Graph is a novel tool for visualizing the mathematical operation
+of convolution underlying natural phenomena susceptible to analysis in
+terms of engineering signals and systems theory. "C-Graph" is an
+abbreviation for "Convolution Graph". The package is derived from the
+BSc. Honors dissertation in Electrical Engineering "Interactive
+Computer Package Demonstrating Sampling Convolution and the FFT",
+Adrienne Gaye Thompson, University of Aberdeen (1983).
+
+The package computes the linear convolution of two signals in the time
+domain then compares their circular convolution by demonstrating the
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/c-graph'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

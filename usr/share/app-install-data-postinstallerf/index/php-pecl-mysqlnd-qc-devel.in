@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pecl-mysqlnd-qc-devel</b>'
+Comment='<span size="xx-large">Mysqlnd_qc developer files (header)</span>'
+Comment3='
+These are the files needed to compile programs using mysqlnd_qc extension.
+
+URL          http//pecl.php.net/package/mysqlnd_qc
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/mysqlnd_qc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

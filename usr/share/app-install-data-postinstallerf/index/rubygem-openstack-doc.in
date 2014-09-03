@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-openstack-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-openstack</span>'
+Comment3='
+Documentation for rubygem-openstack
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/ruby-openstack/ruby-openstack'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

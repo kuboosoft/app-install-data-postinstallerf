@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>phpesp</b>'
+Comment='<span size="xx-large">PHP-based survey web application</span>'
+Comment3='
+PHP scripts to let non-technical users create surveys, administer surveys,
+gather results, view statistics. All managed online after database
+initialization.
+'
+License='BSD'
+Screenshot=''
+Url='http://phpesp.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

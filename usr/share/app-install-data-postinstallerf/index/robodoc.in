@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>robodoc</b>'
+Comment='<span size="xx-large">Extract documentation from source code</span>'
+Comment3='
+  ROBODoc is a documentation tool (based on the AutoDocs program written
+a long time ago by Commodore). It extracts specially formatted comment
+headers from the source file and puts them in a separate file. ROBODoc
+thus allows you to include the program documentation in the source
+code and avoid having to maintain two separate documents.
+
+  ROBODoc can format the documentation in HTML, ASCII, AmigaGuide,
+LaTeX, or RTF format. It is even possible to include parts of the
+source code with function names that point their the documentation. It
+also can create index tables for all your variables, classes,
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://rfsber.home.xs4all.nl/Robo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

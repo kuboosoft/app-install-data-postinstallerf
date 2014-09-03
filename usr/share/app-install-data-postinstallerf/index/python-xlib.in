@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-xlib</b>'
+Comment='<span size="xx-large">X client library for Python</span>'
+Comment3='
+The Python X Library is a complete X11R6 client-side implementation,
+written in pure Python. It can be used to write low-levelish X Windows
+client applications in Python.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://python-xlib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

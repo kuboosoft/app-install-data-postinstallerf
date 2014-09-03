@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-devnag</b>'
+Comment='<span size="xx-large">Typeset Devanagari</span>'
+Comment3='
+Frans Velthuis preprocessor for Devanagari text, and fonts and
+macros to use when typesetting the processed text. The macros
+provide features that support Sanskrit, Hindi, Marathi, Nepali,
+and other languages typically printed in the Devanagari script.
+The fonts are available both in Metafont and Type 1 format.
+
+date 2012-05-07 215617 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

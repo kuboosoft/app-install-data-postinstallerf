@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-site-plugin</b>'
+Comment='<span size="xx-large">Maven Site Plugin</span>'
+Comment3='
+The Maven Site Plugin is a plugin that generates a site for the current project.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-site-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

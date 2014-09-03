@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libapreq2-devel</b>'
+Comment='<span size="xx-large">Development files for libapreq2</span>'
+Comment3='
+Development files for libapreq2.
+
+URL          http//httpd.apache.org/apreq/
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://httpd.apache.org/apreq/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

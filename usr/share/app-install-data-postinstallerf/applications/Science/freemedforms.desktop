@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n freemedforms-emr
+Version=1.0
+Type=Application
+Categories=Education;Science;
+Name=FreeMedForms EMR
+GenericName=FreeMedForms EMR
+Comment=Open source EMR
+Comment[en]=Open source EMR
+Comment[fr]=Gestionnaire de dossiers patients open source
+Icon=/usr/share/app-install-data-postinstallerf/icons/freemedforms.png

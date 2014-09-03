@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>f1lt</b>'
+Comment='<span size="xx-large">Unofficial Formula 1 live timing application</span>'
+Comment3='
+F1LT is a free unofficial Formula 1 live timing application written
+for Windows, Linux, Symbian and Android systems.
+It is an alternative application to the java applet available
+on the formula1.com site. To use the application you only need an account
+on the formula1.com site, the same you are using for connecting to Live Timing
+from formula1.com.
+
+Main features of the application
+ - gathering all live timing data
+ - you can see lap time history of every driver
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://bitbucket.org/pieczar/f1lt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

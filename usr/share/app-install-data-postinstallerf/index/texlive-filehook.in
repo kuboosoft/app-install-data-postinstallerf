@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-filehook</b>'
+Comment='<span size="xx-large">Hooks for input files</span>'
+Comment3='
+The package provides several file hooks (AtBegin, AtEnd, ...)
+for files read by \input, \include and \InputIfFileExists.
+General hooks for all such files (e.g. all \included ones) and
+file specific hooks only used for named files are provided; two
+before, and one after the final \clearpage.
+
+date 2011-10-13 104500 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

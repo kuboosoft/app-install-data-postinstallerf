@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>man-pages-zh-CN</b>'
+Comment='<span size="xx-large">Chinese Man Pages from Chinese Man Pages Project</span>'
+Comment3='
+manpages-zh is a sub-project from i18n-zh, from the Chinese Man Pages
+Project (CMPP). However, the original CMPP seems inactive, nor can the
+original home page (cmpp.linuxforum.net) be visited.
+
+This project revives and maintains the remains of CMPP.
+So far the simplified Chinese is packed.
+'
+License='GFDL'
+Screenshot=''
+Url='http://code.google.com/p/manpages-zh/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

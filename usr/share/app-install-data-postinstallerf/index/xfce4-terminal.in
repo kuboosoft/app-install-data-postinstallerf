@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xfce4-terminal</b>'
+Comment='<span size="xx-large">X Terminal Emulator for the Xfce Desktop environment</span>'
+Comment3='
+Xfce4-terminal is a lightweight and easy to use terminal emulator application
+for the X windowing system, with some new ideas and features that make
+it unique among X terminal emulators.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://docs.xfce.org/apps/terminal/start'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

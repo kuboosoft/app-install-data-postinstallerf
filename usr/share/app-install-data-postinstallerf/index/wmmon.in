@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>wmmon</b>'
+Comment='<span size="xx-large">Nice system monitor for WindowMaker</span>'
+Comment3='
+WMMon monitors the realtime CPU load as well the average
+system load and gives you some nice additional features too...
+
+WMMon currently provides
+ * Realtime CPU stress meter;
+ * Average system load, like xload & wmavgload;
+ * Average system load graph is auto-scaling;
+ * Realtime Disk I/O stress meter;
+ * Average Disk I/O load graph (auto-scaling);
+'
+License='GPLv2'
+Screenshot=''
+Url='http://repo.or.cz/w/dockapps.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

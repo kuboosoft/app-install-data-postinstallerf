@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>travelccm-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development helper tools for travelccm</span>'
+Comment3='
+This package contains the header files, shared libraries and
+development helper tools for travelccm. If you would like to develop
+programs using travelccm, you will need to install travelccm-devel.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/travel-ccm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

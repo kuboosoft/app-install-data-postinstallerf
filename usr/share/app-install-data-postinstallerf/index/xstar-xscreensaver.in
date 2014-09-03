@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xstar-xscreensaver</b>'
+Comment='<span size="xx-large">XScreenSaver support for xstar</span>'
+Comment3='
+This package contains the files needed to use xstar with XScreenSaver.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.schlitt.net/xstar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

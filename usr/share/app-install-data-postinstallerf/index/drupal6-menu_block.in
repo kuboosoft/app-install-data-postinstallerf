@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>drupal6-menu_block</b>'
+Comment='<span size="xx-large">Menu Block Module for Drupal6</span>'
+Comment3='
+Menu Block Module provides configurable blocks of menu trees starting with
+any level of any menu.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/menu_block'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

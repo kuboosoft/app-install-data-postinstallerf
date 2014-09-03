@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Crypt-SMIME</b>'
+Comment='<span size="xx-large">S/MIME message signing, verification, encryption and decryption</span>'
+Comment3='
+This module provides a class for handling S/MIME messages. It can sign,
+verify, encrypt and decrypt messages. It requires libcrypto
+(http//www.openssl.org) to work.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-SMIME/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

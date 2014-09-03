@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wbfs-manager</b>'
+Comment='<span size="xx-large">A WBFS manager for Linux using GTK+</span>'
+Comment3='
+This is yet another graphic WBFS (Wii Backup File System) manager
+for Linux. It uses libwbfs from Kwiirk and caristat
+(available from the authors at
+http//github.com/kwiirk/wbfs/tree/master).
+'
+License='GPLv2'
+Screenshot=''
+Url='http://code.google.com/p/linux-wbfs-manager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

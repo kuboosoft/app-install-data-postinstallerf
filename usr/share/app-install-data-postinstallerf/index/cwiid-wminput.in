@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cwiid-wminput</b>'
+Comment='<span size="xx-large">Enables using the wiimote as an input source</span>'
+Comment3='
+This program allows the user to use the wiimote to emulate normal system
+input sources like the mouse and keyboard.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://abstrakraft.org/cwiid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

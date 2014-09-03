@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsss_idmap</b>'
+Comment='<span size="xx-large">FreeIPA Idmap library</span>'
+Comment3='
+Utility library to convert SIDs to Unix uids and gids
+
+URL          http//fedorahosted.org/sssd/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

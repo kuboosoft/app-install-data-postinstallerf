@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>unixODBC</b>'
+Comment='<span size="xx-large">A complete ODBC driver manager for Linux</span>'
+Comment3='
+Install unixODBC if you want to access databases through ODBC.
+You will also need the mysql-connector-odbc package if you want to access
+a MySQL database, and/or the postgresql-odbc package for PostgreSQL.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.unixODBC.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>javacc-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for javacc</span>'
+Comment3='
+This package contains the API documentation for javacc.
+'
+License='BSD'
+Screenshot=''
+Url='http://javacc.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

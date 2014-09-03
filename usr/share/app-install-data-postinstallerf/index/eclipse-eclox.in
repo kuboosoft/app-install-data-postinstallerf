@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eclipse-eclox</b>'
+Comment='<span size="xx-large">Eclipse-based doxygen plugin</span>'
+Comment3='
+Eclox is a doxygen frontend plug-in for eclipse.
+It aims to provide a slim and sleek integration of the
+code documentation process into eclipse.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://eclox.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pharosc-xcircuit</b>'
+Comment='<span size="xx-large">VLSI and ASIC Standard Cell Libraries for XCircuit</span>'
+Comment3='
+VLSI and ASIC Technology Standard Cell Libraries for XCircuit.
+The schematic symbol library (in vlsi_lib.lps) has been set up so
+that each transistor shows its width in lambda, with a transistor
+length of 2 lambda being assumed by default.
+
+In the /usr/share/pharosc/xcircuit/cells/vsclib directory, the .ps
+files are the schematics; the .spc files are the Spice decks
+written from xcircuit; and the .spi files are the .spc files
+packaged into a subcircuit. These subcircuits are copied into
+/usr/share/pharosc/xcircuit/subckt/vsclib.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vlsitechnology.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

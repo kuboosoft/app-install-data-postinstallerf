@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-plates</b>'
+Comment='<span size="xx-large">Arrange for "plates" sections of documents</span>'
+Comment3='
+The plates package provides a simple facility for inserting
+colour figures in a document when they should be gathered and
+printed together as in a books section of colour plates. The
+package provides a plate environment that takes the place of
+the figure environment for such colour images.
+
+date 2007-01-08 003716 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-dox</b>'
+Comment='<span size="xx-large">Extend the doc package</span>'
+Comment3='
+The doc package provides LaTeX developers with means to
+describe the usage and the definition of new macros and
+environments. However, there is no simple way to extend this
+functionality to other items (options or counters, for
+instance). The DoX package is designed to circumvent this
+limitation.
+
+date 2010-12-16 201825 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

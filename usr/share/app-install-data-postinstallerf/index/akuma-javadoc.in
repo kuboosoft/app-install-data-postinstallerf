@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>akuma-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for akuma</span>'
+Comment3='
+This package provides the API documentation for akuma.
+'
+License='MIT'
+Screenshot=''
+Url='http://akuma.kohsuke.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

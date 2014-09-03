@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cddlib-tools</b>'
+Comment='<span size="xx-large">Sample binaries that use cddlib</span>'
+Comment3='
+Sample binaries that use cddlib.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ifor.math.ethz.ch/~fukuda/cdd_home/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-inherits</b>'
+Comment='<span size="xx-large">A tiny simple way to do classic inheritance in js</span>'
+Comment3='
+A tiny simple way to do classic inheritance in js.
+'
+License='WTFPL'
+Screenshot=''
+Url='https://github.com/isaacs/inherits'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

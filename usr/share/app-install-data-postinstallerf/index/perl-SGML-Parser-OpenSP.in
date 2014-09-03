@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-SGML-Parser-OpenSP</b>'
+Comment='<span size="xx-large">Perl interface to the OpenSP SGML and XML parser</span>'
+Comment3='
+SGMLParserOpenSP provides a native Perl interface, written in C++
+and XS, to the OpenSP SGML and XML parser.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/SGML-Parser-OpenSP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

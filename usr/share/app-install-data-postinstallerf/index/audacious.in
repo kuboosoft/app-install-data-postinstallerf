@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>audacious</b>'
+Comment='<span size="xx-large">Advanced audio player</span>'
+Comment3='
+Audacious is an advanced audio player. It is free, lightweight, currently
+based on GTK+ 3, runs on Linux and many other *nix platforms and is
+focused on audio quality and supporting a wide range of audio codecs.
+It still features an alternative skinned user interface (based on
+Winamp 2.x skins). Historically, it started as a fork of Beep Media
+Player (BMP), which itself forked from XMMS.
+'
+License='BSD'
+Screenshot=''
+Url='http://audacious-media-player.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

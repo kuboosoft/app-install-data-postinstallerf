@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pynetsnmp-twisted</b>'
+Comment='<span size="xx-large">Twisted integration for pynetsnmp</span>'
+Comment3='
+The pynetsnmp-twisted package contains the twisted integration for pynetsnmp
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.zenoss.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

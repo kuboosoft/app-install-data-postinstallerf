@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>psi-plus-i18n</b>'
+Comment='<span size="xx-large">Language packs for Psi</span>'
+Comment3='
+Psi+ - Psi IM Mod by psi-dev@conference.jabber.ru
+This package adds internationalization to Psi+.
+'
+License='GPLv2+ and LGPLv2+ and BSD and MIT and zlib'
+Screenshot=''
+Url='http://code.google.com/p/psi-dev/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

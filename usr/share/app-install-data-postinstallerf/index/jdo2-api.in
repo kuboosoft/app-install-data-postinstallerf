@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jdo2-api</b>'
+Comment='<span size="xx-large">Implementation of JSR 243: Java Data Objects 2.0</span>'
+Comment3='
+The Java Data Objects 2 (JDO) API is a standard interface-based
+Java model abstraction of persistence, developed as Java Specification
+Request 243 under the auspices of the Java Community Process.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://db.apache.org/jdo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

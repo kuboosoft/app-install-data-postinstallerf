@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ogre-paging</b>'
+Comment='<span size="xx-large">OGRE component for terrain paging</span>'
+Comment3='
+Provides paging functionality. In essence it allows worlds to be rendered
+and loaded at the same time.
+
+'
+License='MIT with exceptions and CC-BY-SA and Freely redistributable without restriction'
+Screenshot=''
+Url='http://www.ogre3d.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

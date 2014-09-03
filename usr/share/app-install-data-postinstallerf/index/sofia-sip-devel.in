@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sofia-sip-devel</b>'
+Comment='<span size="xx-large">Sofia-SIP Development Package</span>'
+Comment3='
+Development package for Sofia SIP UA library.
+
+URL          http//sofia-sip.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sofia-sip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

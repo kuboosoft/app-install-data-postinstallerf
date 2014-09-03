@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-CPANPLUS-Dist-Fedora</b>'
+Comment='<span size="xx-large">CPANPLUS backend to build Fedora/RedHat RPMs</span>'
+Comment3='
+This is a distribution class to create Fedora packages from CPAN modules,
+and all its dependencies. This allows you to have the most recent copies of
+CPAN modules installed, using your package manager of choice, but without
+having to wait for central repositories to be updated.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPANPLUS-Dist-Fedora/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

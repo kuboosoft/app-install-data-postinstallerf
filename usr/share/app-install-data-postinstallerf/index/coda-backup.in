@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>coda-backup</b>'
+Comment='<span size="xx-large">Backup coordinator for the Coda distributed file system</span>'
+Comment3='
+This package contains the backup software for the Coda file system, as
+well as the volume utilities.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.coda.cs.cmu.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

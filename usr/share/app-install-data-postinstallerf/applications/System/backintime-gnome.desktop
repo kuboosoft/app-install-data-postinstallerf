@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n backintime-gnome
+Name=Back In Time
+Icon=/usr/share/app-install-data-postinstallerf/icons/backintime.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;System;
+Comment=Simple backup system
+Comment[sl]=Enostaven sistem ustvarjanja varnostnih kopij

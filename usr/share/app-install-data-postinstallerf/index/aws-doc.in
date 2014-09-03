@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>aws-doc</b>'
+Comment='<span size="xx-large">Documentation  for aws</span>'
+Comment3='
+Documentation  for aws
+'
+License='GPLv3+ with exceptions and GPLv2+'
+Screenshot=''
+Url='http://libre.adacore.com/tools/aws'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

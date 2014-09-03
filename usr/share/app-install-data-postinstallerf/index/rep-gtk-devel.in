@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rep-gtk-devel</b>'
+Comment='<span size="xx-large">Development files for rep-gtk</span>'
+Comment3='
+Link libraries and C header files for librep development.
+
+URL          http//sawfish.wikia.com/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sawfish.wikia.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

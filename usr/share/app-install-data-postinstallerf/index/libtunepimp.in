@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtunepimp</b>'
+Comment='<span size="xx-large">A library for creating MusicBrainz enabled tagging applications</span>'
+Comment3='
+The TunePimp library is a development library geared towards developers
+who wish to create MusicBrainz enabled tagging applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://musicbrainz.org/doc/libtunepimp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

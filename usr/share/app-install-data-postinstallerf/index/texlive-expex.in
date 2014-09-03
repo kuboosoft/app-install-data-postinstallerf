@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-expex</b>'
+Comment='<span size="xx-large">Format linguistic examples and glosses, with reference capabilities</span>'
+Comment3='
+The package provides macros for typesetting linguistic examples
+and glosses, with a refined mechanism for referencing examples
+and parts of examples. The package was written for use with
+Plain TeX, but is usable with LaTeX with the wrapper .sty file.
+
+date 2013-08-05 235223 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

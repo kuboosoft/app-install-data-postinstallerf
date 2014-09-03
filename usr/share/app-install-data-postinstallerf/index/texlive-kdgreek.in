@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-kdgreek</b>'
+Comment='<span size="xx-large">Greek fonts and macros</span>'
+Comment3='
+The fonts are distributed as MetaFont source; the design
+derives from Silvio Levy?s fonts, but has also been
+influenced by Yannis Haralambous? work. They are 8-bit fonts
+which, the author believes, leads to more robust macro
+programming. Both ancient and modern Greek are supported.
+Macros to work with Plain TeX (?greektex?) and with LaTeX
+2.09 (?grlatex?) are provided.
+
+date 2008-10-18 011840 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

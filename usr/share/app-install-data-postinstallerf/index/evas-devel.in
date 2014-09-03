@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>evas-devel</b>'
+Comment='<span size="xx-large">Development files for evas</span>'
+Comment3='
+The evas-devel package contains libraries and header files for
+developing applications that use evas.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://web.enlightenment.org/p.php?p=about/efl&l=en'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

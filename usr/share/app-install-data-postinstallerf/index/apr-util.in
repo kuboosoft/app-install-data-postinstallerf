@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>apr-util</b>'
+Comment='<span size="xx-large">Apache Portable Runtime Utility library</span>'
+Comment3='
+The mission of the Apache Portable Runtime (APR) is to provide a
+free library of C data structures and routines.  This library
+contains additional utility interfaces for APR; including support
+for XML, LDAP, database interfaces, URI parsing and more.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://apr.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

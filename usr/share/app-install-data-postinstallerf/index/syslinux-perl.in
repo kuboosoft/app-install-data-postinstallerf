@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>syslinux-perl</b>'
+Comment='<span size="xx-large">Syslinux tools written in perl</span>'
+Comment3='
+Syslinux tools written in perl
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

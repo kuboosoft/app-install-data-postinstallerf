@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Attribute-Chained</b>'
+Comment='<span size="xx-large">Attribute that returns the instance to allow for chaining</span>'
+Comment3='
+MooseXAttributeChained is a Moose Trait which allows for method
+chaining on accessors by returning $self on write/set operations.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Attribute-Chained/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

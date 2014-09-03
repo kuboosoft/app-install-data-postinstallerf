@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>relaxngDatatype-javadoc</b>'
+Comment='<span size="xx-large">API documentation for relaxngDatatype</span>'
+Comment3='
+This package provides relaxngDatatype.
+'
+License='BSD'
+Screenshot=''
+Url='https://sourceforge.net/projects/relaxng'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

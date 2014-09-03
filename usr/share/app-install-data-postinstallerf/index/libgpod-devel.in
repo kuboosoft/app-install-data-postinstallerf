@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libgpod-devel</b>'
+Comment='<span size="xx-large">Development files for the libgpod library</span>'
+Comment3='
+Libgpod is a library to access the contents of an iPod. It supports playlists,
+smart playlists, playcounts, ratings, podcasts, album artwork, photos, etc.
+
+This package contains the files required to develop programs that will use
+libgpod.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkpod.org/libgpod.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>codemodel-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for codemodel</span>'
+Comment3='
+This package contains the API documentation for codemodel.
+'
+License='CDDL and GPLv2'
+Screenshot=''
+Url='http://codemodel.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

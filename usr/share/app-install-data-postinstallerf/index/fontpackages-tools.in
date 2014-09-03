@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fontpackages-tools</b>'
+Comment='<span size="xx-large">Tools used to check fonts and font packages</span>'
+Comment3='
+This package contains tools used to check fonts and font packages
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/fontpackages'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

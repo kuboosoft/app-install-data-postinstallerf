@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>contextkit</b>'
+Comment='<span size="xx-large">Contextual information collection framework</span>'
+Comment3='
+This is ContextKit, a framework for collecting contextual
+information from the bowels of the system, cleaning them up
+and offering them through a simple API.
+
+The ContextKit consists of
+- libcontextprovider, a convenience library to export
+  contextual properties to the rest of the system.
+- user documentation including a list of standard context properties
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://gitorious.org/maemo-af/contextkit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

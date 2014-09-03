@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ws-jaxme</b>'
+Comment='<span size="xx-large">Open source implementation of JAXB</span>'
+Comment3='
+A Java/XML binding compiler takes as input a schema
+description (in most cases an XML schema, but it may
+be a DTD, a RelaxNG schema, a Java class inspected
+via reflection, or a database schema). The output is
+a set of Java classes
+* A Java bean class matching the schema description.
+  (If the schema was obtained via Java reflection,
+  the original Java bean class.)
+* Read a conforming XML document and convert it into
+  the equivalent Java bean.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ws.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

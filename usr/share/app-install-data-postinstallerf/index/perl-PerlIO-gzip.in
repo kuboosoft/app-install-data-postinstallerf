@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-PerlIO-gzip</b>'
+Comment='<span size="xx-large">Perl extension to provide a PerlIO layer to gzip/gunzip</span>'
+Comment3='
+PerlIOgzip provides a PerlIO layer that manipulates files in the format
+used by the gzip program. Compression and decompression are implemented.
+
+This is akin to CompressZlib, except that it operates at the lower PerlIO
+layer.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PerlIO-gzip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

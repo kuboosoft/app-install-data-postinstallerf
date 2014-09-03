@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>crontabs</b>'
+Comment='<span size="xx-large">Root crontab files used to schedule the execution of programs</span>'
+Comment3='
+This package is used by Fedora mainly for executing files by cron.
+
+The crontabs package contains root crontab files and directories.
+You will need to install cron daemon to run the jobs from the crontabs.
+The cron daemon such as cronie or fcron checks the crontab files to
+see when particular commands are scheduled to be executed.  If commands
+are scheduled, it executes them.
+Crontabs handles a basic system function, so it should be installed on
+your system.
+'
+License='Public Domain and GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/crontabs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

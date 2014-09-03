@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>juffed-plugin-favorites</b>'
+Comment='<span size="xx-large">Favorites plugin for juffed</span>'
+Comment3='
+Favorite files menu plugin.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

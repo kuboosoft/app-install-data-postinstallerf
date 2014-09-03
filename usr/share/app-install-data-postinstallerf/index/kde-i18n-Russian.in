@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-i18n-Russian</b>'
+Comment='<span size="xx-large">Russian(ru) language support for KDE3</span>'
+Comment3='
+Russian(ru) language support for KDE3.
+'
+License='GFDL'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n quitcount
+Name=QuitCount
+Icon=/usr/share/app-install-data-postinstallerf/icons/quitcount.png
+Categories=Application;Utility;GTK;
+Comment=Simple counter showing your gains since you quit smoking
+Terminal=false
+Type=Application
+StartupNotify=false

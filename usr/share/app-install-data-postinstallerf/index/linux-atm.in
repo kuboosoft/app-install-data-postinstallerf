@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>linux-atm</b>'
+Comment='<span size="xx-large">Tools to support ATM networking under Linux</span>'
+Comment3='
+Tools to support ATM networking under Linux.
+'
+License='BSD and GPLv2 and GPLv2+ and LGPLv2+ and MIT'
+Screenshot=''
+Url='http://linux-atm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

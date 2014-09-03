@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-genmisc</b>'
+Comment='<span size="xx-large">genmisc package</span>'
+Comment3='
+genmisc package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

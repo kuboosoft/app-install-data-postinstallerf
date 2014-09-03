@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-typepad</b>'
+Comment='<span size="xx-large">Connectivity to the TypePad API through remote objects</span>'
+Comment3='
+The typepad package contains RemoteObject implementations for TypePads
+content objects and an OAuth client for making authenticated requests to
+the API.
+'
+License='BSD'
+Screenshot=''
+Url='http://sixapart.github.com/python-typepad-api/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

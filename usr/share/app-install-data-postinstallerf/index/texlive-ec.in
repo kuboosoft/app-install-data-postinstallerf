@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-ec</b>'
+Comment='<span size="xx-large">Computer modern fonts in T1 and TS1 encodings</span>'
+Comment3='
+The EC fonts are European Computer Modern Fonts, supporting the
+complete LaTeX T1 encoding defined at the 1990 TUG conference
+hold at Cork/Ireland. These fonts are intended to be stable
+with no changes being made to the tfm files. The set also
+contains a Text Companion Symbol font, called tc, featuring
+many useful characters needed in text typesetting, for example
+oldstyle digits, currency symbols (including the newly created
+Euro symbol), the permille sign, copyright, trade mark and
+servicemark as well as a copyleft sign, and many others. Recent
+releases of LaTeX2e support the EC fonts. The EC fonts
+'
+License='ec'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libfap</b>'
+Comment='<span size="xx-large">An APRS parser written in C</span>'
+Comment3='
+libfap is an APRS (Amateur Packet Reporting System) parser that can decode
+normal, mic-e and compressed location packets, NMEA location packets,
+objects, items, messages, telemetry and most weather packets.
+
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://pakettiradio.net/libfap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

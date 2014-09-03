@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>simple-jndi-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for simple-jndi</span>'
+Comment3='
+This package contains javadoc for simple-jndi.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/osjava/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-pillow-tk</b>'
+Comment='<span size="xx-large">Tk interface for python-pillow</span>'
+Comment3='
+Tk interface for python-pillow.
+'
+License='MIT'
+Screenshot=''
+Url='http://python-imaging.github.com/Pillow/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-tkz-linknodes</b>'
+Comment='<span size="xx-large">Link nodes in mathematical environments</span>'
+Comment3='
+The package arose from a requirement to link the elements of an
+amsmath align or aligned environment. The package makes use of
+PGF/TikZ. The package documentation relies on the facilities of
+the tkz-doc bundle
+
+date 2011-06-05 231023 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>OpenThreads-devel</b>'
+Comment='<span size="xx-large">Devel files for OpenThreads</span>'
+Comment3='
+Development files for OpenThreads.
+
+URL          http//www.openscenegraph.org/
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.openscenegraph.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

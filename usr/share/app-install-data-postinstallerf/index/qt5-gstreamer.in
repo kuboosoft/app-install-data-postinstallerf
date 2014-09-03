@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qt5-gstreamer</b>'
+Comment='<span size="xx-large">C++ bindings for GStreamer with a Qt5-style API</span>'
+Comment3='
+QtGStreamer provides C++ bindings for GStreamer with a Qt-style
+API, plus some helper classes for integrating GStreamer better
+in Qt5 applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gstreamer.freedesktop.org/wiki/QtGStreamer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

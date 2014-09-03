@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wxsqlite3</b>'
+Comment='<span size="xx-large">C++ wrapper around the SQLite 3.x database</span>'
+Comment3='
+wxSQLite3 is a C++ wrapper around the public domain SQLite 3.x database and is
+specifically designed for use in programs based on the wxWidgets library.
+wxSQLite3 does not try to hide the underlying database, in contrary almost all
+special features of the current SQLite3 version 3.6.22 are supported, like for
+example the creation of user defined scalar or aggregate functions. Since
+SQLite stores strings in UTF-8 encoding, the wxSQLite3 methods provide
+automatic conversion between wxStrings and UTF-8 strings. This works best for
+the Unicode builds of wxWidgets. In ANSI builds the current locale conversion
+object (wxConvCurrent) is used for conversion to/from UTF-8. Special care has
+to be taken if external administration tools are used to modify the database
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://wxcode.sourceforge.net/components/wxsqlite3/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

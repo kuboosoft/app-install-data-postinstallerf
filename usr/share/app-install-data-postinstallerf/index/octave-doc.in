@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>octave-doc</b>'
+Comment='<span size="xx-large">Documentation for Octave</span>'
+Comment3='
+This package contains documentation for Octave.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.octave.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

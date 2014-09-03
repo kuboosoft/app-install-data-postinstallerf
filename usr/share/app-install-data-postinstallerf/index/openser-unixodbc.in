@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openser-unixodbc</b>'
+Comment='<span size="xx-large">OpenSER unixODBC Storage support</span>'
+Comment3='
+The openser-unixodbc package contains the unixODBC plugin for openser, which
+allows a unixODBC to be used for persistent storage
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

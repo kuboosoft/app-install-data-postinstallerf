@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-tpic2pdftex-bin</b>'
+Comment='<span size="xx-large">Binaries for tpic2pdftex</span>'
+Comment3='
+Binaries for tpic2pdftex
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

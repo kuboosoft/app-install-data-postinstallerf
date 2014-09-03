@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>makeself</b>'
+Comment='<span size="xx-large">Make self-extractable archives on Unix</span>'
+Comment3='
+makeself.sh is a shell script that generates a self-extractable
+tar.gz archive from a directory. The resulting file appears as a shell
+script, and can be launched as is. The archive will then uncompress
+itself to a temporary directory and an arbitrary command will be
+executed (for example an installation script). This is pretty similar
+to archives generated with WinZip Self-Extractor in the Windows world.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.megastep.org/makeself/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>psiconv</b>'
+Comment='<span size="xx-large">A conversion utility for Psion files</span>'
+Comment3='
+A conversion utility for the Psion files
+
+URL          http//software.frodo.looijaard.name/psiconv/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://software.frodo.looijaard.name/psiconv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

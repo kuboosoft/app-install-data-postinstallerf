@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>texlive-collection-latexrecommended</b>'
+Comment='<span size="xx-large">LaTeX recommended packages</span>'
+Comment3='
+A collection of recommended add-on packages for LaTeX which
+have widespread use.
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

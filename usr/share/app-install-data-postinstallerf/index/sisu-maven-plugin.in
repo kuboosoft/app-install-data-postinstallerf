@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sisu-maven-plugin</b>'
+Comment='<span size="xx-large">Sisu plugin for Apache Maven</span>'
+Comment3='
+The Sisu Plugin for Maven provides mojos to generate
+META-INF/sisu/javax.inject.Named index files for the Sisu container.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/sisu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

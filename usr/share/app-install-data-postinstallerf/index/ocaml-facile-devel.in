@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-facile-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-facile</span>'
+Comment3='
+The ocaml-facile-devel package contains libraries and signature files for
+developing applications that use ocaml-facile.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.recherche.enac.fr/log/facile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

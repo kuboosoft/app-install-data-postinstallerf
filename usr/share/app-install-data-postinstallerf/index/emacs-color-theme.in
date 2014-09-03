@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>emacs-color-theme</b>'
+Comment='<span size="xx-large">Color themes for Emacs</span>'
+Comment3='
+Emacs Color Themes is an add-on package for GNU Emacs.
+It provides a lot of different color themes to skin your Emacs greatly
+improving the editing experience. It also includes a neat framework to
+help you creating new themes from your current emacs customizations.
+Also features an easy way to share your custom themes with the world.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/color-theme'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

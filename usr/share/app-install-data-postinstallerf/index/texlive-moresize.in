@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-moresize</b>'
+Comment='<span size="xx-large">Allows font sizes up to 35.83pt</span>'
+Comment3='
+A package for using font sizes up to 35.88pt, for example with
+the EC fonts. New commands \HUGE and \ssmall for selecting font
+sizes are provided together with some options working around
+current LaTeX2e shortcomings in using big font sizes. The
+package also provides options for improving the typesetting of
+paragraphs (or headlines) with embedded math expressions at
+font sizes above 17.28pt.
+
+date 2010-03-20 192331 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

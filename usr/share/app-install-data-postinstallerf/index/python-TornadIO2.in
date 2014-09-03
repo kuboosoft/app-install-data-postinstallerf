@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-TornadIO2</b>'
+Comment='<span size="xx-large">Socket.io server on top of Tornado framework</span>'
+Comment3='
+This is python server implementation of the Socket.IO real-time transport
+library on top of the Tornado framework. TornadIO2 is compatible with 0.7+
+version of the Socket.IO and implements most of the features found in original
+Socket.IO server software.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/MrJoes/tornadio2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Module-Build</b>'
+Comment='<span size="xx-large">Build and install Perl modules</span>'
+Comment3='
+ModuleBuild is a system for building, testing, and installing Perl
+modules. It is meant to be an alternative to ExtUtilsMakeMaker.
+Developers may alter the behavior of the module through sub-classing in a
+much more straightforward way than with MakeMaker. It also does not require
+a make on your system - most of the ModuleBuild code is pure-perl and
+written in a very cross-platform way. In fact, you dont even need a shell,
+so even platforms like MacOS (traditional) can use it fairly easily. Its
+only prerequisites are modules that are included with perl 5.6.0, and it
+works fine on perl 5.005 if you can install a few additional modules.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Build/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

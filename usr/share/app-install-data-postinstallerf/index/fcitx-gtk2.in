@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fcitx-gtk2</b>'
+Comment='<span size="xx-large">Fcitx IM module for gtk2</span>'
+Comment3='
+This package contains Fcitx IM module for gtk2.
+
+URL          https//fcitx-im.org/wiki/Fcitx
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/Fcitx'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

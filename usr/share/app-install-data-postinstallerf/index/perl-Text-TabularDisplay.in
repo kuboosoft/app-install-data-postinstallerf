@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Text-TabularDisplay</b>'
+Comment='<span size="xx-large">Display text in formatted table output</span>'
+Comment3='
+TextTabularDisplay simplifies displaying textual data in a table. The
+output is identical to the columnar display of query results in the mysql
+text monitor.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-TabularDisplay/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

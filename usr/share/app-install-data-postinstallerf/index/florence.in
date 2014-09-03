@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>florence</b>'
+Comment='<span size="xx-large">Extensible scalable on-screen virtual keyboard for GNOME</span>'
+Comment3='
+Florence is an extensible scalable virtual keyboard for GNOME.
+You need it if you cant use a real hardware keyboard, for
+example because you are disabled, your keyboard is broken or
+because you use a tablet PC, but you must be able to use a pointing
+device (as a mouse, a trackball or a touchscreen).
+
+Florence stays out of your way when you dont need it
+it appears on the screen only when you need it.
+A Timer-based auto-click functionality is available
+to help disabled people having difficulties to click.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://florence.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

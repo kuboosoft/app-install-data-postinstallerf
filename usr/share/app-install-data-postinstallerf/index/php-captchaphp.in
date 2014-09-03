@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-captchaphp</b>'
+Comment='<span size="xx-large">PHP very user-friendly CAPTCHA solution</span>'
+Comment3='
+  This PHP script provides a very user-friendly CAPTCHA solution.
+You can easily embed it into your <form> generation scripts to
+prevent spam-bot access.
+
+It strives to be accessible and implements an arithmetic riddle
+as alternative for visually impaired users. It does not require
+cookies, but makes use of "AJAX" to give users visual feedback
+for solving the CAPTCHA. It grants access fuzzily (when single
+letters were outguessed) instead of frustrating people. And it
+can be customized rather easily.
+'
+License='Public Domain or MIT'
+Screenshot=''
+Url='http://freshmeat.net/projects/captchaphp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

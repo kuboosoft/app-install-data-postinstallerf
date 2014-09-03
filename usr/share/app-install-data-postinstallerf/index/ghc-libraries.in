@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-libraries</b>'
+Comment='<span size="xx-large">GHC development libraries meta package</span>'
+Comment3='
+This is a meta-package for all the development library packages in GHC
+except the ghc library, which is installed by the toplevel ghc metapackage.
+'
+License='BSD and HaskellReport'
+Screenshot=''
+Url='http://haskell.org/ghc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

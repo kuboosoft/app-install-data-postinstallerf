@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>flyingsaucer-demos</b>'
+Comment='<span size="xx-large">Demostrations and samples for flyingsaucer</span>'
+Comment3='
+This package contains demostrations and samples for flyingsaucer.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/flying-saucer/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

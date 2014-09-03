@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-bitops</b>'
+Comment='<span size="xx-large">Functions for Bitwise operations</span>'
+Comment3='
+Functions for Bitwise operations on integer vectors.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/bitops/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

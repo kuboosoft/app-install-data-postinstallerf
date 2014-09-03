@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fbdesk</b>'
+Comment='<span size="xx-large">Icon Manager for Fluxbox</span>'
+Comment3='
+FbDesk is a fluxbox-util application that creates and manages icons on your
+Fluxbox desktop.
+'
+License='MIT'
+Screenshot=''
+Url='http://fluxbox.sourceforge.net/fbdesk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

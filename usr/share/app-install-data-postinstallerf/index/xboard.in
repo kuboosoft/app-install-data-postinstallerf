@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xboard</b>'
+Comment='<span size="xx-large">An X Window System graphical chessboard</span>'
+Comment3='
+Xboard is an X Window System based graphical chessboard which can be
+used with the GNU chess and Crafty chess programs, with Internet Chess
+Servers (ICSs), with chess via email, or with your own saved games.
+
+Install the xboard package if you need a graphical chessboard.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://www.gnu.org/software/xboard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

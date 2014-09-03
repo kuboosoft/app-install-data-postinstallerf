@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-enchant</b>'
+Comment='<span size="xx-large">Python 3 bindings for Enchant spellchecking library</span>'
+Comment3='
+PyEnchant is a spellchecking library for Python 3, based on the Enchant
+library by Dom Lachowicz.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://packages.python.org/pyenchant/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

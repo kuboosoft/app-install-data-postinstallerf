@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-ipython-tests</b>'
+Comment='<span size="xx-large">Tests for ipython</span>'
+Comment3='
+This package contains the tests of ipython.
+You can check this way, if ipython works on your platform.
+'
+License='(BSD and MIT and Python) and GPLv2+'
+Screenshot=''
+Url='http://ipython.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>notify-sharp-devel</b>'
+Comment='<span size="xx-large">Development files for notify-sharp</span>'
+Comment3='
+Development files for notify-sharp
+
+URL          http//trac.galago-project.org/wiki/DesktopNotifications
+'
+License='MIT'
+Screenshot=''
+Url='http://trac.galago-project.org/wiki/DesktopNotifications'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

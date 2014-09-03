@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-facets</b>'
+Comment='<span size="xx-large">The single most extensive additions and extensions library available for Ruby</span>'
+Comment3='
+The single most extensive additions and extensions library available for Ruby
+'
+License='Ruby'
+Screenshot=''
+Url='http://rubyforge.org/projects/facets/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

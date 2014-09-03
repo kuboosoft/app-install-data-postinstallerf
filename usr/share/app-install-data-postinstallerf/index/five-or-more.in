@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>five-or-more</b>'
+Comment='<span size="xx-large">GNOME "Five or More" game</span>'
+Comment3='
+Move balls around the grid and try and form lines. Once you form five in a
+row, the line disappears. Unfortunately more balls keep dropping in.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://live.gnome.org/Five_or_more'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

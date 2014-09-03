@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-everypage</b>'
+Comment='<span size="xx-large">Provide hooks to be run on every page of a document</span>'
+Comment3='
+The package provides hooks to perform actions on every page, or
+on the current page. Specifically, actions are performed after
+the page is composed, but before it is shipped, so they can be
+used to prepare the output page in tasks like putting
+watermarks in the background, or in setting the next page
+layout, etc.
+
+date 2008-02-19 193119 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mate-file-manager-open-terminal</b>'
+Comment='<span size="xx-large">Mate-file-manager extension for an open terminal shortcut</span>'
+Comment3='
+The mate-file-manager-open-terminal extension provides a right-click "Open
+Terminal" option for mate-file-manager users who prefer that option.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

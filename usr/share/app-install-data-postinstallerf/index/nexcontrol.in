@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nexcontrol</b>'
+Comment='<span size="xx-large">Software to control your Celestron NexStar Telescope</span>'
+Comment3='
+NexControl is a perl code to interface with
+the NexStar series of scopes from Celestron.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mybrainhurts.com/projects/nexcontrol/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

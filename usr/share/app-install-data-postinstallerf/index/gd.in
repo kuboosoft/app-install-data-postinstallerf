@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gd</b>'
+Comment='<span size="xx-large">A graphics library for quick creation of PNG or JPEG images</span>'
+Comment3='
+The gd graphics library allows your code to quickly draw images
+complete with lines, arcs, text, multiple colors, cut and paste from
+other images, and flood fills, and to write out the result as a PNG or
+JPEG file. This is particularly useful in Web applications, where PNG
+and JPEG are two of the formats accepted for inline images by most
+browsers. Note that gd is not a paint program.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://libgd.bitbucket.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

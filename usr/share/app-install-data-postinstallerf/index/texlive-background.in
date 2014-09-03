@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-background</b>'
+Comment='<span size="xx-large">Placement of background material on pages of a document</span>'
+Comment3='
+The package offers the placement of background material on the
+pages of a document. The user can control many aspects
+(contents, position, color, opacity) of the background material
+that will be displayed. The package makes use of the everypage
+package, and uses pgf/tikz for attribute control.
+
+date 2012-07-18 173810 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Net-ARP</b>'
+Comment='<span size="xx-large">Create and Send ARP Packets</span>'
+Comment3='
+This module is a Perl extension to create and send ARP packets and lookup
+local or remote mac addresses. You do not need to install any additional
+libraries like Libnet to compile this extension. It uses kernel header files
+to create the packets.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-ARP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

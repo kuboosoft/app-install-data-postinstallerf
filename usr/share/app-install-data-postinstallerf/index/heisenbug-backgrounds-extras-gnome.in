@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>heisenbug-backgrounds-extras-gnome</b>'
+Comment='<span size="xx-large">Extra Heisenbug Wallpapers for Gnome and Cinnamon</span>'
+Comment3='
+This package contains Heisenbug supplemental wallpapers for Gnome
+and Cinnamon
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F20_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

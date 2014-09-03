@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>samba-pidl</b>'
+Comment='<span size="xx-large">Perl IDL compiler</span>'
+Comment3='
+The samba4-pidl package contains the Perl IDL compiler used by Samba
+and Wireshark to parse IDL and similar protocols
+
+The samba-pidl package contains the Perl IDL compiler used by Samba
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

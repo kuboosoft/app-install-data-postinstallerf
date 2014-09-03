@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-context-lilypond</b>'
+Comment='<span size="xx-large">Lilypond code in ConTeXt</span>'
+Comment3='
+Includes lilypond music definitions direct in a ConTeXt
+document.
+
+date 2010-03-12 172527 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

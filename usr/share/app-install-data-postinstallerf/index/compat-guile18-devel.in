@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>compat-guile18-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for the GUILE extensibility library</span>'
+Comment3='
+The compat-guile18-devel package includes the libraries, header files, etc.,
+that youll need to develop applications that are linked with the
+GUILE extensibility library.
+
+You need to install the compat-guile18-devel package if you want to develop
+applications that will be linked to GUILE.  Youll also need to install the
+compat-guile18 package.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/guile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

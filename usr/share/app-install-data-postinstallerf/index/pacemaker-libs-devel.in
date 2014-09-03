@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pacemaker-libs-devel</b>'
+Comment='<span size="xx-large">Pacemaker development package</span>'
+Comment3='
+Pacemaker is an advanced, scalable High-Availability cluster resource
+manager for Corosync, CMAN and/or Linux-HA.
+
+The pacemaker-libs-devel package contains headers and shared libraries
+for developing tools for Pacemaker.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.clusterlabs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

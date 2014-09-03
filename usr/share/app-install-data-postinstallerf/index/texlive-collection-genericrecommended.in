@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-collection-genericrecommended</b>'
+Comment='<span size="xx-large">Generic recommended packages</span>'
+Comment3='
+Recommended packages that work with multiple formats.
+'
+License='Artistic 2.0 and GPLv2 and GPLv2+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

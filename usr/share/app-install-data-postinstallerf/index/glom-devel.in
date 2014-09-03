@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glom-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use glom</span>'
+Comment3='
+This package contains the header files needed to develop applications
+that use the glom libraries.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.glom.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

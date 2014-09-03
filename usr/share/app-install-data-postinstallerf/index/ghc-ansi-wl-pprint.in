@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-ansi-wl-pprint</b>'
+Comment='<span size="xx-large">The Wadler/Leijen Pretty Printer for colored ANSI terminal output</span>'
+Comment3='
+This is a pretty printing library based on Wadlers paper "A Prettier Printer".
+It has been enhanced with support for ANSI terminal colored output using the
+ansi-terminal package.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/ansi-wl-pprint'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

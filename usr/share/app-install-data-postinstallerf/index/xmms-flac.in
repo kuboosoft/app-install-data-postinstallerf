@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmms-flac</b>'
+Comment='<span size="xx-large">XMMS plugin needed to play FLAC (Free Lossless Audio Codec) files</span>'
+Comment3='
+FLAC is a Free Lossless Audio Codec. The FLAC format supports streaming,
+seeking, and archival, and gives 25-75% compression on typical CD audio.
+This is the input plugin for XMMS to be able to read FLAC files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://flac.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

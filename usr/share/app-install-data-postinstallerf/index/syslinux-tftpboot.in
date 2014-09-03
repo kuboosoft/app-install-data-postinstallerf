@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>syslinux-tftpboot</b>'
+Comment='<span size="xx-large">SYSLINUX modules in /tftpboot, available for network booting</span>'
+Comment3='
+All the SYSLINUX/PXELINUX modules directly available for network
+booting in the /tftpboot directory.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

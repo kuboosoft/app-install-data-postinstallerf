@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ZipArchive-devel</b>'
+Comment='<span size="xx-large">Development files for ZipArchive</span>'
+Comment3='
+The ZipArchive-devel package contains libraries and header files for
+developing applications that use ZipArchive.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.artpol-software.com/ZipArchive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

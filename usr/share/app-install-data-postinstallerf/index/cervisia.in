@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cervisia</b>'
+Comment='<span size="xx-large">CVS frontend</span>'
+Comment3='
+Cervisia is a CVS frontend for KDE
+'
+License='GPLv2+ and LGPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/cervisia'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

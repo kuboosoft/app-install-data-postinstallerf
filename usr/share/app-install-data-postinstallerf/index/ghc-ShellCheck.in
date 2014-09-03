@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-ShellCheck</b>'
+Comment='<span size="xx-large">Haskell ShellCheck library</span>'
+Comment3='
+This package provides the Haskell ShellCheck shared library.
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://www.shellcheck.net/about.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

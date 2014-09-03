@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cxf-xjc-utils-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for cxf-xjc-utils</span>'
+Comment3='
+This package contains the API documentation for cxf-xjc-utils.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://cxf.apache.org/xjc-utils.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

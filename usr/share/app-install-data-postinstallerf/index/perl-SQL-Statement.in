@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-SQL-Statement</b>'
+Comment='<span size="xx-large">SQL parsing and processing engine</span>'
+Comment3='
+The SQLStatement module implements a pure Perl SQL parsing and execution
+engine.  While it by no means implements full ANSI standard, it does support
+many features including column and table aliases, built-in and user-defined
+functions, implicit and explicit joins, complexly nested search conditions, and
+other features.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/SQL-Statement/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-GTop</b>'
+Comment='<span size="xx-large">Perl interface to libgtop</span>'
+Comment3='
+This is a perl interface to the libgtop library, useful for collecting
+real-time performance and other system statistics.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/GTop/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

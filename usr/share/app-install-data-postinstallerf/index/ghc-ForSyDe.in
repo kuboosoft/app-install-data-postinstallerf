@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ghc-ForSyDe</b>'
+Comment='<span size="xx-large">ForSyDes Haskell-embedded Domain Specific Language</span>'
+Comment3='
+The ForSyDe (Formal System Design) methodology has been developed with
+the objective to move system design to a higher level of abstraction
+and to bridge the abstraction gap by transformational design refinement.
+This library provides ForSyDes implementation as a Haskell-embedded
+Domain Specific Language (DSL). For more information, please see
+ForSyDes website <http//www.ict.kth.se/forsyde/>.  This will be
+most probably the last update on this package. It will be splitted to
+ForSyDe-shallow and ForSyDe-deep in the next release.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/ForSyDe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

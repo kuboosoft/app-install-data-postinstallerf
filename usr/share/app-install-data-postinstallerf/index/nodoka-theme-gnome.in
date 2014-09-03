@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodoka-theme-gnome</b>'
+Comment='<span size="xx-large">The Nodoka Theme Pack for Gnome</span>'
+Comment3='
+The Nodoka Theme Pack for Gnome make use of Nodoka Metacity theme, Nodoka gtk2
+theme and Echo Icon set.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://hosted.fedoraproject.org/projects/nodoka'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

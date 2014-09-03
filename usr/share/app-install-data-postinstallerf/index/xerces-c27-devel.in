@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xerces-c27-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development documentation for xerces-c27</span>'
+Comment3='
+This package contains the header files, static libraries and development
+documentation for xerces-c 2.7.0. If you like to develop programs using
+xerces-c 2.7.0, you will need to install xerces-c27-devel.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://xml.apache.org/xerces-c/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>firebird-classic-common</b>'
+Comment='<span size="xx-large">Common files for Firebird "classic" and "superclassic" servers</span>'
+Comment3='
+This package contains the command line utilities and files common to classic and superclassic Firebird servers.
+'
+License='Interbase'
+Screenshot=''
+Url='http://www.firebirdsql.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

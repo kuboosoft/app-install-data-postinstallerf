@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xfwm4-themes</b>'
+Comment='<span size="xx-large">Additional themes for xfwm4</span>'
+Comment3='
+A set of additional themes for the xfwm4 window manager.
+'
+License='GPL+ and BSD'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

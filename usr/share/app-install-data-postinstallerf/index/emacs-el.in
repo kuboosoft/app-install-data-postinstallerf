@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>emacs-el</b>'
+Comment='<span size="xx-large">Lisp source files included with GNU Emacs</span>'
+Comment3='
+Emacs-el contains the emacs-elisp sources for many of the elisp
+programs included with the main Emacs text editor package.
+
+You need to install emacs-el only if you intend to modify any of the
+Emacs packages or see some elisp examples.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/emacs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

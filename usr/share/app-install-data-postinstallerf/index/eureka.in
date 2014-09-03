@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>eureka</b>'
+Comment='<span size="xx-large">A cross-platform map editor for the classic DOOM games</span>'
+Comment3='
+Eureka is a cross-platform map editor for the classic DOOM games.
+
+It started when the ported the Yadex editor to a proper GUI toolkit, namely
+FLTK, and implemented a system for multi-level Undo / Redo. These and other
+features have required rewriting large potions of the existing code, and adding
+lots of new code too. Eureka is now an independent program with its own
+work-flow and its own quirks.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://eureka-editor.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

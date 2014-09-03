@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gitifyhg</b>'
+Comment='<span size="xx-large">Use git as a client for Mercurial repos</span>'
+Comment3='
+This git remote allows you to do local development in a git repository and push
+changes to an upstream mercurial repository. It does this seamlessly and allows
+pushing and pulling to named branches in the upstream repository.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/buchuki/gitifyhg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

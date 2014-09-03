@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-spice-mode</b>'
+Comment='<span size="xx-large">SPICE Mode for GNU Emacs</span>'
+Comment3='
+This package provides an Emacs major mode for editing SPICE decks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://spice-mode.4t.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-python2-gtksourceview</b>'
+Comment='<span size="xx-large">Python bindings for interacting with the gtksourceview library</span>'
+Comment3='
+This module contains a wrapper that allows the use of gtksourceview via
+Python.
+'
+License='GPLv2+'
+Screenshot=''
+Url='None'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

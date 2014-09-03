@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kdepimlibs-kxmlrpcclient</b>'
+Comment='<span size="xx-large">Simple XML-RPC Client support</span>'
+Comment3='
+This library contains simple XML-RPC Client support. It is used mainly
+by the egroupware module of kdepim, but is a complete client and is
+quite easy to use.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

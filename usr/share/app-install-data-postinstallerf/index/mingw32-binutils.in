@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mingw32-binutils</b>'
+Comment='<span size="xx-large">Cross-compiled version of binutils for the Win32 environment</span>'
+Comment3='
+Cross compiled binutils (utilities like strip, as, ld) which
+understand Windows executables and DLLs.
+'
+License='GPLv2+ and LGPLv2+ and GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/binutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

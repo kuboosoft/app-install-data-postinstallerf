@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-mecab</b>'
+Comment='<span size="xx-large">Ruby binding for MeCab</span>'
+Comment3='
+Ruby binding for MeCab.
+'
+License='BSD or LGPLv2+ or GPL+'
+Screenshot=''
+Url='http://mecab.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

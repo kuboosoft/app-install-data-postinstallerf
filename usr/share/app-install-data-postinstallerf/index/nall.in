@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nall</b>'
+Comment='<span size="xx-large">A simple, non-intrusive, everything notifier in the system tray</span>'
+Comment3='
+Nall is a small gtk+ application that discretely fits into your freedesktop
+system tray (such as trayer).
+
+Its purpose is to spawn periodically every kind of script and display a
+one-line output in the tooltip window. The main usage of nall is monitoring or
+just notifying of almost everything (it just depends upon your imagination and
+ability to script).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://herewe.servebeer.com/nall/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ladspa-rev-plugins</b>'
+Comment='<span size="xx-large">A reverberation plugin for LADSPA</span>'
+Comment3='
+This reverb is based on gverb by Juhana Sadeharju, but the code
+(now C++) is entirely original. I added a second input for stereo
+operation, and some code to prevent FP denormalisation.
+This is a preliminary release, and this plugin will probably change
+a lot in future versions.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kokkinizita.net/linuxaudio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

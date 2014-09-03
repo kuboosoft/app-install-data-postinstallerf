@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>multimedia-menus</b>'
+Comment='<span size="xx-large">Categorization for the GNOME/KDE/MATE Sound&Video/Multimedia menu</span>'
+Comment3='
+Categorized sub-menus for the GNOME/KDE/MATE Audio&Video/Multimedia menu, for
+better usability and easy access of multimedia applications.
+'
+License='GPLv2+ and LGPLv2+ and GPL+ and LGPLv2 and LGPLv3+ and GPLv2 and MIT'
+Screenshot=''
+Url='https://fedorahosted.org/multimedia-menus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

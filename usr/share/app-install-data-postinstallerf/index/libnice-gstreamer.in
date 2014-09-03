@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnice-gstreamer</b>'
+Comment='<span size="xx-large">GStreamer plugin for libnice</span>'
+Comment3='
+The libnice-gstreamer package contains a gstreamer 0.10 plugin for libnice.
+
+URL          http//nice.freedesktop.org/wiki/
+'
+License='LGPLv2 and MPLv1.1'
+Screenshot=''
+Url='http://nice.freedesktop.org/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

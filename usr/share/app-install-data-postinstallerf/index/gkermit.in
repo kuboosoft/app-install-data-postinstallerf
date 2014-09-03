@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gkermit</b>'
+Comment='<span size="xx-large">A utility for transferring files using the Kermit protocol</span>'
+Comment3='
+G-Kermit is a utility for file transfer using the Kermit protocol,
+supporting text and binary transfers on 7-bit and 8-bit connections.
+It is most useful as a remote endpoint; for a more fully-featured Kermit
+program, use the ckermit package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.columbia.edu/kermit/gkermit.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

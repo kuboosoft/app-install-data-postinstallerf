@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n xboard
+Type=Application
+Name=XBoard
+GenericName=X Window Chess Board
+Comment=Use an X Windows Chess Board
+Icon=/usr/share/app-install-data-postinstallerf/icons/xboard.png
+Terminal=false
+Categories=Game;BoardGame;

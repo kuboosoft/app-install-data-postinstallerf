@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vim-taglist</b>'
+Comment='<span size="xx-large">The taglist plugin for VIM editor</span>'
+Comment3='
+The "Tag List" plugin is a source code browser plugin for vim and provides
+an overview of the structure of source code files and allows you to efficiently
+browse through source code files for different programming languages.
+'
+License='Vim'
+Screenshot=''
+Url='http://vim-taglist.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

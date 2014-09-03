@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sleuthkit-libs</b>'
+Comment='<span size="xx-large">Library for sleuthkit</span>'
+Comment3='
+The sleuthkit-libs package contains library for sleuthkit.
+
+URL          http//www.sleuthkit.org
+'
+License='CPL and IBM and GPLv2+'
+Screenshot=''
+Url='http://www.sleuthkit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

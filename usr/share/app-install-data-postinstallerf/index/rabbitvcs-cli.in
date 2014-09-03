@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rabbitvcs-cli</b>'
+Comment='<span size="xx-large">CLI extension for RabbitVCS</span>'
+Comment3='
+RabbitVCS is a set of graphical tools written to provide simple and
+straightforward access to the version control systems you use. This is the
+extension for command line interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rabbitvcs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

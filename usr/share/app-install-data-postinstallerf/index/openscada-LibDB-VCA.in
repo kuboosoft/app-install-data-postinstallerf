@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openscada-LibDB-VCA</b>'
+Comment='<span size="xx-large">Main OpenSCADA libraries for DAQ and other into SQLite DB.</span>'
+Comment3='
+The openscada-LibDB-VCA package includes visual components libraries
+into SQLite DB.
+For use connect SQLite DB file LibsDB/vcaBase.db and LibsDB/vcaTest.db.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

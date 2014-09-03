@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnome-valgrind-session</b>'
+Comment='<span size="xx-large">Run an entire GNOME session under valgrind</span>'
+Comment3='
+GNOME Valgrind Session adds new types of GNOME session to the login managers
+session menu. These let you instrument your entire session with Valgrind for
+debugging purposes. The generated logs are collected and subjected to simple
+postprocessing when you log out. The result is saved to a file in your home
+directory.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://hp.cl.no/proj/gnome-valgrind-session/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

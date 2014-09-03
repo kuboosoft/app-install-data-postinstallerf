@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bind-to-tinydns</b>'
+Comment='<span size="xx-large">Convert DNS zone files in BIND format to tinydns format</span>'
+Comment3='
+This is a program that parses zone files used by the BIND DNS server and
+converts them to the native format of the tinydns component of Dan Bernsteins
+djbdns DNS server.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.erat.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

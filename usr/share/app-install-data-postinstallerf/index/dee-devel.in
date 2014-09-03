@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dee-devel</b>'
+Comment='<span size="xx-large">Development files for dee</span>'
+Comment3='
+The dee-devel package contains libraries and header files for
+developing applications that use dee.
+
+'
+License='LGPLv3'
+Screenshot=''
+Url='https://launchpad.net/dee'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

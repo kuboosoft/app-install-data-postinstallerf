@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libxml2-python</b>'
+Comment='<span size="xx-large">Python bindings for the libxml2 library</span>'
+Comment3='
+The libxml2-python package contains a module that permits applications
+written in the Python programming language to use the interface
+supplied by the libxml2 library to manipulate XML files.
+
+This library allows to manipulate XML files. It includes support
+to read, modify and write XML and HTML files. There is DTDs support
+this includes parsing and validation even with complex DTDs, either
+at parse time or later once the document has been modified.
+'
+License='MIT'
+Screenshot=''
+Url='http://xmlsoft.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

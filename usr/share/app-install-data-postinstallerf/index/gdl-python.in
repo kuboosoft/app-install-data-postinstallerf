@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gdl-python</b>'
+Comment='<span size="xx-large">GDL python module</span>'
+Comment3='
+GDL python module.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnudatalanguage.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

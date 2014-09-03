@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gegl</b>'
+Comment='<span size="xx-large">A graph based image processing framework</span>'
+Comment3='
+GEGL (Generic Graphics Library) is a graph based image processing framework.
+GEGLs original design was made to scratch GIMPs itches for a new
+compositing and processing core. This core is being designed to have
+minimal dependencies. and a simple well defined API.
+
+'
+License='LGPLv3+ and GPLv3+'
+Screenshot=''
+Url='http://www.gegl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

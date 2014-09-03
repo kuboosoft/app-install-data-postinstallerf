@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-booktabs</b>'
+Comment='<span size="xx-large">Publication quality tables in LaTeX</span>'
+Comment3='
+The package enhances the quality of tables in LaTeX, providing
+extra commands as well as behind-the-scenes optimisation.
+Guidelines are given as to what constitutes a good table in
+this context. From version 1.61, the package offers longtable
+compatibility.
+
+date 2009-09-24 150548 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

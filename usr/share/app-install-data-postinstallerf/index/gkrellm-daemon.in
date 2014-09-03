@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gkrellm-daemon</b>'
+Comment='<span size="xx-large">The GNU Krell Monitors Server</span>'
+Comment3='
+gkrellmd listens for connections from gkrellm clients. When a gkrellm
+client connects to a gkrellmd server all builtin monitors collect their
+data from the server.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gkrellm.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

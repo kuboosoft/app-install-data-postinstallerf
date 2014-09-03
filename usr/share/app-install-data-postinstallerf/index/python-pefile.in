@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-pefile</b>'
+Comment='<span size="xx-large">Python module for working with Portable Executable files</span>'
+Comment3='
+pefile is a multi-platform Python module to read and work with Portable
+Executable (aka PE) files. Most of the information in the PE Header is
+accessible, as well as all the sections, sections information and data.
+
+pefile requires some basic understanding of the layout of a PE file. Armed
+with it its possible to explore nearly every single feature of the file.
+Some of the tasks that pefile makes possible are
+* Modifying and writing back to the PE image
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/pefile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

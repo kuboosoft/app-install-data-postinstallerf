@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>httpdtap</b>'
+Comment='<span size="xx-large">Tool for querying httpd using SystemTap scripts</span>'
+Comment3='
+HttpdTap is collection of useful SystemTap scripts to query running httpd
+server to get information like files accessed during a request, time needed
+to dispatch a request, the list of requests slower than N milliseconds or
+the list of requests sent from particular IP address. Thanks to SystemTap
+the performance penalty is very low and therefore the HttpdTap can be used
+even on production systems.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/hanzz/httpdtap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

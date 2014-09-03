@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Bisect-Perl-UsingGit</b>'
+Comment='<span size="xx-large">Help you to bisect Perl</span>'
+Comment3='
+BisectPerlUsingGit is a module which holds the code which helps you to
+bisect Perl. See bisect_perl_using_git for practical examples.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Bisect-Perl-UsingGit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

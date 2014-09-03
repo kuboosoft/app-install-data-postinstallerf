@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>docco</b>'
+Comment='<span size="xx-large">The Quick and Dirty Literate Programming Documentation Generator</span>'
+Comment3='
+Docco is a quick-and-dirty documentation generator, written in Literate
+CoffeeScript. It produces an HTML document that displays your comments
+intermingled with your code. All prose is passed through Markdown, and
+code is passed through Pygments syntax highlighting.
+'
+License='MIT'
+Screenshot=''
+Url='http://jashkenas.github.com/docco/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

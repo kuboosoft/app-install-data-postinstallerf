@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bpg-algeti-fonts</b>'
+Comment='<span size="xx-large">Algeti Family of BPG Georgian Fonts</span>'
+Comment3='
+BPG Fonts are a set of GPL licensed Georgian Unicode fonts.
+
+This package contains the Algeti font family.
+'
+License='GPL+ with exceptions'
+Screenshot=''
+Url='http://groups.google.com/group/bpg-fonts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

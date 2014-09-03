@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>megatools</b>'
+Comment='<span size="xx-large">Command line client for Mega.co.nz</span>'
+Comment3='
+Megatools is a collection of programs for accessing Mega service from a command
+line of your desktop or server.
+
+Megatools allow you to copy individual files as well as entire directory trees
+to and from the cloud. You can also perform streaming downloads for example to
+preview videos and audio files, without needing to download the entire file.
+You can register account using a megareg tool, with the benefit of having
+true control of your encryption keys.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://megatools.megous.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

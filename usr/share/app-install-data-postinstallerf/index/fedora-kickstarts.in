@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fedora-kickstarts</b>'
+Comment='<span size="xx-large">Official Fedora Spins</span>'
+Comment3='
+Kickstarts used to compose the official Fedora Spins (see
+http//spins.fedoraproject.org/ for a full list)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/spin-kickstarts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

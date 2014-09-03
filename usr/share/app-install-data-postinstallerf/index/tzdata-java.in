@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tzdata-java</b>'
+Comment='<span size="xx-large">Timezone data for Java</span>'
+Comment3='
+This package contains timezone information for use by Java runtimes.
+'
+License='Public Domain'
+Screenshot=''
+Url='https://www.iana.org/time-zones'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

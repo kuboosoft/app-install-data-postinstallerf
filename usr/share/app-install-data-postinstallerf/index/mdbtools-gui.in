@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mdbtools-gui</b>'
+Comment='<span size="xx-large">Graphical interface for MDB Tools</span>'
+Comment3='
+The mdbtools-gui package contains the gmdb2 graphical user interface
+for MDB Tools
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mdbtools.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

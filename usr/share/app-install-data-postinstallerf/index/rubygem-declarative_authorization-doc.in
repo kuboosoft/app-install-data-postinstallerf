@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-declarative_authorization-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-declarative_authorization</span>'
+Comment3='
+Documentation for rubygem-declarative_authorization.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/stffn/declarative_authorization'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

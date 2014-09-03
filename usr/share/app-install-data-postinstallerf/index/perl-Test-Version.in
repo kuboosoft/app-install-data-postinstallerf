@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-Version</b>'
+Comment='<span size="xx-large">Check to see that versions in modules are sane</span>'
+Comment3='
+This modules goal is to be a one stop shop for checking to see that your
+versions across your dist are sane.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Version/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

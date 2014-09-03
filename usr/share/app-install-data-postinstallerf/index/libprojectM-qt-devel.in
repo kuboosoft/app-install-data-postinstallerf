@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libprojectM-qt-devel</b>'
+Comment='<span size="xx-large">Development files for libprojectM-qt</span>'
+Comment3='
+projectM-qt is a GUI designed to enhance the projectM user and preset writer
+experience.  It provides a way to browse, search, rate presets and setup
+preset playlists for projectM-jack and projectM-pulseaudio.
+The libprojectM-qt-devel package contains libraries and header files for
+developing applications that use libprojectM-qt.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projectm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

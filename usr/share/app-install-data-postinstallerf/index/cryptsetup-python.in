@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cryptsetup-python</b>'
+Comment='<span size="xx-large">Python bindings for libcryptsetup</span>'
+Comment3='
+This package provides Python bindings for libcryptsetup, a library
+for setting up disk encryption using dm-crypt kernel module.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://cryptsetup.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

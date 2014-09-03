@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mule-module-ognl</b>'
+Comment='<span size="xx-large">Support for filtering mule events using OGNL notation</span>'
+Comment3='
+Support for filtering mule events using OGNL notation.
+'
+License='CPAL'
+Screenshot=''
+Url='http://www.mulesoft.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

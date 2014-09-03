@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Log-Log4perl</b>'
+Comment='<span size="xx-large">A Logging Role for Moose based on Log::Log4perl</span>'
+Comment3='
+A logging role building a very lightweight wrapper to LogLog4perl for use
+with your the Moose classes. The initialization of the Log4perl instance must
+be performed prior to logging the first log message. Otherwise the default
+initialization will happen, probably not doing the things you expect.
+
+For compatibility the logger attribute can be accessed to use a common
+interface for application logging.
+For simple logging needs use MooseXLogLog4perlEasy to directly add
+log_<level> methods to your class instance.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Log-Log4perl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

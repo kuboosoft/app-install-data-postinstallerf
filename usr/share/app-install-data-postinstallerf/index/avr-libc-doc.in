@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>avr-libc-doc</b>'
+Comment='<span size="xx-large">AVR C library docs in html and pdf format</span>'
+Comment3='
+This package contains the AVR C library docs in html and pdf format, the main
+package already contains the docs in man-page format (use "avr-man xxxx" to
+access these).
+'
+License='BSD'
+Screenshot=''
+Url='http://www.nongnu.org/avr-libc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pygame-devel</b>'
+Comment='<span size="xx-large">Files needed for developing programs which use pygame</span>'
+Comment3='
+This package contains headers required to build applications that use
+pygame.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pygame.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

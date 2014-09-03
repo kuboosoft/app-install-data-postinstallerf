@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ansifilter-gui</b>'
+Comment='<span size="xx-large">GUI for ansifilter based on Qt4</span>'
+Comment3='
+Ansifilter handles text files containing ANSI terminal escape codes.
+The command sequences may be stripped or be interpreted to generate formatted
+output (HTML, RTF, TeX, LaTeX, BBCode).
+
+This is a GUI of ansifilter based on Qt4.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.andre-simon.de/doku/ansifilter/ansifilter.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

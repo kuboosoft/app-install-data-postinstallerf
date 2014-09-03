@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>barman</b>'
+Comment='<span size="xx-large">Backup and Recovery Manager for PostgreSQL</span>'
+Comment3='
+Barman (backup and recovery manager) is an administration
+tool for disaster recovery of PostgreSQL servers written in Python.
+It allows to perform remote backups of multiple servers
+in business critical environments and help DBAs during the recovery phase.
+Barmans most wanted features include backup catalogs, retention policies,
+remote recovery, archiving and compression of WAL files and backups.
+Barman is written and maintained by PostgreSQL professionals 2ndQuadrant.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.pgbarman.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

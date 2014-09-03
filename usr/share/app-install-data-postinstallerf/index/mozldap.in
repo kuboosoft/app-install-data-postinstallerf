@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mozldap</b>'
+Comment='<span size="xx-large">Mozilla LDAP C SDK</span>'
+Comment3='
+The Mozilla LDAP C SDK is a set of libraries that
+allow applications to communicate with LDAP directory
+servers.  These libraries are derived from the University
+of Michigan and Netscape LDAP libraries.  They use Mozilla
+NSPR and NSS for crypto.
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://www.mozilla.org/directory/csdk.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

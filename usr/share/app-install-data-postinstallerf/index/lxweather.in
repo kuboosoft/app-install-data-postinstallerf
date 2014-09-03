@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lxweather</b>'
+Comment='<span size="xx-large">A lightweight GTK+ weather application</span>'
+Comment3='
+It is a lightweight GTK+-2.0 application which provides weather
+conditions and forecast information for a specified location or locations.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/psipika/lxweather'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

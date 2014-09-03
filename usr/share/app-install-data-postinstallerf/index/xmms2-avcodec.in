@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xmms2-avcodec</b>'
+Comment='<span size="xx-large">XMMS2 Plugin for avcodec supported formats</span>'
+Comment3='
+An XMMS2 Plugin which provides support for audio formats provided by
+FFMPEGs libavcodec.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

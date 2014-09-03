@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libexif-gtk3-devel</b>'
+Comment='<span size="xx-large">Files needed for building applications with libexif-gtk3</span>'
+Comment3='
+The libexif-gtk3-devel package includes header files and libraries
+necessary for developing programs which use the libexif-gtk3 library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libexif.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

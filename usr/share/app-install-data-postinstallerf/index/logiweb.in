@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>logiweb</b>'
+Comment='<span size="xx-large">A system for electronic distribution of mathematics</span>'
+Comment3='
+Logiweb allows to web publish Logiweb pages, i.e.
+journal quality articles which contain machine readable objects
+like  programs, testsuites, definitions, axioms, lemmas, and
+proofs. Among other, Logiweb is suited for literate programming,
+for publication of machine verified proofs, and for writing
+proof checkers. Logiweb allows Logiweb pages to reference
+previously published Logiweb pages such that programs on a page
+may call programs on referenced pages, proofs on a page may
+reference lemmas on referenced pages, and so on.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://logiweb.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

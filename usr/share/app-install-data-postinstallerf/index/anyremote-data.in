@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>anyremote-data</b>'
+Comment='<span size="xx-large">Configuration files for anyRemote</span>'
+Comment3='
+Configuration files for anyRemote
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://anyremote.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

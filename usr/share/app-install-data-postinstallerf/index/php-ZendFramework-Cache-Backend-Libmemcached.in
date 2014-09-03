@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-Cache-Backend-Libmemcached</b>'
+Comment='<span size="xx-large">Zend Framework libmemcache cache backend</span>'
+Comment3='
+This package contains the back end for Zend_Cache to store and retrieve data
+via memcache.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

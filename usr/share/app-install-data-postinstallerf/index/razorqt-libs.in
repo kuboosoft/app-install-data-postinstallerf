@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>razorqt-libs</b>'
+Comment='<span size="xx-large">Common libraries and binaries for the Razor-qt</span>'
+Comment3='
+This package provides the libraries and binaries that are shared amongst
+the various components of Razor-qt.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://razor-qt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

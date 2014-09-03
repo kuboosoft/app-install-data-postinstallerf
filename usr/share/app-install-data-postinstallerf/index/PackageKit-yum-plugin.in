@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PackageKit-yum-plugin</b>'
+Comment='<span size="xx-large">Tell PackageKit to check for updates when yum exits</span>'
+Comment3='
+PackageKit-yum-plugin tells PackageKit to check for updates when yum exits.
+This way, if you run yum update and install all available updates, puplet
+will almost instantly update itself to reflect this.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

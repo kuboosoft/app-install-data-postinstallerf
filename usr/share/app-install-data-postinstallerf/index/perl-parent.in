@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-parent</b>'
+Comment='<span size="xx-large">Establish an ISA relationship with base classes at compile time</span>'
+Comment3='
+Allows you to both load one or more modules, while setting up inheritance
+from those modules at the same time. Mostly similar in effect to
+
+	package Baz;
+	BEGIN {
+		require Foo;
+		require Bar;
+		push @ISA, qw(Foo Bar);
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/parent/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

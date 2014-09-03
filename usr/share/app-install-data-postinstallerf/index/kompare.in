@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kompare</b>'
+Comment='<span size="xx-large">Diff tool</span>'
+Comment3='
+Tool to visualize changes between two versions of a file
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/kompare'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

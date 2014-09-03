@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-ExtUtils-Typemap</b>'
+Comment='<span size="xx-large">Read/Write/Modify Perl/XS typemap files</span>'
+Comment3='
+This module exists merely as a compatibility wrapper around
+ExtUtilsTypemaps. In a nutshell, ExtUtilsTypemap was renamed to
+ExtUtilsTypemaps because the Typemap directory in lib/ could collide with
+the typemap file on case-insensitive file systems.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/ExtUtils-Typemap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

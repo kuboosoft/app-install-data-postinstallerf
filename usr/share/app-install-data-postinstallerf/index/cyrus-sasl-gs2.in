@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cyrus-sasl-gs2</b>'
+Comment='<span size="xx-large">GS2 support for Cyrus SASL</span>'
+Comment3='
+The cyrus-sasl-gs2 package contains the Cyrus SASL plugin which supports
+the GS2 authentication scheme.
+
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://asg.web.cmu.edu/sasl/sasl-library.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

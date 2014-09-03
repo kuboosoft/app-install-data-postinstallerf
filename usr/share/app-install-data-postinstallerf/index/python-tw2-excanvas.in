@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-tw2-excanvas</b>'
+Comment='<span size="xx-large">Excanvas for ToscaWidgets2</span>'
+Comment3='
+Simple excanvas resource wrapper for ToscaWidgets2.
+'
+License='MIT'
+Screenshot=''
+Url='http://toscawidgets.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

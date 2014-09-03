@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>emacs-mew</b>'
+Comment='<span size="xx-large">Email client for GNU Emacs</span>'
+Comment3='
+Mew provides a very easy user interface to email, MIME and PGP
+(Pretty Good Privacy) on the Emacs and the Editors derived from
+the Emacs and so on.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.mew.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

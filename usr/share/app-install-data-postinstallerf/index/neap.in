@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>neap</b>'
+Comment='<span size="xx-large">Notification area (systray) pager</span>'
+Comment3='
+neap is a unobtrusive and fast neat pager unintrusive and light that runs
+in the notification area (i.e. systray) of your panel. It follows freedesktop
+specifications. Its user-friendly and has advanced functionality such as
+right-click opens context menu with advanced desktop selector. It supports
+full layout customization like normal/highlight/background color, padding,
+spacing and grid.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/neap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

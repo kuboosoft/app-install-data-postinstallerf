@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-IO-Multiplex</b>'
+Comment='<span size="xx-large">Manage IO on many file handles</span>'
+Comment3='
+IOMultiplex is designed to take the effort out of managing multiple file
+handles. It is essentially a really fancy front end to the select system call.
+In addition to maintaining the select loop, it buffers all input and output
+to/from the file handles. It can also accept incoming connections on one or
+more listen sockets.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-Multiplex/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

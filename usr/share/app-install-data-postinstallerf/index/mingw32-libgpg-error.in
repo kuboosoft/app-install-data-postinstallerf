@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-libgpg-error</b>'
+Comment='<span size="xx-large">MinGW Windows libgpg-error compression library for the win32 target</span>'
+Comment3='
+MinGW Windows GnuPGP error library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='ftp://ftp.gnupg.org/gcrypt/libgpg-error/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

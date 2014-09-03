@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-bib-fr</b>'
+Comment='<span size="xx-large">French translation of classical BibTeX styles</span>'
+Comment3='
+These files are French translations of the classical BibTeX
+style files. The translations can easily be modified by simply
+redefining FUNCTIONs named fr.*, at the beginning (lines 50-
+150) of each file.
+
+date 2009-11-09 140325 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

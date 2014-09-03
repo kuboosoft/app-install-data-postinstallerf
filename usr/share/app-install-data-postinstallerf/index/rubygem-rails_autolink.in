@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-rails_autolink</b>'
+Comment='<span size="xx-large">Automatic generation of HTML links in texts</span>'
+Comment3='
+This is an extraction of the `auto_link` method from rails. The `auto_link`
+method was removed from Rails in version Rails 3.1. This gem is meant to
+bridge the gap for people migrating.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/tenderlove/rails_autolink'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

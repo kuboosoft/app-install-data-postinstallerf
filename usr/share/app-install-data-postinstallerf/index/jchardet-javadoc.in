@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jchardet-javadoc</b>'
+Comment='<span size="xx-large">API documentation for jchardet</span>'
+Comment3='
+API documentation for jchardet.
+'
+License='MPLv1.1'
+Screenshot=''
+Url='http://jchardet.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

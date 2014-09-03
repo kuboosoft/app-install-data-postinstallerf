@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Config-Model-CursesUI</b>'
+Comment='<span size="xx-large">Curses interface to edit config data</span>'
+Comment3='
+This class provides a CursesUI interface to configuration data managed by
+ConfigModel.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Config-Model-CursesUI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

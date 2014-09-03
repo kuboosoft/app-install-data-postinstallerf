@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libGLEWmx</b>'
+Comment='<span size="xx-large">libGLEWmx</span>'
+Comment3='
+libGLEWmx
+
+URL          http//glew.sourceforge.net
+'
+License='BSD and MIT'
+Screenshot=''
+Url='http://glew.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

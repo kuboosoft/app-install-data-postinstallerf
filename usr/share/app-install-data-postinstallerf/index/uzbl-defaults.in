@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uzbl-defaults</b>'
+Comment='<span size="xx-large">Default configuration for uzbl</span>'
+Comment3='
+Default configuration for uzbl.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.uzbl.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

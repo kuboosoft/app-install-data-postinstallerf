@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-xmlbuilder</b>'
+Comment='<span size="xx-large">A python XML/(x)HTML builder</span>'
+Comment3='
+XMLBuilder is a tiny library built on top of ElementTree.TreeBuilder to make
+XML files creation more pythonomic. `XMLBuilder` uses the `with` statement and
+attribute access to define the XML document structure.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/xmlbuilder'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

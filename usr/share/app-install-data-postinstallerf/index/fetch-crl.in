@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fetch-crl</b>'
+Comment='<span size="xx-large">Downloads Certificate Revocation Lists</span>'
+Comment3='
+This tool and associated cron entry ensure that Certificate Revocation
+Lists (CRLs) are periodically retrieved from the web sites of the respective
+Certification Authorities.
+It assumes that the installed CA files follow the hash.crl_url convention.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nikhef.nl/grid/gridwiki/index.php/FetchCRL3'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

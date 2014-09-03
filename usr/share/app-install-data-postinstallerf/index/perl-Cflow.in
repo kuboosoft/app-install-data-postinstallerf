@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Cflow</b>'
+Comment='<span size="xx-large">Find flows in raw IP flow files</span>'
+Comment3='
+Cflow with flow-tools support.  This module implements an API for
+processing IP flow accounting information which as been collected from
+routers and written into flow files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://net.doit.wisc.edu/~plonka/Cflow/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

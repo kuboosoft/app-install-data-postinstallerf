@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>htmlparser</b>'
+Comment='<span size="xx-large">HTML Parser, a Java library used to parse HTML</span>'
+Comment3='
+HTML Parser is a Java library used to parse HTML in either a linear or
+nested fashion. Primarily used for transformation or extraction, it features
+filters, visitors, custom tags and easy to use JavaBeans. It is a fast,
+robust and well tested package.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://htmlparser.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

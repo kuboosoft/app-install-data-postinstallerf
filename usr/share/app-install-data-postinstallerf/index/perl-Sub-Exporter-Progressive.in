@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Sub-Exporter-Progressive</b>'
+Comment='<span size="xx-large">Only use Sub::Exporter if you need it</span>'
+Comment3='
+SubExporter is an incredibly powerful module, but with that power comes
+great responsibility, er- as well as some runtime penalties. This module is a
+SubExporter wrapper that will let your users just use Exporter if all they
+are doing is picking exports, but use SubExporter if your users try to use
+SubExporters more advanced features features, like renaming exports, if
+they try to use them.
+
+Note that this module will export @EXPORT and @EXPORT_OK package variables for
+Exporter to work. Additionally, if your package uses advanced SubExporter
+features like currying, this module will only ever use SubExporter, so you
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sub-Exporter-Progressive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

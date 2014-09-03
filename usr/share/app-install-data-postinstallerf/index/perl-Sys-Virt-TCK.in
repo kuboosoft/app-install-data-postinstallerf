@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Sys-Virt-TCK</b>'
+Comment='<span size="xx-large">Sys::Virt::TCK - libvirt Technology Compatibility Kit</span>'
+Comment3='
+SysVirtTCK provides an integration test suite for validating
+correct operation of libvirt drivers with underlying virtualization
+technology.
+'
+License='GPLv2 or Artistic'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

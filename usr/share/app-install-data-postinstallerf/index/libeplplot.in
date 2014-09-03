@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libeplplot</b>'
+Comment='<span size="xx-large">A modified version of plplot used by EMBOSS</span>'
+Comment3='
+A modified version of plplot used by EMBOSS.
+
+URL          http//emboss.sf.net/
+'
+License='GPLv2+ and LGPLv2+ and CC-BY and GPLv3+ and Public Domain'
+Screenshot=''
+Url='http://emboss.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

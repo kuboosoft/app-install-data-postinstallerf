@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>bacula-storage</b>'
+Comment='<span size="xx-large">Bacula storage daemon files</span>'
+Comment3='
+Bacula is a set of programs that allow you to manage the backup, recovery, and
+verification of computer data across a network of different computers. It is
+based on a client/server architecture.
+
+This package contains the storage daemon, the daemon responsible for writing
+the data received from the clients onto tape drives or other mass storage
+devices.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.bacula.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

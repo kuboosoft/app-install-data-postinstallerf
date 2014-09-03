@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>activemq-cpp-devel</b>'
+Comment='<span size="xx-large">C++ implementation header files for JMS-like messaging</span>'
+Comment3='
+activemq-cpp is a JMS-like API for C++ for interfacing with Message
+Brokers such as Apache ActiveMQ.  C++ messaging service helps to make
+your C++ client code much neater and easier to follow. To get a better
+feel for CMS try the API Reference.  ActiveMQ-CPP is a client only
+library, a message broker such as Apache ActiveMQ is still needed
+for your clients to communicate.
+
+activemq-cpp-devel contains development header files.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://activemq.apache.org/cms/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

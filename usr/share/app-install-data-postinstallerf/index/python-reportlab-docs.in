@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-reportlab-docs</b>'
+Comment='<span size="xx-large">Documentation files for python-reportlab</span>'
+Comment3='
+Contains the documentation for ReportLab.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.reportlab.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

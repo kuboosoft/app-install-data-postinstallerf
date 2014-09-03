@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libeXosip2</b>'
+Comment='<span size="xx-large">A library that hides the complexity of using the SIP protocol</span>'
+Comment3='
+A library that hides the complexity of using the SIP protocol for
+mutlimedia session establishement. This protocol is mainly to be used
+by VoIP telephony applications (endpoints or conference server) but
+might be also useful for any application that wish to establish
+sessions like multiplayer games.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/eXosip'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

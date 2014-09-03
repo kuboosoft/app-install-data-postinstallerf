@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-IfElse</b>'
+Comment='<span size="xx-large">Anaphoric and miscellaneous control-flow</span>'
+Comment3='
+Anaphoric and miscellaneous useful control-flow.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/IfElse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

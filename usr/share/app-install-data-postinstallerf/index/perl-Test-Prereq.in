@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Test-Prereq</b>'
+Comment='<span size="xx-large">Check if Makefile.PL has the right pre-requisites</span>'
+Comment3='
+The prereq_ok() function examines the modules it finds in blib/lib/,
+blib/script, and the test files it finds in t/ (and test.pl). It figures
+out which modules they use, skips the modules that are in the Perl core,
+and compares the remaining list of modules to those in the PREREQ_PM
+section of Makefile.PL.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Prereq/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

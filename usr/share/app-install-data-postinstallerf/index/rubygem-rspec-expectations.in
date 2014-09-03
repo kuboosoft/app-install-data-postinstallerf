@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-rspec-expectations</b>'
+Comment='<span size="xx-large">Rspec-2 expectations (should and matchers)</span>'
+Comment3='
+rspec-expectations adds `should` and `should_not` to every object and includes
+RSpecMatchers, a library of standard matchers.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/rspec/rspec-expectations'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

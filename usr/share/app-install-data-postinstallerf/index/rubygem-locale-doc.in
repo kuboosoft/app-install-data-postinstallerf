@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-locale-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-locale</span>'
+Comment3='
+This package contains documentation for rubygem-locale.
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://locale.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

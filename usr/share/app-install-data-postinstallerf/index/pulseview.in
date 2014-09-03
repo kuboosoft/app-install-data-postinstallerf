@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pulseview</b>'
+Comment='<span size="xx-large">Signal acquisition and analysis GUI for sigrok</span>'
+Comment3='
+PulseView is an application for enabling data acquisition and analysis with
+test and measurement devices such as logic analyzers, oscilloscopes,
+mixed-signal devices, digital multimeters and sensors, etc. It uses sigrok
+libraries under the hood.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.sigrok.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

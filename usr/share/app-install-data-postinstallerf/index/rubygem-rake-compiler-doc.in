@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rake-compiler-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rake-compiler</span>'
+Comment3='
+This package contains documentation for rubygem-rake-compiler.
+'
+License='MIT'
+Screenshot=''
+Url='http://rake-compiler.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

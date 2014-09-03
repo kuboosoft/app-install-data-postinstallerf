@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ghc-ConfigFile</b>'
+Comment='<span size="xx-large">Configuration file reading and writing</span>'
+Comment3='
+Parser and writer for handling sectioned config files in
+Haskell.
+
+The ConfigFile module works with configuration files in a
+standard format that is easy for the user to edit, easy for
+the programmer to work with, yet remains powerful and
+flexible. It is inspired by, and compatible with, Pythons
+ConfigParser module. It uses files that resemble Windows
+.INI-style files, but with numerous improvements.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://hackage.haskell.org/package/ConfigFile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

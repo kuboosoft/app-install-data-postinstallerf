@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>zanata-python-client</b>'
+Comment='<span size="xx-large">Python Client for Zanata Server</span>'
+Comment3='
+Zanata Python client is a client that communicate with Zanata server.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://zanata.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

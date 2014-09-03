@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-stex</b>'
+Comment='<span size="xx-large">An Infrastructure for Semantic Preloading of LaTeX Documents</span>'
+Comment3='
+The sTeX package collection is a version of TeX/LaTeX that
+allows to markup TeX/LaTeX documents semantically without
+leaving the document format, essentially turning it into a
+document format for mathematical knowledge management (MKM).
+
+date 2012-03-31 111531 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

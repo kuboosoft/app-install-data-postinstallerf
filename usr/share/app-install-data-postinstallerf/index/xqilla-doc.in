@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xqilla-doc</b>'
+Comment='<span size="xx-large">XQilla documentation</span>'
+Comment3='
+simple-api and dom3-api documentation for XQilla.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://xqilla.sourceforge.net/HomePage'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

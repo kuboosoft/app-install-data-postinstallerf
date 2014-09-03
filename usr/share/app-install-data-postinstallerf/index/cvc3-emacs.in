@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cvc3-emacs</b>'
+Comment='<span size="xx-large">Compiled Emacs mode for CVC3</span>'
+Comment3='
+This package contains the byte compiled CVC3 mode for Emacs.
+'
+License='BSD and MIT'
+Screenshot=''
+Url='http://www.cs.nyu.edu/acsys/cvc3/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

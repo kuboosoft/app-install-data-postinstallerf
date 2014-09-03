@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>OCE-devel</b>'
+Comment='<span size="xx-large">OpenCASCADE CAE platform library development files</span>'
+Comment3='
+OpenCASCADE CAE platform library development files
+
+URL          https//github.com/tpaviot/oce
+'
+License='LGPLv2 with exception'
+Screenshot=''
+Url='https://github.com/tpaviot/oce'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

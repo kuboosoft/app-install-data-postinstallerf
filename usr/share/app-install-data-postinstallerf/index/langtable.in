@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>langtable</b>'
+Comment='<span size="xx-large">Guessing reasonable defaults for locale, keyboard layout, territory, and language.</span>'
+Comment3='
+langtable is used to guess reasonable defaults for locale, keyboard layout,
+territory, and language, if part of that information is already known. For
+example, guess the territory and the keyboard layout if the language
+is known or guess the language and keyboard layout if the territory is
+already known.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/mike-fabian/langtable'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

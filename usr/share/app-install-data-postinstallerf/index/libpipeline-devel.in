@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libpipeline-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for pipeline manipulation library</span>'
+Comment3='
+libpipeline-devel contains the header files and libraries needed
+to develop programs that use libpipeline library.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://libpipeline.nongnu.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

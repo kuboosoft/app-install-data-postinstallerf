@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>codemod</b>'
+Comment='<span size="xx-large">A tool to assist with large codebase refactors</span>'
+Comment3='
+Codemod is a tool/library to assist you with large-scale code base
+refactors that can be partially automated but still require human
+oversight and occasional intervention.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/facebook/codemod'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

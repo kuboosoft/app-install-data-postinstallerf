@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-CatalystX-Profile</b>'
+Comment='<span size="xx-large">Profile your Catalyst application with Devel::NYTProf</span>'
+Comment3='
+This (really basic for now) plugin adds support for profiling your Catalyst
+application, without profiling all the crap that happens during setup. This
+noise can make finding the real profiling stuff trickier, so profiling is
+disabled while this happens.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CatalystX-Profile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

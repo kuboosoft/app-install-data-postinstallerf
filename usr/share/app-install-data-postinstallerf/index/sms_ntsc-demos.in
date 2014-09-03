@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sms_ntsc-demos</b>'
+Comment='<span size="xx-large">Examples using sms_ntsc</span>'
+Comment3='
+Examples using sms_ntsc
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.slack.net/~ant/libs/ntsc.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-repoze-what-plugins-sql</b>'
+Comment='<span size="xx-large">The repoze.what SQL plugin</span>'
+Comment3='
+This is an adapters and extras plugin for repoze.what.
+
+The SQL plugin makes repoze.what support sources defined in SQLAlchemy-managed
+databases by providing one group adapter, one permission adapter and one
+utility to configure both in one go (optionally, when the group source and the
+permission source have a relationship).
+This plugin also defines repoze.what.plugins.quickstart.
+'
+License='BSD'
+Screenshot=''
+Url='http://what.repoze.org/docs/plugins/sql'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

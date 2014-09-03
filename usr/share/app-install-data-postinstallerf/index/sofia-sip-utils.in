@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sofia-sip-utils</b>'
+Comment='<span size="xx-large">Sofia-SIP Command Line Utilities</span>'
+Comment3='
+Command line utilities for the Sofia SIP UA library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sofia-sip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

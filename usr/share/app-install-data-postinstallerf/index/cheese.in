@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cheese</b>'
+Comment='<span size="xx-large">Application for taking pictures and movies from a webcam</span>'
+Comment3='
+Cheese is a Photobooth-inspired GNOME application for taking pictures and
+videos from a webcam. It can also apply fancy graphical effects.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/cheese/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

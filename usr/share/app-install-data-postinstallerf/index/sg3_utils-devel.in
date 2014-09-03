@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sg3_utils-devel</b>'
+Comment='<span size="xx-large">Development library and header files for the sg3_utils library</span>'
+Comment3='
+This package contains the sg3_utils library and its header files for
+developing applications.
+
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='http://sg.danny.cz/sg/sg3_utils.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

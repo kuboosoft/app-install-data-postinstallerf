@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdepimlibs-devel</b>'
+Comment='<span size="xx-large">Development files for kdepimlibs</span>'
+Comment3='
+Header files for developing applications using kdepimlibs.
+
+URL          http//www.kde.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

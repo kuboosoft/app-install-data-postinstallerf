@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mate-backgrounds</b>'
+Comment='<span size="xx-large">MATE Desktop backgrounds</span>'
+Comment3='
+Backgrounds for MATE Desktop
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

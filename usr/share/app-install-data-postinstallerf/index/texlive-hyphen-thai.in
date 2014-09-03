@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-thai</b>'
+Comment='<span size="xx-large">Thai hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Thai in LTH and UTF-8 encodings.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

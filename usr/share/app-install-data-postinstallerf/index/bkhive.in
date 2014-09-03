@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>bkhive</b>'
+Comment='<span size="xx-large">Dump the syskey bootkey from a Windows system hive</span>'
+Comment3='
+This tool is designed to recover the syskey bootkey from a Windows NT/2K/XP
+system hive. Then we can decrypt the SAM file with the syskey and dump
+password hashes.
+
+Syskey is a Windows feature that adds an additional encryption layer to the
+password hashes stored in the SAM database.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ophcrack.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

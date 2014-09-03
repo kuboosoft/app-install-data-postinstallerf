@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Editor</b>'
+Comment='<span size="xx-large">Horde Editor API</span>'
+Comment3='
+The Horde_Editor package provides an API to generate the code necessary for
+embedding javascript RTE editors in a web page.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

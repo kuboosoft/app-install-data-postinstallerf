@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>alsa-plugins-speex</b>'
+Comment='<span size="xx-large">Rate Converter Plugin Using Speex Resampler</span>'
+Comment3='
+The rate plugin is an external rate converter using the Speex resampler
+(aka Public Parrot Hack) by Jean-Marc Valin. The pcm plugin provides
+pre-processing of a mono stream like denoise using libspeex DSP API.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.alsa-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

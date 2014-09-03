@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-origin</b>'
+Comment='<span size="xx-large">Simple DSL for MongoDB query generation</span>'
+Comment3='
+Origin is a simple DSL for generating MongoDB selectors and options
+'
+License='MIT'
+Screenshot=''
+Url='http://mongoid.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

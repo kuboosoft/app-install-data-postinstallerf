@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>xsettingsd</b>'
+Comment='<span size="xx-large">Provides settings to X11 clients via the XSETTINGS specification</span>'
+Comment3='
+xsettingsd is a daemon that implements the XSETTINGS specification.
+
+It is intended to be small, fast, and minimally dependent on other libraries.
+It can serve as an alternative to gnome-settings-daemon for users who are not
+using the GNOME desktop environment but who still run GTK+ applications and
+want to configure things such as themes, font anti-aliasing/hinting, and UI
+sound effects.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/xsettingsd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

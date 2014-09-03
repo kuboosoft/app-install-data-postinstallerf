@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rpl</b>'
+Comment='<span size="xx-large">Intelligent recursive search/replace utility</span>'
+Comment3='
+rpl is a UN*X text replacement utility. It will replace strings with
+new strings in multiple text files. It can work recursively over
+directories and supports limiting the search to specific file
+suffixes.
+
+rpl was originally written by Joe Laffey; this is a rewritten version.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rpl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

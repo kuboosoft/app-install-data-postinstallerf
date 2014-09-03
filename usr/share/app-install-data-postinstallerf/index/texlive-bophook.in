@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-bophook</b>'
+Comment='<span size="xx-large">Provides an At-Begin-Page hook</span>'
+Comment3='
+Using the \AtBeginPage hook, you can add material in the
+background of a page. \PageLayout can be used to give page
+makeup commands to be executed on every page (e.g., depend on
+the page style).
+
+date 2006-12-31 160810 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

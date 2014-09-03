@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>memtester</b>'
+Comment='<span size="xx-large">Utility to test for faulty memory subsystem</span>'
+Comment3='
+memtester is a utility for testing the memory subsystem in a computer to
+determine if it is faulty.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pyropus.ca/software/memtester/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-maxmin</b>'
+Comment='<span size="xx-large">Get pretty output of the original, minified gzipped size of a string/buffer</span>'
+Comment3='
+Get pretty output of the original, minified gzipped size of a string/buffer.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/sindresorhus/maxmin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

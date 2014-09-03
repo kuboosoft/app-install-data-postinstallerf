@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>podofo-devel</b>'
+Comment='<span size="xx-large">Development files for podofo library</span>'
+Comment3='
+Development files and documentation for the podofo library.
+
+URL          http//podofo.sourceforge.net
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://podofo.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

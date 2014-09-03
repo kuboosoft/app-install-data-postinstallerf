@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>avahi-dnsconfd</b>'
+Comment='<span size="xx-large">Configure local unicast DNS settings based on information published in mDNS</span>'
+Comment3='
+avahi-dnsconfd connects to a running avahi-daemon and runs the script
+/etc/avahi/dnsconfd.action for each unicast DNS server that is announced on the
+local LAN. This is useful for configuring unicast DNS servers in a DHCP-like
+fashion with mDNS.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://avahi.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

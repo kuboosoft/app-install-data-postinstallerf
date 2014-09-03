@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-shell-extension-sustmi-windowoverlay-icons</b>'
+Comment='<span size="xx-large">Viewing the app icons over the window in the windows overview</span>'
+Comment3='
+This extension allow to view the icons over the application in the
+windows overview. Useful to avoid confusion with the windows when
+you have a lot of them open on the same desktop
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/sustmi/gnome-shell-extensions-sustmi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

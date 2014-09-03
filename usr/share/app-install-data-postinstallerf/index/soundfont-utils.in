@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>soundfont-utils</b>'
+Comment='<span size="xx-large">Utilities for converting from / to various soundfont formats</span>'
+Comment3='
+Utilities for converting from / to various soundfont formats and a midi file
+disassembler.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://alsa.opensrc.org/index.php/GusSoundfont'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

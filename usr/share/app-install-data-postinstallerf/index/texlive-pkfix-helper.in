@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pkfix-helper</b>'
+Comment='<span size="xx-large">Make PostScript files accessible to pkfix</span>'
+Comment3='
+Pkfix is a useful utility for replacing resolution-dependent
+bitmapped fonts in a dvips-produced PostScript file with the
+corresponding resolution-independent vector fonts.
+Unfortunately, pkfix needs to parse certain PostScript comments
+that appear only in files produced by dvips versions later than
+5.58 (ca. 1996); it fails to work on PostScript files produced
+by older versions of dvips. Pkfix-helper is a program that
+attempts to insert newer-dvips comments into an older-dvips
+PostScript file, thereby making the file suitable for
+processing by pkfix. pkfix-helper can sometimes process
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

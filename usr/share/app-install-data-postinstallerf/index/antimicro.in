@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>antimicro</b>'
+Comment='<span size="xx-large">Graphical program used to map keyboard buttons and mouse controls to a gamepad</span>'
+Comment3='
+AntiMicro is a graphical program used to map keyboard keys and mouse controls
+to a gamepad. This program is useful for playing PC games using a gamepad that
+do not have any form of built-in gamepad support. AntiMicro was inspired by
+QJoyPad but has additional features.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://ryochan7.com/projects/antimicro/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

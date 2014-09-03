@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>unoconv</b>'
+Comment='<span size="xx-large">Tool to convert between any document format supported by LibreOffice</span>'
+Comment3='
+unoconv converts between any document format that LibreOffice understands.
+It uses LibreOffices UNO bindings for non-interactive conversion of
+documents.
+
+Supported document formats include Open Document Format (.odf), MS Word (.doc),
+MS Office Open/MS OOXML (.xml), Portable Document Format (.pdf), HTML, XHTML,
+RTF, Docbook (.xml), and more.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://dag.wieers.com/home-made/unoconv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

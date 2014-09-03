@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Module-Load-Conditional</b>'
+Comment='<span size="xx-large">Looking up module information and loading at run-time</span>'
+Comment3='
+This module provides simple ways to query and possibly load any of the modules
+you have installed on your system during run-time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Load-Conditional/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

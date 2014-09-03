@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xscreensaver-gl-extras-gss</b>'
+Comment='<span size="xx-large">Desktop files of gl-extras for other screensaver</span>'
+Comment3='
+This package contains desktop files of gl-extras screensavers
+for other screensaver compatibility.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.jwz.org/xscreensaver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

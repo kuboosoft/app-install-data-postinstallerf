@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libfdt</b>'
+Comment='<span size="xx-large">Device tree library</span>'
+Comment3='
+libfdt is a library to process Open Firmware style device trees on various
+architectures.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.jdl.com/gitweb/?p=dtc.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-Net-Traceroute</b>'
+Comment='<span size="xx-large">Execute traceroute</span>'
+Comment3='
+OS independent wrapper class for executing traceroute calls.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/Net_Traceroute'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

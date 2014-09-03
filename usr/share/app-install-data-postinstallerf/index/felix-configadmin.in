@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>felix-configadmin</b>'
+Comment='<span size="xx-large">Felix Configuration Admin Service</span>'
+Comment3='
+Implementation of the OSGi Configuration Admin Service Specification 1.4.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://felix.apache.org/site/apache-felix-config-admin.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

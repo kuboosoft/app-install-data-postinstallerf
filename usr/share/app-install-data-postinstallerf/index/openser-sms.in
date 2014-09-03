@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openser-sms</b>'
+Comment='<span size="xx-large">Gateway between SIP and GSM networks via sms</span>'
+Comment3='
+This module provides a way of communication between SIP network (via SIP
+MESSAGE) and GSM networks (via ShortMessageService). Communication is
+possible from SIP to SMS and vice versa.  The module provides facilities
+a SIP messages is too long it will be split and sent as multiple SMS.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lxde-common</b>'
+Comment='<span size="xx-large">Default configuration files for LXDE</span>'
+Comment3='
+This package contains the configuration files for LXDE, the Lightweight X11
+Desktop Environment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lxde.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

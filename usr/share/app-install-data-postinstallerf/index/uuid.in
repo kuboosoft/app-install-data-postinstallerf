@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>uuid</b>'
+Comment='<span size="xx-large">Universally Unique Identifier library</span>'
+Comment3='
+OSSP uuid is a ISO-C1999 application programming interface (API)
+and corresponding command line interface (CLI) for the generation
+of DCE 1.1, ISO/IEC 115781996 and RFC 4122 compliant Universally
+Unique Identifier (UUID). It supports DCE 1.1 variant UUIDs of version
+1 (time and node based), version 3 (name based, MD5), version 4
+(random number based) and version 5 (name based, SHA-1). Additional
+API bindings are provided for the languages ISO-C++1998, Perl5 and
+PHP4/5. Optional backward compatibility exists for the ISO-C DCE-1.1
+and Perl DataUUID APIs.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.ossp.org/pkg/lib/uuid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

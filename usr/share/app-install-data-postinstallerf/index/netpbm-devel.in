@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>netpbm-devel</b>'
+Comment='<span size="xx-large">Development tools for programs which will use the netpbm libraries</span>'
+Comment3='
+The netpbm-devel package contains the header files and static libraries,
+etc., for developing programs which can handle the various graphics file
+formats supported by the netpbm libraries.
+
+Install netpbm-devel if you want to develop programs for handling the
+graphics file formats supported by the netpbm libraries.  Youll also need
+to have the netpbm package installed.
+'
+License='BSD and GPLv2 and IJG and MIT and Public Domain'
+Screenshot=''
+Url='http://netpbm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

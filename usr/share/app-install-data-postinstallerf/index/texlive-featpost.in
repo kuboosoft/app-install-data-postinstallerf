@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-featpost</b>'
+Comment='<span size="xx-large">MetaPost macros for 3D</span>'
+Comment3='
+These macros allow the production of three-dimensional schemes
+containing angles, circles, cylinders, cones and spheres,
+among other things.
+
+date 2013-07-31 082157 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

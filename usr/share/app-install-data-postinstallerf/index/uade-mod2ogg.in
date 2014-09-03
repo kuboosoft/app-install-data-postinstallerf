@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uade-mod2ogg</b>'
+Comment='<span size="xx-large">Encode music modules to ogg/mp3/flac etc</span>'
+Comment3='
+Encode any music module format into an ogg, mp3, flac, cdr or wav file
+'
+License='GPLv2+ and Distributable'
+Screenshot=''
+Url='http://zakalwe.fi/uade'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

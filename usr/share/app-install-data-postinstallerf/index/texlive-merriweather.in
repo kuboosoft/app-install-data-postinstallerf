@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-merriweather</b>'
+Comment='<span size="xx-large">Merriweather and MerriweatherSans fonts, with LaTeX support</span>'
+Comment3='
+Merriweather features a very large x height, slightly condensed
+letterforms, a mild diagonal stress, sturdy serifs and open
+forms. The Sans family closely harmonizes with the weights and
+styles of the serif family. There are four weights and italics
+for each.
+
+date 2013-11-14 214940 +0100
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

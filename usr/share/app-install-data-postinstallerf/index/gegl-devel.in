@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gegl-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use gegl</span>'
+Comment3='
+This package contains the libraries and header files needed for
+developing with gegl.
+
+'
+License='LGPLv3+ and GPLv3+'
+Screenshot=''
+Url='http://www.gegl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

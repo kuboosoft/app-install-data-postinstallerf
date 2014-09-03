@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bless-doc</b>'
+Comment='<span size="xx-large">Bless user manual</span>'
+Comment3='
+This package contains the documentation for the
+bless hex editor.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://home.gna.org/bless/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

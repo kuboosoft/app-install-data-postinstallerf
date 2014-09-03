@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ghc-shakespeare-i18n</b>'
+Comment='<span size="xx-large">Type-based internationalization</span>'
+Comment3='
+This package uses a compile-time, type-safe approach to create translated
+content. It has a simple syntax for translators, while allowing the full power
+of Haskell for applying complex grammar rules.
+
+This package was spun off from yesod-core, and therefore the Yesod
+documentation is a good place to start in understanding this package.
+Please see <http//www.yesodweb.com/book/shakespearean-templates> for more
+information.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shakespeare-i18n'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>yacpi</b>'
+Comment='<span size="xx-large">Yet Another Configuration and Power Interface</span>'
+Comment3='
+Yacpi is an acpi monitoring program for Linux. It displays acpi information
+like battery status, ac status, cpu frequency, remaining battery/charge
+time, temperature... It also supports the use of more than one battery and
+can display them.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ngolde.de/yacpi.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

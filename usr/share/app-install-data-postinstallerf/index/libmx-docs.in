@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libmx-docs</b>'
+Comment='<span size="xx-large">Documentation files for libmx</span>'
+Comment3='
+This package contains developer documentation for MX, a clutter widget
+toolkit, currently used primarily by Moblin.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.clutter-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

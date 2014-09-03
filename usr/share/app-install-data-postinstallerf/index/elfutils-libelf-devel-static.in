@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>elfutils-libelf-devel-static</b>'
+Comment='<span size="xx-large">Static archive of libelf</span>'
+Comment3='
+The elfutils-libelf-static package contains the static archive
+for libelf.
+
+'
+License='GPLv2+ or LGPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/elfutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

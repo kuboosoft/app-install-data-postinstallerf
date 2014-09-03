@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-Levenshtein</b>'
+Comment='<span size="xx-large">Python extension computing string distances and similarities</span>'
+Comment3='
+Levenshtein computes Levenshtein distances, similarity ratios, generalized
+medians and set medians of Strings and Unicodes.  Because its implemented
+in C, its much faster than corresponding Python library functions and
+methods.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/python-Levenshtein/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

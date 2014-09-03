@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>WritRecogn-doc</b>'
+Comment='<span size="xx-large">Gtk-doc formatted WritRecogn API</span>'
+Comment3='
+gtk-doc formatted WritRecogn API.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/writrecogn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lsof</b>'
+Comment='<span size="xx-large">A utility which lists open files on a Linux/UNIX system</span>'
+Comment3='
+Lsof stands for LiSt Open Files, and it does just that it lists
+information about files that are open by the processes running on a
+UNIX system.
+'
+License='zlib and Sendmail and LGPLv2+'
+Screenshot=''
+Url='http://people.freebsd.org/~abe/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

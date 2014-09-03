@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rots-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rots</span>'
+Comment3='
+Documentation for rubygem-rots
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/roman/rots'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

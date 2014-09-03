@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>atoum</b>'
+Comment='<span size="xx-large">PHP Unit Testing framework</span>'
+Comment3='
+A simple, modern and intuitive unit testing framework for PHP!
+
+It has been designed from the start with the following ideas in mind 
+* Can be implemented rapidly ;
+* Simplify test development ;
+* Allow for writing reliable, readable, and clear unit tests ;
+To accomplish that, it massively uses capabilities provided by PHP 5.3,
+to give the developer a whole new way of writing unit tests.
+Also, thanks to its fluid interface, it allows for writing unit tests in
+'
+License='BSD'
+Screenshot=''
+Url='http://atoum.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

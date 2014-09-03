@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>PackageKit-cron</b>'
+Comment='<span size="xx-large">Cron job and related utilities for PackageKit</span>'
+Comment3='
+Crontab and utilities for running PackageKit as a cron job.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

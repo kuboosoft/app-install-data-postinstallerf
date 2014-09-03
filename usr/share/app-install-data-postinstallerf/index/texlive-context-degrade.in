@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-context-degrade</b>'
+Comment='<span size="xx-large">Degrading JPEG images in ConTeXt</span>'
+Comment3='
+context-degrade package
+
+date 2008-08-18 235409 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

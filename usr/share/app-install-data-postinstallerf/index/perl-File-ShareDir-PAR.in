@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-File-ShareDir-PAR</b>'
+Comment='<span size="xx-large">File::ShareDir with PAR support</span>'
+Comment3='
+FileShareDirPAR provides the same functionality as FileShareDir but
+tries hard to be compatible with PAR packaged applications.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-ShareDir-PAR/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

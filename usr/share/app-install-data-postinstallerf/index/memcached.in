@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>memcached</b>'
+Comment='<span size="xx-large">High Performance, Distributed Memory Object Cache</span>'
+Comment3='
+memcached is a high-performance, distributed memory object caching
+system, generic in nature, but intended for use in speeding up dynamic
+web applications by alleviating database load.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.memcached.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

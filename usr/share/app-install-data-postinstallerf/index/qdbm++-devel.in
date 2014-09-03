@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qdbm++-devel</b>'
+Comment='<span size="xx-large">Libraries and Header files for QDBM C++ interface</span>'
+Comment3='
+This is the development package that provides header files and libraries
+for QDBM C++ interface.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fallabs.com/qdbm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

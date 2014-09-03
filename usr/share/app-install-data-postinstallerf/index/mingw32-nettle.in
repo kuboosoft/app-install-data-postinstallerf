@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mingw32-nettle</b>'
+Comment='<span size="xx-large">MinGW package for nettle cryptographic library</span>'
+Comment3='
+Nettle is a cryptographic library that is designed to fit easily in
+more or less any context In crypto toolkits for object-oriented
+languages (C++, Python, Pike, ...), in applications like LSH or GNUPG,
+or even in kernel space.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.lysator.liu.se/~nisse/nettle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

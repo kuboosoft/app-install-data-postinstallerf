@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>solarwolf</b>'
+Comment='<span size="xx-large">A Python port of SolarFox</span>'
+Comment3='
+The point of the game is to scramble through 60 levels
+collecting space boxes. Each level gets is harder than
+the previous. Obstacles like bullets, mines, and asteroids
+cover your every move. Beat the Skip timer and grab the
+powerups for your only chance.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pygame.org/shredwheat/solarwolf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

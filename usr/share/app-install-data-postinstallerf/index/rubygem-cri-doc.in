@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-cri-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-cri</span>'
+Comment3='
+This package contains documentation for rubygem-cri.
+'
+License='MIT'
+Screenshot=''
+Url='http://rubygems.org/gems/cri'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

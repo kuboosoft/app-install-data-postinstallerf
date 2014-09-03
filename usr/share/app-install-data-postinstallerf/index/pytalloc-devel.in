@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pytalloc-devel</b>'
+Comment='<span size="xx-large">Developer tools for the Talloc library</span>'
+Comment3='
+Development libraries for pytalloc
+
+URL          http//talloc.samba.org/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://talloc.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

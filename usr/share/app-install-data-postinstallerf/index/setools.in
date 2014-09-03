@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>setools</b>'
+Comment='<span size="xx-large">Policy analysis tools for SELinux</span>'
+Comment3='
+SETools is a collection of graphical tools, command-line tools, and
+libraries designed to facilitate SELinux policy analysis.
+
+This meta-package depends upon the main packages necessary to run
+SETools.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oss.tresys.com/projects/setools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

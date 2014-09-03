@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>clamav-scanner</b>'
+Comment='<span size="xx-large">Clamav scanner daemon</span>'
+Comment3='
+This package contains a generic system wide clamd service which is
+e.g. used by the clamav-milter package.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.clamav.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

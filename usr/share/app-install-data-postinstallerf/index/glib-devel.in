@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glib-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for glib development</span>'
+Comment3='
+Libraries and header files for glib development.
+
+URL          http//www.gtk.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cellwriter</b>'
+Comment='<span size="xx-large">Grid-entry natural handwriting input panel</span>'
+Comment3='
+CellWriter is a grid-entry natural handwriting input panel. As
+you write characters into the cells, your writing is instantly
+recognized at the character level. When you press Enter on the
+panel, the input you entered is sent to the currently focused
+application as if typed on the keyboard.
+
+Works well on a Wacom tablet, TabletPC, or any device with a stylus.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/cellwriter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

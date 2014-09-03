@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>phonon-backend-vlc</b>'
+Comment='<span size="xx-large">VLC phonon backend</span>'
+Comment3='
+Vlc phonon-qt5 backend.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://phonon.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>specto</b>'
+Comment='<span size="xx-large">An desktop application that will watch configurable events</span>'
+Comment3='
+Specto is a desktop application that will watch configurable events
+(such as website updates, emails, file and folder changes,
+system processes, etc) and then trigger notifications.
+
+Specto can watch a website for updates and notify you when
+there is activity (otherwise, Specto will just stay out of the way).
+This changes the way you work, because you can be informed
+of events instead of having to look out for them.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://specto.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>aspell-sv</b>'
+Comment='<span size="xx-large">Swedish dictionaries for Aspell</span>'
+Comment3='
+Provides the word list/dictionaries for the following Swedish
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://aspell.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

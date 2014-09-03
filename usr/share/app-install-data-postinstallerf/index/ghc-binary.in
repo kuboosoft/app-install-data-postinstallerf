@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-binary</b>'
+Comment='<span size="xx-large">Haskell binary library</span>'
+Comment3='
+This package provides the Haskell binary library.
+'
+License='BSD and HaskellReport'
+Screenshot=''
+Url='http://haskell.org/ghc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

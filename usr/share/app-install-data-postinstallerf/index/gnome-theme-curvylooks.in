@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnome-theme-curvylooks</b>'
+Comment='<span size="xx-large">A modern Clearlooks theme using a Bluecurve-like color scheme</span>'
+Comment3='
+CurvyLooks, inspired by and based heavily on the work of Billy Cantrells
+Clearlooks_Cairo-Curve and GNOME 3s Adwaita themes, is a set of simple themes
+for GTK+ 2 and 3 which use modern features of the Clearlooks engine and a
+Bluecurve-like color scheme to provide a rich and aesthetically-pleasing
+desktop experience, especially for prolonged periods of usage.
+'
+License='GPL+'
+Screenshot=''
+Url='http://projects.thecodergeek.com/curvylooks/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-statex2</b>'
+Comment='<span size="xx-large">Statistics style</span>'
+Comment3='
+The package defines many macros for items of significance in
+statistical presentations. It represents a syntax-incompatible
+upgrade of statex.
+
+date 2011-09-14 180350 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-foilhtml</b>'
+Comment='<span size="xx-large">Interface between foiltex and LaTeX2HTML</span>'
+Comment3='
+Provides integration between FoilTeX and LaTeX2HTML, adding
+sectioning commands and elements of logical formatting to
+FoilTeX and providing support for FoilTeX commands in
+LaTeX2HTML.
+
+date 2007-01-05 160721 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

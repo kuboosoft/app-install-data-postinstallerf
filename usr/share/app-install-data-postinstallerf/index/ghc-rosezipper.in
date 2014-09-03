@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-rosezipper</b>'
+Comment='<span size="xx-large">Generic zipper implementation for Data.Tree</span>'
+Comment3='
+A Haskell data structure for working with locations in trees or forests.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/rosezipper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

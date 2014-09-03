@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-textopo</b>'
+Comment='<span size="xx-large">Annotated membrane protein topology plots</span>'
+Comment3='
+A LaTeX package for setting shaded and annotated membrane
+protein topology plots and helical wheels.
+
+date 2011-06-02 210240 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

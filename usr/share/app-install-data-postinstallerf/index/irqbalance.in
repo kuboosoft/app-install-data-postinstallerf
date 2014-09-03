@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>irqbalance</b>'
+Comment='<span size="xx-large">IRQ balancing daemon</span>'
+Comment3='
+irqbalance is a daemon that evenly distributes IRQ load across
+multiple CPUs for enhanced performance.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://irqbalance.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

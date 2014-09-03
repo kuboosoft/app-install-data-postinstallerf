@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kte-collaborative</b>'
+Comment='<span size="xx-large">Collaborative text editing in KTextEditor via KDE Telepathy</span>'
+Comment3='
+A plugin for KTextEditor which allows to edit text documents collaboratively
+
+URL          https//projects.kde.org/projects/playground/network/kte-collaborative
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/network/kte-collaborative'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

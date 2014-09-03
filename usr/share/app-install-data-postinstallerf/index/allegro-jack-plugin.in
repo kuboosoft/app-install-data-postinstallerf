@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>allegro-jack-plugin</b>'
+Comment='<span size="xx-large">Allegro JACK (Jack Audio Connection Kit) plugin</span>'
+Comment3='
+This package contains a plugin for Allegro which enables Allegro to playback
+sound through JACK (Jack Audio Connection Kit).
+'
+License='Giftware'
+Screenshot=''
+Url='http://alleg.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

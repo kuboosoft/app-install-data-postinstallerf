@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-animate</b>'
+Comment='<span size="xx-large">Create PDF animations from graphics files and inline graphics</span>'
+Comment3='
+The package provides an interface to create portable,
+JavaScript driven PDF animations from sets of graphics files or
+from inline graphics, such as LaTeX picture environment,
+PSTricks or pgf/TikZ generated pictures, or just from typeset
+text.
+
+date 2013-07-19 145532 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

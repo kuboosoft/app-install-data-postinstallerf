@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>netbeans-javaparser</b>'
+Comment='<span size="xx-large">NetBeans Java Parser</span>'
+Comment3='
+Java parser to analyze Java source files inside of the NetBeans IDE
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://netbeans.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

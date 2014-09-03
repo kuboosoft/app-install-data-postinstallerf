@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-microtype</b>'
+Comment='<span size="xx-large">Subliminal refinements towards typographical perfection</span>'
+Comment3='
+The package provides a LaTeX interface to the micro-typographic
+extensions that were introduced by pdfTeX and have since also
+propagated to XeTeX and LuaTeX most prominently, character
+protrusion and font expansion, furthermore the adjustment of
+interword spacing and additional kerning, as well as
+hyphenatable letterspacing (tracking) and the possibility to
+disable all or selected ligatures. These features may be
+applied to customisable sets of fonts, and all micro-
+typographic aspects of the fonts can be configured in a
+straight-forward and flexible way. Settings for various fonts
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

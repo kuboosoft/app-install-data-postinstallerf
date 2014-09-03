@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-attributes</b>'
+Comment='<span size="xx-large">Attributes RubyGem</span>'
+Comment3='
+Attributes RubyGem
+'
+License='GPLv2+ or Ruby'
+Screenshot=''
+Url='http://codeforpeople.com/lib/ruby/attributes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

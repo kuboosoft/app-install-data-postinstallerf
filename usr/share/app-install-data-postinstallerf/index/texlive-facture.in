@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-facture</b>'
+Comment='<span size="xx-large">Generate an invoice</span>'
+Comment3='
+Une classe simple permettant de produite une facture, avec ou
+sans TVA, avec gestion dune adresse differente pour la
+livraison et pour la facturation. A simple class that allows
+production of an invoice, with or without VAT; different
+addresses for delivery and for billing are permitted.
+
+date 2011-09-24 185218 +0200
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-mocha-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-mocha</span>'
+Comment3='
+This package contains documentation for rubygem-mocha.
+'
+License='MIT and Ruby'
+Screenshot=''
+Url='http://mocha.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

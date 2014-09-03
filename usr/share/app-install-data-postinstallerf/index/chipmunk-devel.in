@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>chipmunk-devel</b>'
+Comment='<span size="xx-large">Development tools for programs which will use the chipmunk library</span>'
+Comment3='
+Chipmunk is a 2D rigid body physics library distributed under the MIT license.
+Though not yet complete, it is intended to be fast, numerically stable, and
+easy to use.
+
+This package contains the header files and  static libraries to develop
+programs that will use the chipmunk library.  You should
+install this package if you need to develop programs which will use the
+chipmunk library functions.  Youll also need to install the chipmunk package.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/chipmunk-physics/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

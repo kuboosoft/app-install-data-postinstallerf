@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>kronolith</b>'
+Comment='<span size="xx-large">The Horde calendar application</span>'
+Comment3='
+Kronolith is the Horde calendar application.  It provides repeating
+events, all-day events, custom fields, keywords, and managing multiple
+users through Horde Authentication.  The calendar API that Kronolith
+uses is abstracted; MCAL and SQL drivers are currently provided.
+
+The Horde Project writes web applications in PHP and releases them under
+Open Source licenses.  For more information (including help with Kronolith)
+please visit http//www.horde.org/.
+READ /usr/share/doc/kronolith-2.3.5/README.Fedora AFTER INSTALLING FOR
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.horde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

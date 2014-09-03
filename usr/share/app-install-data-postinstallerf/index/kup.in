@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kup</b>'
+Comment='<span size="xx-large">Kernel.org Uploader</span>'
+Comment3='
+Kup is a secure upload tool used by kernel developers to upload
+cryptographically verified packages to kernel.org.
+
+This package includes the client-side kup utility.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://git.kernel.org/?p=utils/kup/kup.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-YUM-RepoQuery</b>'
+Comment='<span size="xx-large">Query a YUM repository for package information</span>'
+Comment3='
+YUMRepoQuery takes the URI to a package repository with YUM meta-data, and
+allows one to query what packages, and versions of those packages, are
+available in that repository.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/YUM-RepoQuery/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

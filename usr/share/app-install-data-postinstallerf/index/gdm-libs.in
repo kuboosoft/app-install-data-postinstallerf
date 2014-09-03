@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gdm-libs</b>'
+Comment='<span size="xx-large">Client-side library to talk to gdm</span>'
+Comment3='
+The gdm-libs package contains libraries that can
+be used for writing custom greeters.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/gdm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

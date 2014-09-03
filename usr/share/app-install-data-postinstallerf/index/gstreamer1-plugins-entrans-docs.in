@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gstreamer1-plugins-entrans-docs</b>'
+Comment='<span size="xx-large">Documentation for GStreamer plug-ins from GEntrans</span>'
+Comment3='
+GEntrans is a software package providing a collection of plug-ins and tools
+for the GStreamer multimedia framework specifically geared towards transcoding
+and recording purposes.
+
+This package provides documentation for several GStreamer plugins from GEntrans.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gentrans.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

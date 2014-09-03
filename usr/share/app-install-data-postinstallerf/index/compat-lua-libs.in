@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>compat-lua-libs</b>'
+Comment='<span size="xx-large">Powerful light-weight programming language (compat version)</span>'
+Comment3='
+This package contains a compatibility version of the lua-5.1 libraries.
+
+URL          http//www.lua.org/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.lua.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

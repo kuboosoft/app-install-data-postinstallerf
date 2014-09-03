@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ibus-table-chinese-array</b>'
+Comment='<span size="xx-large">Array input methods</span>'
+Comment3='
+Array input method is a free, open-minded character-structured
+input method. Includes
+array30 27489 characters.
+array30-big 27489 characters + Unicode ExtB.
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

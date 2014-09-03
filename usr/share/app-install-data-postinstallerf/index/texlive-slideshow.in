@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-slideshow</b>'
+Comment='<span size="xx-large">Generate slideshow with MetaPost</span>'
+Comment3='
+The package provides a means of creating presentations in
+MetaPost, without intervention from other utilities (except a
+distiller). Such an arrangement has its advantages (though
+there are disadvantages too).
+
+date 2008-12-04 141432 +0100
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

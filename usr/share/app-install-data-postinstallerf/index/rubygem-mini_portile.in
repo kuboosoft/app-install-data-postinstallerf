@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-mini_portile</b>'
+Comment='<span size="xx-large">Simplistic port-like solution for developers</span>'
+Comment3='
+Simplistic port-like solution for developers. It provides a standard and
+simplified way to compile against dependency libraries without messing up
+your system.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/luislavena/mini_portile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

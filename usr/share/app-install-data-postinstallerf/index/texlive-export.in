@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-export</b>'
+Comment='<span size="xx-large">Import and export values of LaTeX registers</span>'
+Comment3='
+The package allows the user to export/import the values of
+LaTeX registers (counters, rigid and rubber lengths only). It
+is not for faint-hearted users. The package may be used, for
+example, to communicate between documents for the purposes of
+dvipaste.
+
+date 2012-07-11 141950 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

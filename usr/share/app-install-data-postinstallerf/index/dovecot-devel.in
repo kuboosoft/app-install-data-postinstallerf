@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dovecot-devel</b>'
+Comment='<span size="xx-large">Development files for dovecot</span>'
+Comment3='
+This package provides the development files for dovecot.
+
+URL          http//www.dovecot.org/
+'
+License='MIT and LGPLv2'
+Screenshot=''
+Url='http://www.dovecot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

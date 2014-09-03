@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubberband-devel</b>'
+Comment='<span size="xx-large">Development files for rubberband</span>'
+Comment3='
+The rubberband-devel package contains libraries and header files for
+developing applications that use rubberband.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.breakfastquay.com/rubberband/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

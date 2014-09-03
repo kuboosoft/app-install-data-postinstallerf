@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lua-json</b>'
+Comment='<span size="xx-large">JSON Parser/Constructor for Lua</span>'
+Comment3='
+LuaJSON is a customizable JSON decoder/encoder, using LPEG for parsing.
+'
+License='MIT'
+Screenshot=''
+Url='http://luaforge.net/projects/luajson/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

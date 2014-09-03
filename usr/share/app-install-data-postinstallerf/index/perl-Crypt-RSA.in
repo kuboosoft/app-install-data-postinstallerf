@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Crypt-RSA</b>'
+Comment='<span size="xx-large">RSA public-key cryptosystem</span>'
+Comment3='
+CryptRSA is a pure-perl, cleanroom implementation of the RSA public-key
+cryptosystem. It uses MathPari(3), a perl interface to the blazingly fast
+PARI library, for big integer arithmetic and number theoretic computations.
+
+CryptRSA provides arbitrary size key-pair generation, plaintext-aware
+encryption (OAEP) and digital signatures with appendix (PSS). For compatibility
+with SSLv3, RSAREF2, PGP and other applications that follow the PKCS #1 v1.5
+standard, it also provides PKCS #1 v1.5 encryption and signatures.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-RSA/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

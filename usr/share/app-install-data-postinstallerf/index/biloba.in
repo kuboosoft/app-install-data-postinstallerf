@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>biloba</b>'
+Comment='<span size="xx-large">A tactical board game</span>'
+Comment3='
+Biloba is a very innovative tactical board game. It can be played
+by 2, 3 or 4 players and against the computer (AI).
+You will be able to play on the same computer or online against
+your opponents.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://biloba.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

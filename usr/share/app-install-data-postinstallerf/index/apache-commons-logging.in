@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>apache-commons-logging</b>'
+Comment='<span size="xx-large">Apache Commons Logging</span>'
+Comment3='
+The commons-logging package provides a simple, component oriented
+interface (org.apache.commons.logging.Log) together with wrappers for
+logging systems. The user can choose at runtime which system they want
+to use. In addition, a small number of basic implementations are
+provided to allow users to use the package standalone.
+commons-logging was heavily influenced by Avalons Logkit and Log4J. The
+commons-logging abstraction is meant to minimize the differences between
+the two, and to allow a developer to not tie himself to a particular
+logging implementation.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/logging'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

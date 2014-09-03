@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>freetalk</b>'
+Comment='<span size="xx-large">A console based Jabber client</span>'
+Comment3='
+GNU Freetalk is a console based Jabber client. It features a readline interface
+with completion of buddy names, commands, and even ordinary English words.
+Freetalk is extensible, configurable, and scriptable through a Guile interface.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/freetalk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

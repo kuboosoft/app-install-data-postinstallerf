@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-pas-cours</b>'
+Comment='<span size="xx-large">Macros useful in preparing teaching material</span>'
+Comment3='
+Several groups of macros cover different branches of
+mathematics.
+
+date 2013-12-05 105059 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

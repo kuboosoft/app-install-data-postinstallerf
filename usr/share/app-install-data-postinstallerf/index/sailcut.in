@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sailcut</b>'
+Comment='<span size="xx-large">A sail design and plotting software</span>'
+Comment3='
+Sailcut CAD is a sail design and plotting software.
+It allows you to design and visualize your own sail and compute the accurate
+development of all panels in flat sheets.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.sailcut.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

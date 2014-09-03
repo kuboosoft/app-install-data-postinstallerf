@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>hawknl</b>'
+Comment='<span size="xx-large">Game oriented network library</span>'
+Comment3='
+HawkNL is a free, open source, game oriented network API released under the
+GNU LGPL. HawkNL (NL) is a fairly low level API, a wrapper over Berkeley/Unix
+Sockets and Winsock. But NL also provides other features.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.hawksoft.com/hawknl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

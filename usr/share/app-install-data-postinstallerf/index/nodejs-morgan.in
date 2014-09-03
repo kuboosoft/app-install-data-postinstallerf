@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-morgan</b>'
+Comment='<span size="xx-large">Logging middleware for Connect</span>'
+Comment3='
+Logging middleware for Connect.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/expressjs/morgan'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

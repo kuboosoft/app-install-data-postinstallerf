@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-ufo2fdk</b>'
+Comment='<span size="xx-large">A bridge between UFOs and the AFKDO</span>'
+Comment3='
+A bridge between UFOs and the AFKDO.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.typesupply.com/wiki/ufo2fdk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

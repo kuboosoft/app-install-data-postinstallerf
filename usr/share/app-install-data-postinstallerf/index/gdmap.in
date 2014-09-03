@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gdmap</b>'
+Comment='<span size="xx-large">A tool which allows to visualize disk space</span>'
+Comment3='
+GdMap is a tool which allows you to visualize disk space with one single
+picture. To display directory structures, cushion treemaps are used to
+visualize a complete folder or even the whole hard drive with one picture.
+'
+License='GPL+'
+Screenshot=''
+Url='http://gdmap.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

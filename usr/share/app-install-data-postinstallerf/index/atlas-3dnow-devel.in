@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>atlas-3dnow-devel</b>'
+Comment='<span size="xx-large">Development libraries for ATLAS with 3DNow extensions</span>'
+Comment3='
+This package contains headers for ATLAS
+(Automatically Tuned Linear Algebra Software) libraries compiled with
+optimizations for the 3DNow extensions to the ix86 architecture.
+'
+License='BSD'
+Screenshot=''
+Url='http://math-atlas.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

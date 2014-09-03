@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xscreensaver</b>'
+Comment='<span size="xx-large">X screen saver and locker</span>'
+Comment3='
+A modular screen saver and locker for the X Window System.
+More than 200 display modes are included in this package.
+
+This is a metapackage for installing all default packages
+related to XScreenSaver.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.jwz.org/xscreensaver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mod_evasive</b>'
+Comment='<span size="xx-large">Denial of Service evasion module for Apache</span>'
+Comment3='
+mod_evasive is an evasive maneuvers module for Apache to provide evasive
+action in the event of an HTTP DoS or DDoS attack or brute force attack. It
+is also designed to be a detection and network management tool, and can be
+easily configured to talk to firewalls, routers, etc. mod_evasive presently
+reports abuses via email and syslog facilities.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.zdziarski.com/projects/mod_evasive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

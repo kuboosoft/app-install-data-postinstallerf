@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libreplaygain</b>'
+Comment='<span size="xx-large">Gain analysis library from Musepack</span>'
+Comment3='
+Gain analysis library used by Musepack utilities and libraries
+
+URL          http//www.musepack.net/index.php
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.musepack.net/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

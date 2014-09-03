@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>dd_rescue</b>'
+Comment='<span size="xx-large">Fault tolerant "dd" utility for rescuing data from bad media</span>'
+Comment3='
+ddrescue is a utility similar to the system utility "dd" which copies
+data from a file or block device to another. ddrescue does however
+not abort on errors in the input file. This makes it suitable for
+rescuing data from media with errors, e.g. a disk with bad sectors.
+
+This package includes dd_rhelp, a wrapper script facilitating data
+recovery.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.garloff.de/kurt/linux/ddrescue/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsysfs</b>'
+Comment='<span size="xx-large">Shared library for interfacing with sysfs</span>'
+Comment3='
+Library used in handling linux kernel sysfs mounts and their various files.
+
+URL          http//sourceforge.net/projects/linux-diag/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/linux-diag/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

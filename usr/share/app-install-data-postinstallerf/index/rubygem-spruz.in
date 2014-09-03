@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-spruz</b>'
+Comment='<span size="xx-large">Useful tools library in Ruby</span>'
+Comment3='
+All the stuff that isnt good/big enough for a real library.
+'
+License='MIT'
+Screenshot=''
+Url='http://flori.github.com/spruz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

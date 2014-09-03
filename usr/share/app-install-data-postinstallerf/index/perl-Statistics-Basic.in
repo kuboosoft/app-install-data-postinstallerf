@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Statistics-Basic</b>'
+Comment='<span size="xx-large">A collection of very basic statistics modules</span>'
+Comment3='
+use StatisticsBasic qw(all);
+
+my $median = median( 1,2,3 );
+my $mean   = mean(  [1,2,3]); # array refs are ok too
+my $variance = variance( 1,2,3 );
+my $stddev   = stddev(   1,2,3 );
+my $correlation = correlation( [1 .. 3], [1 .. 3] );
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Statistics-Basic/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-logutils</b>'
+Comment='<span size="xx-large">Logging utilities</span>'
+Comment3='
+The logutils package provides a set of handlers for the Python standard
+librarys logging package.
+
+Some of these handlers are out-of-scope for the standard library, and so
+they are packaged here. Others are updated versions which have appeared in
+recent Python releases, but are usable with older versions of Python and so
+are packaged here.
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/logutils'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

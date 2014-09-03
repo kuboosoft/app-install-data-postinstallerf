@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-antrun-plugin</b>'
+Comment='<span size="xx-large">Maven AntRun Plugin</span>'
+Comment3='
+This plugin provides the ability to run Ant tasks from within Maven.
+It is even possible to embed Ant scripts in the POM.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-antrun-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

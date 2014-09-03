@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>avoision</b>'
+Comment='<span size="xx-large">Arcade style game of evade and capture</span>'
+Comment3='
+Avoision is a straightforward, yet captivating distillation of vintage arcade
+entertainment requiring strategy, precision, and perseverance with a singular
+objective capture the red square while evading innumerable cruel, spiteful
+white squares.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://avsn.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

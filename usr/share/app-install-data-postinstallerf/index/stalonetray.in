@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>stalonetray</b>'
+Comment='<span size="xx-large">A stand alone notification area</span>'
+Comment3='
+The stalonetray is a STAnd-aLONE system TRAY (notification area).
+It has minimal build and run-time dependencies the Xlib only. The XEMBED
+support is planned. Stalonetray runs under virtually any window manager.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://stalonetray.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

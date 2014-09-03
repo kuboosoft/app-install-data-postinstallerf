@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>akmod-openafs</b>'
+Comment='<span size="xx-large">Akmod package for openafs kernel module(s)</span>'
+Comment3='
+This package provides the akmod package for the openafs kernel modules.
+'
+License='IBM'
+Screenshot=''
+Url='http://www.openafs.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>munin-cgi</b>'
+Comment='<span size="xx-large">Network-wide graphing framework (cgi files for apache)</span>'
+Comment3='
+Munin package uses cron by default.  This package contains the CGI files that
+can generate HTML and graphs dynamically. This enables munin to scale better
+for a master with many nodes.
+
+See documentation for setup instructions
+http//munin-monitoring.org/wiki/CgiHowto2
+http//munin.readthedocs.org/en/latest/example/webserver/apache-virtualhost.html
+QUICK-HOWTO
+sed -i s/\(.*\)_strategy.*/\1_strategy cgi/ /etc/munin/munin.conf
+'
+License='GPLv2'
+Screenshot=''
+Url='http://munin-monitoring.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

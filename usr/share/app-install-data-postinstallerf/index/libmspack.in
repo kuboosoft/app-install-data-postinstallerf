@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmspack</b>'
+Comment='<span size="xx-large">Library for CAB and related files compression and decompression</span>'
+Comment3='
+The purpose of libmspack is to provide both compression and decompression of
+some loosely related file formats used by Microsoft.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.cabextract.org.uk/libmspack/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

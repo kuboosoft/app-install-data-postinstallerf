@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fluxbox-vim-syntax</b>'
+Comment='<span size="xx-large">Fluxbox syntax scripts for vim</span>'
+Comment3='
+Enable vim syntax highlighting support for fluxbox configuration files (menu,
+keys, apps).
+'
+License='MIT'
+Screenshot=''
+Url='http://fluxbox.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

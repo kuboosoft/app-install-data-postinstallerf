@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>maven-archetype</b>'
+Comment='<span size="xx-large">Maven project templating toolkit</span>'
+Comment3='
+Archetype is a Maven project templating toolkit. An archetype is
+defined as an original pattern or model from which all other things of
+the same kind are made. The names fits as we are trying to provide a
+system that provides a consistent means of generating Maven
+projects. Archetype will help authors create Maven project templates
+for users, and provides users with the means to generate parameterized
+versions of those project templates.
+
+Using archetypes provides a great way to enable developers quickly in
+a way consistent with best practices employed by your project or
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://maven.apache.org/archetype/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

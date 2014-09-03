@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ipxe-roms</b>'
+Comment='<span size="xx-large">Network boot loader roms in .rom format</span>'
+Comment3='
+iPXE is an open source network bootloader. It provides a direct
+replacement for proprietary PXE ROMs, with many extra features such as
+DNS, HTTP, iSCSI, etc.
+
+This package contains the iPXE roms in .rom format.
+'
+License='GPLv2 and BSD'
+Screenshot=''
+Url='http://ipxe.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

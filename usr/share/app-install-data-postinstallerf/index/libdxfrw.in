@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdxfrw</b>'
+Comment='<span size="xx-large">Library to read and write DXF files in ascii and binary form</span>'
+Comment3='
+This C++ library is a free library to read and write DXF files
+in both formats, ascii and binary form.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libdxfrw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

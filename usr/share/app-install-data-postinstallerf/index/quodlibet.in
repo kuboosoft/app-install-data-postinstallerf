@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>quodlibet</b>'
+Comment='<span size="xx-large">A music management program</span>'
+Comment3='
+Quod Libet is a music management program. It provides several different ways
+to view your audio library, as well as support for Internet radio and
+audio feeds. It has extremely flexible metadata tag editing and searching
+capabilities.
+Supported file formats include Ogg Vorbis, MP3, FLAC, MOD/XM/IT, Musepack,
+Wavpack, and MPEG-4 AAC.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://code.google.com/p/quodlibet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

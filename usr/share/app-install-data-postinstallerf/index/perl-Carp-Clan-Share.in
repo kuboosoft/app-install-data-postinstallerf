@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Carp-Clan-Share</b>'
+Comment='<span size="xx-large">Share your Carp::Clan settings with your whole Clan</span>'
+Comment3='
+This is a very lightweight helper module (actually just an import method)
+that will automagically create a __PACKAGE__Carp module for you.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Carp-Clan-Share/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

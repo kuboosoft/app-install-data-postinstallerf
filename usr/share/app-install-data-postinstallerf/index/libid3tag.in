@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libid3tag</b>'
+Comment='<span size="xx-large">ID3 tag manipulation library</span>'
+Comment3='
+libid3tag is a library for reading and (eventually) writing ID3 tags,
+both ID3v1 and the various versions of ID3v2.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.underbit.com/products/mad/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mailgraph-selinux</b>'
+Comment='<span size="xx-large">A RRDtool frontend for Mail statistics</span>'
+Comment3='
+This is the selinux policy for mailgraph.
+'
+License='GPL+'
+Screenshot=''
+Url='http://mailgraph.schweikert.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

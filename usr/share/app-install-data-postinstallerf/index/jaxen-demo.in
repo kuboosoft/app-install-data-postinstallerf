@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jaxen-demo</b>'
+Comment='<span size="xx-large">Samples for jaxen</span>'
+Comment3='
+Samples for jaxen.
+'
+License='BSD'
+Screenshot=''
+Url='http://jaxen.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

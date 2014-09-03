@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n meshlab
+Version=1.0
+Name=MeshLab
+Name[en_GB]=MeshLab
+GenericName=Mesh processing
+GenericName[en_GB]=Mesh processing
+Comment=View and process meshes
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_meshlab_32x32.png
+Terminal=false
+Categories=Graphics;3DGraphics;Viewer;Qt;

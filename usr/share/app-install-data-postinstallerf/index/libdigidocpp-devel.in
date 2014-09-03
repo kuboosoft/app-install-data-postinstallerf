@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdigidocpp-devel</b>'
+Comment='<span size="xx-large">Development files for libdigidocpp</span>'
+Comment3='
+The libdigidocpp-devel package contains libraries and header files for
+developing applications that use libdigidocpp.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/esteid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

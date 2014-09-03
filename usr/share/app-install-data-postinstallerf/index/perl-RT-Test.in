@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-RT-Test</b>'
+Comment='<span size="xx-large">rt3s test utility module</span>'
+Comment3='
+rt3s test utility module
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.bestpractical.com/rt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

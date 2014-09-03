@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>vavoom</b>'
+Comment='<span size="xx-large">Enhanced Doom, Heretic, Hexen and Strife source port</span>'
+Comment3='
+Vavoom is an enhanced open-source port of Doom. Allowing you to play not only
+the classic 3D first-person shooter Doom, but also the Doom derived classics
+Heretic, Hexen and Strife. Compared to the original games it adds extra
+features such as translucency and freelook support and ofcourse the capability
+to play these classics under Linux.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://vavoom-engine.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

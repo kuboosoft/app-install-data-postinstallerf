@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgambatte-devel</b>'
+Comment='<span size="xx-large">Development files for libgambatte</span>'
+Comment3='
+This package contains development files for libgambatte.
+
+URL          http//sourceforge.net/projects/gambatte/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/gambatte/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

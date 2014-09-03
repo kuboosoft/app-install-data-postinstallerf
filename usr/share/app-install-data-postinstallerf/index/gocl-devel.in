@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gocl-devel</b>'
+Comment='<span size="xx-large">Development files for gocl</span>'
+Comment3='
+The gocl-devel package contains libraries and header files for
+developing applications that use gocl.
+
+'
+License='LGPLv3'
+Screenshot=''
+Url='https://github.com/elima/gocl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

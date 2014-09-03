@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>evince</b>'
+Comment='<span size="xx-large">Document viewer</span>'
+Comment3='
+Evince is simple multi-page document viewer. It can display and print
+Portable Document Format (PDF), PostScript (PS) and Encapsulated PostScript
+(EPS) files. When supported by the document format, evince allows searching
+for text, copying text to the clipboard, hypertext navigation,
+table-of-contents bookmarks and editing of forms.
+
+ Support for other document formats such as DVI and DJVU can be added by
+installing additional backends.
+'
+License='GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse'
+Screenshot=''
+Url='http://projects.gnome.org/evince/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

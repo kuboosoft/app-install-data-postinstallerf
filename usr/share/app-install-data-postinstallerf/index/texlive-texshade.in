@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-texshade</b>'
+Comment='<span size="xx-large">Package for setting nucleotide and peptide alignments</span>'
+Comment3='
+TeXshade is alignment shading software completely written in
+TeX/LaTeX; it can process multiple sequence alignments in the
+.MSF and the .ALN file formats. In addition to common shading
+algorithms, it provides special shading modes showing
+functional aspects, e.g. charge or hydropathy, and a wide range
+of commands for handling shading colours, text styles, labels,
+legends; it even allows the user to define completely new
+shading modes. TeXshade combines highest flexibility with TeX
+excessive development time of the user.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

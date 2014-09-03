@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>senamirmir-washra-yigezu-bisrat-goffer-fonts</b>'
+Comment='<span size="xx-large">A decorative font for the Ge?ez (Ethiopic) script</span>'
+Comment3='
+
+A set of high quality unicode fonts for the  Ge?ez (Ethiopic) script
+published by the Senamirmir project. They can be used to write Ethiopic and
+Eritrean languages (Amharic, Blin, Ge?ez, Harari, Me?en, Tigre, Tigrinya?).
+This package consists of the ?Ethiopic Yigezu Bisrat Goffer? font, a ?Gothic
+Goffer? decorative font. It is dedicated to Ato Yigezu Bisrat, whose 1963 book
+?Ye-ethiopia khine tsehifet? (Ethiopian Typography) provided the original
+design that served as inspiration for this work.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.senamirmir.org/projects/typography/typeface.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

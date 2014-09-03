@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>golang-github-kdar-factorlog-devel</b>'
+Comment='<span size="xx-large">Fast logging infrastructure for Go</span>'
+Comment3='
+Fast logging infrastructure for Go
+
+FactorLog is a fast logging infrastructure for Go that provides numerous
+logging functions for whatever your style may be. It could easily be a
+replacement for Gos log in the standard library (though it doesnt support
+functions such as SetFlags()).
+This package contains library source intended for building other packages
+which use kdar/factorlog.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gorillatoolkit.org/pkg/context'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

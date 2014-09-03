@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ruby-openid-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-ruby-openid</span>'
+Comment3='
+Documentation for rubygem-ruby-openid
+'
+License='Ruby and ASL 2.0 and MIT'
+Screenshot=''
+Url='https://github.com/openid/ruby-openid'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

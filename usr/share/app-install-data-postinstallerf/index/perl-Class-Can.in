@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Class-Can</b>'
+Comment='<span size="xx-large">Inspect a class/method and say what it can do (and why)</span>'
+Comment3='
+ClassCan interrogates the object heirarchy of a package to return a hash
+detailling what methods the class could dispatch (as the key), and the
+package it found it in (as the value).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Can/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qt5-qtconfiguration</b>'
+Comment='<span size="xx-large">Qt5 - QtConfiguration module</span>'
+Comment3='
+Settings API with change notifications.
+
+URL          https//github.com/mauios/qtconfiguration
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='https://github.com/mauios/qtconfiguration'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

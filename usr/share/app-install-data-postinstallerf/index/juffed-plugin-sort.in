@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>juffed-plugin-sort</b>'
+Comment='<span size="xx-large">SortDocument plugin for juffed</span>'
+Comment3='
+Sort text files plugin.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

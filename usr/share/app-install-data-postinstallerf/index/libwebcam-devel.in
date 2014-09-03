@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwebcam-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for libwebcam</span>'
+Comment3='
+Development libraries and headers for libwebcam.
+
+URL          http//sourceforge.net/p/libwebcam/wiki/Home/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/p/libwebcam/wiki/Home/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

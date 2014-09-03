@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lcg-util</b>'
+Comment='<span size="xx-large">Command line tools for wlcg storage system</span>'
+Comment3='
+The LCG Utilities package is the main end user command line tool
+for data management provided by LCG
+(applications will generally use the Grid File Access Library).
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

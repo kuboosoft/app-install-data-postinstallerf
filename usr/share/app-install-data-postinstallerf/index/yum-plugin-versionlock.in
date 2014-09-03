@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>yum-plugin-versionlock</b>'
+Comment='<span size="xx-large">Yum plugin to lock specified packages from being updated</span>'
+Comment3='
+This plugin takes a set of name/versions for packages and excludes all other
+versions of those packages (including optionally following obsoletes). This
+allows you to protect packages from being updated by newer versions,
+for example.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yum.baseurl.org/download/yum-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

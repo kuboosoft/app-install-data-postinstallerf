@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ScientificPython-devel</b>'
+Comment='<span size="xx-large">The development files for ScientificPython</span>'
+Comment3='
+This package contains the ScientificPython header files
+
+URL          http//dirac.cnrs-orleans.fr/ScientificPython/
+'
+License='CeCILL'
+Screenshot=''
+Url='http://dirac.cnrs-orleans.fr/ScientificPython/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ddpt</b>'
+Comment='<span size="xx-large">Variant of the dd utility for SCSI/storage devices</span>'
+Comment3='
+The ddpt utility is a variant of the standard Unix command dd which copies
+files. The ddpt utility specializes in files that are block devices. For block
+devices that understand the SCSI command set, finer grain control over the
+copy may be available via a SCSI pass-through interface. Note that recent
+(S)ATA disks can often be driven by SCSI commands due to SCSI to ATA
+translation (SAT) implemented in the kernel.
+'
+License='BSD'
+Screenshot=''
+Url='http://sg.danny.cz/sg/ddpt.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

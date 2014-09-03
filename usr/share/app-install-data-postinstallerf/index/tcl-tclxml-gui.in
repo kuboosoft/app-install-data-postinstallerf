@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tcl-tclxml-gui</b>'
+Comment='<span size="xx-large">UI widgets for manipulating a DOM tree</span>'
+Comment3='
+This package provides some useful widgets for manipulating a DOM tree.
+'
+License='BSD'
+Screenshot=''
+Url='http://tclxml.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

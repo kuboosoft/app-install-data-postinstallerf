@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>orca</b>'
+Comment='<span size="xx-large">Assistive technology for people with visual impairments</span>'
+Comment3='
+Orca is a screen reader that provides access to the graphical desktop via
+user-customizable combinations of speech and/or braille. Orca works with
+applications and toolkits that support the assistive technology service
+provider interface (AT-SPI), e.g. the GNOME desktop.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/orca/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

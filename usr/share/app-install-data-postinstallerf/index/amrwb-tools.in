@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>amrwb-tools</b>'
+Comment='<span size="xx-large">Adaptive Multi-Rate - Wideband (AMR-WB) Speech Codec tools</span>'
+Comment3='
+Adaptive Multi-Rate Wideband decoding and encoding tools.
+'
+License='Distributable'
+Screenshot=''
+Url='http://www.penguin.cz/~utx/amr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

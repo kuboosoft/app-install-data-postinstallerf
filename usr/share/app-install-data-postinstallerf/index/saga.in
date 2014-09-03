@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>saga</b>'
+Comment='<span size="xx-large">Geographic information system with an API for processing geodata</span>'
+Comment3='
+SAGA is a geographic information system (GIS) with a special API
+for geographic data processing. This API makes it easy to implement
+new algorithms. The SAGA API supports grid data, vector data, and tables.
+
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://www.saga-gis.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

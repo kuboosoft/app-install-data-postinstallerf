@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>Mosaic</b>'
+Comment='<span size="xx-large">Web Browser</span>'
+Comment3='
+Mosaic is a web browser and client for protocols such as FTP, Usenet, and
+Gopher. Its has a clean, easily understood user interface and is capable of
+displaying images inline with text.
+'
+License='Mosaic'
+Screenshot=''
+Url='http://www.ncsa.uiuc.edu/Projects/mosaic.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

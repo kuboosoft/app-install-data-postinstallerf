@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>icu</b>'
+Comment='<span size="xx-large">International Components for Unicode</span>'
+Comment3='
+Tools and utilities for developing with icu.
+'
+License='MIT and UCD and Public Domain'
+Screenshot=''
+Url='http://www.icu-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

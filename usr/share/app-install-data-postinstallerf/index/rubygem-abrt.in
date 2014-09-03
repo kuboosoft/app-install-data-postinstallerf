@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-abrt</b>'
+Comment='<span size="xx-large">ABRT support for Ruby MRI</span>'
+Comment3='
+Provides ABRT reporting support for applications written using Ruby.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/voxik/abrt-ruby'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

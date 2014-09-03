@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rogue</b>'
+Comment='<span size="xx-large">The original graphical adventure game</span>'
+Comment3='
+The one, the only, the original graphical adventure game that spawned
+an entire genre.
+'
+License='BSD'
+Screenshot=''
+Url='http://rogue.rogueforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

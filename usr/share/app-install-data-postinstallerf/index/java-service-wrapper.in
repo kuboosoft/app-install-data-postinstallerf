@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>java-service-wrapper</b>'
+Comment='<span size="xx-large">Java service wrapper</span>'
+Comment3='
+The Java Service Wrapper enables a Java application to be run as a
+Unix daemon.  It also monitors the health of your application and JVM.
+'
+License='MIT'
+Screenshot=''
+Url='https://bitbucket.org/ivertex/yaja-wrapper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

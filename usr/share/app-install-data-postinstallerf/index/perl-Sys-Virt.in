@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Sys-Virt</b>'
+Comment='<span size="xx-large">Represent and manage a libvirt hypervisor connection</span>'
+Comment3='
+The SysVirt module provides a Perl XS binding to the libvirt virtual
+machine management APIs. This allows machines running within arbitrary
+virtualization containers to be managed with a consistent API.
+'
+License='GPLv2+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sys-Virt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

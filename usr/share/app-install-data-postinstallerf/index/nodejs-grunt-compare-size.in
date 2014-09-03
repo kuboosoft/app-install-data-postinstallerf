@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-grunt-compare-size</b>'
+Comment='<span size="xx-large">Compare file sizes on this branch to master</span>'
+Comment3='
+Compare file sizes on this branch to master.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rwldrn/grunt-compare-size'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

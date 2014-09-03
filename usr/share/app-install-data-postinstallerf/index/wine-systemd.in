@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wine-systemd</b>'
+Comment='<span size="xx-large">Systemd config for the wine binfmt handler</span>'
+Comment3='
+Register the wine binary handler for windows executables via systemd binfmt
+handling. See man binfmt.d for further information.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>expat-devel</b>'
+Comment='<span size="xx-large">Libraries and header files to develop applications using expat</span>'
+Comment3='
+The expat-devel package contains the libraries, include files and documentation
+to develop XML applications with expat.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.libexpat.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

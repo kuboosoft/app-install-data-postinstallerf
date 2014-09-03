@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cryptominisat-libs</b>'
+Comment='<span size="xx-large">Cryptominisat library</span>'
+Comment3='
+The cryptominisat library.
+
+URL          http//www.msoos.org/cryptominisat2/
+'
+License='MIT'
+Screenshot=''
+Url='http://www.msoos.org/cryptominisat2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

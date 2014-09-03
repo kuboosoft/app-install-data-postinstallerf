@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-rmpage</b>'
+Comment='<span size="xx-large">A package to help change page layout parameters in LaTeX</span>'
+Comment3='
+The package lets you change page layout parameters in small
+steps over a range of values using options. It can set
+\textwidth appropriately for the main fount, and ensure that
+the text fits inside the printable area of a printer. An
+rmpage-formatted document can be typeset identically without
+rmpage after a single cut and paste operation. Local
+configuration can set defaults for all documents; and by
+class, by printer, and by paper size. The geometry package is
+better if you want to set page layout parameters to particular
+measurements.
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-srbook-mem</b>'
+Comment='<span size="xx-large">srbook-mem package</span>'
+Comment3='
+srbook-mem package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

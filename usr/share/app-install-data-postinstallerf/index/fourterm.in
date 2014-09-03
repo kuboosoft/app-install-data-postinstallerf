@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fourterm</b>'
+Comment='<span size="xx-large">Lightweight split-screen terminal emulator with vim key mappings</span>'
+Comment3='
+FourTerm is ultra-lightweight terminal emulator with vim-like keyboard shortcuts
+for window navigation, active web and file links, search feature and sexy color
+"Solarized" scheme with day/night fast switching. It is based on ValaTerm and
+comparable to Terminator.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/lzap/fourterm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

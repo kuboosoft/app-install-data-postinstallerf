@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pyzy</b>'
+Comment='<span size="xx-large">The Chinese PinYin and Bopomofo conversion library</span>'
+Comment3='
+The Chinese Pinyin and Bopomofo conversion library.
+
+URL          http//code.google.com/p/pyzy
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/pyzy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

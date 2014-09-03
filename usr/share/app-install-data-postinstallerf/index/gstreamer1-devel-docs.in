@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gstreamer1-devel-docs</b>'
+Comment='<span size="xx-large">Developer documentation for GStreamer streaming media framework</span>'
+Comment3='
+This gstreamer1-devel-docs contains developer documentation for the
+GStreamer streaming media framework.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gstreamer.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

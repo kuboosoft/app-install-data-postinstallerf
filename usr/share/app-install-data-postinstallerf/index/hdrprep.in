@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>hdrprep</b>'
+Comment='<span size="xx-large">Align digicam images and fix EXIF information</span>'
+Comment3='
+hdrprep is a Perl script for registering exposure-bracketed sequences of
+digital photographs. This allows you to generated High Dynamic Range (HDR)
+images from hand-held image sequences.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.luxal.eu/resources/hdr/hdrprep/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

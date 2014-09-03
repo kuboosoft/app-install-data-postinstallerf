@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tiled-plugin-droidcraft</b>'
+Comment='<span size="xx-large">Droidcraft plugin for tiled</span>'
+Comment3='
+A plugin for tiled which allows to save maps as .dat droidcraft maps.
+
+Warning This plugin does not offer full compatibility with Tileds features.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mapeditor.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

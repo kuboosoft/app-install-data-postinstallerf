@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openbabel-devel</b>'
+Comment='<span size="xx-large">Development tools for programs which will use the Open Babel library</span>'
+Comment3='
+The openbabel-devel package includes the header files and libraries
+necessary for developing programs using the Open Babel library.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://openbabel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

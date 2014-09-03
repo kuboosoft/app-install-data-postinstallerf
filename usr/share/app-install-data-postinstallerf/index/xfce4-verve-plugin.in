@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xfce4-verve-plugin</b>'
+Comment='<span size="xx-large">Comfortable command line plugin for the Xfce panel</span>'
+Comment3='
+This plugin is like the (quite old) xfce4-minicmd-plugin, except that it ships
+more cool features, such as
+* Command history
+* Auto-completion (including command history)
+* Open URLs and eMail addresses in your favourite applications
+* Focus grabbing via D-BUS (so you can bind a shortcut to it)
+* Custom input field width
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-verve-plugin'
+* Open URLs and eMail addresses in your favourite applications'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

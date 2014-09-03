@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qdbm++</b>'
+Comment='<span size="xx-large">QDBM Database Library for C++</span>'
+Comment3='
+This package contains a C++ interface for QDBM Database library.
+
+URL          http//fallabs.com/qdbm/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fallabs.com/qdbm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

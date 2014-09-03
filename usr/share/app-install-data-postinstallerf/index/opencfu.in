@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>opencfu</b>'
+Comment='<span size="xx-large">An application to count bacterial colonies and other circular objects</span>'
+Comment3='
+OpenCFU is a completely open source lightweight application designed to
+enumerate clustered circular objects such as bacterial colonies. It can
+handle digital pictures as well as live stream from a video device/webcam.
+OpenCFU is cross-platform, fast, reliable and allows the user to implement
+intuitive filters.
+
+OpenCFU is published on PLoS ONE
+http//www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0054072
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://opencfu.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

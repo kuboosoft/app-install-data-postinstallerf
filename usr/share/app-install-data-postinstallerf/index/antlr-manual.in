@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>antlr-manual</b>'
+Comment='<span size="xx-large">Manual for antlr</span>'
+Comment3='
+Documentation for antlr.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.antlr.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

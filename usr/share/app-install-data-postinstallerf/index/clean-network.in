@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>clean-network</b>'
+Comment='<span size="xx-large">An TCP/IP implementation for Clean</span>'
+Comment3='
+TCP/IP support for Clean
+'
+License='LGPLv2+ or BSD'
+Screenshot=''
+Url='http://wiki.clean.cs.ru.nl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

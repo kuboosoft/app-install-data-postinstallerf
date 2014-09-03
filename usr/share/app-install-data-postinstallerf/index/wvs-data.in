@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wvs-data</b>'
+Comment='<span size="xx-large">World Vector Shoreline data</span>'
+Comment3='
+This package contains World Vector Shoreline data, which can
+be used for XTide related applications.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.flaterco.com/xtide/files.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openid4java</b>'
+Comment='<span size="xx-large">This library allows you to OpenID-enable your Java web-app</span>'
+Comment3='
+OpenID4Java library offers support for OpenID-enabling a
+consumer site or implementing an OpenID Provider server.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/openid4java/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

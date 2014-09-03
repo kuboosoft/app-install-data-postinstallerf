@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>OpenIPMI-python</b>'
+Comment='<span size="xx-large">IPMI Python language bindings</span>'
+Comment3='
+The OpenIPMI-python package contains the Python language bindings for OpenIPMI.
+'
+License='LGPLv2+ and GPLv2+ or BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/openipmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsexymm</b>'
+Comment='<span size="xx-large">C++ wrapper for libsexy</span>'
+Comment3='
+libsexymm is a set of C++ bindings around libsexy,
+compatible with programs using gtkmm.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.chipx86.com/wiki/Libsexy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

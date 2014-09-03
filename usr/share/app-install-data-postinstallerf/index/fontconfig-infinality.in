@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fontconfig-infinality</b>'
+Comment='<span size="xx-large">Infinality font configuration file</span>'
+Comment3='
+A /etc/fonts/local.conf file that is configured to render fonts the way
+Infinality likes them, when using patches from http//www.infinality.net
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.infinality.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

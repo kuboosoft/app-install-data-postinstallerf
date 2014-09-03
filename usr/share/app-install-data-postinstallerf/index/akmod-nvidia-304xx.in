@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>akmod-nvidia-304xx</b>'
+Comment='<span size="xx-large">Akmod package for nvidia-304xx kernel module(s)</span>'
+Comment3='
+This package provides the akmod package for the nvidia-304xx kernel modules.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.nvidia.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

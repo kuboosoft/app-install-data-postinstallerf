@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-CAD-Format-STL</b>'
+Comment='<span size="xx-large">Read and Write STL (STereo Lithography) format files</span>'
+Comment3='
+The CADFormatSTL perl module provides object-oriented methods to read
+and write files in STL (STereo Lithography) format. Support is provided
+for both the ASCII and binary versions of the STL format.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CAD-Format-STL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

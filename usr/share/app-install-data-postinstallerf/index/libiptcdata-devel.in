@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libiptcdata-devel</b>'
+Comment='<span size="xx-large">Headers and libraries for libiptcdata application development</span>'
+Comment3='
+The libiptcdata-devel package contains the libraries and include files
+that you can use to develop libiptcdata applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libiptcdata.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

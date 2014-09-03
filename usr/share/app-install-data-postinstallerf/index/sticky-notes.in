@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sticky-notes</b>'
+Comment='<span size="xx-large">Sticky notes is a free and open source paste-bin application</span>'
+Comment3='
+Sticky notes is a free and open source paste-bin application.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/sayakb/sticky-notes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

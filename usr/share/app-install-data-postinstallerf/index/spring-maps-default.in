@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spring-maps-default</b>'
+Comment='<span size="xx-large">Default maps for Spring</span>'
+Comment3='
+This package contains the default maps for Spring Small Divide, Comet Catcher
+Redux, and Sands of War.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://spring.jobjol.nl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

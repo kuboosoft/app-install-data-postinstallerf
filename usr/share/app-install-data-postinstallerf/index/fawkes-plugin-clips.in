@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-clips</b>'
+Comment='<span size="xx-large">Fawkes plugin providing CLIPS environments</span>'
+Comment3='
+This package contains a Fawkes plugin that provides CLIPS environments
+to other plugins.
+
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

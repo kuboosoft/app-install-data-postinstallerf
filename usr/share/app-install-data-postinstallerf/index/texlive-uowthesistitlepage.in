@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-uowthesistitlepage</b>'
+Comment='<span size="xx-large">Title page for dissertations at the University of Wollongong</span>'
+Comment3='
+The package redefines \maketitle to generate a title page for a
+University of Wollongong thesis, in accordance with the UoW
+branding guidelines. The package should be used with the book
+class to typeset a thesis. The package also defines a
+\declaration command that typesets the declaration that this
+thesis is your own work, etc., which is required in the front
+of each PhD Thesis.
+
+date 2013-09-17 165309 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

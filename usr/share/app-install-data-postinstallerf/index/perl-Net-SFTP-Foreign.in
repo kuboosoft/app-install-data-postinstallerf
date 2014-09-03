@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>perl-Net-SFTP-Foreign</b>'
+Comment='<span size="xx-large">SSH File Transfer Protocol client</span>'
+Comment3='
+NetSFTPForeign is a Perl client for the SFTP version 3 as defined in the SSH
+File Transfer Protocol IETF draft, draft-ietf-secsh-filexfer-02.txt, included on
+this package distribution, on the rfc directory.
+
+NetSFTPForeign uses any compatible ssh command installed on the system (for
+instance, OpenSSH ssh) to establish the secure connection to the remote server.
+A wrapper module NetSFTPForeignCompat is also provided for compatibility
+with NetSFTP.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-SFTP-Foreign'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

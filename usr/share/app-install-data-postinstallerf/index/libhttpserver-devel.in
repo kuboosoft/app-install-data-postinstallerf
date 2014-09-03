@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libhttpserver-devel</b>'
+Comment='<span size="xx-large">Development files for libhttpserver</span>'
+Comment3='
+libhttpserver is a small C++ library for embedding RESTful HTTP server
+functionality into applications. This package contains development files
+and headers.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/etr/libhttpserver'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

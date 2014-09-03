@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mate-file-manager-schemas</b>'
+Comment='<span size="xx-large">Mate-file-manager schemas</span>'
+Comment3='
+This package provides the gsettings schemas for caja.
+
+URL          http//mate-desktop.org
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

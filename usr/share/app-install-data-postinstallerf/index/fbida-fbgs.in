@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fbida-fbgs</b>'
+Comment='<span size="xx-large">Framebuffer Postscript Viewer</span>'
+Comment3='
+A wrapper script for viewing ps/pdf files on the framebuffer console using fbi
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://linux.bytesex.org/fbida/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

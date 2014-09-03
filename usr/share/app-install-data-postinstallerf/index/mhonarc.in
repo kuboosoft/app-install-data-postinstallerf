@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mhonarc</b>'
+Comment='<span size="xx-large">Perl mail-to-HTML converter</span>'
+Comment3='
+MHonArc is a Perl mail-to-HTML converter. MHonArc provides HTML mail
+archiving with index, mail thread linking, etc; plus other
+capabilities including support for MIME and powerful user
+customization features.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mhonarc.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

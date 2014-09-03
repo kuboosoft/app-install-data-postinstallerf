@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libssh2-python</b>'
+Comment='<span size="xx-large">Python binding for the libssh2 library</span>'
+Comment3='
+libssh2-python is a python binding for the libssh2 library
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/wallunit/ssh4py'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>workrave-devel</b>'
+Comment='<span size="xx-large">Development files for workrave</span>'
+Comment3='
+Development files for workrave.
+
+URL          http//www.workrave.org/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.workrave.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

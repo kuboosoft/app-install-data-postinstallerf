@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libchamplain-demos</b>'
+Comment='<span size="xx-large">Demo apps for libchamplain</span>'
+Comment3='
+This package contains demos for development using libchamplain.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/libchamplain/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

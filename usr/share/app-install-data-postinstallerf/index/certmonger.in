@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>certmonger</b>'
+Comment='<span size="xx-large">Certificate status monitor and PKI enrollment client</span>'
+Comment3='
+Certmonger is a service which is primarily concerned with getting your
+system enrolled with a certificate authority (CA) and keeping it enrolled.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://certmonger.fedorahosted.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

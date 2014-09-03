@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>gnome-chemistry-utils-gnumeric</b>'
+Comment='<span size="xx-large">Gnome Chemistry Utils plugin for Gnumeric</span>'
+Comment3='
+This package is a set of chemical utils. Several programs are available
+* A 3D molecular structure viewer (GChem3D).
+* A Chemical calculator (GChemCalc).
+* A 2D structure editor (GChemPaint).
+* A periodic table of the elements application (GChemTable).
+* A crystalline structure editor (GCrystal).
+* A spectra viewer (GSpectrum).
+This package contains a plugin adding a few chemistry-related functions to
+gnumeric.
+'
+License='GPLv3+ and GPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/gchemutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

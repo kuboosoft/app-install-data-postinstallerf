@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-XML-Parser</b>'
+Comment='<span size="xx-large">Perl module for parsing XML documents</span>'
+Comment3='
+This module provides ways to parse XML documents. It is built on top
+of XMLParserExpat, which is a lower level interface to James
+Clarks expat library. Each call to one of the parsing methods creates
+a new instance of XMLParserExpat which is then used to parse the
+document. Expat options may be provided when the XMLParser object is
+created. These options are then passed on to the Expat object on each
+parse call. They can also be given as extra arguments to the parse
+methods, in which case they override options given at XMLParser
+creation time.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-Parser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openspecfun-devel</b>'
+Comment='<span size="xx-large">Library providing a collection of special mathematical functions</span>'
+Comment3='
+Contains header files for developing applications that use the openspecfun
+library.
+
+'
+License='MIT and Public Domain'
+Screenshot=''
+Url='https://github.com/JuliaLang/openspecfun'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

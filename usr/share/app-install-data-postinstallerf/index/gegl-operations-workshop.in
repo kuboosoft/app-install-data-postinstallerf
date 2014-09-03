@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gegl-operations-workshop</b>'
+Comment='<span size="xx-large">Experimental operations for GEGL</span>'
+Comment3='
+This package contains experimental operations for GEGL. If used they may yield
+unwanted results, or even crash. Youre warned!
+'
+License='LGPLv3+ and GPLv3+'
+Screenshot=''
+Url='http://www.gegl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

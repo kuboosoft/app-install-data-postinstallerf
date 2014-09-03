@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gnustep-gui-doc</b>'
+Comment='<span size="xx-large">Documentation for gnustep-gui</span>'
+Comment3='
+The GNUstep GUI library is a library of graphical user interface classes
+written completely in the Objective-C language; the classes are based
+upon the OpenStep specification as release by NeXT Software, Inc.  These
+classes include graphical objects such as buttons, text fields, popup
+lists, browser lists, and windows; there are also many associated
+classes for handling events, colors, fonts, pasteboards and images.
+
+This package contains the documentation for gnustep-gui
+'
+License='GFDL'
+Screenshot=''
+Url='http://www.gnustep.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

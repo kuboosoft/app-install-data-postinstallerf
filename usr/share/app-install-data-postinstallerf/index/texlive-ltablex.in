@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-ltablex</b>'
+Comment='<span size="xx-large">Table package extensions</span>'
+Comment3='
+Modifies the tabularx environment to combine the features of
+the tabularx package (auto-sized columns in a fixed width
+table) with those of the longtable package (multi-page tables).
+
+date 2013-04-12 103124 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

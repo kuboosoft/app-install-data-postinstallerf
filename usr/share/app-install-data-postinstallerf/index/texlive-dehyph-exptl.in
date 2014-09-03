@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-dehyph-exptl</b>'
+Comment='<span size="xx-large">Experimental hyphenation patterns for the German language</span>'
+Comment3='
+The package provides experimental hyphenation patterns for the
+German language, covering both traditional and reformed
+orthography. The patterns can be used with packages Babel and
+hyphsubst.
+
+date 2013-05-29 004455 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

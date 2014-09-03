@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>psgml</b>'
+Comment='<span size="xx-large">GNU Emacs major mode for editing SGML documents</span>'
+Comment3='
+Emacs is an advanced and extensible editor. An Emacs major mode customizes Emacs
+for editing particular types of text documents. PSGML is a major mode for SGML
+(a markup language) documents.  PSGML provides several functionalities for
+editing SGML documents indentation according to element nesting depth and
+identification of structural errors (but it is not a validating SGML parser);
+menus and commands for inserting tags with only the contextually valid tags;
+attribute values can be edited in a separate window with information about types
+and defaults; structure based editing includes movement and killing; and also
+several commands for folding editing.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lysator.liu.se/projects/about_psgml.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

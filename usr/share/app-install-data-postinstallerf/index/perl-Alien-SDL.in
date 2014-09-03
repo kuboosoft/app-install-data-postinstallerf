@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Alien-SDL</b>'
+Comment='<span size="xx-large">Building, finding and using SDL binaries</span>'
+Comment3='
+In short AlienSDL can be used to detect and get configuration settings from
+an installed SDL and related libraries. Based on your platform it offers the
+possibility to download and install pre-built binaries or to build SDL & co.
+from source codes.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Alien-SDL/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

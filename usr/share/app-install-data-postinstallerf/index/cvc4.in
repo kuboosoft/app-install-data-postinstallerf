@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>cvc4</b>'
+Comment='<span size="xx-large">Automatic theorem prover for SMT problems</span>'
+Comment3='
+CVC4 is an efficient open-source automatic theorem prover for
+satisfiability modulo theories (SMT) problems.  It can be used to prove
+the validity (or, dually, the satisfiability) of first-order formulas in
+a large number of built-in logical theories and their combination.
+
+CVC4 is the fourth in the Cooperating Validity Checker family of tools
+(CVC, CVC Lite, CVC3) but does not directly incorporate code from any
+previous version.  A joint project of NYU and U Iowa, CVC4 aims to
+support the  features of CVC3 and SMT-LIBv2 while optimizing the design
+of the core system architecture and decision procedures to take
+'
+License='MIT and BSD and Boost'
+Screenshot=''
+Url='http://cvc4.cs.nyu.edu/web/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

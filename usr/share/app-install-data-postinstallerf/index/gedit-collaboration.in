@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gedit-collaboration</b>'
+Comment='<span size="xx-large">Collaboration plugin for gedit</span>'
+Comment3='
+Collaboration plugin that provides support for collaborative editing in gedit.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://projects.gnome.org/gedit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

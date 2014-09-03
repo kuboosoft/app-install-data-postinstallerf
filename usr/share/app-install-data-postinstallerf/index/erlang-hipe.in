@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-hipe</b>'
+Comment='<span size="xx-large">High Performance Erlang</span>'
+Comment3='
+High Performance Erlang.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-extras</b>'
+Comment='<span size="xx-large">Zend Framework Extras (ZendX)</span>'
+Comment3='
+This package includes the ZendX libraries.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

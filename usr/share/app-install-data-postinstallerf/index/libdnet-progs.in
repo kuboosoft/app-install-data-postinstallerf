@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libdnet-progs</b>'
+Comment='<span size="xx-large">Sample applications to use with libdnet</span>'
+Comment3='
+Sample applications to use with libdnet.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/libdnet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

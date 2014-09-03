@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mono-extras</b>'
+Comment='<span size="xx-large">Provides the infrastructure for running and building daemons and services with Mono as well as various stub assemblies</span>'
+Comment3='
+This package provides the libary and application to run services
+and daemons with Mono. It also includes stubs for the following
+2.0 assemblies Microsoft.Vsa,
+System.Configuration.Install, System.Management, System.Messaging.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

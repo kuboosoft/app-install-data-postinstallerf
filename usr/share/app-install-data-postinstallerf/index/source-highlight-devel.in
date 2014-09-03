@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>source-highlight-devel</b>'
+Comment='<span size="xx-large">Development files for source-highlight</span>'
+Comment3='
+Development files for source-highlight
+
+URL          http//www.gnu.org/software/src-highlite/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/src-highlite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

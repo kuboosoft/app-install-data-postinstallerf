@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ascii</b>'
+Comment='<span size="xx-large">Interactive ascii name and synonym chart</span>'
+Comment3='
+The ascii utility provides easy conversion between various byte representations
+and the American Standard Code for Information Interchange (ASCII) character
+table.  It knows about a wide variety of hex, binary, octal, Teletype mnemonic,
+ISO/ECMA code point, slang names, XML entity names, and other representations.
+Given any one on the command line, it will try to display all others.  Called
+with no arguments it displays a handy small ASCII chart.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.catb.org/~esr/ascii/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>man2html</b>'
+Comment='<span size="xx-large">Convert man pages to HTML - CGI scripts</span>'
+Comment3='
+man2html is a man page to HTML converter.
+
+This package contains CGI scripts that allow you to view, browse, and search
+man pages using a web server.
+'
+License='GPLv2+ and GPL+ and Copyright only'
+Screenshot=''
+Url='http://www.kapiti.co.nz/michael/vhman2html.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

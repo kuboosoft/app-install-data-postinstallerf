@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>neon</b>'
+Comment='<span size="xx-large">An HTTP and WebDAV client library</span>'
+Comment3='
+neon is an HTTP and WebDAV client library, with a C interface;
+providing a high-level interface to HTTP and WebDAV methods along
+with a low-level interface for HTTP request handling.  neon
+supports persistent connections, proxy servers, basic, digest and
+Kerberos authentication, and has complete SSL support.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.webdav.org/neon/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

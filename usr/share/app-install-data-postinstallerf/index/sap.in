@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sap</b>'
+Comment='<span size="xx-large">A small CLI audio player</span>'
+Comment3='
+SAP is a small CLI audio player featuring a volume control and
+supports many file formats through the gstreamer framework.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.jezra.net/projects/sap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

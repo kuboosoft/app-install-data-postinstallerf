@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>cronie-anacron</b>'
+Comment='<span size="xx-large">Utility for running regular jobs</span>'
+Comment3='
+Anacron is part of cronie that is used for running jobs with regular
+periodicity which do not have exact time of day of execution.
+
+The default settings of anacron execute the daily, weekly, and monthly
+jobs, but anacron allows setting arbitrary periodicity of jobs.
+Using anacron allows running the periodic jobs even if the system is often
+powered off and it also allows randomizing the time of the job execution
+for better utilization of resources shared among multiple systems.
+'
+License='MIT and BSD and ISC and GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/cronie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

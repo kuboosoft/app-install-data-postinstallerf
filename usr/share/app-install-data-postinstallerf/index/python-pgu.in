@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-pgu</b>'
+Comment='<span size="xx-large">A collection of useful modules for writing games with PyGame</span>'
+Comment3='
+PGU is a collection of useful modules for writing games with PyGame.
+At the moment the project consists of
+- Tools for editing tile-based levels
+- A module for creating GUIs
+- A set of general-purpose game libraries
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/pgu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Data-Structure-Util</b>'
+Comment='<span size="xx-large">Change nature of data within a structure</span>'
+Comment3='
+DataStructureUtil is a toolbox to manipulate the data inside a data
+structure. It can process an entire tree and perform the operation
+requested on each appropriate element.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Data-Structure-Util/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

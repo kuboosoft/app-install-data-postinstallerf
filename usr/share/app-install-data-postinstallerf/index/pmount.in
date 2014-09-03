@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pmount</b>'
+Comment='<span size="xx-large">Enable normal user mount</span>'
+Comment3='
+pmount  ("policy mount") is a wrapper around the standard mount program
+which permits normal users to mount removable devices without a
+matching /etc/fstab entry.
+
+Be warned that pmount is installed setuid root.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pmount.alioth.debian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

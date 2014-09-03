@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gvfs-afc</b>'
+Comment='<span size="xx-large">AFC support for gvfs</span>'
+Comment3='
+This package provides support for reading files on mobile devices
+including phones and music players to applications using gvfs.
+'
+License='GPLv3 and LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bind-license</b>'
+Comment='<span size="xx-large">License of the BIND DNS suite</span>'
+Comment3='
+Contains license of the BIND DNS suite.
+'
+License='ISC'
+Summary     : License of the BIND DNS suite'
+Screenshot=''
+Url='http://www.isc.org/products/BIND/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

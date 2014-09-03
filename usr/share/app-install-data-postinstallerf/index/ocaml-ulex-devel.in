@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-ulex-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-ulex</span>'
+Comment3='
+The ocaml-ulex-devel package contains libraries and signature files for
+developing applications that use ocaml-ulex.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.cduce.org/download.html#side'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

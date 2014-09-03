@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-system-filepath</b>'
+Comment='<span size="xx-large">File and directory path manipulations</span>'
+Comment3='
+High-level, byte-based file and directory path manipulations.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/system-filepath'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

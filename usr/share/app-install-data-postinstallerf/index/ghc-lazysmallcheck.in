@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ghc-lazysmallcheck</b>'
+Comment='<span size="xx-large">A library for demand-driven testing of Haskell programs</span>'
+Comment3='
+Lazy SmallCheck is a library for exhaustive, demand-driven testing of
+Haskell programs.  It is based on the idea that if a property holds
+for a partially-defined input then it must also hold for all
+fully-defined refinements of the that input.  Compared to ``eager
+input generation as in SmallCheck, Lazy SmallCheck may require
+significantly fewer test-cases to verify a property for all inputs up
+to a given depth.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/lazysmallcheck'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

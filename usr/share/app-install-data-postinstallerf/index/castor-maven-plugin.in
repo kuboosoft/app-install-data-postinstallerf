@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>castor-maven-plugin</b>'
+Comment='<span size="xx-large">Maven plugin for Castor XMLs code generator</span>'
+Comment3='
+The Castor plugin is a Maven plugin that provides the functionality of Castor
+XMLs code generator for generating Java beans and associated descriptor
+classes (required for marshaling to and unmarshaling from XML documents) from
+XML Schema files.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://mojo.codehaus.org/castor-maven-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

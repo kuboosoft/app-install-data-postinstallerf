@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sbc</b>'
+Comment='<span size="xx-large">Sub Band Codec used by bluetooth A2DP</span>'
+Comment3='
+SBC (Sub Band Codec) is a low-complexity audio codec used in the Advanced Audio
+Distribution Profile (A2DP) bluetooth standard but can be used standalone. It
+uses 4 or 8 subbands, an adaptive bit allocation algorithm in combination with
+an adaptive block PCM quantizers.
+
+'
+License='GPLv2 and LGPLv2+'
+Screenshot=''
+Url='http://www.bluez.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

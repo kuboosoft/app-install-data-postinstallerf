@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>postgresql-table_log</b>'
+Comment='<span size="xx-large">Log data changes in a PostgreSQL table</span>'
+Comment3='
+table_log is a set of functions to log changes on a table in PostgreSQL
+and to restore the state of the table or a specific row on any time
+in the past.
+'
+License='BSD'
+Screenshot=''
+Url='http://pgfoundry.org/projects/tablelog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

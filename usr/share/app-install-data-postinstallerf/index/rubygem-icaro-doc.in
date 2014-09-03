@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-icaro-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-icaro</span>'
+Comment3='
+This package contains documentation for rubygem-icaro.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://github.com/aeperezt/ruby-icaro'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

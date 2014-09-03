@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sanlock</b>'
+Comment='<span size="xx-large">A shared storage lock manager</span>'
+Comment3='
+The sanlock daemon manages leases for applications running on a cluster
+of hosts with shared storage.
+'
+License='GPLv2 and GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/sanlock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

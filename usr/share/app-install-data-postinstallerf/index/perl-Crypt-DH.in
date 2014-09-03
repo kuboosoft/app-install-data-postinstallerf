@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Crypt-DH</b>'
+Comment='<span size="xx-large">Perl module implementing the Diffie-Hellman key exchange system</span>'
+Comment3='
+CryptDH is a Perl implementation of the Diffie-Hellman key exchange system.
+Diffie-Hellman is an algorithm by which two parties can agree on a shared
+secret key, known only to them. The secret is negotiated over an insecure
+network without the two parties ever passing the actual shared secret, or their
+private keys, between them.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-DH/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

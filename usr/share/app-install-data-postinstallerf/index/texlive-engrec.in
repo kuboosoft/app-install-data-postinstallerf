@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-engrec</b>'
+Comment='<span size="xx-large">Enumerate with lower- or uppercase Greek letters</span>'
+Comment3='
+This package provides two macros \engrec and \EnGrec to convert
+number arguments to lower case or upper case greek letters.
+They have the syntax of \alph, i.e. \engrec{a_counter},
+\EnGrec{a_counter}. Options are provided to work with the
+upgreek and fourier packages. Requires amstext.
+
+date 2008-05-07 224857 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

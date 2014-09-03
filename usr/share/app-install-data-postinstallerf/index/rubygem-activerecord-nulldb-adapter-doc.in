@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-activerecord-nulldb-adapter-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-activerecord-nulldb-adapter</span>'
+Comment3='
+Documentation for rubygem-activerecord-nulldb-adapter
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/nulldb/nulldb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

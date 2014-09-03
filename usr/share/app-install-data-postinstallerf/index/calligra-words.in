@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>calligra-words</b>'
+Comment='<span size="xx-large">An intuitive word processor application with desktop publishing features</span>'
+Comment3='
+KWord is an intuitive word processor and desktop publisher application.
+With it, you can create informative and attractive documents with
+pleasure and ease.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.calligra-suite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

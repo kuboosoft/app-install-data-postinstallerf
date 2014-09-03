@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libiec61883-utils</b>'
+Comment='<span size="xx-large">Utilities for use with libiec61883</span>'
+Comment3='
+Utilities that make use of iec61883
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ieee1394.wiki.kernel.org/index.php/Libraries#libiec61883'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

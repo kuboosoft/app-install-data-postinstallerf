@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>klines</b>'
+Comment='<span size="xx-large">Color lines game</span>'
+Comment3='
+The goal of Kolor Lines is quite plain. The player has to move the
+colored balls around the game board, gathering them into the lines
+of the same color by five. Once the line is complete it is removed
+from the board, therefore freeing precious space. In the same time
+the new balls keep arriving by three after each move, filling up the
+game board.
+
+Kolor Lines cannot be won, and is played against the high score
+exclusively. The game ends once the whole game board is filled up with
+balls
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/klines'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

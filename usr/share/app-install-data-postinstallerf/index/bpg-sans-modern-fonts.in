@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bpg-sans-modern-fonts</b>'
+Comment='<span size="xx-large">Sans Modern family of BPG Georgian fonts</span>'
+Comment3='
+BPG Fonts are a set of GPL licensed Georgian Unicode fonts.
+
+This package contains the Sans Modern font family.
+'
+License='Bitstream Vera'
+Screenshot=''
+Url='http://groups.google.com/group/bpg-fonts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

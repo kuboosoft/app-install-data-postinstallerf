@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>uw-imap-utils</b>'
+Comment='<span size="xx-large">UW IMAP Utilities to make managing your email simpler</span>'
+Comment3='
+This package contains some utilities for managing UW IMAP email,including
+* dmail  procmail Mail Delivery Module
+* mailutil  mail utility program
+* mtest  C client test program
+* tmail  Mail Delivery Module
+* mlock
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.washington.edu/imap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

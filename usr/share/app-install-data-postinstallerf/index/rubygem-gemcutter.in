@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-gemcutter</b>'
+Comment='<span size="xx-large">The gemcutter client gem</span>'
+Comment3='
+The gemcutter client gem that interacts with the site http//gemcutter.org
+'
+License='MIT'
+Screenshot=''
+Url='http://gemcutter.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

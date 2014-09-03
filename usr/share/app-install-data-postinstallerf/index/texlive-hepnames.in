@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-hepnames</b>'
+Comment='<span size="xx-large">Pre-defined high energy particle names</span>'
+Comment3='
+Hepnames provides a pair of LaTeX packages, heppennames and
+hepnicenames, providing a large set of pre-defined high energy
+physics particle names built with the hepparticles package. The
+packages are based on pennames.sty by Michel Goosens and Eric
+van Herwijnen. Heppennames re-implements the particle names in
+pennames.sty, with some additions and alterations and greater
+flexibility and robustness due to the hepparticles structures,
+which were written for this purpose. Hepnicenames provides the
+main non-resonant particle names from heppennames with more
+"friendly" names.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

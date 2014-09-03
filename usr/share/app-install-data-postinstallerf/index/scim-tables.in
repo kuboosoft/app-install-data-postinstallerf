@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>scim-tables</b>'
+Comment='<span size="xx-large">SCIM Generic Table IMEngine</span>'
+Comment3='
+This package contains the Generic Table IMEngine for SCIM.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/scim'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

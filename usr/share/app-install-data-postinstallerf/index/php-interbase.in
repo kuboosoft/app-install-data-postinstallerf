@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-interbase</b>'
+Comment='<span size="xx-large">A module for PHP applications that use Interbase/Firebird databases</span>'
+Comment3='
+The php-interbase package contains a dynamic shared object that will add
+database support through Interbase/Firebird to PHP.
+
+InterBase is the name of the closed-source variant of this RDBMS that was
+developed by Borland/Inprise.
+Firebird is a commercially independent project of C and C++ programmers,
+technical advisors and supporters developing and enhancing a multi-platform
+relational database management system based on the source code released by
+Inprise Corp (now known as Borland Software Corp) under the InterBase Public
+'
+License='PHP'
+License.'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

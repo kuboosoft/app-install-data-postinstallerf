@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>R-core-devel</b>'
+Comment='<span size="xx-large">Core files for development of R packages (no Java)</span>'
+Comment3='
+Install R-core-devel if you are going to develop or compile R packages.
+This package does not configure the R environment for Java, install
+R-java-devel if you want this.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.r-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

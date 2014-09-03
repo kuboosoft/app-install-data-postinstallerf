@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-skrapport</b>'
+Comment='<span size="xx-large">Simple class for reports, etc</span>'
+Comment3='
+The class is intended for simple documents (e.g., reports
+handed in as coursework and the like). The class is small and
+straightforward; its design was inspired by that of the PracTeX
+journal style.
+
+date 2013-09-21 112706 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

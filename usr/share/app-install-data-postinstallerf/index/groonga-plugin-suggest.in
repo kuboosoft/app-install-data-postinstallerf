@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>groonga-plugin-suggest</b>'
+Comment='<span size="xx-large">Suggest plugin for Groonga</span>'
+Comment3='
+Suggest plugin for Groonga
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://groonga.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

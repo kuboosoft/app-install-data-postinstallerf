@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apache-scout</b>'
+Comment='<span size="xx-large">JSR 93 (JAXR) implementation</span>'
+Comment3='
+Apache Scout is an implementation of the JSR 93 Java API For XML Registries
+(JAXR). It provides an implementation to access UDDI registries (particularly
+Apache jUDDI) in a standard way.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://juddi.apache.org/scout'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

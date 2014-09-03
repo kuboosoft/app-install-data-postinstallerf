@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Role-Basic</b>'
+Comment='<span size="xx-large">Just roles. Nothing else</span>'
+Comment3='
+Simplified Moose-like roles.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Role-Basic/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

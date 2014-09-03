@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cal10n-javadoc</b>'
+Comment='<span size="xx-large">API documentation for cal10n</span>'
+Comment3='
+API documentation for cal10n.
+'
+License='MIT'
+Screenshot=''
+Url='http://cal10n.qos.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

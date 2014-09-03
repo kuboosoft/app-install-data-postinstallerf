@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-Structures-DataGrid-Renderer-Pager</b>'
+Comment='<span size="xx-large">Renderer driver using PEAR::Pager</span>'
+Comment3='
+This is a Renderer driver for Structures_DataGrid using PEARPager.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Structures_DataGrid_Renderer_Pager'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

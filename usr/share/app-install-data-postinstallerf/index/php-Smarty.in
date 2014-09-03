@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>php-Smarty</b>'
+Comment='<span size="xx-large">Template/Presentation Framework for PHP</span>'
+Comment3='
+Although Smarty is known as a "Template Engine", it would be more accurately
+described as a "Template/Presentation Framework." That is, it provides the
+programmer and template designer with a wealth of tools to automate tasks
+commonly dealt with at the presentation layer of an application. I stress the
+word Framework because Smarty is not a simple tag-replacing template engine.
+Although it can be used for such a simple purpose, its focus is on quick and
+painless development and deployment of your application, while maintaining
+high-performance, scalability, security and future growth.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.smarty.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

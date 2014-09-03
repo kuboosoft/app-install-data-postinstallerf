@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gtk-vnc2-devel</b>'
+Comment='<span size="xx-large">Development files to build GTK3 applications with gtk-vnc</span>'
+Comment3='
+gtk-vnc is a VNC viewer widget for GTK3. It is built using coroutines
+allowing it to be completely asynchronous while remaining single threaded.
+
+Libraries, includes, etc. to compile with the gtk-vnc library
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/gtk-vnc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

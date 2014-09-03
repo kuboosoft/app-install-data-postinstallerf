@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-wai-extra</b>'
+Comment='<span size="xx-large">Basic WAI handlers and middleware</span>'
+Comment3='
+This library provides common Web Application Interface features.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/wai-extra'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

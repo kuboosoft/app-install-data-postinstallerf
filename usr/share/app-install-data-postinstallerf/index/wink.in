@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>wink</b>'
+Comment='<span size="xx-large">Application to create Flash animations</span>'
+Comment3='
+NOTICE Numlock key must be off for capture to work in Linux.
+
+Wink is a Tutorial and Presentation creation software, primarily aimed at
+creating tutorials on how to use software (like a tutor for MS-Word/Excel etc).
+Using Wink you can capture screenshots, add explanations boxes, buttons,
+titles etc and generate a highly effective tutorial for your users.
+'
+License='Freeware'
+Screenshot=''
+Url='http://www.debugmode.com/wink/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

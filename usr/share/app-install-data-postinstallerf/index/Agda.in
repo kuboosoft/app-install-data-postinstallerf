@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>Agda</b>'
+Comment='<span size="xx-large">A dependently typed functional programming language and proof assistant</span>'
+Comment3='
+Agda is a dependently typed functional programming language it has
+inductive families, which are similar to Haskells GADTs, but they can
+be indexed by values and not just types. It also has parameterized
+modules, mixfix operators, Unicode characters, and an interactive
+Emacs interface (the type checker can assist in the development of your code).
+
+Agda is also a proof assistant It is an interactive system for writing and
+checking proofs. Agda is based on intuitionistic type theory,
+a foundational system for constructive mathematics developed by
+the Swedish logician Per Martin-L?f. It has many similarities with other
+'
+License='MIT and BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/Agda'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

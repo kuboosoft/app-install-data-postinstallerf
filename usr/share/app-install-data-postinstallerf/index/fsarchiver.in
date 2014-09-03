@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>fsarchiver</b>'
+Comment='<span size="xx-large">Safe and flexible file-system backup/deployment tool</span>'
+Comment3='
+FSArchiver is a system tool that allows you to save the contents of a
+file-system to a compressed archive file. The file-system can be restored
+on a partition which has a different size and it can be restored on a
+different file-system. Unlike tar/dar, FSArchiver also creates the
+file-system when it extracts the data to partitions. Everything is
+checksummed in the archive in order to protect the data. If the archive
+is corrupt, you just lose the current file, not the whole archive.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.fsarchiver.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

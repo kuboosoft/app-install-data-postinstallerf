@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>derelict-freeimage-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for freeimage</span>'
+Comment3='
+Header files and libraries for freeimage to use in D programming language.
+
+URL          http//www.dsource.org/projects/
+'
+License='Boost'
+Screenshot=''
+Url='http://www.dsource.org/projects/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

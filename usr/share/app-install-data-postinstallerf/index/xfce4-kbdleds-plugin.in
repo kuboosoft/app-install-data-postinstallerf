@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xfce4-kbdleds-plugin</b>'
+Comment='<span size="xx-large">Xfce panel plugin to show the state of keyboard LEDs</span>'
+Comment3='
+This panel plugin allows to monitor the state of the keyboard LEDs.
+It shows the state of the keys Caps-Lock, Scroll and Num Lock in
+your Xfce panel
+This is especially helpful if your computer doesnt have those LEDs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-kbdleds-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

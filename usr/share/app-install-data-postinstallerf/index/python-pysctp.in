@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-pysctp</b>'
+Comment='<span size="xx-large">Python sctp socket api extensions bindings</span>'
+Comment3='
+Python bindings for the SCTP socket api (see draft-ietf-tsvwg-sctpsocket-10.txt)
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://epx.com.br/pysctp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>hgview</b>'
+Comment='<span size="xx-large">Mercurial interactive Qt based history viewer</span>'
+Comment3='
+hgview is a simple tool aiming at visually navigating Mercurial repository
+history. It has been written with efficiency in mind, both in terms
+of computational efficiency and user experience efficiency.
+
+This main package provides a Qt based GUI. A curses based UI is also available.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.logilab.org/project/hgview'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

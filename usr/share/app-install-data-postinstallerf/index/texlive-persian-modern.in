@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-persian-modern</b>'
+Comment='<span size="xx-large">The "Persian Modern" family of fonts</span>'
+Comment3='
+The Persian Modern family consists of 12 fonts (based on the
+"FarsiTeX Scientific fonts" released into the public domain by
+the FarsiTeX project). The single set of fonts is available in
+OpenType format (.otf).
+
+date 2013-04-20 215901 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

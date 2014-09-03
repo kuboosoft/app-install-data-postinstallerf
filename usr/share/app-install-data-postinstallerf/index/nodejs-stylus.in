@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nodejs-stylus</b>'
+Comment='<span size="xx-large">Robust, expressive, and feature-rich CSS super-set for Node.js</span>'
+Comment3='
+Stylus is a revolutionary new language, providing an efficient, dynamic,
+and expressive way to generate CSS. It supports both indented syntax and
+regular CSS style.
+
+It has many features, including mixins, keyword arguments, variables,
+interpolation, operators, conditionals, iteration, over 25 built-in functions,
+optional compression and many more.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/learnboost/stylus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

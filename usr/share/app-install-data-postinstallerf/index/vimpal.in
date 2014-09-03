@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vimpal</b>'
+Comment='<span size="xx-large">Separate application providing a file tree for VIM</span>'
+Comment3='
+Simple and small application that can be used to select the files you want
+to edit in Vim.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://vimpal.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

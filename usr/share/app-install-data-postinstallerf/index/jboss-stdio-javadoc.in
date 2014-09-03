@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jboss-stdio-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jboss-stdio</span>'
+Comment3='
+This package contains the API documentation for jboss-stdio.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/jboss-logging/jboss-stdio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

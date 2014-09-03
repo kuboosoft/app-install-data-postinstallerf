@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mathgl</b>'
+Comment='<span size="xx-large">Cross-platform library for making high-quality scientific graphics</span>'
+Comment3='
+Mathgl is a cross-platform library for making high-quality scientific
+graphics. It provides fast data plotting and handling of large data
+arrays, as well as  window and console modes and for easy embedding
+into other programs. Mathgl integrates into fltk, qt and
+opengl applications
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mathgl.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

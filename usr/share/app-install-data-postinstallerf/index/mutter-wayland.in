@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mutter-wayland</b>'
+Comment='<span size="xx-large">Mutter window manager with experimental Wayland support</span>'
+Comment3='
+Mutter is a window and compositing manager that displays and manages
+your desktop via OpenGL. Mutter combines a sophisticated display engine
+using the Clutter toolkit with solid window-management logic inherited
+from the Metacity window manager.
+
+While Mutter can be used stand-alone, it is primarily intended to be
+used as the display core of a larger system such as GNOME Shell. For
+this reason, Mutter is very extensible via plugins, which are used both
+to add fancy visual effects and to rework the window management
+behaviors to meet the needs of the environment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://wiki.gnome.org/ThreePointNine/Features/WaylandSupport'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rdesktop</b>'
+Comment='<span size="xx-large">X client for remote desktop into Windows Terminal Server</span>'
+Comment3='
+rdesktop is an open source client for Windows NT Terminal Server and
+Windows 2000 & 2003 Terminal Services, capable of natively speaking
+Remote Desktop Protocol (RDP) in order to present the users NT
+desktop. Unlike Citrix ICA, no server extensions are required.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.rdesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

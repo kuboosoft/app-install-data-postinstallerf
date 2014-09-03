@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-cyrillic-bin</b>'
+Comment='<span size="xx-large">Cyrillic bibtex and makeindex</span>'
+Comment3='
+cyrillic-bin package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

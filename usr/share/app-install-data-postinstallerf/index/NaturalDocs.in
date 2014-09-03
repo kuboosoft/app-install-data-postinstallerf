@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>NaturalDocs</b>'
+Comment='<span size="xx-large">Documentation generator for multiple programming languages</span>'
+Comment3='
+Natural Docs is an open-source documentation generator for multiple
+programming languages.  You document your code in a natural syntax that
+reads like plain English.  Natural Docs then scans your code and builds
+high-quality HTML documentation from it.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.naturaldocs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

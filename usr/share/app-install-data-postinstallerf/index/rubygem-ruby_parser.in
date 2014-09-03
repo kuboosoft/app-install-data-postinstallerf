@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-ruby_parser</b>'
+Comment='<span size="xx-large">A ruby parser written in pure ruby</span>'
+Comment3='
+ruby_parser (RP) is a ruby parser written in pure ruby (utilizing
+racc - which does by default use a C extension). RPs output is
+the same as ParseTrees output s-expressions using rubys arrays and
+base types.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/seattlerb/ruby_parser'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

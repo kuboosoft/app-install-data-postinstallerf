@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jsonic</b>'
+Comment='<span size="xx-large">Simple JSON encoder/decoder for Java</span>'
+Comment3='
+Jsonic is a JSON encoding/decoding library for Java implementing RFC 4627
+(The application/JSON Media Type for JavaScript Object Notation).
+Encoding/decoding of primitive types and full Java objects is supported.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://jsonic.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

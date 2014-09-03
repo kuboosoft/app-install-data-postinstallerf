@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cyrus-sasl-md5</b>'
+Comment='<span size="xx-large">CRAM-MD5 and DIGEST-MD5 authentication support for Cyrus SASL</span>'
+Comment3='
+The cyrus-sasl-md5 package contains the Cyrus SASL plugins which support
+CRAM-MD5 and DIGEST-MD5 authentication schemes.
+
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://asg.web.cmu.edu/sasl/sasl-library.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

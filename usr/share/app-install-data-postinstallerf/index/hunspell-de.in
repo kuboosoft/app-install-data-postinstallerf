@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-de</b>'
+Comment='<span size="xx-large">German hunspell dictionaries</span>'
+Comment3='
+German (Germany, Switzerland, etc.) hunspell dictionaries.
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://www.j3e.de/ispell/igerman98'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

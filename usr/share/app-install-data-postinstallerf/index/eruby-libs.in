@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eruby-libs</b>'
+Comment='<span size="xx-large">Library for eRuby</span>'
+Comment3='
+This package contains a library for eRuby.
+
+URL          http//www.modruby.net/
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.modruby.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>sugar-view-slides</b>'
+Comment='<span size="xx-large">Image serie viewer for Sugar</span>'
+Comment3='
+The View Slides activity is meant to allow the XO laptop to read
+view the contents of a Zip file containing images named sequentially.
+Project Gutenberg has a few books as raw scanned images, and this can
+be a useful format for picture books, comic books, magazine articles,
+photo essays, etc.
+
+The interface to View Slides is similar to the core Read activity,
+which should not be surprising as the toolbar code was adapted from
+Reads toolbar. You can use the up and down arrows or the game
+controller to move from page to page.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/View_Slides'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

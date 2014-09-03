@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>maven-changelog-plugin</b>'
+Comment='<span size="xx-large">Produce SCM changelog reports</span>'
+Comment3='
+The Maven Changelog Plugin generates reports regarding the recent changes
+in your Software Configuration Management or SCM. These reports include
+the changelog report, developer activity report and the file activity report.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-changelog-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

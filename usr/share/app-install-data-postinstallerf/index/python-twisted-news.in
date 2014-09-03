@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-twisted-news</b>'
+Comment='<span size="xx-large">NNTP protocol implementation with client and server</span>'
+Comment3='
+Twisted is an event-based framework for internet applications.
+
+Twisted News provides a very basic NNTP server, as well as an NNTP client
+protocol implementation. Two messages storage systems are supported the DB-API
+2.0 backend stores and indexes messages in any compatible SQL database; the
+Twisted dirdbm backend uses serialized Python objects stored directly on the
+filesystem for message storage. Twisted News also has very rudimentary support
+for moderated groups.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.twistedmatrix.com/trac/wiki/TwistedNews'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

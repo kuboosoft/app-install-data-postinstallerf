@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>root-sql-odbc</b>'
+Comment='<span size="xx-large">ODBC plugin for ROOT</span>'
+Comment3='
+This package contains the ODBC (Open DataBase Connectivity) plugin
+for ROOT, that allows transparent access to any kind of database that
+supports the ODBC protocol.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

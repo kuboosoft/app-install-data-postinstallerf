@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libbluray-utils</b>'
+Comment='<span size="xx-large">Test utilities for libbluray</span>'
+Comment3='
+The libbluray-utils package contains test utilities for libbluray.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.videolan.org/developers/libbluray.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

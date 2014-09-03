@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openstack-heat-engine</b>'
+Comment='<span size="xx-large">The Heat engine</span>'
+Comment3='
+OpenStack API for starting CloudFormation templates on OpenStack
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openstack.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

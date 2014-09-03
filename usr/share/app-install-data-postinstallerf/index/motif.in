@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>motif</b>'
+Comment='<span size="xx-large">Run-time libraries and programs</span>'
+Comment3='
+This is the Motif 2.3.4 run-time environment. It includes the
+Motif shared libraries, needed to run applications which are dynamically
+linked against Motif and the Motif Window Manager mwm.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.motifzone.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nautilus-sendto</b>'
+Comment='<span size="xx-large">Nautilus context menu for sending files</span>'
+Comment3='
+The nautilus-sendto package provides a Nautilus context menu for
+sending files via other desktop applications.  These functions are
+implemented as plugins, so nautilus-sendto can be extended with
+additional features.
+'
+License='GPLv2+'
+Screenshot=''
+Url='ftp://ftp.gnome.org/pub/gnome/sources/nautilus-sendto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-shell-theme-smooth-inset</b>'
+Comment='<span size="xx-large">The Smooth-Inset gnome-shell theme</span>'
+Comment3='
+The Smooth-Inset gnome-shell theme created by half_left
+'
+License='GPLv3'
+Screenshot=''
+Url='http://half-left.deviantart.com/art/GNOME-Shell-Smooth-Inset-200111295'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

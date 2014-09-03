@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wildmidi</b>'
+Comment='<span size="xx-large">Softsynth midi player</span>'
+Comment3='
+WildMidi is a software midi player which has a core softsynth library that can
+be used with other applications.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wildmidi.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

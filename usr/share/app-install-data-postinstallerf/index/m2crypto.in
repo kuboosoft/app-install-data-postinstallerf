@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>m2crypto</b>'
+Comment='<span size="xx-large">Support for using OpenSSL in python scripts</span>'
+Comment3='
+This package allows you to call OpenSSL functions from python scripts.
+'
+License='MIT'
+Screenshot=''
+Url='http://wiki.osafoundation.org/bin/view/Projects/MeTooCrypto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libapogee</b>'
+Comment='<span size="xx-large">Library for Apogee CCD Cameras</span>'
+Comment3='
+Apogee library is used by applications to control Apogee CCDs.
+
+URL          http//indi.sourceforge.net/index.php
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://indi.sourceforge.net/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

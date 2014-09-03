@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-gevent</b>'
+Comment='<span size="xx-large">A coroutine-based Python networking library</span>'
+Comment3='
+gevent is a coroutine-based Python networking library that uses greenlet to
+provide a high-level synchronous API on top of libevent event loop.
+
+Features include
+  * convenient API around greenlets
+  * familiar synchronization primitives (gevent.event, gevent.queue)
+  * socket module that cooperates
+  * WSGI server on top of libevent-http
+  * DNS requests done through libevent-dns
+'
+License='MIT'
+Screenshot=''
+Url='http://www.gevent.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

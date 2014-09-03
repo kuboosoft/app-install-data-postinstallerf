@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>alienarena</b>'
+Comment='<span size="xx-large">Multiplayer retro sci-fi deathmatch game</span>'
+Comment3='
+Alien Arena Mercury Edition is an online deathmatch game with over 30 levels,
+seven modes of play, loads of mutators, built-in bots, multiple player
+characters and weapons (with alt-fire modes).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://red.planetarena.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-require-all</b>'
+Comment='<span size="xx-large">Require all files within a directory</span>'
+Comment3='
+An easy way to require all files within a directory.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/felixge/node-require-all'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

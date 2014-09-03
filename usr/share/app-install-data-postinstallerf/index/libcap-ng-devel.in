@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcap-ng-devel</b>'
+Comment='<span size="xx-large">Header files for libcap-ng library</span>'
+Comment3='
+The libcap-ng-devel package contains the files needed for developing
+applications that need to use the libcap-ng library.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://people.redhat.com/sgrubb/libcap-ng'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

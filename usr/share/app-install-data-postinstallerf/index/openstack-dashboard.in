@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openstack-dashboard</b>'
+Comment='<span size="xx-large">Openstack web user interface reference implementation</span>'
+Comment3='
+Openstack Dashboard is a web user interface for Openstack. The package
+provides a reference implementation using the Django Horizon project,
+mostly consisting of JavaScript and CSS to tie it altogether as a standalone
+site.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://horizon.openstack.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-thread_safe-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-thread_safe</span>'
+Comment3='
+Documentation for rubygem-thread_safe
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/headius/thread_safe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

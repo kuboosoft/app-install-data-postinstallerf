@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-doctrine-common</b>'
+Comment='<span size="xx-large">Common library for Doctrine projects</span>'
+Comment3='
+The Doctrine Common project is a library that provides extensions to core PHP
+functionality.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/doctrine/common'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

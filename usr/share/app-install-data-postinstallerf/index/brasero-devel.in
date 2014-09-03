@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>brasero-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use brasero</span>'
+Comment3='
+This package contains the static libraries and header files needed for
+developing brasero applications.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnome.org/projects/brasero/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

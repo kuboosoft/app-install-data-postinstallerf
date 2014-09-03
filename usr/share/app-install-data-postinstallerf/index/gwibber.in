@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gwibber</b>'
+Comment='<span size="xx-large">An open source microblogging client for GNOME developed with Python and GTK</span>'
+Comment3='
+Gwibber is an open source microblogging client for GNOME developed with Python
+and GTK. It supports Twitter, Jaiku, Identi.ca, Facebook, Buzz, and Digg.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/gwibber'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

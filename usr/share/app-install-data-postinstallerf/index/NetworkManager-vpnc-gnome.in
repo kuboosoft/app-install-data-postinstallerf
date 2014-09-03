@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>NetworkManager-vpnc-gnome</b>'
+Comment='<span size="xx-large">NetworkManager VPN plugin for vpnc - GNOME files</span>'
+Comment3='
+This package contains software for integrating VPN capabilities with
+the vpnc server with NetworkManager (GNOME files).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/projects/NetworkManager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

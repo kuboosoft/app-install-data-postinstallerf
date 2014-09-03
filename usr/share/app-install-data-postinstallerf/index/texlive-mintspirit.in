@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-mintspirit</b>'
+Comment='<span size="xx-large">LaTeX support for MintSpirit font families</span>'
+Comment3='
+The package provides LaTeX, pdfLaTeX, XeLaTeX and LuaLaTeX
+support for the MintSpirit and MintSpiritNo2 families of fonts,
+designed by Hirwen Harendal. MintSpirit was originally designed
+for use as a system font on a Linux Mint system. The No. 2
+variant provides more conventional shapes for some glyphs.
+
+date 2013-11-03 235316 +0100
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

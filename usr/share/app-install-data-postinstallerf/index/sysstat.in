@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>sysstat</b>'
+Comment='<span size="xx-large">Collection of performance monitoring tools for Linux</span>'
+Comment3='
+The sysstat package contains sar, sadf, mpstat, iostat, pidstat, nfsiostat,
+cifsiostat and sa tools for Linux.
+The sar command collects and reports system activity information. This
+information can be saved in a file in a binary format for future inspection. The
+statistics reported by sar concern I/O transfer rates, paging activity,
+process-related activities, interrupts, network activity, memory and swap space
+utilization, CPU utilization, kernel activities and TTY statistics, among
+others. Both UP and SMP machines are fully supported.
+The sadf command may be used to display data collected by sar in various formats
+(CSV, XML, etc.).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sebastien.godard.pagesperso-orange.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

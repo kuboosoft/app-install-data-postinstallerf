@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>yash-doc</b>'
+Comment='<span size="xx-large">Documentation for yash</span>'
+Comment3='
+This package contains document files for yash.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://yash.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

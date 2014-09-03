@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-pytest-flakes</b>'
+Comment='<span size="xx-large">Pytest plugin to check source code with pyflakes</span>'
+Comment3='
+Py.test plugin for efficiently checking python source with pyflakes.
+'
+License='MIT'
+Screenshot=''
+Url='https://pypi.python.org/pypi/pytest-flakes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

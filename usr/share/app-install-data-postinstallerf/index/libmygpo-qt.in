@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmygpo-qt</b>'
+Comment='<span size="xx-large">Qt Library that wraps the gpodder.net Web API</span>'
+Comment3='
+libmygpo-qt is a Qt Library that wraps the gpodder.net Web API,
+http//wiki.gpodder.org/wiki/Web_Services/API_2
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://wiki.gpodder.org/wiki/Libmygpo-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

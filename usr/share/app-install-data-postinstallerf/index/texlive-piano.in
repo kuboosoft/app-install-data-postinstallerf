@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-piano</b>'
+Comment='<span size="xx-large">Typeset a basic 2-octave piano diagram</span>'
+Comment3='
+This package adds the \keyboard[1][2]..[7] command to your
+project. When used, it draws a small 2 octaves piano keyboard
+on your document, with up to 7 keys highlighted. Keys go  Co,
+Cso, Do, Dso, Eo, Fo, Fso, Go, Gso, Ao, Aso, Bo, Ct, Cst, Dt,
+Dst, Et, Ft, Fst, Gt, Gst, At, Ast and Bt. (A working example
+is included in the README file.)
+
+date 2011-03-01 130636 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

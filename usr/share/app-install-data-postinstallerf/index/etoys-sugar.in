@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>etoys-sugar</b>'
+Comment='<span size="xx-large">Sugar activity wrapper for Etoys</span>'
+Comment3='
+A Sugar activity that launches Etoys within the Sugar environment.
+'
+License='ASL 2.0 and MIT'
+Screenshot=''
+Url='http://squeakland.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtdb</b>'
+Comment='<span size="xx-large">The tdb library</span>'
+Comment3='
+A library that implements a trivial database.
+
+URL          http//tdb.samba.org/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://tdb.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

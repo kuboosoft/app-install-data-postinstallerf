@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-transliteration</b>'
+Comment='<span size="xx-large">Off Line transliteration tool</span>'
+Comment3='
+Off Line transliteration tool
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/?p=gnome-transliteration.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>nodejs-express</b>'
+Comment='<span size="xx-large">Sinatra inspired web development framework for Node.js</span>'
+Comment3='
+This Node.js module is a fast, minimalist web development framework inspired
+by Sinatra.
+
+The Express philosophy is to provide small, robust tooling for HTTP servers.
+Making it a great solution for single page applications, web sites, hybrids,
+or public HTTP APIs.
+Built on Connect you can use only what you need, and nothing more,
+applications can be as big or as small as you like, even a single file.
+Express does not force you to use any specific ORM or template engine. With
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/express'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

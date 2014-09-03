@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>php-EasyRdf</b>'
+Comment='<span size="xx-large">A PHP library designed to make it easy to consume and produce RDF</span>'
+Comment3='
+EasyRdf is a PHP library designed to make it easy to consume and produce RDF
+(http//en.wikipedia.org/wiki/Resource_Description_Framework). It was designed
+for use in mixed teams of experienced and inexperienced RDF developers. It is
+written in Object Oriented PHP and has been tested extensively using PHPUnit.
+
+After parsing EasyRdf builds up a graph of PHP objects that can then be walked
+around to get the data to be placed on the page. Dump methods are available to
+inspect what data is available during development.
+Data is typically loaded into a EasyRdf_Graph object from source RDF documents,
+loaded from the web via HTTP. The EasyRdf_GraphStore class simplifies loading
+and saving data to a SPARQL 1.1 Graph Store.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.easyrdf.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

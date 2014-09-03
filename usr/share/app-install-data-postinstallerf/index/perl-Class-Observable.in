@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Class-Observable</b>'
+Comment='<span size="xx-large">Allow other classes and objects to respond to events in yours</span>'
+Comment3='
+If you have ever used Java, you may have run across the
+java.util.Observable class and the java.util.Observer interface. With them
+you can decouple an object from the one or more objects that wish to be
+notified whenever particular events occur.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Observable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pecl-gmagick</b>'
+Comment='<span size="xx-large">Provides a wrapper to the GraphicsMagick library</span>'
+Comment3='
+gmagick is a php extension to create, modify and obtain meta information of
+images using the GraphicsMagick API.
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/gmagick'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

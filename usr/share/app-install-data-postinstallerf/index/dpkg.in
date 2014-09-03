@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>dpkg</b>'
+Comment='<span size="xx-large">Package maintenance system for Debian Linux</span>'
+Comment3='
+
+This package contains the tools (including dpkg-source) required
+to unpack, build and upload Debian source packages.
+This package also contains the programs dpkg which used to handle the
+installation and removal of packages on a Debian system.
+This package also contains dselect, an interface for managing the
+installation and removal of packages on the system.
+'
+License='GPLv2 and GPLv2+ and LGPLv2+ and Public Domain and BSD'
+Screenshot=''
+Url='http://packages.debian.org/unstable/admin/dpkg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xml-security-c</b>'
+Comment='<span size="xx-large">C++ Implementation of W3C security standards for XML</span>'
+Comment3='
+The xml-security-c library is a C++ implementation of the XML Digital Signature
+specification. The library makes use of the Apache XML projects Xerces-C XML
+Parser and Xalan-C XSLT processor. The latter is used for processing XPath and
+XSLT transforms.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://santuario.apache.org/c/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

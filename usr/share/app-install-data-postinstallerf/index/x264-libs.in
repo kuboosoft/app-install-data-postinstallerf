@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>x264-libs</b>'
+Comment='<span size="xx-large">Library for encoding H264/AVC video streams</span>'
+Comment3='
+x264 is a free library for encoding H264/AVC video streams, written from
+scratch.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://developers.videolan.org/x264.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

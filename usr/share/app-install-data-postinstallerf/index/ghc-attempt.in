@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-attempt</b>'
+Comment='<span size="xx-large">Concrete data type for handling extensible exceptions as failures</span>'
+Comment3='
+Defines a data type, Attempt, which has a Success and Failure
+constructor. Failure contains an extensible exception.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/attempt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

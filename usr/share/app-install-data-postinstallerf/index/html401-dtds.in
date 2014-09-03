@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>html401-dtds</b>'
+Comment='<span size="xx-large">HTML 4.01 document type definitions</span>'
+Comment3='
+This package provides the three HTML 4.01 DTDs (strict, frameset, and
+transitional).  The DTDs are required for processing HTML 4.01
+document instances using SGML tools such as OpenSP, OpenJade, or
+SGMLSpm.
+'
+License='W3C'
+Screenshot=''
+Url='http://www.w3.org/TR/1999/REC-html401-19991224/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

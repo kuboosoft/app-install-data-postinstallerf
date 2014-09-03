@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-figbas</b>'
+Comment='<span size="xx-large">Mini-fonts for figured-bass notation in music</span>'
+Comment3='
+This package consists of three mini-fonts (and associated
+metrics) of conventional ligatures for the figured-bass
+notations 2+, 4+, 5+, 6+ and 9+ in music manuscripts. The fonts
+are usable with Computer Modern Roman and Sans, and
+Palatino/Palladio, respectively.
+
+date 2012-08-15 134523 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

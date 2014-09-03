@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ruby-libs</b>'
+Comment='<span size="xx-large">Libraries necessary to run Ruby</span>'
+Comment3='
+This package includes the libruby, necessary to run Ruby.
+
+URL          http//ruby-lang.org/
+'
+License='Ruby or BSD'
+Screenshot=''
+Url='http://ruby-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

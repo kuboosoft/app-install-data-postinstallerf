@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>OpenStego</b>'
+Comment='<span size="xx-large">Free Steganography solution</span>'
+Comment3='
+OpenStego is a tool implemented in Java for generic steganography,
+with support for password-based encryption of the data. It supports
+plugins for various steganographic algorithms.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://openstego.sourceforge.net/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-TAP-Formatter-HTML</b>'
+Comment='<span size="xx-large">TAP Test Harness output delegate for html output</span>'
+Comment3='
+This module provides HTML output formatting for TAPHarness (a replacement
+for TestHarness. It is largely based on ideas from TAPTestHTMLMatrix
+(which was built on TestHarness and thus had a few limitations - hence
+this module). For sample output, see
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/TAP-Formatter-HTML/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

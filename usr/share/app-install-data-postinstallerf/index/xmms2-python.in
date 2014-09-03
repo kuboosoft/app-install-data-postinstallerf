@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmms2-python</b>'
+Comment='<span size="xx-large">Python support for XMMS2</span>'
+Comment3='
+Python bindings for XMMS2.
+'
+License='LGPLv2+ and GPLv2+ and BSD'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

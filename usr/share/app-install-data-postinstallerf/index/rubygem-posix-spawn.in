@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-posix-spawn</b>'
+Comment='<span size="xx-large">posix_spawnp(2) for Ruby</span>'
+Comment3='
+posix-spawn uses posix_spawnp(2) for faster process spawning
+'
+License='MIT and LGPLv2+'
+Screenshot=''
+Url='https://github.com/rtomayko/posix-spawn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

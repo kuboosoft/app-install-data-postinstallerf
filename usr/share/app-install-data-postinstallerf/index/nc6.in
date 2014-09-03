@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>nc6</b>'
+Comment='<span size="xx-large">Netcat with IPv6 Support</span>'
+Comment3='
+netcat6 is an IPv6-enabled clone of the original netcat utility.
+
+"Netcat is a simple Unix utility which reads and writes data across
+network connections.  It is designed to be a reliable "back-end" tool
+that can be used directly or easily driven by other programs and
+scripts.  At the same time, it is a feature-rich network debugging and
+exploration tool, since it can create almost any kind of connection you
+would need and has several interesting built-in capabilities.  Netcat,
+or "nc" as the actual program is named, should have been supplied long
+ago as another one of those cryptic but standard Unix tools."
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.deepspace6.net/projects/netcat6.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

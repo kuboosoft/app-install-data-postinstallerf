@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>xcache-admin</b>'
+Comment='<span size="xx-large">XCache Administration</span>'
+Comment3='
+This package provides the XCache Administration web application,
+with Apache configuration, on http//localhost/xcache
+
+This requires to configure, in XCache configuration file (xcache.ini)
+- xcache.admin.user
+- xcache.admin.pass
+- xcache.coveragedump_directory
+'
+License='BSD'
+Screenshot=''
+Url='http://xcache.lighttpd.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

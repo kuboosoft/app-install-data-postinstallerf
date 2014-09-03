@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-so</b>'
+Comment='<span size="xx-large">Somali hunspell dictionaries</span>'
+Comment3='
+Somali hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.opensourcesomalia.org/index.php?page=hingaad-saxe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

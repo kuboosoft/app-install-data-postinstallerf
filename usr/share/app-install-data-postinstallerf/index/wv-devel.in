@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>wv-devel</b>'
+Comment='<span size="xx-large">MSWord format converter - development files</span>'
+Comment3='
+Wv is a program that understands the Microsoft Word 6/7/8/9
+binary file format and is able to convert Word
+documents into HTML, which can then be read with a browser.
+This package contains the development files
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.abisource.com/downloads/wv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

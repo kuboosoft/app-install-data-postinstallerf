@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>radeontool</b>'
+Comment='<span size="xx-large">Backlight and video output configuration tool for radeon cards</span>'
+Comment3='
+radeontool is used for debugging radeon related issues. In the past it has
+been used for backlight control, but this should no longer be required.
+'
+License='zlib'
+Screenshot=''
+Url='http://people.freedesktop.org/~airlied/radeontool/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

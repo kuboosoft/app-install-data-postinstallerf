@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gsf-sharp-devel</b>'
+Comment='<span size="xx-large">pkgconfig file for gsf-sharp</span>'
+Comment3='
+pkgconfig file for gsf-sharp
+
+URL          http//go-mono.com
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://go-mono.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

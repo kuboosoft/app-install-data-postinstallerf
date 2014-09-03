@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>initial-setup</b>'
+Comment='<span size="xx-large">Initial system configuration utility</span>'
+Comment3='
+The initial-setup utility runs after installation.  It guides the user through
+a series of steps that allows for easier configuration of the machine.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/FirstBoot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

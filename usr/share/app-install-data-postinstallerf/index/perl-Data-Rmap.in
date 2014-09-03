@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Data-Rmap</b>'
+Comment='<span size="xx-large">Recursive map, apply a block to a data structure</span>'
+Comment3='
+This perl module evaluates a BLOCK over a list of data structures
+recursively (locally setting $_ to each element) and return the list
+composed of the results of such evaluations.  $_ can be used to modify
+the elements.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Data-Rmap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

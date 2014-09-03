@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openscada-DAQ-Siemens</b>'
+Comment='<span size="xx-large">Open SCADA DAQ</span>'
+Comment3='
+The openscada-DAQ-Siemens, allows data source Siemens PLC by CP of
+Hilscher CIF cards using MPI protocol and library Libnodave
+for other.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

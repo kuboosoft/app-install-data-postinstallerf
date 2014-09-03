@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-chalmers-lava2000-devel</b>'
+Comment='<span size="xx-large">Haskell chalmers-lava2000 library development files</span>'
+Comment3='
+This package provides the Haskell chalmers-lava2000 library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/chalmers-lava2000'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

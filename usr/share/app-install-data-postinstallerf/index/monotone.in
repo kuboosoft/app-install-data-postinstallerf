@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>monotone</b>'
+Comment='<span size="xx-large">A free, distributed version control system</span>'
+Comment3='
+monotone is a free, distributed version control system.
+It provides fully disconnected operation, manages complete
+tree versions, keeps its state in a local transactional
+database, supports overlapping branches and extensible
+metadata, exchanges work over plain network protocols,
+performs history-sensitive merging, and delegates trust
+functions to client-side RSA certificates.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://monotone.ca/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

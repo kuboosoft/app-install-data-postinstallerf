@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cegui-python</b>'
+Comment='<span size="xx-large">Python bindings for CEGUI</span>'
+Comment3='
+Python bindings called PyCEGUI that enable users to use the full API of CEGUI
+from python. Contains bindings for the CEGUI library itself and its
+OpenGLRenderer (module PyCEGUIOpenGLRenderer).
+'
+License='MIT'
+Screenshot=''
+Url='http://www.cegui.org.uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

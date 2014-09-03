@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-DBIx-Class-TimeStamp</b>'
+Comment='<span size="xx-large">DBIx::Class extension to update and create date and time based fields</span>'
+Comment3='
+Works in conjunction with InflateColumnDateTime to automatically set
+update and create date and time based fields in a table.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DBIx-Class-TimeStamp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

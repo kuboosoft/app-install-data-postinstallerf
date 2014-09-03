@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>redhat-lsb</b>'
+Comment='<span size="xx-large">Implementation of Linux Standard Base specification</span>'
+Comment3='
+The Linux Standard Base (LSB) is an attempt to develop a set of standards that
+will increase compatibility among Linux distributions. It is designed to be
+binary-compatible and produce a stable application binary interface (ABI) for
+independent software vendors.
+The lsb package provides utilities, libraries etc. needed for LSB Compliant
+Applications. It also contains requirements that will ensure that all
+components required by the LSB are installed on the system.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.linuxfoundation.org/collaborate/workgroups/lsb'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

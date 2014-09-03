@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-File-Map</b>'
+Comment='<span size="xx-large">Memory mapping made simple and safe</span>'
+Comment3='
+FileMap maps files or anonymous memory into perl variables.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Map/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>binwalk</b>'
+Comment='<span size="xx-large">Firmware analysis tool</span>'
+Comment3='
+Binwalk is a tool for searching a given binary image for embedded files and
+executable code. Specifically, it is designed for identifying files and code
+embedded inside of firmware images. Binwalk uses the python-magic library, so
+it is compatible with magic signatures created for the Unix file utility.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/binwalk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

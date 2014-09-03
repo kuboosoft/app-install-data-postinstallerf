@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-HTTP-Server-Simple</b>'
+Comment='<span size="xx-large">Test::More functions for HTTP::Server::Simple</span>'
+Comment3='
+This mixin class provides methods to test an HTTPServerSimple-based web
+server. Currently, it provides only one such method started_ok.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-HTTP-Server-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

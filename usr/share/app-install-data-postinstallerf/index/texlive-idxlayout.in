@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-idxlayout</b>'
+Comment='<span size="xx-large">Configurable index layout, responsive to KOMA-Script and memoir</span>'
+Comment3='
+The idxlayout package offers a key-value interface to configure
+index layout parameters, e.g. allowing for three-column indexes
+or for "parent" items and their affiliated subitems being
+typeset as a single paragraph. The package is responsive to the
+index-related options and commands of the KOMA-Script and
+memoir classes.
+
+date 2012-04-01 203912 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

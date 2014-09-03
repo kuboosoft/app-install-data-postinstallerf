@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plexus-active-collections</b>'
+Comment='<span size="xx-large">Plexus Container-Backed Active Collections</span>'
+Comment3='
+Plexus Container-Backed Active Collections
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://plexus.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

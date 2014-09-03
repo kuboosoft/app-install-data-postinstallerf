@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python3-flake8</b>'
+Comment='<span size="xx-large">Code checking using pep8 and pyflakes</span>'
+Comment3='
+Flake8 is a wrapper around these tools
+
+- PyFlakes - pep8 - Neds McCabe script
+Flake8 runs all tools by launching the single flake8 script, but ignores
+pep8 and PyFlakes extended options and just uses defaults. It displays the
+warnings in a per-file, merged output.
+It also adds a few features
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/flake8'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

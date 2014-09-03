@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-File-RsyncP</b>'
+Comment='<span size="xx-large">A perl implementation of an Rsync client</span>'
+Comment3='
+FileRsyncP is a perl implementation of an Rsync client. It is compatible with
+Rsync 2.5.5 - 2.6.3 (protocol versions 26-28). It can send or receive files,
+either by running rsync on the remote machine, or connecting to an rsyncd
+daemon on the remote machine.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-RsyncP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-method_source-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-method_source</span>'
+Comment3='
+Documentation for rubygem-method_source
+'
+License='MIT'
+Screenshot=''
+Url='http://banisterfiend.wordpress.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

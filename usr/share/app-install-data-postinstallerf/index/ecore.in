@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ecore</b>'
+Comment='<span size="xx-large">Event/X abstraction layer</span>'
+Comment3='
+Ecore is the event/X abstraction layer that makes doing selections,
+Xdnd, general X stuff, event loops, timeouts and idle handlers fast,
+optimized, and convenient.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://web.enlightenment.org/p.php?p=about/efl&l=en'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

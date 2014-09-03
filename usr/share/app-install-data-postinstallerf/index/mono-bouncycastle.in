@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mono-bouncycastle</b>'
+Comment='<span size="xx-large">Bouncy Castle Crypto Package for Mono</span>'
+Comment3='
+The Bouncy Castle Crypto package is a C# implementation of cryptographic
+algorithms. It is a port of the Bouncy Castle Java APIs, with
+approximately 80% of the functionality ported. The C# API is constantly
+kept up to date with bug fixes and new test cases from the Java build
+(and vice versa sometimes), thus benefiting from the large user base
+and real-world use the Java version has seen.
+'
+License='MIT and ASL 2.0'
+Screenshot=''
+Url='http://www.bouncycastle.org/csharp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

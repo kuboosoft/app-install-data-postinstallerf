@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>emacs-librep-el</b>'
+Comment='<span size="xx-large">Emacs bindings for the librep main application</span>'
+Comment3='
+This package contains the Emacs related source files so that librep
+nicely interacts and integrates into Emacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sawfish.wikia.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

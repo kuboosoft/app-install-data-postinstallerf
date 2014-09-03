@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libreoffice-kde</b>'
+Comment='<span size="xx-large">LibreOffice KDE integration plug-in</span>'
+Comment3='
+A plug-in for LibreOffice that enables integration into the KDE desktop environment.
+'
+License='(MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and Artistic and MPLv2.0'
+Screenshot=''
+Url='http://www.libreoffice.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

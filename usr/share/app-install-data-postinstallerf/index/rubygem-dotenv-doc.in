@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-dotenv-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-dotenv</span>'
+Comment3='
+Documentation for rubygem-dotenv
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/bkeepers/dotenv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

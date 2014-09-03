@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-pecl-lzf</b>'
+Comment='<span size="xx-large">Extension to handle LZF de/compression</span>'
+Comment3='
+This extension provides LZF compression and decompression using the liblzf
+library
+
+LZF is a very fast compression algorithm, ideal for saving space with a
+slight speed cost.
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/LZF'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sequence-library-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for sequence-library</span>'
+Comment3='
+This package contains the API documentation for sequence-library.
+'
+License='Sequence'
+Screenshot=''
+Url='http://svn.svnkit.com/repos/3rdparty/de.regnis.q.sequence/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

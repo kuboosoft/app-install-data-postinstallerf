@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ncurses-devel</b>'
+Comment='<span size="xx-large">Development files for the ncurses library</span>'
+Comment3='
+The header files and libraries for developing applications that use
+the ncurses terminal handling library.
+
+Install the ncurses-devel package if you want to develop applications
+which will use ncurses.
+'
+License='MIT'
+Screenshot=''
+Url='http://invisible-island.net/ncurses/ncurses.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

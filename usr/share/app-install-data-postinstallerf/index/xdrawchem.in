@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xdrawchem</b>'
+Comment='<span size="xx-large">2D chemical structures drawing tool</span>'
+Comment3='
+XDrawChem is a two-dimensional molecule drawing program for Unix
+operating systems.  It is similar in functionality to other molecule
+drawing programs such as ChemDraw (TM, CambridgeSoft).  It can read
+and write MDL Molfiles and CML files to allow sharing between
+XDrawChem and other chemistry applications.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xdrawchem.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

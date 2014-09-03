@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>itext-rups</b>'
+Comment='<span size="xx-large">Reading/Updating PDF Syntax</span>'
+Comment3='
+iText RUPS is a tool that combines SUNs PDF Renderer (to view PDF documents),
+iTexts PdfReader (to inspect the internal structure of a PDF file), and
+iTexts PdfStamper to manipulate a PDF file.
+'
+License='LGPLv2+ and CC-BY'
+Screenshot=''
+Url='http://www.lowagie.com/iText/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libkkc-common</b>'
+Comment='<span size="xx-large">Common data files for libkkc</span>'
+Comment3='
+The libkkc-common package contains the arch-independent data that
+libkkc uses at run time.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://bitbucket.org/libkkc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

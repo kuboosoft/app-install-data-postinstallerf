@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Spiffy</b>'
+Comment='<span size="xx-large">Framework for doing object oriented (OO) programming in Perl</span>'
+Comment3='
+"Spiffy" is a framework and methodology for doing object oriented (OO)
+programming in Perl. Spiffy combines the best parts of Exporter.pm, base.pm,
+mixin.pm and SUPER.pm into one magic foundation class. It attempts to fix all
+the nits and warts of traditional Perl OO, in a clean, straightforward and
+(perhaps someday) standard way.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Spiffy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

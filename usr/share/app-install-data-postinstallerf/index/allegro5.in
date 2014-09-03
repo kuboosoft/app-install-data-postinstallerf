@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>allegro5</b>'
+Comment='<span size="xx-large">A game programming library</span>'
+Comment3='
+Allegro is a cross-platform library intended for use in computer games
+and other types of multimedia programming. Allegro 5 is the latest major
+revision of the library, designed to take advantage of modern hardware
+(e.g. hardware acceleration using 3D cards) and operating systems.
+Although it is not backwards compatible with earlier versions, it still
+occupies the same niche and retains a familiar style.
+
+'
+License='zlib'
+Screenshot=''
+Url='http://liballeg.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

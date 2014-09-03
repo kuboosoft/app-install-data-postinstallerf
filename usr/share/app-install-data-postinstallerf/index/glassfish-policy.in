@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>glassfish-policy</b>'
+Comment='<span size="xx-large">GlassFish WS-Policy implementation</span>'
+Comment3='
+The policy project provides the WS-Policy implementation
+for Project Metro.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://policy.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

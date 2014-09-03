@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-clock</b>'
+Comment='<span size="xx-large">Graphical and textual clocks for TeX and LaTeX</span>'
+Comment3='
+Features graphical clocks (with a classical 12h dial and two
+hands) and text clocks (in 24h format) which can show system
+time or any time the user desires. Works with both TeX and
+LaTeX. The clock faces (appearances of the dial) are easily
+expandable; the default uses a custom MetaFont font.
+
+date 2008-04-19 230528 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

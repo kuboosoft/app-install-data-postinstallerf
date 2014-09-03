@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Catalyst-Plugin-Session-Store-Cache</b>'
+Comment='<span size="xx-large">Store sessions using a Catalyst::Plugin::Cache</span>'
+Comment3='
+This plugin will store your session data in whatever cache module you have
+configured.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Catalyst-Plugin-Session-Store-Cache/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtelnet-devel</b>'
+Comment='<span size="xx-large">Header files for libtelnet</span>'
+Comment3='
+Header files for developing applications making use of libtelnet.
+
+URL          http//github.com/elanthis/libtelnet
+'
+License='Public Domain'
+Screenshot=''
+Url='http://github.com/elanthis/libtelnet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

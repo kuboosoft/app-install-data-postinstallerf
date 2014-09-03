@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>flint</b>'
+Comment='<span size="xx-large">Fast Library for Number Theory</span>'
+Comment3='
+FLINT is a C library for doing number theory, written by William Hart
+and David Harvey.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.flintlib.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mplayer</b>'
+Comment='<span size="xx-large">Movie player playing most video formats and DVDs</span>'
+Comment3='
+MPlayer is a movie player that plays most MPEG, VOB, AVI, OGG/OGM,
+VIVO, ASF/WMA/WMV, QT/MOV/MP4, FLI, RM, NuppelVideo, yuv4mpeg, FILM,
+RoQ, and PVA files. You can also use it to watch VCDs, SVCDs, DVDs,
+3ivx, RealMedia, and DivX movies.
+It supports a wide range of output drivers including X11, XVideo, DGA,
+OpenGL, SVGAlib, fbdev, AAlib, DirectFB etc. There are also nice
+antialiased shaded subtitles and OSD.
+The following on-default rpmbuild options are available
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.mplayerhq.hu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

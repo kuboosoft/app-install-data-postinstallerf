@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-abc</b>'
+Comment='<span size="xx-large">Support ABC music notation in LaTeX</span>'
+Comment3='
+The abc package lets you include lines of music written in the
+ABC Plus language. The package will then employ the \write18
+facility to convert your notation to PostScript (using the
+established utility abcm2ps) and hence to the format needed for
+inclusion in your document.
+
+date 2008-03-08 204721 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

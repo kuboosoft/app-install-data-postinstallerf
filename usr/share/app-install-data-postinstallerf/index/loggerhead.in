@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>loggerhead</b>'
+Comment='<span size="xx-large">Web viewer for the Bazaar version control system</span>'
+Comment3='
+Loggerhead is a WSGI app that provides a web interface to the Bazaar version
+control system.  It can be used to navigate a branch history, view who
+changed lines in a file, look at patches, and perform searches.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://launchpad.net/loggerhead'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

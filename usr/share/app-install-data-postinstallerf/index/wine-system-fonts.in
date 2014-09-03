@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wine-system-fonts</b>'
+Comment='<span size="xx-large">Wine System font family</span>'
+Comment3='
+Wine System font family
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-te</b>'
+Comment='<span size="xx-large">Telugu hunspell dictionaries</span>'
+Comment3='
+Telugu hunspell dictionaries.
+'
+License='GPL+'
+Screenshot=''
+Url='https://gitorious.org/hunspell_dictionaries'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

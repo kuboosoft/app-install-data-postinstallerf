@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kpcli</b>'
+Comment='<span size="xx-large">KeePass Command Line Interface (CLI) / interactive shell</span>'
+Comment3='
+KeePass Command Line Interface (CLI) / interactive shell.
+Use this program to access and manage your KeePass 1.x or
+2.x databases from a Unix-like command line.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://kpcli.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

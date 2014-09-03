@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>syntastic</b>'
+Comment='<span size="xx-large">A vim plugins to check syntax for programming languages</span>'
+Comment3='
+Syntastic is a syntax checking plugin that runs files through external syntax
+checkers and displays any resulting errors to the user. This can be done on
+demand, or automatically as files are saved. If syntax errors are detected, the
+user is notified and is happy because they didnt have to compile their code or
+execute their script to find them.
+'
+License='WTFPL'
+Screenshot=''
+Url='https://github.com/scrooloose/syntastic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

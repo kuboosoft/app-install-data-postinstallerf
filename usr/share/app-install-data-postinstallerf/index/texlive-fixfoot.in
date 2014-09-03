@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-fixfoot</b>'
+Comment='<span size="xx-large">Multiple use of the same footnote text</span>'
+Comment3='
+Provides a \DeclareFixedFootnote command to provide a single
+command for a frequently-used footnote. The package ensures
+that only one instance of the footnote text appears on each
+page (LaTeX needs to be run several times to achieve this).
+
+date 2010-02-20 003221 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

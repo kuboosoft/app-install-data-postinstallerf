@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-pecl-memcache</b>'
+Comment='<span size="xx-large">Extension to work with the Memcached caching daemon</span>'
+Comment3='
+Memcached is a caching daemon designed especially for
+dynamic web applications to decrease database load by
+storing objects in memory.
+
+This extension allows you to work with memcached through
+handy OO and procedural interfaces.
+Memcache can be used as a PHP session handler.
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/memcache'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

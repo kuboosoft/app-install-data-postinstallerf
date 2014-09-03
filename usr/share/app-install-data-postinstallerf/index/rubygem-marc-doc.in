@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-marc-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-marc</span>'
+Comment3='
+This package contains documentation for rubygem-marc.
+'
+License='MIT'
+Screenshot=''
+Url='http://marc.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openni-nite</b>'
+Comment='<span size="xx-large">OpenNI-based toolbox for hand movement tracking</span>'
+Comment3='
+NITE is a toolbox to allow application to build flows based on the users
+hands movement. The hand movement is understood as gestures and is tracked,
+to provide hand points. NITE works over OpenNI.
+
+'
+License='Proprietary'
+Screenshot=''
+Url='http://www.openni.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cloog-ppl</b>'
+Comment='<span size="xx-large">Parma Polyhedra Library backend (ppl) based version of the Cloog binaries</span>'
+Comment3='
+The dynamic shared libraries of the Chunky Loop Generator
+
+URL          http//www.cloog.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.cloog.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

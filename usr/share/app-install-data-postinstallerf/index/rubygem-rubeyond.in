@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-rubeyond</b>'
+Comment='<span size="xx-large">A development framework for Ruby</span>'
+Comment3='
+Rubeyond provides addition general classes, mixins and
+functions to round out the standard library that ships
+with the Ruby language.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://rubyforge.org/projects/rubeyond'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

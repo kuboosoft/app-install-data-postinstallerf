@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>springframework-expression</b>'
+Comment='<span size="xx-large">Spring Expression Language (SpEL)</span>'
+Comment3='
+The Spring Expression Language (SpEL for short) is a powerful expression
+language that supports querying and manipulating an object graph at runtime.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.springframework.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

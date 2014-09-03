@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bti</b>'
+Comment='<span size="xx-large">Bash Twitter/Identi.ca Idiocy</span>'
+Comment3='
+Allows you to pipe your bash input to twitter or identi.ca in an easy
+and fast manner to annoy the whole world.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/gregkh/bti'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

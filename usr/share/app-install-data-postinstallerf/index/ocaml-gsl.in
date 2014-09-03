@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ocaml-gsl</b>'
+Comment='<span size="xx-large">Interface to GSL (GNU scientific library) for OCaml</span>'
+Comment3='
+This is an interface to GSL (GNU scientific library), for the
+Objective Caml language.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oandrieu.nerim.net/ocaml/gsl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

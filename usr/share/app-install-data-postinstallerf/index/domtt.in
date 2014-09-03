@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>domtt</b>'
+Comment='<span size="xx-large">DOM Tooltip (aka domTT) is a Javascript widget</span>'
+Comment3='
+DOM Tooltip (aka domTT) is a Javascript widget, released under the Apache 2.0
+license, which allows developers to add customized tool-tips to their web sites.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.mojavelinux.com/projects/domtooltip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

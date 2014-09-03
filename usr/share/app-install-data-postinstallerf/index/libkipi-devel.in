@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkipi-devel</b>'
+Comment='<span size="xx-large">Development files for libkipi</span>'
+Comment3='
+Development files for libkipi.
+
+URL          https//projects.kde.org/projects/kde/kdegraphics/libs/libkexiv2
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/libs/libkexiv2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

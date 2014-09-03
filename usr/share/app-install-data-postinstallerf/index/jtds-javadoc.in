@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jtds-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for jtds</span>'
+Comment3='
+This package contains javadoc for jtds.
+'
+License='MIT and LGPLv2+'
+Screenshot=''
+Url='http://jtds.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ibus-table-chinese-cangjie</b>'
+Comment='<span size="xx-large">Cangjie based input methods</span>'
+Comment3='
+Cangjie based input methods, includes
+Cangjie3, Canjie5, and Cangjie big tables.
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

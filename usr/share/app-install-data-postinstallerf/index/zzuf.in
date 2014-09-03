@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zzuf</b>'
+Comment='<span size="xx-large">Transparent application input fuzzer</span>'
+Comment3='
+zzuf is a transparent application input fuzzer.  It works by
+intercepting file operations and changing random bits in the programs
+input.  zzufs behaviour is deterministic, making it easy to reproduce
+bugs.
+'
+License='WTFPL'
+Screenshot=''
+Url='http://sam.zoy.org/zzuf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

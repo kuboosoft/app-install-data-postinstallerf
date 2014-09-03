@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ghc-split</b>'
+Comment='<span size="xx-large">Combinator library for splitting lists</span>'
+Comment3='
+A collection of various methods for splitting
+lists into parts, akin to the \"split\" function
+found in several mainstream languages. Here is
+its tale
+
+Once upon a time the standard "Data.List" module
+held no function for splitting a list into parts
+according to a delimiter.  Many a brave
+lambda-knight strove to add such a function, but
+their striving was in vain, for Lo, the Supreme
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/split'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

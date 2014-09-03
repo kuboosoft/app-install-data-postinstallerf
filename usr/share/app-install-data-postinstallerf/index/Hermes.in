@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>Hermes</b>'
+Comment='<span size="xx-large">Pixel format conversion library</span>'
+Comment3='
+HERMES is a library designed to convert a source buffer with a specified pixel
+format to a destination buffer with possibly a different format at the maximum
+possible speed.
+
+On x86 and MMX architectures, handwritten assembler routines are taking over
+the job and doing it lightning fast.
+On top of that, HERMES provides fast surface clearing, stretching and some
+dithering. Supported platforms are basically all that have an ANSI C compiler
+as there is no platform specific code but those are supported DOS, Win32
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://web.archive.org/web/20040202225109/http://www.clanlib.org/hermes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>worminator</b>'
+Comment='<span size="xx-large">Sidescrolling platform and shootem up action-game</span>'
+Comment3='
+You play as The Worminator and fight your way through many levels of madness
+and mayhem. Worminator features nine unique weapons, visible character damage,
+full screen scrolling, sound and music, and much more!
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/worminator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

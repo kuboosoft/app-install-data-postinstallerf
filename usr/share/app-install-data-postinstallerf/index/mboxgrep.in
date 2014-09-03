@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mboxgrep</b>'
+Comment='<span size="xx-large">Displays e-mail messages matching a pattern</span>'
+Comment3='
+mboxgrep is a small utility that scans a mailbox for messages matching a
+basic, extended, or Perl-compatible regular expression. Selected
+messages can be either displayed on standard output, counted, piped to a
+command or written to another mailbox.
+It supports mbox (both plain and compressed), MH, nnmh, nnml and maildir
+folders.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mboxgrep.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

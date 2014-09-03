@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ceph-fuse</b>'
+Comment='<span size="xx-large">Ceph fuse-based client</span>'
+Comment3='
+FUSE based client for Ceph distributed network file system
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://ceph.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-oberdiek</b>'
+Comment='<span size="xx-large">A bundle of packages submitted by Heiko Oberdiek</span>'
+Comment3='
+The bundle comprises packages to provide - accsupp better
+accessibility support for PDF files; - aliascnt alias
+counters; - alphalph multiple-alphabetic counting
+- askinclude replaces \includeonly by an interactive user
+interface; - atbegshi a modern reimplementation of package
+everyshi; - atenddvi provides \AtEndDvi command; -
+attachfile2 attach files to PDF files; - atveryend hooks the
+very end of a document; - auxhook stick stuff at the start of
+the .aux file; - bigintcalc expandable arithmetic operations
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

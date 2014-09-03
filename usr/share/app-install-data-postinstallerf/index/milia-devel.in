@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>milia-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use milia</span>'
+Comment3='
+These are the header files and libraries needed to develop a milia
+application.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://guaix.fis.ucm.es/projects/milia/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

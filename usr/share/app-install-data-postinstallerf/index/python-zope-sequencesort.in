@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-zope-sequencesort</b>'
+Comment='<span size="xx-large">Sequence Sorting</span>'
+Comment3='
+This package provides a very advanced sequence sorting feature.
+'
+License='ZPLv2.1'
+Screenshot=''
+Url='http://cheeseshop.python.org/pypi/zope.sequencesort'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

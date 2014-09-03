@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gzip</b>'
+Comment='<span size="xx-large">The GNU data compression program</span>'
+Comment3='
+The gzip package contains the popular GNU gzip data compression
+program. Gzipped files have a .gz extension.
+
+Gzip should be installed on your system, because it is a
+very commonly used data compression program.
+'
+License='GPLv3+ and GFDL'
+Screenshot=''
+Url='http://www.gzip.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

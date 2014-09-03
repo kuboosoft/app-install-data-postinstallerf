@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libavc1394</b>'
+Comment='<span size="xx-large">Audio/Video Control library for IEEE-1394 devices</span>'
+Comment3='
+The libavc1394 library allows utilities to control IEEE-1394 devices
+using the AV/C specification.  Audio/Video Control allows applications
+to control devices like the tape on a VCR or camcorder.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libavc1394/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ocaml-gettext-camomile-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-gettext-camomile</span>'
+Comment3='
+The ocaml-gettext-camomile-devel package contains libraries and
+signature files for developing applications that use
+ocaml-gettext-camomile.
+
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://forge.ocamlcore.org/projects/ocaml-gettext'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

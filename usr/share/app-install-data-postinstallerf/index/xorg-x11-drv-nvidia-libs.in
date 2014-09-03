@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xorg-x11-drv-nvidia-libs</b>'
+Comment='<span size="xx-large">Libraries for xorg-x11-drv-nvidia</span>'
+Comment3='
+This package provides the shared libraries for xorg-x11-drv-nvidia.
+
+URL          http//www.nvidia.com/
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.nvidia.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

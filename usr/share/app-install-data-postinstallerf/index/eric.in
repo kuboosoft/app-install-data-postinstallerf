@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eric</b>'
+Comment='<span size="xx-large">Python IDE</span>'
+Comment3='
+eric4 is a full featured Python IDE.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://eric-ide.python-projects.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

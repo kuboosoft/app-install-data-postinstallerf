@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dmlite-plugins-adapter</b>'
+Comment='<span size="xx-large">Adapter plug-in for dmlite</span>'
+Comment3='
+This package provides the adapter plug-in for dmlite. This plug-in provides both
+a name-space and pool management implementation which fallback to forwarding
+calls to the old DPNS and DPM daemons.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm/wiki/Dpm/Dev/Dmlite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

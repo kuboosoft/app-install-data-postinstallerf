@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-kolab</b>'
+Comment='<span size="xx-large">PHP Bindings for libkolab</span>'
+Comment3='
+PHP Bindings for libkolab
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://git.kolab.org/libkolab'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

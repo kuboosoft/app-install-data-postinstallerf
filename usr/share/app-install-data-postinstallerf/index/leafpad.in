@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>leafpad</b>'
+Comment='<span size="xx-large">GTK+ based simple text editor</span>'
+Comment3='
+Leafpad is a GTK+ based simple text editor. The user interface is similar to
+Notepad. It aims to be lighter than GEdit and KWrite, and to be as useful as
+them.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tarot.freeshell.org/leafpad/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

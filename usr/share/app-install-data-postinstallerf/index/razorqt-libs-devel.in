@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>razorqt-libs-devel</b>'
+Comment='<span size="xx-large">RazorQt development package</span>'
+Comment3='
+This package provides the development files for the libraries that are
+shared amongst the various components of Razor-qt.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://razor-qt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>inchi</b>'
+Comment='<span size="xx-large">The IUPAC International Chemical Identifier library</span>'
+Comment3='
+The IUPAC International Chemical Identifier (InChITM) is a non-proprietary
+identifier for chemical substances that can be used in printed and
+electronic data sources thus enabling easier linking of diverse data
+compilations. It was developed under IUPAC Project 2000-025-1-800 during
+the period 2000-2004. Details of the project and the history of its
+progress are available from the project web site.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.inchi-trust.org/?q=node/14'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

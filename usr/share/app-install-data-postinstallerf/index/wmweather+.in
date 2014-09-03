@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wmweather+</b>'
+Comment='<span size="xx-large">Weather status dockapp</span>'
+Comment3='
+wmweather+ will download the National Weather Serivce METAR bulletins; AVN,
+ETA, and MRF forecasts; and any weather map for display in a WindowMaker
+dockapp. Think wmweather with a smaller font, forecasts, a weather map, and a
+sky condition display.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/wmweatherplus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

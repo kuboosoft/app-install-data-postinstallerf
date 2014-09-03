@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>testoob</b>'
+Comment='<span size="xx-large">Advanced unit testing framework for Python</span>'
+Comment3='
+Testoob is an advanced unit testing framework for Python. It
+integrates effortlessly with existing PyUnit (module ?unittest?)
+test suites.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://testoob.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

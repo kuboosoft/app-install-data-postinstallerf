@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-multi_xml-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-multi_xml</span>'
+Comment3='
+Documentation for rubygem-multi_xml
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/sferik/multi_xml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

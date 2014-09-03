@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>autokey-common</b>'
+Comment='<span size="xx-large">Desktop automation utility - common data</span>'
+Comment3='
+This package contains the common data shared between the various front ends.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://autokey.googlecode.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

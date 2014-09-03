@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-preludeml-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-preludeml</span>'
+Comment3='
+The ocaml-preludeml-devel package contains libraries and signature files for
+developing applications that use ocaml-preludeml.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/kig/preludeml/tree/master'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

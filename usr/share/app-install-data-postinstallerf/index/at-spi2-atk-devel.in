@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>at-spi2-atk-devel</b>'
+Comment='<span size="xx-large">A GTK+ module that bridges ATK to D-Bus at-spi</span>'
+Comment3='
+The at-spi2-atk-devel package includes the header files for the at-spi2-atk library.
+
+URL          http//www.linuxfoundation.org/en/AT-SPI_on_D-Bus
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

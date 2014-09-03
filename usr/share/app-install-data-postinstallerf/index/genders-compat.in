@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>genders-compat</b>'
+Comment='<span size="xx-large">Compatibility library</span>'
+Comment3='
+Genders API that is compatible with earlier releases of genders.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://genders.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

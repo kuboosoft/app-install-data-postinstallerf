@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>busybox-petitboot</b>'
+Comment3='
+Busybox is a single binary which includes versions of a large number
+of system commands, including a shell.  The version contained in this
+package is a minimal configuration intended for use with the Petitboot
+bootloader used on PlayStation 3. The busybox package provides a binary
+better suited to normal use.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.busybox.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

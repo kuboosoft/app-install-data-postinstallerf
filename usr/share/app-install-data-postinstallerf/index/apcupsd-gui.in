@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apcupsd-gui</b>'
+Comment='<span size="xx-large">GUI interface for apcupsd</span>'
+Comment3='
+A GUI interface to the APC UPS monitoring daemon.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.apcupsd.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

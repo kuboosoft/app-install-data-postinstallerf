@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xonotic-data</b>'
+Comment='<span size="xx-large">Game data for the Xonotic first person shooter</span>'
+Comment3='
+Xonotic is a fast-paced, chaotic, and intense multiplayer first person shooter,
+focused on providing basic, old style deathmatches.
+
+Data (textures, maps, sounds and models) required to play xonotic.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xonotic.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

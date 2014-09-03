@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-et</b>'
+Comment='<span size="xx-large">An event tracer for Erlang programs</span>'
+Comment3='
+An event tracer for Erlang programs.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

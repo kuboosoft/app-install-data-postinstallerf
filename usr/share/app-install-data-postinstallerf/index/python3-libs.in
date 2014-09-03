@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-libs</b>'
+Comment='<span size="xx-large">Python 3 runtime libraries</span>'
+Comment3='
+This package contains files used to embed Python 3 into applications.
+
+URL          http//www.python.org/
+'
+License='Python'
+Screenshot=''
+Url='http://www.python.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

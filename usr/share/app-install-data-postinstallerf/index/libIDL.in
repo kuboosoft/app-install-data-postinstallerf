@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libIDL</b>'
+Comment='<span size="xx-large">Library for parsing IDL (Interface Definition Language)</span>'
+Comment3='
+libIDL is a library for parsing IDL (Interface Definition Language).
+It can be used for both COM-style and CORBA-style IDL.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ftp.gnome.org/pub/gnome/sources/libIDL/0.8/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

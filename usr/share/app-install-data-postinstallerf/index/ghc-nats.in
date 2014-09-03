@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-nats</b>'
+Comment='<span size="xx-large">Haskell 98 natural numbers</span>'
+Comment3='
+Natural numbers implemented in Haskell 98.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/nats'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>timespan</b>'
+Comment='<span size="xx-large">A tool that performs date-based time calculations</span>'
+Comment3='
+timespan performs date-based time calculations. It can calculate days,
+hours, minutes, or seconds between 1 Jan 1970 and the specified date
+or between two specified dates.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://sourceforge.net/projects/timespan/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

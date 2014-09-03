@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-hepparticles</b>'
+Comment='<span size="xx-large">Macros for typesetting high energy physics particle names</span>'
+Comment3='
+HEPparticles is a set of macros for typesetting high energy
+particle names, to meet the following criteria 1. The main
+particle name is a Roman or Greek symbol, to be typeset in
+upright font in normal contexts. 2. Additionally a superscript
+and/or subscript may follow the main symbol. 3. Particle
+resonances may also have a resonance specifier which is typeset
+in parentheses following the main symbol. In general the
+parentheses may also be followed by sub- and superscripts. 4.
+The particle names are expected to be used both in and out of
+mathematical contexts. 5. If the surrounding text is bold or
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

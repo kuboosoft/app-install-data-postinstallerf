@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n sailcut
+Name=Sailcut CAD
+GenericName=Sail Design Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/sailcut.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Graphics;Science;Engineering

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>vlgothic-p-fonts</b>'
+Comment='<span size="xx-large">Proportional Japanese TrueType font</span>'
+Comment3='
+
+VLGothic provides Japanese TrueType fonts from the Vine Linux project.
+Most of the glyphs are taken from the M+ and Sazanami Gothic fonts,
+but some have also been improved by the project.
+This package provides the VLGothic font with proportional glyphs for some
+non-Japanese characters.
+'
+License='mplus and BSD'
+Screenshot=''
+Url='http://dicey.org/vlgothic'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

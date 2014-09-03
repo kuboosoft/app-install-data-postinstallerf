@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-IOSpec</b>'
+Comment='<span size="xx-large">A pure specification of the IO monad</span>'
+Comment3='
+This package consists of several modules,
+that give a pure specification of functions in the IO monad.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/IOSpec'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

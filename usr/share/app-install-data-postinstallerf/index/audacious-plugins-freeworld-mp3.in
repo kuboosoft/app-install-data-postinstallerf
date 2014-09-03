@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>audacious-plugins-freeworld-mp3</b>'
+Comment='<span size="xx-large">MP3 playback plugin for Audacious</span>'
+Comment3='
+Audacious is a media player that currently uses a skinned
+user interface based on Winamp 2.x skins. It is based on ("forked off")
+BMP.
+
+This is the plugin needed to play MP3 audio files.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://audacious-media-player.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

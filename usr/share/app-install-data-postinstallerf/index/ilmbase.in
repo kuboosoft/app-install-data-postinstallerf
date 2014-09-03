@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ilmbase</b>'
+Comment='<span size="xx-large">Abstraction/convenience libraries</span>'
+Comment3='
+Half is a class that encapsulates the ilm 16-bit floating-point format.
+
+IlmThread is a thread abstraction library for use with OpenEXR
+and other software packages.
+Imath implements 2D and 3D vectors, 3x3 and 4x4 matrices, quaternions
+and other useful 2D and 3D math functions.
+Iex is an exception-handling library.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openexr.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

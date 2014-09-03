@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>clc-intercal-UI-X</b>'
+Comment='<span size="xx-large">Graphical user interface to CLC-INTERCAL</span>'
+Comment3='
+This package installs a graphical user interface to CLC-INTERCAL.
+
+At present, only the INTERCAL calculator, "intercalc", uses this interface,
+although a future release of "sick" will be able to use it as well.
+'
+License='BSD'
+Screenshot=''
+Url='http://clc.intercal.org.uk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

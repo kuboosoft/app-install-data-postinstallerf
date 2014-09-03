@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mingw32-gtkmm24</b>'
+Comment='<span size="xx-large">MinGW Windows C++ interface for GTK2 (a GUI library for X)</span>'
+Comment3='
+gtkmm provides a C++ interface to the GTK+ GUI library. gtkmm2 wraps
+GTK+ 2.  Highlights include typesafe callbacks, widgets extensible via
+inheritance and a comprehensive set of widget classes that can be
+freely combined to quickly create complex user interfaces.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gtkmm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python3-itsdangerous</b>'
+Comment='<span size="xx-large">Python 3 library for passing trusted data to untrusted environments</span>'
+Comment3='
+Itsdangerous is a Python 3 library for passing data through untrusted
+environments (for example, HTTP cookies) while ensuring the data is not
+tampered with.
+
+Internally itsdangerous uses HMAC and SHA1 for signing by default and bases the
+implementation on the Django signing module. It also however supports JSON Web
+Signatures (JWS).
+'
+License='BSD'
+Screenshot=''
+Url='http://pythonhosted.org/itsdangerous/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

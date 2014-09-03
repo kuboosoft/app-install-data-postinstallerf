@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-SGMLSpm</b>'
+Comment='<span size="xx-large">Perl library for parsing the output of nsgmls</span>'
+Comment3='
+Perl programs can use the SGMLSpm module to help convert SGML, HTML or XML
+documents into new formats.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/SGMLSpm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

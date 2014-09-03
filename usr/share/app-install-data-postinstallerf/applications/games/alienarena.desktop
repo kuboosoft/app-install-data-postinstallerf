@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n alienarena
+Type=Application
+Version=1.0
+Name=Alien Arena
+Comment=Multiplayer retro sci-fi deathmatch game based on Quake3
+Icon=/usr/share/app-install-data-postinstallerf/icons/alienarena.png
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;ArcadeGame

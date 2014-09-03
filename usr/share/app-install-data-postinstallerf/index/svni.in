@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>svni</b>'
+Comment='<span size="xx-large">Subversion interactive check-in wrapper</span>'
+Comment3='
+svni is a wrapper for "svn ci". It features syntax checking before checking
+in files; Giving the possibility to make a final selection of files to check
+in when entering a commit message; And showing the differences that are
+about to be checked in.
+
+Features
+- Command-line tool
+- Check syntax before committing files to the repository
+- Review changes before committing
+- Make last-minute changes to the list of files to be committed
+'
+License='GPLv3'
+Screenshot=''
+Url='http://svni.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

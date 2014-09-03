@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>haskell-platform</b>'
+Comment='<span size="xx-large">Standard Haskell distribution</span>'
+Comment3='
+Haskell Platform is a suite of stable and well used Haskell libraries
+and tools.  It provides a good starting environment for Haskell development.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/platform'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n muse
+Name=MusE
+GenericName=Audio/MIDI Sequencer
+Comment=Midi Music Editor
+Icon=/usr/share/app-install-data-postinstallerf/icons/muse_icon.png
+Type=Application
+Terminal=false

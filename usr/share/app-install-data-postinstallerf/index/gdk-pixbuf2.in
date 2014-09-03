@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gdk-pixbuf2</b>'
+Comment='<span size="xx-large">An image loading library</span>'
+Comment3='
+gdk-pixbuf is an image loading library that can be extended by loadable
+modules for new image formats. It is used by toolkits such as GTK+ or
+clutter.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gt.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

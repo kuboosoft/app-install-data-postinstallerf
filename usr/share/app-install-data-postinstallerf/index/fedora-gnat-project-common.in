@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fedora-gnat-project-common</b>'
+Comment='<span size="xx-large">Files shared by Ada libraries</span>'
+Comment3='
+The fedora-gnat-project-common package contains files that are used by the GNAT
+project files of multiple Ada libraries, and also GNAT-specific RPM macros.
+'
+License='Copyright only'
+Screenshot=''
+Url='https://fedorahosted.org/released/fedora-gnat-project-common'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

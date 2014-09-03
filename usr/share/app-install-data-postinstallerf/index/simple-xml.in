@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>simple-xml</b>'
+Comment='<span size="xx-large">An XML serialization framework for Java</span>'
+Comment3='
+Simple is a high performance XML serialization and
+configuration framework for Java. Its goal is to
+provide an XML framework that enables rapid development
+of XML configuration and communication systems.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://simple.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

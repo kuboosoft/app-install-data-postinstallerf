@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-titlefoot</b>'
+Comment='<span size="xx-large">Add special material to footer of title page</span>'
+Comment3='
+Provides the capability of adding keywords (with a \keywords
+command), a running title (\runningtitle), AMS subject
+classifications (\amssubj), and an authors footnote as
+footnotes to the title or first page of a document. Works with
+any class for which the \thanks macro works (e.g., article).
+
+date 2007-01-17 000813 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ctemplate-devel</b>'
+Comment='<span size="xx-large">Development files for ctemplate</span>'
+Comment3='
+The ctemplate-devel package contains libraries and header files for
+developing applications that use ctemplate.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/ctemplate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-texlive-docindex</b>'
+Comment='<span size="xx-large">top-level TeX Live doc.html, etc</span>'
+Comment3='
+These files are regenerated as needed, which is often, so we
+make them a separate package.  See the tl-update-auto script
+for the process.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

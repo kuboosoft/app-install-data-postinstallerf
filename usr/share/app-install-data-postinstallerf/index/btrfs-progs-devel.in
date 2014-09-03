@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>btrfs-progs-devel</b>'
+Comment='<span size="xx-large">btrfs filesystem-specific libraries and headers</span>'
+Comment3='
+btrfs-progs-devel contains the libraries and header files needed to
+develop btrfs filesystem-specific programs.
+
+You should install btrfs-progs-devel if you want to develop
+btrfs filesystem-specific programs.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://btrfs.wiki.kernel.org/index.php/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

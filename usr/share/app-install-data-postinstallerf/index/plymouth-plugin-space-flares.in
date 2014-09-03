@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>plymouth-plugin-space-flares</b>'
+Comment='<span size="xx-large">Plymouth "space-flares" plugin</span>'
+Comment3='
+This package contains the "space-flares" boot splash plugin for
+Plymouth. It features a corner image with animated flares.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Plymouth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-cryptiles</b>'
+Comment='<span size="xx-large">General purpose cryptography utilities for Node.js</span>'
+Comment3='
+General purpose cryptography utilities for Node.js.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/hueniverse/cryptiles'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

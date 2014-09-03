@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-abbr</b>'
+Comment='<span size="xx-large">Simple macros supporting abreviations for Plain and LaTeX</span>'
+Comment3='
+Abbr is a set of some simple macros to support abbreviations in
+Plain or LaTeX. It allows writing e.g. \<TEX> instead of \TeX,
+hence frees users from having to escape space after
+parameterless macros.
+
+date 2007-05-25 161527 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

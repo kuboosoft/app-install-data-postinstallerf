@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pachi</b>'
+Comment='<span size="xx-large">Pachi El Marciano - Platform Game</span>'
+Comment3='
+Pachi El Marciano is a cool 2D platform game.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dragontech.sourceforge.net/index.php?main=pachi&lang=en'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

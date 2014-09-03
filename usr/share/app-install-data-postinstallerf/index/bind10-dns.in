@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bind10-dns</b>'
+Comment='<span size="xx-large">BIND10 suite DNS service daemons</span>'
+Comment3='
+BIND10 suite DNS service daemons
+
+URL          http//bind10.isc.org/wiki
+'
+License='ISC'
+Screenshot=''
+Url='http://bind10.isc.org/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

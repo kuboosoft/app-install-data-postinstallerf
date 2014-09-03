@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>poly2tri-devel</b>'
+Comment='<span size="xx-large">Development files for poly2tri</span>'
+Comment3='
+Development files for poly2tri.
+
+URL          https//code.google.com/p/poly2tri
+'
+License='BSD'
+Screenshot=''
+Url='https://code.google.com/p/poly2tri'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

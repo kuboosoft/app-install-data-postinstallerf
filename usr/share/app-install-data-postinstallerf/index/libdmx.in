@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libdmx</b>'
+Comment='<span size="xx-large">X.Org X11 DMX runtime library</span>'
+Comment3='
+The X.Org X11 DMX (Distributed Multihead X) runtime library.
+
+URL          http//www.x.org
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

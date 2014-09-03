@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>trousers-static</b>'
+Comment='<span size="xx-large">TrouSerS TCG Device Driver Library</span>'
+Comment3='
+The TCG Device Driver Library (TDDL) used by the TrouSerS tcsd as the
+interface to the TPMs device driver. For more information about writing
+applications to the TDDL interface, see the latest TSS spec at
+https//www.trustedcomputinggroup.org/specs/TSS.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://trousers.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

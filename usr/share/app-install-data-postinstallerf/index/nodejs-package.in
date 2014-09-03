@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-package</b>'
+Comment='<span size="xx-large">Provides an easy way to export package.json data</span>'
+Comment3='
+Provides an easy way to export package.json data.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/vesln/package'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

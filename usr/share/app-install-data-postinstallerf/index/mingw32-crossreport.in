@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>mingw32-crossreport</b>'
+Comment='<span size="xx-large">Analysis tool to help cross-compilation to Windows</span>'
+Comment3='
+CrossReport is a tool to help you analyze the APIs used by a compiled
+Linux program, in order to work out the effort required to
+cross-compile that program for Windows, using the Fedora MinGW
+cross-compiler.
+
+The simplest way to use it is to point it at an existing Linux binary,
+and then read the generated report.
+What it does in more detail It looks at the libraries and API calls
+used by the Linux binary, and compares them to the libraries and API
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/MinGW'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

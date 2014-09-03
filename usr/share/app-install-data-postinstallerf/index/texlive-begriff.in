@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-begriff</b>'
+Comment='<span size="xx-large">Typeset Begriffschrift</span>'
+Comment3='
+The package defines maths mode commands for typesetting Freges
+Begriffschrift.
+
+date 2007-01-29 235718 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

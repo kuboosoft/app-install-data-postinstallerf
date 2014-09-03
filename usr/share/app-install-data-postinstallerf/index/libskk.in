@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libskk</b>'
+Comment='<span size="xx-large">Library to deal with Japanese kana-to-kanji conversion method</span>'
+Comment3='
+The libskk project aims to provide GObject-based interface of Japanese
+input methods.  Currently it supports SKK (Simple Kana Kanji) with
+various typing rules including romaji-to-kana, AZIK, ACT, TUT-Code,
+T-Code, and NICOLA.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://github.com/ueno/libskk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>qct</b>'
+Comment='<span size="xx-large">Multi-vcs GUI commit tool</span>'
+Comment3='
+Multi-vcs GUI commit tool.  Supports
+mercurial, bazaar, git, subversion, monotone, cvs
+'
+License='GPLv2'
+Screenshot=''
+Url='http://qct.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

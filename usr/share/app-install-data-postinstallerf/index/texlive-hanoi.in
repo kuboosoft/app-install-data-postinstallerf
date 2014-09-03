@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-hanoi</b>'
+Comment='<span size="xx-large">Tower of Hanoi in TeX</span>'
+Comment3='
+The Plain TeX program (typed in the shape of the towers of
+Hanoi) serves both as a game and as a TeX programming exercise.
+As a game it will solve the towers with (up to) 15 discs (with
+15 discs, 32767 moves are needed).
+
+date 2012-01-03 174013 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

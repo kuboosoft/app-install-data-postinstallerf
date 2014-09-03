@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libnids</b>'
+Comment='<span size="xx-large">Implementation of an E-component of Network Intrusion Detection System</span>'
+Comment3='
+Libnids is an implementation of an E-component of Network Intrusion
+Detection System. It emulates the IP stack of Linux 2.x and offers
+IP defragmentation, TCP stream assembly and TCP port scan detection.
+
+Using libnids, one has got a convenient access to data carried by a
+TCP stream, no matter how artfully obscured by an attacker.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libnids.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

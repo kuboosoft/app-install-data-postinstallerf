@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xmms-skins</b>'
+Comment='<span size="xx-large">Skins for the X MultiMedia System</span>'
+Comment3='
+This is a collection of skins for the xmms multimedia player. The
+skins were obtained from http//www.xmms.org/skins.html .
+'
+License='MIT and GPL+ and Copyright only and CC-BY'
+Screenshot=''
+Url='http://www.xmms.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

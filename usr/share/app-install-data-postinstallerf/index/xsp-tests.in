@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xsp-tests</b>'
+Comment='<span size="xx-large">xsp test files</span>'
+Comment3='
+Files for testing the xsp server
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

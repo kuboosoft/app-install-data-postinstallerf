@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>kid3</b>'
+Comment='<span size="xx-large">Efficient KDE ID3 tag editor</span>'
+Comment3='
+If you want to easily tag multiple MP3, Ogg/Vorbis, FLAC, MPC,
+MP4/AAC, MP2, Speex, TrueAudio, WavPack, WMA, WAV, and AIFF files
+(e.g. full albums) without typing the same information again and again
+and have control over both ID3v1 and ID3v2 tags, then Kid3 is the
+program you are looking for.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kid3.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

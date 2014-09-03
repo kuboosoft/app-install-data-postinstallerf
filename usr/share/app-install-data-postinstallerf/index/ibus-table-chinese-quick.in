@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ibus-table-chinese-quick</b>'
+Comment='<span size="xx-large">Quick-to-learn input methods</span>'
+Comment3='
+Quick-to-learn is based on Cangjie input method,
+but only need Canjies first and last word-root
+to form a character.
+
+Includes
+Quick3, Quick5 and Quick-Classic,
+and Smart Cangjie 6.
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

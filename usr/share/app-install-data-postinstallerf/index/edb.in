@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>edb</b>'
+Comment='<span size="xx-large">A debugger based on the ptrace API and Qt4</span>'
+Comment3='
+edb a debugger based on the ptrace API.
+
+One of the main goals of this debugger is modularity.
+The interface is written in Qt4 and thus source portable to many platforms.
+The debugger core is a plugin and the platform specific code is isolated
+to just a few files, porting to a new OS would require porting these few
+files and implementing a plugin which implements the
+DebuggerCoreInterface interface. Also, because the plugins are based
+on the QPlugin API, and do their work through the DebuggerCoreInterface
+object, they are almost always portable with just a simple recompile.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.codef00.com/projects.php#Debugger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

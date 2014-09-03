@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gists</b>'
+Comment='<span size="xx-large">A simple tool for pasting info</span>'
+Comment3='
+CLI interface for managing GitHub Gists.
+Use it
+* List of Gists
+* Show a Gist
+* Download a Gist
+* Create a Gist
+* Update a Gist
+* Fork a Gist
+* Star a Gist
+* Unstar a Gist
+'
+License='MIT'
+Screenshot=''
+Url='http://jdevesa.github.io/gists/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

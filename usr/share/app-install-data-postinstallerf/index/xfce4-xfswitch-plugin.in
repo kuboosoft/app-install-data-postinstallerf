@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xfce4-xfswitch-plugin</b>'
+Comment='<span size="xx-large">User switching plugin for the Xfce4 Panel</span>'
+Comment3='
+Xfswitch-plugin is a user switching plugin for the Xfce4 Panel. It allows you
+to leave the current session opened and open a new session with another user.
+At the moment it relies on GDM, but other display managers will be supported
+in the future.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfswitch-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

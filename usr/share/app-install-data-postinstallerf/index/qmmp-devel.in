@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qmmp-devel</b>'
+Comment='<span size="xx-large">Development files for qmmp</span>'
+Comment3='
+QMMP is Qt-based audio player. This package contains its development files.
+
+URL          http//qmmp.ylsoftware.com/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://qmmp.ylsoftware.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

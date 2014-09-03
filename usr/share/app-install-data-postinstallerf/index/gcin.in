@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gcin</b>'
+Comment='<span size="xx-large">An input method focused on Chinese users</span>'
+Comment3='
+Gcin is an input method with support of Gtk and Qt. Although gcin is focused
+mainly on Traditional Chinese. However, it is also very useful for
+Simplified Chinese, Japanese, and many other languages.
+
+'
+License='LGPLv2+ and (QPL or GPLv2) and MIT and Array'
+Screenshot=''
+Url='http://hyperrate.com/dir.php?eid=67'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Async</b>'
+Comment='<span size="xx-large">Set of Metaclasses for MooseX::POE and its siblings</span>'
+Comment3='
+MooseXAsync is a set of Metaclasses for MooseXPOE and its siblings.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Async/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

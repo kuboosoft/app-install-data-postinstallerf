@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libXcompext</b>'
+Comment='<span size="xx-large">NX protocol compression extensions library</span>'
+Comment3='
+NX is a software suite from NoMachine which implements very efficient
+compression of the X11 protocol. This increases performance when
+using X applications over a network, especially a slow one.
+
+This package provides the library to support additional features to
+the core NX library.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://x2go.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

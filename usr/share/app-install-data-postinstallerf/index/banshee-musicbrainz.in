@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>banshee-musicbrainz</b>'
+Comment='<span size="xx-large">MusicBrainz libraries for the Banshee Media Framework</span>'
+Comment3='
+Banshee allows you to import CDs, sync your music collection to an iPod,
+play music directly from an iPod, create playlists with songs from your
+library, and create audio and MP3 CDs from subsets of your library.
+
+The banshee-musicbrainz package contains the MusicBrainz library shipped
+with the Banshee music player.
+'
+License='MIT'
+Screenshot=''
+Url='http://banshee.fm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

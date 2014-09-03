@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rawtherapee-doc</b>'
+Comment='<span size="xx-large">Documentation for RawTherapee</span>'
+Comment3='
+The rawtherapee-doc package contains the documentation for Rawtherapee
+'
+License='GPLv3 and MIT and IJG'
+Screenshot=''
+Url='http://www.rawtherapee.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pylibpcap</b>'
+Comment='<span size="xx-large">A Python module for libpcap</span>'
+Comment3='
+Python module for the libpcap packet capture library, based on the original
+python libpcap module by Aaron Rhodes.
+'
+License='BSD'
+Screenshot=''
+Url='http://pylibpcap.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

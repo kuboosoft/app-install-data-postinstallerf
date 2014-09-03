@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>buildbot-doc</b>'
+Comment='<span size="xx-large">Buildbot documentation</span>'
+Comment3='
+Buildbot documentation
+'
+License='GPLv2'
+Screenshot=''
+Url='http://buildbot.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

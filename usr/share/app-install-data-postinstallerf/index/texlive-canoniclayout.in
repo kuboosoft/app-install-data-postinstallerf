@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-canoniclayout</b>'
+Comment='<span size="xx-large">Create canonical page layouts with memoir</span>'
+Comment3='
+A canonic text layout has specified relations to a circle
+inscribed within the enclosing page. The package allows the
+user to use a canonic layout with the memoir class.
+
+date 2011-11-06 170808 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

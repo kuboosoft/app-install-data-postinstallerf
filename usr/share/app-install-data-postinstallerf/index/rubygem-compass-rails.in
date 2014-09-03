@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-compass-rails</b>'
+Comment='<span size="xx-large">Integrate Compass into Rails 2.3 and up</span>'
+Comment3='
+Integrate Compass into Rails 2.3 and up.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/Compass/compass-rails'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

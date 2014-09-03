@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glite-jobid-api-c</b>'
+Comment='<span size="xx-large">C library handling gLite jobid</span>'
+Comment3='
+C library handling gLite jobid.
+
+URL          http//glite.cern.ch
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

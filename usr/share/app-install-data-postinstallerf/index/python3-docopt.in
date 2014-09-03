@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-docopt</b>'
+Comment='<span size="xx-large">Pythonic argument parser, that will make you smile - package for Python 3</span>'
+Comment3='
+Isnt it awesome how optparse and argparse generate help messages
+based on your code?!
+
+Hell no! You know whats awesome? Its when the option parser is
+generated based on the beautiful help message that you write yourself!
+This way you dont need to write thisstupid repeatable parser-code,
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/docopt/docopt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

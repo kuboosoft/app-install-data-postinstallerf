@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qyoto</b>'
+Comment='<span size="xx-large">.NET/Mono bindings for the Qt libraries</span>'
+Comment3='
+.NET/Mono bindings for the Qt libraries.
+
+URL          http//techbase.kde.org/Development/Languages/Qyoto
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://techbase.kde.org/Development/Languages/Qyoto'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

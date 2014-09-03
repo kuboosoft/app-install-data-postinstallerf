@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>avalon-framework</b>'
+Comment='<span size="xx-large">Java components interfaces</span>'
+Comment3='
+The Avalon framework consists of interfaces that define relationships
+between commonly used application components, best-of-practice pattern
+enforcements, and several lightweight convenience implementations of the
+generic components.
+What that means is that we define the central interface Component. We
+also define the relationship (contract) a component has with peers,
+ancestors and children.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://avalon.apache.org/framework/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

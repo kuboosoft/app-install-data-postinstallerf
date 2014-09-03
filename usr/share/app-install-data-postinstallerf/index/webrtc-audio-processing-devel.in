@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>webrtc-audio-processing-devel</b>'
+Comment='<span size="xx-large">Development files for webrtc-audio-processing</span>'
+Comment3='
+The webrtc-audio-processing-devel package contains libraries and header
+files for developing applications that use webrtc-audio-processing.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

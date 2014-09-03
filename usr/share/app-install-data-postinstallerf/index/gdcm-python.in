@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gdcm-python</b>'
+Comment='<span size="xx-large">Python binding for GDCM</span>'
+Comment3='
+
+You should install the gdcm-python package if you would like to
+used this library with python
+'
+License='BSD'
+Screenshot=''
+Url='http://gdcm.sourceforge.net/wiki/index.php/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

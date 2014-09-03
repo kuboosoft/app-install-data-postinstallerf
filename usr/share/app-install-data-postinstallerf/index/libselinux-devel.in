@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libselinux-devel</b>'
+Comment='<span size="xx-large">Header files and libraries used to build SELinux</span>'
+Comment3='
+The libselinux-devel package contains the libraries and header files
+needed for developing SELinux applications.
+
+'
+License='Public Domain'
+Screenshot=''
+Url='http://oss.tresys.com/git/selinux.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

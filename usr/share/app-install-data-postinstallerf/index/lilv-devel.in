@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lilv-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for lilv</span>'
+Comment3='
+lilv is a lightweight C library for Resource Description Syntax which
+supports reading and writing Turtle and NTriples.
+
+This package contains the headers and development libraries for lilv.
+'
+License='MIT'
+Screenshot=''
+Url='http://drobilla.net/software/lilv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

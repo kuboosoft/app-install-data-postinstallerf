@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>grads</b>'
+Comment='<span size="xx-large">Tool for easy acces, manipulation, and visualization of data</span>'
+Comment3='
+The Grid Analysis and Display System (GrADS) is an interactive desktop tool
+that is used for easy access, manipulation, and visualization of earth science
+data. The format of the data may be either binary, GRIB, NetCDF, or HDF-SDS
+(Scientific Data Sets). GrADS has been implemented worldwide on a variety of
+commonly used operating systems and is freely distributed over the Internet.
+'
+License='GPLv2 and MIT'
+Screenshot=''
+Url='http://grads.iges.org/grads/grads.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

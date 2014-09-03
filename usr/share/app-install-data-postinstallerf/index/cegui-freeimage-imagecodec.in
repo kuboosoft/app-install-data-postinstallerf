@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cegui-freeimage-imagecodec</b>'
+Comment='<span size="xx-large">Alternative imagecodec library for CEGUI using freeimage</span>'
+Comment3='
+Alternative imagecodec library for CEGUI using freeimage.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.cegui.org.uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

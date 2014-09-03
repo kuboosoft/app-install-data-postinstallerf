@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-symfony-YAML</b>'
+Comment='<span size="xx-large">The Symfony YAML Component</span>'
+Comment3='
+The Symfony YAML Component.
+
+Symfony YAML is a PHP library that parses YAML strings and converts them to
+PHP arrays. It can also converts PHP arrays to YAML strings.
+'
+License='MIT'
+Screenshot=''
+Url='http://components.symfony-project.org/yaml/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

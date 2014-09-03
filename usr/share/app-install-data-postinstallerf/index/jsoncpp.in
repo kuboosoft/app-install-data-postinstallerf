@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>jsoncpp</b>'
+Comment='<span size="xx-large">JSON library implemented in C++</span>'
+Comment3='
+jsoncpp is an implementation of a JSON (http//json.org) reader and writer in
+C++. JSON (JavaScript Object Notation) is a lightweight data-interchange format.
+It is easy for humans to read and write. It is easy for machines to parse and
+generate.
+
+'
+License='Public Domain or MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/jsoncpp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

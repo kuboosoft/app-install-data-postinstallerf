@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>syslog-ng-mongodb</b>'
+Comment='<span size="xx-large">mongodb support for syslog-ng</span>'
+Comment3='
+This module supports the mongodb database via libmongo-client.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.balabit.com/network-security/syslog-ng'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

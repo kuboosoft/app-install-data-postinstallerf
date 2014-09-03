@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netmonitor</b>'
+Comment='<span size="xx-large">The free linux network bandwidth monitor</span>'
+Comment3='
+Netmon is a simple program for monitoring bandwidth and data
+usage on linux machines. It is useful for those with a broadband connections
+that pay for their data or have download limits.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://netmonitor.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

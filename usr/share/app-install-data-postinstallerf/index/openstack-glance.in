@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>openstack-glance</b>'
+Comment='<span size="xx-large">OpenStack Image Service</span>'
+Comment3='
+OpenStack Image Service (code-named Glance) provides discovery, registration,
+and delivery services for virtual disk images. The Image Service API server
+provides a standard REST interface for querying information about virtual disk
+images stored in a variety of back-end stores, including OpenStack Object
+Storage. Clients can register new virtual disk images with the Image Service,
+query for information on publicly available disk images, and use the Image
+Services client library for streaming virtual disk images.
+
+This package contains the API and registry servers.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glance.openstack.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

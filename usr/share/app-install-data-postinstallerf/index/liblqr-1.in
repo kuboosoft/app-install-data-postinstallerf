@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>liblqr-1</b>'
+Comment='<span size="xx-large">LiquidRescale library</span>'
+Comment3='
+The LiquidRescale (lqr) library provides a C/C++ API for
+performing non-uniform resizing of images by the seam-carving
+technique.
+
+'
+License='GPLv3'
+Screenshot=''
+Url='http://liquidrescale.wikidot.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

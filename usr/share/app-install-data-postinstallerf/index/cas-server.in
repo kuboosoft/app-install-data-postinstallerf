@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cas-server</b>'
+Comment='<span size="xx-large">Web frontend to CAS</span>'
+Comment3='
+Provides web frontend to CAS to allow for a much simpler user experience when
+dealing with vmcores.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/cas'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

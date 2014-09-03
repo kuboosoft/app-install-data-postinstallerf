@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Regexp-Common</b>'
+Comment='<span size="xx-large">Regexp::Common Perl module</span>'
+Comment3='
+RegexpCommon - Provide commonly requested regular expressions
+'
+License='Artistic 2.0 or MIT or BSD'
+Screenshot=''
+Url='http://search.cpan.org/dist/Regexp-Common/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

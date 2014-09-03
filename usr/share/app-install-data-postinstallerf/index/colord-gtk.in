@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>colord-gtk</b>'
+Comment='<span size="xx-large">GTK support library for colord</span>'
+Comment3='
+colord-gtk is a support library for colord and provides additional
+functionality that requires GTK+.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/software/colord/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

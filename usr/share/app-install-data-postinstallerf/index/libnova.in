@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnova</b>'
+Comment='<span size="xx-large">Libnova is a general purpose astronomy & astrodynamics library</span>'
+Comment3='
+Libnova is a general purpose, double precision, celestial mechanics,
+astrometry and astrodynamics library
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libnova/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

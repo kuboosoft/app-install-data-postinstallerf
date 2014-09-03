@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>archimedes</b>'
+Comment='<span size="xx-large">2D Quantum Monte Carlo simulator for semiconductor devices</span>'
+Comment3='
+Archimedes is a package for the design and simulation of submicron
+semiconductor devices. It is a 2D Fast Monte Carlo simulator which can take
+into account all the relevant quantum effects, thank to the implementation of
+the Bohm effective potential method.
+
+The physics and geometry of a general device is introduced by typing a simple
+script, which makes, in this sense, Archimedes a powerful tool for the
+simulation of quite general semiconductor devices.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/archimedes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

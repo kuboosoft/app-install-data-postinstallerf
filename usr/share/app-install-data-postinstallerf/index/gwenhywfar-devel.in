@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gwenhywfar-devel</b>'
+Comment='<span size="xx-large">Gwenhywfar development kit</span>'
+Comment3='
+This package contains gwenhywfar-config and header files for writing and
+compiling programs using Gwenhywfar.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.aquamaniac.de/sites/download/packages.php?package=01&showall=1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

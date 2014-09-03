@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gpp</b>'
+Comment='<span size="xx-large">GNOME Photo Printer</span>'
+Comment3='
+Gnome Photo Printer is intended for printing photos in an easy way.
+Just drag your Photos from Nautilus to the Gnome Photo Printer window
+and drop it.  Make some selections like Photo or Paper size, hit Preview
+or Print, and see your pictures printed.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fogman.de/?GnomePhotoPrinter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

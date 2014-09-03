@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sigar-devel</b>'
+Comment='<span size="xx-large">SIGAR Development package - System Information Gatherer And Reporter</span>'
+Comment3='
+Header files for developing against the Sigar API
+
+URL          http//sigar.hyperic.com/
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://sigar.hyperic.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

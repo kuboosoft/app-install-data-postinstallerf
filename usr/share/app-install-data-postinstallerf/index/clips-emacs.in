@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>clips-emacs</b>'
+Comment='<span size="xx-large">EMACS add-ons for the CLIPS expert system</span>'
+Comment3='
+This package contains CLIPS emacs scripts.
+
+CLIPS (C Language Integrated Production System) is an expert system
+development tool which provides a complete environment for the
+construction of rule and/or object based expert systems.
+Created in 1985 by NASA at the Johnson Space Center, CLIPS is now
+widely used throughout the government, industry, and academia.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://clipsrules.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>yecht-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for yecht</span>'
+Comment3='
+This package contains the API documentation for yecht.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/olabini/yecht'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

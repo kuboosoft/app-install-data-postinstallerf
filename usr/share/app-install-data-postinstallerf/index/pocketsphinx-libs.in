@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pocketsphinx-libs</b>'
+Comment='<span size="xx-large">Shared libraries for pocketsphinx executables</span>'
+Comment3='
+Shared libraries for pocketsphinx executables.
+
+URL          http//cmusphinx.sourceforge.net/
+'
+License='BSD'
+Screenshot=''
+Url='http://cmusphinx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>scamper</b>'
+Comment='<span size="xx-large">A network measurement tool</span>'
+Comment3='
+scamper is a program that is able to conduct Internet measurement tasks to
+large numbers of IPv4 and IPv6 addresses, in parallel, to fill a specified
+packets-per-second rate. Currently, it supports the well-known ping and
+traceroute techniques, as well as radargun, ally, mercator, sting, and parts
+of tbit.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.wand.net.nz/scamper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

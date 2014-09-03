@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-robustcommand</b>'
+Comment='<span size="xx-large">Declare robust command, with \newcommand checks</span>'
+Comment3='
+The package merely provides a variation of
+\DeclareRobustCommand, which checks for the existence of a
+command before declaring it robust.
+
+date 2007-02-26 150949 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

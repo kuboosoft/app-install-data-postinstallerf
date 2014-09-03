@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>octave-lhapdf</b>'
+Comment='<span size="xx-large">Les Houches Accord PDF Interface - Octave module</span>'
+Comment3='
+This package provides Octave bindings for LHAPDF.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lhapdf.hepforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

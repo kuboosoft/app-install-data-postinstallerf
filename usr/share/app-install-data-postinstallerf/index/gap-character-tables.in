@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gap-character-tables</b>'
+Comment='<span size="xx-large">GAP Character Table Library</span>'
+Comment3='
+This package provides the Character Table Library by Thomas Breuer.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

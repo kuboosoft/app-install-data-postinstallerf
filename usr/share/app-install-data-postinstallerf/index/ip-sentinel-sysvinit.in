@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ip-sentinel-sysvinit</b>'
+Comment='<span size="xx-large">SysV initscripts for ip-sentinel</span>'
+Comment3='
+IP Sentinel is a tool that tries to prevent unauthorized usage of IP
+addresses.
+
+This package provides the scripts which can be used to start ip-sentinel
+with a SysV initconcept.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nongnu.org/ip-sentinel/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fuse-emulator-utils</b>'
+Comment='<span size="xx-large">Additional utils for the Fuse spectrum emulator</span>'
+Comment3='
+A collection of utilities for the Fuse ZX-Spectrum emulator
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fuse-emulator.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

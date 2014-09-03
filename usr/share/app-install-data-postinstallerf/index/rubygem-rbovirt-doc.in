@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-rbovirt-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-rbovirt</span>'
+Comment3='
+Documentation for rubygem-rbovirt
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/abenari/rbovirt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fcitx-chewing</b>'
+Comment='<span size="xx-large">Chewing Wrapper for Fcitx</span>'
+Comment3='
+Fcitx-chewing is a Chewing Wrapper for Fcitx.
+
+Chewing is a set of free intelligent Chinese
+Phonetic IME.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fcitx-im.org/wiki/Chewing'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

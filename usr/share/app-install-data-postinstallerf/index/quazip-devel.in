@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>quazip-devel</b>'
+Comment='<span size="xx-large">Development files for quazip</span>'
+Comment3='
+The quazip-devel package contains libraries, header files and documentation
+for developing applications that use quazip.
+
+'
+License='GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://quazip.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

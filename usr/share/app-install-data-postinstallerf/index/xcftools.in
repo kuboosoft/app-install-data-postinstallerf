@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xcftools</b>'
+Comment='<span size="xx-large">Command-line tools for extracting information from XCF files</span>'
+Comment3='
+Xcftools is a set of fast command-line tools for extracting information from
+the Gimps native file format XCF. The tools are designed to allow efficient
+use of layered XCF files as sources in a build system that use make and
+similar tools to manage automatic processing of the graphics.
+These tools work independently of the Gimp engine and do not require
+the Gimp to even be installed.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://henning.makholm.net/software'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eurephia-admin</b>'
+Comment='<span size="xx-large">The eurephia command line administration utility</span>'
+Comment3='
+This package contains the command line utility to administer and configure
+eurephia
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.eurephia.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

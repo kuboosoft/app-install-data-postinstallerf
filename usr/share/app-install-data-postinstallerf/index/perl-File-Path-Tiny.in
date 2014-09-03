@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-File-Path-Tiny</b>'
+Comment='<span size="xx-large">Recursive versions of mkdir() and rmdir() without as much overhead as File::Path</span>'
+Comment3='
+The goal here is simply to provide recursive versions of mkdir() and
+rmdir() with as little code and overhead as possible.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Path-Tiny/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

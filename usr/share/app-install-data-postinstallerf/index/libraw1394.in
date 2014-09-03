@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libraw1394</b>'
+Comment='<span size="xx-large">Library providing low-level IEEE-1394 access</span>'
+Comment3='
+The libraw1394 library provides direct access to the IEEE-1394 bus.
+Support for both the obsolete ieee1394 interface and the new firewire
+intererface are included, with run-time detection of the active stack.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.dennedy.org/libraw1394/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

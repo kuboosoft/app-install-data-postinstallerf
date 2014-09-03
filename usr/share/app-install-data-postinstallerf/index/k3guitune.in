@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>k3guitune</b>'
+Comment='<span size="xx-large">Musical instrument tuner</span>'
+Comment3='
+K3Guitune is a guitar-and-other-instruments tuner. It takes a signal from the
+microphone, calculates its frequency, and displays it on a note scale
+graphic and an oscilloscope. It supports normal, Wien, and physical tuning.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://home.planet.nl/~lamer024/k3guitune.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

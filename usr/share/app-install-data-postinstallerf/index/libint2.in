@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libint2</b>'
+Comment='<span size="xx-large">A library for efficient evaluation of electron repulsion integrals</span>'
+Comment3='
+LIBINT computes the Coulomb and exchange integrals, which in electronic
+structure theory are called electron repulsion integrals (ERIs). This is by
+far the most common type of integrals in molecular structure theory.
+
+LIBINT uses recursive schemes that originate in seminal Obara-Saika method and
+Head-Gordon and Pople?s variation thereof. The idea of LIBINT is to optimize
+computer implementation of such methods by implementing an optimizing compiler
+to generate automatically highly-specialized code that runs well on
+super-scalar architectures.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/p/libint'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

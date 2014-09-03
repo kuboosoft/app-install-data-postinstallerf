@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tcl-signal</b>'
+Comment='<span size="xx-large">This extension adds dynamically loadable signal handling to Tcl/Tk scripts</span>'
+Comment3='
+This extension adds dynamically loadable signal handling to Tcl/Tk scripts.
+
+Note that the library has been renamed to libtclsignal-1.4.so for ease in
+linking and to prevent conflicts.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.nyx.net/~mschwart/signal_ext.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

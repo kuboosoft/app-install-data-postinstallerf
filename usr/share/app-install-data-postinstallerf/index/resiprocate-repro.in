@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>resiprocate-repro</b>'
+Comment='<span size="xx-large">SIP proxy</span>'
+Comment3='
+repro is the SIP proxy developed as part of the reSIProcate project.
+It provides a high-quality, low maintenance solution for serving
+small and large IP telephony installations.
+reSIProcate is a framework that aims to fully implement the SIP protocol
+in first class C++.  It is intended for use in other applications,
+such as the repro SIP proxy.
+'
+License='VSL'
+Screenshot=''
+Url='http://www.resiprocate.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

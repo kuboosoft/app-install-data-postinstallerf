@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>genders-perl</b>'
+Comment='<span size="xx-large">Perl libraries</span>'
+Comment3='
+Genders API bindings for perl.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://genders.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

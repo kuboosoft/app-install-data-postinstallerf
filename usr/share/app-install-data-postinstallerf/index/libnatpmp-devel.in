@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libnatpmp-devel</b>'
+Comment='<span size="xx-large">Development files for libnatpmp</span>'
+Comment3='
+This package contains libraries and header files for
+developing applications that use libnatpmp.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://miniupnp.free.fr/libnatpmp.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

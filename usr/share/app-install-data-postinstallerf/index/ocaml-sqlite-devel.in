@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-sqlite-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-sqlite</span>'
+Comment3='
+The ocaml-sqlite-devel package contains libraries and signature files for
+developing applications that use ocaml-sqlite.
+
+'
+License='BSD'
+Screenshot=''
+Url='https://bitbucket.org/mmottl/sqlite3-ocaml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

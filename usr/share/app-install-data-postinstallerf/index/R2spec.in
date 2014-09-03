@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>R2spec</b>'
+Comment='<span size="xx-large">Python script to generate R spec file</span>'
+Comment3='
+R2spec is a small python tool that generates spec file for R libraries.
+It can work from a URL or a tarball.
+R2spec provides R2rpm which generates rpm for R libraries using the
+R2spec API.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/r2spec/'
+It can work from a URL or a tarball.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

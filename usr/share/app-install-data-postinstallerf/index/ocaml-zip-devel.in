@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-zip-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-zip</span>'
+Comment3='
+The ocaml-zip-devel package contains libraries and signature files for
+developing applications that use ocaml-zip.
+
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://forge.ocamlcore.org/projects/camlzip/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

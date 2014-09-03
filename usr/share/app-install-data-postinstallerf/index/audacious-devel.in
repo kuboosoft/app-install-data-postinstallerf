@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>audacious-devel</b>'
+Comment='<span size="xx-large">Development files for the Audacious audio player</span>'
+Comment3='
+Files needed when building software for the Audacious audio player.
+
+URL          http//audacious-media-player.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://audacious-media-player.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

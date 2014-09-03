@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-libsigsegv</b>'
+Comment='<span size="xx-large">MinGW library for handling page faults in user mode</span>'
+Comment3='
+MinGW library for handling memory faults and stack overflows in user mode.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libsigsegv.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

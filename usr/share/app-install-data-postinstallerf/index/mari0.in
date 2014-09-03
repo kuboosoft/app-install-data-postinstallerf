@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mari0</b>'
+Comment='<span size="xx-large">A recreation of the original Super Mario Bros with a portal gun</span>'
+Comment3='
+A complete from scratch recreation of the original Super Mario Bros.
+game with a focus on perfectly imitating the feel the 1985 classic
+gave us but with a portal gun and puzzle game mechanics from the
+popular Value game, Portal. Mari0 also has a 4-player coop mode, with
+everyone having their own Portal gun. This game is made with LOVE.
+'
+License='CC-BY-NC-SA'
+Screenshot=''
+Url='http://stabyourself.net/mari0/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

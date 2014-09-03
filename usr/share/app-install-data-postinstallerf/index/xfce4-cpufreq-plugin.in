@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xfce4-cpufreq-plugin</b>'
+Comment='<span size="xx-large">CPU frequency scaling plugin for the Xfce4 panel</span>'
+Comment3='
+The CpuFreq Plugin shows in the Xfce Panel the following information
+    current CPU frequency
+    current used governor
+
+In a separate dialog it provides you following information
+    all available CPU frequencies
+    all available governors
+    used driver for the CPU
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-cpufreq-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

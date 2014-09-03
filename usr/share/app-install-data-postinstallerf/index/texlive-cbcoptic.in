@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-cbcoptic</b>'
+Comment='<span size="xx-large">Coptic fonts and LaTeX macros for general usage and for philology</span>'
+Comment3='
+CBcoptic is a bundle of files for typesetting Coptic
+philological text with the proper fonts and hyphenation. The
+fonts are based on, but much extend, the fonts of the original
+coptic bundle. The CBcoptic bundle includes font description
+files, MetaFont sources and equivalent Adobe Type 1 fonts in
+pfb format. The bundle also includes a package that provides
+some macros of philological interest.
+
+date 2010-01-11 085542 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

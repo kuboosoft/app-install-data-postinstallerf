@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>akuma</b>'
+Comment='<span size="xx-large">Embeddable daemonization library for Java</span>'
+Comment3='
+This is a Java library you can use in your application
+to support Unix daemonization. By taking advantages of POSIX API,
+this library lets you fork your process into background
+with proper daemonization steps.
+'
+License='MIT'
+Screenshot=''
+Url='http://akuma.kohsuke.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

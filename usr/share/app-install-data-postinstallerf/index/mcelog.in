@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mcelog</b>'
+Comment='<span size="xx-large">Tool to translate x86-64 CPU Machine Check Exception data</span>'
+Comment3='
+mcelog is a utility that collects and decodes Machine Check Exception data
+on x86-32 and x86-64 systems. It can be run either as a daemon, or by cron.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/andikleen/mcelog.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

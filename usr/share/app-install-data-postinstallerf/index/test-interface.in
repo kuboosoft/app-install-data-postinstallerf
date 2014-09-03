@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>test-interface</b>'
+Comment='<span size="xx-large">Uniform interface to Scala and Java test frameworks</span>'
+Comment3='
+
+Uniform test interface to Scala/Java test frameworks (specs,
+ScalaCheck, ScalaTest, JUnit and other)
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/sbt/test-interface'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

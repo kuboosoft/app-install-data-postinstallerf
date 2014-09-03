@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-pecl-runkit</b>'
+Comment='<span size="xx-large">Mangle with user defined functions and classes</span>'
+Comment3='
+Replace, rename, and remove user defined functions and classes. Define
+customized superglobal variables for general purpose use. Execute code
+in restricted environment (sandboxing).
+'
+License='PHP'
+Screenshot=''
+Url='https://github.com/zenovich/runkit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

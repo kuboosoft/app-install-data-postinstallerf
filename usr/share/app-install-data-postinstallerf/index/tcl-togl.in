@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tcl-togl</b>'
+Comment='<span size="xx-large">A Tk OpenGL widget</span>'
+Comment3='
+Togl is a Tk widget for OpenGL rendering
+
+URL          http//togl.sourceforge.net/
+'
+License='BSD'
+Screenshot=''
+Url='http://togl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

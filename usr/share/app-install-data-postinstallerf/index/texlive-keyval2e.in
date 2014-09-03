@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-keyval2e</b>'
+Comment='<span size="xx-large">A lightweight and robust key-value parser</span>'
+Comment3='
+The package provides lightweight and robust facilities for
+creating and managing keys. Its machinery isnt as extensive as
+that of, e.g., the ltxkeys package, but it is equally robust;
+ease of use and speed of processing are the design aims of the
+package.
+
+date 2011-08-26 112623 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

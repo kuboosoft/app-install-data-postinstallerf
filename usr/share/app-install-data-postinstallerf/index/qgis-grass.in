@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qgis-grass</b>'
+Comment='<span size="xx-large">GRASS Support Libraries for Quantum GIS</span>'
+Comment3='
+GRASS plugin for Quantum GIS required to interface with the GRASS system.
+
+URL          http//www.qgis.org
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.qgis.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

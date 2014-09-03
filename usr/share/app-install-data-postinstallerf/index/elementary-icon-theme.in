@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>elementary-icon-theme</b>'
+Comment='<span size="xx-large">Icons from the Elementary Project</span>'
+Comment3='
+This is an icon theme designed to be smooth, sexy, clear, and efficient.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://launchpad.net/elementaryicons/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

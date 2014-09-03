@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>protobuf-lite-devel</b>'
+Comment='<span size="xx-large">Protocol Buffers LITE_RUNTIME development libraries</span>'
+Comment3='
+This package contains development libraries built with
+optimize_for = LITE_RUNTIME.
+
+The "optimize_for = LITE_RUNTIME" option causes the compiler to generate code
+which only depends libprotobuf-lite, which is much smaller than libprotobuf but
+lacks descriptors, reflection, and some other features.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/protobuf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

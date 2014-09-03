@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-arsclassica</b>'
+Comment='<span size="xx-large">A different view of the ClassicThesis package</span>'
+Comment3='
+The package changes some typographical points of the
+ClassicThesis style, by Andre Miede. It enables the user to
+reproduce the look of the guide The art of writing with LaTeX
+(the web page is in Italian).
+
+date 2012-02-21 160539 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python3-cvxopt</b>'
+Comment='<span size="xx-large">A Python3 Package for Convex Optimization</span>'
+Comment3='
+CVXOPT is a free software package for convex optimization based on
+the Python programming language. Its main purpose is to make the
+development of software for convex optimization applications
+straightforward by building on Pythons extensive standard library and
+on the strengths of Python as a high-level programming language.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://cvxopt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

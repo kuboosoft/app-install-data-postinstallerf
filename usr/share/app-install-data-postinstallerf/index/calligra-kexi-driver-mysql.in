@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>calligra-kexi-driver-mysql</b>'
+Comment='<span size="xx-large">Mysqwl driver for kexi</span>'
+Comment3='
+Mysqwl driver for kexi.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.calligra-suite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fedmsg-tweet</b>'
+Comment='<span size="xx-large">The FedMsg Twitter/StatusNet Bot</span>'
+Comment3='
+This package contains configuration and init scripts for the FedMsg
+Twitter/StatusNet bot.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://github.com/ralphbean/fedmsg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

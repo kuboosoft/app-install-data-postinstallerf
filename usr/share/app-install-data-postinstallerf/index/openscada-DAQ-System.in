@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openscada-DAQ-System</b>'
+Comment='<span size="xx-large">Open SCADA DAQ</span>'
+Comment3='
+The openscada-DAQ-System, allow operation system data acquisition.
+Support OS Linux data sources HDDTemp, Sensors, Uptime, Memory,
+CPU and other.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>guava</b>'
+Comment='<span size="xx-large">Google Core Libraries for Java</span>'
+Comment3='
+Guava is a suite of core and expanded libraries that include
+utility classes, Googles collections, io classes, and much
+much more.
+This project is a complete packaging of all the Guava libraries
+into a single jar.  Individual portions of Guava can be used
+by downloading the appropriate module and its dependencies.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/guava-libraries'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

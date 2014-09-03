@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xalan-c-doc</b>'
+Comment='<span size="xx-large">Documentation for Xerces-C++ validating XML parser</span>'
+Comment3='
+Documentation for xalan-c.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://xml.apache.org/xalan-c/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dos2unix</b>'
+Comment='<span size="xx-large">Text file format converters</span>'
+Comment3='
+Convert text files with DOS or Mac line endings to Unix line endings and
+vice versa.
+'
+License='BSD'
+Screenshot=''
+Url='http://waterlan.home.xs4all.nl/dos2unix.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

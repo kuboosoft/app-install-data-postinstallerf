@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>abrt-libs</b>'
+Comment='<span size="xx-large">Libraries for abrt</span>'
+Comment3='
+Libraries for abrt.
+
+URL          https//fedorahosted.org/abrt/
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>procps-ng</b>'
+Comment='<span size="xx-large">System and process monitoring utilities</span>'
+Comment3='
+The procps package contains a set of system utilities that provide
+system information. Procps includes ps, free, skill, pkill, pgrep,
+snice, tload, top, uptime, vmstat, w, watch and pwdx. The ps command
+displays a snapshot of running processes. The top command provides
+a repetitive update of the statuses of running processes. The free
+command displays the amounts of free and used memory on your
+system. The skill command sends a terminate command (or another
+specified signal) to a specified set of processes. The snice
+command is used to change the scheduling priority of specified
+processes. The tload command prints a graph of the current system
+'
+License='GPL+ and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+'
+Screenshot=''
+Url='https://sourceforge.net/projects/procps-ng/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

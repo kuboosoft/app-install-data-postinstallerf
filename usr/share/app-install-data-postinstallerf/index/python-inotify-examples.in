@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-inotify-examples</b>'
+Comment='<span size="xx-large">Examples for Python inotify module</span>'
+Comment3='
+This package includes some examples usage of the Python inotify module.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/seb-m/pyinotify'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

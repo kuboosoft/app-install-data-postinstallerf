@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-utf8mex</b>'
+Comment='<span size="xx-large">utf8mex package</span>'
+Comment3='
+utf8mex package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

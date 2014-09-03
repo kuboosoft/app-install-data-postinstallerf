@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openeuclide</b>'
+Comment='<span size="xx-large">A geometry software that is intended for educational or modeling purposes</span>'
+Comment3='
+OpenEuclide is a 2D geometry software figures are
+defined dynamically by describing formal geometrical constraints.
+This project is a basic tool for educational or modeling purpose.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://coulon.publi.free.fr/openeuclide/index.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

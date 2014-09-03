@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fontpackages-devel</b>'
+Comment='<span size="xx-large">Templates and macros used to create font packages</span>'
+Comment3='
+This package contains spec templates, rpm macros and other materials used to
+create font packages.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/fontpackages'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

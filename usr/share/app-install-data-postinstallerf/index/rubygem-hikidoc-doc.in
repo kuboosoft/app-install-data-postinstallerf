@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-hikidoc-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-hikidoc</span>'
+Comment3='
+Documentation for rubygem-hikidoc
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/hiki/hikidoc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

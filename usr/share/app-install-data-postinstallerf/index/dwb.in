@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dwb</b>'
+Comment='<span size="xx-large">Dynamic web browser based on WebKit and GTK+</span>'
+Comment3='
+dwb is small webkit-based web-browser in the spirit of tiling window managers,
+that aims to be mostly keyboard-driven.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://bitbucket.org/portix/dwb/wiki/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

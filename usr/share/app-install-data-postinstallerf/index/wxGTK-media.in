@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wxGTK-media</b>'
+Comment='<span size="xx-large">Multimedia add-on for the wxWidgets library</span>'
+Comment3='
+Multimedia add-on for the wxWidgets library.
+
+URL          http//www.wxwidgets.org/
+'
+License='wxWidgets'
+Screenshot=''
+Url='http://www.wxwidgets.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

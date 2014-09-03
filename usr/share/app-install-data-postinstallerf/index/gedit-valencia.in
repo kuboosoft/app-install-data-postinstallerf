@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gedit-valencia</b>'
+Comment='<span size="xx-large">A gedit plugin providing lightweight Vala IDE</span>'
+Comment3='
+Valencia is a gedit plugin that turns gedit into a lightweight IDE for Vala.
+Using Valencia, you can easily browse between symbols in a Vala program.  You
+can build a Vala program inside gedit and can easily jump to lines with
+build errors. You can also get tooltips for methods and get autocompletion
+suggestions by invoking autocomplete in the appropriate context.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://redmine.yorba.org/projects/valencia/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

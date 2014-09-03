@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-optcomplete</b>'
+Comment='<span size="xx-large">Shell Completion Self-Generator for Python</span>'
+Comment3='
+This Python module aims at providing almost automatically shell completion
+for any Python program that already uses the optparse module.
+'
+License='BSD'
+Screenshot=''
+Url='http://furius.ca/optcomplete'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

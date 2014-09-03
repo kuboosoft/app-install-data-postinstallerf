@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fishpoll</b>'
+Comment='<span size="xx-large">Daemon and Client to run scripts when triggered from the network</span>'
+Comment3='
+Daemon and Client files that allows scripts to be run remotely when
+triggered from the network.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.fishsoup.net/cgit/fishpoll/tree/README'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

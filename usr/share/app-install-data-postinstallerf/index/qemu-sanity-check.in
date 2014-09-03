@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>qemu-sanity-check</b>'
+Comment='<span size="xx-large">Simple qemu and Linux kernel sanity checker</span>'
+Comment3='
+Qemu-sanity-check is a short shell script that test-boots a Linux
+kernel under qemu, making sure it boots up to userspace.  The idea is
+to test the Linux kernel and/or qemu to make sure they are working.
+
+Most users should install the qemu-sanity-check package.
+If you are testing qemu or the kernel in those packages and you want
+to avoid a circular dependency on qemu or kernel, you should use
+BuildRequires qemu-sanity-check-nodeps instead.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://people.redhat.com/~rjones/qemu-sanity-check'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

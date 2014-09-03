@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>cook</b>'
+Comment='<span size="xx-large">File construction tool</span>'
+Comment3='
+Cook is a tool for constructing files. It is given a set of files to
+create, and recipes of how to create them. In any non-trivial program
+there will be prerequisites to performing the actions necessary to
+creating any file, such as include files.  The cook program provides a
+mechanism to define these.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://miller.emu.id.au/pmiller/software/cook'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

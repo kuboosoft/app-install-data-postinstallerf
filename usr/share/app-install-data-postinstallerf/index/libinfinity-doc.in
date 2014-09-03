@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libinfinity-doc</b>'
+Comment='<span size="xx-large">Documentation for libinfinity</span>'
+Comment3='
+Documentation for the libinfinity libraries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gobby.0x539.de/trac/wiki/Infinote/Libinfinity'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

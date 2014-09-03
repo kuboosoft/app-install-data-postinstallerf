@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xisdnload</b>'
+Comment='<span size="xx-large">An ISDN connection load average display for the X Window System</span>'
+Comment3='
+The xisdnload utility displays a periodically updated histogram of the
+load average over your ISDN connection.
+'
+License='GPLv2+ and GPL+ and MIT and BSD and zlib'
+Screenshot=''
+Url='http://www.isdn4linux.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

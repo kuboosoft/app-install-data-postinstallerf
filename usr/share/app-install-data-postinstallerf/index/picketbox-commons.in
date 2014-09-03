@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>picketbox-commons</b>'
+Comment='<span size="xx-large">Common classes for security projects</span>'
+Comment3='
+Common classes for security projects.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.jboss.org/picketbox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

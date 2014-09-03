@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xorg-x11-proto-devel</b>'
+Comment='<span size="xx-large">X.Org X11 Protocol headers</span>'
+Comment3='
+X.Org X11 Protocol headers
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

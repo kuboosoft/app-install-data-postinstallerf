@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>squirrel-devel</b>'
+Comment='<span size="xx-large">Development files needed to use Squirrel libraries</span>'
+Comment3='
+Development files needed to use Squirrel libraries.
+
+URL          http//squirrel-lang.org/
+'
+License='zlib'
+Screenshot=''
+Url='http://squirrel-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

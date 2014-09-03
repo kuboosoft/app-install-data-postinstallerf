@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>abrt-console-notification</b>'
+Comment='<span size="xx-large">ABRT console notification script</span>'
+Comment3='
+A small script which prints a count of detected problems when someone logs in
+to the shell
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

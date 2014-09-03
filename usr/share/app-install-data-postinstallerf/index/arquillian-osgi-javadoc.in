@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>arquillian-osgi-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for arquillian-osgi</span>'
+Comment3='
+This package contains the API documentation for arquillian-osgi.
+'
+License='ASL 2.0 and LGPLv2+'
+Screenshot=''
+Url='http://arquillian.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

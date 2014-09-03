@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rtpproxy</b>'
+Comment='<span size="xx-large">A symmetric RTP proxy</span>'
+Comment3='
+This is symmetric RTP proxy designed to be used in conjunction with
+the SIP Express Router (SER) or any other SIP proxy capable of
+rewriting SDP bodies in SIP messages that it processes.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.rtpproxy.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

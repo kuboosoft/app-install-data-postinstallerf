@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>debootstrap</b>'
+Comment='<span size="xx-large">Debian GNU/Linux bootstrapper</span>'
+Comment3='
+debootstrap is used to create a Debian base system from scratch, without
+requiring the availability of dpkg or apt.  It does this by downloading
+.deb files from a mirror site, and carefully unpacking them into a
+directory which can eventually be chrooted into.
+
+This might be often useful coupled with virtualization techniques to run
+Debian GNU/Linux guest system.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.erisian.com.au/Wiki/debootstrap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

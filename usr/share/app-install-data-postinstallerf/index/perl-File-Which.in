@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-File-Which</b>'
+Comment='<span size="xx-large">Portable implementation of the which utility</span>'
+Comment3='
+FileWhich is a portable implementation (in Perl) of which, and can
+be used to get the absolute filename of an executable program
+installed somewhere in your PATH, or just check for its existence. It
+includes the command-line utility pwhich which has the same function
+as which.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-Which/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

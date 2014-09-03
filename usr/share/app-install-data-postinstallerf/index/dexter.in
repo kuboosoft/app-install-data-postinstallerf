@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dexter</b>'
+Comment='<span size="xx-large">Address Book that goes hand in hand with Postler</span>'
+Comment3='
+Dexter is a very simple, easy to use address book, designed with the
+home user in mind. This personal contact manager integrates with
+Postler, and can import and export contacts in vCard format.
+'
+License='GPLv3 and GPLv2'
+Screenshot=''
+Url='http://launchpad.net/dexter-rolodex'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

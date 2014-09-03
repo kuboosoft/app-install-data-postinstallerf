@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Term-ProgressBar-Simple</b>'
+Comment='<span size="xx-large">Simpler progress bars</span>'
+Comment3='
+Progress bars are handy - they tell you how much work has been done, how
+much is left to do and estimate how long it will take. This module does the
+right thing in almost all cases in a really convenient way.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Term-ProgressBar-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

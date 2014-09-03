@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-Inter</b>'
+Comment='<span size="xx-large">Framework for more readable interactive test scripts</span>'
+Comment3='
+This is another framework for writing test scripts. It is loosely inspired
+by TestMore, and has most of its functionality, but it is not a drop-in
+replacement.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Inter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>smc-kalyani-fonts</b>'
+Comment='<span size="xx-large">Open Type Fonts for Malayalam script</span>'
+Comment3='
+The Kalyani font package contains fonts for the display of
+new Malayalam Scripts.
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://savannah.nongnu.org/projects/smc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

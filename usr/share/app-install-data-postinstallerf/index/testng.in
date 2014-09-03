@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>testng</b>'
+Comment='<span size="xx-large">Java-based testing framework</span>'
+Comment3='
+TestNG is a testing framework inspired from JUnit and NUnit but introducing
+some new functionality, including flexible test configuration, and
+distributed test running.  It is designed to cover unit tests as well as
+functional, end-to-end, integration, etc.
+'
+License='ASL 2.0 and CPL'
+Screenshot=''
+Url='http://testng.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

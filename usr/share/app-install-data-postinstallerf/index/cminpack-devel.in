@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cminpack-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for cminpack</span>'
+Comment3='
+Contains the development headers and libraries needed to build a program with
+cminpack.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://devernay.free.fr/hacks/cminpack/cminpack.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

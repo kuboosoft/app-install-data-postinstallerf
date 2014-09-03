@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>sil-gentium-alt-fonts</b>'
+Comment='<span size="xx-large">SIL GentiumAlt fonts</span>'
+Comment3='
+
+SIL Gentium ("belonging to the nations" in Latin) is a Unicode typeface family
+designed to enable the many diverse ethnic groups around the world who use
+the Latin script to produce readable, high-quality publications. It supports
+a wide range of Latin-based alphabets.
+This package consists of the SIL GentiumAlt family. GentiumAlt is a
+alternative version of Gentium with flatter diacratics, to make it more
+suitable for languages that use stacking diacratics, like Vietnamese. There
+is no problem with having both Gentium and GentiumAlt installed at the same
+'
+License='OFL'
+Screenshot=''
+Url='http://scripts.sil.org/Gentium_linux'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

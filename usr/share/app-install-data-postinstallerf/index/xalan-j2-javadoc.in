@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xalan-j2-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for xalan-j2</span>'
+Comment3='
+Javadoc for xalan-j2.
+'
+License='ASL 2.0 and W3C'
+Screenshot=''
+Url='http://xalan.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

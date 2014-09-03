@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-bisect-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-bisect</span>'
+Comment3='
+The ocaml-bisect-devel package contains libraries and signature files for
+developing applications that use ocaml-bisect.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://bisect.x9c.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

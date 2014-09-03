@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>admesh</b>'
+Comment='<span size="xx-large">Diagnose and/or repair problems with STereo Lithography files</span>'
+Comment3='
+ADMesh is a program for diagnosing and/or repairing commonly encountered
+problems with STL (STereo Lithography) data files. It can remove degenerate
+and unconnected facets, connect nearby facets, fill holes by adding facets,
+and repair facet normals. Simple transformations such as scaling,
+translation and rotation are also supported. ADMesh can read both
+ASCII and binary format STL files, while the output can be in
+AutoCAD DXF, Geomview OFF, STL, or VRML format.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://github.com/hroncok/admesh/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

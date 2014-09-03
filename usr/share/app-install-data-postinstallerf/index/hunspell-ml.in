@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-ml</b>'
+Comment='<span size="xx-large">Malayalam hunspell dictionaries</span>'
+Comment3='
+Malayalam hunspell dictionaries
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://download.savannah.gnu.org/releases/smc/Spellchecker/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-colors</b>'
+Comment='<span size="xx-large">Get colors in your Node.js console</span>'
+Comment3='
+Get colors in your Node.js console.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/Marak/colors.js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

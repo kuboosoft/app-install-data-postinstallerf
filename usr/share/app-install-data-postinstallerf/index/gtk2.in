@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gtk2</b>'
+Comment='<span size="xx-large">The GIMP ToolKit (GTK+), a library for creating GUIs for X</span>'
+Comment3='
+GTK+ is a multi-platform toolkit for creating graphical user
+interfaces. Offering a complete set of widgets, GTK+ is suitable for
+projects ranging from small one-off tools to complete application
+suites.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

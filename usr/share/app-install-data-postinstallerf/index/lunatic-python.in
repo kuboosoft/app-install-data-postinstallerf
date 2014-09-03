@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lunatic-python</b>'
+Comment='<span size="xx-large">Two-way bridge between Python and Lua</span>'
+Comment3='
+Lunatic Python is a two-way bridge between Python and Lua, allowing
+these languages to intercommunicate. Being two-way means that it
+allows Lua inside Python, Python inside Lua, Lua inside Python inside
+Lua, Python inside Lua inside Python, and so on.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://labix.org/lunatic-python'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

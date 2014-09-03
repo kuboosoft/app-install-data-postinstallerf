@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gresistor</b>'
+Comment='<span size="xx-large">Gnome resistor color code calculator</span>'
+Comment3='
+To allow for identification, resistors are usually marked with
+colored bands. Often refereed to as color codes, these markings
+are indicative of their resistance, tolerance and temperature
+coefficient. gResistor is a great program that will help you
+translate a resistor color codes into a readable value.
+'
+License='GPL+'
+Screenshot=''
+Url='http://minipop.org/index.php?file=gresistor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>freeradius-devel</b>'
+Comment='<span size="xx-large">FreeRADIUS development files</span>'
+Comment3='
+Development headers and libraries for FreeRADIUS.
+
+URL          http//www.freeradius.org/
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.freeradius.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nuxwdog-client-java</b>'
+Comment='<span size="xx-large">Nuxwdog Watchdog client JNI Package</span>'
+Comment3='
+The nuxwdog-client-java package contains a JNI interface to the nuxwdog
+client code, so that Java clients can interact with the nuxwdog watchdog
+server.
+'
+License='LGPLv2 and (GPL+ or Artistic)'
+Screenshot=''
+Url='http://www.redhat.com/certificate_system'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

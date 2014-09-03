@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pcfi</b>'
+Comment='<span size="xx-large">PDF Core Font Information</span>'
+Comment3='
+Collection of PDF core font information files downloaded from Adobes
+Developer Center and elsewhere. This collection contains font metrics for the
+14 PDF core fonts, CMaps for the PDF CJK fonts and the Adobe Glyph List.   The
+files are stored inside the com/adobe/pdf/pcfi directory. See the individual
+files for exact licensing information.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/jukka/pcfi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Tk-DirSelect</b>'
+Comment='<span size="xx-large">Cross-platform directory selection widget</span>'
+Comment3='
+This module provides a cross-platform directory selection widget. For
+systems running Microsoft Windows, this includes selection of local and
+mapped network drives. A context menu (right-click or <Button3>) allows the
+creation, renaming, and deletion of directories while browsing.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Tk-DirSelect/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

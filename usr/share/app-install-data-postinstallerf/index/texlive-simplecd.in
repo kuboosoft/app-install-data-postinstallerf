@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-simplecd</b>'
+Comment='<span size="xx-large">Simple CD, DVD covers for printing</span>'
+Comment3='
+The package provides printable cut-outs for various CD, DVD and
+other disc holders. The name of the package comes from its
+implementation and ease of use; it was designed just for text
+content, but since the text is placed in a \parbox in a tabular
+environment cell, a rather wide range of things may be placed.
+
+date 2013-02-28 203757 +0100
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

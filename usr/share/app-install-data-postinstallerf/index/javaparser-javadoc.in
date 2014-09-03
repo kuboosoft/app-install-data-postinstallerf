@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>javaparser-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for javaparser</span>'
+Comment3='
+This package contains javadoc for javaparser.
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/javaparser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

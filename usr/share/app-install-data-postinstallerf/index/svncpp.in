@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>svncpp</b>'
+Comment='<span size="xx-large">C++ bindings for the Subversion client library</span>'
+Comment3='
+svncpp is a C++ wrapper for the C Subversion client library which abstracts
+many parts of the C API and provides an object-oriented programming interface.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.rapidsvn.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

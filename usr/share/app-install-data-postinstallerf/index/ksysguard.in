@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ksysguard</b>'
+Comment='<span size="xx-large">KDE System Monitor</span>'
+Comment3='
+KDE System Monitor.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-workspace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

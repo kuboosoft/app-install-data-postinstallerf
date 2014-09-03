@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>kblocks</b>'
+Comment='<span size="xx-large">A classic falling blocks game</span>'
+Comment3='
+KBlocks is the classic falling blocks game. The idea is stack
+the falling blocks in a way that lines are completely filled.
+When a line is completed it is removed, and more space is available
+in the play area. When there is not enough space for blocks to fall,
+the game is over.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kblocks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

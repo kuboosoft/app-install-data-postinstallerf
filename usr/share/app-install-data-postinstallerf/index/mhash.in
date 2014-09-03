@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mhash</b>'
+Comment='<span size="xx-large">Thread-safe hash algorithms library</span>'
+Comment3='
+Mhash is a free library which provides a uniform interface to a
+large number of hash algorithms.
+
+These algorithms can be used to compute checksums, message digests,
+and other signatures. The HMAC support implements the basics for
+message authentication, following RFC 2104. In the later versions
+some key generation algorithms, which use hash algorithms, have been
+added. Currently, the library supports the algorithms ADLER32, GOST,
+HAVAL256, HAVAL224, HAVAL192, HAVAL160, HAVAL128, MD5, MD4, MD2,
+RIPEMD128/160/256/320, TIGER, TIGER160, TIGER128, SHA1/224/256/384/512,
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mhash.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

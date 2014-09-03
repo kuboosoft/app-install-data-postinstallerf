@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-CatalystX-Component-Traits</b>'
+Comment='<span size="xx-large">Automatic Trait Loading and Resolution for</span>'
+Comment3='
+Adds a "COMPONENT" method to your Catalyst component base class that
+reads the optional traits parameter from app and component config
+and instantiates the component subclass with those traits using
+MooseXTraits/new_with_traits from MooseXTraitsPluggable.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CatalystX-Component-Traits'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

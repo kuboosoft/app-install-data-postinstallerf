@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-gene-logic</b>'
+Comment='<span size="xx-large">Typeset logic formulae, etc</span>'
+Comment3='
+The package provides a facility to typeset certain logic
+formulae. It provides an environment like eqnarray, an extended
+newtheorem environment, and several macros.
+
+date 2008-10-04 100056 +0200
+'
+License='Crossword'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

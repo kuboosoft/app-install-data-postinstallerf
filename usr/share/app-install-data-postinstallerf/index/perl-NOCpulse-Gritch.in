@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-NOCpulse-Gritch</b>'
+Comment='<span size="xx-large">Perl throttled email notification for Spacewalk</span>'
+Comment3='
+NOCpulse provides application, network, systems and transaction monitoring,
+coupled with a comprehensive reporting system including availability,
+historical and trending reports in an easy-to-use browser interface.
+
+This package provides throttled email notification for Spacewalk.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

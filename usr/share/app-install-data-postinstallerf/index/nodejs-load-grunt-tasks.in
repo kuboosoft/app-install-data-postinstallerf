@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-load-grunt-tasks</b>'
+Comment='<span size="xx-large">Load multiple grunt tasks using globbing patterns</span>'
+Comment3='
+Load multiple grunt tasks using globbing patterns.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/sindresorhus/load-grunt-tasks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

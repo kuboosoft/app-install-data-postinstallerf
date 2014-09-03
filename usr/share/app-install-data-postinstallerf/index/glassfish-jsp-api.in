@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glassfish-jsp-api</b>'
+Comment='<span size="xx-large">Glassfish J2EE JSP API specification</span>'
+Comment3='
+This project provides a container independent specification of JSP
+2.2. Note that this package doesnt contain implementation of this
+specification. See glassfish-jsp for one of implementations
+'
+License='(CDDL or GPLv2 with exceptions) and ASL 2.0'
+Screenshot=''
+Url='http://java.net/jira/browse/JSP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

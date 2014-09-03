@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libart_lgpl-devel</b>'
+Comment='<span size="xx-large">Libraries and headers for libart_lgpl</span>'
+Comment3='
+The libart_lgpl-devel package contains libraries and header files for
+developing applications that use libart_lgpl.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

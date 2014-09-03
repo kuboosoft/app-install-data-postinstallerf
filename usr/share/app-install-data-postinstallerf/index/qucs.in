@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qucs</b>'
+Comment='<span size="xx-large">Circuit simulator</span>'
+Comment3='
+Qucs is a circuit simulator with graphical user interface.  The
+software aims to support all kinds of circuit simulation types,
+e.g. DC, AC, S-parameter and harmonic balance analysis.
+'
+License='GPL+'
+Screenshot=''
+Url='http://qucs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

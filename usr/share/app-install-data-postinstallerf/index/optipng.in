@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>optipng</b>'
+Comment='<span size="xx-large">PNG optimizer and converter</span>'
+Comment3='
+OptiPNG is a PNG optimizer that recompresses image files to a smaller size,
+without losing any information. This program also converts external formats
+(BMP, GIF, PNM and TIFF) to optimized PNG, and performs PNG integrity checks
+and corrections.
+'
+License='zlib'
+Screenshot=''
+Url='http://optipng.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

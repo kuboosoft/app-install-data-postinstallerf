@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>netty-xnio-transport</b>'
+Comment='<span size="xx-large">Netty Transport powered by XNIO</span>'
+Comment3='
+This is a Netty Transport powered by XNIO. It can be used to either wrap an
+existing StreamConnection and AcceptingChannel or to bootstrap a Netty powered
+server directly.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/xnio/netty-xnio-transport'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

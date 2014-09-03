@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-fn2end</b>'
+Comment='<span size="xx-large">Convert footnotes to endnotes</span>'
+Comment3='
+Defines macros \makeendnotes, which converts \footnote to
+produce endnotes; and \theendnotes which prints them out.
+
+date 2009-01-03 105555 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

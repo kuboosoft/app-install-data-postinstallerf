@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lttv-devel</b>'
+Comment='<span size="xx-large">Include Files and Libraries mandatory for LTTV modules development</span>'
+Comment3='
+This package contains all necessary include files and libraries needed
+to develop extra LTTV modules.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://lttng.org/lttv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

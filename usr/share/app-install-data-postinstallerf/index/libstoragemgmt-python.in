@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libstoragemgmt-python</b>'
+Comment='<span size="xx-large">Python client libraries and plug-in support for libstoragemgmt</span>'
+Comment3='
+The libstoragemgmt-python package contains python client libraries as
+well as python framework support and open source plug-ins written in python.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libstoragemgmt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

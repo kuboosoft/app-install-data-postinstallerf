@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>owasp-esapi-java</b>'
+Comment='<span size="xx-large">OWASP Enterprise Security API</span>'
+Comment3='
+OWASP ESAPI (The OWASP Enterprise Security API) is a free, open source,
+web application security control library that makes it easier for programmers
+to write lower-risk applications. The ESAPI for Java library is designed to
+make it easier for programmers to retrofit security into existing applications.
+ESAPI for Java also serves as a solid foundation for new development.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/owasp-esapi-java/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-shout</b>'
+Comment='<span size="xx-large">PHP module for communicating with Icecast servers</span>'
+Comment3='
+The php-shout package is an extension to the PHP Hypertext Preprocessor.
+It wraps the libshout library available from http//icecast.org/ and
+provides native Shout functions to the PHP runtime engine.  Libshout is
+a streaming audio library that connects and sends properly formatted
+audio data to an Icecast Streaming Media server (also http//icecast.org/).
+Libshout "handles the socket connection, the timing of the data, and
+prevents bad data from getting to the icecast server."  With php-shout, a
+PHP developer can write PHP scripts that act as a streaming media source,
+and focus on other robust features, without worrying about the
+details of the server communication.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://phpshout.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rabbitvcs-core</b>'
+Comment='<span size="xx-large">Core package of RabbitVCS</span>'
+Comment3='
+Contains packages shared between the RabbitVCS extensions.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rabbitvcs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

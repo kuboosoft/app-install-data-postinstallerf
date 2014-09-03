@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libvirt-daemon-config-network</b>'
+Comment='<span size="xx-large">Default configuration files for the libvirtd daemon</span>'
+Comment3='
+Default configuration files for setting up NAT based networking
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

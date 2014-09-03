@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>brasero</b>'
+Comment='<span size="xx-large">Gnome CD/DVD burning application</span>'
+Comment3='
+Simple and easy to use CD/DVD burning application for the Gnome
+desktop.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnome.org/projects/brasero/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

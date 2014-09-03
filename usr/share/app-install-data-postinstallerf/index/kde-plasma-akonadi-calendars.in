@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-plasma-akonadi-calendars</b>'
+Comment='<span size="xx-large">Calendars plasmoid for Akonadi resources</span>'
+Comment3='
+This plasmoid shows events from selected calendars in Akonadi resources
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://kde-look.org/content/show.php?content=150034'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

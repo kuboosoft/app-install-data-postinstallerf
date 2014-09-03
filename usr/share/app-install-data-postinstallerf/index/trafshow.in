@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>trafshow</b>'
+Comment='<span size="xx-large">A tool for real-time network traffic visualization</span>'
+Comment3='
+TrafShow continuously display the information regarding packet traffic
+on the configured network interface that match the boolean expression.
+It periodically sorts and updates this information.
+
+This funny program may be useful for locating suspicious network
+traffic on the net or to evaluate current utilization of the network
+interface.
+%description(ru)
+TrafShow ?????????????? ?????????? ?????????? ? ??????? ??????? ??
+'
+License='BSD'
+Screenshot=''
+Url='http://hubbitus.net.ru/trafshow/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

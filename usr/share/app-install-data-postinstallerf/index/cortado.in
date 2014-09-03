@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cortado</b>'
+Comment='<span size="xx-large">Java media framework</span>'
+Comment3='
+Cortado is a Java media framework based on GStreamers design.
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.theora.org/cortado/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

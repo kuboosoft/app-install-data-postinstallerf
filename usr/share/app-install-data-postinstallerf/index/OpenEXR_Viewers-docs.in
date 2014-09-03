@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>OpenEXR_Viewers-docs</b>'
+Comment='<span size="xx-large">Documentation for OpenEXR_Viewers</span>'
+Comment3='
+This package contains documentation files for OpenEXR_Viewers.
+'
+License='AMPAS BSD'
+Screenshot=''
+Url='http://www.openexr.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

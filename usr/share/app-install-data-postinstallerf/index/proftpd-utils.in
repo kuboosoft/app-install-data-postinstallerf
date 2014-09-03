@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>proftpd-utils</b>'
+Comment='<span size="xx-large">ProFTPD - Additional utilities</span>'
+Comment3='
+This package contains additional utilities for monitoring and configuring the
+ProFTPD server
+
+* ftpasswd generate passwd(5) files for use with AuthUserFile
+* ftpcount show the current number of connections per server/virtualhost
+* ftpmail monitor transfer log and send email when files uploaded
+* ftpquota manipulate quota tables
+* ftptop show the current status of FTP sessions
+* ftpwho show the current process information for each FTP session
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.proftpd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

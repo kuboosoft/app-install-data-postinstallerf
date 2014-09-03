@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>koules-svgalib</b>'
+Comment='<span size="xx-large">SVGAlib based variant of a multiplayer action game</span>'
+Comment3='
+This package contains variant of a classic Linux arcade game with SVGAlib
+support and can act as a network server for multiplayer game.  Use of this
+package is discouraged as it needs to be run by privileged user unless used
+as a network server.  Use koules-x11 package instead whenever possible.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.ucw.cz/~hubicka/koules/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

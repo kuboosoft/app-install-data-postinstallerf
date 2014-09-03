@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>resteasy-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for resteasy</span>'
+Comment3='
+This package contains the API documentation for resteasy.
+'
+License='ASL 2.0 and CDDL'
+Screenshot=''
+Url='http://www.jboss.org/resteasy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

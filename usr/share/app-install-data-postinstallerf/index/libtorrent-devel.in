@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtorrent-devel</b>'
+Comment='<span size="xx-large">Libtorrent development environment</span>'
+Comment3='
+Header and library definition files for developing applications
+with the libtorrent libraries.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://libtorrent.rakshasa.no/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

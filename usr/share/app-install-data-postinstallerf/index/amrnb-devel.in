@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>amrnb-devel</b>'
+Comment='<span size="xx-large">Development files for amrnb</span>'
+Comment3='
+The amrnb-devel package contains libraries and header files for
+developing applications that use amrnb.
+
+'
+License='Distributable'
+Screenshot=''
+Url='http://www.penguin.cz/~utx/amr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

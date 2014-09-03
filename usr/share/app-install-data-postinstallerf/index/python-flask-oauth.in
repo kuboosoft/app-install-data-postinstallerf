@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-flask-oauth</b>'
+Comment='<span size="xx-large">Adds OAuth support to Flask</span>'
+Comment3='
+Flask-OAuth is an extension to Flask that allows you
+to interact with remove OAuth enabled applications.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/mitsuhiko/flask-oauth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

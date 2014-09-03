@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>classycle-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for classycle</span>'
+Comment3='
+This package contains javadoc for classycle.
+'
+License='BSD'
+Screenshot=''
+Url='http://classycle.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

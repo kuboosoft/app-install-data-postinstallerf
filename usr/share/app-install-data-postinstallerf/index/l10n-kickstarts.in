@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>l10n-kickstarts</b>'
+Comment='<span size="xx-large">Localized kickstarts for localized spins</span>'
+Comment3='
+Localized versions of kickstarts for localized spins
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/spin-kickstarts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-Cmd</b>'
+Comment='<span size="xx-large">Perl module for portable testing of commands and scripts</span>'
+Comment3='
+The TestCmd module provides a framework for portable automated testing
+of executable commands and scripts (in any language, not just Perl),
+especially commands and scripts that interace with the file system.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Cmd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

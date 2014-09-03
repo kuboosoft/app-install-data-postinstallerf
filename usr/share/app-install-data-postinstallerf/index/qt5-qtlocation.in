@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>qt5-qtlocation</b>'
+Comment='<span size="xx-large">Qt5 - Location component</span>'
+Comment3='
+The Qt Positioning API gives developers the ability to determine a position
+by using a variety of possible sources, including satellite, or wifi, or
+ text file, and so on. That information can then be used to for example
+determine a position on a map. In addition satellite information can be
+retrieved and area based monitoring can be performed.
+
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://qt-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

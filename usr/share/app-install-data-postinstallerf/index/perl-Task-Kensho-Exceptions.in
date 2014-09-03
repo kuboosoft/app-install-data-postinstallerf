@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Task-Kensho-Exceptions</b>'
+Comment='<span size="xx-large">A Glimpse at an Enlightened Perl (Exceptions)</span>'
+Comment3='
+TaskKensho is a first cut at building a list of recommended modules for
+Enlightened Perl development. This Task installs the modules for an
+exception handling.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Task-Kensho-Exceptions/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

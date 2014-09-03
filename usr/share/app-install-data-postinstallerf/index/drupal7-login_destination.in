@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>drupal7-login_destination</b>'
+Comment='<span size="xx-large">Customize the destination that the user is redirected to after login</span>'
+Comment3='
+The Login Destination module allows you to customize the destination
+that a user is redirected to after logging in. The destination can be
+an internal page or an external URL. It is possible to specify certain
+conditions like referring pages or user roles and make the destination
+depend upon them. You may use PHP snippets to provide custom
+conditions and destinations. It also possible to keep users on the
+currently visited page after logging in or out.
+
+This package provides the following Drupal module
+* login_destination
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/login_destination'
+an internal page or an external URL. It is possible to specify certain'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

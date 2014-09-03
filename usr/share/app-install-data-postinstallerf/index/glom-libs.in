@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glom-libs</b>'
+Comment='<span size="xx-large">Libraries for glom</span>'
+Comment3='
+The glom-libs package contains shared libraries for glom.
+
+URL          http//www.glom.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.glom.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

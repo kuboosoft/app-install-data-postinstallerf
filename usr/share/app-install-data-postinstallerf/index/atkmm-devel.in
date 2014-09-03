@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>atkmm-devel</b>'
+Comment='<span size="xx-large">Development files for atkmm</span>'
+Comment3='
+The atkmm-devel package contains libraries and header files for
+developing applications that use atkmm.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtkmm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

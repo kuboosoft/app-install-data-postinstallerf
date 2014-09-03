@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-ElasticSearch</b>'
+Comment='<span size="xx-large">Horde ElasticSearch client</span>'
+Comment3='
+Lightweight API for ElasticSearch (http//www.elasticsearch.org/).
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

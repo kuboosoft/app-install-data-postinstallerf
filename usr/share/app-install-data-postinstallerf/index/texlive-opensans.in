@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-opensans</b>'
+Comment='<span size="xx-large">The Open Sans font family, and LaTeX support</span>'
+Comment3='
+Open Sans is a humanist sans serif typeface designed by Steve
+Matteson; the font is available from the Google Font Directory
+as TrueType files licensed under the Apache License version
+2.0. The package provides support for this font family in
+LaTeX. It includes the original TrueType fonts, as well as Type
+1 versions, converted for this package using FontForge for full
+support with dvips
+
+date 2011-11-30 183709 +0100
+'
+License='LPPL 1.3'
+as TrueType files licensed under the Apache License version'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

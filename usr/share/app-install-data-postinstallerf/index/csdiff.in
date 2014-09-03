@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>csdiff</b>'
+Comment='<span size="xx-large">Non-interactive tools for processing code scan results in plain-text</span>'
+Comment3='
+This package contains the csdiff tool for comparing code scan defect lists in
+order to find out added or fixed defects, and the csgrep utility for filtering
+defect lists using various filtering predicates.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://git.fedorahosted.org/cgit/codescan-diff.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

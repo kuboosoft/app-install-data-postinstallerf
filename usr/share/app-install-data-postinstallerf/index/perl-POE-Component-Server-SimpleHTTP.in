@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-Server-SimpleHTTP</b>'
+Comment='<span size="xx-large">Serve HTTP requests in POE</span>'
+Comment3='
+This module makes serving up HTTP requests a breeze in POE.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-Server-SimpleHTTP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

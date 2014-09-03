@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-sinatra</b>'
+Comment='<span size="xx-large">Ruby-based web application framework</span>'
+Comment3='
+Sinatra is a DSL intended for quickly creating web-applications in Ruby
+with minimal effort.
+'
+License='MIT'
+Screenshot=''
+Url='http://sinatra.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mingw64-libtiff</b>'
+Comment='<span size="xx-large">MinGW Windows port of the LibTIFF library</span>'
+Comment3='
+The libtiff package contains a library of functions for manipulating
+TIFF (Tagged Image File Format) image format files.  TIFF is a widely
+used file format for bitmapped images.  TIFF files usually end in the
+.tif extension and they are often quite large.
+
+The libtiff package should be installed if you need to manipulate TIFF
+format image files.
+'
+License='libtiff'
+Screenshot=''
+Url='http://www.remotesensing.org/libtiff/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

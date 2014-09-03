@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-pear-Mail-mimeDecode</b>'
+Comment='<span size="xx-large">Class to decode mime messages</span>'
+Comment3='
+Provides a class to deal with the decoding and interpreting of mime messages.
+This package used to be part of the Mail_Mime package, but has been split off.
+
+To run post-installation tests, execute
+pear run-tests -p Mail_mimeDecode
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Mail_mimeDecode'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-SOOT</b>'
+Comment='<span size="xx-large">Use ROOT from Perl</span>'
+Comment3='
+SOOT is a Perl extension for using the ROOT library. It is very similar to the
+Ruby-ROOT or PyROOT extensions for their respective languages. Specifically,
+SOOT was implemented after the model of Ruby-ROOT.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/SOOT/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

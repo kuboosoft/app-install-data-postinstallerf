@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apache-commons-net-javadoc</b>'
+Comment='<span size="xx-large">API documentation for apache-commons-net</span>'
+Comment3='
+API documentation for apache-commons-net.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

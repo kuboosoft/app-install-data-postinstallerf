@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-light3d</b>'
+Comment='<span size="xx-large">3D lighting effects for pstricks</span>'
+Comment3='
+A PSTricks package for three dimensional lighting effects on
+characters and PSTricks graphics, like lines, curves, plots,
+...
+
+date 2007-03-11 165601 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

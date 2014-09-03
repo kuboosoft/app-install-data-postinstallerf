@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-Compile</b>'
+Comment='<span size="xx-large">Check whether Perl module files compile correctly</span>'
+Comment3='
+TestCompile lets you check the validity of a Perl module file or Perl script
+file, and report its results in standard TestSimple fashion.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Compile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

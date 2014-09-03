@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>activemq-kahadb</b>'
+Comment='<span size="xx-large">ActiveMQ KahaDB</span>'
+Comment3='
+A file based persistence database that is local to the message broker that
+is using it. It has been optimized for fast persistence and is the the default
+storage mechanism from ActiveMQ 5.4 onwards. KahaDB uses less file descriptors
+and provides faster recovery than its predecessor, the AMQ Message Store.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://activemq.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>redhat-menus</b>'
+Comment='<span size="xx-large">Configuration and data files for the desktop menus</span>'
+Comment3='
+This package contains the XML files that describe the menu layout for
+GNOME and KDE, and the .desktop files that define the names and icons
+of "subdirectories" in the menus.
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

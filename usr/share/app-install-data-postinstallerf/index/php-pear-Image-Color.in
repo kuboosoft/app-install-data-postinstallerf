@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-Image-Color</b>'
+Comment='<span size="xx-large">Manage and handles color data and conversions</span>'
+Comment3='
+Manage and handles color data and conversions.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.php.net/package/Image_Color'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

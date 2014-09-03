@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>advancecomp</b>'
+Comment='<span size="xx-large">Recompression utilities for .PNG, .MNG and .ZIP files</span>'
+Comment3='
+AdvanceCOMP is a set of recompression utilities for .PNG, .MNG and .ZIP files.
+The main features are 
+* Recompress ZIP, PNG and MNG files using the Deflate 7-Zip implementation.
+* Recompress MNG files using Delta and Move optimization.
+
+This package contains
+* advzip - Recompression and test utility for zip files
+* advpng - Recompression utility for png files
+* advmng - Recompression utility for mng files
+* advdef - Recompression utility for deflate streams in .png, .mng and .gz
+'
+License='GPLv3'
+Screenshot=''
+Url='http://advancemame.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

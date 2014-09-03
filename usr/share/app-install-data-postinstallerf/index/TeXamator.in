@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>TeXamator</b>'
+Comment='<span size="xx-large">Helping you making your exercise sheets</span>'
+Comment3='
+TeXamator is written in Python/Qt4. It is aimed at helping you making your
+exercise sheets. Basically, it browses a specified directory, looks for .tex
+files containing exercises and builds a tree with all your exercises in it. You
+can click on an element of the tree to have a preview of the exercise and add
+it to a list if you wish to. Then you can save your work to a .tex file or you
+can generate a .dvi file.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://snouffy.free.fr/blog-en/index.php/category/TeXamator'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kde-baseapps-devel</b>'
+Comment='<span size="xx-large">Development files for kde-baseapps</span>'
+Comment3='
+Development files for kde-baseapps.
+
+URL          https//projects.kde.org/projects/kde/kde-baseapps
+'
+License='GPLv2 and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-baseapps'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

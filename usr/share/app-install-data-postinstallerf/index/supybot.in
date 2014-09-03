@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>supybot</b>'
+Comment='<span size="xx-large">Cross-platform IRC bot written in Python</span>'
+Comment3='
+Supybot is a robust, user-friendly, and programmer-friendly Python IRC bot.
+It aims to be an adequate replacement for most existing IRC bots.  It
+includes a very flexible and powerful ACL system for controlling access
+to commands, as well as more than 50 builtin plugins providing around
+400 actual commands.
+'
+License='BSD and GPLv2'
+Screenshot=''
+Url='http://supybot.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

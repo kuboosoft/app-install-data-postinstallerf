@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-dropbox</b>'
+Comment='<span size="xx-large">Official Dropbox REST API Client</span>'
+Comment3='
+A Python library that for Dropboxs HTTP-based Core API.
+'
+License='MIT'
+Screenshot=''
+Url='https://www.dropbox.com/developers/core/sdks'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

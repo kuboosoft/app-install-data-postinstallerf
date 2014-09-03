@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-xmlrpc-light-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-xmlrpc-light</span>'
+Comment3='
+The ocaml-xmlrpc-light-devel package contains libraries and signature files for
+developing applications that use ocaml-xmlrpc-light.
+
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://code.google.com/p/xmlrpc-light/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

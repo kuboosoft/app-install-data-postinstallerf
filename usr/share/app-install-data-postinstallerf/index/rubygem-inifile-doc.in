@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-inifile-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-inifile</span>'
+Comment3='
+Documentation for rubygem-inifile
+'
+License='MIT'
+Screenshot=''
+Url='http://rubygems.org/gems/inifile'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

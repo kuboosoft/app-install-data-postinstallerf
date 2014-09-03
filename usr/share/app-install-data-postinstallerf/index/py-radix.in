@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>py-radix</b>'
+Comment='<span size="xx-large">Radix tree data structure for Python</span>'
+Comment3='
+py-radix is an implementation of a radix tree for Python, which
+supports storage and lookups of IPv4 and IPv6 networks.
+
+The radix tree (a.k.a Patricia tree) is the data structure most
+commonly used for routing table lookups. It efficiently stores
+network prefixes of varying lengths and allows fast lookups of
+containing networks. py-radixs implementation is built solely
+for networks (the data structure itself is more general).
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.mindrot.org/py-radix.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

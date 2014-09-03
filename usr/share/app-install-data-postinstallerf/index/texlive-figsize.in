@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-figsize</b>'
+Comment='<span size="xx-large">Auto-size graphics</span>'
+Comment3='
+especially when including graphics with the graphicx package.
+The user only has to specify the number of graphics that should
+fit to a page or fraction there of and the package will
+dynamically calculate the correct graphics sizes relative to
+the page size. Thus, graphics can be auto-sized to fill a whole
+page or fraction and manual changes of graphic sizes are never
+needed when changing document layouts. Finally, the packages
+dynamic lengths can be used to allow other document element
+sizes to be dynamic.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

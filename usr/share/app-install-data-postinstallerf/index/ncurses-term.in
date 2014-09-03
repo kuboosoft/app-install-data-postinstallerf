@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ncurses-term</b>'
+Comment='<span size="xx-large">Terminal descriptions</span>'
+Comment3='
+This package contains additional terminal descriptions not found in
+the ncurses-base package.
+'
+License='MIT'
+Screenshot=''
+Url='http://invisible-island.net/ncurses/ncurses.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

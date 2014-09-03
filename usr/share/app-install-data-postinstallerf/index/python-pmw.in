@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-pmw</b>'
+Comment='<span size="xx-large">Python powerwidgets</span>'
+Comment3='
+Pmw is a toolkit for building high-level compound widgets in Python
+using the Tkinter module. It consists of a set of base classes and a
+library of flexible and extensible megawidgets built on this
+foundation. These megawidgets include notebooks, comboboxes, selection
+widgets, paned widgets, scrolled widgets and dialog windows.
+'
+License='MIT and GPLv2+'
+Screenshot=''
+Url='http://pmw.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

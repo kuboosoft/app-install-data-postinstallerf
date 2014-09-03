@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jdbm</b>'
+Comment='<span size="xx-large">A transactional persistence engine for Java</span>'
+Comment3='
+A transactional persistence engine for Java.
+It aims to be for Java what GDBM is for Perl, Python, C,
+etcetera a simple persistence engine that is lightweight
+and fast.
+'
+License='BSD with attribution'
+Screenshot=''
+Url='http://jdbm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

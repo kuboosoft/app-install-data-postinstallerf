@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-gem-nice-install</b>'
+Comment='<span size="xx-large">A RubyGems plugin that improves gem installation user experience</span>'
+Comment3='
+A RubyGems plugin that improves gem installation user experience. If binary
+extension build fails, it tries to install its development dependencies.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/voxik/gem-nice-install'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

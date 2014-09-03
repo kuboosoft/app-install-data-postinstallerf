@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Net-Amazon-EC2-Metadata</b>'
+Comment='<span size="xx-large">Retrieves data from EC2 Metadata service</span>'
+Comment3='
+This module queries Amazons Elastic Compute Cloud Metadata service.
+It also fetches user_data which follows the same API but is often no
+considered part of the metadata service by Amazons documentation. The
+module also ships with a command line tool ec2meta that provides the same
+data.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-Amazon-EC2-Metadata/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

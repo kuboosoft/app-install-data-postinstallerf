@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-PerlIO-Layers</b>'
+Comment='<span size="xx-large">Querying your file handle capabilities</span>'
+Comment3='
+Perl file handles are implemented as a stack of layers, with the bottom-
+most usually doing the actual IO and the higher ones doing buffering,
+encoding/decoding or transformations. PerlIOLayers allows you to query
+the file handle properties concerning these layers.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/PerlIO-Layers/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

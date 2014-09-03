@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>TOPCOM-devel</b>'
+Comment='<span size="xx-large">Header files needed to build with TOPCOM</span>'
+Comment3='
+Header files needed to build applications that use the TOPCOM library.
+
+URL          http//www.rambau.wm.uni-bayreuth.de/TOPCOM/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rambau.wm.uni-bayreuth.de/TOPCOM/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

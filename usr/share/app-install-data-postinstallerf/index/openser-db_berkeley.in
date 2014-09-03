@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openser-db_berkeley</b>'
+Comment='<span size="xx-large">Berkeley DB backend support</span>'
+Comment3='
+This is a module which integrates the Berkeley DB into OpenSER. It implements
+the DB API defined in OpenSER.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

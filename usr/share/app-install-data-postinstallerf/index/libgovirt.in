@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libgovirt</b>'
+Comment='<span size="xx-large">A GObject library for interacting with oVirt REST API</span>'
+Comment3='
+libgovirt is a library that allows applications to use oVirt REST API
+to list VMs managed by an oVirt instance, and to get the connection
+parameters needed to make a SPICE/VNC connection to them.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://people.freedesktop.org/~teuf/govirt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

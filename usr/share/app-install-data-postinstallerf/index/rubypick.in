@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubypick</b>'
+Comment='<span size="xx-large">Stub to allow choosing Ruby runtime</span>'
+Comment3='
+Fedora /usr/bin/ruby stub to allow choosing Ruby runtime. Similarly to rbenv
+or RVM, it allows non-privileged user to choose which is preferred Ruby
+runtime for current task.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/bkabrda/rubypick'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

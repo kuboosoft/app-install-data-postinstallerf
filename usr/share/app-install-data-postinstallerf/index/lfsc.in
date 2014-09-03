@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lfsc</b>'
+Comment='<span size="xx-large">SMT proof checker</span>'
+Comment3='
+This package contains an SMT proof checker.
+
+URL          http//clc.cs.uiowa.edu/lfsc/
+'
+License='BSD'
+Screenshot=''
+Url='http://clc.cs.uiowa.edu/lfsc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

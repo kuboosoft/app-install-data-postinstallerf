@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>taskjuggler-libs</b>'
+Comment='<span size="xx-large">Libraries for taskjuggler</span>'
+Comment3='
+Libraries for TaskJuggler package.
+
+URL          http//www.taskjuggler.org
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.taskjuggler.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

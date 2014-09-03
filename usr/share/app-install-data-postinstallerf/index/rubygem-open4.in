@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-open4</b>'
+Comment='<span size="xx-large">Manage child processes and their IO handles easily</span>'
+Comment3='
+Open child process with handles on pid, stdin, stdout, and stderr.
+Manage child processes and their IO handles easily.
+'
+License='BSD or Ruby'
+Screenshot=''
+Url='http://github.com/ahoward/open4/tree/master'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

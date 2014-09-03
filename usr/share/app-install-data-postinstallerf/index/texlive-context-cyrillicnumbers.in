@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-context-cyrillicnumbers</b>'
+Comment='<span size="xx-large">Write numbers as cyrillic glyphs</span>'
+Comment3='
+The package extends Contexts system of number conversion, by
+adding numeration using cyrillic letters.
+
+date 2013-04-12 112724 +0200
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

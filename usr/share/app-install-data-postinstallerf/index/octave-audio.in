@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>octave-audio</b>'
+Comment='<span size="xx-large">Audio for Octave</span>'
+Comment3='
+This package contains octave scripts for recording, playback, reading,
+writing and plotting audio samples.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://octave.sourceforge.net/audio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

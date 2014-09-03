@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-txfonts</b>'
+Comment='<span size="xx-large">Times-like fonts in support of mathematics</span>'
+Comment3='
+Txfonts supplies virtual text roman fonts using Adobe Times (or
+URW NimbusRomNo9L) with some modified and additional text
+symbols in the OT1, T1, and TS1 encodings; maths alphabets
+using Times/URW Nimbus; maths fonts providing all the symbols
+of the Computer Modern and AMS fonts, including all the Greek
+capital letters from CMR; and additional maths fonts of various
+other symbols. The set is complemented by a sans-serif set of
+text fonts, based on Helvetica/NimbusSanL, and a monospace set.
+All the fonts are in Type 1 format (AFM and PFB files), and are
+supported by TeX metrics (VF and TFM files) and macros for use
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

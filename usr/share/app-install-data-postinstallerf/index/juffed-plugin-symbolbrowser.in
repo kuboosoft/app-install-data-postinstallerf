@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>juffed-plugin-symbolbrowser</b>'
+Comment='<span size="xx-large">SymbolBrowser plugin for juffed</span>'
+Comment3='
+Symbol browser dock plugin.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

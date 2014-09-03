@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openscada-DB-DBF</b>'
+Comment='<span size="xx-large">Open SCADA database</span>'
+Comment3='
+The openscada-DB-DBF package allow support of the *.dbf files,
+version 3.0.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://oscada.org.ua'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

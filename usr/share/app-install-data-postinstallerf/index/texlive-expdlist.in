@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-expdlist</b>'
+Comment='<span size="xx-large">Expanded description environments</span>'
+Comment3='
+The package provides additional features for the LaTeX
+description environment, including adjustable left margin. The
+package also allows the user to break a list (for example, to
+interpose a comment) without affecting the structure of the
+list (so that, for example, numbered lists remain in sequence).
+
+date 2008-06-23 234750 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>objectweb-asm-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for objectweb-asm</span>'
+Comment3='
+Javadoc for objectweb-asm.
+'
+License='BSD'
+Screenshot=''
+Url='http://asm.objectweb.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

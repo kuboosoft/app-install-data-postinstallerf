@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>uw-imap</b>'
+Comment='<span size="xx-large">UW Server daemons for IMAP and POP network mail protocols</span>'
+Comment3='
+The uw-imap package provides UW server daemons for both the IMAP (Internet
+Message Access Protocol) and POP (Post Office Protocol) mail access
+protocols.  The POP protocol uses a "post office" machine to collect
+mail for users and allows users to download their mail to their local
+machine for reading. The IMAP protocol allows a user to read mail on a
+remote machine without downloading it to their local machine.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.washington.edu/imap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtkmathview-devel</b>'
+Comment='<span size="xx-large">Support files necessary to compile applications using gtkmathview</span>'
+Comment3='
+Libraries, headers, and support files needed for using gtkmathview.
+
+URL          http//helm.cs.unibo.it/mml-widget/
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://helm.cs.unibo.it/mml-widget/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

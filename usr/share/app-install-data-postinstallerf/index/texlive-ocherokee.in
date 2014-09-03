@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-ocherokee</b>'
+Comment='<span size="xx-large">LaTeX Support for the Cherokee language</span>'
+Comment3='
+Macros and Type 1 fonts for Typesetting the Cherokee language
+with the Omega version of LaTeX (known as Lambda).
+
+date 2007-03-12 003702 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

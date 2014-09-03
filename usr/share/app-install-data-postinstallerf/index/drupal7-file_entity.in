@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>drupal7-file_entity</b>'
+Comment='<span size="xx-large">File entity (fieldable files)</span>'
+Comment3='
+File entity provides interfaces for managing files. It also extends the core
+file entity, allowing files to be fieldable, grouped into types, viewed (using
+display modes) and formatted using field formatters. File entity integrates
+with a number of modules, exposing files to Views, Entity API, Token and more.
+
+This package provides the following Drupal module
+* file_entity
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/file_entity'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

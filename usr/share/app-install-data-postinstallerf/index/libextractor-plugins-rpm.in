@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libextractor-plugins-rpm</b>'
+Comment='<span size="xx-large">The rpm libextractor plugin</span>'
+Comment3='
+libextractor is a simple library for keyword extraction.  libextractor
+does not support all formats but supports a simple plugging mechanism
+such that you can quickly add extractors for additional formats, even
+without recompiling libextractor.
+
+This package ships the rpm plugin.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/libextractor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

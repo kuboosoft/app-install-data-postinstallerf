@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mrpt-apps</b>'
+Comment='<span size="xx-large">Mobile Robot Programming Toolkit - Console and GUI applications</span>'
+Comment3='
+The Mobile Robot Programming Toolkit (MRPT) is an extensive, cross-platform,
+and open source C++ library aimed to help robotics researchers to design and
+implement algorithms in the fields of Simultaneous Localization and Mapping
+(SLAM), computer vision, and motion planning (obstacle avoidance).
+
+This package provides a set of console and GUI applications for manipulating
+datasets, particle filtering localization and SLAM, grabbing data from
+robotic sensors, etc.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.mrpt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

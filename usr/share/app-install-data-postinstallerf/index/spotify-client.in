@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>spotify-client</b>'
+Comment='<span size="xx-large">A Open Source installer for spotify a proprietary peer-to-peer music streaming service</span>'
+Comment3='
+Think of Spotify as your new music collection. Your library. Only
+this time your collection is vast millions of tracks and counting.
+Spotify comes in all shapes and sizes, available for your PC, Mac,
+home audio system and mobile phone. Wherever you go, your music
+follows you. And because the music plays live, there?s no need to wait
+for downloads and no big dent in your hard drive.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.spotify.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

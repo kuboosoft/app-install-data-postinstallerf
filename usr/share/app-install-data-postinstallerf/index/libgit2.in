@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libgit2</b>'
+Comment='<span size="xx-large">A C implementation of the Git core methods as a library</span>'
+Comment3='
+libgit2 is a portable, pure C implementation of the Git core methods
+provided as a re-entrant linkable library with a solid API, allowing
+you to write native speed custom Git applications in any language
+with bindings.
+
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://libgit2.github.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

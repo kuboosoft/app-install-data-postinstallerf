@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-net-ldap</b>'
+Comment='<span size="xx-large">LDAP extension for ROOT</span>'
+Comment3='
+This package contains the LDAP extension for ROOT. This gives you
+access to LDAP directories via ROOT.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

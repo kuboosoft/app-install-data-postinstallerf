@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mame-tools</b>'
+Comment='<span size="xx-large">Additional tools for MAME</span>'
+Comment3='
+Additional tools for MAME.
+'
+License='MAME License and BSD'
+Screenshot=''
+Url='http://mamedev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

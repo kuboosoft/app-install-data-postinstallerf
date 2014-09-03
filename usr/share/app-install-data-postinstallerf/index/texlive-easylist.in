@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-easylist</b>'
+Comment='<span size="xx-large">Lists using a single active character</span>'
+Comment3='
+This package allows you to create lists of numbered items (as
+in Wittgensteins Tractatus) with a single active character
+as the only command. A variety of parameters are available to
+configure the appearance of the list; lists may be nested
+(effectively to unlimited depth).
+
+date 2010-02-28 152401 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

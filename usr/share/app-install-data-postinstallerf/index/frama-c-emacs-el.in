@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>frama-c-emacs-el</b>'
+Comment='<span size="xx-large">Emacs source file for ACSL markup</span>'
+Comment3='
+This package contains the Emacs source file for working with C source
+files marked up with ACSL.  This package is not needed to use the Emacs
+support.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://frama-c.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

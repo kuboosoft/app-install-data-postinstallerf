@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wammu</b>'
+Comment='<span size="xx-large">Mobile Phone Manager - Gammu GUI</span>'
+Comment3='
+Wammu is mobile phone manager running on Linux,
+Windows and possibly other platforms,where Gammu and wxPython works.
+The communication is made by Gammu library. Currently supported features
+
+* complete support (can read/edit/delete/copy) for contacts, todo, calendar
+* can read/create/save/send/backup smses
+* sending files to phone (OBEX and Sony Ericsson phones only)
+* sms composer for multi part smses
+ (currently only text and predefined bitmap/sound can be edited)
+* display message including pictures and ringtones playback
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wammu.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libreport-anaconda</b>'
+Comment='<span size="xx-large">Default configuration for reporting anaconda bugs</span>'
+Comment3='
+Default configuration for reporting Anaconda problems or uploading the gathered
+data over ftp/scp...
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

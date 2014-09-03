@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-scale</b>'
+Comment='<span size="xx-large">Scale document by sqrt(2) or magstep(2)</span>'
+Comment3='
+A package to scale a document by sqrt(2) (or by \magstep{2}).
+This is useful if you are preparing a document on, for example,
+A5 paper and want to print on A4 paper to achieve a better
+resolution.
+
+date 2006-11-06 122058 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

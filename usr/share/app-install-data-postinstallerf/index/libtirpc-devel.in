@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtirpc-devel</b>'
+Comment='<span size="xx-large">Development files for the libtirpc library</span>'
+Comment3='
+This package includes header files and libraries necessary for
+developing programs which use the tirpc library.
+
+'
+License='SISSL and BSD'
+Screenshot=''
+Url='http://nfsv4.bullopensource.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

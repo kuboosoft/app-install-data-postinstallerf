@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-awesome_spawn-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-awesome_spawn</span>'
+Comment3='
+Documentation for rubygem-awesome_spawn
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/ManageIQ/awesome_spawn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

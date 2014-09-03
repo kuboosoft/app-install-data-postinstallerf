@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wavpack-devel</b>'
+Comment='<span size="xx-large">WavPack - development files</span>'
+Comment3='
+Files needed for developing apps using wavpack
+
+URL          http//www.wavpack.com/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.wavpack.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

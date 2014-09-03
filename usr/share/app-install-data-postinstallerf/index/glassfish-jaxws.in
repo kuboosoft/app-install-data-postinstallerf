@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>glassfish-jaxws</b>'
+Comment='<span size="xx-large">JAX-WS Reference Implementation (RI) Project</span>'
+Comment3='
+This project provides the core of Metro project,
+inside GlassFish community. This project develops and
+evolves the code base for the reference implementation of
+the Java API for XML Web Services (JAX-WS) specification.
+'
+License='(CDDL or GPLv2 with exceptions) and ASL 2.0 and Public Domain'
+Screenshot=''
+Url='http://jax-ws.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libtimezonemap</b>'
+Comment='<span size="xx-large">Time zone map widget for Gtk+</span>'
+Comment3='
+libtimezonemap is a time zone map widget for Gtk+. The widget displays a world
+map with a highlighted region representing the selected time zone, and the
+location can be changed by clicking on the map.
+
+This library is a fork of the of the code from gnome-control-centers datetime
+panel, which was itself a fork of Ubiquitys timezone map.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://launchpad.net/timezonemap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

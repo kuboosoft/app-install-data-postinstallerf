@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libao</b>'
+Comment='<span size="xx-large">Cross Platform Audio Output Library</span>'
+Comment3='
+Libao is a cross platform audio output library. It currently supports
+ESD, OSS, Solaris, and IRIX.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xiph.org/ao/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

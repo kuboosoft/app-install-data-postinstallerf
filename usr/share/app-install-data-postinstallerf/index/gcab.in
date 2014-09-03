@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gcab</b>'
+Comment='<span size="xx-large">Cabinet file library and tool</span>'
+Comment3='
+gcab is a tool to manipulate Cabinet archive.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ftp.gnome.org/pub/GNOME/sources/gcab'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

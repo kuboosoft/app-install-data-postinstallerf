@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bitbake</b>'
+Comment='<span size="xx-large">Build tool executing tasks and managing metadata</span>'
+Comment3='
+BitBake is a simple tool for the execution of tasks. It is derived from
+Portage, which is the package management system used by the Gentoo Linux
+distribution. It is most commonly used to build packages, and is used as the
+basis of the OpenEmbedded project.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://developer.berlios.de/projects/bitbake/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>fish</b>'
+Comment='<span size="xx-large">A friendly interactive shell</span>'
+Comment3='
+fish is a fully-equipped command line shell (like bash or zsh) that is
+smart and user-friendly. fish supports powerful features like syntax
+highlighting, autosuggestions, and tab completions that just work, with
+nothing to learn or configure.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fishshell.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

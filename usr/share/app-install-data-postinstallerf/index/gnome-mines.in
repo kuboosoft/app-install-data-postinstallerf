@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-mines</b>'
+Comment='<span size="xx-large">GNOME Mines Sweeper game</span>'
+Comment3='
+The popular logic puzzle minesweeper. Find mines on a grid
+using hints from squares you have already cleared.
+'
+License='GPLv2+ and CC-BY-SA'
+Screenshot=''
+Url='http://projects.gnome.org/gnome-games/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

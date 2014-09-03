@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kazehakase-base</b>'
+Comment='<span size="xx-large">Base package of Kazehakase</span>'
+Comment3='
+This package contains base files for Kazehakase.
+To use Kazehakase, you also need to install a package
+containing HTML rendering engine module for Kazehakase.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kazehakase.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

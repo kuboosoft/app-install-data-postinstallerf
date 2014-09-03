@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>emacs-erlang-lfe-el</b>'
+Comment='<span size="xx-large">Elisp source files for Lisp Flavoured Erlang under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for Lisp Flavoured Erlang
+under GNU Emacs. You do not need to install this package to run
+Lisp Flavoured Erlang. Install the emacs-erlang-lfe package to use
+Lisp Flavoured Erlang with GNU Emacs.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/rvirding/lfe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

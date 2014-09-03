@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>xbase-utils</b>'
+Comment='<span size="xx-large">XBase utilities / tools</span>'
+Comment3='
+This package contains various utilities for working with X-Base files
+checkndx (check an NDX file), copydbf (copy a DBF file structure), deletall
+(mark all records for deletion), dumphdr (print an X-Base file header),
+dumprecs (dump records for an X-Base file), packdbf (pack a database file),
+reindex (rebuild an index), undelall (undeletes all deleted records in a file),
+zap (remove all records from a DBF file).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://linux.techass.com/projects/xdb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

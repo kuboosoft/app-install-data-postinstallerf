@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-classicthesis</b>'
+Comment='<span size="xx-large">A "classically styled" thesis package</span>'
+Comment3='
+The classicthesis package provides an elegant layout designed
+in homage to Bringhursts "The Elements of Typographic Style".
+It makes use of a range of techniques to get the best results
+achievable using TeX. Included in the bundle are templates to
+make thesis writing easier.
+
+date 2012-08-15 134523 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

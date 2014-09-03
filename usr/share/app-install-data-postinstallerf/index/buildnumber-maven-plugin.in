@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>buildnumber-maven-plugin</b>'
+Comment='<span size="xx-large">Build Number Maven Plugin</span>'
+Comment3='
+This mojo is designed to get a unique build number for each time you build
+your project. So while your version may remain constant at 1.0-SNAPSHOT
+for many iterations until release, you will have a build number that can
+uniquely identify each build during that time. The build number is obtained
+from scm, and in particular, at this time, from svn. You can then place that
+build number in metadata, which can be accessed from your app, if desired.
+
+The mojo also has a couple of extra functions to ensure you get the proper
+build number. First, your local repository is checked to make sure it is
+up to date. Second, your local repository is automatically updated, so that
+'
+License='MIT and ASL 2.0'
+Screenshot=''
+Url='http://svn.codehaus.org/mojo/tags/buildnumber-maven-plugin-1.2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-slime</b>'
+Comment='<span size="xx-large">The superior lisp interaction mode for emacs</span>'
+Comment3='
+SLIME is a Emacs mode for common Lisp development.
+'
+License='Public Domain and GPLv3+ and GPLv2+ and LLGPL'
+Screenshot=''
+Url='http://common-lisp.net/project/slime/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

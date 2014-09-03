@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>watchdog</b>'
+Comment='<span size="xx-large">Software and/or Hardware watchdog daemon</span>'
+Comment3='
+The watchdog program can be used as a powerful software watchdog daemon
+or may be alternately used with a hardware watchdog device such as the
+IPMI hardware watchdog driver interface to a resident Baseboard
+Management Controller (BMC).  watchdog periodically writes to /dev/watchdog;
+the interval between writes to /dev/watchdog is configurable through settings
+in the watchdog sysconfig file.  This configuration file is also used to
+set the watchdog to be used as a hardware watchdog instead of its default
+software watchdog operation.  In either case, if the device is open but not
+written to within the configured time period, the watchdog timer expiration
+will trigger a machine reboot. When operating as a software watchdog, the
+'
+License='GPL+'
+Screenshot=''
+Url='http://sourceforge.net/projects/watchdog/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

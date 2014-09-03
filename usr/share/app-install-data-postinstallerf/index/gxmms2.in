@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gxmms2</b>'
+Comment='<span size="xx-large">A graphical audio player</span>'
+Comment3='
+gxmms2 is a GTK2 based XMMS2 client, written in C. Its main window is small
+and simple. It includes a playlist editor and a file details dialog.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://wejp.k.vu/projects/xmms2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

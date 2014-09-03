@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>themonospot-gui-qt</b>'
+Comment='<span size="xx-large">Qt application to use themonospot (multimedia files parser/editor)</span>'
+Comment3='
+themonospot-gui-qt is a Mono framework application to create a
+graphic frontend to use themonospot base component and his plugins.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.integrazioneweb.com/themonospot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

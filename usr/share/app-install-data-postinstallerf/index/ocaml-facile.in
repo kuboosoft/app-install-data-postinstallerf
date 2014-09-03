@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ocaml-facile</b>'
+Comment='<span size="xx-large">OCaml library for constraint programming</span>'
+Comment3='
+FaCiLe is a constraint programming library on integer and integer set finite
+domains written in OCaml. It offers all usual facilities to create and
+manipulate finite domain variables, arithmetic expressions and constraints
+(possibly non-linear), built-in global constraints (difference, cardinality,
+sorting etc.) and search and optimization goals. FaCiLe allows as well to build
+easily user-defined constraints and goals (including recursive ones), making
+pervasive use of OCaml higher-order functionals to provide a simple and flexible
+interface for the user. As FaCiLe is an OCaml library and not "yet another
+language", the user benefits from type inference and strong typing discipline,
+high level of abstraction, modules and objects system, as well as native code
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.recherche.enac.fr/log/facile/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

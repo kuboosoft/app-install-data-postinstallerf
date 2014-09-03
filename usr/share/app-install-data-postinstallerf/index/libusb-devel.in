@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libusb-devel</b>'
+Comment='<span size="xx-large">Development files for libusb</span>'
+Comment3='
+This package contains the header files, libraries and documentation needed to
+develop applications that use libusb-0.1. However new applications should use
+libusb-1.0 library instead of this one.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libusb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

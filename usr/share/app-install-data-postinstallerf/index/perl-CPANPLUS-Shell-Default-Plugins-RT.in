@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CPANPLUS-Shell-Default-Plugins-RT</b>'
+Comment='<span size="xx-large">Check for rt.cpan.org tickets from within the CPANPLUS shell</span>'
+Comment3='
+This plugin allows you to query rt.cpan.org tickets for a given
+distribution within the CPANPLUS shell.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CPANPLUS-Shell-Default-Plugins-RT'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-lv</b>'
+Comment='<span size="xx-large">Latvian hunspell dictionaries</span>'
+Comment3='
+Latvian hunspell dictionaries.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://dict.dv.lv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

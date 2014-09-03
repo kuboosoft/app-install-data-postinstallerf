@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>rubygem-levenshtein</b>'
+Comment='<span size="xx-large">Calculates the Levenshtein distance between two byte strings</span>'
+Comment3='
+Calculates the Levenshtein distance between two byte strings.
+
+The Levenshtein distance is a metric for measuring the amount
+of difference between two sequences (i.e., the so called edit
+distance). The Levenshtein distance between two sequences is
+given by the minimum number of operations needed to transform
+one sequence into the other, where an operation is an
+insertion, deletion, or substitution of a single element.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.erikveen.dds.nl/levenshtein/doc/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

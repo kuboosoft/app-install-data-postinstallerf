@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gfal2-plugin-rfio</b>'
+Comment='<span size="xx-large">Provide the rfio support for gfal2</span>'
+Comment3='
+Provide the rfio support (RFIO//) for gfal2.
+The rfio plugin provides the POSIX operations for
+the rfio URLs, the rfio protocol is used on the DPM
+and on the Castor storage systems.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgutil/wiki/gfal2'
+the rfio URLs, the rfio protocol is used on the DPM'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

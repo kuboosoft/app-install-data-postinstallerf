@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-latest</b>'
+Comment='<span size="xx-large">Use the latest Perl features</span>'
+Comment3='
+Shake out any obscure problems that might result from your code being used by a
+program that requires the latest Perl version.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/latest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

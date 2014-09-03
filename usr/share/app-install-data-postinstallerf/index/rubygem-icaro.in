@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-icaro</b>'
+Comment='<span size="xx-large">Icaro API for Ruby</span>'
+Comment3='
+Icaro Robot project Ruby API
+'
+License='GPLv3'
+Screenshot=''
+Url='http://github.com/aeperezt/ruby-icaro'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-luainputenc</b>'
+Comment='<span size="xx-large">Replacing inputenc for use in LuaTeX</span>'
+Comment3='
+LuaTeX operates by default in UTF-8 input; thus LaTeX documents
+that need 8-bit character-sets need special treatment. (In
+package, therefore, replaces the LaTeX standard inputenc for
+use under LuaTeX. With a current LuaTeX,the package has the
+same behaviour with LuaTeX as inputenc has under pdfTeX.
+
+date 2010-11-19 165542 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

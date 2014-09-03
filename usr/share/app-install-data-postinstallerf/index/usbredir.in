@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>usbredir</b>'
+Comment='<span size="xx-large">USB network redirection protocol libraries</span>'
+Comment3='
+The usbredir libraries allow USB devices to be used on remote and/or virtual
+hosts over TCP.  The following libraries are provided
+
+usbredirparser
+A library containing the parser for the usbredir protocol
+usbredirhost
+A library implementing the USB host side of a usbredir connection.
+All that an application wishing to implement a USB host needs to do is
+* Provide a libusb device handle for the device
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://spice-space.org/page/UsbRedir'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

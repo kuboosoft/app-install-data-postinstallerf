@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>volpack</b>'
+Comment='<span size="xx-large">Portable library for fast volume rendering</span>'
+Comment3='
+VolPack is a portable library of fast volume rendering algorithms that
+produce high-quality images.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://amide.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

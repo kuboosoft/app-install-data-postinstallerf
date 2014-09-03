@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dmenu</b>'
+Comment='<span size="xx-large">Generic menu for X</span>'
+Comment3='
+Dynamic menu is a generic menu for X, originally designed for dwm. It manages
+huge amounts (up to 10.000 and more) of user defined menu items efficiently.
+'
+License='MIT'
+Screenshot=''
+Url='http://tools.suckless.org/dmenu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

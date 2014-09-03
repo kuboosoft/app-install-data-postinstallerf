@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>denemo-emmentaler-fonts</b>'
+Comment='<span size="xx-large">Denemo emmentaler fonts</span>'
+Comment3='
+Denemo is a free software (GPL) music notation editor for GNU/Linux that
+lets you rapidly enter notation for typesetting via the LilyPond music
+engraver.  You can compose, transcribe, arrange, listen to the music
+and much more.
+
+These are the emmentaler.ttf fonts derived from lilyponds fonts.
+'
+License='GPLV2'
+Screenshot=''
+Url='http://www.denemo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

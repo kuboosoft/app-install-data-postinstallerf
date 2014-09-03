@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>axis</b>'
+Comment='<span size="xx-large">SOAP implementation in Java</span>'
+Comment3='
+Apache AXIS is an implementation of the SOAP ("Simple Object Access Protocol")
+submission to W3C.
+
+From the draft W3C specification
+SOAP is a lightweight protocol for exchange of information in a decentralized,
+distributed environment. It is an XML based protocol that consists of three
+parts an envelope that defines a framework for describing what is in a message
+and how to process it, a set of encoding rules for expressing instances of
+application-defined datatypes, and a convention for representing remote
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ws.apache.org/axis/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

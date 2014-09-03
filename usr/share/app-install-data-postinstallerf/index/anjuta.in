@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>anjuta</b>'
+Comment='<span size="xx-large">GNOME IDE for various programming languages (including C/C++, Python, Vala and JavaScript)</span>'
+Comment3='
+Anjuta DevStudio is a versatile software development studio featuring
+a number of advanced programming facilities including project
+management, application wizard, interactive debugger, source editor,
+version control, GUI designer, profiler and many more tools. It
+focuses on providing simple and usable user interface, yet powerful
+for efficient development.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.anjuta.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

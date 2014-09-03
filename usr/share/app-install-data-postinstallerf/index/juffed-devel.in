@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>juffed-devel</b>'
+Comment='<span size="xx-large">Development package for juffed</span>'
+Comment3='
+Development files to create juffed plugins.
+
+URL          http//www.juffed.com/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

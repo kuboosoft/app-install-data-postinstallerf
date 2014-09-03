@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-hepthesis</b>'
+Comment='<span size="xx-large">A class for academic reports, especially PhD theses</span>'
+Comment3='
+Hepthesis is a LaTeX class for typesetting large academic
+reports, in particular PhD theses. It was originally developed
+for typesetting the authors high-energy physics PhD thesis and
+includes some features specifically tailored to such an
+application. In particular, hepthesis offers - Attractive
+semantic environments for various rubric sections; - Extensive
+options for draft production, screen viewing and binding-ready
+output; - Helpful extensions of existing environments,
+including equation and tabular; and - Support for quotations at
+the start of the thesis and each chapter. The class is based on
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

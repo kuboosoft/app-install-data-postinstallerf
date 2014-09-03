@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>wso2-axis2</b>'
+Comment='<span size="xx-large">WSO2 modified Apache Axis2/C</span>'
+Comment3='
+Apache Axis2/C is a Web services engine implementing the Axis2 architecture
+in C.  Axis2/C can be used to provide and consume WebServices and supports
+SOAP 1.1, 1.2, and REST style WebServices. Axis2/C also supports MTOM.
+
+This package is a modified version of Apache Axis2/C provided by the
+developers of WSO2
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://wso2.org/library/wsf/cpp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

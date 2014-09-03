@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-HTML-FormFu</b>'
+Comment='<span size="xx-large">HTML Form Creation, Rendering and Validation Framework</span>'
+Comment3='
+HTMLFormFu is a HTML form framework which aims to be as easy as possible
+to use for basic web forms, but with the power and flexibility to do
+anything else you might want to do (as long as it involves forms).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-FormFu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

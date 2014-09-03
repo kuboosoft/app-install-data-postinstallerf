@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Module-Starter</b>'
+Comment='<span size="xx-large">A simple starter kit for any module</span>'
+Comment3='
+This is a CPAN module/utility to assist in the creation of new modules in a
+sensible and sane fashion.  Unless youre interested in extending the
+functionality of this module, you should examine the documentation for
+module-starter, for information on how to use this tool.
+
+It is noted that there are a number of extensions to this tool, including
+plugins to create modules using templates as recommended by Damian Conways
+"Perl Best Practices" (OReilly, 2005).  (See also the package
+perl-Module-Starter-PBP for the aforementioned templates.)
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Starter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

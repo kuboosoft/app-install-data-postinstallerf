@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mono-tools</b>'
+Comment='<span size="xx-large">A collection of tools for mono applications</span>'
+Comment3='
+Monotools are a number of tools for mono such as allowing monodoc to be run
+independantly of monodevelop
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

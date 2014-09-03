@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kpartx</b>'
+Comment='<span size="xx-large">Partition device manager for device-mapper devices</span>'
+Comment3='
+kpartx manages partition creation and removal for device-mapper devices.
+'
+License='GPL+'
+Screenshot=''
+Url='http://christophe.varoqui.free.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

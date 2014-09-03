@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-bibleref-german</b>'
+Comment='<span size="xx-large">German adaptation of bibleref</span>'
+Comment3='
+The package provides translations and various formats for the
+use of bibleref in German documents. The German naming of the
+bible books complies with the Loccumer Richtlinien (Locum
+guidelines). In addition, the Vulgate (Latin bible) is
+supported.
+
+date 2011-04-02 194611 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

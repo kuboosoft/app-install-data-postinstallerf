@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>monodoc-devel</b>'
+Comment='<span size="xx-large">.pc file for monodoc</span>'
+Comment3='
+Development file for monodoc
+
+URL          http//www.mono-project.com/Main_Page
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

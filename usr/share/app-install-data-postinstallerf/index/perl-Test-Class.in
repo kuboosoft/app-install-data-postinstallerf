@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-Class</b>'
+Comment='<span size="xx-large">Easily create test classes in an xUnit/JUnit style</span>'
+Comment3='
+TestClass provides a simple way of creating classes and objects to test
+your code in an xUnit style.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Class/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

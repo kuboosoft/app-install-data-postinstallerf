@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>root-netx</b>'
+Comment='<span size="xx-large">NetX extension for ROOT</span>'
+Comment3='
+This package contains the NetX extension for ROOT, i.e. a client for
+the xrootd server. Both the old (NetX) and the new (NetXNG) version are
+provided.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

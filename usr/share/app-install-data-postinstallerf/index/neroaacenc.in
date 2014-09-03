@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>neroaacenc</b>'
+Comment='<span size="xx-large">Nero AAC reference quality MPEG-4 and 3GPP audio codec</span>'
+Comment3='
+Nero AAC reference quality MPEG-4 and 3GPP audio codec
+'
+License='custom'
+Screenshot=''
+Url='http://www.nero.com/enu/company/about-nero/nero-aac-codec.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

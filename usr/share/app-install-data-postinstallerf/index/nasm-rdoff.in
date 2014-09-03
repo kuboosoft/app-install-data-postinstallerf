@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nasm-rdoff</b>'
+Comment='<span size="xx-large">Tools for the RDOFF binary format, sometimes used with NASM</span>'
+Comment3='
+Tools for the operating-system independent RDOFF binary format, which
+is sometimes used with the Netwide Assembler (NASM). These tools
+include linker, library manager, loader, and information dump.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.nasm.us'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

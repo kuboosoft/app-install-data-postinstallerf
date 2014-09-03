@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cxf-build-utils-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for cxf-build-utils</span>'
+Comment3='
+This package contains the API documentation for cxf-build-utils.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://cxf.apache.org/build-utils.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

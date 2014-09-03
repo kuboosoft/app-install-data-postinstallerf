@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opencc</b>'
+Comment='<span size="xx-large">Libraries for Simplified-Traditional Chinese Conversion</span>'
+Comment3='
+OpenCC is a library for converting characters and phrases between
+Traditional Chinese and Simplified Chinese.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/opencc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

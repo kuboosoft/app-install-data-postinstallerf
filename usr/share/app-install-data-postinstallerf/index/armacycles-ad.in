@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>armacycles-ad</b>'
+Comment='<span size="xx-large">A lightcycle game in 3D</span>'
+Comment3='
+In this game you ride a lightcycle; that is a sort of motorbike that
+cannot be stopped and leaves a wall behind it. The main goal of the game
+is to make your opponents lightcycles crash into a wall while avoiding
+the same fate.
+The focus of the game lies on the multiplayer mode, but it provides
+challanging AI opponents for a quick training match.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://armagetronad.sf.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

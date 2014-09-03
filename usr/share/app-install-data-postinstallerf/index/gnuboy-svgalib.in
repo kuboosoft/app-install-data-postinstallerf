@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gnuboy-svgalib</b>'
+Comment='<span size="xx-large">Nintendo GameBoy Color emulator (svgalib version)</span>'
+Comment3='
+gnuboy (all lowercase) is a portable program for emulating the Nintendo
+GameBoy Color software platform. gnuboy is Free Software, distributed
+under the terms of the GNU General Public License. Our goal is to provide
+a great emulator that runs on many platforms and is accessible for
+everyones enjoyment.
+
+This is the svgalib version.
+'
+License='GPLv2'
+under the terms of the GNU General Public License. Our goal is to provide'
+Screenshot=''
+Url='http://brightrain.aerifal.cx/~laguna/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

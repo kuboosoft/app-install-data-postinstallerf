@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ocaml-sqlite</b>'
+Comment='<span size="xx-large">OCaml library for accessing SQLite3 databases</span>'
+Comment3='
+SQLite 3 database library wrapper for OCaml.
+'
+License='BSD'
+Screenshot=''
+Url='https://bitbucket.org/mmottl/sqlite3-ocaml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

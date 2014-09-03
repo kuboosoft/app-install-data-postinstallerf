@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-copyrightbox</b>'
+Comment='<span size="xx-large">Provide copyright notices for images in a document</span>'
+Comment3='
+The package command \copyrightbox[<placement>]{<image
+command>}{<text>}, which places the text as a copyright notice
+relating to the matter created by the image command.
+
+date 2011-12-11 191548 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

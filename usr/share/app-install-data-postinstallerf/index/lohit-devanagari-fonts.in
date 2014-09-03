@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lohit-devanagari-fonts</b>'
+Comment='<span size="xx-large">Free Devanagari Script Font</span>'
+Comment3='
+This package provides a free Devanagari Script TrueType/OpenType font.
+'
+License='OFL'
+Screenshot=''
+Url='https://fedorahosted.org/lohit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

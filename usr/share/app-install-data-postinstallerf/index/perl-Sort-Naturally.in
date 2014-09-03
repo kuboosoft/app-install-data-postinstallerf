@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Sort-Naturally</b>'
+Comment='<span size="xx-large">Sort lexically, but sort numeral parts numerically</span>'
+Comment3='
+This module exports two functions, nsort and ncmp; they are used in
+implementing my idea of a "natural sorting" algorithm. Under natural
+sorting, numeric substrings are compared numerically, and other
+word-characters are compared lexically.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sort-Naturally'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

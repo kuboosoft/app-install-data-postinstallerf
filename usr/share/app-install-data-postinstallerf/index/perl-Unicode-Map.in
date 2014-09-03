@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Unicode-Map</b>'
+Comment='<span size="xx-large">Perl module for mapping charsets from and to utf16 unicode</span>'
+Comment3='
+This module converts strings from and to 2-byte Unicode UCS2
+format. All mappings happen via 2 byte UTF16 encodings, not via 1 byte
+UTF8 encoding. To convert between UTF8 and UTF16 use UnicodeString.
+For historical reasons this module coexists with UnicodeMap8.
+Please use UnicodeMap8 unless you need to care for >1 byte character
+sets, e.g. chinese GB2312. Anyway, if you stick to the basic
+functionality (see documentation) you can use both modules
+equivalently.
+Practically this module will disappear from earth sooner or later as
+Unicode mapping support needs somehow to get into perls core. If you
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Unicode-Map/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mono-debugger-devel</b>'
+Comment='<span size="xx-large">Development files for mono-debugger</span>'
+Comment3='
+Development package for mono-debugger
+
+URL          http//www.mono-project.com/Main_Page
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Encode-JIS2K</b>'
+Comment='<span size="xx-large">JIS X 0212 (aka JIS 2000) Encodings</span>'
+Comment3='
+This module implements encodings that covers JIS X 0213 charset (AKA JIS 2000,
+hence the module name).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Encode-JIS2K/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

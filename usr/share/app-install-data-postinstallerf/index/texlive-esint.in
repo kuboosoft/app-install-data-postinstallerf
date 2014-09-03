@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-esint</b>'
+Comment='<span size="xx-large">Extended set of integrals for Computer Modern</span>'
+Comment3='
+The esint package permits access to alternate integral symbols
+when youre using the Computer Modern fonts. In the original
+set, several integral symbols are missing, such as \oiint. Many
+of these symbols are available in other font sets (pxfonts,
+txfonts, etc.), but there is no good solution if you want to
+use Computer Modern. The package provides Metafont source and
+LaTeX macro support.
+
+date 2006-10-27 000951 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

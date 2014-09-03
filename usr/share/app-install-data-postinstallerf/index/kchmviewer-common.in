@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kchmviewer-common</b>'
+Comment='<span size="xx-large">Common data files for KchmViewer.</span>'
+Comment3='
+Common data files for KchmViewer.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.kchmviewer.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

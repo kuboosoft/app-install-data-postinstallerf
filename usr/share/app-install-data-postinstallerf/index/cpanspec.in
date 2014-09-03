@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>cpanspec</b>'
+Comment='<span size="xx-large">RPM spec file generation utility</span>'
+Comment3='
+cpanspec generates spec files (and, optionally, source or even binary
+packages) for Perl modules from CPAN for Fedora.  The quality of the spec
+file is our primary concern.  It is assumed that maintainers will need to
+do some (hopefully small) amount of work to clean up the generated spec
+file to make the package build and to verify that all of the information
+contained in the spec file is correct.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://cpanspec.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Crypt-Twofish</b>'
+Comment='<span size="xx-large">Twofish Encryption Algorithm</span>'
+Comment3='
+Twofish is a 128-bit symmetric block cipher with a variable length (128,
+192, or 256-bit) key, developed by Counterpane Labs. It is unpatented and
+free for all uses, as described at http//www.counterpane.com/twofish.html.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Crypt-Twofish/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

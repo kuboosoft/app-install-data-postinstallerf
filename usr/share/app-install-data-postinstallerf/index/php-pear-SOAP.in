@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-pear-SOAP</b>'
+Comment='<span size="xx-large">Simple Object Access Protocol (SOAP) Client/Server for PHP</span>'
+Comment3='
+Implementation of Simple Object Access Protocol (SOAP) protocol and services.
+'
+License='PHP'
+Screenshot=''
+Url='http://pear.php.net/package/SOAP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

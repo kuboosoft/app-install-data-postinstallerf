@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tk</b>'
+Comment='<span size="xx-large">The graphical toolkit for the Tcl scripting language</span>'
+Comment3='
+When paired with the Tcl scripting language, Tk provides a fast and powerful
+way to create cross-platform GUI applications.
+
+'
+License='TCL'
+Screenshot=''
+Url='http://tcl.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

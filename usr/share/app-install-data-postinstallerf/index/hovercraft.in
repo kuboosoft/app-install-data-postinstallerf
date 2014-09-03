@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>hovercraft</b>'
+Comment='<span size="xx-large">Makes impress.js presentations from reStructuredText</span>'
+Comment3='
+The merge of convenience and cool!
+
+Hovercraft is a tool to make impress.js presentations from
+reStructuredText.
+- Write your presentations in a text markup language. No slow, limiting
+  GUI, no annoying HTML!
+- Pan, rotate and zoom in 3D, with automatic repositioning of slides!
+- A presenter console with notes and slide previews!
+- The slide show generated is in HTML, so you only need a web browser to
+'
+License='CC0 and BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/hovercraft'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

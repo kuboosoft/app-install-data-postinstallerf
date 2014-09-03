@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pygobject3-base</b>'
+Comment='<span size="xx-large">Python 2 bindings for GObject Introspection base package</span>'
+Comment3='
+This package provides the non-cairo specific bits of the GObject Introspection
+library.
+
+'
+License='LGPLv2+ and MIT'
+Screenshot=''
+Url='https://live.gnome.org/PyGObject'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

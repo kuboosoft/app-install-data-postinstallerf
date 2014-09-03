@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tempest-gnome-screensaver</b>'
+Comment='<span size="xx-large">GNOME screensaver support for tempest</span>'
+Comment3='
+Tempest is a screensaver based on a physical model whereby particles are
+attracted to their neighbors. This package contains the files needed to use the
+hack with gnome-screensaver.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.personal.utulsa.edu/~dan-guernsey'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

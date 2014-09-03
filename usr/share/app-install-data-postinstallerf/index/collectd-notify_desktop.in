@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>collectd-notify_desktop</b>'
+Comment='<span size="xx-large">Notify desktop plugin for collectd</span>'
+Comment3='
+This plugin sends a desktop notification to a notification daemon,
+as defined in the Desktop Notification Specification.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

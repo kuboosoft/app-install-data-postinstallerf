@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>foo2hiperc</b>'
+Comment='<span size="xx-large">Linux printer driver for HIPERC protocol (Oki C3400n etc.)</span>'
+Comment3='
+foo2hiperc is an open source printer driver for printers that use the
+HIPERC wire protocol for their print data, such as the Oki C3400n and
+the Oki C5500n.
+
+NOTE This driver is currently in Alpha and supports uncompressed mode
+only.
+Users of this package are requested to visit the authors web page at
+http//foo2hiperc.rkkda.com/ and consider contributing.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://foo2zjs.rkkda.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

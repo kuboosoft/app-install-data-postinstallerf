@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libicns-utils</b>'
+Comment='<span size="xx-large">Utilities for libicns</span>'
+Comment3='
+icns2png - convert Mac OS icns files to png images
+png2icns - convert png images to Mac OS icns files
+icontainer2icns - extract icns files from icontainers
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://icns.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

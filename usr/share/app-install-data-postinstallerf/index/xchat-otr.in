@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xchat-otr</b>'
+Comment='<span size="xx-large">Off-The-Record messaging plugin for xchat</span>'
+Comment3='
+This provides a module which implements Off-The-Record (OTR) Messaging
+for X-Chat.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://irssi-otr.tuxfamily.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

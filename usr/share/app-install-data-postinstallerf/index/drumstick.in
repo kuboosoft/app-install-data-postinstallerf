@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>drumstick</b>'
+Comment='<span size="xx-large">C++/Qt4 wrapper around the ALSA library sequencer interface</span>'
+Comment3='
+The drumstick library is a C++ wrapper around the ALSA library sequencer
+interface, using Qt4 objects, idioms and style. The ALSA sequencer interface
+provides software support for MIDI technology on GNU/Linux.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drumstick.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

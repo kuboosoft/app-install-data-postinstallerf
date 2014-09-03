@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>oscap-anaconda-addon</b>'
+Comment='<span size="xx-large">Anaconda addon integrating OpenSCAP to the installation process</span>'
+Comment3='
+This is an addon that integrates OpenSCAP utilities with the Anaconda installer
+and allows installation of systems following restrictions given by a SCAP
+content.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://git.fedorahosted.org/cgit/oscap-anaconda-addon.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

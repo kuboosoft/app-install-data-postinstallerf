@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>avgtime</b>'
+Comment='<span size="xx-large">Time a command and print average, standard deviation</span>'
+Comment3='
+avgtime works like the Linux time command, except it runs the
+command repeatedly and displays statistics
+
+- median
+- average
+- standard deviation
+- 95% and 99% confidence intervals
+'
+License='Boost'
+Screenshot=''
+Url='https://github.com/jmcabo/avgtime'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

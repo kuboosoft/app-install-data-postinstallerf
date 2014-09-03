@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-yard</b>'
+Comment='<span size="xx-large">Documentation tool for consistent and usable documentation in Ruby</span>'
+Comment3='
+YARD is a documentation generation tool for the Ruby programming language.
+It enables the user to generate consistent, usable documentation that can be
+exported to a number of formats very easily, and also supports extending for
+custom Ruby constructs such as custom class level definitions.
+'
+License='MIT and (GPLv2 or Ruby)'
+Screenshot=''
+Url='http://yardoc.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

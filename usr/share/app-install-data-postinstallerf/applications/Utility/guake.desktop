@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=postinstaller -n guake
+Name=Guake Terminal
+Name[pt]=Guake Terminal
+Name[pt_BR]=Guake Terminal
+Comment=Use the command line in a Quake-like terminal
+Comment[pt]=Utilizar a linha de comando em um terminal estilo Quake
+Comment[pt_BR]=Utilizar a linha de comando em um terminal estilo Quake
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_guake_guake.png
+Type=Application
+Categories=GNOME;GTK;Utility;TerminalEmulator;
+StartupNotify=true

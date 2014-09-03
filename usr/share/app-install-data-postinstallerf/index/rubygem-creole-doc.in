@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-creole-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-creole</span>'
+Comment3='
+Documentation for rubygem-creole
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='https://github.com/minad/creole'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

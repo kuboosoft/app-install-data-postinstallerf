@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-gd</b>'
+Comment='<span size="xx-large">A module for PHP applications for using the gd graphics library</span>'
+Comment3='
+The php-gd package contains a dynamic shared object that will add
+support for using the gd graphics library to PHP.
+'
+License='PHP'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

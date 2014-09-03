@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dh-make</b>'
+Comment='<span size="xx-large">Tool that converts source archives into Debian package source</span>'
+Comment3='
+This package allows you to take a standard (or upstream) source
+package and convert it into a format that will allow you to build
+Debian packages.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://packages.qa.debian.org/d/dh-make.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

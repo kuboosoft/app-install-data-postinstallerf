@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kernelshark</b>'
+Comment='<span size="xx-large">GUI analysis for Ftrace data captured by trace-cmd</span>'
+Comment3='
+Kernelshark is the GUI frontend for analyzing data produced by
+trace-cmd extract
+'
+License='GPLv2 and LGPLv2'
+Screenshot=''
+Url='http://git.kernel.org/?p=linux/kernel/git/rostedt/trace-cmd.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

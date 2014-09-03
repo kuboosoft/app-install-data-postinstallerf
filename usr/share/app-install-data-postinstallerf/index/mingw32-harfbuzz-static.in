@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-harfbuzz-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows Harfbuzz library</span>'
+Comment3='
+Static version of the MinGW Windows Harfbuzz library.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.harfbuzz.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

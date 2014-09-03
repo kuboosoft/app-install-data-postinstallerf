@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kcm_touchpad</b>'
+Comment='<span size="xx-large">Synaptics driver based touchpads kcontrol module</span>'
+Comment3='
+A KDE System Settings module to to configure synaptics based touchpads.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://kde-apps.org/content/show.php/kcm_touchpad?content=113335'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

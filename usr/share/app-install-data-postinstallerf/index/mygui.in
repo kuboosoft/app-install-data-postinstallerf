@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mygui</b>'
+Comment='<span size="xx-large">Fast, simple and flexible GUI library for Ogre</span>'
+Comment3='
+MyGUI is a GUI library for Ogre Rendering Engine which aims to be fast,
+flexible and simple in using.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://mygui.info/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

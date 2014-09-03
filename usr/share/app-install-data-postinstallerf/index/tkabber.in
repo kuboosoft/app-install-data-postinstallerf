@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>tkabber</b>'
+Comment='<span size="xx-large">Client for the Jabber instant messaging system</span>'
+Comment3='
+Tkabber is a Free and Open Source client for the Jabber
+instant messaging system. Its written in Tcl/Tk, and
+works on many platforms. The choice of Tcl/Tk for a Jabber
+client is three-fold
+* it is portable once you install a Tcl/Tk interpreter on
+  your system, the Tkabber script "just runs" ? without having
+  to compile anything;
+* it is customizable Tkabber reads a configuration file when
+  it starts that tells it the settings of various parameters; and,
+* it is extensible the configuration file is actually a Tcl
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tkabber.jabber.ru/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

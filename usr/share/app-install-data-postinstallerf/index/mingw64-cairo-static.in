@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-cairo-static</b>'
+Comment='<span size="xx-large">Static version of the MinGW Windows Cairo library</span>'
+Comment3='
+Static version of the MinGW Windows Cairo library.
+'
+License='LGPLv2 or MPLv1.1'
+Screenshot=''
+Url='http://cairographics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

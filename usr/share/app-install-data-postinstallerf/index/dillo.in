@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dillo</b>'
+Comment='<span size="xx-large">Very small and fast GUI web browser</span>'
+Comment3='
+Dillo is a very small and fast web browser using GTK.
+Currently no frames,https,javascript.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.dillo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

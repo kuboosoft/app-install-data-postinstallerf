@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-signalfd</b>'
+Comment='<span size="xx-large">Python bindings to the Linux signalfd library/system call</span>'
+Comment3='
+The python-signalfd package is a simple wrapper around the POSIX sigprocmask(2)
+and the Linux signalfd(2) platform APIs, providing very direct access to them.
+'
+License='MIT'
+Screenshot=''
+Url='https://launchpad.net/python-signalfd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

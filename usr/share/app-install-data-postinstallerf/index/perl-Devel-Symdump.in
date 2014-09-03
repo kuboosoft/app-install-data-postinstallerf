@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Devel-Symdump</b>'
+Comment='<span size="xx-large">A Perl module for inspecting Perls symbol table</span>'
+Comment3='
+The perl module DevelSymdump provides a convenient way to inspect
+perls symbol table and the class hierarchy within a running program.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Symdump/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

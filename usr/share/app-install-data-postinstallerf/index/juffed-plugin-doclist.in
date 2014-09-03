@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>juffed-plugin-doclist</b>'
+Comment='<span size="xx-large">DocList plugin for juffed</span>'
+Comment3='
+Opened documents dock plugin.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.juffed.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

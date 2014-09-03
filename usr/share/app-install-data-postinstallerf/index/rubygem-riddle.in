@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-riddle</b>'
+Comment='<span size="xx-large">An API for Sphinx, written in and for Ruby</span>'
+Comment3='
+A Ruby API and configuration helper for the Sphinx search service.
+'
+License='MIT'
+Screenshot=''
+Url='http://pat.github.io/riddle/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

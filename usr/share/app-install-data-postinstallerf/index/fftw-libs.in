@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fftw-libs</b>'
+Comment='<span size="xx-large">FFTW run-time library</span>'
+Comment3='
+This is a dummy package package, pulling in the individual FFTW
+run-time libraries.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.fftw.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

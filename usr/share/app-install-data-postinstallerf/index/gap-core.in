@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gap-core</b>'
+Comment='<span size="xx-large">GAP core components</span>'
+Comment3='
+This package contains the core GAP system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gap-system.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

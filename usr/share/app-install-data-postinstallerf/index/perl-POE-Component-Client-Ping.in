@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-Client-Ping</b>'
+Comment='<span size="xx-large">Non-blocking ICMP ping client</span>'
+Comment3='
+POEComponentClientPing is non-blocking ICMP ping client. It lets
+several other sessions ping through it in parallel, and it lets them
+continue doing other things while they wait for responses.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-Client-Ping/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

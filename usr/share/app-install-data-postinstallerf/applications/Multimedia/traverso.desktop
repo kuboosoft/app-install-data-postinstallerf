@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n traverso
+GenericName=Multitrack Recorder
+GenericName[de]=Multitrack Recorder
+Icon=/usr/share/app-install-data-postinstallerf/icons/traverso.png
+Type=Application
+Terminal=false
+Name=Traverso
+Categories=Qt;AudioVideo;Audio;Recorder;

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>drupal7-tmgmt</b>'
+Comment='<span size="xx-large">Translation Management Tool</span>'
+Comment3='
+The Translation Management Tool (TMGMT) module provides a tool set for
+translating content from different sources. The translation can be done
+by people or translation services of all kinds. It builds on and uses
+existing language tools and data structures in Drupal and can be used
+in automated workflow scenarios.
+
+This module does not make i18n or any other language module for Drupal
+obsolete. It does only facilitate the translation process.
+The second alpha has been released, huge improvements have been made
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/tmgmt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

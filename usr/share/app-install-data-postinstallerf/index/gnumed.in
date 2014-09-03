@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>gnumed</b>'
+Comment='<span size="xx-large">The GNUmed client</span>'
+Comment3='
+This is the GNUmed Electronic Medical Record.
+Its purpose is to enable doctors to keep a medically sound record
+on their patients health. Currently it is not fully featured. The
+features provided are, however, tested, in use, and considered
+stable. This package does NOT yet provide functionality for billing
+and stock keeping.
+
+While the GNUmed team has taken the utmost care to make sure the
+medical records are safe at all times you still need to make sure
+you are taking appropriate steps to backup the medical data to a
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.gnumed.de'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

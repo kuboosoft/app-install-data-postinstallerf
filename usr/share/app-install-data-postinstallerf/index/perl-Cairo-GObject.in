@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Cairo-GObject</b>'
+Comment='<span size="xx-large">Cairo::GObject Perl module</span>'
+Comment3='
+Perl module to integrate Cairo into the Glib type system.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Cairo-GObject/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

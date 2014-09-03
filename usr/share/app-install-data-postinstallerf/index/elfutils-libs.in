@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>elfutils-libs</b>'
+Comment='<span size="xx-large">Libraries to handle compiled objects</span>'
+Comment3='
+The elfutils-libs package contains libraries which implement DWARF, ELF,
+and machine-specific ELF handling.  These libraries are used by the programs
+in the elfutils package.  The elfutils-devel package enables building
+other programs using these libraries.
+
+'
+License='GPLv2+ or LGPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/elfutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

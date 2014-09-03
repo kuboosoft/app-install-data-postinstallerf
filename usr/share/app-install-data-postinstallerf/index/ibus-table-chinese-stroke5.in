@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-table-chinese-stroke5</b>'
+Comment='<span size="xx-large">Stroke 5 input method</span>'
+Comment3='
+Erbi input method.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

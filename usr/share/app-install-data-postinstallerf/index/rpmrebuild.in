@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rpmrebuild</b>'
+Comment='<span size="xx-large">A tool to build rpm file from rpm database</span>'
+Comment3='
+A tool to build an RPM file from a package that has already been installed.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://rpmrebuild.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

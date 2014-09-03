@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Compress</b>'
+Comment='<span size="xx-large">Horde Compression API</span>'
+Comment3='
+An API for various compression techniques.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

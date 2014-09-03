@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>crossfire-client</b>'
+Comment='<span size="xx-large">Client for connecting to crossfire servers</span>'
+Comment3='
+Crossfire is a graphical role-playing adventure game with
+characteristics reminiscent of rogue, nethack, omega, and gauntlet.
+It has multiplayer capability and presently runs under X11.
+
+Client for playing the new client/server based version of Crossfire.
+This package allows you to connect to crossfire servers around the world.
+You do not need install the crossfire program in order to use this
+package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://crossfire.real-time.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

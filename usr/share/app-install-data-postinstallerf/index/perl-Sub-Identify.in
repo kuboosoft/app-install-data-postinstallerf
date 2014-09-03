@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Sub-Identify</b>'
+Comment='<span size="xx-large">Retrieve names of code references</span>'
+Comment3='
+SubIdentify allows you to retrieve the real name of code references. For
+this, it uses Perls introspection mechanism, provided by the B module.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sub-Identify/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

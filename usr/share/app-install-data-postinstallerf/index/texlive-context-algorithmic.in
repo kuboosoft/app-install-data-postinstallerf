@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-context-algorithmic</b>'
+Comment='<span size="xx-large">Algorithm handling in ConTeXt</span>'
+Comment3='
+Support for typesetting algorithms (a port of the LaTeX package
+algorithmic, which was a predecessor of algorithmicx).
+
+date 2013-06-05 113228 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

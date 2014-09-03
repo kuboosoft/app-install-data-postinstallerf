@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>cylindrix</b>'
+Comment='<span size="xx-large">A 3 degrees of freedom combat game</span>'
+Comment3='
+Cylindrix is a 3-on-3 combat game with 360 degrees of freedom that is
+similar to Spectre VR but with a wider variety of ships, as well as the
+addition of drivers. Attack and be attacked from all angles as you battle
+in huge orbiting arenas that are each unique in physics, atmospheric
+conditions, and configuration. You must build your team from 37 warriors
+from 10 alien races and select from 8 vehicles, each with unique
+maneuverability, speed, and firepower. The graphics are good, although
+structure and ship graphics are a little too monotonous. Gameplay is fast
+and furious... so furious, in fact, that it is difficult to differentiate
+between friend and foe in the thick of battle. For those who are confident
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.hardgeus.com/cylindrix/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-repoze-what</b>'
+Comment='<span size="xx-large">Authorization for WSGI applications</span>'
+Comment3='
+`repoze.what` is an `authorization framework` for WSGI applications,
+based on `repoze.who` (which deals with `authentication`).
+
+On the one hand, it enables an authorization system based on the groups to
+which the `authenticated or anonymous` user belongs and the permissions granted
+to such groups by loading these groups and permissions into the request on the
+way in to the downstream WSGI application.
+And on the other hand, it enables you to manage your groups and permissions
+from the application itself or another program, under a backend-independent
+'
+License='BSD'
+Screenshot=''
+Url='http://pypi.python.org/pypi/repoze.what'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

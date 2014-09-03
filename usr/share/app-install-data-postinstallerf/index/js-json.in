@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>js-json</b>'
+Comment='<span size="xx-large">An implementation of JSON encoders/decoders in JavaScript</span>'
+Comment3='
+JSON is a light-weight, language independent, data interchange format.
+See http//www.JSON.org/
+
+This software is an implementation of JSON encoders/decoders in Javascript.
+json2.js This file creates a JSON property in the global object, if there
+isnt already one, setting its value to an object containing a stringify
+method and a parse method. The parse method uses the eval method to do the
+parsing, guarding it with several regular expressions to defend against
+accidental code execution hazards. On current browsers, this file does nothing,
+'
+License='Public Domain'
+Screenshot=''
+Url='https://github.com/douglascrockford/JSON-js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

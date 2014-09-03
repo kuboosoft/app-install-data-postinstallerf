@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-processor-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for maven-processor-plugin</span>'
+Comment3='
+This package contains javadoc for maven-processor-plugin.
+'
+License='LGPLv3 and ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/maven-annotation-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

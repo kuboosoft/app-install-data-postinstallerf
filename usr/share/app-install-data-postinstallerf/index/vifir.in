@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vifir</b>'
+Comment='<span size="xx-large">A viewer for electronic aviation charts</span>'
+Comment3='
+Vifir processes and displays electronic aviation charts produced by the U.S.
+National Aeronautical Charting Office in a similar way to an Electronic Flight
+Bag.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://vifir.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

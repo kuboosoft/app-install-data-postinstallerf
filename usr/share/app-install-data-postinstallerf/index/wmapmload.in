@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wmapmload</b>'
+Comment='<span size="xx-large">Wmapmload monitors your apm status in an lcd display fashion</span>'
+Comment3='
+Wmapmload monitors your apm status in an lcd display fashion
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tnemeth.free.fr/projets/dockapps.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

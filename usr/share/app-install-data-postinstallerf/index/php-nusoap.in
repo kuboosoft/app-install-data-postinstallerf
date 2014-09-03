@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-nusoap</b>'
+Comment='<span size="xx-large">SOAP Toolkit for PHP</span>'
+Comment3='
+NuSOAP is a rewrite of SOAPx4, provided by NuSphere and Dietrich Ayala. It is
+a set of PHP classes - no PHP extensions required - that allow developers to
+create and consume web services based on SOAP 1.1, WSDL 1.1 and HTTP 1.0/1.1.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://nusoap.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bouncycastle-mail</b>'
+Comment='<span size="xx-large">S/MIME and CMS libraries for Bouncy Castle</span>'
+Comment3='
+Bouncy Castle consists of a lightweight cryptography API and is a provider
+for the Java Cryptography Extension and the Java Cryptography Architecture.
+This library package offers additional classes, in particuar
+generators/processors for S/MIME and CMS, for Bouncy Castle.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.bouncycastle.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

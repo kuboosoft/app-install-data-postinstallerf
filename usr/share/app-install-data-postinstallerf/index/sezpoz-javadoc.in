@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sezpoz-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for sezpoz</span>'
+Comment3='
+This package contains the API documentation for sezpoz.
+'
+License='CDDL'
+Screenshot=''
+Url='http://sezpoz.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

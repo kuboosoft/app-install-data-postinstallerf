@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>samplv1</b>'
+Comment='<span size="xx-large">A polyphonic sampler synthesizer with stereo fx</span>'
+Comment3='
+samplv1 is a polyphonic sampler synthesizer with stereo fx.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/samplv1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

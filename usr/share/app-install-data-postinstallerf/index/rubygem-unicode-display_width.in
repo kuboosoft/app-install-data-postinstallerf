@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-unicode-display_width</b>'
+Comment='<span size="xx-large">Support for east_asian_width string widths</span>'
+Comment3='
+This gem adds String#display_size to get the display size of a string using
+EastAsianWidth.txt.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/janlelis/unicode-display_width'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

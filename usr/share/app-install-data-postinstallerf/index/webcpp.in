@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>webcpp</b>'
+Comment='<span size="xx-large">Convert C++ code to HTML</span>'
+Comment3='
+Web C Plus Plus is a command line utility that takes your source
+code, and converts it into an HTML file using a fully customizable
+syntax highlighting engine and colour schemes. This is useful if
+you want to post your code online and make it easier to read, or
+to make online programming tutorials.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://webcpp.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

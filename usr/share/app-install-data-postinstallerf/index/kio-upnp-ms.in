@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>kio-upnp-ms</b>'
+Comment='<span size="xx-large">UPnP mediaserver kio slave</span>'
+Comment3='
+This is the UPnP MediaServer KIO-slave for the KDE platform. It supports both
+browse and search based MediaServers and is able to perform various tasks on
+them, including running queries, listing directories and files and allowing
+KDE based applications transparent access to them. Being used for Amarok UPnP
+support, the slave features many developer friendly features which allow
+faster speed or easier handling while compromising on user-friendliness when
+used ?under the hood?.
+
+Functionality requires some user-intervention to re-enable the SOLID_UPNP
+backend, which is disabled in fedora by default due to many crashes
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/playground/base/kio-upnp-ms'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

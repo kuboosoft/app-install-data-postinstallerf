@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>system-switch-java</b>'
+Comment='<span size="xx-large">A tool for changing the default Java toolset</span>'
+Comment3='
+The system-switch-java package provides an easy-to-use tool to select
+the default Java toolset for the system.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/system-switch-java'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

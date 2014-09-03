@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-vegas</b>'
+Comment='<span size="xx-large">Create executable versions of Sinatra/Rack apps</span>'
+Comment3='
+Vegas aims to solve the simple problem of creating executable versions of
+Sinatra/Rack apps. It includes a class VegasRunner that wraps Rack/Sinatra
+applications and provides a simple command line interface and launching
+mechanism.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.quirkey.com/vegas/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

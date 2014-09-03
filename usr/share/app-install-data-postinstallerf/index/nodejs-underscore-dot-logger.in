@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-underscore-dot-logger</b>'
+Comment='<span size="xx-large">Cross-browser and Node.js empowered logging</span>'
+Comment3='
+Cross-browser and Node.js empowered logging.
+'
+License='MIT'
+Screenshot=''
+Url='https://npmjs.org/package/underscore.logger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openser-uri_radius</b>'
+Comment='<span size="xx-large">URI check using Radius server</span>'
+Comment3='
+URI check using Radius server
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sudoku-savant</b>'
+Comment='<span size="xx-large">Solve and generate sudoku puzzles through logical means</span>'
+Comment3='
+A simple GUI-driven application to solve and generate sudoku puzzles through
+logical means. Also supports manual solving, with pencil marks and cell
+coloring. Should be able to solve any standard sudoku from a newspaper
+or magazine.
+'
+License='GPL+'
+Screenshot=''
+Url='http://sourceforge.net/projects/sudoku-savant/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

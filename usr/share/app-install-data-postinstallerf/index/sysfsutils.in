@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sysfsutils</b>'
+Comment='<span size="xx-large">Utilities for interfacing with sysfs</span>'
+Comment3='
+This packages purpose is to provide a set of utilities for interfacing
+with sysfs.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/linux-diag/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

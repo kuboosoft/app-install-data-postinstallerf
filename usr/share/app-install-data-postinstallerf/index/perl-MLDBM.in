@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-MLDBM</b>'
+Comment='<span size="xx-large">Store multi-level hash structure in single level tied hash</span>'
+Comment3='
+This module can serve as a transparent interface to any TIEHASH package
+that is required to store arbitrary perl data, including nested references.
+Thus, this module can be used for storing references and other arbitrary
+data within DBM databases.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MLDBM/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

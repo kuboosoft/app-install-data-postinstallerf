@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Date-Parser</b>'
+Comment='<span size="xx-large">Horde Date Parser</span>'
+Comment3='
+Library for natural-language date parsing, with support for multiple
+languages and locales
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

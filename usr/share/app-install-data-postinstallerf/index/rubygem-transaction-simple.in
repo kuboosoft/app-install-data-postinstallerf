@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-transaction-simple</b>'
+Comment='<span size="xx-large">Simple object transaction support for Ruby</span>'
+Comment3='
+TransactionSimple provides a generic way to add active transaction support
+to objects. The transaction methods added by this module will work with most
+objects, excluding those that cannot be Marshal-ed (bindings, procedure
+objects, IO instances, or singleton objects).
+'
+License='MIT'
+Screenshot=''
+Url='http://trans-simple.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

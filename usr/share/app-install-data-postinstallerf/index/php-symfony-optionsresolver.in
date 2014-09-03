@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-symfony-optionsresolver</b>'
+Comment='<span size="xx-large">Symfony OptionsResolver Component</span>'
+Comment3='
+The OptionsResolver Component helps you configure objects with option arrays.
+It supports default values, option constraints and lazy options.
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com/doc/current/components/options_resolver.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

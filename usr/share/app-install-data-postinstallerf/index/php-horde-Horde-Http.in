@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Http</b>'
+Comment='<span size="xx-large">Horde HTTP libraries</span>'
+Comment3='
+This package provides a set of classes for making HTTP requests.
+
+Optional dependency php-pecl-http or php-pecl-http1
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

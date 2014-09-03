@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pybugz</b>'
+Comment='<span size="xx-large">Command line interface for Bugzilla written in Python</span>'
+Comment3='
+Pybugz was conceived as a tool to speed up the work-flow for Gentoo Linux
+contributors when dealing with bugs using Bugzilla.  By avoiding the clunky web
+interface, the user can search, isolate and contribute to the project very
+quickly.  Developers alike can easily extract attachments and close bugs
+comfortably from the command line.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/williamh/pybugz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

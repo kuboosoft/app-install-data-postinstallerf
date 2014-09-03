@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-syntrace</b>'
+Comment='<span size="xx-large">Labels for tracing in a syntax tree</span>'
+Comment3='
+This package adds support for for traces in trees created using
+either the synttree or the qtree package. The package provides
+two commands (\traceLabel and \traceReference) to set and use a
+trace.
+
+date 2007-03-13 152621 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

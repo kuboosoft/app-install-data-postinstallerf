@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-dltk-sdk</b>'
+Comment='<span size="xx-large">Eclipse DLTK SDK</span>'
+Comment3='
+Documentation and source for the Eclipse Dynamic Languages Toolkit (DLTK).
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/dltk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

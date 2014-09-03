@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Text-WrapI18N</b>'
+Comment='<span size="xx-large">Line wrapping with support for several locale setups</span>'
+Comment3='
+This is a module which intends to substitute TextWrap,
+which supports internationalized texts including
+ - multi-byte encodings such as UTF-8, EUC-JP, EUC-KR, GB2312, and Big5,
+ - full width characters like east Asian characters which appear in
+   UTF-8, EUC-JP, EUC-KR, GB2312, Big5, and so on,
+ - combining characters like diacritical marks which appear in UTF-8,
+   ISO-8859-11 (aka TIS-620), and so on, and
+ - languages which dont use white spaces between words, like Chinese
+   and Japanese.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-WrapI18N/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

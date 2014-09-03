@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-cairo</b>'
+Comment='<span size="xx-large">Ruby bindings for cairo</span>'
+Comment3='
+Ruby bindings for cairo. Cairo is a 2D graphics library with support for
+multiple output devices. Currently supported output targets include the
+X Window System, win32, and image buffers.
+'
+License='GPLv2 or Ruby'
+Screenshot=''
+Url='http://cairographics.org/rcairo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

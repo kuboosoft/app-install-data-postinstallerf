@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-cdt</b>'
+Comment='<span size="xx-large">Eclipse C/C++ Development Tools (CDT) plugin</span>'
+Comment3='
+Eclipse features and plugins that are useful for C and C++ development.
+'
+License='EPL and CPL'
+Screenshot=''
+Url='http://www.eclipse.org/cdt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

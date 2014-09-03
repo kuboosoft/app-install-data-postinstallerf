@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>motif-devel</b>'
+Comment='<span size="xx-large">Development libraries and header files</span>'
+Comment3='
+This is the Motif 2.3.4 development environment. It includes the
+header files and also static libraries necessary to build Motif applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.motifzone.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

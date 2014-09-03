@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ocaml-extlib</b>'
+Comment='<span size="xx-large">OCaml ExtLib additions to the standard library</span>'
+Comment3='
+ExtLib is a project aiming at providing a complete - yet small -
+standard library for the OCaml programming language. The purpose of
+this library is to add new functions to OCaml Standard Library
+modules, to modify some functions in order to get better performances
+or more safety (tail-recursive) but also to provide new modules which
+should be useful for the average OCaml programmer.
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://code.google.com/p/ocaml-extlib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

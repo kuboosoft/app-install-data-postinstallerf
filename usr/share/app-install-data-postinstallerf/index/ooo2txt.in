@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ooo2txt</b>'
+Comment='<span size="xx-large">Convert OpenOffice documents to simple text</span>'
+Comment3='
+ooo2txt converts OpenOffice documents to simple text.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ooo2txt.fr.st/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

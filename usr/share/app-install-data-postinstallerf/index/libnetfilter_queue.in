@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libnetfilter_queue</b>'
+Comment='<span size="xx-large">Netfilter queue userspace library</span>'
+Comment3='
+libnetfilter_queue is a userspace library providing an API to packets that have
+been queued by the kernel packet filter. It is is part of a system that
+deprecates the old ip_queue / libipq mechanism.
+
+libnetfilter_queue has been previously known as libnfnetlink_queue.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://netfilter.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

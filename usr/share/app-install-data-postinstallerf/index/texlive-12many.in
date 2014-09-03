@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-12many</b>'
+Comment='<span size="xx-large">Generalising mathematical index sets</span>'
+Comment3='
+In the discrete branches of mathematics and the computer
+sciences, it will only take some seconds before youre faced
+with a set like {1,...,m}. Some people write $1\ldotp\ldotp m$,
+others $\{j1\leq j\leq m\}$, and that journal youre
+submitting to might want something else entirely. The 12many
+package provides an interface that makes changing from one to
+another a one-line change.
+
+date 2008-10-03 010001 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

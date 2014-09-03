@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>googsystray</b>'
+Comment='<span size="xx-large">A system tray application for accessing various (online) Google apps</span>'
+Comment3='
+Googsystray is a system tray app for Google Voice, GMail, Google Calendar,
+Google Reader, and Google Wave. The idea is to be able to keep track of all
+that stuff without having to keep a bunch of browser tabs open, or constantly
+checking them. It notifies on new messages, alerts, etc., and provides basic
+services quickly (Reading or sending a new SMS message, or marking an email
+read, for example.)
+'
+License='GPLv3'
+Screenshot=''
+Url='http://googsystray.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

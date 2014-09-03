@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>non-session-manager</b>'
+Comment='<span size="xx-large">A session manager for JACK</span>'
+Comment3='
+non-session-manager is an audio project session manager. It preserves
+application state including JACK and MIDI connections between audio sessions.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://non.tuxfamily.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

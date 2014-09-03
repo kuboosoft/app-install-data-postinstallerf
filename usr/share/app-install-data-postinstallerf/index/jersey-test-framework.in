@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jersey-test-framework</b>'
+Comment='<span size="xx-large">Jersey Test Framework</span>'
+Comment3='
+Jersey Test Framework.
+'
+License='(CDDL or GPLv2 with exceptions) and ASL 2.0'
+Screenshot=''
+Url='http://jersey.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

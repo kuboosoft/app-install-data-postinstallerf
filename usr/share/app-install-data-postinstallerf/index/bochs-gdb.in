@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bochs-gdb</b>'
+Comment='<span size="xx-large">Bochs with support for debugging with gdb</span>'
+Comment3='
+Special version of bochs compiled with a gdb stub so that the software running
+inside the emulator can be debugged with gdb.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://bochs.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

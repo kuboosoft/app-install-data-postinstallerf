@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-mailing</b>'
+Comment='<span size="xx-large">Macros for mail merging</span>'
+Comment3='
+This package is for use when sending a large number of letters,
+all with the same body text. The packages \addressfile command
+is used to specify who the letters to be sent to; the body of
+the \mailingtext command specifies the text of the letters,
+possibly using macros defined in the \addressfile.
+
+date 2006-12-28 005712 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

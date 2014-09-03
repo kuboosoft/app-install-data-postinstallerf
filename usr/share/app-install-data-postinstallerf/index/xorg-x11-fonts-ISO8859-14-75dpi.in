@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xorg-x11-fonts-ISO8859-14-75dpi</b>'
+Comment='<span size="xx-large">ISO8859-14-75dpi fonts</span>'
+Comment3='
+Contains a set of 75dpi fonts in the ISO8859-14 encoding which
+provide Welsh support.
+'
+License='MIT and Lucida and Public Domain'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

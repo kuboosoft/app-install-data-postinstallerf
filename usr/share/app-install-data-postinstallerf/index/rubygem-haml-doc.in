@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-haml-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-haml</span>'
+Comment3='
+Documentation for rubygem-haml
+'
+License='MIT and WTFPL'
+Screenshot=''
+Url='http://haml-lang.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

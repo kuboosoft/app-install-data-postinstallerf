@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>novnc</b>'
+Comment='<span size="xx-large">VNC client using HTML5 (Web Sockets, Canvas) with encryption support</span>'
+Comment3='
+Websocket implementation of VNC client
+'
+License='GPLv3'
+Screenshot=''
+Url='https://github.com/kanaka/noVNC'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wesnoth-tools</b>'
+Comment='<span size="xx-large">Turn-based strategy game with a fantasy theme</span>'
+Comment3='
+This package contains the game editor and development tools.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.wesnoth.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

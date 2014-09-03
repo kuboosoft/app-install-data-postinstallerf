@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-parse-cron</b>'
+Comment='<span size="xx-large">Parses cron expressions and calculates the next occurrence</span>'
+Comment3='
+parses cron expressions and calculates the next occurrence
+after a given date
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/siebertm/parse-cron'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

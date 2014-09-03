@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-ctags</b>'
+Comment='<span size="xx-large">A wrapper to read tags library</span>'
+Comment3='
+A python wrapper to read tags library.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://code.google.com/p/python-ctags/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

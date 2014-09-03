@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>spacewalk-backend-package-push-server</b>'
+Comment='<span size="xx-large">Listener for rhnpush (non-XMLRPC version)</span>'
+Comment3='
+Listener for rhnpush (non-XMLRPC version)
+'
+License='GPLv2'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

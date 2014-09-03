@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-pgf-umlsd</b>'
+Comment='<span size="xx-large">Draw UML Sequence Diagrams</span>'
+Comment3='
+LaTeX macros to draw UML diagrams using pgf
+
+date 2011-02-03 130240 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>oorexx-libs</b>'
+Comment='<span size="xx-large">Libraries for ooRexx</span>'
+Comment3='
+Libraries for ooRexx.
+
+URL          http//www.oorexx.org
+'
+License='CPL'
+Screenshot=''
+Url='http://www.oorexx.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>lacewing</b>'
+Comment='<span size="xx-large">Arcade-style shoot-em-up</span>'
+Comment3='
+Arcade-style shoot-em-up where you can choose a type of ship and depending on
+the type of ship can pickup a number of upgrades during the game.
+
+Lacewing is an arcade-style shoot-em-up which plays a little bit like a cross
+between Spacewar and Centipede. It has a decidedly retro style to it. It has
+a single-player mode, and also co-operative and duel modes for two players
+(split-screen).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://users.olis.net.au/zel/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

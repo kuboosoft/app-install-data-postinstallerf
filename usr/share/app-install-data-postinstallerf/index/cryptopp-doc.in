@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cryptopp-doc</b>'
+Comment='<span size="xx-large">Documentation for cryptopp</span>'
+Comment3='
+Crypto++ Library is a free C++ class library of cryptographic schemes.
+
+This package contains documentation for cryptopp.
+'
+License='Boost'
+Screenshot=''
+Url='http://www.cryptopp.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

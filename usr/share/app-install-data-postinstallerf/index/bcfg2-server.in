@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bcfg2-server</b>'
+Comment='<span size="xx-large">Bcfg2 Server</span>'
+Comment3='
+Bcfg2 helps system administrators produce a consistent, reproducible,
+and verifiable description of their environment, and offers
+visualization and reporting tools to aid in day-to-day administrative
+tasks. It is the fifth generation of configuration management tools
+developed in the Mathematics and Computer Science Division of Argonne
+National Laboratory.
+
+It is based on an operational model in which the specification can be
+used to validate and optionally change the state of clients, but in a
+feature unique to bcfg2 the clients response to the specification can
+'
+License='BSD'
+Screenshot=''
+Url='http://bcfg2.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

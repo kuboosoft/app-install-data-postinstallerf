@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>shorewall-init</b>'
+Comment='<span size="xx-large">Initialization functionality and NetworkManager integration for Shorewall</span>'
+Comment3='
+This package adds additional initialization functionality to Shorewall in two
+ways. It allows the firewall to be closed prior to bringing up network
+devices. This insures that unwanted connections are not allowed between the
+time that the network comes up and when the firewall is started. It also
+integrates with NetworkManager and distribution ifup/ifdown systems to allow
+for event-driven startup and shutdown.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.shorewall.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

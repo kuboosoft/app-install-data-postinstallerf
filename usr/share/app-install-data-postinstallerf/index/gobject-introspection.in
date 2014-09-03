@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gobject-introspection</b>'
+Comment='<span size="xx-large">Introspection system for GObject-based libraries</span>'
+Comment3='
+GObject Introspection can scan C header and source files in order to
+generate introspection "typelib" files.  It also provides an API to examine
+typelib files, useful for creating language bindings among other
+things.
+
+'
+License='GPLv2+, LGPLv2+, MIT'
+Screenshot=''
+Url='http://live.gnome.org/GObjectIntrospection'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libvdpau-docs</b>'
+Comment='<span size="xx-large">Documentation for libvdpau</span>'
+Comment3='
+The libvdpau-docs package contains documentation for libvdpau.
+'
+License='MIT'
+Screenshot=''
+Url='http://freedesktop.org/wiki/Software/VDPAU'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

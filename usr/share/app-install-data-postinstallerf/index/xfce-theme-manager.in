@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>xfce-theme-manager</b>'
+Comment='<span size="xx-large">A theme manager for Xfce</span>'
+Comment3='
+A theme manager allowing easy configuration of themes,
+window borders, controls, icons and cursors for Xfce
+'
+License='GPLv3'
+Screenshot=''
+Url='http://xfce-look.org/content/show.php?content=149647'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

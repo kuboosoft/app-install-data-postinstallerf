@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>openlmi-software</b>'
+Comment='<span size="xx-large">CIM providers for software management</span>'
+Comment3='
+The openlmi-software package contains CMPI providers for management of software
+through yum package manager with Common Information Managemen (CIM) protocol.
+
+The providers can be registered in any CMPI-aware CIMOM, both OpenPegasus and
+SFCB were tested.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

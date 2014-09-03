@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-shakespeare-i18n-devel</b>'
+Comment='<span size="xx-large">Haskell shakespeare-i18n library development files</span>'
+Comment3='
+This package provides the Haskell shakespeare-i18n library development
+files.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/shakespeare-i18n'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

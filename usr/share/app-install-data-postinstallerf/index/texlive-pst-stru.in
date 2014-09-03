@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-stru</b>'
+Comment='<span size="xx-large">Civil engineering diagrams, using pstricks</span>'
+Comment3='
+Pst-stru is a PSTricks-based package to draw structural schemes
+in civil engineering analysis, for beams, portals, arches and
+piles.
+
+date 2008-08-23 002516 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

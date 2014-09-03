@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>monsterz</b>'
+Comment='<span size="xx-large">Puzzle game, similar to Bejeweled or Zookeeper</span>'
+Comment3='
+Monsterz is a little arcade puzzle game, similar to the famous Bejeweled or
+Zookeeper. The goal of the game is to create rows of similar monsters, either
+horizontally or vertically. The only allowed move is the swap of two adjacent
+monsters, on the condition that it creates a row of three or more. When
+alignments are cleared, pieces fall from the top of the screen to fill the
+board again. Chain reactions earn you even more points.
+'
+License='WTFPL'
+Screenshot=''
+Url='http://sam.zoy.org/monsterz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

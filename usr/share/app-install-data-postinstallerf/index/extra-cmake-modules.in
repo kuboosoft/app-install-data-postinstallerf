@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>extra-cmake-modules</b>'
+Comment='<span size="xx-large">Additional modules for CMake build system</span>'
+Comment3='
+Additional modules for CMake build system needed by KDE Frameworks.
+'
+License='BSD'
+Screenshot=''
+Url='http://community.kde.org/KDE_Core/Platform_11/Buildsystem/FindFilesSurvey'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

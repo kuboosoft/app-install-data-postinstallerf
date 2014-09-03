@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>appmenu-qt</b>'
+Comment='<span size="xx-large">Global application menu to Qt</span>'
+Comment3='
+This package allows Qt to export its menus over DBus.
+
+URL          http//launchpad.net/appmenu-qt
+'
+License='LGPLv2 with exceptions and GPLv3'
+Screenshot=''
+Url='http://launchpad.net/appmenu-qt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

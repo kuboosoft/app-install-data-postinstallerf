@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cfitsio-static</b>'
+Comment='<span size="xx-large">Static cfitsio library</span>'
+Comment3='
+Static cfitsio library; avoid use if possible.
+
+URL          http//heasarc.gsfc.nasa.gov/fitsio/
+'
+License='MIT'
+Screenshot=''
+Url='http://heasarc.gsfc.nasa.gov/fitsio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

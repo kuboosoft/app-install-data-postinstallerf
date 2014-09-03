@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ggobi</b>'
+Comment='<span size="xx-large">Open source visualization for exploring high-dimensional data</span>'
+Comment3='
+GGobi is an open source visualization program for
+exploring high-dimensional data. It provides highly dynamic
+and interactive graphics such as tours, as well as familiar
+graphics such as the scatterplot, barchart and parallel coordinates plots.
+Plots are interactive and linked with brushing and identification.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.ggobi.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

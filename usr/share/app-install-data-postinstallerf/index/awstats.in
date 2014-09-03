@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>awstats</b>'
+Comment='<span size="xx-large">Advanced Web Statistics</span>'
+Comment3='
+Advanced Web Statistics is a powerful and featureful tool that generates
+advanced web server graphic statistics. This server log analyzer works
+from command line or as a CGI and shows you all information your log contains,
+in graphical web pages. It can analyze a lot of web/wap/proxy servers like
+Apache, IIS, Weblogic, Webstar, Squid, ... but also mail or ftp servers.
+
+This program can measure visits, unique vistors, authenticated users, pages,
+domains/countries, OS busiest times, robot visits, type of files, search
+engines/keywords used, visits duration, HTTP errors and more...
+Statistics can be updated from a browser or your scheduler.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://awstats.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-xmlhash-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-xmlhash</span>'
+Comment3='
+Documentation for rubygem-xmlhash.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/coolo/xmlhash'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>junit-benchmarks-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for junit-benchmarks</span>'
+Comment3='
+This package contains javadoc for junit-benchmarks.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://labs.carrotsearch.com/junit-benchmarks.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

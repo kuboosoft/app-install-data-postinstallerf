@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ember</b>'
+Comment='<span size="xx-large">3D client for WorldForge</span>'
+Comment3='
+Ember is a client for MMORPGs using the WorldForge system.
+It uses the Ogre 3D engine with CEGUI.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.worldforge.org/dev/eng/clients/ember'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

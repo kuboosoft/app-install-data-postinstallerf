@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libxfce4util</b>'
+Comment='<span size="xx-large">Utility library for the Xfce4 desktop environment</span>'
+Comment3='
+This package includes basic utility non-GUI functions for Xfce4.
+
+URL          http//www.xfce.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

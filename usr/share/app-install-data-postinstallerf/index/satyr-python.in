@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>satyr-python</b>'
+Comment='<span size="xx-large">Python bindings for satyr</span>'
+Comment3='
+Python bindings for satyr.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/abrt/satyr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

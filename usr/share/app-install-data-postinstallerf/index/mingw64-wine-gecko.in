@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-wine-gecko</b>'
+Comment='<span size="xx-large">Gecko library for 64bit wine</span>'
+Comment3='
+Windows Gecko library required for Wine.
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://wiki.winehq.org/Gecko'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

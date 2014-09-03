@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libitl</b>'
+Comment='<span size="xx-large">Libraries for The Islamic Tools and Libraries Project</span>'
+Comment3='
+The Islamic Tools and Libraries (ITL) is a project
+to provide a plethora of useful Islamic tools and
+applications as well as a comprehensive feature-full
+Islam-centric library. The ITL project currently
+includes Hijri date, Muslim prayer times, and Qibla.
+
+This package contains the libraries for applications using ITL
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.arabeyes.org/project.php?proj=ITL'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dtdparser</b>'
+Comment='<span size="xx-large">A Java DTD Parser</span>'
+Comment3='
+DTD parsers for Java seem to be pretty scarce. Thats probably because
+DTD isnt valid XML. At some point, if/when XML Schema becomes widely
+accepted, no one will need DTD parsers anymore. Until then, you can
+use this library to parse a DTD.
+'
+License='LGPLv2+ or ASL 1.1'
+Screenshot=''
+Url='http://wutka.com/dtdparser.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

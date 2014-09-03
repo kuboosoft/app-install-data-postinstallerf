@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>okular-part</b>'
+Comment='<span size="xx-large">Okular kpart plugin</span>'
+Comment3='
+Okular kpart plugin.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/okular'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

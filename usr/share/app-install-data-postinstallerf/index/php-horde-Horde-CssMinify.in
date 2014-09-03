@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-CssMinify</b>'
+Comment='<span size="xx-large">CSS Minification</span>'
+Comment3='
+Abstracted interface to various CSS minification backends.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

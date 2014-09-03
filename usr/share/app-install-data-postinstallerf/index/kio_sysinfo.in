@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kio_sysinfo</b>'
+Comment='<span size="xx-large">KIO slave which shows basic system information</span>'
+Comment3='
+This is a sysinfo/ KIO slave, which shows basic system information often
+requested by users.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

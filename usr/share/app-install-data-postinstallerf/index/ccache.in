@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ccache</b>'
+Comment='<span size="xx-large">C/C++ compiler cache</span>'
+Comment3='
+ccache is a compiler cache.  It speeds up recompilation of C/C++ code
+by caching previous compiles and detecting when the same compile is
+being done again.  The main focus is to handle the GNU C/C++ compiler
+(GCC), but it may also work with compilers that mimic GCC good enough.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://ccache.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

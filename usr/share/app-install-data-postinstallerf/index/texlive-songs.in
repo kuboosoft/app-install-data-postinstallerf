@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-songs</b>'
+Comment='<span size="xx-large">Produce song books for church or fellowship</span>'
+Comment3='
+The package provides a means of producing beautiful song books
+for church or fellowship. It offers - a very easy chord-entry
+syntax; - multiple modes (words-only; words+chords; slides;
+handouts); - measure bars; - guitar tablatures; - automatic
+transposition; - scripture quotations; - multiple indexes
+(sorted by title, author, important lyrics, or scripture
+references); and - projector-style output generation, for
+interactive use. A set of example documents is provided.
+
+date 2012-04-22 213825 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

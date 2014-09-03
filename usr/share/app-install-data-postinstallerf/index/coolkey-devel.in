@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>coolkey-devel</b>'
+Comment='<span size="xx-large">CoolKey Applet libraries</span>'
+Comment3='
+Linux Driver support to access the CoolKey applet.
+
+URL          http//directory.fedora.redhat.com/wiki/CoolKey
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://directory.fedora.redhat.com/wiki/CoolKey'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-selectp</b>'
+Comment='<span size="xx-large">Select pages to be output</span>'
+Comment3='
+Defines a command \outputonly, whose argument is a list of
+pages to be output. With the command present (before
+\begin{document}), only those pages are output. This package
+was inspired by code published by Knuth in TUGboat 8(2) (July
+1987).
+
+date 2010-10-24 162358 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

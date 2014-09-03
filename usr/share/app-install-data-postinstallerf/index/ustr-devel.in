@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ustr-devel</b>'
+Comment='<span size="xx-large">Development files for ustr</span>'
+Comment3='
+ Header files for the Ustr string library, and the .so to link with.
+ Also includes a ustr.pc file for pkg-config usage.
+ Includes the ustr-import tool, for if you jsut want to include
+the code in your projects ... you dont have to link to the shared lib.
+
+'
+License='MIT or LGPLv2+ or BSD'
+Screenshot=''
+Url='http://www.and.org/ustr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

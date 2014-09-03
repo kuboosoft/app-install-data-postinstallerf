@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-estcpmm</b>'
+Comment='<span size="xx-large">Style for Munitions Management Project Reports</span>'
+Comment3='
+Provides a class which supports typesetting Cost and
+Performance Reports and Final Reports for Munitions Management
+Reports, US Environmental Security Technology Certification
+Program. The class was commissioned and paid for by US Army
+Corps of Engineers, Engineer Research and Development Center,
+3909 Halls Ferry Road, Vicksburg, MS 39180-6199.
+
+date 2010-03-04 234034 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

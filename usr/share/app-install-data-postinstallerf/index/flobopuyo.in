@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>flobopuyo</b>'
+Comment='<span size="xx-large">2-player falling bubbles game</span>'
+Comment3='
+A two-player falling bubbles game.  The goal is to make groups of four or more
+Puyos (colored bubbles) to make them explode and send bad ghost Puyos to your
+opponent.  You win the game if your opponent reaches the top of the board. You
+can play against computer or another human.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ios-software.com/?page=projet&quoi=29'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

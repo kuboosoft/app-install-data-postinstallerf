@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-dvidvi</b>'
+Comment='<span size="xx-large">Convert one DVI file into another</span>'
+Comment3='
+The output DVI files contents are specified by page selection
+commands; series of pages and page number ranges may be
+specified, as well as inclusions and exclusions.
+
+date 2012-05-07 183058 +0200
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

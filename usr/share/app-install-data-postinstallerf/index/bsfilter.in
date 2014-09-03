@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bsfilter</b>'
+Comment='<span size="xx-large">Bayesian spam filter</span>'
+Comment3='
+Bayesian spam filter.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.jp/projects/bsfilter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

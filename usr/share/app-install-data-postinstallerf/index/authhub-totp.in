@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>authhub-totp</b>'
+Comment='<span size="xx-large">TOTP plugin for authhub</span>'
+Comment3='
+authhub plugin for totp tokens
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/AuthHub'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

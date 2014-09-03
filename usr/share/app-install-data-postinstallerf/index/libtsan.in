@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libtsan</b>'
+Comment='<span size="xx-large">The Thread Sanitizer runtime library</span>'
+Comment3='
+This package contains the Thread Sanitizer library
+which is used for -fsanitize=thread instrumented programs.
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

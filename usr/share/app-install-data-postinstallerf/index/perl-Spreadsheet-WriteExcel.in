@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Spreadsheet-WriteExcel</b>'
+Comment='<span size="xx-large">Write formatted text and numbers to a cross-platform Excel binary file</span>'
+Comment3='
+The SpreadsheetWriteExcel module can be used to create a cross-
+platform Excel binary file. Multiple worksheets can be added to a
+workbook and formatting can be applied to cells. Text, numbers,
+formulas, hyperlinks and images can be written to the cells.
+
+The Excel file produced by this module is compatible with 97,
+2000, 2002 and 2003. Generated files are also compatible with the
+spreadsheet applications Gnumeric and OpenOffice.org.
+This module cannot be used to read an Excel file. See
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Spreadsheet-WriteExcel'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

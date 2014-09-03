@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>OpenEXR-devel</b>'
+Comment='<span size="xx-large">Headers and libraries for building apps that use OpenEXR</span>'
+Comment3='
+Headers and libraries for building apps that use OpenEXR.
+
+URL          http//www.openexr.com/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openexr.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-actionpack-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-actionpack</span>'
+Comment3='
+Documentation for rubygem-actionpack
+'
+License='MIT'
+Screenshot=''
+Url='http://www.rubyonrails.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nautilus-python</b>'
+Comment='<span size="xx-large">Python bindings for Nautilus</span>'
+Comment3='
+Python bindings for Nautilus
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

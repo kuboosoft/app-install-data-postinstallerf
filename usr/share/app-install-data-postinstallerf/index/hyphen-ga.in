@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-ga</b>'
+Comment='<span size="xx-large">Irish hyphenation rules</span>'
+Comment3='
+Irish hyphenation rules.
+'
+License='GPL+'
+Screenshot=''
+Url='http://borel.slu.edu/fleiscin/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

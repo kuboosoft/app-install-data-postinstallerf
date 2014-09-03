@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fedmsg-collectd</b>'
+Comment='<span size="xx-large">A fedmsg plugin for collectd</span>'
+Comment3='
+This package contains the fedmsg-collectd command which produces output
+suitable for consumption by a collectd plugin.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://github.com/ralphbean/fedmsg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

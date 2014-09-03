@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkdeedu</b>'
+Comment='<span size="xx-large">Libraries used by KDE Education applications</span>'
+Comment3='
+Libraries used by KDE Education applications.
+
+URL          https//projects.kde.org/projects/kde/kdeedu/libkdeedu
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdeedu/libkdeedu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-symfony-frameworkbundle</b>'
+Comment='<span size="xx-large">Symfony Framework Bundle</span>'
+Comment3='
+The FrameworkBundle contains most of the "base" framework functionality and can
+be configured under the framework key in your application configuration. This
+includes settings related to sessions, translation, forms, validation, routing
+and more.
+
+Configuration reference
+http//symfony.com/doc/current/reference/configuration/framework.html
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

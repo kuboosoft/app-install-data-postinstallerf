@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-mcaption</b>'
+Comment='<span size="xx-large">Put captions in the margin</span>'
+Comment3='
+The mcaption package provides an mcaption environment which
+puts figure or table captions in the margin. The package works
+with the standard classes and with the KOMA-Script document
+classes scrartcl, scrreprt and scrbook. The package requires
+the changepage package.
+
+date 2009-03-14 021831 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

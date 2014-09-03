@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openshift-origin-msg-common</b>'
+Comment='<span size="xx-large">Common msg components for OpenShift broker and node</span>'
+Comment3='
+Provides the common dependencies of the msg components
+for OpenShift broker and node
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.openshift.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>GLC_lib-devel</b>'
+Comment='<span size="xx-large">Development files for GLC_lib</span>'
+Comment3='
+The GLC_lib-devel package contains libraries and header files for
+developing applications that use GLC_lib.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.glc-lib.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

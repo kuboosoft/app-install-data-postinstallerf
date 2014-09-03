@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kwebkitpart</b>'
+Comment='<span size="xx-large">A KPart based on QtWebKit</span>'
+Comment3='
+KWebKitPart is a web browser component for KDE (KPart)
+based on (Qt)WebKit. You can use it for example for
+browsing the web in Konqueror.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/base/kwebkitpart'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

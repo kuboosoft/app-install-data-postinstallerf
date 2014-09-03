@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-bxdpx-beamer</b>'
+Comment='<span size="xx-large">Dvipdfmx extras for use with beamer</span>'
+Comment3='
+The package is a driver to support beamer Navigation symbols
+and \framezoomed regions when using dvipdfmx as PDF generator
+(e.g., as part of e-pTeX). The package does not define any
+user commands.
+
+date 2013-05-03 010317 +0200
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

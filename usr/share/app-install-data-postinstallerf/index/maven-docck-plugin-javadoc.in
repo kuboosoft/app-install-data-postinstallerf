@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-docck-plugin-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for maven-docck-plugin</span>'
+Comment3='
+API documentation for maven-docck-plugin.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-docck-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

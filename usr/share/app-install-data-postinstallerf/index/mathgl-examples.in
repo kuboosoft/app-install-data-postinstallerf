@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>mathgl-examples</b>'
+Comment='<span size="xx-large">Example illustration generators for mathgl</span>'
+Comment3='
+Binaries for generation examples of illustrations that could be
+prepared by mathgl.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mathgl.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

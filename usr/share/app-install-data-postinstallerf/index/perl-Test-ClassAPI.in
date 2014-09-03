@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Test-ClassAPI</b>'
+Comment='<span size="xx-large">Provides basic first-pass API testing for large class trees</span>'
+Comment3='
+Provides basic first-pass API testing for large class trees.
+
+For many APIs with large numbers of classes, it can be very useful to be
+able to do a quick once-over to make sure that classes, methods, and
+inheritance is correct, before doing more comprehensive testing.
+This module aims to provide such a capability.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-ClassAPI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

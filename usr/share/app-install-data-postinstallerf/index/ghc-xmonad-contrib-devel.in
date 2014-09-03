@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-xmonad-contrib-devel</b>'
+Comment='<span size="xx-large">Haskell xmonad-contrib library development files</span>'
+Comment3='
+This package provides the Haskell xmonad-contrib library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/xmonad-contrib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>yapeSDL</b>'
+Comment='<span size="xx-large">Yet another plus/4 emulator</span>'
+Comment3='
+YAPE is a rather decent plus/4 emulator. It has been developed for
+several years by now and it is available in Windows and
+multiplatform editions, although the latter lags several versions
+behind the first.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://yape.plus4.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

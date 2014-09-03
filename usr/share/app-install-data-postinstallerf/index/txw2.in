@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>txw2</b>'
+Comment='<span size="xx-large">Typed XML writer for Java</span>'
+Comment3='
+Typed XML writer for Java.
+'
+License='CDDL and GPLv2 with exceptions'
+Screenshot=''
+Url='https://txw.dev.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

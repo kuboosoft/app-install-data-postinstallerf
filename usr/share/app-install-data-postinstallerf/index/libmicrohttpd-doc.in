@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libmicrohttpd-doc</b>'
+Comment='<span size="xx-large">Documentation for libmicrohttpd</span>'
+Comment3='
+Doxygen documentation for libmicrohttpd and some example source code
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/libmicrohttpd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

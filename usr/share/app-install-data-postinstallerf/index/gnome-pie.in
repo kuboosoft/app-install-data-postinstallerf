@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnome-pie</b>'
+Comment='<span size="xx-large">A visual application launcher for Gnome</span>'
+Comment3='
+Gnome-Pie is a circular application launcher for Linux. It is made of
+several pies, each consisting of multiple slices. The user presses a
+key stroke which opens the desired pie. By activating one of its slices,
+applications may be launched, key presses may be simulated or files can
+be opened.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gnome-pie.simonschneegans.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

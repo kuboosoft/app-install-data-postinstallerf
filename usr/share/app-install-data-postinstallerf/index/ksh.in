@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ksh</b>'
+Comment='<span size="xx-large">The Original ATT Korn Shell</span>'
+Comment3='
+KSH-93 is the most recent version of the KornShell by David Korn of
+AT&T Bell Laboratories.
+KornShell is a shell programming language, which is upward compatible
+with "sh" (the Bourne Shell).
+'
+License='EPL'
+Screenshot=''
+Url='http://www.kornshell.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

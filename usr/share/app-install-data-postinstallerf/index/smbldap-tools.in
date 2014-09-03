@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>smbldap-tools</b>'
+Comment='<span size="xx-large">User and group administration tools for Samba/OpenLDAP</span>'
+Comment3='
+In conjunction with OpenLDAP and Samba-LDAP servers, this collection is useful
+to add, modify and delete users and groups, and to change Unix and Samba
+passwords. In those contexts they replace the system tools to manage users,
+groups and passwords.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gna.org/projects/smbldap-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

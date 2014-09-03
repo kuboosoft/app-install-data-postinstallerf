@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>java-atk-wrapper</b>'
+Comment='<span size="xx-large">Java ATK Wrapper</span>'
+Comment3='
+Java ATK Wrapper is a implementation of ATK by using JNI technic. It
+converts Java Swing events into ATK events, and send these events to
+ATK-Bridge.
+
+JAW is part of the Bonobo deprecation project. It will replaces the
+former java-access-bridge.
+By talking to ATK-Bridge, it keeps itself from being affected by the
+change of underlying communication mechanism.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.gnome.org/browse/java-atk-wrapper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

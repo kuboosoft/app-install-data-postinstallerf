@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-designer-libs</b>'
+Comment='<span size="xx-large">Libvirt configuration designer libraries</span>'
+Comment3='
+This package provides the libvirt configuration designer run-time
+libraries.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

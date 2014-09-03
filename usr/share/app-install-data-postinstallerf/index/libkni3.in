@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libkni3</b>'
+Comment='<span size="xx-large">C++ KNI library v3 for the Katana 300 robot arm</span>'
+Comment3='
+Katana Native Interface is a C++ library for programmers who would like to
+write their own programs, but dont want to implement the protocol and
+device stuff katana is using.
+
+This package contains the library for the Katana 300 series of the arm. For
+newer robots use libkni (version 4 and above).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.neuronics.ch/cms_de/web/index.php?id=386'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

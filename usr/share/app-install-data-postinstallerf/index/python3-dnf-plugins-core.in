@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-dnf-plugins-core</b>'
+Comment='<span size="xx-large">Core Plugins for DNF</span>'
+Comment3='
+Core Plugins for DNF, Python 3 version.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/akozumpl/dnf-plugins-core'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>cardpeek</b>'
+Comment='<span size="xx-large">Tool to read the contents of smart cards</span>'
+Comment3='
+Cardpeek is a tool to read the contents of ISO7816 smart cards. It
+features a GTK GUI to represent card data is a tree view, and is
+extendable with a scripting language (LUA).
+
+The tool currently reads the contents of
+    * EMV cards
+    * Calypso public transport cards (such as Navigo)
+    * Moneo ePurse cards
+    * Vitale 2 French health cards.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/cardpeek/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

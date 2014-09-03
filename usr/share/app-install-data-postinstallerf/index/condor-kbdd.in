@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>condor-kbdd</b>'
+Comment='<span size="xx-large">HTCondor Keyboard Daemon</span>'
+Comment3='
+The condor_kbdd monitors logged in X users for activity. It is only
+useful on systems where no device (e.g. /dev/*) can be used to
+determine console idle time.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.cs.wisc.edu/condor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

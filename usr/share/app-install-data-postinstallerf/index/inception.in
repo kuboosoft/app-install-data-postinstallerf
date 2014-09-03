@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>inception</b>'
+Comment='<span size="xx-large">A fireWire physical memory manipulation tool</span>'
+Comment3='
+Inception is a FireWire physical memory manipulation and hacking tool
+exploiting IEEE 1394 SBP-2 DMA. The tool can unlock (any password accepted)
+and escalate privileges to Administrator/root on almost any machine you have
+physical access to.
+
+Inception aims to provide a stable and easy way of performing intrusive and
+non-intrusive memory hacks on live computers using FireWire SBP-2 DMA. It is
+primarily intended to do its magic against computers that utilize full disk
+encryption such as BitLocker, FileVault, TrueCrypt or Pointsec.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.breaknenter.org/projects/inception/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

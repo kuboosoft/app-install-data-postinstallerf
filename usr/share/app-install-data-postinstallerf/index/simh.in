@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>simh</b>'
+Comment='<span size="xx-large">A highly portable, multi-system emulator</span>'
+Comment3='
+SIMH is a historical computer simulation system. It consists of simulators
+for many different computers, all written around a common user
+interface package and set of supporting libraries.
+SIMH can be used to simulate any computer system for which sufficient detail
+is available, but the focus to date has been on simulating computer systems
+of historic interest.
+
+SIMH implements simulators for
+* Data General Nova, Eclipse
+'
+License='MIT and GPL+'
+Screenshot=''
+Url='http://simh.trailing-edge.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

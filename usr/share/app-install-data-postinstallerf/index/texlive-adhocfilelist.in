@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-adhocfilelist</b>'
+Comment='<span size="xx-large">\listfiles entries from the command line</span>'
+Comment3='
+The package provides a Unix shell script to display a list of
+LaTeX \Provides...-command contexts on screen. Provision is
+made for controlling the searches that the package does. The
+package was developed on a Unix-like system, using (among other
+things) the gnu variant of the find command.
+
+date 2013-01-04 143354 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

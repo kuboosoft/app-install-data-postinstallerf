@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-B-Hooks-EndOfScope</b>'
+Comment='<span size="xx-large">Execute code after scope compilation finishes</span>'
+Comment3='
+This module allows you to execute code when Perl has finished compiling the
+surrounding scope.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/B-Hooks-EndOfScope/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

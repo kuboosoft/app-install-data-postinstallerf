@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>vlc-extras</b>'
+Comment='<span size="xx-large">VLC media player with extras modules</span>'
+Comment3='
+VLC media player extras modules.
+
+URL          http//www.videolan.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.videolan.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

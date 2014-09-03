@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsigrokdecode-devel</b>'
+Comment='<span size="xx-large">Development files for libsigrokdecode</span>'
+Comment3='
+The libsigrokdecode-devel package contains libraries and header files for
+developing applications that use libsigrokdecode.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.sigrok.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

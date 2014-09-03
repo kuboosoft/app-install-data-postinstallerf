@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>madplay</b>'
+Comment='<span size="xx-large">MPEG audio decoder and player</span>'
+Comment3='
+madplay is a command-line MPEG audio decoder and player based on the
+MAD library (libmad).  For details about MAD, see the separately
+distributed libmad package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.underbit.com/products/mad/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>Singular-devel</b>'
+Comment='<span size="xx-large">Singular development files</span>'
+Comment3='
+This package contains the Singular development files.
+
+URL          http//www.singular.uni-kl.de/
+'
+License='BSD and LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://www.singular.uni-kl.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

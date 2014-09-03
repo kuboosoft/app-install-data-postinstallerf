@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-zap</b>'
+Comment='<span size="xx-large">A tiny test runner</span>'
+Comment3='
+A tiny test runner. Each test is run in a separate node
+instance - zap require()s your module once to work out what
+tests are in it, then once for each test in a new node process.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/nornagon/node-zap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

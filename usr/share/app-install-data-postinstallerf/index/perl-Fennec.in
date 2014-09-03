@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Fennec</b>'
+Comment='<span size="xx-large">A testers toolbox, and best friend</span>'
+Comment3='
+Fennec ties together several testing-related modules and enhances their
+functionality in ways you dont get loading them individually. Fennec
+makes testing easier, and more useful.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='https://metacpan.org/release/Fennec'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

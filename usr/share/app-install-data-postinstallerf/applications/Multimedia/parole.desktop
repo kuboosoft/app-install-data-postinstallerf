@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n parole
+Name=Parole
+Name[it]=Parole
+Name[ja]=Parole
+Name[uk]=Parole
+Icon=/usr/share/app-install-data-postinstallerf/icons/parole.png
+Terminal=false
+Type=Application
+Categories=GTK;AudioVideo;Player;Video;
+StartupNotify=true

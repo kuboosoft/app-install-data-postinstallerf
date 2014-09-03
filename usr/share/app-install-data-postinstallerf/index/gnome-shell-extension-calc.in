@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-shell-extension-calc</b>'
+Comment='<span size="xx-large">A simple calculator in the search overview</span>'
+Comment3='
+Gnome shell extension that allows to make simple math operations in
+the search overview
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/eonpatapon/gnome-shell-extension-calc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

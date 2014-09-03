@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mysql++-manuals</b>'
+Comment='<span size="xx-large">MySQL++ user and reference manuals</span>'
+Comment3='
+This is the MySQL++ documentation.  Its a separate RPM just because
+its so large, and it doesnt change with every release.
+
+User Manual and Reference Manual are provided both in PDF and in
+HTML format. You can use devhelp to browse it.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://tangentsoft.net/mysql++/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

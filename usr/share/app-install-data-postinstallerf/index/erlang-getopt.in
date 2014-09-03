@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-getopt</b>'
+Comment='<span size="xx-large">Erlang module to parse command line arguments using the GNU getopt syntax</span>'
+Comment3='
+Command-line parsing module that uses a syntax similar to that of GNU getopt.
+'
+License='BSD'
+Screenshot=''
+Url='http://github.com/jcomellas/getopt'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

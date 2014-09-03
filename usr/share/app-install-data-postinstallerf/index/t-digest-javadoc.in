@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>t-digest-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for t-digest</span>'
+Comment3='
+This package contains the API documentation for t-digest.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/tdunning/t-digest'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

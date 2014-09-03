@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libguestfs-jfs</b>'
+Comment='<span size="xx-large">JFS support for libguestfs</span>'
+Comment3='
+This adds JFS support to libguestfs.  Install it if you want to process
+disk images containing JFS.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

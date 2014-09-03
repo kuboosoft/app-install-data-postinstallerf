@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-liblarch</b>'
+Comment='<span size="xx-large">Data structures helper library for python</span>'
+Comment3='
+Liblarch is a python library built to easily handle data structure such as
+lists, trees and directed acyclic graphs.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://live.gnome.org/liblarch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sugar-turtleart</b>'
+Comment='<span size="xx-large">Turtle Art activity for sugar</span>'
+Comment3='
+The Turtle Art activity is an Logo-inspired graphical "turtle" that
+draws colorful  art based on Scratch-like snap-together visual
+programming elements.
+'
+License='MIT'
+Screenshot=''
+Url='http://sugarlabs.org/go/Activities/Turtle_Art'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ibus-qt</b>'
+Comment='<span size="xx-large">Qt IBus library and Qt input method plugin</span>'
+Comment3='
+Qt IBus library and Qt input method plugin.
+
+URL          http//code.google.com/p/ibus/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

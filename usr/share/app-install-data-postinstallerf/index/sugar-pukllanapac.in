@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sugar-pukllanapac</b>'
+Comment='<span size="xx-large">A sliding puzzle game</span>'
+Comment3='
+Pukllanapac is a sliding puzzle game; the objective is to rearrange
+tiles so that all of the circles (and semicircles) are composed
+of sectors of the same color. There are three different patterns
+circles, triangles and hexagons. Drag tiles to swap their position;
+click on tiles to rotate them.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.sugarlabs.org/go/Activities/Pukllanapac'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

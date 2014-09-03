@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kcometen4</b>'
+Comment='<span size="xx-large">An OpenGL screensaver with exploding comets for KDE4</span>'
+Comment3='
+KCometen4 is an OpenGL KDE screensaver. Inside a box is a nifty
+light show that features lightning and exploding comets. It lets
+you configure various effects like comet behavior, camera
+movement, box face images, etc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kde-apps.org/content/show.php?content=87586'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

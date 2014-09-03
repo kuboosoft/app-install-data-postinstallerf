@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-HTTP-Server-Simple</b>'
+Comment='<span size="xx-large">Very simple standalone HTTP daemon</span>'
+Comment3='
+HTTPServerSimple is a very simple standalone HTTP daemon with no non-core
+module dependencies.  Its ideal for building a standalone http-based UI to
+your existing tools.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-Server-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

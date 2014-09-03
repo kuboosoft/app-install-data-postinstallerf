@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>emacs-evil</b>'
+Comment='<span size="xx-large">Extensible vi layer for Emacs</span>'
+Comment3='
+Evil is an extensible vi layer for GNU Emacs. It provides Vim features
+like Visual selection and text objects, and is the successor of Vimpulse and
+vim-mode.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://emacswiki.org/emacs/Evil'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

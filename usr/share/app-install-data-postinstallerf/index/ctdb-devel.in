@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ctdb-devel</b>'
+Comment='<span size="xx-large">CTDB clustered database development package</span>'
+Comment3='
+Libraries, include files, etc you can use to develop CTDB applications.
+CTDB is a cluster implementation of the TDB database used by Samba and other
+projects to store temporary data. If an application is already using TDB for
+temporary data it is very easy to convert that application to be cluster aware
+and use CTDB instead.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://ctdb.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

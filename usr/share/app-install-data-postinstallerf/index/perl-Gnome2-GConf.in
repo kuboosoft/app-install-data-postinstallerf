@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Gnome2-GConf</b>'
+Comment='<span size="xx-large">Perl wrappers for the GConf configuration engine</span>'
+Comment3='
+This module allows you to use the GConf configuration system in order to
+store/retrieve the configuration of an application. The GConf system is a
+powerful configuration manager based on a user daemon that handles a set of
+key and value pairs, and notifies any changes of the value to every program
+that monitors those keys. GConf is used by GNOME 2.x.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Gnome2-GConf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

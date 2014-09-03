@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fedorainfinity-backgrounds</b>'
+Comment='<span size="xx-large">Fedora Infinity desktop backgrounds</span>'
+Comment3='
+This package contains desktop backgrounds for the Fedora Infinity theme,
+which was the default theme for Fedora 8.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/Artwork/F8Themes/Infinity'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

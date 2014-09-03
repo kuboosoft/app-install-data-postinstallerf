@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pxtxalfa</b>'
+Comment='<span size="xx-large">Virtual maths alphabets based on pxfonts and txfonts</span>'
+Comment3='
+The package provides virtual math alphabets based on pxfonts
+and txfonts, with LaTeX support files and adjusted metrics. The
+mathalfa package offers support for this collection.
+
+date 2011-08-23 143214 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

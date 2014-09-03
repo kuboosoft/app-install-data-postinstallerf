@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kcm_wacomtablet</b>'
+Comment='<span size="xx-large">KDE Control module for Wacom Graphictablets</span>'
+Comment3='
+This module implements a GUI for the Wacom Linux Drivers and extends it
+with profile support to handle different button/pen layouts per profile.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/base/wacomtablet'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

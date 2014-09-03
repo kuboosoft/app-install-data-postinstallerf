@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-collections</b>'
+Comment='<span size="xx-large">Data structures with idiomatic JavaScript collection interfaces</span>'
+Comment3='
+This package contains JavaScript implementations of common data structures
+with idiomatic interfaces, including extensions for Array and Object.
+'
+License='MIT and BSD'
+Screenshot=''
+Url='https://github.com/montagejs/collections'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

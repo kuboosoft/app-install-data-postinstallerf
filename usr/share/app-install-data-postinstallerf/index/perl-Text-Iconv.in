@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Text-Iconv</b>'
+Comment='<span size="xx-large">Perl interface to iconv() codeset conversion function</span>'
+Comment3='
+The TextIconv module provides a Perl interface to the iconv()
+function as defined by the Single UNIX Specification. The convert()
+method converts the encoding of characters in the input string from
+the fromcode codeset to the tocode codeset, and returns the result.
+Settings of fromcode and tocode and their permitted combinations are
+implementation-dependent. Valid values are specified in the system
+documentation.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Iconv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

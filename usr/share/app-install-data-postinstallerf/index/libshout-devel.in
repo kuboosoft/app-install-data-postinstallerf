@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libshout-devel</b>'
+Comment='<span size="xx-large">static libraries and header files for libshout development.</span>'
+Comment3='
+The libshout-devel package contains the header files needed for developing
+applications that send data to an icecast server.  Install libshout-devel if
+you want to develop applications using libshout.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.icecast.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-psizzl</b>'
+Comment='<span size="xx-large">A TeX format for physics papers</span>'
+Comment3='
+PSIZZL is a TeX format for physics papers written at SLAC and
+used at several other places. It dates from rather early in the
+development of TeX82; as a result, some of the descriptions of
+limitations look rather quaint to modern eyes.
+
+date 2006-12-03 014816 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

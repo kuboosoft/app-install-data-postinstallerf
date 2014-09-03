@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-Faker</b>'
+Comment='<span size="xx-large">A PHP library that generates fake data</span>'
+Comment3='
+Faker is a PHP library that generates fake data for you. Whether you need
+to bootstrap your database, create good-looking XML documents, fill-in your
+persistence to stress test it, or anonymize data taken from a production
+service, Faker is for you.
+
+Faker is heavily inspired by Perls DataFaker
+(http//search.cpan.org/~jasonk/Data-Faker/), and by Rubys Faker
+(http//faker.rubyforge.org/).
+Optional
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/fzaninotto/Faker'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

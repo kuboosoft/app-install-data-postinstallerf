@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>jove</b>'
+Comment3='
+Jove is a compact, powerful Emacs-style text-editor. It provides the common
+emacs keyboard bindings, together with a reasonable assortment of the most
+popular advanced features (e.g. interactive shell windows, compile-it,
+language specific modes) while weighing in with CPU, memory, and disk
+requirements comparable to vi(1).
+'
+License='Copyright only'
+Screenshot=''
+Url='ftp://ftp.cs.toronto.edu/pub/hugh/jove-dev/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

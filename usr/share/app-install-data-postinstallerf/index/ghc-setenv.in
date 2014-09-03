@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-setenv</b>'
+Comment='<span size="xx-large">Cross-platform library for setting environment variables</span>'
+Comment3='
+A cross-platform library for setting environment variables.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/setenv'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

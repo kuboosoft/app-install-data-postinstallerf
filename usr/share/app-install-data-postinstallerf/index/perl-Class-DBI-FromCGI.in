@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Class-DBI-FromCGI</b>'
+Comment='<span size="xx-large">Update Class::DBI data using CGI::Untaint</span>'
+Comment3='
+Update ClassDBI data using CGIUntaint.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-DBI-FromCGI'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

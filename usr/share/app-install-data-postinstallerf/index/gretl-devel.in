@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gretl-devel</b>'
+Comment='<span size="xx-large">Development files for gretl</span>'
+Comment3='
+This package contains the development files for gretl.
+
+URL          http//gretl.sourceforge.net/
+'
+License='GPLv3+ and BSD and MIT'
+Screenshot=''
+Url='http://gretl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

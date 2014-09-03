@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>coin-or-Osi-doc</b>'
+Comment='<span size="xx-large">Documentation files for coin-or-Osi</span>'
+Comment3='
+This package contains the documentation for coin-or-Osi.
+'
+License='EPL'
+Screenshot=''
+Url='https://projects.coin-or.org/Osi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

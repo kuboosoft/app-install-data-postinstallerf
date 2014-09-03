@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Text-Context</b>'
+Comment='<span size="xx-large">Handle highlighting search result context snippets</span>'
+Comment3='
+Given a piece of text and some search terms, produces an object which
+locates the search terms in the message, extracts a reasonable-length
+string containing all the search terms, and optionally dumps the string out
+as HTML text with the search terms highlighted in bold.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Context/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

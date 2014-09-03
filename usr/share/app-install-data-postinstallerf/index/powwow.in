@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>powwow</b>'
+Comment='<span size="xx-large">A console MUD client</span>'
+Comment3='
+Powwow is a powerful console MUD client that supports triggers, aliases,
+multiple connections, and more. It is primarily designed for DikuMUDs, but
+nothing prevents its use for other types of MUDs. This client is also
+extensible through a plugin interface.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://hoopajoo.net/projects/powwow.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

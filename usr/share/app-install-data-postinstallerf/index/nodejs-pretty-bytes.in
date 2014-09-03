@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-pretty-bytes</b>'
+Comment='<span size="xx-large">Convert bytes to a human readable string</span>'
+Comment3='
+Convert bytes to a human readable string.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/sindresorhus/pretty-bytes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

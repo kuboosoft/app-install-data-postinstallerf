@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Net-XMPP</b>'
+Comment='<span size="xx-large">Net::XMPP - perl XMPP library</span>'
+Comment3='
+NetXMPP provides a Perl user with access to the Extensible
+Messaging and Presence Protocol (XMPP).
+
+For more information about XMPP visit
+     http//www.xmpp.org
+'
+License='(GPL+ or Artistic) or LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-XMPP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

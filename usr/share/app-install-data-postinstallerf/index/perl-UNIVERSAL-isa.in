@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-UNIVERSAL-isa</b>'
+Comment='<span size="xx-large">Hack around module authors using UNIVERSAL::isa as a function</span>'
+Comment3='
+Whenever you use "isa" in UNIVERSAL as a function, a kitten using
+TestMockObject dies. Normally, the kittens would be helpless, but
+if they use UNIVERSALisa (the module whose docs you are reading),
+the kittens can live long and prosper.
+
+This module replaces UNIVERSALisa with a version that makes sure
+that if its called as a function on objects which override isa,
+isa will be called on those objects as a method.
+In all other cases the real UNIVERSALisa is just called directly.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/UNIVERSAL-isa/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

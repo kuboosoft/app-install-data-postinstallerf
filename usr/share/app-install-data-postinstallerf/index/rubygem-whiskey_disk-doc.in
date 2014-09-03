@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-whiskey_disk-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-whiskey_disk</span>'
+Comment3='
+Documentation for rubygem-whiskey_disk.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/flogic/whiskey_disk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>php-JsonSchema</b>'
+Comment='<span size="xx-large">PHP implementation of JSON schema</span>'
+Comment3='
+A PHP implementation for validating JSON structures against a given schema.
+
+See http//json-schema.org for more details.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/justinrainbow/json-schema'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

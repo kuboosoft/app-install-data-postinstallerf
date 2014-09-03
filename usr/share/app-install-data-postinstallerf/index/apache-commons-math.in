@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apache-commons-math</b>'
+Comment='<span size="xx-large">Java library of lightweight mathematics and statistics components</span>'
+Comment3='
+Commons Math is a library of lightweight, self-contained mathematics and
+statistics components addressing the most common problems not available in the
+Java programming language or Commons Lang.
+'
+License='ASL 1.1 and ASL 2.0 and BSD'
+Screenshot=''
+Url='http://commons.apache.org/math/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hugs98-glut</b>'
+Comment='<span size="xx-large">GLUT package for Hugs98</span>'
+Comment3='
+GLUT package for Hugs98.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.haskell.org/hugs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

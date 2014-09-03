@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-boxgrinder-core</b>'
+Comment='<span size="xx-large">Core library for BoxGrinder</span>'
+Comment3='
+Core library containing files required by BoxGrinder family of projects
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://boxgrinder.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

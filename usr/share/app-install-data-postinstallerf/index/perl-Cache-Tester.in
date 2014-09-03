@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Cache-Tester</b>'
+Comment='<span size="xx-large">Test utility for perl Cache implementations</span>'
+Comment3='
+This module is used to run tests against an instance of a Cache implementation
+to ensure that it operates as required by the Cache specification.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Cache'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

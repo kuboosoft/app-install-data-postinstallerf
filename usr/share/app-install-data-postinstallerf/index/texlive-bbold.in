@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-bbold</b>'
+Comment='<span size="xx-large">Sans serif blackboard bold</span>'
+Comment3='
+A geometric sans serif blackboard bold font, for use in
+mathematics; MetaFont sources are provided, as well as macros
+for use with LaTeX. The Sauter font package has MetaFont
+parameter source files for building the fonts at more sizes
+than you could reasonably imagine. See the blackboard sampler
+for a feel for the fonts appearance.
+
+date 2010-02-15 232851 +0100
+'
+License='BSD'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

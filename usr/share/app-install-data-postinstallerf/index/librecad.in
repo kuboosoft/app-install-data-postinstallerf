@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>librecad</b>'
+Comment='<span size="xx-large">A generic 2D CAD program</span>'
+Comment3='
+LibreCAD is a Qt4 application to design 2D cad drawing based
+on the community edition of QCad.
+
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.librecad.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

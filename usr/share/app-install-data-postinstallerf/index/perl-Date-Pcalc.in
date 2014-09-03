@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Date-Pcalc</b>'
+Comment='<span size="xx-large">Gregorian calendar date calculations</span>'
+Comment3='
+This package consists of a Perl module for all kinds of date calculations based
+on the Gregorian calendar (the one used in all western countries today),
+thereby complying with all relevant norms and standards ISO/R 2015-1971,
+DIN 1355 and, to some extent, ISO 8601 (where applicable).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Date-Pcalc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

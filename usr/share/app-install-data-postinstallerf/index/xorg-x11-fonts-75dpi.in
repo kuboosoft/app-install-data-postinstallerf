@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xorg-x11-fonts-75dpi</b>'
+Comment='<span size="xx-large">A set of 75dpi resolution fonts for the X Window System.</span>'
+Comment3='
+A set of 75 dpi fonts used by the X window system.
+'
+License='MIT and Lucida and Public Domain'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

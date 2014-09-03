@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python3-brlapi</b>'
+Comment='<span size="xx-large">Python 3 binding for BrlAPI</span>'
+Comment3='
+This package provides the Python 3 binding for BrlAPI.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mielke.cc/brltty/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

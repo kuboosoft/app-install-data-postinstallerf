@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plplot-ada</b>'
+Comment='<span size="xx-large">Functions for scientific plotting with Ada</span>'
+Comment3='
+Functions for scientific plotting with Ada.
+
+URL          http//plplot.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://plplot.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

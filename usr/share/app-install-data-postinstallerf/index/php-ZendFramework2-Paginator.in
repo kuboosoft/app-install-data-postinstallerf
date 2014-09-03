@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-ZendFramework2-Paginator</b>'
+Comment='<span size="xx-large">Zend Framework 2: Paginator Component</span>'
+Comment3='
+Zend\Paginator is a flexible component for paginating collections of data and
+presenting that data to users.
+
+The primary design goals of Zend\Paginator are as follows
+* Paginate arbitrary data, not just relational databases
+* Fetch only the results that need to be displayed
+* Do not force users to adhere to only one way of displaying data or rendering
+  pagination controls
+* Loosely couple Zend\Paginator to other Zend Framework components so that users
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/manual/2.2/en/modules/zend.paginator.introduction.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

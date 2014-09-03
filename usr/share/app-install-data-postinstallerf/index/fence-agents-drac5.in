@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-drac5</b>'
+Comment='<span size="xx-large">Fence agent for Dell DRAC 5</span>'
+Comment3='
+The fence-agents-drac5 package contains a fence agent for Dell DRAC 5 series devices that are accessed via telnet or SSH.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-twoup</b>'
+Comment='<span size="xx-large">Print two virtual pages on each physical page</span>'
+Comment3='
+MiKTeX and many other TeX implementations include tools for
+is, printing two logical pages side by side on one side of one
+sheet of paper. However, some LaTeX preliminaries are necessary
+to use those tools. The twoup package provides such
+preliminaries and gives advice on how to use the PostScript
+tools.
+
+date 2007-02-27 145252 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

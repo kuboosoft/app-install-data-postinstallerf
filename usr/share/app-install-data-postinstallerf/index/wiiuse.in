@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wiiuse</b>'
+Comment='<span size="xx-large">The wiiuse library is used to access and control multiple Nintendo Wiimotes</span>'
+Comment3='
+A library that implements access to wiiremote controllers via bluetooth.
+
+URL          http//www.wiiuse.net/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.wiiuse.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

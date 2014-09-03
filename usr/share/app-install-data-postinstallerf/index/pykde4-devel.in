@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pykde4-devel</b>'
+Comment='<span size="xx-large">Files needed to build pykde4-based applications</span>'
+Comment3='
+Files needed to build pykde4-based applications.
+
+URL          http//developer.kde.org/language-bindings/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://developer.kde.org/language-bindings/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

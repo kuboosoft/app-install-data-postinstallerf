@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>slang-devel</b>'
+Comment='<span size="xx-large">Development files for the S-Lang extension language</span>'
+Comment3='
+This package contains files which youll need if you want to
+develop S-Lang based applications.  Documentation which may help
+you write S-Lang based applications is also included.
+
+Install the slang-devel package if you want to develop applications
+based on the S-Lang extension language.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.jedsoft.org/slang/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

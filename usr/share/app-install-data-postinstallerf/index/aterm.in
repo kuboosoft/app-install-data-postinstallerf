@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>aterm</b>'
+Comment='<span size="xx-large">Afterstep XVT, VT102 emulator for the X Window system</span>'
+Comment3='
+aterm, version 1.00 is a colour vt102 terminal emulator, based on
+rxvt 2.4.8 with Alfredo Kojima?s additions of fast transparency,
+intended as an xterm(1) replacement for users who do not require fea-
+tures such as Tektronix 4014 emulation and toolkit-style configurabil-
+advantage on a machine serving many X sessions.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://aterm.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bogl</b>'
+Comment='<span size="xx-large">A terminal program for displaying Unicode on the console</span>'
+Comment3='
+BOGL stands for Bens Own Graphics Library.  It is a small graphics
+library for Linux kernel frame buffers.  It supports only very simple
+graphics.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://packages.debian.org/unstable/source/bogl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

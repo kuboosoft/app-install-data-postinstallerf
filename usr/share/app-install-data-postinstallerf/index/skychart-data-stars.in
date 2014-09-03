@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>skychart-data-stars</b>'
+Comment='<span size="xx-large">Additional star catalogs for Skychart</span>'
+Comment3='
+Additional star catalogs for Skychart. This package install all the standard
+stars catalog down to magnitude 12, variable and double stars
+Tycho 2; General Catalogue of Variable Stars; Washington Double Stars.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.ap-i.net/skychart/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

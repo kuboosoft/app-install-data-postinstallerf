@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Module-Install-ExtraTests</b>'
+Comment='<span size="xx-large">Ignorable, contextual test support for Module::Install</span>'
+Comment3='
+This allows extra_tests; to be declared in Makefile.PL, indicating that the
+test files found in the directory ./xt should be run only in certain
+instances
+
+  ./xt/author  - run when the tests are being run in an authors working copy
+  ./xt/smoke   - run when the dist is being smoked (AUTOMATED_TESTING=1)
+  ./xt/release - run during "make disttest"
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Install-ExtraTests'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

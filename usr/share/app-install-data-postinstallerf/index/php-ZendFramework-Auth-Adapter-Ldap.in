@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-Auth-Adapter-Ldap</b>'
+Comment='<span size="xx-large">Zend Framework LDAP Authentication Adapter</span>'
+Comment3='
+This package contains the authentication adapter needed to operate against LDAP
+directories.
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

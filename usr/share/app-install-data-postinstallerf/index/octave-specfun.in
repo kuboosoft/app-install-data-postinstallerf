@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>octave-specfun</b>'
+Comment='<span size="xx-large">Special functions for Octave, including ellipitic functions</span>'
+Comment3='
+This package contains special functions for Octave, including elliptic
+functions, sine/cosine integral functions, complementary error functions
+and exponential integrals, Heaviside and Dirac functions, the Riemann zeta
+function and others.
+'
+License='GPLv3+ and BSD'
+Screenshot=''
+Url='http://octave.sourceforge.net/specfun/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

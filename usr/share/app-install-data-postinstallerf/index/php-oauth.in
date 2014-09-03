@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-oauth</b>'
+Comment='<span size="xx-large">PHP Authentication library for desktop to web applications</span>'
+Comment3='
+An open protocol to allow API authentication in a simple and standard
+method from desktop and web applications.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/oauth/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

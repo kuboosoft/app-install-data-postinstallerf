@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libetpan</b>'
+Comment='<span size="xx-large">Portable, efficient middle-ware for different kinds of mail access</span>'
+Comment3='
+The purpose of this mail library is to provide a portable, efficient middle-ware
+for different kinds of mail access. When using the drivers interface, the
+interface is the same for all kinds of mail access, remote and local mailboxes.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.etpan.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

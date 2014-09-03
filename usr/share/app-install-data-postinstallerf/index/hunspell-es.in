@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-es</b>'
+Comment='<span size="xx-large">Spanish hunspell dictionaries</span>'
+Comment3='
+Spanish (Spain, Mexico, etc.) hunspell dictionaries.
+'
+License='LGPLv3+ or GPLv3+ or MPLv1.1'
+Screenshot=''
+Url='https://forja.rediris.es/projects/rla-es/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

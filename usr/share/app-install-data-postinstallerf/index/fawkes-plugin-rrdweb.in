@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-rrdweb</b>'
+Comment='<span size="xx-large">Fawkes plugin to provide graphs view webview</span>'
+Comment3='
+This package contains a Fawkes plugin to provide access to generated
+RRD graphs via the Fawkes webinterface webview.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

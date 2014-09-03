@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-DateTime-Format-Natural</b>'
+Comment='<span size="xx-large">Create machine readable date/time with natural parsing logic</span>'
+Comment3='
+DateTimeFormatNatural takes a string with a human readable date/time
+and creates a machine readable one by applying natural parsing logic.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/DateTime-Format-Natural/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

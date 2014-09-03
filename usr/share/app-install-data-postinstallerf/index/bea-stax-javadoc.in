@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bea-stax-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for bea-stax</span>'
+Comment3='
+Javadoc for bea-stax
+'
+License='ASL 1.1 and ASL 2.0'
+Screenshot=''
+Url='http://stax.codehaus.org/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

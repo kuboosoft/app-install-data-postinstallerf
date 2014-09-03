@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-fibroEset</b>'
+Comment='<span size="xx-large">ExprSet for karaman et al. (2003) fibroblasts data</span>'
+Comment3='
+ExprSet for Karaman et al. (2003) human, bonobo and gorilla fibroblasts data.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.bioconductor.org/packages/2.9/data/experiment/html/fibroEset.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

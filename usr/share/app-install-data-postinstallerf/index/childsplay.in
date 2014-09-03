@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>childsplay</b>'
+Comment='<span size="xx-large">Suite of educational games for young children</span>'
+Comment3='
+Childsplay is a suite of educational games for young children. Its written in
+Python and uses the SDL-libraries. The aim is to be educational and at the same
+time be fun to play.
+
+Some activities make use of language dependent voice samples, these sounds are
+available as childsplay-alphabet_sounds packages. For those youll have to
+install the childsplay-alphabet_sounds package for the languages you intend to
+use. For example childsplay-alphabet_sounds_nl.
+Available alphabet sounds packages
+childsplay-alphabet_sounds_bg
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.schoolsplay.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-flask-restless</b>'
+Comment='<span size="xx-large">Flask-Restless provides simple generation of ReSTful APIs</span>'
+Comment3='
+Flask-Restless provides simple generation of ReSTful APIs for database
+models defined using SQLAlchemy (or Flask-SQLAlchemy). The generated
+APIs send and receive messages in JSON format.
+'
+License='AGPLv3 and BSD'
+Screenshot=''
+Url='http://flask-restless.readthedocs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

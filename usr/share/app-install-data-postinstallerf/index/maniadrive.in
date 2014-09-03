@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>maniadrive</b>'
+Comment='<span size="xx-large">3D stunt driving game</span>'
+Comment3='
+ManiaDrive is an arcade car game on acrobatic tracks, with a quick and nervous
+gameplay (tracks almost never exceed one minute). Features Complex car
+physics, Challenging "story mode", LAN and Internet mode, Live scores,
+Track editor, Dedicated server with HTTP interface and More than 30 blocks.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://maniadrive.raydium.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

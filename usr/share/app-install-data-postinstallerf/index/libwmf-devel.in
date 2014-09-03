@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwmf-devel</b>'
+Comment='<span size="xx-large">Support files necessary to compile applications with libwmf</span>'
+Comment3='
+Libraries, headers, and support files necessary to compile applications
+using libwmf.
+
+'
+License='LGPLv2+ and GPLv2+ and GPL+'
+Screenshot=''
+Url='http://wvware.sourceforge.net/libwmf.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

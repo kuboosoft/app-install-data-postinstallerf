@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>lv2dynparam</b>'
+Comment='<span size="xx-large">LV2 dynamic parameters extension</span>'
+Comment3='
+lv2dynparam is a LV2 plugin interface extension that enables plugin parameters
+to appear and disappear (i.e. number of voices). It also allows nested grouping
+of parameters. Groups can be used for things like ADSR abstraction, i.e. group
+of 4 float parameters.
+
+The extension should be suitable for all plugins that expose many and/or
+complex data types, like samplers, non-trivial synths, etc.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://home.gna.org/lv2dynparam/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

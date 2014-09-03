@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>uzbl-core</b>'
+Comment='<span size="xx-large">Core component of Uzbl</span>'
+Comment3='
+The core component to Uzbl. This part does little on its own. For a more
+complete browsing experience, see the uzbl package.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.uzbl.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

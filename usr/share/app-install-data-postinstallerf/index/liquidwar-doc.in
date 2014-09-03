@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>liquidwar-doc</b>'
+Comment='<span size="xx-large">Documentation for the LiquidWar game in additional formats</span>'
+Comment3='
+This package contains the documentation of LiquidWar in html, pdf, ps and txt
+format.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ufoot.org/liquidwar/v5'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>zathura-pdf-poppler</b>'
+Comment='<span size="xx-large">PDF support for zathura via poppler</span>'
+Comment3='
+The zathura-pdf-poppler plugin adds PDF support to zathura by using
+the poppler rendering engine.
+'
+License='zlib'
+Screenshot=''
+Url='http://pwmt.org/projects/zathura/plugins/zathura-pdf-poppler'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

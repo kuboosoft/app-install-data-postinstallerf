@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>smartcardpp-devel</b>'
+Comment='<span size="xx-large">Development files for smartcardpp</span>'
+Comment3='
+The smartcardpp-devel package contains libraries and header files for
+developing applications that use smartcardpp.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/esteid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

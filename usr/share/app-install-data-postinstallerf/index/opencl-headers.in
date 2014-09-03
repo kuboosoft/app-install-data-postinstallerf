@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opencl-headers</b>'
+Comment='<span size="xx-large">Khronos OpenCL development headers</span>'
+Comment3='
+Khronos OpenCL development headers
+'
+License='MIT'
+Screenshot=''
+Url='http://www.khronos.org/registry/cl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-zlib-static</b>'
+Comment='<span size="xx-large">Static libraries for mingw32-zlib development.</span>'
+Comment3='
+The mingw32-zlib-static package contains static library for mingw32-zlib development.
+'
+License='zlib'
+Screenshot=''
+Url='http://www.zlib.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

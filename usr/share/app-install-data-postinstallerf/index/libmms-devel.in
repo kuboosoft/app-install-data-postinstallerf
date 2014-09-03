@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmms-devel</b>'
+Comment='<span size="xx-large">Development package for libmms</span>'
+Comment3='
+This package contains development files for libmms.
+
+URL          http//www.sf.net/projects/libmms
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.sf.net/projects/libmms'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

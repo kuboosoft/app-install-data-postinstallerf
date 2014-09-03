@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openobex-apps</b>'
+Comment='<span size="xx-large">Applications for using OBEX</span>'
+Comment3='
+Open OBEX Applications to exchange all kind of objects like files, pictures,
+calendar entries (vCal) and business cards (vCard) using the OBEX protocol.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://openobex.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

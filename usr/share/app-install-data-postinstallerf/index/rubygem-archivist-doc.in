@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-archivist-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-archivist</span>'
+Comment3='
+Documentation for rubygem-archivist
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/tpickett66/archivist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

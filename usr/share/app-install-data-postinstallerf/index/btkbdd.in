@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>btkbdd</b>'
+Comment='<span size="xx-large">Bluetooth keyboard service</span>'
+Comment3='
+This tool starts a Bluetooth HID Keyboard service, serving keystrokes
+obtained via Linux Input subsystems event device (evdev). In practical
+terms, it turns your Linux box with a physical keyboard into a Bluetooth
+keyboard, which can be used by various Bluetooth HID capable devices,
+including desktop or tablet computers, smart phones, game consoles and so
+on.
+'
+License='GPL+'
+Screenshot=''
+Url='http://v3.sk/~lkundrak/btkbdd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

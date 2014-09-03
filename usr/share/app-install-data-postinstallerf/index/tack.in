@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>tack</b>'
+Comment='<span size="xx-large">Terminfo action checker</span>'
+Comment3='
+The tack program has three purposes to help you build a new terminfo
+entry describing an unknown terminal, to test the correctness of an
+existing entry, and to develop the correct pad timings needed to ensure
+that screen updates dont fall behind the incoming data stream.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://invisible-island.net/ncurses/ncurses.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

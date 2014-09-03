@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>javahelp2</b>'
+Comment='<span size="xx-large">JavaHelp is a full-featured, platform-independent, extensible help system</span>'
+Comment3='
+JavaHelp software is a full-featured, platform-independent, extensible
+help system that enables developers and authors to incorporate online
+help in applets, components, applications, operating systems, and
+devices. Authors can also use the JavaHelp software to deliver online
+documentation for the Web and corporate Intranet.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://javahelp.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gnome-phone-manager</b>'
+Comment='<span size="xx-large">Gnome Phone Manager</span>'
+Comment3='
+This program will connect to your mobile phone over a serial port,
+either via a cable, infrared (IrDA) or Bluetooth connection.
+
+For example it listens for text messages, and when they arrive,
+displays them on the desktop. A visual indicator is displayed in
+the notification area, if one is presently added to the panel.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://live.gnome.org/PhoneManager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>at-spi2-core-devel</b>'
+Comment='<span size="xx-large">Development files and headers for at-spi2-core</span>'
+Comment3='
+The at-spi2-core-devel package includes the header files and
+API documentation for libatspi.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wine-ldap</b>'
+Comment='<span size="xx-large">LDAP support for wine</span>'
+Comment3='
+LDAP support for wine
+
+URL          http//www.winehq.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ssldump</b>'
+Comment='<span size="xx-large">An SSLv3/TLS network protocol analyzer</span>'
+Comment3='
+This program is an SSLv3/TLS network protocol analyzer. It identifies TCP
+connections on the chosen network interface and attempts to interpret them
+as SSLv3/TLS traffic. When ssldump identifies SSLv3/TLS traffic, ssldump
+decodes the records and displays them in a textual form to stdout. And if
+provided with the appropriate keying material, ssldump will also decrypt
+the connections and display the application data traffic. This program is
+based on tcpdump, a network monitoring and data acquisition tool.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.rtfm.com/ssldump/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

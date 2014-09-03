@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nomnom</b>'
+Comment='<span size="xx-large">The graphical video download tool</span>'
+Comment3='
+NomNom is an application for downloading videos from Youtube and other
+similar video websites that require Adobe Flash to view the video content.
+Video streaming or downloading can be started simply by dropping an URL
+onto the application window.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://nomnom.sourceforge.net/'
+Video streaming or downloading can be started simply by dropping an URL'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

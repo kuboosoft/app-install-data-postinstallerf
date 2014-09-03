@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-sectionbox</b>'
+Comment='<span size="xx-large">Create fancy boxed ((sub)sub)sections</span>'
+Comment3='
+Sectionbox is a LaTeX package for putting fancy colored boxes
+around sections, subsections, and subsubsections, especially
+for use in posters, etc. It was designed with the sciposter
+class in mind, and certainly works with that class and with
+derived classes.
+
+date 2007-02-26 212431 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

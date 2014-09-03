@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-mdframed</b>'
+Comment='<span size="xx-large">Framed environments that can split at page boundaries</span>'
+Comment3='
+The package develops the facilities of framed in providing
+breakable framed and coloured boxes. The user may instruct the
+package to perform its operations using default LaTeX commands,
+PStricks or TikZ.
+
+date 2013-07-02 000105 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-ruby-ntlm-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-ruby-ntlm</span>'
+Comment3='
+Documentation for rubygem-ruby-ntlm
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/macks/ruby-ntlm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

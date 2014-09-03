@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libacl</b>'
+Comment='<span size="xx-large">Dynamic library for access control list support</span>'
+Comment3='
+This package contains the libacl.so dynamic library which contains
+the POSIX 1003.1e draft standard 17 functions for manipulating access
+control lists.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://acl.bestbits.at/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

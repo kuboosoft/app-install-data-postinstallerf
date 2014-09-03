@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>drupal7-i18nviews</b>'
+Comment='<span size="xx-large">Translate views using Internationalization</span>'
+Comment3='
+Translate views using Internationalization.
+
+This package provides the following Drupal module
+* i18nviews
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/i18nviews'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

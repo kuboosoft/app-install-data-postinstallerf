@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>anaconda-yum-plugins</b>'
+Comment='<span size="xx-large">Installation-related yum plugins</span>'
+Comment3='
+The anaconda yum-plugins package contains yum plugins that are useful for
+anaconda and other system installation-related programs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://fedoraproject.org/wiki/Anaconda'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

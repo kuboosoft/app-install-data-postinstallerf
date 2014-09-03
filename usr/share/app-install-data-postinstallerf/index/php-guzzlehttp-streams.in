@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-guzzlehttp-streams</b>'
+Comment='<span size="xx-large">Provides a simple abstraction over streams of data</span>'
+Comment3='
+Provides a simple abstraction over streams of data.
+
+This library is used in Guzzle and is an implementation of the proposed
+PSR-7 stream interface [1].
+[1] https//github.com/php-fig/fig-standards/blob/master/proposed/http-message.md#34-psrhttpstreaminterface
+'
+License='MIT'
+Screenshot=''
+Url='http://docs.guzzlephp.org/en/latest/streams.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

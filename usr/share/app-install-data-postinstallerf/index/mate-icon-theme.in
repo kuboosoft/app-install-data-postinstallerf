@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mate-icon-theme</b>'
+Comment='<span size="xx-large">Icon theme for MATE Desktop</span>'
+Comment3='
+Icon theme for MATE Desktop
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

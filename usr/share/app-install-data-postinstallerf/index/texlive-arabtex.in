@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-arabtex</b>'
+Comment='<span size="xx-large">Macros and fonts for typesetting Arabic</span>'
+Comment3='
+ArabTeX is a package extending the capabilities of TeX/LaTeX to
+generate Arabic and Hebrew text. Input may be in ASCII
+transliteration or other encodings (including UTF-8); output
+may be Arabic, Hebrew, or any of several languages that use the
+Arabic script. ArabTeX consists of a TeX macro package and
+Arabic and Hebrew fonts (provided both in Metafont format and
+Adobe Type 1). The Arabic font is presently only available in
+the Naskhi style. ArabTeX will run with Plain TeX and also with
+LaTeX.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

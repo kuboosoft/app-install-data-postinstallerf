@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>augeas-devel</b>'
+Comment='<span size="xx-large">Development files for augeas</span>'
+Comment3='
+The augeas-devel package contains libraries and header files for
+developing applications that use augeas.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://augeas.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

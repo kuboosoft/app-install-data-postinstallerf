@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>corebird</b>'
+Comment='<span size="xx-large">Native GTK Twitter client</span>'
+Comment3='
+Native GTK Twitter client for the Linux desktop.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://corebird.baedert.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>TOPCOM-examples</b>'
+Comment='<span size="xx-large">Example inputs and outputs for TOPCOM</span>'
+Comment3='
+Example input and output files for TOPCOM.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.rambau.wm.uni-bayreuth.de/TOPCOM/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

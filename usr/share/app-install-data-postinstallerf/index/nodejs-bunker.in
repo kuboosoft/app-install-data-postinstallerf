@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-bunker</b>'
+Comment='<span size="xx-large">Code coverage in native JavaScript</span>'
+Comment3='
+Bunker is a module to calculate code coverage written in native JavaScript.
+It uses AST trickery with the help of the nodejs-burrito package.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/substack/node-bunker'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

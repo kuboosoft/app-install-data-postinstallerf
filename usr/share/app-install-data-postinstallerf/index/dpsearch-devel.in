@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dpsearch-devel</b>'
+Comment='<span size="xx-large">Development files for the DataparkSearch Engine</span>'
+Comment3='
+C development and header files for the DataparkSearch Engine.
+
+URL          http//www.dataparksearch.org
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.dataparksearch.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

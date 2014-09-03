@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ecolier-court-fonts-common</b>'
+Comment='<span size="xx-large">Common files of the ?colier Court font set</span>'
+Comment3='
+
+?colier court fonts were created by Jean-Marie Douteau to mimic the
+traditional cursive writing French children are taught in school.
+He kindly released two of them under the OFL, which are redistributed in
+this package.
+This package consists of files used by other ecolier-court-fonts packages.
+'
+License='OFL'
+Screenshot=''
+Url='http://perso.orange.fr/jm.douteau/page_ecolier.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

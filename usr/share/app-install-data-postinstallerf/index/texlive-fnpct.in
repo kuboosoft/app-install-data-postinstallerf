@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-fnpct</b>'
+Comment='<span size="xx-large">Manage footnote marks interaction with punctuation</span>'
+Comment3='
+The package moves footnote marks after following punctuation
+(comma or full stop), and adjusts kerning as appropriate. As a
+side effect, a change to the handling of multiple footnotes is
+provided.
+
+date 2013-12-23 185455 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

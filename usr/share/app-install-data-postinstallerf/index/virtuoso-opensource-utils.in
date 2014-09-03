@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>virtuoso-opensource-utils</b>'
+Comment='<span size="xx-large">Utilities</span>'
+Comment3='
+Utilities.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://virtuoso.openlinksw.com/wiki/main/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

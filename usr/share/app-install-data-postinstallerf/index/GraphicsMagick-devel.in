@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>GraphicsMagick-devel</b>'
+Comment='<span size="xx-large">Libraries and header files for GraphicsMagick app development</span>'
+Comment3='
+GraphicsMagick-devel contains the Libraries and header files youll
+need to develop GraphicsMagick applications. GraphicsMagick is an image
+manipulation program.
+
+If you want to create applications that will use GraphicsMagick code or
+APIs, you need to install GraphicsMagick-devel as well as GraphicsMagick.
+You do not need to install it if you just want to use GraphicsMagick,
+however.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.graphicsmagick.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

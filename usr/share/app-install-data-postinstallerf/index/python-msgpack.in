@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-msgpack</b>'
+Comment='<span size="xx-large">A Python MessagePack (de)serializer</span>'
+Comment3='
+MessagePack is a binary-based efficient data interchange format that is
+focused on high performance. It is like JSON, but very fast and small.
+This is a Python (de)serializer for MessagePack.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/msgpack-python/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

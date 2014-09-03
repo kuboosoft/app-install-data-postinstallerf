@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-trml2pdf12</b>'
+Comment='<span size="xx-large">Tiny RML2PDF is a tool to easily create PDF documents without programming</span>'
+Comment3='
+Convert Report Markup Language (RML) files to PDF.
+
+This is a compatibility package for programs which still need version 1.2.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.satchmoproject.com/snapshots/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

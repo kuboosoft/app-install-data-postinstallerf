@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ovsdbmonitor</b>'
+Comment='<span size="xx-large">Open vSwitch graphical monitoring tool</span>'
+Comment3='
+A GUI tool for monitoring and troubleshooting local or remote Open
+vSwitch installations.  It presents GUI tables that graphically represent
+an Open vSwitch kernel flow table (similar to "ovs-dpctl dump-flows")
+and Open vSwitch database contents (similar to "ovs-vsctl list <table>").
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://openvswitch.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

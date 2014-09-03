@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-feedcreator</b>'
+Comment='<span size="xx-large">Create RSS feeds</span>'
+Comment3='
+FeedCreator.class.php provides an easy way to create RSS feeds from within PHP
+using ease to use classes.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.bitfolge.de/rsscreator-en.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

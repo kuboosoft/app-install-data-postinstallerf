@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>qimageblitz</b>'
+Comment='<span size="xx-large">Graphical effect and filter library</span>'
+Comment3='
+Blitz is a graphical effect and filter library for KDE4 that contains
+improvements over KDE 3.xs kdefx library including bugfixes, memory and
+speed improvements, and MMX/SSE support.
+
+'
+License='BSD and ImageMagick'
+Screenshot=''
+Url='http://qimageblitz.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

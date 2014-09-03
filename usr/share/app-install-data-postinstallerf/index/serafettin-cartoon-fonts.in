@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>serafettin-cartoon-fonts</b>'
+Comment='<span size="xx-large">Sans-serif Cartoon Fonts</span>'
+Comment3='
+Serafettin aims to be a collection of free Latin fonts for daily usage.
+Currently it contains a free cartoon sans-serif font. It is based on Thukkaram
+Gopalraos TSCu_Comic of tamillinux project.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://serafettin.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

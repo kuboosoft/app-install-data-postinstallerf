@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-coseoul</b>'
+Comment='<span size="xx-large">Context sensitive outline elements</span>'
+Comment3='
+The package provides "relative" commands that may be used in
+place of \chapter, \section, etc. The documentation shows a
+number of document-management scenarios in which such commands
+are valuable.
+
+date 2011-09-06 161305 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

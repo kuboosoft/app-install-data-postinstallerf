@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>salt-api</b>'
+Comment='<span size="xx-large">A web api for to access salt the parallel remote execution system</span>'
+Comment3='
+salt-api is a modular interface on top of Salt that can provide a variety of
+entry points into a running Salt system. It can start and manage multiple
+interfaces allowing a REST API to coexist with XMLRPC or even a Websocket API.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://github.com/saltstack/salt-api'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

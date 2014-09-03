@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>javaparser</b>'
+Comment='<span size="xx-large">Java 1.5 Parser and AST</span>'
+Comment3='
+A Java 1.5 Parser with AST generation and visitor support.
+The AST records the source code structure, java doc and
+comments. It is also possible to change the AST nodes or
+create new ones to modify the source code.
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/javaparser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

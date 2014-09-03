@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mojomojo</b>'
+Comment='<span size="xx-large">A Wiki with a tree</span>'
+Comment3='
+Mojomojo is a content management system, borrowing many concepts from wikis and
+blogs. It allows you to maintain a full tree-structure of pages, and to
+interlink them in various ways. It has full version support, so you can always
+go back to a previous version and see whats changed with an easy diff system.
+There are also some useful features like live AJAX preview while editing,
+tagging, built-in full-text search, image galleries, and RSS feeds for every
+wiki page.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://mojomojo.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

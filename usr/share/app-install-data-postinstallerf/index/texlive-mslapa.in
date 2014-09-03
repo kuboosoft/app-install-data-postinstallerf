@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-mslapa</b>'
+Comment='<span size="xx-large">Michael Landys APA citation style</span>'
+Comment3='
+LaTeX and BibTeX style files for a respectably close
+approximation to APA (American Psychological Association)
+citation and reference style.
+
+date 2010-03-20 192331 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

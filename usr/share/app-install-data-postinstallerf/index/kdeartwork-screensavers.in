@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdeartwork-screensavers</b>'
+Comment='<span size="xx-large">screensavers for KDE</span>'
+Comment3='
+screensavers for KDE.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

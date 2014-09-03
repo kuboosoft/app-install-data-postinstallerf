@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>metadata-extractor2</b>'
+Comment='<span size="xx-large">Extracts EXIF, IPTC and XMP metadata from image files</span>'
+Comment3='
+Metadata Extractor is a straightforward Java library
+for reading metadata from image files.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://drewnoakes.com/code/exif/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

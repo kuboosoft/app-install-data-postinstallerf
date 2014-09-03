@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Expect-Simple</b>'
+Comment='<span size="xx-large">Wrapper around the Expect module</span>'
+Comment3='
+ExpectSimple is a wrapper around the Expect module which should
+suffice for simple applications. It hides most of the Expect
+machinery; the Expect object is available for tweaking if need be.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Expect-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

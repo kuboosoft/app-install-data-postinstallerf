@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>amiri-quran-fonts</b>'
+Comment='<span size="xx-large">Quran type of Amiri fonts</span>'
+Comment3='
+
+Amiri is a classical Arabic typeface in Naskh style for typesetting books
+and other running text.
+Amiri is a revival of the beautiful typeface pioneered in early 20th
+century by Bulaq Press in Cairo, also known as Amiria Press, after which
+the font is named.
+This package contains Quran type of Amiri fonts.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.amirifont.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

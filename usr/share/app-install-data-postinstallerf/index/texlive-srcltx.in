@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-srcltx</b>'
+Comment='<span size="xx-large">Jump between DVI and TeX files</span>'
+Comment3='
+Provides a \special insertion into generated .dvi files
+allowing one to jump from the .dvi file to the .tex source and
+back again (given a .dvi viewer that supports this, such as Yap
+or xdvi version 22.38 or later). This was originally written by
+Aleksander Simonic, the author of the WinEdt shell.
+
+date 2006-12-07 151333 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

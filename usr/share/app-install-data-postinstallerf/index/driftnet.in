@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>driftnet</b>'
+Comment='<span size="xx-large">Network image sniffer</span>'
+Comment3='
+Driftnet is a program which listens to network traffic and picks out images
+from TCP streams it observes. Fun to run on a host which sees lots of web
+traffic.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ex-parrot.com/~chris/driftnet/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

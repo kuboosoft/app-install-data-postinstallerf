@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>xvidcore</b>'
+Comment='<span size="xx-large">MPEG-4 Simple and Advanced Simple Profile codec</span>'
+Comment3='
+The Xvid video codec implements MPEG-4 Simple Profile and Advanced Simple
+Profile standards. It permits compressing and decompressing digital video
+in order to reduce the required bandwidth of video data for transmission
+over computer networks or efficient storage on CDs or DVDs. Due to its
+unrivalled quality Xvid has gained great popularity and is used in many
+other GPLed applications, like e.g. Transcode, MEncoder, MPlayer, Xine and
+many more.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xvid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

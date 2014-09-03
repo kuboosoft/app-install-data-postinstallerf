@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pycryptopp</b>'
+Comment='<span size="xx-large">Python wrappers for the Crypto++ library</span>'
+Comment3='
+PyCryptopp is a set of Python wrappers for a few
+of the best crypto algorithms from the Crypto++ library
+(including SHA-256, AES, RSA signatures and Elliptic Curve DSA signatures).
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://tahoe-lafs.org/trac/pycryptopp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

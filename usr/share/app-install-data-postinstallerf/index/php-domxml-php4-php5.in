@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-domxml-php4-php5</b>'
+Comment='<span size="xx-large">XML transition from PHP4 domxml to PHP5 dom module</span>'
+Comment3='
+XML transition from PHP4 domxml to PHP5 dom module.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://alexandre.alapetite.fr/doc-alex/domxml-php4-php5/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

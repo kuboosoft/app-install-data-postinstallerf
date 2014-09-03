@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libbluray</b>'
+Comment='<span size="xx-large">Library to access Blu-Ray disks for video playback</span>'
+Comment3='
+This package is aiming to provide a full portable free open source bluray
+library, which can be plugged into popular media players to allow full bluray
+navigation and playback on Linux. It will eventually be compatible with all
+current titles, and will be easily portable and embeddable in standard players
+such as mplayer and vlc.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.videolan.org/developers/libbluray.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

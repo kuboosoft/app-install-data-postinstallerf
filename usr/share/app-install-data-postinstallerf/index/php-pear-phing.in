@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>php-pear-phing</b>'
+Comment='<span size="xx-large">A project build system based on Apache Ant</span>'
+Comment3='
+PHing Is Not GNU make; its a project build system based on Apache Ant.
+
+You can do anything with it that you could do with a traditional build
+system like GNU make, and its use of simple XML build files and extensible
+PHP "task" classes make it an easy-to-use and highly flexible build
+framework. Features include file transformations (e.g. token replacement,
+XSLT transformation, Smarty template transformations), file system operations,
+interactive build support, SQL execution, CVS operations, tools for creating
+PEAR packages, and much more.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://phing.info/trac/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

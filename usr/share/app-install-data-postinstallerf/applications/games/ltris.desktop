@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n ltris
+Name=LTris
+GenericName=Puzzle game
+Comment=Tetris clone
+Icon=/usr/share/app-install-data-postinstallerf/icons/ltris.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Game;

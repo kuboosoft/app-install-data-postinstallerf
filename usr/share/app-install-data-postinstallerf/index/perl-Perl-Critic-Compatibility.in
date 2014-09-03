@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Perl-Critic-Compatibility</b>'
+Comment='<span size="xx-large">Perl::Critic policies for compatibility with Perl versions</span>'
+Comment3='
+Some PerlCritic policies that will help you keep your code compatible with
+other versions of Perl, regardless of the version that youre developing with.
+This includes both backward and forward compatibility.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic-Compatibility/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

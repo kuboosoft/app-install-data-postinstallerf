@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Net-LibIDN</b>'
+Comment='<span size="xx-large">Perl bindings for GNU LibIDN</span>'
+Comment3='
+Provides perl bindings for GNU Libidn, a C library for handling
+Internationalized Domain Names according to IDNA (RFC 3490), in
+a way very much inspired by Turbo Fredrikssons PHP-IDN.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-LibIDN/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cssparser-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for cssparser</span>'
+Comment3='
+API documentation for cssparser.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://cssparser.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

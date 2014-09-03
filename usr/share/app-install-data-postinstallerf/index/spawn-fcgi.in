@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>spawn-fcgi</b>'
+Comment='<span size="xx-large">Simple program for spawning FastCGI processes</span>'
+Comment3='
+This package contains the spawn-fcgi program used for spawning FastCGI
+processes, which can be local or remote.
+'
+License='BSD'
+Screenshot=''
+Url='http://redmine.lighttpd.net/projects/spawn-fcgi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

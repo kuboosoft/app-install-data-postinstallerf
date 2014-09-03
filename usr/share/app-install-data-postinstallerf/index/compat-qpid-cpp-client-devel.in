@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>compat-qpid-cpp-client-devel</b>'
+Comment='<span size="xx-large">Header files, documentation and testing tools for developing Qpid C++ clients</span>'
+Comment3='
+Libraries, header files and documentation for developing AMQP clients
+in C++ using Qpid.  Qpid implements the AMQP messaging specification.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>btm</b>'
+Comment='<span size="xx-large">Bitronix Transaction Manager</span>'
+Comment3='
+The Bitronix Transaction Manager (BTM) is a simple but complete
+implementation of the JTA 1.1 API. It is a fully working XA transaction
+manager that provides all services required by the JTA API while trying
+to keep the code as simple as possible for easier understanding of the
+XA semantics.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://bitronix.be'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fntsample</b>'
+Comment='<span size="xx-large">A program for making font samples that show Unicode coverage of the font</span>'
+Comment3='
+A program for making font samples that show Unicode coverage of
+the font and are similar in appearance to Unicode charts.
+Samples can be saved as PDF or PostScript files.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fntsample.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

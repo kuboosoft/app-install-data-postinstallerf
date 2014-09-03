@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-websocket-driver</b>'
+Comment='<span size="xx-large">WebSocket protocol handler with pluggable I/O for Node.js</span>'
+Comment3='
+WebSocket protocol handler with pluggable I/O for Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/faye/websocket-driver-node'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

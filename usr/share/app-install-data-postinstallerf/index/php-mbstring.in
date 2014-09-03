@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-mbstring</b>'
+Comment='<span size="xx-large">A module for PHP applications which need multi-byte string handling</span>'
+Comment3='
+The php-mbstring package contains a dynamic shared object that will add
+support for multi-byte string handling to PHP.
+'
+License='PHP and LGPLv2 and BSD and OpenLDAP'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

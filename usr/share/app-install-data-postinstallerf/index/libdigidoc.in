@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libdigidoc</b>'
+Comment='<span size="xx-large">Library for handling digitally signed documents</span>'
+Comment3='
+libDigiDoc is a library implementing a subset of the XAdES digital
+signature standard on top of Estonian specific .ddoc container format.
+It allows to create, sign, verify, and modify digidoc XML containers.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/esteid/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

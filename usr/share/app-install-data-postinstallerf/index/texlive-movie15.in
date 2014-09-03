@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-movie15</b>'
+Comment='<span size="xx-large">Multimedia inclusion package</span>'
+Comment3='
+Provides an interface to embed movies, sounds and 3D objects
+into PDF documents for use with LaTeX as well as pdfLaTeX.
+Defines \includemovie with PDF-1.5 compatibility. Option
+autoplay causes the media clip to be started right after the
+page has loaded. This is useful for side by side movie clips to
+be played back synchronously.
+
+date 2012-05-17 130431 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>scorched3d</b>'
+Comment='<span size="xx-large">Game based loosely on the classic DOS game Scorched Earth</span>'
+Comment3='
+Scorched 3D is a game based on the classic DOS game Scorched Earth
+"The Mother Of All Games".  Scorched 3D adds amongst other new
+features a 3D island environment and LAN and internet play.  At its
+lowest level, Scorched 3D is just an artillery game with two+ tanks
+taking turns to destroy opponents in an arena.  Choose the angle,
+direction and power of each shot, launch your weapon, and try to blow
+up other tanks.  But Scorched 3D can be a lot more complex than that,
+if you want it to be.  You can earn money from successful battles and
+use it to invest in additional weapons and accessories.  You can play
+with up to twenty four other players at a time, mixing computer
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.scorched3d.co.uk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

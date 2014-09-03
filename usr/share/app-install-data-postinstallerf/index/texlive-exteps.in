@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-exteps</b>'
+Comment='<span size="xx-large">Include EPS figures in MetaPost</span>'
+Comment3='
+Exteps is a module for including external EPS figures into
+MetaPost figures. It is written entirely in MetaPost, and does
+not therefore require any post processing of the MetaPost
+output.
+
+date 2007-03-06 103425 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

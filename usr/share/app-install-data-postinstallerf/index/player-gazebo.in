@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>player-gazebo</b>'
+Comment='<span size="xx-large">Gazebo plugin driver for the Player robot server.</span>'
+Comment3='
+Plugin driver for the Player robot server.  Translates gazebo interfaces
+to be accessible through the Player server interfaces.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://www.gazebosim.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

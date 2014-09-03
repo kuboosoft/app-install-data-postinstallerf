@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tuxmath</b>'
+Comment='<span size="xx-large">Educational math tutor for children</span>'
+Comment3='
+TuxMath is an educational math tutor for children. It features several
+different types of gameplay, at a variety of difficulty levels.
+'
+License='GPLv3+ and CC-BY and OFL'
+Screenshot=''
+Url='http://tux4kids.alioth.debian.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

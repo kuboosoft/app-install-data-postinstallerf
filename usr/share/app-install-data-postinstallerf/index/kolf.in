@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kolf</b>'
+Comment='<span size="xx-large">A miniature golf game</span>'
+Comment3='
+Kolf is a miniature golf game with 2d top-down view. Courses are
+dynamic, and up to 10 people can play at once in competition.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kolf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-HTML-WikiConverter</b>'
+Comment='<span size="xx-large">Perl module to convert HTML to wiki markup</span>'
+Comment3='
+HTMLWikiConverter is an HTML to wiki converter. It can convert HTML source
+into a variety of wiki markups, called wiki "dialects".
+
+This package contains the perl modules; install the "html2wiki" package for the
+application itself.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTML-WikiConverter/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

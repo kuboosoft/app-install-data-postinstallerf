@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gpac-libs</b>'
+Comment='<span size="xx-large">Library for gpac</span>'
+Comment3='
+The gpac-libs package contains library for gpac.
+
+URL          http//gpac.sourceforge.net/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gpac.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

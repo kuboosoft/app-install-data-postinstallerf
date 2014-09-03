@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>matreshka-sql-core</b>'
+Comment='<span size="xx-large">Framework for work with SQL databases based on Matreshka</span>'
+Comment3='
+SQL database access provides simple generic API to access to SQL databases.
+
+URL          http//forge.ada-ru.org/matreshka
+'
+License='BSD'
+Screenshot=''
+Url='http://forge.ada-ru.org/matreshka'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

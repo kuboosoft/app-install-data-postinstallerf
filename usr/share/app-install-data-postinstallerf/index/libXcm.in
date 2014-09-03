@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libXcm</b>'
+Comment='<span size="xx-large">X Color Management Library</span>'
+Comment3='
+The libXcm library is a reference implementation of the net-color spec.
+It allows to attach color regions to X windows to communicate with color
+servers.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.oyranos.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

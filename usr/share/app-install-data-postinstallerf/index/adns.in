@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>adns</b>'
+Comment='<span size="xx-large">Advanced, easy to use, asynchronous-capable DNS client library</span>'
+Comment3='
+adns is a resolver library for C (and C++) programs. In contrast with
+the existing interfaces, gethostbyname et al and libresolv, it has the
+following features
+ - It is reasonably easy to use for simple programs which just want to
+   translate names to addresses, look up MX records, etc.
+ - It can be used in an asynchronous, non-blocking, manner. Many
+   queries can be handled simultaneously.
+ - Responses are decoded automatically into a natural representation
+   for a C program - there is no need to deal with DNS packet formats.
+ - Sanity checking (eg, name syntax checking, reverse/forward
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.chiark.greenend.org.uk/~ian/adns/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

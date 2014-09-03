@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qstat</b>'
+Comment='<span size="xx-large">Real-time Game Server Status for FPS game servers</span>'
+Comment3='
+QStat is a command-line program that gathers real-time statistics
+from Internet game servers. Most supported games are of the first
+person shooter variety (Quake, Half-Life, etc)
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/qstat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

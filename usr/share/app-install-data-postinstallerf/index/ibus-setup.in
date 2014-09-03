@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-setup</b>'
+Comment='<span size="xx-large">IBus setup utility</span>'
+Comment3='
+This is a setup utility for IBus.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/ibus/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

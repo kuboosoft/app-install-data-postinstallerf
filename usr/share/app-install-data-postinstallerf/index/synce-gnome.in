@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>synce-gnome</b>'
+Comment='<span size="xx-large">Display libnotify messages for odccm</span>'
+Comment3='
+SynCE-GNOME is currently just a buzzword for an idea that eventually, will
+encapsulate multiple applications into one applet. At the moment,
+SynCE-GNOME as we know it only displays nice libnotify messages when a device
+is connected or disconnected, and it prompts for a password if one is required.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.synce.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

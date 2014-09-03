@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>CGAL-demos-source</b>'
+Comment='<span size="xx-large">Examples and demos of CGAL algorithms</span>'
+Comment3='
+The CGAL-demos-source package provides the sources of examples and demos of
+CGAL algorithms.
+'
+License='LGPLv3+ and GPLv3+ and Boost'
+Screenshot=''
+Url='http://www.cgal.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

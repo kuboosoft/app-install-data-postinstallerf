@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-tevent</b>'
+Comment='<span size="xx-large">Python bindings for the Tevent library</span>'
+Comment3='
+Python bindings for libtevent
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://tevent.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

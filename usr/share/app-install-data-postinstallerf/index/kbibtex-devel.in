@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kbibtex-devel</b>'
+Comment='<span size="xx-large">Development files for KBibTeX</span>'
+Comment3='
+The kbibtex-devel package contains libraries and header files necessary for
+developing programs using KBibTeX libraries.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://home.gna.org/kbibtex/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

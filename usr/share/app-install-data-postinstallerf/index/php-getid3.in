@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-getid3</b>'
+Comment='<span size="xx-large">The PHP media file parser</span>'
+Comment3='
+getID3() is a PHP script that extracts useful information
+(such as ID3 tags, bitrate, playtime, etc.) from MP3s &
+other multimedia file formats (Ogg, WMA, WMV, ASF, WAV, AVI,
+AAC, VQF, FLAC, MusePack, Real, QuickTime, Monkeys Audio, MIDI and more).
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://getid3.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

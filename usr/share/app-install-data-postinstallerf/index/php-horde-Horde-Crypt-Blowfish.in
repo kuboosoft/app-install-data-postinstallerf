@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Crypt-Blowfish</b>'
+Comment='<span size="xx-large">Blowfish Encryption Library</span>'
+Comment3='
+Provides blowfish encryption/decryption for PHP string data.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

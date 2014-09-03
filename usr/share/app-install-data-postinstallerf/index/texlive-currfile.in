@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-currfile</b>'
+Comment='<span size="xx-large">Provide file name and path of input files</span>'
+Comment3='
+The package provides macros holding file name information
+(directory, base name, extension, full name and full path) for
+files read by LaTeX \input and \include macros; it uses the
+file hooks provided by the authors filehook. In particular, it
+restores the parent file name after the trailing \clearpage of
+an \included file; as a result, the macros may be usefully
+employed in the page header and footer of the last printed page
+of such a file. The depth of inclusion is made available,
+together with the "parent" (including file) and "parents" (all
+including files to the root of the tree). The package
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

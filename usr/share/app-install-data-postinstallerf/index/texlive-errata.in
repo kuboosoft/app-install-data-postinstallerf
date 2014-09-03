@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-errata</b>'
+Comment='<span size="xx-large">Error markup for LaTeX documents</span>'
+Comment3='
+This package provides a simple infrastructure for recording
+errata in LaTeX documents. This allows the user to maintain an
+updated version of the document (with all errors corrected) and
+to automatically generate an errata document highlighting the
+difference to the published version.
+
+date 2008-08-19 201524 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

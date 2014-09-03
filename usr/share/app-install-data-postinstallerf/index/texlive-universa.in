@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-universa</b>'
+Comment='<span size="xx-large">Herbert Bayers universal font</span>'
+Comment3='
+An implementation of the universal font by Herbert Bayer of the
+Bauhaus school. The MetaFont sources of the fonts, and their
+LaTeX support, are all supplied in a LaTeX documented source
+(.dtx) file.
+
+date 2008-11-02 010610 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

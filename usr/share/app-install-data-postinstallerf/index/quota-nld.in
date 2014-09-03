@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>quota-nld</b>'
+Comment='<span size="xx-large">quota_nld daemon</span>'
+Comment3='
+Daemon that listens on netlink socket and processes received quota warnings.
+Note, that you have to enable the kernel support for sending quota messages
+over netlink (in Filesystems->Quota menu). The daemon supports forwarding
+warning messages to the system D-Bus (so that desktop manager can display
+a dialog) and writing them to the terminal user has last accessed.
+'
+License='BSD and LGPLv2+ and GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/linuxquota/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

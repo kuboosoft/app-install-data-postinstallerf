@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-NumInstances</b>'
+Comment='<span size="xx-large">Instances of numeric classes for functions and tuples</span>'
+Comment3='
+Instances of numeric classes for functions and tuples.
+Import "Data.NumInstances" to get all the instances.
+If you want only function or only tuple instances, import
+"Data.NumInstances.Function" or "Data.NumInstances.Tuple".
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/NumInstances'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

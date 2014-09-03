@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n cqrlog
+Name=CQRLOG
+Comment=Advanced logging program for hamradio operators
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/cqrlog.png
+Categories=Utility;Database;HamRadio

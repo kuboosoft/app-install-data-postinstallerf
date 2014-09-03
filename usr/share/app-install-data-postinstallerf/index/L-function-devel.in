@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>L-function-devel</b>'
+Comment='<span size="xx-large">Development libraries/headers for L-function</span>'
+Comment3='
+Headers and libraries for development with L-function.
+
+URL          http//oto.math.uwaterloo.ca/~mrubinst/L_function_public/L.html
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://oto.math.uwaterloo.ca/~mrubinst/L_function_public/L.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

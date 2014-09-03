@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bea-stax-api</b>'
+Comment='<span size="xx-large">The StAX API</span>'
+Comment3='
+The StAX API
+'
+License='ASL 1.1 and ASL 2.0'
+Screenshot=''
+Url='http://stax.codehaus.org/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

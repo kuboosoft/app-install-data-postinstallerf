@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>perl-Makefile-Parser</b>'
+Comment='<span size="xx-large">Simple parser for Makefiles</span>'
+Comment3='
+This is a simple parser for Makefiles. At this very early stage, the parser
+only supports a limited set of features, so it may not recognize most of
+the advanced features provided by certain make tools like GNU make. Its
+initial purpose is to provide basic support for another module named
+MakefileGraphViz, which is aimed to render the building process specified
+by a Makefile using the amazing GraphViz library. The Make module is not
+satisfactory for this purpose, so I decided to build one of my own.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Makefile-Parser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

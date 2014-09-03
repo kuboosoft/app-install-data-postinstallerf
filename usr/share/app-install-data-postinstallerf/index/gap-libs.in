@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gap-libs</b>'
+Comment='<span size="xx-large">Essential GAP libraries</span>'
+Comment3='
+This package contains the essential GAP libraries lib and grp, as well as
+the primitive, small, and transitive group databases.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gap-system.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

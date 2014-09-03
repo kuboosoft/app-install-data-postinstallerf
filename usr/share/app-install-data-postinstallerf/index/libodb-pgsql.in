@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libodb-pgsql</b>'
+Comment='<span size="xx-large">PostgreSQL ODB runtime library from Code Synthesis</span>'
+Comment3='
+ODB is an object-relational mapping (ORM) system for C++. It provides
+tools, APIs, and library support that allow you to persist C++ objects
+to a relational database (RDBMS) without having to deal with tables,
+columns, or SQL and without manually writing any of the mapping code.
+
+This package contains the PostgreSQL ODB runtime library. Every
+application that includes code generated for the PostgreSQL database
+will need to link to this library.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.codesynthesis.com/products/odb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

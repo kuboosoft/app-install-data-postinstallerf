@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-phpunit-PHP-Invoker</b>'
+Comment='<span size="xx-large">Utility class for invoking callables with a timeout</span>'
+Comment3='
+Utility class for invoking callables with a timeout.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/sebastianbergmann/php-invoker'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>strongswan</b>'
+Comment='<span size="xx-large">An OpenSource IPsec-based VPN Solution</span>'
+Comment3='
+The strongSwan IPsec implementation supports both the IKEv1 and IKEv2 key
+exchange protocols in conjunction with the native NETKEY IPsec stack of the
+Linux kernel.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.strongswan.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-hsb</b>'
+Comment='<span size="xx-large">Upper Sorbian hyphenation rules</span>'
+Comment3='
+Upper Sorbian hyphenation rules.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/tex-hyphen'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

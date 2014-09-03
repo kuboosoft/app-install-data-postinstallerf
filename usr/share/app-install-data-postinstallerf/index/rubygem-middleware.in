@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-middleware</b>'
+Comment='<span size="xx-large">Generalized implementation of the middleware abstraction for Ruby</span>'
+Comment3='
+Generalized implementation of the middleware abstraction for Ruby.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/mitchellh/middleware'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools-archives</b>'
+Comment='<span size="xx-large">JBoss Archives Tools</span>'
+Comment3='
+Project Archives provides a way to define archives based on include/exclude
+filesets which then gets incrementally updated allowing for fluent
+deployment for any type of Eclipse project.
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

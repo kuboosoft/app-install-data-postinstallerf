@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-repoze-what-pylons</b>'
+Comment='<span size="xx-large">A plugin providing utilities for Pylons applications using repoze.what</span>'
+Comment3='
+This plugin provides optional and handy utilities for Pylons applications
+using repoze.what. Some of the features of the plugin include
+* The utilities are ready to use There?s nothing additional to be configured
+  before using.
+* 100% documented. Each component is documented along with code samples.
+* The test suite has a coverage of 100% and it will never decrease ? if it
+  ever does, report it as a bug!
+* TurboGears 2 is officially supported as well.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.gustavonarea.net/repoze.what-pylons/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

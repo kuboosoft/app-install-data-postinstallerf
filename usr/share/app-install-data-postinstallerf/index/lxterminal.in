@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lxterminal</b>'
+Comment='<span size="xx-large">Desktop-independent VTE-based terminal emulator</span>'
+Comment3='
+LXterminal is a VTE-based terminal emulator with support for multiple tabs.
+It is completely desktop-independent and does not have any unnecessary
+dependencies. In order to reduce memory usage and increase the performance
+all instances of the terminal are sharing a single process.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lxde.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

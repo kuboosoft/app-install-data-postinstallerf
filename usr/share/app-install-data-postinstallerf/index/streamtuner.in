@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>streamtuner</b>'
+Comment='<span size="xx-large">An internet radio browser</span>'
+Comment3='
+Streamtuner lists radio directory services like Shoutcast, Xiph, Live365,
+MyOggRadio, Jamendo. It allows listening via any audio player and recording of
+streams via streamripper.
+This is streamtuner2 which mimics the older streamtuner 0.99.99 application
+in look and feel. But its an independent rewrite and runs on Python;
+is therefore easier to extend.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://sourceforge.net/projects/streamtuner2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

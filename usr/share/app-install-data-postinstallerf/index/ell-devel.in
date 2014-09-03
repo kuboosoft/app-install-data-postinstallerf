@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ell-devel</b>'
+Comment='<span size="xx-large">Development files for ELL</span>'
+Comment3='
+ell-devel is only required for building software that uses the ELL library.
+Because ELL is a header-only library, there is no matching run-time package.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/ell/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

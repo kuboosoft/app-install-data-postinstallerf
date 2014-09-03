@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pstreams-devel</b>'
+Comment='<span size="xx-large">POSIX Process Control in C++</span>'
+Comment3='
+PStreams class is like a C++ wrapper for the POSIX.2 functions
+popen(3) and pclose(3), using C++ iostreams instead of Cs stdio
+library.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://pstreams.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

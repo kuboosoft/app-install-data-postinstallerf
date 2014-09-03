@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ocaml-csv</b>'
+Comment='<span size="xx-large">OCaml library for reading and writing CSV files</span>'
+Comment3='
+This OCaml library can read and write CSV files, including all
+extensions used by Excel - eg. quotes, newlines, 8 bit characters in
+fields, quote-0 etc.
+
+The library comes with a handy command line tool called csvtool for
+handling CSV files from shell scripts.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://forge.ocamlcore.org/projects/csv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python3-mccabe</b>'
+Comment='<span size="xx-large">McCabe checker, plugin for flake8</span>'
+Comment3='
+Neds script to check McCabe complexity.
+
+This module provides a plugin for ``flake8``, the Python code
+checker.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/mccabe'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

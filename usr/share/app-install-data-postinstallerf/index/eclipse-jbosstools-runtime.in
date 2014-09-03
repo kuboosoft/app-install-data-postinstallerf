@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools-runtime</b>'
+Comment='<span size="xx-large">JBoss Runtime Detection</span>'
+Comment3='
+JBoss Runtime Detection
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

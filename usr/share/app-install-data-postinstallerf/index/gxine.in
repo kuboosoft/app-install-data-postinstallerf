@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gxine</b>'
+Comment='<span size="xx-large">GTK frontend for the xine multimedia library</span>'
+Comment3='
+gxine is a fully-featured free audio/video player for unix-like systems which
+uses libxine for audio/video decoding and playback. For more informations on
+what formats are supported, please refer to the libxine documentation.
+gxine is a gtk based gui for this xine-library alternate to xine-ui.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xine-project.org/home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

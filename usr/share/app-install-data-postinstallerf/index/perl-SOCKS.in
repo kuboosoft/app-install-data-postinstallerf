@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-SOCKS</b>'
+Comment='<span size="xx-large">SOCKS Perl module</span>'
+Comment3='
+This is a SOCKS client module that can communicate with SOCKS v4 and v5
+servers.  It currently allows you to make outgoing and incoming TCP
+connections.  UDP is not yet supported and is first on the TODO list.
+Included in this distribution is a sample program called "example" to show
+you how to use this module.  NetSOCKS documentation is available on your
+system by doing a "perldoc NetSOCKS".
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/SOCKS/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

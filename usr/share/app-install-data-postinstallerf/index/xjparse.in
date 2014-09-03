@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xjparse</b>'
+Comment='<span size="xx-large">Wrapper for the Xerces XML Schema validator</span>'
+Comment3='
+The xjparse tool is a simple command-line wrapper for the Xerces XML Schema
+validator. It accepts several options, notably one which specifies the set
+of schemas to be used during validation.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://nwalsh.com/java/xjparse'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

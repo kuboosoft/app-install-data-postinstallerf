@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>collectd-netlink</b>'
+Comment='<span size="xx-large">Netlink plugin for collectd</span>'
+Comment3='
+This plugin uses a netlink socket to query the Linux kernel
+about statistics of various interface and routing aspects.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kmod-devel</b>'
+Comment='<span size="xx-large">Header files for kmod development</span>'
+Comment3='
+The kmod-devel package provides header files used for development of
+applications that wish to load or unload Linux kernel modules.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://git.kernel.org/?p=utils/kernel/kmod/kmod.git;a=summary'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

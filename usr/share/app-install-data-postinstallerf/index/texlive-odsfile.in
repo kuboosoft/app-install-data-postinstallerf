@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-odsfile</b>'
+Comment='<span size="xx-large">Read OpenDocument Spreadsheet documents as LaTeX tables</span>'
+Comment3='
+The distribution includes a package and a lua library that can
+together read OpenDocument spreadsheet documents as LaTeX
+tables. Cells in the tables may be processed by LaTeX macros,
+so that (for example) the package may be used for drawing some
+plots. The package uses luas zip library.
+
+date 2012-08-13 114125 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>balloontip</b>'
+Comment='<span size="xx-large">Balloon tip component for Java Swing applications</span>'
+Comment3='
+Balloontip is a Java Swing component that provides balloon tips.
+'
+License='BSD'
+Screenshot=''
+Url='https://balloontip.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

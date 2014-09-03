@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sumwars-data</b>'
+Comment='<span size="xx-large">Hack and slash top-down view RPG game</span>'
+Comment3='
+This package contains the data files for Summoning Wars.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='http://sumwars.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

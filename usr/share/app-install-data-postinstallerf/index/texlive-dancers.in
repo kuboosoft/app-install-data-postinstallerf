@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-dancers</b>'
+Comment='<span size="xx-large">Font for Conan Doyles "The Dancing Men"</span>'
+Comment3='
+The (Sherlock Holmes) book contains a code which uses dancing
+men as glyphs. The alphabet as given is not complete, lacking
+f, j, k, q, u, w, x and z, so those letters in the font are not
+due to Conan Doyle. The code required word endings to be marked
+by the dancing man representing the last letter to be holding a
+flag these are coded as A-Z.
+thaTiStOsaYsentenceSiNthEcodElooKlikEthiS. In some cases, the
+man has no arms, making it impossible for him to hold a flag.
+In these cases, he is wearing a flag on his hat in the
+character. The font is distributed as MetaFont source.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

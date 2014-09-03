@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-blessings</b>'
+Comment='<span size="xx-large">Python library for terminal coloring, styling, and positioning</span>'
+Comment3='
+Blessings is a thin, practical wrapper around terminal coloring, styling, and
+positioning in Python.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/erikrose/blessings'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

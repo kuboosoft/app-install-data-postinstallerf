@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>emacs-lua-el</b>'
+Comment='<span size="xx-large">Elisp source files for Lua major mode under GNU Emacs</span>'
+Comment3='
+This package contains the elisp source files for Lua major mode
+under GNU Emacs. You do not need to install this package to run
+Lua major mode. Install the emacs-lua package to use Lua major mode
+with GNU Emacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://lua-mode.luaforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

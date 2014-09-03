@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-tgcaptcha</b>'
+Comment='<span size="xx-large">TurboGears CAPTCHA widget for forms</span>'
+Comment3='
+TGCaptcha is a TurboGears widget that provides an easy way to incorporate a
+captcha as part a form in an attempt to reduce spam or malicious activity.
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/tgcaptcha'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>systemd-python3</b>'
+Comment='<span size="xx-large">Python 3 bindings for systemd</span>'
+Comment3='
+This package contains bindings which allow Python 3 programs to use
+systemd APIs
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/systemd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

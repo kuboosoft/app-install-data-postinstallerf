@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bltk</b>'
+Comment='<span size="xx-large">The BLTK measures notebook battery life under any workload</span>'
+Comment3='
+This tool kit is used to measure battery life and performance under
+different workloads on Linux. Test can be used with various workloads to
+simulate different types of laptop usage.
+The following workloads are currently implemented
+	a) Idle workload - collect statistics only
+	b) Developer workload - simulates code development in Linux environment
+	c) Reader workload - simulates text reading on laptop
+	d) DVD playback workload - simulates laptop entertaining usage
+	e) 3d game workload - simulates 3D-gaming on laptop
+	f) Office Activity workload - simulates laptop usage for different
+'
+License='BSD'
+Screenshot=''
+Url='http://www.lesswatts.org/projects/bltk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

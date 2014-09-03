@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>geda-docs</b>'
+Comment='<span size="xx-large">Documentation and Examples for gEDA</span>'
+Comment3='
+This package contains documentation and examples for the gEDA project.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gpleda.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

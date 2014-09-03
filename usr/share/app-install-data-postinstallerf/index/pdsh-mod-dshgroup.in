@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pdsh-mod-dshgroup</b>'
+Comment='<span size="xx-large">Provides dsh-style group file support for pdsh</span>'
+Comment3='
+Pdsh module providing dsh (Dancers shell) style "group" file support.
+Provides -g groupname and -X groupname options to pdsh.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://pdsh.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

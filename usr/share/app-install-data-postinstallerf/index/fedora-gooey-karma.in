@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>fedora-gooey-karma</b>'
+Comment='<span size="xx-large">GUI tool for sending feedback about installed Test Update packages</span>'
+Comment3='
+Fedora-gooey-karma helps you to easily and fast provide feedback for all testing
+updates that you have currently installed and browse the available ones. It is
+similar tool to fedora-easy-karma but with graphical front-end.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/Fedora_Gooey_Karma'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

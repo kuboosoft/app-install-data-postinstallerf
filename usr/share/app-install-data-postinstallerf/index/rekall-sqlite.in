@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rekall-sqlite</b>'
+Comment='<span size="xx-large">Rekall SQLite support</span>'
+Comment3='
+SQLite components and scripts for Rekall.
+
+URL          http//www.rekallrevealed.org/
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.rekallrevealed.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

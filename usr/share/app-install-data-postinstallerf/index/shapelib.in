@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>shapelib</b>'
+Comment='<span size="xx-large">C library for handling ESRI Shapefiles</span>'
+Comment3='
+The Shapefile C Library provides the ability to write
+simple C programs for reading, writing and updating (to a
+limited extent) ESRI Shapefiles, and the associated
+attribute file (.dbf).
+
+'
+License='(LGPLv2+ or MIT) and GPLv2+ and Public Domain'
+Screenshot=''
+Url='http://shapelib.maptools.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

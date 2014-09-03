@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-XML-Hash-LX</b>'
+Comment='<span size="xx-large">Convert hash to XML and XML to hash using LibXML</span>'
+Comment3='
+This module is a companion for XMLLibXML. It operates with LibXML
+objects, could return or accept LibXML objects, and may be used for
+easy data transformations.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-Hash-LX/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

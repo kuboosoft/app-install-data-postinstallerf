@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apiviz</b>'
+Comment='<span size="xx-large">APIviz is a JavaDoc doclet to generate class and package diagrams</span>'
+Comment3='
+APIviz is a JavaDoc doclet which extends the Java standard doclet.
+It generates comprehensive UML-like class and package diagrams for
+quick understanding of the overall API structure.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/apiviz/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

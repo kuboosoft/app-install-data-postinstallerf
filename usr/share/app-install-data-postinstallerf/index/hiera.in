@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hiera</b>'
+Comment='<span size="xx-large">A simple hierarchical database supporting plugin data sources</span>'
+Comment3='
+A simple hierarchical database supporting plugin data sources.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://projects.puppetlabs.com/projects/hiera/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

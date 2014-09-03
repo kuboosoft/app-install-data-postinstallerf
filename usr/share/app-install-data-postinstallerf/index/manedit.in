@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>manedit</b>'
+Comment='<span size="xx-large">UNIX Manual Page Editor</span>'
+Comment3='
+ManEdit is a UNIX manual page editor and viewer,
+it is designed specifically for the editing of the
+UNIX manual page format using an integrated XML interface.
+
+NOTE This is a gtk+ package and some characters,
+especially UTF-8 characters will be garbled.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://freshmeat.net/projects/manedit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

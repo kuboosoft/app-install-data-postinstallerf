@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>scratch</b>'
+Comment='<span size="xx-large">Programming language learning environment for stories, games, music and art</span>'
+Comment3='
+Scratch is a programming language that makes it easy to create your own
+creations on the web.
+
+As young people create and share Scratch projects, they learn important
+mathematical and computational ideas, while also learning to think
+creatively, reason systematically, and work collaboratively.
+This package brings in all of the various subpackages which comprise the
+full Scratch distribution.
+'
+License='GPLv2 and ASL 2.0 and MIT and CC-BY-SA'
+Screenshot=''
+Url='http://scratch.mit.edu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

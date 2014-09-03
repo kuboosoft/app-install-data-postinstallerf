@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python3-liblinear</b>'
+Comment='<span size="xx-large">Python3 bindings for liblinear</span>'
+Comment3='
+This package contains bindings for developing Python3 applications that
+use liblinear.
+
+For further information read "README.python" included in the
+liblinear-doc package.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.csie.ntu.edu.tw/~cjlin/liblinear'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

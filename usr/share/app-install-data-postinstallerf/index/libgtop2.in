@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgtop2</b>'
+Comment='<span size="xx-large">LibGTop library (version 2)</span>'
+Comment3='
+LibGTop is a library for portably obtaining information about processes,
+such as their PID, memory usage, etc.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://download.gnome.org/sources/libgtop/2.28'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

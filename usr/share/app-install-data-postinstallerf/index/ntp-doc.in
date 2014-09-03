@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ntp-doc</b>'
+Comment='<span size="xx-large">NTP documentation</span>'
+Comment3='
+This package contains NTP documentation in HTML format.
+'
+License='(MIT and BSD and BSD with advertising) and GPLv2'
+Screenshot=''
+Url='http://www.ntp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

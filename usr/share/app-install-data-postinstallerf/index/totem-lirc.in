@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>totem-lirc</b>'
+Comment='<span size="xx-large">LIRC (Infrared remote) plugin for Totem</span>'
+Comment3='
+This package provides a plugin to add LIRC (Infrared remote) support to Totem.
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://projects.gnome.org/totem/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bluefish-shared-data</b>'
+Comment='<span size="xx-large">Architecture-independent data for bluefish</span>'
+Comment3='
+Files common to every architecture version of bluefish.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://bluefish.openoffice.nl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

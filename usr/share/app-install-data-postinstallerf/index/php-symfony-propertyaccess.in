@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-symfony-propertyaccess</b>'
+Comment='<span size="xx-large">Symfony PropertyAccess Component</span>'
+Comment3='
+The PropertyAccess component provides function to read and write from/to an
+object or array using a simple string notation.
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com/doc/current/components/property_access/introduction.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

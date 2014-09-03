@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>glassfish-el-api</b>'
+Comment='<span size="xx-large">Expression Language API 2.2.4</span>'
+Comment3='
+This project provides an implementation of the Expression Language (EL).
+The main goals are
+ * Improves current implementation bug fixes and performance improvements
+ * Provides API for use by other tools, such as Netbeans
+'
+License='CDDL and ASL 2.0'
+Screenshot=''
+Url='http://uel.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

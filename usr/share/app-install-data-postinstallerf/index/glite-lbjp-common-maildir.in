@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>glite-lbjp-common-maildir</b>'
+Comment='<span size="xx-large">Single-purpose implementation of maildir-like queue</span>'
+Comment3='
+Single-purpose implementation of maildir-like queue. It is used to pass data
+from gLite Bookkeeping server to Job Provenance.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.cern.ch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

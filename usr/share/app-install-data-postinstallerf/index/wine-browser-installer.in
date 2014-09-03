@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>wine-browser-installer</b>'
+Comment='<span size="xx-large">Browser installer for wine-silverlight, shared between netflix-desktop and pipelight</span>'
+Comment3='
+Browser installer for wine-silverlight, shared between netflix-desktop and pipelight.
+'
+License='MIT; LGPL-2.1'
+Screenshot=''
+Url='https://launchpad.net/netflix-desktop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libiscsi-utils</b>'
+Comment='<span size="xx-large">iSCSI Client Utilities</span>'
+Comment3='
+The libiscsi-utils package provides a set of assorted utilities to connect
+to iSCSI servers without having to set up the Linux iSCSI initiator.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/sahlberg/libiscsi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

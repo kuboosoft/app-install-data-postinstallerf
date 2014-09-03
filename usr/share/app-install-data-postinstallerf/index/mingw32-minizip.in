@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-minizip</b>'
+Comment='<span size="xx-large">Minizip manipulates files from a .zip archive</span>'
+Comment3='
+MinGW Minizip manipulates files from a .zip archive.
+'
+License='zlib'
+Screenshot=''
+Url='http://www.zlib.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

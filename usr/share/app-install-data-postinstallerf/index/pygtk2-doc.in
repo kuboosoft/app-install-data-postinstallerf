@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pygtk2-doc</b>'
+Comment='<span size="xx-large">Documentation files for pygtk2</span>'
+Comment3='
+This package contains documentation files for pygtk2.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.pygtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

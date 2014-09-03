@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>meld</b>'
+Comment='<span size="xx-large">Visual diff and merge tool</span>'
+Comment3='
+Meld is a visual diff and merge tool targeted at developers. It helps you
+compare files, directories, and version controlled projects. It provides two-
+and three-way comparison of both files and directories, and the tabbed interface
+allows you to open many diffs at once.
+Meld has has support for many popular version control systems including Git,
+Mercurial, Bazaar, SVN and CVS. The diff viewer lets you edit files in place
+(diffs update dynamically), and a middle column shows detailed changes and
+allows merges. The margins show location of changes for easy navigation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://meldmerge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

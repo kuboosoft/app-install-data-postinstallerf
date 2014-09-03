@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-tap</b>'
+Comment='<span size="xx-large">TeX macros for typesetting complex tables</span>'
+Comment3='
+The package offers a simple notation for pretty complex tables
+(to Michael J. Fergusons credit). With PostScript, the package
+allows shaded/coloured tables, diagonal rules, etc. The package
+is supposed to work with both Plain and LaTeX. An AWK converter
+from ASCII semigraphic tables to TAP notation is included.
+
+date 2012-06-22 132157 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

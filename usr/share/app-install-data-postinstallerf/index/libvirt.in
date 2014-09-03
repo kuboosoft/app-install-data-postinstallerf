@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt</b>'
+Comment='<span size="xx-large">Library providing a simple virtualization API</span>'
+Comment3='
+Libvirt is a C toolkit to interact with the virtualization capabilities
+of recent versions of Linux (and other OSes). The main package includes
+the libvirtd server exporting the virtualization support.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

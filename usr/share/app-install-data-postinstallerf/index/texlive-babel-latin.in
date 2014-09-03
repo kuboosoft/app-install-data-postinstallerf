@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-babel-latin</b>'
+Comment='<span size="xx-large">babel-latin package</span>'
+Comment3='
+babel-latin package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

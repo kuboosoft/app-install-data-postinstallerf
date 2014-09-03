@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-wrapfig</b>'
+Comment='<span size="xx-large">Produces figures which text can flow around</span>'
+Comment3='
+Allows figures or tables to have text wrapped around them. Does
+not work in combination with list environments, but can be used
+in a parbox or minipage, and in twocolumn format. Supports the
+float package.
+
+date 2011-04-09 125630 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

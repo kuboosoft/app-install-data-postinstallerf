@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vice-data</b>'
+Comment='<span size="xx-large">Data files for vice</span>'
+Comment3='
+Data files for vice. These can also be used together with libsidplayfp
+based sid music players.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://vice-emu.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

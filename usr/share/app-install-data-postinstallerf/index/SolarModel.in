@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>SolarModel</b>'
+Comment='<span size="xx-large">Real-time 3D Solar System simulation</span>'
+Comment3='
+Solar Model provides realtime modeling of the solar system. It allows the user
+to navigate in space, to control time counting (speed-up time flow) and
+estimate real movement of space bodies like planets, dwarf planets and moons;
+estimate its nowadays positions in space. You may select two possible views
+Solar System view or Milky Way galaxy view. It also allows the user to bind
+the camera to space objects (for example, you can look from the Moon onto Earth
+in real-time flow).
+'
+License='GPL+'
+Screenshot=''
+Url='http://www.ffsoftworks.com/solarmodel.php'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

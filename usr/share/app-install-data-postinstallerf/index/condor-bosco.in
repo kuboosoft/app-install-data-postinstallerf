@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>condor-bosco</b>'
+Comment='<span size="xx-large">BOSCO, a Condor overlay system for managing jobs at remote clusters</span>'
+Comment3='
+BOSCO allows a locally-installed Condor to submit jobs to remote clusters,
+using SSH as a transit mechanism.  It is designed for cases where the remote
+cluster is using a different batch system such as PBS, SGE, LSF, or another
+Condor system.
+
+BOSCO provides an overlay system so the remote clusters appear to be a Condor
+cluster.  This allows the user to run their workflows using Condor tools across
+multiple clusters.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://bosco.opensciencegrid.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

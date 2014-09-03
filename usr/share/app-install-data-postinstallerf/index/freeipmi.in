@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>freeipmi</b>'
+Comment='<span size="xx-large">IPMI remote console and system management software</span>'
+Comment3='
+The FreeIPMI project provides "Remote-Console" (out-of-band) and
+"System Management Software" (in-band) based on Intelligent
+Platform Management Interface specification.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/freeipmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

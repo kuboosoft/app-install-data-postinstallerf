@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vim-latex-doc</b>'
+Comment='<span size="xx-large">Documentation for vim-latex</span>'
+Comment3='
+Documentation for vim-latex.
+'
+License='Vim'
+Screenshot=''
+Url='http://vim-latex.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

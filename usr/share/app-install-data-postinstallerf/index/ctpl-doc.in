@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ctpl-doc</b>'
+Comment='<span size="xx-large">Documentation for the CTPL library</span>'
+Comment3='
+This package contains the HTML documentation reference for the CTPL library.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://ctpl.tuxfamily.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

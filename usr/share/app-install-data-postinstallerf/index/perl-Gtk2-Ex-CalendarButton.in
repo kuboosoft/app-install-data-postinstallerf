@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Gtk2-Ex-CalendarButton</b>'
+Comment='<span size="xx-large">Gtk2::Ex::CalendarButton Perl module</span>'
+Comment3='
+I realized that I was constantly re-creating a simple widget that will pop-up
+and Gtk2Calendar when clicked. Just like the datetime display on your
+desktop taskbar. This package is my attempt to extract the portion of code
+required to create a button-click-calender.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Gtk2-Ex-CalendarButton/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

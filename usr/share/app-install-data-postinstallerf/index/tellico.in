@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>tellico</b>'
+Comment='<span size="xx-large">A collection manager</span>'
+Comment3='
+Tellico is a collection manager for KDE. It includes default collections for
+books, bibliographies, comic books, videos, music, coins, stamps, trading
+cards, and wines, and also allows custom collections. Unlimited user-defined
+fields are allowed. Filters are available to limit the visible entries by
+definable criteria. Full customization for printing is possible through
+editing the default XSLT file. It can import CSV, Bibtex, and Bibtexml and
+export CSV, HTML, Bibtex, Bibtexml, and PilotDB. Entries may be imported
+directly from Amazon.com.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://tellico-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

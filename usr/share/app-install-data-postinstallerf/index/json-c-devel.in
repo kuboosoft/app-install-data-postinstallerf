@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>json-c-devel</b>'
+Comment='<span size="xx-large">Development headers and library for json-c</span>'
+Comment3='
+This package contains the development headers and library for json-c.
+
+URL          https//github.com/json-c/json-c/wiki
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/json-c/json-c/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

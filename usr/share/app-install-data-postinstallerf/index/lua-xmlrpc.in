@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>lua-xmlrpc</b>'
+Comment='<span size="xx-large">Lua package to access and provide XML-RPC services</span>'
+Comment3='
+Lua XML-RPC is a library to make remote procedure calls using XML-RPC.
+It also offers facilities to develop server-side software.
+
+Lua XML-RPC provides a simple API and an abstraction layer over XML, thus
+avoiding the complexity of having to deal with strings that represent data
+structures.
+'
+License='MIT'
+Screenshot=''
+Url='http://keplerproject.github.com/lua-xmlrpc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>nodejs-cmd-shim</b>'
+Comment='<span size="xx-large">Used to create executable scripts on Windows and Unix</span>'
+Comment3='
+The cmd-shim used in npm to create executable scripts on Windows, since symlinks
+are not suitable for this purpose there.
+
+On Unix systems, you should use a symbolic link instead, but this module
+supports creating shell script shims also.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/ForbesLindesay/cmd-shim'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

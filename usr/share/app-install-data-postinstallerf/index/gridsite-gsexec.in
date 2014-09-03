@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gridsite-gsexec</b>'
+Comment='<span size="xx-large">Setuid gsexec tools for gridsite</span>'
+Comment3='
+GridSite was originally a web application developed for managing and formatting
+the content of the http//www.gridpp.ac.uk/ website. Over the past years it
+has grown into a set of extensions to the Apache web server and a toolkit for
+
+This package gridsite-setuid, contains the setuid gsexec program.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://www.gridsite.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

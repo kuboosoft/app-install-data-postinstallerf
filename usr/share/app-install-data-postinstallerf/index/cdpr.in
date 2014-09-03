@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cdpr</b>'
+Comment='<span size="xx-large">Cisco Discovery Protocol Analyzer</span>'
+Comment3='
+cdpr is used to decode a Cisco Disovery Protocol (CDP) packet, by default it
+will report the device ID, the IP Address (of the device), and the port
+number that the machine is connected to.
+Optionally it will decode the entire CDP packet.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/cdpr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

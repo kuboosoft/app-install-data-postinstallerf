@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rvm-devel</b>'
+Comment='<span size="xx-large">Development files for rvm</span>'
+Comment3='
+The rvm-devel package contains libraries and header files for
+developing applications that use rvm.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.coda.cs.cmu.edu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

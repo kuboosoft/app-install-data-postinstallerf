@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-URI-Find</b>'
+Comment='<span size="xx-large">Find URIs in plain text</span>'
+Comment3='
+This module does one thing Finds URIs and URLs in plain text. It finds
+them quickly and it finds them *all* (or what URIURL considers a URI to
+be.) It only finds URIs which include a scheme (http// or the like), for
+something a bit less strict have a look at URIFindSchemeless.
+
+For a command-line interface, see Darren Chamberlains urifind script.
+Its available from his CPAN directory
+    http//www.cpan.org/authors/id/D/DA/DARREN/
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/URI-Find'
+This module does one thing: Finds URIs and URLs in plain text. It finds'
+them quickly and it finds them *all* (or what URI::URL considers a URI to'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

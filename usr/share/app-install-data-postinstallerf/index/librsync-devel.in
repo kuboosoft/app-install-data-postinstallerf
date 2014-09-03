@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>librsync-devel</b>'
+Comment='<span size="xx-large">Headers and development libraries for librsync</span>'
+Comment3='
+This package contains header files necessary for developing programs
+based on librsync. It was previously known as libhsync up to version
+0.9.0.
+
+The current version of this package does not implement the rsync
+network protocol and uses a delta format slightly more efficient than
+and incompatible with rsync 2.4.6.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://librsync.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

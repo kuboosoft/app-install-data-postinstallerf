@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uima-pear-maven-plugin</b>'
+Comment='<span size="xx-large">Apache UIMA Maven Pear Plugin</span>'
+Comment3='
+This is a maven plugin that produces a pear artifact.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://uima.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

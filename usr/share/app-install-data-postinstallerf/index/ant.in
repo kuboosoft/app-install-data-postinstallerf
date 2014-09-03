@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ant</b>'
+Comment='<span size="xx-large">Build tool for java</span>'
+Comment3='
+Ant is a platform-independent build tool for java. Its used by apache
+jakarta and xml projects.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ant.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

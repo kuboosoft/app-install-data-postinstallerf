@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ngspice</b>'
+Comment='<span size="xx-large">A mixed level/signal circuit simulator</span>'
+Comment3='
+Ngspice is a general-purpose circuit simulator program.
+It implements three classes of analysis
+- Nonlinear DC analyses
+- Nonlinear Transient analyses
+- Linear AC analyses
+
+Ngspice implements the usual circuits elements, like resistors, capacitors,
+inductors (single or mutual), transmission lines and a growing number of
+semiconductor devices like diodes, bipolar transistors, mosfets (both bulk
+and SOI), mesfets, jfet and HFET. Ngspice implements the EKV model but it
+'
+License='BSD'
+Screenshot=''
+Url='http://ngspice.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pythia8-examples</b>'
+Comment='<span size="xx-large">Pythia 8 Example Source Files</span>'
+Comment3='
+This package provides example source files for Pythia 8.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://home.thep.lu.se/~torbjorn/Pythia.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

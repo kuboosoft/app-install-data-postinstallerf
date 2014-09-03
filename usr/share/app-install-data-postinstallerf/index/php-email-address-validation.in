@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-email-address-validation</b>'
+Comment='<span size="xx-large">A PHP class for validating email addresses</span>'
+Comment3='
+This PHP class is used to check email addresses for technical validity.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/php-email-address-validation/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

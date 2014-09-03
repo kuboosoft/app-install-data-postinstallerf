@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-mr</b>'
+Comment='<span size="xx-large">Marathi hyphenation rules</span>'
+Comment3='
+Marathi hyphenation rules.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://wiki.smc.org.in'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

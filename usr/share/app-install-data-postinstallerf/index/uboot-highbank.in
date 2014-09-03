@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>uboot-highbank</b>'
+Comment='<span size="xx-large">u-boot bootloader binaries for calxeda highbank</span>'
+Comment3='
+u-boot bootloader binaries for calxeda highbank
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.denx.de/wiki/U-Boot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pstools</b>'
+Comment='<span size="xx-large">Produce Encapsulated PostScript from PostScript</span>'
+Comment3='
+Produce Encapsulated PostScript Files (EPS/EPSF) from a one-
+page PostScript document, or any PostScript document. A correct
+Bounding Box is calculated for the EPS files and some
+PostScript command sequences that can produce errorneous
+results on printers are filtered. The input is cropped to
+include just the image contained in the PostScript file. The
+EPS files can then be included into TeX documents. Other
+programs like ps2epsi (a script distributed with ghostscript)
+dont always calculate the correct bounding box (because the
+values are put on the PostScript stack which may get corrupted
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

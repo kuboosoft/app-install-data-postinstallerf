@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jetty-schemas</b>'
+Comment='<span size="xx-large">XML Schemas for Jetty</span>'
+Comment3='
+XML Schemas for Jetty.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://www.eclipse.org/jetty/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

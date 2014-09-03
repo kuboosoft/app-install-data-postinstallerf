@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-ta</b>'
+Comment='<span size="xx-large">Tamil hyphenation rules</span>'
+Comment3='
+Tamil hyphenation rules.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://wiki.smc.org.in'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

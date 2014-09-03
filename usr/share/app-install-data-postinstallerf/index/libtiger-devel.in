@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtiger-devel</b>'
+Comment='<span size="xx-large">Development files for libtiger</span>'
+Comment3='
+The libtiger-devel package contains libraries and header files for
+developing applications that use libtiger.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libtiger.googlecode.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

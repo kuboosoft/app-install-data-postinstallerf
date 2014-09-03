@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>proguard-manual</b>'
+Comment='<span size="xx-large">Manual for proguard</span>'
+Comment3='
+The manual for proguard.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://proguard.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

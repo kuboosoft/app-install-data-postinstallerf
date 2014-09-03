@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>travelccm</b>'
+Comment='<span size="xx-large">C++ Travel Customer Choice Model (CCM) Library</span>'
+Comment3='
+travelccm aims at providing a clean API, and the corresponding
+C++ implementation, for choosing one item among a set of travel
+solutions, given demand-related characteristics (e.g.,
+Willingness-To-Pay, preferred airline, preferred cabin, etc.).
+
+The travelccm C++ library implements some simple Customer Choice Models
+(CCM), as referenced in the literature (PhD dissertations at MIT, for
+instance http//dspace.mit.edu).
+The travelccm C++ library exposes a simple, clean and object-oriented,
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/travel-ccm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

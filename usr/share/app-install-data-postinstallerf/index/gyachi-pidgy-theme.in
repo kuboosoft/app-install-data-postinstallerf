@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gyachi-pidgy-theme</b>'
+Comment='<span size="xx-large">GyachI Prototype theme</span>'
+Comment3='
+GyachI Prototype theme This package supplies the artwork for the GyachI pidgy theme.
+This theme uses the pidgin icons, and is copyrighted by its respective authors.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://gyachi.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

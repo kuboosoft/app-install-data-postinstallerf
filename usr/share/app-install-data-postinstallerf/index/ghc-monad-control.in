@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ghc-monad-control</b>'
+Comment='<span size="xx-large">Lift control operations through monad transformers</span>'
+Comment3='
+This package defines the type class MonadBaseControl, a subset of
+MonadBase into which generic control operations such as catch can be
+lifted from IO or any other base monad. Instances are based on monad
+transformers in MonadTransControl, which includes all standard monad
+transformers in the transformers library except ContT.
+
+See the lifted-base package which uses monad-control to lift IO
+operations from the base library (like catch or bracket) into any
+monad that is an instance of MonadBase or MonadBaseControl.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/monad-control'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

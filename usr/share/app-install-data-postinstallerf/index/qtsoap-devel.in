@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qtsoap-devel</b>'
+Comment='<span size="xx-large">Development files for qtsoap</span>'
+Comment3='
+Development files for qtsoap.
+
+URL          http//qt.nokia.com/products/appdev/add-on-products/catalog/4/Utilities/qtsoap/
+'
+License='LGPLv2 with exceptions or GPLv3'
+Screenshot=''
+Url='http://qt.nokia.com/products/appdev/add-on-products/catalog/4/Utilities/qtsoap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

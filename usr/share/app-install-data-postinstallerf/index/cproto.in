@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cproto</b>'
+Comment='<span size="xx-large">Generates function prototypes and variable declarations from C code</span>'
+Comment3='
+Cproto generates function prototypes and variable declarations from C
+source code. Cproto can also convert function definitions between the
+old style and the ANSI C style. This conversion will overwrite the
+original files, however, so be sure to make a backup copy of your
+original files in case something goes wrong. Cproto uses a Yacc
+generated parser, so it should not be confused by complex function
+definitions as much as other prototype generators.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://invisible-island.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

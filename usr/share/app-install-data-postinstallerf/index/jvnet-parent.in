@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jvnet-parent</b>'
+Comment='<span size="xx-large">Java.net parent POM file</span>'
+Comment3='
+Java.net parent POM file used by most Java.net subprojects such as
+Glassfish
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.java.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

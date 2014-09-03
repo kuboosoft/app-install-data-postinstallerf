@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lua-lxc</b>'
+Comment='<span size="xx-large">Lua binding for lxc</span>'
+Comment3='
+Linux Resource Containers provide process and resource isolation without the
+overhead of full virtualization.
+
+The lua-lxc package contains the Lua binding for lxc.
+'
+License='LGPLv2+ and GPLv2'
+Screenshot=''
+Url='http://lxc.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

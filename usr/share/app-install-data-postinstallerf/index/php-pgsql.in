@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-pgsql</b>'
+Comment='<span size="xx-large">A PostgreSQL database module for PHP</span>'
+Comment3='
+The php-pgsql package add PostgreSQL database support to PHP.
+PostgreSQL is an object-relational database management
+system that supports almost all SQL constructs. PHP is an
+HTML-embedded scripting language. If you need back-end support for
+PostgreSQL, you should install this package in addition to the main
+php package.
+'
+License='PHP'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

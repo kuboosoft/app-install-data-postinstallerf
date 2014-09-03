@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-petiteannonce</b>'
+Comment='<span size="xx-large">A class for small advertisements</span>'
+Comment3='
+The class enables you to create the sort of adverts that you
+pin on a noticeboard, with tear-off strips at the bottom where
+you can place contact details.
+
+date 2012-04-11 151102 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

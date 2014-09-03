@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>EMBOSS-devel</b>'
+Comment='<span size="xx-large">Development tools for programs which will use the EMBOSS library</span>'
+Comment3='
+The EMBOSS-devel package includes the header files and static libraries
+necessary for developing programs which will use the EMBOSS library.
+
+'
+License='GPLv2+ and LGPLv2+ and CC-BY and GPLv3+ and Public Domain'
+Screenshot=''
+Url='http://emboss.sf.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

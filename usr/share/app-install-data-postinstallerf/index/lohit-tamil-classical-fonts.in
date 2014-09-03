@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lohit-tamil-classical-fonts</b>'
+Comment='<span size="xx-large">Free Tamil Classical sans-serif font</span>'
+Comment3='
+This package provides a free Tamil classical truetype/opentype font.
+'
+License='OFL'
+Screenshot=''
+Url='https://fedorahosted.org/lohit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

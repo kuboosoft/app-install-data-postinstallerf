@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>bangarang</b>'
+Comment='<span size="xx-large">Media player with nepomuk support</span>'
+Comment3='
+* Play your media (Media files, CD and DVD).
+* Restrained interface that puts your media front-and-center.
+* Media library functions that allow you simple, effective browsing and
+  categorization for all your media including
+	o Music
+	o Audio streams
+	o Audio clips
+	o Movies
+	o TV Shows
+	o Video clips
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://bangarangkde.wordpress.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>sugar-cp-power</b>'
+Comment='<span size="xx-large">Sugar Power control panel</span>'
+Comment3='
+This is the Sugar Power settings control panel
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sugarlabs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

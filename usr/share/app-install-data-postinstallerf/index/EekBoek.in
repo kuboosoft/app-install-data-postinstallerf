@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>EekBoek</b>'
+Comment='<span size="xx-large">Bookkeeping software for small and medium-size businesses</span>'
+Comment3='
+EekBoek is a bookkeeping package for small and medium-size businesses.
+Unlike other accounting software, EekBoek has both a command-line
+interface (CLI) and a graphical user-interface (GUI, currently under
+development and not included in this package). Furthermore, it has a
+complete Perl API to create your own custom applications. EekBoek is
+designed for the Dutch/European market and currently available in
+Dutch only. An English translation is in the works (help appreciated).
+
+EekBoek can make use of several database systems for its storage.
+Support for the SQLite database is included.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://www.eekboek.nl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>maven-wadl-plugin</b>'
+Comment='<span size="xx-large">WADL Maven Mojo</span>'
+Comment3='
+A maven plugin that generates a wadl file
+from resource classes and more stuff.
+'
+License='(CDDL or GPLv2 with exceptions) and ASL 2.0'
+Screenshot=''
+Url='http://jersey.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

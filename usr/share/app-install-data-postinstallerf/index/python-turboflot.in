@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-turboflot</b>'
+Comment='<span size="xx-large">A TurboGears widget for Flot, a jQuery plotting library</span>'
+Comment3='
+A TurboGears widget for Flot, a jQuery plotting library.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/TurboFlot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gitg</b>'
+Comment='<span size="xx-large">GTK+ graphical interface for the git revision control system</span>'
+Comment3='
+gitg is a GitX clone for GNOME/gtk+. It aims at being a small, fast and
+convenient tool to visualize git history and actions that benefit from a
+graphical presentation.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://trac.novowork.com/gitg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

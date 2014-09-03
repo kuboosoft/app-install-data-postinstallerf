@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openscap-perl</b>'
+Comment='<span size="xx-large">Perl bindings for openscap</span>'
+Comment3='
+The openscap-perl package contains the bindings so that openscap
+libraries can be used by perl.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.open-scap.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

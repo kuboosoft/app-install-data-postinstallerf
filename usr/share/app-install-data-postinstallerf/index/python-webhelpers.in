@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python-webhelpers</b>'
+Comment='<span size="xx-large">Helper library for aiding the writing of web templates in Python</span>'
+Comment3='
+Web Helpers is a library of helper functions intended to make writing templates
+in web applications easier.
+
+One of the sub-sections of Web Helpers contains a full port of the template
+helpers that are provided by Ruby on Rails with slight adaptations on occasion
+to accommodate for Python.
+'
+License='BSD'
+Screenshot=''
+Url='http://pylonshq.com/WebHelpers/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

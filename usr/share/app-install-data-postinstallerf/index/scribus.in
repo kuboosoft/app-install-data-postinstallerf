@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>scribus</b>'
+Comment='<span size="xx-large">DeskTop Publishing application written in Qt</span>'
+Comment3='
+Scribus is an desktop open source page layout program with
+the aim of producing commercial grade output in PDF and
+Postscript, primarily, though not exclusively for Linux.
+
+While the goals of the program are for ease of use and simple easy to
+understand tools, Scribus offers support for professional publishing
+features, such as CMYK color, easy PDF creation, Encapsulated Postscript
+import/export and creation of color separations.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.scribus.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

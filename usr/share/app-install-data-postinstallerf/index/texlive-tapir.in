@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-tapir</b>'
+Comment='<span size="xx-large">A simple geometrical font</span>'
+Comment3='
+Tapir is a simple geometrical font mostly created of line and
+circular segments with constant thickness. The font is
+available as MetaFont source and in Adobe Type 1 format. The
+character set contains all characters in the range 0-127 (as in
+cmr10), accented characters used in the Czech, Slovak and
+Polish languages.
+
+date 2007-03-12 143212 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libexplain-devel</b>'
+Comment='<span size="xx-large">Development files for libexplain</span>'
+Comment3='
+Development files for the libexplain library.
+
+URL          http//libexplain.sourceforge.net
+'
+License='LGPLv3+ and GPLv3+'
+Screenshot=''
+Url='http://libexplain.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

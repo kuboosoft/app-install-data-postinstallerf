@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-columnize</b>'
+Comment='<span size="xx-large">Sorts an array in column order</span>'
+Comment3='
+Sorts an array in column order
+'
+License='GPLv2'
+Screenshot=''
+Url='http://rubyforge.org/projects/rocky-hacks/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

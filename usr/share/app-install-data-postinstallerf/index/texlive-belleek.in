@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-belleek</b>'
+Comment='<span size="xx-large">Free replacement for basic MathTime fonts</span>'
+Comment3='
+This package replaces the original MathTime fonts, not
+MathTime-Plus or MathTime Professional (the last being the only
+currently available commercial bundle).
+
+date 2008-11-30 155919 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

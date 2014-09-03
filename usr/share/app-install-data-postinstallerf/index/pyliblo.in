@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pyliblo</b>'
+Comment='<span size="xx-large">Python bindings for the liblo OSC library</span>'
+Comment3='
+pyliblo is a Python wrapper for the liblo Open Sound Control library.
+It supports almost the complete functionality of liblo, allowing you
+to send and receive OSC messages using a nice and simple Python API.
+
+Also included are the command line utilities send_osc and dump_osc.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://das.nasophon.de/pyliblo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

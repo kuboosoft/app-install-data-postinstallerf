@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-bartlett-PHP-CompatInfo</b>'
+Comment='<span size="xx-large">Find out version and the extensions required for a piece of code to run</span>'
+Comment3='
+PHP_CompatInfo will parse a file/folder/array to find out the minimum
+version and extensions required for it to run. CLI version has many reports
+(extension, interface, class, function, constant) to display and ability to
+show content of dictionary references.
+
+HTML Documentation  /usr/share/doc/pear/PHP_CompatInfo/html/index.html
+'
+License='BSD and MIT'
+Screenshot=''
+Url='http://php5.laurent-laville.org/compatinfo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

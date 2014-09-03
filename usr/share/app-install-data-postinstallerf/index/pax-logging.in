@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pax-logging</b>'
+Comment='<span size="xx-large">OSGi Logging framework implementation</span>'
+Comment3='
+The OSGi Logging framework implementation. Supports SLF4J,
+LOG4J,Jakarta Commons Logging etc.
+'
+License='ASL 2.0 and BSD and MIT'
+Screenshot=''
+Url='http://team.ops4j.org/wiki//display/paxlogging/Pax+Logging'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

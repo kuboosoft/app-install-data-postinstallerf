@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-tilejson</b>'
+Comment='<span size="xx-large">Tile source backend for online tile sources</span>'
+Comment3='
+Tile source backend for online tile sources
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/mapbox/node-tilejson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

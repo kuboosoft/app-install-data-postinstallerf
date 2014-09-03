@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>lua-lpeg</b>'
+Comment='<span size="xx-large">Parsing Expression Grammars for Lua</span>'
+Comment3='
+LPeg is a new pattern-matching library for Lua, based on Parsing Expression
+Grammars (PEGs).
+'
+License='MIT'
+Screenshot=''
+Url='http://www.inf.puc-rio.br/~roberto/lpeg/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

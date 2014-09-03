@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>meanwhile</b>'
+Comment='<span size="xx-large">Lotus Sametime Community Client library</span>'
+Comment3='
+The heart of the meanwhile Project is the meanwhile library, providing the basic
+Lotus Sametime session functionality along with the core services; Presence
+Awareness, Instant Messaging, Multi-user Conferencing, Preferences Storage,
+Identity Resolution, and File Transfer.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://meanwhile.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

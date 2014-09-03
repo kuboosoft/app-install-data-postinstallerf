@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>at-spi2-atk</b>'
+Comment='<span size="xx-large">A GTK+ module that bridges ATK to D-Bus at-spi</span>'
+Comment3='
+at-spi allows assistive technologies to access GTK-based
+applications. Essentially it exposes the internals of applications for
+automation, so tools such as screen readers, magnifiers, or even
+scripting interfaces can query and interact with GUI controls.
+
+This version of at-spi is a major break from previous versions.
+It has been completely rewritten to use D-Bus rather than
+ORBIT / CORBA for its transport protocol.
+This package includes a gtk-module that bridges ATK to the new
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

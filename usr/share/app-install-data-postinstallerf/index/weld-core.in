@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>weld-core</b>'
+Comment='<span size="xx-large">Reference Implementation for JSR-299: Contexts and Dependency Injection (CDI)</span>'
+Comment3='
+Weld is the reference implementation (RI) for JSR-299 Java Contexts and
+Dependency Injection for the Java EE platform (CDI). CDI is the Java standard
+for dependency injection and contextual lifecycle management, and integrates
+cleanly with the Java EE platform. Any Java EE 6-compliant application server
+provides support for JSR-299 (even the web profile).
+'
+License='ASL 2.0 and LGPLv2+ and (CDDL or GPLv2 with exceptions)'
+Screenshot=''
+Url='http://seamframework.org/Weld'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

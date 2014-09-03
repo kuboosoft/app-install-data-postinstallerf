@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xorg-x11-drv-nouveau</b>'
+Comment='<span size="xx-large">Xorg X11 nouveau video driver for NVIDIA graphics chipsets</span>'
+Comment3='
+X.Org X11 nouveau video driver.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

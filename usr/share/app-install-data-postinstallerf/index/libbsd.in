@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libbsd</b>'
+Comment='<span size="xx-large">Library providing BSD-compatible functions for portability</span>'
+Comment3='
+libbsd provides useful functions commonly found on BSD systems, and
+lacking on others like GNU systems, thus making it easier to port
+projects with strong BSD origins, without needing to embed the same
+code over and over again on each project.
+
+'
+License='BSD and ISC and Copyright only and Public Domain'
+Screenshot=''
+Url='http://libbsd.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

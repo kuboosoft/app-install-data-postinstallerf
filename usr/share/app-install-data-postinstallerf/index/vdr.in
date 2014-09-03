@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vdr</b>'
+Comment='<span size="xx-large">Video Disk Recorder</span>'
+Comment3='
+VDR implements a complete digital set-top-box and video recorder.
+It can work with signals received from satellites (DVB-S) as well as
+cable (DVB-C) and terrestrial (DVB-T) signals.  At least one DVB card
+is required to run VDR.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.tvdr.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

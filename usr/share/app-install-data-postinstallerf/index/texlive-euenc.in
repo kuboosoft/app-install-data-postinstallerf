@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-euenc</b>'
+Comment='<span size="xx-large">Unicode font encoding definitions for XeTeX</span>'
+Comment3='
+Font encoding definitions for unicode fonts loaded by LaTeX in
+designed for use with XeTeX, which the fontspec uses for
+unicode fonts which require no macro-level processing for
+with LuaTeX. Neither encoding places any restriction on the
+glyphs provided by a font; use of EU2 causes the package
+euxunicode to be loaded (the package is part of this
+distribution). The package includes font definition files for
+use with the Latin Modern OpenType fonts.
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

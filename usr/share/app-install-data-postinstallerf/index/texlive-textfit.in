@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-textfit</b>'
+Comment='<span size="xx-large">Fit text to a desired size</span>'
+Comment3='
+Package to fit text to a given width or height by scaling the
+font. For example \scaletowidth{3in}{This}. (The job is done
+by calculating a magstep and applying it to the current font;
+thus "This" will be very tall, as well as very wide; to scale
+in just one dimension, use the facilities of the graphicx
+package.)
+
+date 2010-11-28 202122 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

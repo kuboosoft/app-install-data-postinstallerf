@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mod_proxy_uwsgi</b>'
+Comment='<span size="xx-large">uWSGI - Apache2 proxy module</span>'
+Comment3='
+Fully Apache API compliant proxy module
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://github.com/unbit/uwsgi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

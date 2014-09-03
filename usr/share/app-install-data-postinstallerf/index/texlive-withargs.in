@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-withargs</b>'
+Comment='<span size="xx-large">withargs package</span>'
+Comment3='
+withargs package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

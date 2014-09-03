@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-esprima</b>'
+Comment='<span size="xx-large">ECMAScript parsing infrastructure for multipurpose analysis</span>'
+Comment3='
+ECMAScript parsing infrastructure for multipurpose analysis.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/ariya/esprima'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

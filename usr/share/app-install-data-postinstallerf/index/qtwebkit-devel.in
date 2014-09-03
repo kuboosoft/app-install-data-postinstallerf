@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qtwebkit-devel</b>'
+Comment='<span size="xx-large">Development files for qtwebkit</span>'
+Comment3='
+Development files for qtwebkit.
+
+URL          http//trac.webkit.org/wiki/QtWebKit
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://trac.webkit.org/wiki/QtWebKit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

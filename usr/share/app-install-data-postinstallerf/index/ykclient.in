@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ykclient</b>'
+Comment='<span size="xx-large">Yubikey management library and client</span>'
+Comment3='
+commandline for yubikeys
+
+URL          http//opensource.yubico.com/yubico-c-client/
+'
+License='BSD'
+Screenshot=''
+Url='http://opensource.yubico.com/yubico-c-client/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

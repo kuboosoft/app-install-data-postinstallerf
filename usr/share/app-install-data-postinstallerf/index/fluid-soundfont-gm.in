@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>fluid-soundfont-gm</b>'
+Comment='<span size="xx-large">Pro-quality General Midi soundfont</span>'
+Comment3='
+
+FluidR3 is the third release of Frank Wens pro-quality GM/GS soundfont.
+The soundfont has lots of excellent samples, including all the GM instruments
+along side with the GS instruments that are recycled and reprogrammed versions
+of the GM presets.
+This package contains Fluid General Midi (GM) soundfont in soundfont 2.0 (.sf2)
+format.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.hammersound.com/cgi-bin/soundlink.pl?action=view_category&category=Collections&ListStart=0&ListLength=20'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

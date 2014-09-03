@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-boondox</b>'
+Comment='<span size="xx-large">Mathematical alphabets derived from the STIX fonts</span>'
+Comment3='
+The package contains a number of PostScript fonts derived from
+the STIX OpenType fonts, that may be used in maths mode in
+regular and bold weights for calligraphic, fraktur and double-
+struck alphabets. Virtual fonts with metrics suitable for maths
+mode are provided, as are LaTeX support files.
+
+date 2011-05-04 083611 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Imsp</b>'
+Comment='<span size="xx-large">IMSP API</span>'
+Comment3='
+Provides an API into an IMSP server for address books and options.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

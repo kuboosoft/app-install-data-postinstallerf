@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ballz</b>'
+Comment='<span size="xx-large">Platform game with some puzzle elements</span>'
+Comment3='
+Ballz is a platformer with some puzzle elements. You take control of a ball
+which is genetically modified by the British secret service. Your mission is
+to rescue captured British soldiers from a prison in Iran.
+
+The game was written in 72 hours for the TINS competition, a competition
+similar to Speedhack. The name TINS is an recursive acronym for ?TINS is
+not Speedhack?.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/db-tins07/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

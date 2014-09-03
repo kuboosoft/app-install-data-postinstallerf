@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>trac-sensitivetickets-plugin</b>'
+Comment='<span size="xx-large">Plugin for Trac that enables sensitive tickets</span>'
+Comment3='
+SensitiveTickets is a plugin that lets users mark tickets as "sensitive"
+with a checkbox on the ticket form. Sensitive tickets are viewable only
+to those with the SENSITIVE_VIEW permission.
+
+Beware Hooks that send mail on ticket changes will still send mail for
+sensitive tickets; this may not be what you want.
+Beware if the plugin is removed, disabled, or fails to load, trac will
+opt to display sensitive tickets ("failing open" instead of "failing closed").
+'
+License='GPL+'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/SensitiveTicketsPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

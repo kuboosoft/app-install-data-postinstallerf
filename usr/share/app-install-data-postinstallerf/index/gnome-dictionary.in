@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-dictionary</b>'
+Comment='<span size="xx-large">A dictionary application for GNOME</span>'
+Comment3='
+gnome-dictionary lets you look up words in dictionary sources.
+
+URL          http//www.gnome.org/
+'
+License='GPLv3+ and LGPLv2+ and GFDL'
+Screenshot=''
+Url='http://www.gnome.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

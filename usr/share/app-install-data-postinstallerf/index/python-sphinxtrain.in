@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-sphinxtrain</b>'
+Comment='<span size="xx-large">Python interface to SphinxTrain</span>'
+Comment3='
+Python interface to cmusphinx3.
+'
+License='BSD'
+Screenshot=''
+Url='http://cmusphinx.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

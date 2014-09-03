@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>qpid-cpp-client-rdma</b>'
+Comment='<span size="xx-large">RDMA Protocol support (including Infiniband) for Qpid clients</span>'
+Comment3='
+A client plugin and support library to support RDMA protocols (including
+Infiniband) as the transport for Qpid messaging.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

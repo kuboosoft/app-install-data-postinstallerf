@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>man-pages-ru</b>'
+Comment='<span size="xx-large">Russian man pages from the Linux Documentation Project</span>'
+Comment3='
+Manual pages from the Linux Documentation Project, translated into
+Russian.
+'
+License='GPL+ and BSD and MIT and GFDL'
+Screenshot=''
+Url='http://sourceforge.net/projects/man-pages-ru/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

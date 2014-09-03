@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>numad</b>'
+Comment='<span size="xx-large">NUMA user daemon</span>'
+Comment3='
+Numad, a daemon for NUMA (Non-Uniform Memory Architecture) systems,
+that monitors NUMA characteristics and manages placement of processes
+and memory to minimize memory latency and thus provide optimum performance.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/?p=numad.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openlmi</b>'
+Comment='<span size="xx-large">OpenLMI managed system software components</span>'
+Comment3='
+OpenLMI provides a common infrastructure for the management of Linux systems.
+This package installs a core set of OpenLMI providers and necessary
+infrastructure packages enabling the system to be managed remotely.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

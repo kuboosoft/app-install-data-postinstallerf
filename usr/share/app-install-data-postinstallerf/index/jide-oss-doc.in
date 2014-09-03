@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jide-oss-doc</b>'
+Comment='<span size="xx-large">User documentation for jide-oss</span>'
+Comment3='
+User documentation for jide-oss.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='https://jide-oss.dev.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>gsm-ussd</b>'
+Comment='<span size="xx-large">USSD query tool</span>'
+Comment3='
+gsm-ussd is a script to send USSD (Unstructured Supplementary
+Services Data) queries to your broadband provider. USSD queries
+are "phone numbers" like "*100#", which will result in a message
+(NOT a SMS) with your current prepaid account balance.
+
+You can use this program to query your own phone number,
+replenish your prepaid account, query your free minutes left
+and so on, depending on your GSM provider.
+'
+License='GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://iloapp.zum-quadrat.de/blog/linux?Home&category=2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

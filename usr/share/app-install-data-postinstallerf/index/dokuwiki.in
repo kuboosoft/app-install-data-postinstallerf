@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>dokuwiki</b>'
+Comment='<span size="xx-large">Standards compliant simple to use wiki</span>'
+Comment3='
+DokuWiki is a standards compliant, simple to use Wiki, mainly aimed at creating
+documentation of any kind. It has a simple but powerful syntax which makes sure
+the datafiles remain readable outside the Wiki and eases the creation of
+structured texts.
+
+All data is stored in plain text files no database is required.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.dokuwiki.org/dokuwiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

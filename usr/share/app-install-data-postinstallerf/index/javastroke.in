@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>javastroke</b>'
+Comment='<span size="xx-large">Optional java files</span>'
+Comment3='
+Java interface for stroke and example application
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.etla.net/libstroke/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

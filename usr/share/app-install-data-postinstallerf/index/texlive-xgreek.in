@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-xgreek</b>'
+Comment='<span size="xx-large">XeLaTeX package for typesetting Greek language documents (beta release)</span>'
+Comment3='
+This package has been designed so to allow people to typeset
+Greek language documents using XeLaTeX. And it is released in
+the hope that people will use it and spot errors, bugs,
+features so to improve it. Practically, it provides all the
+capabilities of the greek option of the babel package. The
+package can be invoked with any of the following options
+monotonic (for typesetting modern monotonic Greek), polytonic
+(for typesetting modern polytonic Greek), and ancient (for
+typesetting ancient texts). The default option is monotonic.
+The command \setlanguage{<lang>} to activate the hyphenation
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

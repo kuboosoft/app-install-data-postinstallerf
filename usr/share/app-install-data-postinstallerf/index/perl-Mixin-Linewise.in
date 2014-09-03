@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Mixin-Linewise</b>'
+Comment='<span size="xx-large">Write your linewise code for handles; this does the rest</span>'
+Comment3='
+Its boring to deal with opening files for IO, converting strings to handle-
+like objects, and all that. With MixinLinewiseReaders and
+MixinLinewiseWriters, you can just write a method to handle handles,
+and methods for handling strings and filenames are added for you.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Mixin-Linewise/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

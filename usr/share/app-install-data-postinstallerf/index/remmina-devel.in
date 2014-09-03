@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>remmina-devel</b>'
+Comment='<span size="xx-large">Development files for remmina</span>'
+Comment3='
+The remmina-devel package contains header files for developing plugins for
+remmina.
+
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://remmina.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

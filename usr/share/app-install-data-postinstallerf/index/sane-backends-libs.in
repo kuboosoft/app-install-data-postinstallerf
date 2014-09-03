@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sane-backends-libs</b>'
+Comment='<span size="xx-large">SANE libraries</span>'
+Comment3='
+This package contains the SANE libraries which are needed by applications that
+want to access scanners.
+
+'
+License='GPLv2+ and GPLv2+ with exceptions and Public Domain'
+Screenshot=''
+Url='http://www.sane-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jpanoramamaker</b>'
+Comment='<span size="xx-large">Tool for stitching photos to panorama in linear curved space</span>'
+Comment3='
+Tool for stitching photos to panorama in linear curved space
+'
+License='BSD'
+Screenshot=''
+Url='http://jpanoramamaker.wz.cz'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

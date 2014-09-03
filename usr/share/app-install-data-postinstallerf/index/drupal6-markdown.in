@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>drupal6-markdown</b>'
+Comment='<span size="xx-large">Markdown Module for Drupal6</span>'
+Comment3='
+Provides Markdown filter integration for Drupal input formats. The Markdown
+syntax is designed to co-exist with HTML, so you can set up input formats
+with both HTML and Markdown support.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://drupal.org/project/markdown'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

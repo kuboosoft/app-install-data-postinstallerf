@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>polkit-qt5-1-devel</b>'
+Comment='<span size="xx-large">Development files for PolicyKit Qt5 bindings</span>'
+Comment3='
+Development files for PolicyKit Qt5 bindings.
+
+URL          https//projects.kde.org/projects/kdesupport/polkit-qt-1
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kdesupport/polkit-qt-1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

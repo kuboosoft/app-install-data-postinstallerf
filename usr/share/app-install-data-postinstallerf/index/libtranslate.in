@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libtranslate</b>'
+Comment='<span size="xx-large">Natural language translation library</span>'
+Comment3='
+Libtranslate is a library for translating text and web pages
+between natural languages. Its modular infrastructure allows
+to implement new translation services separately from the core library.
+
+Libtranslate is shipped with a generic module supporting
+web-based translation services such as Babel Fish, Google Language Tools
+and SYSTRAN. Moreover, the generic module allows to add new services
+simply by adding a few lines to a XML file (see libtranslate(5)).
+The libtranslate distribution includes a powerful command line interface
+'
+License='BSD'
+Screenshot=''
+Url='http://www.nongnu.org/libtranslate'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

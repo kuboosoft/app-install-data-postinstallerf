@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>virtuoso-opensource-conductor</b>'
+Comment='<span size="xx-large">Server pages</span>'
+Comment3='
+Server pages.
+'
+License='GPLv2 with exceptions'
+Screenshot=''
+Url='http://virtuoso.openlinksw.com/wiki/main/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

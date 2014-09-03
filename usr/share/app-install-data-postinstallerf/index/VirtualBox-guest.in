@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>VirtualBox-guest</b>'
+Comment='<span size="xx-large">VirtualBox Guest Additions</span>'
+Comment3='
+This is the same that Guest Additions, therefore should only be installed on a guest system.
+Tools that utilize kernel modules for supporting integration
+with the Host, including file sharing and tracking of mouse pointer
+movement and X.org X11 video and mouse driver.
+'
+License='GPLv2 or (GPLv2 and CDDL)'
+Screenshot=''
+Url='http://www.virtualbox.org/wiki/VirtualBox'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

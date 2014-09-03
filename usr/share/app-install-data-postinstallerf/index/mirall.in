@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mirall</b>'
+Comment='<span size="xx-large">The ownCloud Client</span>'
+Comment3='
+Mirall owncloud-client enables you to connect to your private
+ownCloud Server. With it you can create folders in your home
+directory, and keep the contents of those folders synced with your
+ownCloud server. Simply copy a file into the directory and the
+ownCloud Client does the rest.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://owncloud.org/sync-clients/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

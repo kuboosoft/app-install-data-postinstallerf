@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>jackson-jaxrs-json-provider</b>'
+Comment='<span size="xx-large">Jackson-JAXRS-JSON</span>'
+Comment3='
+Functionality to handle JSON input/output for JAX-RS implementations
+(like Jersey and RESTeasy) using standard Jackson data binding.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://wiki.fasterxml.com/JacksonHome'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

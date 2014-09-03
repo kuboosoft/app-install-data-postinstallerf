@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cpm</b>'
+Comment='<span size="xx-large">Console Password Manager</span>'
+Comment3='
+CPM is a ncurses based console tool to manage passwords
+and store them public key encrypted in a file - even for
+more than one person. The encryption is handled via GnuPG
+so the programs data can be accessed via gpg as well,
+in case you want to have a look inside. The data is stored
+as as zlib compressed XML so it?s even possible to reuse
+the data for some other purpose.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.harry-b.de/dokuwiki/doku.php?id=harry:cpm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

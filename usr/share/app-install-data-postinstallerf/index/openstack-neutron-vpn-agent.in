@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openstack-neutron-vpn-agent</b>'
+Comment='<span size="xx-large">Neutron VPNaaS agent</span>'
+Comment3='
+Neutron provides an API to implement VPN as a service
+
+This package contains the neutron agent responsible for implenting VPNaaS with
+IPSec.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://launchpad.net/neutron/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

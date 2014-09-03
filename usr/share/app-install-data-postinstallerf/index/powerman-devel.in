@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>powerman-devel</b>'
+Comment='<span size="xx-large">Development files for Powerman</span>'
+Comment3='
+Development files for Powerman
+
+URL          http//sourceforge.net/projects/powerman
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/powerman'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

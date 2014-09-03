@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gfs2-utils</b>'
+Comment='<span size="xx-large">Utilities for managing the global file system (GFS2)</span>'
+Comment3='
+The gfs2-utils package contains a number of utilities for creating,
+checking, modifying, and correcting any inconsistencies in GFS2
+file systems.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/cluster/wiki/HomePage'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

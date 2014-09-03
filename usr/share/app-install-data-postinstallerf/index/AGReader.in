@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>AGReader</b>'
+Comment='<span size="xx-large">Console reader for viewing AmigaGuide files</span>'
+Comment3='
+A viewer for the UNIX console which can read and display AmigaGuide files. It
+supports all of the v39 AmigaGuide specification possible and supports a large
+subset of the v40 specifications.
+'
+License='GPL+'
+Screenshot=''
+Url='http://main.aminet.net/misc/unix/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

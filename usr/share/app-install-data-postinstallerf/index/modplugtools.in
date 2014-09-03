@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>modplugtools</b>'
+Comment='<span size="xx-large">Command line mod music players</span>'
+Comment3='
+Command line mod music players.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://modplug-xmms.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

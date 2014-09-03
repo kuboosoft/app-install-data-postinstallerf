@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>curator</b>'
+Comment='<span size="xx-large">A set of Java libraries that make using Apache ZooKeeper much easier</span>'
+Comment3='
+Curator is a set of Java libraries that
+make using Apache ZooKeeper much easier.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://curator.incubator.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

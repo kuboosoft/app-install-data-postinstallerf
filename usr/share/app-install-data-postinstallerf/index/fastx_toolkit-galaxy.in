@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fastx_toolkit-galaxy</b>'
+Comment='<span size="xx-large">Integrate fastx_toolkit with a local Galaxy installation</span>'
+Comment3='
+
+These files allow the integration of fastx_toolkit with a local
+installation of Galaxy (http//main.g2.bx.psu.edu/), a web-based
+platform for analyzing multiple alignments, comparing genomic
+annotations, profiling metagenomic samples and much more.
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://hannonlab.cshl.edu/fastx_toolkit/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

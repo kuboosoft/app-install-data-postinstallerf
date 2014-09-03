@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xom-demo</b>'
+Comment='<span size="xx-large">Samples for xom</span>'
+Comment3='
+Samples for xom.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.xom.nu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

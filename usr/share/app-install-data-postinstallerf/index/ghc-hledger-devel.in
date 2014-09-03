@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-hledger-devel</b>'
+Comment='<span size="xx-large">Haskell hledger library development files</span>'
+Comment3='
+This package provides the Haskell hledger library development files.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://hackage.haskell.org/package/hledger'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

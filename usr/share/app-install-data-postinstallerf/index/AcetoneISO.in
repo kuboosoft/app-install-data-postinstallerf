@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>AcetoneISO</b>'
+Comment='<span size="xx-large">CD/DVD Image Manipulator</span>'
+Comment3='
+AcetoneISO The CD/DVD image manipulator for Linux, it can do the following
+- Mount and Unmount ISO, MDF, NRG (if iso-9660 standard)
+- Convert / Extract / Browse to ISO  *.bin *.mdf *.nrg *.img *.daa *.cdi
+  *.xbx *.b5i *.bwi *.pdi
+- Play a DVD Movie ISO with most used media players
+- Generate an ISO from a Folder or CD/DVD
+- Generate MD5 file of an image
+- Encrypt an image
+- Split image into X megabyte chunks
+- Highly compress an image
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.acetoneteam.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

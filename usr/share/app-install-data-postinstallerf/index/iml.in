@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>iml</b>'
+Comment='<span size="xx-large">Finds solutions to systems of linear equations over integers</span>'
+Comment3='
+IML provides efficient routines to compute exact solutions to dense
+systems of linear equations over the integers.  The following
+functionality is provided
+- Nonsingular rational system solving.
+- Compute the right nullspace of an integer matrix.
+- Certified linear system solving.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.cs.uwaterloo.ca/~astorjoh/iml.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

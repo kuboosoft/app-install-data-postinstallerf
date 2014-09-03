@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>groovy</b>'
+Comment='<span size="xx-large">Dynamic language for the Java Platform</span>'
+Comment3='
+Groovy is an agile and dynamic language for the Java Virtual Machine,
+built upon Java with features inspired by languages like Python, Ruby and
+Smalltalk.  It seamlessly integrates with all existing Java objects and
+libraries and compiles straight to Java bytecode so you can use it anywhere
+you can use Java.
+'
+License='ASL 2.0 and BSD and EPL and Public Domain and CC-BY'
+Screenshot=''
+Url='http://groovy.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

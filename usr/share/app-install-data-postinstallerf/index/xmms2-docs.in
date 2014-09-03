@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xmms2-docs</b>'
+Comment='<span size="xx-large">Development documentation for XMMS2</span>'
+Comment3='
+API documentation for the XMMS2 modular audio framework architecture.
+'
+License='LGPLv2+ and GPLv2+ and BSD'
+Screenshot=''
+Url='http://wiki.xmms2.xmms.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

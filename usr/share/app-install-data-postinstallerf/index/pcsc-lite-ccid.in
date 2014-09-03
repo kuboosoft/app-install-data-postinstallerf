@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pcsc-lite-ccid</b>'
+Comment='<span size="xx-large">Generic USB CCID smart card reader driver</span>'
+Comment3='
+Generic USB CCID (Chip/Smart Card Interface Devices) driver for use with the
+PC/SC Lite daemon.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pcsclite.alioth.debian.org/ccid.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

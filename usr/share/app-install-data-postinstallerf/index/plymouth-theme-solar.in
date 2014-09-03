@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>plymouth-theme-solar</b>'
+Comment='<span size="xx-large">Plymouth "Solar" theme</span>'
+Comment3='
+This package contains the "Solar" boot splash theme for
+Plymouth. It features a blue flamed sun with animated solar flares.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Plymouth'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

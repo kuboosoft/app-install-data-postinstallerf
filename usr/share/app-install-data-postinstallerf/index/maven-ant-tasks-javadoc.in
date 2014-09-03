@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-ant-tasks-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for maven-ant-tasks</span>'
+Comment3='
+This package contains the API documentation for maven-ant-tasks.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/ant-tasks/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

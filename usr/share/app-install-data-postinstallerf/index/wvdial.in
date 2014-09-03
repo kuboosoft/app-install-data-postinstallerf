@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>wvdial</b>'
+Comment='<span size="xx-large">A heuristic autodialer for PPP connections</span>'
+Comment3='
+WvDial automatically locates and configures modems and can log into
+almost any ISPs server without special configuration. You need to
+input the username, password, and phone number, and then WvDial will
+negotiate the PPP connection using any mechanism needed.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://alumnit.ca/wiki/?WvDial'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rmap-data</b>'
+Comment='<span size="xx-large">Rendering data for rmap</span>'
+Comment3='
+This package contains rendering data for rmap.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://reza.net/cms/index.php?page=rmap_-_Global_Vector-Based_Mapping_Software'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

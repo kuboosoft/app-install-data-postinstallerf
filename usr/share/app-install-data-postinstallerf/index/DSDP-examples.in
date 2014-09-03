@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>DSDP-examples</b>'
+Comment='<span size="xx-large">Example programs that use DSDP</span>'
+Comment3='
+Examples programs that use the DSDP library.
+'
+License='DSDP'
+Screenshot=''
+Url='http://www.mcs.anl.gov/hs/software/DSDP/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

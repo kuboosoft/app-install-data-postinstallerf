@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>compress-lzf-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for compress-lzf</span>'
+Comment3='
+This package contains javadoc for compress-lzf.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/ning/compress'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>splat</b>'
+Comment='<span size="xx-large">Analyze point-to-point terrestrial RF communication links</span>'
+Comment3='
+SPLAT! is a Surface Path Length And Terrain analysis application written for
+Linux and Unix workstations. SPLAT! analyzes point-to-point terrestrial RF
+communication links, and provides information useful to communication system
+designers and site engineers.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.qsl.net/kd2bd/splat.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

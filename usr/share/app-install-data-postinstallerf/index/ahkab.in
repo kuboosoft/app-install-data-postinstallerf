@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ahkab</b>'
+Comment='<span size="xx-large">A SPICE-like electronic circuit simulator written in Python</span>'
+Comment3='
+A SPICE-like electronic circuit simulator written in Python.
+It can be used to do AC analysis, DC sweep, Transient analysis and more.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://ahkab.github.io/ahkab/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

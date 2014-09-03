@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tcl-togl-devel</b>'
+Comment='<span size="xx-large">Development files for tcl-togl</span>'
+Comment3='
+Development files for tcl-togl.
+
+URL          http//togl.sourceforge.net/
+'
+License='BSD'
+Screenshot=''
+Url='http://togl.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

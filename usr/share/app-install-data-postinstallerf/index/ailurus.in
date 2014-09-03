@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>ailurus</b>'
+Comment='<span size="xx-large">A simple application installer and GNOME tweaker</span>'
+Comment3='
+Ailurus is a simple application installer and GNOME tweaker.
+
+Features
+* Help users learn some Linux skills
+* Install some nice applications
+* Display basic hardware information
+* Clean YUM cache
+* Backup and recover YUM status
+* Change GNOME settings
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ailurus.googlecode.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

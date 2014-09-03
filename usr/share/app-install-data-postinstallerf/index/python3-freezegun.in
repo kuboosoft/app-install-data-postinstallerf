@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python3-freezegun</b>'
+Comment='<span size="xx-large">Let your Python tests travel through time</span>'
+Comment3='
+python3-freezegun is a library that allows your python tests to travel through
+time by mocking the datetime module.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/freezegun'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

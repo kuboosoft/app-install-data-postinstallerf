@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n openteacher
+Version=1.0
+Name=OpenTeacher
+Comment=Learn words in a foreign language.
+GenericName=Vocabulary Trainer
+Terminal=false
+Icon=/usr/share/app-install-data-postinstallerf/icons/openteacher.png
+Type=Application
+Categories=Education;Qt;

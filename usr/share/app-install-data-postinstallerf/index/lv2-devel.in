@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>lv2-devel</b>'
+Comment='<span size="xx-large">API for the LV2 Audio Plugin Standard</span>'
+Comment3='
+lv2-devel contains the lv2.h header file and headers for all of the
+LV@ specification extensions and bundles.
+
+Definitive technical documentation on LV2 plug-ins for both the host
+and plug-in is contained within copious comments within the lv2.h
+header file.
+'
+License='ISC'
+Screenshot=''
+Url='http://lv2plug.in'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

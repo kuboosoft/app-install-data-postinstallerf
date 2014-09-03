@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-eu</b>'
+Comment='<span size="xx-large">Basque hyphenation rules</span>'
+Comment3='
+Basque hyphenation rules.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tp.lc.ehu.es/jma/basque.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tika-app</b>'
+Comment='<span size="xx-large">Apache Tika Application</span>'
+Comment3='
+Apache Tika standalone application.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://tika.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

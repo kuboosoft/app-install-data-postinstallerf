@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>liboath-doc</b>'
+Comment='<span size="xx-large">Documentation files for liboath</span>'
+Comment3='
+Documentation files for liboath.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/oath-toolkit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

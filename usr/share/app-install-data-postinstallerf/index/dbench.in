@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>dbench</b>'
+Comment='<span size="xx-large">Filesystem load benchmarking tool</span>'
+Comment3='
+Dbench is a file system benchmark that generates load patterns similar
+to those of the commercial Netbench benchmark, but without requiring a
+lab of Windows load generators to run. It is now considered a de facto
+standard for generating load on the Linux VFS.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://samba.org/ftp/tridge/dbench/README'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

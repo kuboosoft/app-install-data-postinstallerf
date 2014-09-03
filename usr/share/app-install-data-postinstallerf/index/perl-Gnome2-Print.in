@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Gnome2-Print</b>'
+Comment='<span size="xx-large">Perl wrappers for the Gnome Print utilities</span>'
+Comment3='
+This module allows you to use the GNOME Print libraries within your
+applications written using the gtk2-perl wrapper. The GNOME Print libraries
+(also known as libgnomeprint and libgnomeprintui) allow you to create
+printable documents (using various frontends) and offer standard widgets in
+order to maintain a UI consistent for all GNOME applications.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Gnome2-Print/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

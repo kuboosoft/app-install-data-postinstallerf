@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libedit-devel</b>'
+Comment='<span size="xx-large">Development files for libedit</span>'
+Comment3='
+This package contains development files for libedit.
+
+URL          http//www.thrysoee.dk/editline/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.thrysoee.dk/editline/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

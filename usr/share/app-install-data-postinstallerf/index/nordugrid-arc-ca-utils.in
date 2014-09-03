@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nordugrid-arc-ca-utils</b>'
+Comment='<span size="xx-large">NorduGrid authentication tools</span>'
+Comment3='
+NorduGrid is a collaboration aiming at development, maintenance and
+support of the free Grid middleware, known as the Advanced Resource
+Connector (ARC).
+
+The nordugrid-arc-ca-utils packages has been obsoleted.
+The functionality of the grid-update-crls tool is provided by the
+fetch-crl tool in the fetch-crl package.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nordugrid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

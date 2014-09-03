@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-http-types</b>'
+Comment='<span size="xx-large">Generic HTTP types for Haskell</span>'
+Comment3='
+Generic HTTP types for Haskell for both client and server code.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/http-types'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

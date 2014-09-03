@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libcangjie-data</b>'
+Comment='<span size="xx-large">Database for libcangjie</span>'
+Comment3='
+Database for libcangjie.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://cangjians.github.io/projects/libcangjie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

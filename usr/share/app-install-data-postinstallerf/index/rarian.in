@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rarian</b>'
+Comment='<span size="xx-large">Documentation meta-data library</span>'
+Comment3='
+Rarian is a documentation meta-data library that allows access to documents,
+man pages and info pages.  It was designed as a replacement for scrollkeeper.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://rarian.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

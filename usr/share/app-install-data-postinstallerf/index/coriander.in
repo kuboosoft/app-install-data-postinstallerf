@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>coriander</b>'
+Comment='<span size="xx-large">Control a 1394 digital camera interactively</span>'
+Comment3='
+Coriander is a GUI that let you control your 1394 digital video camera
+interactively. It features SDL display, FTP image posting, file saving,
+and video streaming. It is for IIDC cameras, not for consumer grade DV
+cameras.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://damien.douxchamps.net/ieee1394/coriander/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

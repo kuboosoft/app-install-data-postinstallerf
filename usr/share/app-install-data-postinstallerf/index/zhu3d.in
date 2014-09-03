@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zhu3d</b>'
+Comment='<span size="xx-large">Interactive OpenGL-based mathematical function viewer</span>'
+Comment3='
+Zhu3D is an interactive OpenGL-based mathematical function viewer.
+You can visualize functions, parametric systems and Iso-surfaces.
+The viewer supports special effects like animation, morphing,
+transparency, textures, fog and motion blur
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.sourceforge.net/projects/zhu3d'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>packagedb-cli</b>'
+Comment='<span size="xx-large">A CLI for pkgdb</span>'
+Comment3='
+packagedb-cli is a command line interface of the well-known
+packagedb of the Fedora project.
+
+It allows you to manage the ACL for your packages as well
+as requesting new ACL for new packages.
+It also allows you to orphan and/or retire your package(s).
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/packagedb-cli/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

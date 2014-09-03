@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libvirt-gconfig-devel</b>'
+Comment='<span size="xx-large">libvirt object APIs for processing object configuration development files</span>'
+Comment3='
+This package provides development header files and libraries for
+the object configuration APIs.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

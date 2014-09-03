@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gkrellxmms2</b>'
+Comment='<span size="xx-large">Gkrellm2 plugin client for XMMS2</span>'
+Comment3='
+gkrellxmms2 is a gkrellm2 plugin for XMMS2. It has a title scroller with a
+position marker and five buttons for playback control. The position marker
+can be moved with the mouse to seek in the current track. The M button
+opens a menu with two items for opening a trackinfo dialog and the media
+library window.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://wejp.k.vu/projects/xmms2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

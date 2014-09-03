@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Tie-IxHash</b>'
+Comment='<span size="xx-large">Ordered associative arrays for Perl</span>'
+Comment3='
+This Perl module implements Perl hashes that preserve the order in
+which the hash elements were added. The order is not affected when
+values corresponding to existing keys in the IxHash are changed.
+The elements can also be set to any arbitrary supplied order. The
+familiar perl array operations can also be performed on the IxHash.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Tie-IxHash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gappalib-coq</b>'
+Comment='<span size="xx-large">Coq support library for gappa</span>'
+Comment3='
+This support library provides vernacular files so that the certificates
+Gappa generates can be imported by the Coq proof assistant.  It also
+provides a "gappa" tactic that calls Gappa on the current Coq goal.
+
+automatic proof generation of arithmetic properties) is a tool intended
+to help verifying and formally proving properties on numerical programs
+dealing with floating-point or fixed-point arithmetic.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://gappa.gforge.inria.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>geany-plugins-geanyminiscript</b>'
+Comment='<span size="xx-large">Geany Mini-Script filter plugin</span>'
+Comment3='
+The GeanyMiniScript plugin is a tool to apply a script filter on
+
+* the text selection
+* the current document
+* all documents of the current session.
+The filter type can be
+* Unix shell script
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

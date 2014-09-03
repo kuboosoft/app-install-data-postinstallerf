@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>freealut-devel</b>'
+Comment='<span size="xx-large">Development files for freealut</span>'
+Comment3='
+Development headers and libraries needed for freealut development
+
+URL          http//openal.org/
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://openal.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

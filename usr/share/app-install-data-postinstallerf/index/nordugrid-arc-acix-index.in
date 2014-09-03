@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>nordugrid-arc-acix-index</b>'
+Comment='<span size="xx-large">ARC cache index - index server</span>'
+Comment3='
+NorduGrid is a collaboration aiming at development, maintenance and
+support of the free Grid middleware, known as the Advanced Resource
+Connector (ARC).
+
+Index server component of the ARC Cache Index (ACIX), usually installed
+independently of any A-REX installation. This component pulls cache content
+from cache servers and can be queried by clients for the location of cached
+files.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.nordugrid.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-gfsdidot</b>'
+Comment='<span size="xx-large">A Greek font based on Didots work</span>'
+Comment3='
+The design of Didots 1805 Greek typeface was influenced by the
+neoclassical ideals of the late 18th century. The font was
+brought to Greece at the time of the 1821 Greek Revolution, by
+Didots son, and was very widely used. The present version is
+provided by the Greek Font Society. The font supports the Greek
+alphabet, and is accompanied by a matching Latin alphabet based
+on Zapfs Palatino. LaTeX support is provided, using the OT1,
+T1 and LGR encodings.
+
+date 2013-10-23 140100 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-turkmen</b>'
+Comment='<span size="xx-large">Babel support for Turkmen</span>'
+Comment3='
+The package provides support for Turkmen in babel, but
+integration with babel is not available.
+
+date 2010-04-06 134440 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Workflow</b>'
+Comment='<span size="xx-large">Simple, flexible system to implement workflows</span>'
+Comment3='
+The Workflow Perl module implements a standalone workflow system. It
+aims to be simple but flexible and therefore powerful. Each piece of
+the workflow system has a direct and easily stated job, and hopefully
+youll find that you can put the pieces together to create very useful
+systems.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Workflow/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw32-libgnurx</b>'
+Comment='<span size="xx-large">MinGW Regex library</span>'
+Comment3='
+MinGW Windows regular expression library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://mingw.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

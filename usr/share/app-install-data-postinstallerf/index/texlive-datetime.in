@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-datetime</b>'
+Comment='<span size="xx-large">Change format of \today with commands for current time</span>'
+Comment3='
+Provides various different formats for the text created by the
+command \today, and also provides commands for displaying the
+current time (or any given time), in 12-hour, 24-hour or text
+format. The package overrides babels date format, having its
+own library of date formats in different languages. The package
+requires the fmtcount package.
+
+date 2013-09-10 212815 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

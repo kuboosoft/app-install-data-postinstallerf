@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>saxpath</b>'
+Comment='<span size="xx-large">Simple API for XPath</span>'
+Comment3='
+The SAXPath project is a Simple API for XPath. SAXPath is analogous to SAX
+in that the API abstracts away the details of parsing and provides a simple
+event based callback interface.
+'
+License='Saxpath'
+Screenshot=''
+Url='http://sourceforge.net/projects/saxpath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

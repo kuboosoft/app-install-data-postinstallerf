@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>cudd</b>'
+Comment='<span size="xx-large">CU Decision Diagram Package</span>'
+Comment3='
+CUDD is a package for the manipulation of Binary Decision Diagrams
+(BDDs), Algebraic Decision Diagrams (ADDs) and Zero-suppressed
+Binary Decision Diagrams (ZDDs).
+
+'
+License='BSD'
+Screenshot=''
+Url='http://vlsi.colorado.edu/~fabio/CUDD/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

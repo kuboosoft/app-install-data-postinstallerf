@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-net-sftp-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-net-sftp</span>'
+Comment3='
+This package contains documentation for rubygem-net-sftp.
+'
+License='MIT or LGPLv2'
+Screenshot=''
+Url='http://net-ssh.rubyforge.org/sftp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

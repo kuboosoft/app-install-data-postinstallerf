@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openmpi-devel</b>'
+Comment='<span size="xx-large">Development files for openmpi</span>'
+Comment3='
+Contains development headers and libraries for openmpi
+
+URL          http//www.open-mpi.org/
+'
+License='BSD, MIT and Romio'
+Screenshot=''
+Url='http://www.open-mpi.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

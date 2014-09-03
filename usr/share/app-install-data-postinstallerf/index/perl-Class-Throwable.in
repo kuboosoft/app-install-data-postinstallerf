@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Class-Throwable</b>'
+Comment='<span size="xx-large">A minimal lightweight exception class</span>'
+Comment3='
+This module implements a minimal lightweight exception object. It is
+meant to be a compromise between more basic solutions like Carp which
+can only print information and cannot handle exception objects, and more
+complex solutions like ExceptionClass which can be used to define
+complex inline exceptions and has a number of module dependencies.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Throwable/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

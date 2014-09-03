@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>php-Analog</b>'
+Comment='<span size="xx-large">PHP micro logging package</span>'
+Comment3='
+MicroPHP logging package based on the idea of using closures for
+configurability and extensibility. It functions as a static class,
+but you can completely control the writing of log messages through
+a closure function (aka anonymous functions).
+
+Analog also comes with over a dozen pre-written handlers,
+with examples for each in the examples folder. These include
+- Amon - Send logs to the Amon server monitoring tool
+- Buffer - Buffer messages to send all at once (works with File,
+  Mail, Stderr, and Variable handlers)
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jbroadway/analog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Class-Prototyped</b>'
+Comment='<span size="xx-large">Fast prototype-based OO programming in Perl</span>'
+Comment3='
+This package provides for efficient and simple prototype-based programming
+in Perl. You can provide different subroutines for each object, and also
+have objects inherit their behavior and state from another object.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Prototyped/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

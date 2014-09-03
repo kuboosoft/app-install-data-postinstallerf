@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>haveged-devel</b>'
+Comment='<span size="xx-large">Headers and shared development libraries for HAVEGE algorithm</span>'
+Comment3='
+Headers and shared object symbolic links for the HAVEGE algorithm
+
+URL          http//www.irisa.fr/caps/projects/hipsor/
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.irisa.fr/caps/projects/hipsor/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

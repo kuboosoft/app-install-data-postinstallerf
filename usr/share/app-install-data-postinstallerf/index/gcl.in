@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gcl</b>'
+Comment='<span size="xx-large">GNU Common Lisp</span>'
+Comment3='
+GCL is a Common Lisp currently compliant with the ANSI standard.  Lisp
+compilation produces native code through the intermediary of the
+systems C compiler, from which GCL derives efficient performance and
+facile portability. Currently uses TCL/Tk as GUI.
+'
+License='GPL+ and LGPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/gcl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

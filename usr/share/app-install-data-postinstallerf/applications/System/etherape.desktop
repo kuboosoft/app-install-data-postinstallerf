@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n etherape
+Version=1.0
+Name=EtherApe
+GenericName=EtherApe
+Comment=Graphical Network Monitor
+Comment[es]=Monitor Gráfico de Red
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/etherape.png
+Categories=GNOME;System;Network;

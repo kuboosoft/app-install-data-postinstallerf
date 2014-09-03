@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgfortran</b>'
+Comment='<span size="xx-large">Fortran runtime</span>'
+Comment3='
+This package contains Fortran shared library which is needed to run
+Fortran dynamically linked programs.
+
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

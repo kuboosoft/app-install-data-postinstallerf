@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lcdtest</b>'
+Comment='<span size="xx-large">Displays monitor test patterns</span>'
+Comment3='
+lcdtest is a utility to display LCD monitor test patterns.  It may be
+useful for adjusting the pixel clock frequency and phase on LCD
+monitors when using analog inputs, and for finding pixels that are
+stuck on or off.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.brouhaha.com/~eric/software/lcdtest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

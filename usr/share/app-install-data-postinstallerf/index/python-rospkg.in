@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-rospkg</b>'
+Comment='<span size="xx-large">Utilities for ROS package, stack, and distribution information</span>'
+Comment3='
+The ROS packaging system simplifies development and distribution of code
+libraries. It enable you to easily specify dependencies between code
+libraries, easily interact with those libraries from the command-line, and
+release your code for others to use.
+'
+License='BSD'
+Screenshot=''
+Url='http://ros.org/wiki/rospkg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gtkspellmm30-doc</b>'
+Comment='<span size="xx-large">Documentation for gtkspellmm30</span>'
+Comment3='
+This package contains the full API documentation for gtkspellmm30.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gtkspell.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

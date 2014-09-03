@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mono-basic</b>'
+Comment='<span size="xx-large">VisualBasic.NET support for mono</span>'
+Comment3='
+This package contains the Visual Basic .NET compiler and language
+runtime. This allows you to compile and run VB.NET application and
+assemblies.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>apache-commons-ognl</b>'
+Comment='<span size="xx-large">Object Graph Navigation Library</span>'
+Comment3='
+OGNL is an expression language for getting and setting properties of
+Java objects, plus other extras such as list projection and selection
+and lambda expressions.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://commons.apache.org/ognl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aether-connector-basic</b>'
+Comment='<span size="xx-large">Aether Connector Basic</span>'
+Comment3='
+Aether is a standalone library to resolve, install and deploy
+artifacts the Maven way.  This package provides repository connector
+implementation for repositories using URI-based layouts.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/aether'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

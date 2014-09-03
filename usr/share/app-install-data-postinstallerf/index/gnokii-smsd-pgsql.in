@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnokii-smsd-pgsql</b>'
+Comment='<span size="xx-large">PostgreSQL support for Gnokii SMS daemon</span>'
+Comment3='
+PostgreSQL support for Gnokii SMS daemon.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnokii.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

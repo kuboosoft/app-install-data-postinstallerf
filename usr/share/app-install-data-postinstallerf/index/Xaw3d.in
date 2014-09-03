@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>Xaw3d</b>'
+Comment='<span size="xx-large">A version of the MIT Athena widget set for X</span>'
+Comment3='
+Xaw3d is an enhanced version of the MIT Athena Widget set for
+the X Window System.  Xaw3d adds a three-dimensional look to applications
+with minimal or no source code changes.
+
+You should install Xaw3d if you are using applications which incorporate
+the MIT Athena widget set and youd like to incorporate a 3D look into
+those applications.
+'
+License='MIT'
+Screenshot=''
+Url='http://xorg.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Graphics-ColorNames</b>'
+Comment='<span size="xx-large">Defines RGB values for common color names</span>'
+Comment3='
+This module provides a common interface for obtaining the RGB values of
+colors by standard names. The intention is to (1) provide a common module
+that authors can use with other modules to specify colors by name; and (2)
+free module authors from having to "re-invent the wheel" whenever they
+decide to give the users the option of specifying a color by name rather
+than RGB value.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Graphics-ColorNames/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

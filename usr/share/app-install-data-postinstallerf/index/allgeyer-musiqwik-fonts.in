@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>allgeyer-musiqwik-fonts</b>'
+Comment='<span size="xx-large">A musical notation font family intended for writing lines of actual music</span>'
+Comment3='
+
+Robert Allgeyers MusiQwik and MusiSync are a set of original True Type fonts
+that depict musical notation. Each music font may be used within a word
+processing document without the need for special music publishing software, or
+embedded in PDF files.
+This font family is intended for writing lines of actual music.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.icogitate.com/~ergosum/fonts/musicfonts.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plasma-wallpaper-dreamdesktop</b>'
+Comment='<span size="xx-large">Animated Wallpapers for KDE</span>'
+Comment3='
+DreamDesktop is an animated video wallpaper plugin for KDE4 plasma desktop.
+'
+License='GPL-3.0+'
+Screenshot=''
+Url='http://www.jarzebski.pl/projekty/dreamdesktop.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

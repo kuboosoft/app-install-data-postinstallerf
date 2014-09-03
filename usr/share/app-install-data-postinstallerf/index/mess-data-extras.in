@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mess-data-extras</b>'
+Comment='<span size="xx-large">Extra data files for MESS</span>'
+Comment3='
+Extra data files for MESS.
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://mamedev.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

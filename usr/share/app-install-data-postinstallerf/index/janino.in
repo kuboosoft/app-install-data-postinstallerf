@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>janino</b>'
+Comment='<span size="xx-large">An embedded Java compiler</span>'
+Comment3='
+Janino is a super-small, super-fast Java compiler. Not only can it compile
+a set of source files to a set of class files like the JAVAC tool, but also
+can it compile a Java expression, block, class body or source file in
+memory, load the bytecode and execute it directly in the same JVM. Janino
+is not intended to be a development tool, but an embedded compiler for
+run-time compilation purposes, e.g. expression evaluators or "server pages"
+engines like JSP.
+'
+License='BSD'
+Screenshot=''
+Url='http://docs.codehaus.org/display/JANINO/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

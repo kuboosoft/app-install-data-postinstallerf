@@ -1,0 +1,15 @@
+[Desktop Entry]
+Exec=postinstaller -n qasmixer
+Type=Application
+Name=QasMixer
+GenericName=Sound volume mixer
+GenericName[de]=Klanglautstärkenregler
+Icon=/usr/share/app-install-data-postinstallerf/icons/qasmixer.png
+StartupNotify=false
+Terminal=false
+Categories=AudioVideo;Audio;Mixer
+Comment=Graphical mixer application for the ALSA
+Comment[cs]=Grafický směšovač pro ALSA
+Comment[de]=Graphische Mixeranwendung für ALSA
+Comment[es]=Mezclador gráfico para ALSA
+Comment[ru]=Графический микшер для звуковой системы ALSA

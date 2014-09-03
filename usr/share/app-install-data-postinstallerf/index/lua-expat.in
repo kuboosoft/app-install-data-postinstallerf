@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>lua-expat</b>'
+Comment='<span size="xx-large">SAX XML parser based on the Expat library</span>'
+Comment3='
+LuaExpat is a SAX XML parser based on the Expat library.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.keplerproject.org/luaexpat/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

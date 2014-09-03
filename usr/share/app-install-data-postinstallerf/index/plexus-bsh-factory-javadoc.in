@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plexus-bsh-factory-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for plexus-bsh-factory</span>'
+Comment3='
+Javadoc for plexus-bsh-factory.
+'
+License='MIT'
+Screenshot=''
+Url='http://plexus.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

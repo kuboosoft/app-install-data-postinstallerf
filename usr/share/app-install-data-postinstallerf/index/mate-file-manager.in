@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>mate-file-manager</b>'
+Comment='<span size="xx-large">File manager for MATE</span>'
+Comment3='
+Caja (mate-file-manager) is the file manager and graphical shell
+for the MATE desktop,
+that makes it easy to manage your files and the rest of your system.
+It allows to browse directories on local and remote file systems, preview
+files and launch applications associated with them.
+It is also responsible for handling the icons on the MATE desktop.
+
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sblim-gather-test</b>'
+Comment='<span size="xx-large">SBLIM Gatherer Testcase Files</span>'
+Comment3='
+Gatherer Testcase Files for the
+SBLIM (Standards Based Linux Instrumentation for Manageability)
+Testsuite
+'
+License='EPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/sblim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

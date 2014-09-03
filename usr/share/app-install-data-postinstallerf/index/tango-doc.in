@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>tango-doc</b>'
+Comment='<span size="xx-large">Documentation and examples for tango</span>'
+Comment3='
+Tango html documentation is in /usr/share/doc/tango.
+This package contains D file in examples on the usage of tango library and
+programming in D. All these files are in /usr/share/tango/examples/ directory.
+Examples in
+- concurrency
+- conduits (stream)
+- console (stdout stderr)
+- logging
+- networking
+- synchronization
+'
+License='AFL or BSD'
+Screenshot=''
+Url='http://www.dsource.org/projects/tango'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

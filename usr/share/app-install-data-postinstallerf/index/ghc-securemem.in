@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ghc-securemem</b>'
+Comment='<span size="xx-large">Auto-scrubbing bytestring memory chunks</span>'
+Comment3='
+SecureMem is similar to ByteString, except that it provides a memory chunk
+with the following properties
+
+- gets scrubbed after it goes out of scope
+- Show instance which doesnt show any content
+- Eq instance that is constant in time.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/securemem'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

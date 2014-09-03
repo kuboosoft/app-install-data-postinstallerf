@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-condor-wallaby</b>'
+Comment='<span size="xx-large">Tools for use with wallaby shell</span>'
+Comment3='
+Tools for executing condor specific commands in wallaby shell
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/grid/configuration-tools.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

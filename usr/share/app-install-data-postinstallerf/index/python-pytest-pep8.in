@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-pytest-pep8</b>'
+Comment='<span size="xx-large">Pytest plugin to check PEP8 requirements</span>'
+Comment3='
+Pytest plugin to check PEP8 requirements.
+'
+License='MIT'
+Screenshot=''
+Url='https://pypi.python.org/pypi/pytest-pep8'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

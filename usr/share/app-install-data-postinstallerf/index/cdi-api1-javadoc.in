@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cdi-api1-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for cdi-api1</span>'
+Comment3='
+This package contains the API documentation for cdi-api1.
+Requires         jpackage-utils
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://seamframework.org/Weld'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

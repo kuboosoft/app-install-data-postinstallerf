@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>tcl-pgplot</b>'
+Comment='<span size="xx-large">Tcl/Tk driver for pgplot</span>'
+Comment3='
+Tcl/Tk driver for pgplot
+'
+License='freely available for non-commercial use'
+Screenshot=''
+Url='http://www.astro.caltech.edu/~tjp/pgplot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

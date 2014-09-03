@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ladvd-selinux</b>'
+Comment='<span size="xx-large">SELinux policy module supporting ladvd</span>'
+Comment3='
+SELinux policy module supporting ladvd
+'
+License='ISC'
+Screenshot=''
+Url='http://www.blinkenlights.nl/software/ladvd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

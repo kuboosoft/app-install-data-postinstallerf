@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libexif-gtk3</b>'
+Comment='<span size="xx-large">Library to display EXIF tags in GTK3 programs</span>'
+Comment3='
+Libexif-gtk3 is a library of widgets to help display EXIF tags in GTK3
+programs.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libexif.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

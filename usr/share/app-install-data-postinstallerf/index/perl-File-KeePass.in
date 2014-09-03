@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-File-KeePass</b>'
+Comment='<span size="xx-large">Interface to KeePass V1 and V2 database files</span>'
+Comment3='
+FileKeePass gives access to KeePass version 1 (kdb) and
+version 2 (kdbx) databases.
+
+The version 1 and version 2 databases are very different
+in construction, but the majority of information overlaps
+and many algorithms are similar. FileKeePass attempts to
+iron out as many of the differences.
+FileKeePass gives nearly raw data access. There are a few
+ utility methods for manipulating groups and entries. More
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-KeePass/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

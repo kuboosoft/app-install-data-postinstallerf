@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>trac-customfieldadmin-plugin</b>'
+Comment='<span size="xx-large">Expose ticket custom fields via the web admin interface</span>'
+Comment3='
+A trac plugin to expose custom ticket fields via the admin web interface,
+instead of directly editing trac.ini
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/CustomFieldAdminPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

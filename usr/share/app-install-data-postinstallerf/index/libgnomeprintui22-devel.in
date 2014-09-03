@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libgnomeprintui22-devel</b>'
+Comment='<span size="xx-large">Libraries and headers for libgnomeprintui</span>'
+Comment3='
+You should install the libgnomeprintui-devel package if you would like
+to compile applications that use the widgets in libgnomeprintui. You
+do not need to install it if you just want to use precompiled
+applications.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ftp.gnome.org/pub/gnome/sources/libgnomeprintui/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

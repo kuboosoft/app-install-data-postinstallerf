@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-kix</b>'
+Comment='<span size="xx-large">Typeset KIX codes</span>'
+Comment3='
+Implements KIX codes as used by the Dutch PTT for bulk mail
+addressing. (Royal Mail 4 State Code.) KIX is a registered
+trade mark of PTT Post Holdings B. V.
+
+date 2011-03-04 111216 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

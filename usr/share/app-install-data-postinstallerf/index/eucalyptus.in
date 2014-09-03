@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>eucalyptus</b>'
+Comment='<span size="xx-large">Elastic Utility Computing Architecture</span>'
+Comment3='
+Eucalyptus is a service overlay that implements elastic computing
+using existing resources. The goal of Eucalyptus is to allow sites
+with existing clusters and server infrastructure to co-host an elastic
+computing service that is interface-compatible with Amazon AWS.
+
+This package contains the common parts; you will need to install at
+least one of the cloud controller (cloud), cluster controller (cc),
+node controller (nc), storage controller (sc), or walrus packages as well.
+'
+License='GPLv3 and (GPLv3 and ASL 2.0) and (GPLv3 and BSD)'
+Screenshot=''
+Url='http://www.eucalyptus.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

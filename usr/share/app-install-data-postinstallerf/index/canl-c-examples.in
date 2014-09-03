@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>canl-c-examples</b>'
+Comment='<span size="xx-large">Example programs of EMI caNl</span>'
+Comment3='
+This package contains client and server examples of EMI caNl.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.eu-emi.eu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

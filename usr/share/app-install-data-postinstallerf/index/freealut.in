@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>freealut</b>'
+Comment='<span size="xx-large">Implementation of OpenALs ALUT standard</span>'
+Comment3='
+freealut is a free implementation of OpenALs ALUT standard. See the file
+AUTHORS for the people involved.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://openal.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

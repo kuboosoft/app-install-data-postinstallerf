@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>soprano</b>'
+Comment='<span size="xx-large">Qt wrapper API to different RDF storage solutions</span>'
+Comment3='
+Qt wrapper API to different RDF storage solutions.
+
+URL          http//sourceforge.net/projects/soprano
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/soprano'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

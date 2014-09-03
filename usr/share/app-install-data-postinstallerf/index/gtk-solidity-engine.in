@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gtk-solidity-engine</b>'
+Comment='<span size="xx-large">Solidity Gtk+ theming engine</span>'
+Comment3='
+Solidity Gtk+ theming engine
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://gnome-look.org/content/show.php/solidity+gtk3+engine?content=142331'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

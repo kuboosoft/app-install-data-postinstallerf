@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mathomatic</b>'
+Comment='<span size="xx-large">Small, portable symbolic math program</span>'
+Comment3='
+Mathomatic is a small, portable symbolic math program that can
+automatically solve, simplify, differentiate, combine, and compare
+algebraic equations, perform polynomial and complex arithmetic,
+etc. It was written by George Gesslein II and has been under
+development since 1986.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.mathomatic.org/math/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

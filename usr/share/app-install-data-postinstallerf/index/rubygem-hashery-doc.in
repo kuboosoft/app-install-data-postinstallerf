@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-hashery-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-hashery</span>'
+Comment3='
+Documentation for rubygem-hashery
+'
+License='MIT'
+Screenshot=''
+Url='http://rubyworks.github.com/hashery'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

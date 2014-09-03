@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cdw</b>'
+Comment='<span size="xx-large">Front-end for tools used for burning data CD/DVD</span>'
+Comment3='
+cdw is a ncurses based front-end for some command-line tools used for burning
+data CD and DVD discs and for related tasks. The tools are cdrecord/wodim,
+mkisofs/genisoimage, growisofs, dvd+rw-mediainfo, dvd+rw-format, xorriso.
+cdw is able to rip tracks from your audio CD to raw audio files.
+Limited support for copying content of data CD and DVD discs to image files
+is also provided. cdw can verify correctness of writing ISO9660 image to
+CD or DVD disc using md5sum or some of  programs that verifies SHA hashes.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cdw.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

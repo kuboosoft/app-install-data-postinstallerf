@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-SNMP_Session</b>'
+Comment='<span size="xx-large">SNMP support for Perl 5</span>'
+Comment3='
+Pure Perl SNMP v1 and SNMP v2 support for Perl 5.
+
+The SNMP operations currently supported are "get", "get-next", "get-bulk"
+and "set", as well as trap generation and reception.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://code.google.com/p/snmp-session/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

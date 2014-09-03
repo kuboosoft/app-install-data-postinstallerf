@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Number-Bytes-Human</b>'
+Comment='<span size="xx-large">Convert byte count to human readable format</span>'
+Comment3='
+This module is designed to format byte counts to usual readable
+format, like 2.0K, 3.1G, 100B. It was inspired in the -h option of
+Unix utilities like du, df and ls for "human-readable" output.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Number-Bytes-Human/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

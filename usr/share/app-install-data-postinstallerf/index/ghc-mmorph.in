@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-mmorph</b>'
+Comment='<span size="xx-large">Monad morphisms</span>'
+Comment3='
+This library provides monad morphism utilities, most commonly used for
+manipulating monad transformer stacks.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/mmorph'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-magic</b>'
+Comment='<span size="xx-large">Python 3 bindings for the libmagic API</span>'
+Comment3='
+This package contains the Python 3 bindings to allow access to the
+libmagic API. The libmagic library is also used by the familiar
+file(1) command.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.darwinsys.com/file/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

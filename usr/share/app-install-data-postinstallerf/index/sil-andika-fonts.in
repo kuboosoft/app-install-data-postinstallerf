@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>sil-andika-fonts</b>'
+Comment='<span size="xx-large">A font for literacy and beginning readers</span>'
+Comment3='
+Andika is a sans serif, Unicode-compliant font designed especially for
+literacy use, taking into account the needs of beginning readers. The focus is
+on clear, easy-to-perceive letterforms that will not be readily confused with
+one another.
+
+A sans serif font is preferred by some literacy personnel for teaching people
+to read. Its forms are simpler and less cluttered than those of most serif
+fonts. For years, literacy workers have had to make do with fonts that were
+not really suitable for beginning readers and writers. In some cases, literacy
+specialists have had to tediously assemble letters from a variety of fonts in
+'
+License='OFL'
+Screenshot=''
+Url='http://scripts.sil.org/Andika'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

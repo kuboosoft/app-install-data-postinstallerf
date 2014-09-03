@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>netgo</b>'
+Comment='<span size="xx-large">Networking profile manager</span>'
+Comment3='
+netGo is a distribution-independent networking tool (written in Qt) for
+changing network settings quickly and easily. It is intended for laptop
+owners, who often need to change network settings when relocating.
+It allows you to create profiles that contain the network settings such as the
+IP, netmask, gateway, name servers and wireless options. After creating a
+profile it can be executed with a single click.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://netgo.hjolug.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

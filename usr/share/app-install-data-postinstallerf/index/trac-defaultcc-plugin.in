@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>trac-defaultcc-plugin</b>'
+Comment='<span size="xx-large">Trac plugin to set default CC address(es) by component</span>'
+Comment3='
+A trac plugin which automatically adds a default CC list when a new
+ticket is created, based on the selected Component. CC lists can be
+configured per Component through the component admin panel.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/DefaultCcPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n azureus
+Categories=Java;Network;FileTransfer;P2P
+Comment=Download and share files using the BitTorrent P2P network
+GenericName=BitTorrent client
+Icon=/usr/share/app-install-data-postinstallerf/icons/Azureus.png
+Name=Vuze
+Type=Application

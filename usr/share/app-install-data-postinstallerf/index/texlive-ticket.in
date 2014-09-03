@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-ticket</b>'
+Comment='<span size="xx-large">Make labels, visting-cards, pins with LaTeX</span>'
+Comment3='
+Provides an easy to handle interface to produce visiting cards,
+labels for your files, stickers, pins and other stuff for your
+office, conferences etc. All you need is a definition of your
+ticket included in a ticket definition file and the two
+commands \ticketdefault and \ticket.
+
+date 2010-12-06 205511 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

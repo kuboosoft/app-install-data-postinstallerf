@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ipe-devel</b>'
+Comment='<span size="xx-large">Development files and documentation for designing Ipelets</span>'
+Comment3='
+This packages contains the files necessary to develop Ipelets, which are
+plugins for the Ipe editor.
+
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://tclab.kaist.ac.kr/ipe/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-core</b>'
+Comment='<span size="xx-large">Base perl metapackage</span>'
+Comment3='
+A metapackage which requires all of the perl bits and modules in the upstream
+tarball from perl.org.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://www.perl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

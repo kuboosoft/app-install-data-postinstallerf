@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>multisync</b>'
+Comment='<span size="xx-large">Calendar (and other PIM data) synchronization program</span>'
+Comment3='
+MultiSync is a program to synchronize calendars, addressbooks and other PIM
+data between programs on your computer and other computers, mobile devices,
+PDAs or cell phones. It is packaged with plugins for Ximian Evolution, IrMC
+mobile devices, Opie / Zaurus PDAs, SyncML, ldap and for backup.
+For proper use, please install the desired plugins found in the
+libopensync-plugin-* packages.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.opensync.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

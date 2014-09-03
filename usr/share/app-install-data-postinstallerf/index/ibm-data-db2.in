@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ibm-data-db2</b>'
+Comment='<span size="xx-large">IBM DB2 database connectivity for Mono</span>'
+Comment3='
+This package contains the ADO.NET Data provider for the IBM DB2
+Universal database.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

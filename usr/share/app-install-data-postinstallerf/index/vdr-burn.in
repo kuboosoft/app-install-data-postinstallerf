@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>vdr-burn</b>'
+Comment='<span size="xx-large">DVD writing plugin for VDR</span>'
+Comment3='
+This plugin enables VDR to write compliant DVDs from VDR recordings
+while being able to control the process and to watch progress from
+inside VDRs on-screen-display.  If the selected recordings dont fit
+the DVD, the video tracks are requantized (shrinked) automatically.
+The created menus support multipage descriptions (in case the
+recording summary exceeds one page).
+'
+License='GPL+ and GPLv2+'
+Screenshot=''
+Url='http://projects.vdr-developer.org/projects/plg-burn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

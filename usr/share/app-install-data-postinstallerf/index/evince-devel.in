@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>evince-devel</b>'
+Comment='<span size="xx-large">Support for developing backends for the evince document viewer</span>'
+Comment3='
+This package contains libraries and header files needed for evince
+backend development.
+
+'
+License='GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse'
+Screenshot=''
+Url='http://projects.gnome.org/evince/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

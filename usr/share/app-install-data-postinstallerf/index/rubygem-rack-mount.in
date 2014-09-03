@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>rubygem-rack-mount</b>'
+Comment='<span size="xx-large">Stackable dynamic tree based Rack router</span>'
+Comment3='
+Stackable dynamic tree based Rack router. Supports Rack?s X-Cascade convention
+to continue trying routes if the response returns pass. This allows multiple
+routes to be nested or stacked on top of each other. Since the application
+endpoint can trigger the router to continue matching, middle-ware can be used
+to add arbitrary conditions to any route. This allows you to route based
+on other request attributes, session information, or even data dynamically
+pulled from a database.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/josh/rack-mount'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

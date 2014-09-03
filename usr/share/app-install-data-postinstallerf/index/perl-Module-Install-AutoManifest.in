@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Module-Install-AutoManifest</b>'
+Comment='<span size="xx-large">The module generates MANIFEST automatically</span>'
+Comment3='
+This module is extension to ModuleInstall. It adds behavior for
+automatically generating MANIFEST.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Install-AutoManifest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

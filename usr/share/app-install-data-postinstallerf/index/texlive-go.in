@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-go</b>'
+Comment='<span size="xx-large">Fonts and macros for typesetting go games</span>'
+Comment3='
+The macros provide for nothing more complicated than the
+standard 19x19 board; the fonts are written in Metafont.
+
+date 2012-05-17 224903 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

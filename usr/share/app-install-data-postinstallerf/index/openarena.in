@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openarena</b>'
+Comment='<span size="xx-large">Open source first person shooter</span>'
+Comment3='
+OpenArena is an open-source content package for Quake III Arena licensed under
+the GPL, effectively creating a free stand-alone game.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://openarena.ws/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-algorithms</b>'
+Comment='<span size="xx-large">A suite of tools for typesetting algorithms in pseudo-code</span>'
+Comment3='
+Consists of two environments algorithm and algorithmic. The
+algorithm package defines a floating algorithm environment
+designed to work with the algorithmic style. Within an
+algorithmic environment a number of commands for typesetting
+popular algorithmic constructs are available.
+
+date 2009-08-25 140257 +0200
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

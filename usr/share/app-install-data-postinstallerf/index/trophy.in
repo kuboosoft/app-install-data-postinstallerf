@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>trophy</b>'
+Comment='<span size="xx-large">Car racing game with special features</span>'
+Comment3='
+TROPHY is a car racing game with some special features
+like shooting and dropping bombs.
+'
+License='GPL+'
+Screenshot=''
+Url='http://trophy.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

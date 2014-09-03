@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libunrar-devel</b>'
+Comment='<span size="xx-large">Development files for libunrar</span>'
+Comment3='
+The libunrar-devel package contains libraries and header files for
+developing applications that use libunrar.
+
+'
+License='Freeware with further limitations'
+Screenshot=''
+Url='http://www.rarlab.com/rar_add.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Test-Log-Dispatch</b>'
+Comment='<span size="xx-large">Test what you are logging</span>'
+Comment3='
+TestLogDispatch is a LogDispatch object that keeps track of
+everything logged to it in memory, and provides convenient tests against
+what has been logged.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Log-Dispatch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-mathabx</b>'
+Comment='<span size="xx-large">Three series of mathematical symbols</span>'
+Comment3='
+Mathabx is a set of 3 mathematical symbols font series matha,
+mathb and mathx. They are defined by MetaFont code and should
+be of reasonable quality (bitmap output). Things change from
+time to time, so there is no claim of stability (encoding,
+metrics, design). The package includes Plain TeX and LaTeX
+support macros.
+
+date 2008-09-15 134816 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

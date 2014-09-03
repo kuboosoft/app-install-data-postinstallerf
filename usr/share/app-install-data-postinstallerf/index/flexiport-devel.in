@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>flexiport-devel</b>'
+Comment='<span size="xx-large">Header files and libraries for flexiport</span>'
+Comment3='
+Development libraries and header files for flexiport
+
+URL          https//github.com/gbiggs/flexiport
+'
+License='LGPLv3'
+Screenshot=''
+Url='https://github.com/gbiggs/flexiport'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

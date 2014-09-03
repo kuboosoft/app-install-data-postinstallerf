@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>sugar-finance</b>'
+Comment='<span size="xx-large">Financial planning for Sugar</span>'
+Comment3='
+Finance is a simple financial planning activity. It can be integrated
+into classroom assignments, or else used to track finances for a school
+club. It might also be useful for students who wish to help their parents
+with home finances.
+
+The register view allows students to enter income and expenses, assign
+categories, and review past transactions. The chart view shows students
+a visual breakdown of their expenses by category. The budget view allows
+users to assign a monthly budget to each category, and to see how each
+months expenses compare to the budget.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.laptop.org/go/Finance'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

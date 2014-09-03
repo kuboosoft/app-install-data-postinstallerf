@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dchroot</b>'
+Comment='<span size="xx-large">Older tool similar to schroot</span>'
+Comment3='
+dchroot allows users to execute commands or interactive shells in different
+chroots. Users can move between chroots as necessary.  Enhanced
+functionality is available in the next generation tool called schroot.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://packages.debian.org/schroot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

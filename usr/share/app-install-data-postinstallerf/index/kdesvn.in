@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>kdesvn</b>'
+Comment='<span size="xx-large">A subversion client for KDE4 with KIO integration</span>'
+Comment3='
+KDESvn is a frontend to the subversion vcs. In difference to most other
+tools it uses the subversion C-Api direct via a c++ wrapper made by Rapid
+SVN and doesnt parse the output of the subversion client. So it is a real
+client itself instead of a frontend to the command line tool.
+
+It is designed for the K-Desktop environment and uses all of the goodies
+it has. It is planned for future that based on the native client some plugins
+for konqueror and/or kate will made.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://kdesvn.alwins-world.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>loudmouth</b>'
+Comment='<span size="xx-large">XMPP/Jabber C programming library</span>'
+Comment3='
+Loudmouth is a lightweight and easy-to-use C library for programming
+with the XMPP/Jabber protocol. Its designed to be easy to get started
+with and yet extensible to let you do anything the XMPP protocol allows.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.loudmouth-project.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

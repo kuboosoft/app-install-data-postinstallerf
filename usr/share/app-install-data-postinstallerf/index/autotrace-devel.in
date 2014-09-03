@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>autotrace-devel</b>'
+Comment='<span size="xx-large">Header files for autotrace</span>'
+Comment3='
+This package contains header files and development libraries for autotrace.
+
+URL          http//autotrace.sourceforge.net/
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://autotrace.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

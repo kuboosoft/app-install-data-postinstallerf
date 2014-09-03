@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Data-Taxi</b>'
+Comment='<span size="xx-large">Taint-aware, XML-ish data serialization</span>'
+Comment3='
+Taxi (Taint-Aware XML-Ish) is a data serializer with several handy
+features.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Data-Taxi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

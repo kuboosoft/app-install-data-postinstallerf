@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ktp-call-ui</b>'
+Comment='<span size="xx-large">Telepathy call handler</span>'
+Comment3='
+Telepathy call handler.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/extragear/network/telepathy/ktp-call-ui'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

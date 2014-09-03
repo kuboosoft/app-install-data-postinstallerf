@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-gdata</b>'
+Comment='<span size="xx-large">A Python module for accessing online Google services</span>'
+Comment3='
+This is a Python module for accessing online Google services such as
+- Base
+- Blogger
+- Calendar
+- Health
+- Picasa Web Albums
+- Spreadsheets
+- Documents List
+- Contacts
+- YouTube
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/gdata-python-client/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

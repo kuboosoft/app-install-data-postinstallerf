@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>thai-arundina-serif-fonts</b>'
+Comment='<span size="xx-large">Variable-width serif Thai Arundina fonts</span>'
+Comment3='
+
+Arundina fonts were created aiming at Bitstream Vera / Dejavu
+compatibility, under SIPAs initiation.  They were then further
+modified by TLWG for certain aspects, such as Latin glyph size
+compatibility and OpenType conformance.
+This package consists of the Thai Arundina serif variable-width
+font faces.
+'
+License='Bitstream Vera'
+Screenshot=''
+Url='http://linux.thai.net/projects/fonts-sipa-arundina'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>emacs-common-mozc</b>'
+Comment='<span size="xx-large">Common files to run mozc under Emacsen</span>'
+Comment3='
+Mozc is a Japanese Input Method Editor (IME) designed for
+multi-platform such as Chromium OS, Windows, Mac and Linux.
+
+This package contains the files common to both the GNU Emacs
+and XEmacs mozc packages.
+'
+License='BSD and ASL 2.0 and UCD and Public Domain and mecab-ipadic'
+Screenshot=''
+Url='http://code.google.com/p/mozc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

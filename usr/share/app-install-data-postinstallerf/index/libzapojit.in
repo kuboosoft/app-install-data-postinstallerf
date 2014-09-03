@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libzapojit</b>'
+Comment='<span size="xx-large">GLib/GObject wrapper for the SkyDrive and Hotmail REST APIs</span>'
+Comment3='
+GLib/GObject wrapper for the SkyDrive and Hotmail REST APIs. It supports
+SkyDrive file and folder objects, and the following SkyDrive operations
+  - Deleting a file, folder or photo.
+  - Listing the contents of a folder.
+  - Reading the properties of a file, folder or photo.
+  - Uploading files and photos.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/Zapojit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>springframework</b>'
+Comment='<span size="xx-large">Spring Java Application Framework</span>'
+Comment3='
+Spring is a layered Java/J2EE application framework, based on code published in
+Expert One-on-One J2EE Design and Development by Rod Johnson (Wrox, 2002).
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.springframework.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

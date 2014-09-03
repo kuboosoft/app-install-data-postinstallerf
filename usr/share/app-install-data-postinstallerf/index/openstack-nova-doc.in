@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>openstack-nova-doc</b>'
+Comment='<span size="xx-large">Documentation for OpenStack Compute</span>'
+Comment3='
+OpenStack Compute (codename Nova) is open source software designed to
+provision and manage large networks of virtual machines, creating a
+redundant and scalable cloud computing platform.
+
+This package contains documentation files for nova.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://openstack.org/projects/compute/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

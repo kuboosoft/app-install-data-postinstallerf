@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aubio-devel</b>'
+Comment='<span size="xx-large">Development files for aubio</span>'
+Comment3='
+The aubio-devel package contains libraries and header files for
+developing applications that use aubio.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://aubio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

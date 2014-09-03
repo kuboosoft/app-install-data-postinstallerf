@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nacl</b>'
+Comment='<span size="xx-large">Networking and Cryptography library</span>'
+Comment3='
+NaCl (pronounced "salt") is a new easy-to-use high-speed software library for
+network communication, encryption, decryption, signatures, etc. NaCls goal
+is to provide all of the core operations needed to build higher-level
+cryptographic tools.
+'
+License='Public Domain'
+Screenshot=''
+Url='http://nacl.cace-project.eu/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

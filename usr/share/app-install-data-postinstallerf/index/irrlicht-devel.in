@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>irrlicht-devel</b>'
+Comment='<span size="xx-large">Development headers and libraries for irrlicht</span>'
+Comment3='
+Development headers and libraries for irrlicht.
+
+URL          http//irrlicht.sourceforge.net/
+'
+License='zlib'
+Screenshot=''
+Url='http://irrlicht.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>kreetingkard_templates</b>'
+Comment='<span size="xx-large">Template files for KreetingKard</span>'
+Comment3='
+KreetingKard is a tool for making Japanese greeting cards. It allows you to
+make greeting cards easily by choosing a template and changing the words.
+
+This package contains some template files for KreetingKard.
+'
+License='GPL+'
+Screenshot=''
+Url='http://linux-life.net/program/cc/kde/app/kreetingkard/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

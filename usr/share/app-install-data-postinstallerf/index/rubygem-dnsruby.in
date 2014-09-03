@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-dnsruby</b>'
+Comment='<span size="xx-large">Ruby DNS(SEC) implementation</span>'
+Comment3='
+Dnsruby is a pure Ruby DNS client library. It provides a complete DNS
+client implementation, including DNSSEC. It can also load (BIND) zone
+files. Dnsruby has been used in OpenDNSSEC and ISCs DLV service.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://rubyforge.org/projects/dnsruby/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

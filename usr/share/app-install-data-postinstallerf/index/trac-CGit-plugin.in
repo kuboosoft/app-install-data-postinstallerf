@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>trac-CGit-plugin</b>'
+Comment='<span size="xx-large">Replace the trac browser by CGit</span>'
+Comment3='
+Replace the trac browser by cgit.
+
+Configure the url in the cgit ini panel and TracCGit
+will replace the trac source browser (provided you
+have a working cgit installation setup).
+Plain and simple.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/TracCgitPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>bigloo-doc</b>'
+Comment='<span size="xx-large">Bigloo documentation</span>'
+Comment3='
+Documentation for the Bigloo compiler and integrated development
+environment.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www-sop.inria.fr/mimosa/fp/Bigloo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

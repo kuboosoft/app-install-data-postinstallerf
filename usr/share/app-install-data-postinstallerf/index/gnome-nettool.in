@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-nettool</b>'
+Comment='<span size="xx-large">Network information tool for GNOME</span>'
+Comment3='
+GNOME Nettool is a front-end to various networking command-line
+tools, like ping, netstat, ifconfig, whois, traceroute, finger.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://projects.gnome.org/gnome-network/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

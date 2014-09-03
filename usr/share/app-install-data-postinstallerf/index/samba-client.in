@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>samba-client</b>'
+Comment='<span size="xx-large">Samba client programs</span>'
+Comment3='
+The samba4-client package provides some SMB/CIFS clients to complement
+the built-in SMB/CIFS filesystem in Linux. These clients allow access
+of SMB/CIFS shares and printing to SMB/CIFS printers.
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

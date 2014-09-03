@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cinnamon-session</b>'
+Comment='<span size="xx-large">Cinnamon session manager</span>'
+Comment3='
+Cinnamon-session manages a Cinnamon desktop or GDM login session. It starts up
+the other core components and handles logout and saving the session.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://cinnamon.linuxmint.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

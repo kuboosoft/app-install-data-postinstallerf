@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nodejs-js-yaml</b>'
+Comment='<span size="xx-large">YAML 1.2 parser and serializer</span>'
+Comment3='
+This is an implementation of YAML (YAML Aint Markup Language), a human
+friendly data serialization language. It started as PyYAML port, and was
+completely rewritten from scratch.  Now its very fast, and supports the
+1.2 spec.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/nodeca/js-yaml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

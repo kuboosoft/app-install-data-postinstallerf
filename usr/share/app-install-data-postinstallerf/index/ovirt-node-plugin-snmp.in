@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ovirt-node-plugin-snmp</b>'
+Comment='<span size="xx-large">SNMP plugin for oVirt Node image</span>'
+Comment3='
+This package provides an snmp plugin tools for use withoVirt Node image.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

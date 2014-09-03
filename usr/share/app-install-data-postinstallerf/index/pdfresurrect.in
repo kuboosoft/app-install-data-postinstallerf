@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pdfresurrect</b>'
+Comment='<span size="xx-large">PDF Analysis and Scrubbing Utility</span>'
+Comment3='
+PDFResurrect is a tool aimed at analyzing PDF documents. The PDF format
+allows for previous document changes to be retained in a more recent
+version of the document, thereby creating a running history of changes
+for the document. This tool attempts to extract all previous versions
+while also producing a summary of changes between versions. This tool
+can also "scrub" or write data over the original instances of PDF objects
+that have been modified or deleted, in an effort to disguise information
+from previous versions that might not be intended for anyone else to read.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.757labs.org/projects/pdfresurrect/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

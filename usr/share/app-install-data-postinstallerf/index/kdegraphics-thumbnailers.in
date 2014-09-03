@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kdegraphics-thumbnailers</b>'
+Comment='<span size="xx-large">Thumbnailers for various graphic types</span>'
+Comment3='
+Thumbnailers for various graphic types.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/kdegraphics-thumbnailers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

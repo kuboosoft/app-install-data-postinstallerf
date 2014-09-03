@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sblim-sfcCommon</b>'
+Comment='<span size="xx-large">Common functions for SBLIM Small Footprint CIM Broker and CIM Client Library.</span>'
+Comment3='
+This package provides a common library for functions
+shared between Small Footprint CIM Broker (sblim-sfcb)
+Small Footprint CIM Client (and sblim-sfcc).
+
+'
+License='EPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/sblim/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

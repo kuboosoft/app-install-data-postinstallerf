@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-pear-Services-Twitter</b>'
+Comment='<span size="xx-large">PHP interface to Twitters API</span>'
+Comment3='
+An interface for communicating with Twitters public API.
+Send status updates, fetch information, add friends, etc.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Services_Twitter'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

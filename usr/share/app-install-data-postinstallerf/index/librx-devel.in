@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>librx-devel</b>'
+Comment='<span size="xx-large">POSIX regexp functions, developers library</span>'
+Comment3='
+Rx is, among other things, an implementation of the interface
+specified by POSIX for programming with regular expressions.  Some
+other implementations are GNU regex.c and Henry Spencers regex
+library.
+
+This package contains files needed for development with librx.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnu.org/software/rx/rx.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>spindown</b>'
+Comment='<span size="xx-large">Daemon that can spin idle disks down</span>'
+Comment3='
+Spindown is a daemon that can spin idle disks down and thus save energy and
+improve disk lifetime. It periodically checks for read or written blocks. When
+no blocks are read or written the disk is idle. When a disk stays idle long
+enough, spindown uses custom command like sg_start or hdparm to spin it down.
+It also works with USB disks and hot-swappable disks because it doesnt watch
+the device name (hda, sdb, ...), but the device ID. This means that it doesnt
+matter if the disk is swapped while the daemon is running.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/spindown'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

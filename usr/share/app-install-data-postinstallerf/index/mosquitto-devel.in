@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mosquitto-devel</b>'
+Comment='<span size="xx-large">Development files for mosquitto</span>'
+Comment3='
+Development headers and libraries for mosquitto
+
+URL          http//mosquitto.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://mosquitto.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

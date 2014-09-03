@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ndesk-dbus-glib</b>'
+Comment='<span size="xx-large">Provides glib mainloop integration for ndesk-dbus</span>'
+Comment3='
+ndesk-dbus-glib provides glib mainloop integration for ndesk-dbus
+'
+License='MIT'
+Screenshot=''
+Url='http://www.ndesk.org/DBusSharp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

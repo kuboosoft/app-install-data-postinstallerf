@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>petit</b>'
+Comment='<span size="xx-large">Log analysis tool for syslog, Apache and raw log files</span>'
+Comment3='
+Log analysis tool which is useful to systems administrators & systems
+analysts. It interacts with syslog and Apache logs to clarify what is
+happening in logs.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://crunchtools.com/software/petit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

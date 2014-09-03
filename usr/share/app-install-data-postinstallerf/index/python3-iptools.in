@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-iptools</b>'
+Comment='<span size="xx-large">A few useful functions and objects for manipulating IP addresses in python 3</span>'
+Comment3='
+A few useful functions and objects for manipulating IPv4 and IPv6 addresses
+in python. The project was inspired by a desire to be able to use CIDR address
+notation to designate INTERNAL_IPS in a Django projects settings file.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/bd808/python-iptools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

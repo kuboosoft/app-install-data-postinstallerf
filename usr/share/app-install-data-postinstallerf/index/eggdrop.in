@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>eggdrop</b>'
+Comment='<span size="xx-large">The worlds most popular Open Source IRC bot</span>'
+Comment3='
+Eggdrop is the worlds most popular Open Source IRC bot, designed
+for flexibility and ease of use. It is extendable with Tcl scripts
+and/or C modules, has support for the big five IRC networks and is
+able to form botnets, share partylines and userfiles between bots.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.eggheads.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

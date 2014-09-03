@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>python-mozbase</b>'
+Comment='<span size="xx-large">The Mozilla suite of Python utilities</span>'
+Comment3='
+Mozbase is the Mozilla suite of Python utilities. This package
+installs all utilities and Python libraries from Mozbase.
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='https://wiki.mozilla.org/Auto-tools/Projects/MozBase'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

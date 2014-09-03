@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bluecurve-gtk-themes</b>'
+Comment='<span size="xx-large">Bluecurve GTK+ theme</span>'
+Comment3='
+This package contains a collection of GTK+ themes that use the bluecurve engine.
+
+URL          http//www.redhat.com
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.redhat.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>roadfighter</b>'
+Comment='<span size="xx-large">Konamis Road Fighter remake</span>'
+Comment3='
+This is a remake of a car-based arcade game developed by Konami and released
+in 1984. The goal is to reach the finish line within the stages without
+running out of time, hitting other cars or running out of fuel.
+'
+License='Distributable'
+Screenshot=''
+Url='http://roadfighter.jorito.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

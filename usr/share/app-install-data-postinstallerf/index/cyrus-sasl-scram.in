@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cyrus-sasl-scram</b>'
+Comment='<span size="xx-large">SCRAM auxprop support for Cyrus SASL</span>'
+Comment3='
+The cyrus-sasl-scram package contains the Cyrus SASL plugin which supports
+the SCRAM authentication scheme.
+
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://asg.web.cmu.edu/sasl/sasl-library.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

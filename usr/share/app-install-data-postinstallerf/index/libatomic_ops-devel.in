@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libatomic_ops-devel</b>'
+Comment='<span size="xx-large">Atomic memory update operations</span>'
+Comment3='
+Provides implementations for atomic memory update operations on a
+number of architectures. This allows direct use of these in reasonably
+portable code. Unlike earlier similar packages, this one explicitly
+considers memory barrier semantics, and allows the construction of code
+that involves minimum overhead across a variety of architectures.
+
+'
+License='MIT and GPLv2+'
+Screenshot=''
+Url='http://www.hpl.hp.com/personal/Hans_Boehm/gc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

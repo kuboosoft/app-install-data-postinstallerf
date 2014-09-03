@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>emacs-golang</b>'
+Comment='<span size="xx-large">Emacs add-on package for Go</span>'
+Comment3='
+Emacs add-on package for Go.
+'
+License='BSD'
+Screenshot=''
+Url='http://golang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

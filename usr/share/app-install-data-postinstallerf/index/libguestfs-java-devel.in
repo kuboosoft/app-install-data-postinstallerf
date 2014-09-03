@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libguestfs-java-devel</b>'
+Comment='<span size="xx-large">Java development package for libguestfs</span>'
+Comment3='
+libguestfs-java-devel contains the tools for developing Java software
+using libguestfs.
+
+See also libguestfs-javadoc.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

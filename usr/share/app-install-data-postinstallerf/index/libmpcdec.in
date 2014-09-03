@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libmpcdec</b>'
+Comment='<span size="xx-large">Musepack audio decoding library</span>'
+Comment3='
+Musepack is an audio compression format with a strong emphasis on high quality.
+Its not lossless, but it is designed for transparency, so that you wont be
+able to hear differences between the original wave file and the much smaller
+MPC file.
+It is based on the MPEG-1 Layer-2 / MP2 algorithms, but has rapidly developed
+and vastly improved and is now at an advanced stage in which it contains
+heavily optimized and patentless code.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://www.musepack.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>crystalhd-firmware</b>'
+Comment='<span size="xx-large">Firmware for the Broadcom Crystal HD video decoder</span>'
+Comment3='
+Firmwares for the Broadcom Crystal HD (bcm970012 and bcm970015)
+video decoders.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.broadcom.com/support/crystal_hd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

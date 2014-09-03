@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-File-ReadBackwards</b>'
+Comment='<span size="xx-large">Read a file backwards by lines</span>'
+Comment3='
+This module reads a file backwards line by line. It is simple to use,
+memory efficient and fast. It supports both an object and a tied handle
+interface.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/File-ReadBackwards/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

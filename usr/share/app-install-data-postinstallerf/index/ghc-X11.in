@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-X11</b>'
+Comment='<span size="xx-large">Haskell binding to the X11 graphics library</span>'
+Comment3='
+A Haskell binding to the X11 graphics library.
+The binding is a direct translation of the C binding; for
+documentation of these calls, refer to "The Xlib Programming
+Manual", available online at <http//tronche.com/gui/x/xlib/>.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/X11'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

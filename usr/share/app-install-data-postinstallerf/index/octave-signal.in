@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>octave-signal</b>'
+Comment='<span size="xx-large">Signal processing tools for Octave</span>'
+Comment3='
+Signal processing tools, including filtering, windowing and display
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://octave.sourceforge.net/signal/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gt5</b>'
+Comment='<span size="xx-large">A diff-capable du-browser</span>'
+Comment3='
+Allows to check what takes the most of your hard disk space and track
+its changes.
+Note It requires some console web browser installed in the system
+(e.g. links, links2, elinks, lynx, w3m).
+'
+License='GPL+'
+Screenshot=''
+Url='http://gt5.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libbatch-devel</b>'
+Comment='<span size="xx-large">Development files for libbatch</span>'
+Comment3='
+The libbatch-devel package contains libraries and header files for
+developing applications that use libbatch.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='git.salome-platform.org/gitweb/?p=tools/libbatch.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

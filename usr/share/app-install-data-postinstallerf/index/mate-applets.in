@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mate-applets</b>'
+Comment='<span size="xx-large">MATE Desktop panel applets</span>'
+Comment3='
+MATE Desktop panel applets
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://mate-desktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

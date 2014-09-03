@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gridengine-execd</b>'
+Comment='<span size="xx-large">Gridengine execd program</span>'
+Comment3='
+Programs needed to run a grid engine execution host
+'
+License='BSD and LGPLv2+ and MIT and SISSL'
+Screenshot=''
+Url='http://gridscheduler.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgsystem</b>'
+Comment='<span size="xx-large">GIO-based library with Unix/Linux specific API</span>'
+Comment3='
+LibGSystem is a GIO-based library targeted primarily
+for use by operating system components.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://wiki.gnome.org/Projects/LibGSystem'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

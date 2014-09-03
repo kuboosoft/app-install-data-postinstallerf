@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>icewm-clearlooks</b>'
+Comment='<span size="xx-large">Clearlooks like theme for IceWM</span>'
+Comment3='
+An IceWM theme that mimics the GNOME ClearLooks theme used by
+older Fedora releases and RHEL.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.icewm.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

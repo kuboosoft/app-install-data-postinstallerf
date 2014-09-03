@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>zenon</b>'
+Comment='<span size="xx-large">Automated theorem prover for first-order classical logic</span>'
+Comment3='
+Zenon is an automated theorem prover for first order classical logic
+with equality, based on the tableau method.  Zenon can read input files
+in TPTP, Coq, Focal, and its own Zenon format.  Zenon can directly
+generate Coq proofs (proof scripts or proof terms), which can be
+reinserted into Coq specifications.  Zenon can also be extended.
+'
+License='BSD'
+Screenshot=''
+Url='http://focal.inria.fr/zenon/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

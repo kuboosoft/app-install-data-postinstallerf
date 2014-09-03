@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mod_geoip</b>'
+Comment='<span size="xx-large">GeoIP module for the Apache HTTP Server</span>'
+Comment3='
+mod_geoip is an Apache module to look up geolocation information for a
+client as part of the HTTP request process. It uses the GeoIP library
+and database to perform the lookup. It is free software, licensed under
+the Apache license.
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://www.maxmind.com/app/mod_geoip'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ferm</b>'
+Comment='<span size="xx-large">For Easy Rule Making</span>'
+Comment3='
+Ferm is a tool to maintain complex firewalls, without having the
+trouble to rewrite the complex rules over and over again. Ferm
+allows the entire firewall rule set to be stored in a separate
+file, and to be loaded with one command. The firewall configuration
+resembles structured programming-like language, which can contain
+levels and lists.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ferm.foo-projects.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>simple-xml-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for simple-xml</span>'
+Comment3='
+This package contains javadoc for simple-xml.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://simple.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

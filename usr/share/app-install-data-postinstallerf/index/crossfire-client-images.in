@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>crossfire-client-images</b>'
+Comment='<span size="xx-large">Image cache for crossfire clients</span>'
+Comment3='
+Image files that can be used with the crossfire clients so that they
+dont have to be downloaded from the server.
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://crossfire.real-time.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

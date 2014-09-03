@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-xlrd</b>'
+Comment='<span size="xx-large">Library to extract data from Microsoft Excel (TM) spreadsheet files</span>'
+Comment3='
+Extract data from Excel spreadsheets (.xls and .xlsx, versions 2.0 onwards)
+on any platform.  Pure Python (2.6, 2.7, 3.2+).  Strong support for Excel
+dates.  Unicode-aware.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.python-excel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>discount</b>'
+Comment='<span size="xx-large">A command-line utility for converting Markdown files into HTML</span>'
+Comment3='
+DISCOUNT is an implementation of John Grubers Markdown language in C.
+It includes all of the original Markdown features, along with a few
+extensions, and passes the Markdown test suite.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.pell.portland.or.us/~orc/Code/discount'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

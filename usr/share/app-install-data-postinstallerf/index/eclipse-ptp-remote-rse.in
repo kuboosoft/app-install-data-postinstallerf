@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-ptp-remote-rse</b>'
+Comment='<span size="xx-large">PTP RSE Enabler</span>'
+Comment3='
+Provides support for remote services using RSE.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/ptp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mingw32-webkitgtk3</b>'
+Comment='<span size="xx-large">MinGW Windows web content engine library</span>'
+Comment3='
+WebKitGTK+ is an open-source Web content engine library.
+This package contains the shared libraries for the WebKit GTK+ port
+as well as the sample GtkLauncher tool.
+
+This is the MinGW port of WebKitGTK+ for GTK+ 3.
+'
+License='LGPLv2+ and BSD'
+Screenshot=''
+Url='http://webkit.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

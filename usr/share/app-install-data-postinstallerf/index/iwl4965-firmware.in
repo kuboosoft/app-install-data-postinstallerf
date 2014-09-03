@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iwl4965-firmware</b>'
+Comment='<span size="xx-large">Firmware for Intel? PRO/Wireless 4965 A/G/N network adaptors</span>'
+Comment3='
+This package contains the firmware required by the iwl4965 driver
+for Linux.  Usage of the firmware is subject to the terms and conditions
+contained inside the provided LICENSE file. Please read it carefully.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>amarok</b>'
+Comment='<span size="xx-large">Media player</span>'
+Comment3='
+Amarok is a multimedia player with
+ - fresh playlist concept, very fast to use, with drag and drop
+ - plays all formats supported by the various engines
+ - audio effects, like reverb and compressor
+ - compatible with the .m3u and .pls formats for playlists
+ - nice GUI, integrates into the KDE look, but with a unique touch
+'
+License='GPLv2 or GPLv3'
+Screenshot=''
+Url='http://amarok.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

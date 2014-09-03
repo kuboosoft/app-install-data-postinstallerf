@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>php-sabredav-Sabre_HTTP</b>'
+Comment='<span size="xx-large">HTTP component for the SabreDAV WebDAV framework for PHP</span>'
+Comment3='
+Sabre_HTTP allows for a central interface to deal with Sabre.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/sabredav'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

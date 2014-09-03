@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-utils-merge</b>'
+Comment='<span size="xx-large">Node.js module to merge properties between objects</span>'
+Comment3='
+Merges the properties from a source object into a destination object.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jaredhanson/utils-merge'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

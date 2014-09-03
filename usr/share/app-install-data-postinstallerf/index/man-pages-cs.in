@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>man-pages-cs</b>'
+Comment='<span size="xx-large">Czech man pages from the Linux Documentation Project</span>'
+Comment3='
+Manual pages from the Linux Documentation Project, translated into
+Czech.
+'
+License='GPLv2 and GPLv3 and BSD'
+Screenshot=''
+Url='http://tropikhajma.sweb.cz/man-pages-cs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

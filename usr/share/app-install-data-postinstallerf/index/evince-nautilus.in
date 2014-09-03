@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>evince-nautilus</b>'
+Comment='<span size="xx-large">Evince extension for nautilus</span>'
+Comment3='
+This package contains the evince extension for the nautilus file manger.
+It adds an additional tab called "Document" to the file properties dialog.
+'
+License='GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse'
+Screenshot=''
+Url='http://projects.gnome.org/evince/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

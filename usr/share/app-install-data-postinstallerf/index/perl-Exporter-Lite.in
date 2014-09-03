@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Exporter-Lite</b>'
+Comment='<span size="xx-large">Lightweight exporting of variables</span>'
+Comment3='
+Lightweight exporting of variables.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Exporter-Lite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

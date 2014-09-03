@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>vigra-python</b>'
+Comment='<span size="xx-large">Python interface for the vigra computer vision library</span>'
+Comment3='
+The vigra-python package provides python bindings for vigra
+'
+License='MIT'
+Screenshot=''
+Url='http://hci.iwr.uni-heidelberg.de/vigra/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

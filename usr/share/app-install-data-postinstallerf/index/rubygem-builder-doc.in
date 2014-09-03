@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-builder-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-builder</span>'
+Comment3='
+Documentation for rubygem-builder
+'
+License='MIT'
+Screenshot=''
+Url='http://onestepback.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

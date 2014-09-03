@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>wsdl4j</b>'
+Comment='<span size="xx-large">Web Services Description Language Toolkit for Java</span>'
+Summary      Web Services Description Language Toolkit for Java
+Source       wsdl4j-1.6.3-3.fc20.src.rpm
+Comment3='
+The Web Services Description Language for Java Toolkit (WSDL4J) allows the
+creation, representation, and manipulation of WSDL documents describing
+services.  This code base will eventually serve as a reference implementation
+of the standard created by JSR110.
+'
+License='CPL'
+Screenshot=''
+Url='http://sourceforge.net/projects/wsdl4j'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

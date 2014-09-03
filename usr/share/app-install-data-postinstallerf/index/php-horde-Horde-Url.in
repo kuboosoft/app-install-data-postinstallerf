@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Url</b>'
+Comment='<span size="xx-large">Horde Url class</span>'
+Comment3='
+This class represents a single URL and provides methods for manipulating
+URLs.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+This class represents a single URL and provides methods for manipulating'
+URLs.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

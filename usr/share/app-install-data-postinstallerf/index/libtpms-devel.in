@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtpms-devel</b>'
+Comment='<span size="xx-large">Include files for libtpms</span>'
+Comment3='
+Libtpms header files and documentation.
+
+URL          http//sourceforge.net/projects/ibmswtpm
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/ibmswtpm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>web2png</b>'
+Comment='<span size="xx-large">A GIF to PNG converter for entire directory hierarchies</span>'
+Comment3='
+The gif2png program converts files from the obsolescent Graphic Interchange
+Format to Portable Network Graphics. The conversion preserves all graphic
+information, including transparency, perfectly. The gif2png program can
+even recover data from corrupted GIFs.
+
+The distribution also includes a Python script, web2png, that will
+convert entire web hierarchies (images and HTML or PHP pages).
+'
+License='BSD'
+Screenshot=''
+Url='http://www.catb.org/~esr/gif2png/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

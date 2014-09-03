@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>upower</b>'
+Comment='<span size="xx-large">Power Management Service</span>'
+Comment3='
+UPower (formerly DeviceKit-power) provides a daemon, API and command
+line tools for managing power devices attached to the system.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://upower.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

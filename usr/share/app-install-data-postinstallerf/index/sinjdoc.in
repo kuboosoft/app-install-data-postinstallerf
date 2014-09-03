@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sinjdoc</b>'
+Comment='<span size="xx-large">Documentation generator for Java source code</span>'
+Comment3='
+This package contains Sinjdoc a tool for generating Javadoc-style
+documentation from Java source code
+'
+License='GPL+'
+Screenshot=''
+Url='http://cscott.net/Projects/GJ/sinjdoc-latest/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

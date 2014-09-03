@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fedwatch</b>'
+Comment='<span size="xx-large">Tool for watching fedmsg messages and running arbitrary scripts</span>'
+Comment3='
+Tool and library for watching fedmsg messages and running arbitrary scripts in a
+nice way.
+
+Think of fedwatch as simple converter from fedmsg json messages into shell
+arguments for scripts.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://github.com/sochotnicky/fedwatch'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qlipper</b>'
+Comment='<span size="xx-large">Lightweight clipboard history</span>'
+Comment3='
+Lightweight clipboard history applet.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/qlipper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

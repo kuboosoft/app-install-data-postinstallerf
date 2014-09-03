@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vios-proxy-guest</b>'
+Comment='<span size="xx-large">Network proxy using virtioserial for QEMU guest</span>'
+Comment3='
+The vios-proxy-guest daemon runs on a QEMU client. A vios-proxy-guest daemon
+creates a listening network socket on the guests localhost interface. When
+client programs connect to this socket then the vios-proxy-guest daemon opens
+a proxy channel to the host through the tunnel.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://git.fedorahosted.org/git/?p=vios-proxy.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>osm-gps-map-gobject</b>'
+Comment='<span size="xx-large">GObject introspection bindings for osm-gps-map</span>'
+Comment3='
+GObject introspection bindings for osm-gps-map.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://nzjrs.github.com/osm-gps-map/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

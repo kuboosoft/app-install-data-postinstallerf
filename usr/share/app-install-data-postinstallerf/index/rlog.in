@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rlog</b>'
+Comment='<span size="xx-large">Runtime Logging for C++</span>'
+Comment3='
+RLog provides a flexible message logging facility for C++ programs and
+libraries.  It is meant to be fast enough to leave in production code.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://arg0.net/rlog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

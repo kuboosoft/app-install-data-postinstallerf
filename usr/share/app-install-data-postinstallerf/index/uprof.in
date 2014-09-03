@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>uprof</b>'
+Comment='<span size="xx-large">Profiling toolkit</span>'
+Comment3='
+An open source library providing a toolkit to assist in profiling
+applications in a domain specific way and generating reports than can quickly
+be digested and discussed.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.moblin.org/cgit.cgi/uprof/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>guacamole</b>'
+Comment='<span size="xx-large">Web-based remote desktop application</span>'
+Comment3='
+This package contains the main HTML5 web application for the Guacamole stack
+that provides access to desktop environments using remote desktop protocols such
+as VNC or RDP.
+
+A centralized server acts as a tunnel and proxy, allowing access to multiple
+desktops through a web browser. No plugins are needed the client requires
+nothing more than a web browser supporting HTML5 and AJAX.
+The centralized server is provided by the "guacd" package and its associated
+"libguac-client-*" packages.
+'
+License='MPLv1.1 or GPL+ or AGPLv3+'
+Screenshot=''
+Url='http://guac-dev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

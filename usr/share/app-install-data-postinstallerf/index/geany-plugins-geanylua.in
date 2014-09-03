@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>geany-plugins-geanylua</b>'
+Comment='<span size="xx-large">Lua Scripting for Geany</span>'
+Comment3='
+This plugin provides extensive support for developing in the lua programming
+language.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://plugins.geany.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

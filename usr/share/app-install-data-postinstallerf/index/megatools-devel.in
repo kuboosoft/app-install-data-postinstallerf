@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>megatools-devel</b>'
+Comment='<span size="xx-large">Include files and mandatory libraries for development megatools</span>'
+Comment3='
+Include files and mandatory libraries for development.
+
+URL          http//megatools.megous.com/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://megatools.megous.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

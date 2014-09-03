@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libverto-libevent</b>'
+Comment='<span size="xx-large">libevent module for libverto</span>'
+Comment3='
+Module for libverto which provides integration with libevent.
+
+URL          https//fedorahosted.org/libverto/
+'
+License='MIT'
+Screenshot=''
+Url='https://fedorahosted.org/libverto/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

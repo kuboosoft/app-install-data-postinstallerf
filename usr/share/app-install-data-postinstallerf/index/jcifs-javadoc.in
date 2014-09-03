@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jcifs-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jcifs</span>'
+Comment3='
+This package contains the API documentation for jcifs.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://jcifs.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

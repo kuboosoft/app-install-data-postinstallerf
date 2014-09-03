@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-protex</b>'
+Comment='<span size="xx-large">Literate programming package</span>'
+Comment3='
+ProTeX is a simple but powerful literate programming tool,
+which is designed to generate useful hypertext output (either
+PDF, or HTML using TeX4ht).
+
+date 2008-09-16 213908 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

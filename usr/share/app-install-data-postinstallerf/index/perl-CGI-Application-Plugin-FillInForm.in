@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-CGI-Application-Plugin-FillInForm</b>'
+Comment='<span size="xx-large">Integrate CGI::Application with HTML::FillInForm</span>'
+Comment3='
+This plugin for CGIApplication provides a mix-in method to make using
+HTMLFillInForm more convenient.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CGI-Application-Plugin-FillInForm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>jboss-web-native-devel</b>'
+Comment='<span size="xx-large">JBoss Web Native development files</span>'
+Comment3='
+This package provides the support files which can be used to
+build applications using the JBoss Web native library.
+
+'
+License='LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

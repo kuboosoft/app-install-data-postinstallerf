@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rarian-devel</b>'
+Comment='<span size="xx-large">Development files for Rarian</span>'
+Comment3='
+This package contains files required to develop applications that use the
+Rarian library ("librarian").
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://rarian.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

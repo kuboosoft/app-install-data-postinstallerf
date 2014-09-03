@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xml-security</b>'
+Comment='<span size="xx-large">Implementation of W3C security standards for XML</span>'
+Comment3='
+The XML Security project is aimed at providing implementation
+of security standards for XML. Currently the focus is on the
+W3C standards 
+- XML-Signature Syntax and Processing; and
+- XML Encryption Syntax and Processing.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://santuario.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

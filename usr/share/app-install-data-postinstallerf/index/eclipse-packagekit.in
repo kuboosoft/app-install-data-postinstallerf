@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-packagekit</b>'
+Comment='<span size="xx-large">PackageKit integration tools for Eclipse (Incubation)</span>'
+Comment3='
+PackageKit integration plugin. It also contains autotools and rpm
+plugins integration code.
+'
+License='EPL'
+Screenshot=''
+Url='https://fedorahosted.org/eclipse-packagekit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

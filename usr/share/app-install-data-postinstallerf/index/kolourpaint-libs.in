@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kolourpaint-libs</b>'
+Comment='<span size="xx-large">Runtime libraries for kolourpaint</span>'
+Comment3='
+Runtime libraries for kolourpaint.
+
+URL          https//projects.kde.org/projects/kde/kdegraphics/kolourpaint
+'
+License='LGPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/kolourpaint'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

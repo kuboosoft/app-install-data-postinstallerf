@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=postinstaller -n artha
+Version=1.0
+Name=Artha
+GenericName=Thesaurus
+Comment=Handy thesaurus based on WordNet
+Icon=/usr/share/app-install-data-postinstallerf/icons/artha.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;Languages;Literature;

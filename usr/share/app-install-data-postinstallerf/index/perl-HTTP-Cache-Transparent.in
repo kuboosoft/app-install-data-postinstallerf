@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-HTTP-Cache-Transparent</b>'
+Comment='<span size="xx-large">Cache the result of http get-requests persistently</span>'
+Comment3='
+HTTPCacheTransparent is an implementation of http get that keeps a
+local cache of fetched pages to avoid fetching the same data from the
+server if it hasnt been updated. The cache is stored on disk and is
+thus persistent between invocations.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-Cache-Transparent/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

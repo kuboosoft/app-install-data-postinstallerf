@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pybluez</b>'
+Comment='<span size="xx-large">Python API for the BlueZ bluetooth stack</span>'
+Comment3='
+PyBluez is an effort to create python wrappers around system Bluetooth
+resources to allow Python developers to easily and quickly create Bluetooth
+applications.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://code.google.com/p/pybluez/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-slovenian</b>'
+Comment='<span size="xx-large">Slovenian hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Slovenian in T1/EC and UTF-8
+encodings.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

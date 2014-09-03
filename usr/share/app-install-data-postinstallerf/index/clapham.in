@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>clapham</b>'
+Comment='<span size="xx-large">Railroad diagram generator for computer languages</span>'
+Comment3='
+Clapham is an open-source railroad diagram generator.
+Railroad diagrams are a graphical way of representing the grammar of a
+computer language. When a computer language is large, even people who
+use the language day-to-day have trouble remembering its nuances. A
+railroad diagram represents the grammar visually, and is easier to
+understand by non- or semi-technical users.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://clapham.hydromatic.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

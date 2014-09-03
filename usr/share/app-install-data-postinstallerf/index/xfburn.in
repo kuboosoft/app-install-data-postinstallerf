@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xfburn</b>'
+Comment='<span size="xx-large">Simple CD burning tool for Xfce</span>'
+Comment3='
+Xfburn is a simple CD/DVD burning tool based on libburnia libraries. It can
+blank CD-RWs, burn and create iso images, as well as burn personal
+compositions of data to either CD or DVD.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/applications/xfburn'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

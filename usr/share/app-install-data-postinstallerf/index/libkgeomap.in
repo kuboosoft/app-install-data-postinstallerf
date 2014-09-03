@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkgeomap</b>'
+Comment='<span size="xx-large">A world map library</span>'
+Comment3='
+A world map library.
+
+URL          http//www.digikam.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.digikam.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

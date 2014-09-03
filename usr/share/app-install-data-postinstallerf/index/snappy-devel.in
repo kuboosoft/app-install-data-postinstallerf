@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>snappy-devel</b>'
+Comment='<span size="xx-large">Development files for snappy</span>'
+Comment3='
+The snappy-devel package contains libraries and header files for
+developing applications that use snappy.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/snappy/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

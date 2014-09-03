@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>netpbm</b>'
+Comment='<span size="xx-large">A library for handling different graphics file formats</span>'
+Comment3='
+The netpbm package contains a library of functions which support
+programs for handling various graphics file formats, including .pbm
+(portable bitmaps), .pgm (portable graymaps), .pnm (portable anymaps),
+.ppm (portable pixmaps) and others.
+
+'
+License='BSD and GPLv2 and IJG and MIT and Public Domain'
+Screenshot=''
+Url='http://netpbm.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

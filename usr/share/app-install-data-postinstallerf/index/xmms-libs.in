@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xmms-libs</b>'
+Comment='<span size="xx-large">XMMS engine and core plugins</span>'
+Comment3='
+The X MultiMedia System player engine and core plugins.
+
+URL          http//legacy.xmms2.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://legacy.xmms2.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

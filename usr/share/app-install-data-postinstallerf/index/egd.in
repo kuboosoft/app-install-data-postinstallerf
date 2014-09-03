@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>egd</b>'
+Comment='<span size="xx-large">Entropy Gathering Daemon</span>'
+Comment3='
+EGD is an Entropy Gathering Daemon meant to be used on systems that can run GPG
+but which dont have a convenient (or reliable) source of random bits. It is a
+regular user-space program that sits around, running programs like w and
+last and vmstat, collecting the randomness (or at least the
+unpredictability) inherent in the output of these system statistics programs
+when used on a reasonably busy system. It slowly stirs the output of these
+gathering programs into a pool of entropy, much like the linux kernel device,
+and allows other programs to read out random bits from this pool.
+'
+License='GPL+ or MIT'
+Screenshot=''
+Url='http://egd.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

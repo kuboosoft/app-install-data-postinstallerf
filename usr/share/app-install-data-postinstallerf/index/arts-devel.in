@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>arts-devel</b>'
+Comment='<span size="xx-large">Development files for the aRts sound server</span>'
+Comment3='
+Install arts-devel if you intend to write applications using aRts.
+
+URL          http//www.kde.org
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

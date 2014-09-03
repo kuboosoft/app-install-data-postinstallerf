@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>js-of-ocaml</b>'
+Comment='<span size="xx-large">An OCaml to Javascript compiler</span>'
+Comment3='
+js_of_ocaml is a compiler of OCaml byte-code to JavaScript.
+It makes it possible to run OCaml programs in a web browser.
+Its key features are the following
+ * the whole language, and most of the standard library are
+   supported;
+ * the generated code can be used with any web server and browser;
+ * you can use a standard installation of OCaml to compile your
+   programs. In particular, you do not have to recompile a library to
+   use it with Js_of_ocaml. You just have to link your program with a
+   specific library to interface with the browser APIs.
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://ocsigen.org/js_of_ocaml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

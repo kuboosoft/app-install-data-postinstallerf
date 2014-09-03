@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>hawtjni</b>'
+Comment='<span size="xx-large">Code generator that produces the JNI code</span>'
+Comment3='
+HawtJNI is a code generator that produces the JNI code needed to
+implement java native methods. It is based on the jnigen code generator
+that is part of the SWT Tools project which is used to generate all the
+JNI code which powers the eclipse platform.
+'
+License='ASL 2.0 and EPL and BSD'
+Screenshot=''
+Url='http://hawtjni.fusesource.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

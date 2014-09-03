@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>docbook-dtds</b>'
+Comment='<span size="xx-large">SGML and XML document type definitions for DocBook</span>'
+Comment3='
+The DocBook Document Type Definition (DTD) describes the syntax of
+technical documentation texts (articles, books and manual pages).
+This syntax is XML-compliant and is developed by the OASIS consortium.
+This package contains SGML and XML versions of the DocBook DTD.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://www.oasis-open.org/docbook/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

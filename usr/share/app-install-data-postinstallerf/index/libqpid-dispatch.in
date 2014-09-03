@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libqpid-dispatch</b>'
+Comment='<span size="xx-large">The Qpid Dispatch Router library</span>'
+Comment3='
+The Qpid Dispatch Router library.
+
+URL          http//qpid.apache.org/
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://qpid.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>shcov</b>'
+Comment='<span size="xx-large">A gcov and lcov coverage test tool for bourne shell / bash scripts</span>'
+Comment3='
+shcov is a gcov-like code coverage tester for bourne shell / bash
+scripts. It also has a lcov-like HTML output generator to present
+coverage results.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://code.google.com/p/shcov/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>synfigstudio-devel</b>'
+Comment='<span size="xx-large">Development files for synfigstudio</span>'
+Comment3='
+The synfigstudio-devel package contains libraries and header files for
+developing applications that use synfigstudio.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://synfig.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

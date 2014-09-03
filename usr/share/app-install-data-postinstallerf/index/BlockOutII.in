@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>BlockOutII</b>'
+Comment='<span size="xx-large">A free adaptation of the original BlockOut DOS game</span>'
+Comment3='
+BlockOut II is a free adaptation of the original BlockOut
+DOS game edited by California Dreams in 1989. BlockOut II
+has the same features than the original game with few graphic
+improvements. The score calculation is also nearly similar to
+the original game. BlockOut II has been designed by an addicted
+player for addicted players. BlockOut II is an open source
+project available for both Windows and Linux.
+
+Blockout is a registered trademark of Kadon Enterprises, Inc.,
+used by permission for the BlockOut II application by Jean-Luc
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.blockout.net/blockout2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

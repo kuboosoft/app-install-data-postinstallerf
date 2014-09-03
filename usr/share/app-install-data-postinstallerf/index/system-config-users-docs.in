@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>system-config-users-docs</b>'
+Comment='<span size="xx-large">Documentation for administering users and groups</span>'
+Comment3='
+This package contains the online documentation for system-config-users which is
+a graphical utility for administrating users and groups.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/system-config-users-docs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

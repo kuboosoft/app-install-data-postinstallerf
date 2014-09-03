@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>koji</b>'
+Comment='<span size="xx-large">Build system tools</span>'
+Comment3='
+Koji is a system for building and tracking RPMS.  The base package
+contains shared libraries and the command-line interface.
+'
+License='LGPLv2 and GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/koji'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

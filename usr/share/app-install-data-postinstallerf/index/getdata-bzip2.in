@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>getdata-bzip2</b>'
+Comment='<span size="xx-large">Enables getdata read ability of bzip2 compressed dirfiles</span>'
+Comment3='
+Enables getdata to read dirfiles that are encoded (compressed) with bzip2.
+Fields must be fully compressed with bzip2, not actively being written to.
+Does not yet allow writing of bzip2 encoded dirfiles.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://getdata.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

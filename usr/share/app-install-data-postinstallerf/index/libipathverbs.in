@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libipathverbs</b>'
+Comment='<span size="xx-large">QLogic InfiniPath HCA Userspace Driver</span>'
+Comment3='
+QLogic hardware driver for use with libibverbs user space verbs access
+library.  This driver supports QLogic InfiniPath based cards.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

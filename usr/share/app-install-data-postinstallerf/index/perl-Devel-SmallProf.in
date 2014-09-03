@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Devel-SmallProf</b>'
+Comment='<span size="xx-large">Per-line Perl profiler</span>'
+Comment3='
+The DevelSmallProf profiler is focused on the time taken for a program
+run on a line-by-line basis. It is intended to be as "small" in terms of
+impact on the speed and memory usage of the profiled program as possible
+and also in terms of being simple to use.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-SmallProf/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

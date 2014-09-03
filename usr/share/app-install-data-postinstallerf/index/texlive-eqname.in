@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-eqname</b>'
+Comment3='
+The \eqname command provides a name tag for the current
+equation, in place of an equation number. The name tag will be
+picked up by a subsequent \label command.
+
+date 2010-12-04 005421 +0100
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

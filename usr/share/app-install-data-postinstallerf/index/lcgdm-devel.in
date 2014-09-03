@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lcgdm-devel</b>'
+Comment='<span size="xx-large">LCG Data Management common development files</span>'
+Comment3='
+This package contains common development libraries and header files
+for LCG Data Management.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://glite.web.cern.ch/glite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

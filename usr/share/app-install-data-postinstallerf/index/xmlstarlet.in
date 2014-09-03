@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>xmlstarlet</b>'
+Comment='<span size="xx-large">Command Line XML Toolkit</span>'
+Comment3='
+XMLStarlet is a set of command line utilities which can be used
+to transform, query, validate, and edit XML documents and files
+using simple set of shell commands in similar way it is done for
+plain text files using UNIX grep, sed, awk, diff, patch, join, etc
+commands.
+'
+License='MIT'
+Screenshot=''
+Url='http://xmlstar.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghostscript-gtk</b>'
+Comment='<span size="xx-large">A GTK-enabled PostScript interpreter and renderer</span>'
+Comment3='
+A GTK-enabled version of Ghostscript, called gsx.
+'
+License='AGPLv3+ and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.ghostscript.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

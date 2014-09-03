@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>perl-Math-ConvexHull</b>'
+Comment='<span size="xx-large">Calculate convex hulls using Grahams scan (n*log(n))</span>'
+Comment3='
+MathConvexHull is a simple module that calculates convex hulls from a set
+of points in 2D space. It is a straightforward implementation of the
+algorithm known as Grahams scan which, with complexity of O(n*log(n)), is
+the fastest known method of finding the convex hull of an arbitrary set of
+points. There are some methods of eliminating points that cannot be part of
+the convex hull. These may or may not be implemented in a future version.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Math-ConvexHull/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

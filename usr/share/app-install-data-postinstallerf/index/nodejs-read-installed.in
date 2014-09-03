@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>nodejs-read-installed</b>'
+Comment='<span size="xx-large">Returns a tree structure of all installed packages in a folder</span>'
+Comment3='
+Reads all the installed packages in a folder, and returns a tree structure with
+all the data.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/isaacs/read-installed'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

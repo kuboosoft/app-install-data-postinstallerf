@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>i2c-tools-python</b>'
+Comment='<span size="xx-large">Python bindings for Linux SMBus access through i2c-dev</span>'
+Comment3='
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.lm-sensors.org/wiki/I2CTools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

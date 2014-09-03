@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ttywatch</b>'
+Comment='<span size="xx-large">Log output of arbitrarily many devices</span>'
+Comment3='
+ttywatch was originally designed to log serial console output from
+lots of Linux machines on a single monitor machine.  It handles
+log rotation correctly and can be configured both in a configuration
+convenience.  It can be set up to allow users to interact via the
+network with any of the ports being logged.  It can also log output
+in arbitrary ways via modules, which can be built with the
+ttywatch-devel package.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.danlj.org/mkj/ttywatch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

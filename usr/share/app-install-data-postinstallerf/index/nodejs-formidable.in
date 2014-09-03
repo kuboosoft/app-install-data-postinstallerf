@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>nodejs-formidable</b>'
+Comment='<span size="xx-large">A Node.js module for parsing form data, especially file uploads</span>'
+Comment3='
+This is a Node.js module for parsing form data, especially file uploads.
+It was developed for Transloadit, a service focused on uploading and encoding
+images and videos.
+
+It offers
+ - Fast (~500mb/sec), non-buffering multipart parser
+ - Automatically writing file uploads to disk
+ - Low memory footprint
+ - Graceful error handling
+ - Very high test coverage
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/felixge/node-formidable'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

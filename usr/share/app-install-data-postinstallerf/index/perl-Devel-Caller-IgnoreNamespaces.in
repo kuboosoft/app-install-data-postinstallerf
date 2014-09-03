@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Devel-Caller-IgnoreNamespaces</b>'
+Comment='<span size="xx-large">Make available a function which can ignore name-spaces that you tell it about</span>'
+Comment3='
+If your module should be ignored by caller(), just like HookLexWrap is
+by its magic caller(), then call this modules register() subroutine
+with its name.
+'
+License='GPLv2 or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-Caller-IgnoreNamespaces/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

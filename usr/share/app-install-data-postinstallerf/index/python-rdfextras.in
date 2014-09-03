@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>python-rdfextras</b>'
+Comment='<span size="xx-large">Python library for working with RDF</span>'
+Comment3='
+RDFExtras is a collection of packages providing extras based on RDFLib.
+The common denominator is "non-core-rdflib".
+
+This project is for collecting several packages with distinct uses, such
+as commandline tools, experimental (or unmaintained) stores and similar.
+It will be close to RDFLib, but the intent is to keep things here a bit
+more loose.
+These packages are thus to be considered unstable in general. Useful,
+sometimes near core, but not currently guaranteed to never be
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/rdfextras/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

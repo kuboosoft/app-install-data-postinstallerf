@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mcollective-client</b>'
+Comment='<span size="xx-large">Client tools for the mcollective application server</span>'
+Comment3='
+Client tools for the mcollective application server
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://docs.puppetlabs.com/mcollective/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcue-devel</b>'
+Comment='<span size="xx-large">Development files</span>'
+Comment3='
+Development files for libcue.
+
+URL          https//libcue.sourceforge.net/
+'
+License='GPLv2 and BSD'
+Screenshot=''
+Url='https://libcue.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

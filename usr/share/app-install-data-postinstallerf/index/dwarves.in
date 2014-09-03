@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>dwarves</b>'
+Comment='<span size="xx-large">Debugging Information Manipulation Tools</span>'
+Comment3='
+dwarves is a set of tools that use the debugging information inserted in
+ELF binaries by compilers such as GCC, used by well known debuggers such as
+GDB, and more recent ones such as systemtap.
+
+Utilities in the dwarves suite include pahole, that can be used to find
+alignment holes in structs and classes in languages such as C, C++, but not
+limited to these.
+It also extracts other information such as CPU cacheline alignment, helping
+pack those structures to achieve more cache hits.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://acmel.wordpress.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

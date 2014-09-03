@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>g-wrap-devel</b>'
+Comment='<span size="xx-large">Include files and libraries needed for g-wrap development</span>'
+Comment3='
+g-wrap-devel contains development libraries and headers for g-wrap.
+
+You can provide access to a given C API by creating a specification
+file describing the interface you want published at the Scheme level.
+g-wrap will handle generating all the lower level library interface
+code so that the C library shows up as a set of Scheme functions.
+You should install g-wrap-devel if you need to compile programs that
+need to use g-wrap C<->Scheme functionality
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.nongnu.org/g-wrap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

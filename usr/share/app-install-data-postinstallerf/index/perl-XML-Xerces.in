@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-XML-Xerces</b>'
+Comment='<span size="xx-large">Perl API to Xerces XML parser</span>'
+Comment3='
+XMLXerces is the Perl API to the Apache projects Xerces XML parser. It is
+implemented using the Xerces C++ API, and it provides access to most of the C++
+API from Perl.
+Because it is based on Xerces-C, XMLXerces provides a validating XML parser
+that makes it easy to give your application the ability to read and write XML
+data. Classes are provided for parsing, generating, manipulating, and
+validating XML documents. XMLXerces is faithful to the XML 1.0 recommendation
+and associated standards (DOM levels 1, 2, and 3, SAX 1 and 2, Namespaces, and
+W3C XML Schema). The parser provides high performance, modularity, and
+scalability, and provides full support for Unicode.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://xerces.apache.org/xerces-p/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

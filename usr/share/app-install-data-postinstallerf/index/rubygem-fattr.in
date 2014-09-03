@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-fattr</b>'
+Comment='<span size="xx-large">Fatter attribute for Ruby</span>'
+Comment3='
+The fattr gem is a Fatter attribute for Ruby
+'
+License='BSD or Ruby'
+Screenshot=''
+Url='http://rubyforge.org/projects/codeforpeople/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

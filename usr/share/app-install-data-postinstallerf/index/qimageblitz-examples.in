@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qimageblitz-examples</b>'
+Comment='<span size="xx-large">Example programs for qimageblitz</span>'
+Comment3='
+This package contains the blitztest example program for qimageblitz.
+'
+License='BSD and ImageMagick'
+Screenshot=''
+Url='http://qimageblitz.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

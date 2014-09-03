@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-Class-Container</b>'
+Comment='<span size="xx-large">Class::Container Perl module</span>'
+Comment3='
+This class facilitates building frameworks of several classes that
+inter-operate. It was first designed and built for "HTMLMason", in
+which the Compiler, Lexer, Interpreter, Resolver, Component, Buffer, and
+several other objects must create each other transparently, passing the
+appropriate parameters to the right class, possibly substituting other
+subclasses for any of these objects.
+
+The main features of "ClassContainer" are
+*   Explicit declaration of containment relationships (aggregation,
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Class-Container/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

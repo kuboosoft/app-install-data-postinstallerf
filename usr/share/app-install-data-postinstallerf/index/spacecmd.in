@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>spacecmd</b>'
+Comment='<span size="xx-large">Command-line interface to Spacewalk and Satellite servers</span>'
+Comment3='
+spacecmd is a command-line interface to Spacewalk and Satellite servers
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/spacewalk/wiki/spacecmd'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

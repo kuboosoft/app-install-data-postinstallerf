@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>docbook-style-xsl</b>'
+Comment='<span size="xx-large">Norman Walshs XSL stylesheets for DocBook XML</span>'
+Comment3='
+These XSL stylesheets allow you to transform any DocBook XML document to
+other formats, such as HTML, FO, and XHMTL.  They are highly customizable.
+'
+License='DMIT'
+Screenshot=''
+Url='http://docbook.sourceforge.net/projects/xsl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

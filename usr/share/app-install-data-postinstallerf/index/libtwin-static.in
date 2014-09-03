@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libtwin-static</b>'
+Comment='<span size="xx-large">Static build files for libtwin</span>'
+Comment3='
+The libtwin-static package contains static libraries from libtwin.
+
+URL          http//ozlabs.org/~jk/projects/petitboot/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://ozlabs.org/~jk/projects/petitboot/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

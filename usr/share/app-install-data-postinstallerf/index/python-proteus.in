@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-proteus</b>'
+Comment='<span size="xx-large">Library to access Trytons internal objects</span>'
+Comment3='
+A client library to access Trytons internal objects like Models and Wizards.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.tryton.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

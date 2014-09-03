@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>mksh</b>'
+Comment='<span size="xx-large">MirBSD enhanced version of the Korn Shell</span>'
+Comment3='
+mksh is the MirBSD enhanced version of the Public Domain Korn shell (pdksh),
+a bourne-compatible shell which is largely similar to the original AT&T Korn
+shell. It includes bug fixes and feature improvements in order to produce a
+modern, robust shell good for interactive and especially script use, being a
+bourne shell replacement, pdksh successor and an alternative to the C shell.
+'
+License='MirOS and ISC and BSD'
+Screenshot=''
+Url='https://www.mirbsd.org/mksh.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

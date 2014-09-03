@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-fontawesome</b>'
+Comment='<span size="xx-large">Font containing web-related icons</span>'
+Comment3='
+The package offers access to the large number of web-related
+icons provided by the included font. The package requires the
+package, fontspec, running under XeTeX or LuaTeX.
+
+date 2013-06-12 154949 +0200
+'
+License='Freely redistributable without restriction'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

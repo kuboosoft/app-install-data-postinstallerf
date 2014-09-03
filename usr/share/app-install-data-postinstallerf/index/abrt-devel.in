@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>abrt-devel</b>'
+Comment='<span size="xx-large">Development libraries for abrt</span>'
+Comment3='
+Development libraries and headers for abrt.
+
+URL          https//fedorahosted.org/abrt/
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/abrt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

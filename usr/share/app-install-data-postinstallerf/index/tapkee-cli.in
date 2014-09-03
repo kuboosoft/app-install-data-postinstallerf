@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>tapkee-cli</b>'
+Comment='<span size="xx-large">CLI-tool for efficient dimension reduction</span>'
+Comment3='
+Tapkee is a cli-tool for efficient dimension reduction and provides
+implementations of the following dimension reduction methods
+
+  * Locally Linear Embedding and Kernel Locally Linear Embedding
+    (LLE/KLLE)
+  * Neighborhood Preserving Embedding (NPE)
+  * Local Tangent Space Alignment (LTSA)
+  * Linear Local Tangent Space Alignment (LLTSA)
+  * Hessian Locally Linear Embedding (HLLE)
+  * Laplacian eigenmaps
+'
+License='BSD and BSD with advertising and LGPLv3+ and MIT'
+Screenshot=''
+Url='http://tapkee.lisitsyn.me/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

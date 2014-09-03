@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>perl-MouseX-SimpleConfig</b>'
+Comment='<span size="xx-large">A Mouse role for setting attributes from a simple configfile</span>'
+Comment3='
+This role loads simple configfiles to set object attributes. It is based on the
+abstract role MouseXConfigFromFile, and uses ConfigAny to load your
+configfile. ConfigAny will in turn support any of a variety of different
+config formats, detected by the file extension. See ConfigAny for more
+details about supported formats.
+
+Like all MouseXConfigFromFile-derived configfile loaders, this module is
+automatically supported by the MouseXGetopt role as well, which allows
+specifying -configfile on the commandline.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MouseX-SimpleConfig/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>root-minuit2</b>'
+Comment='<span size="xx-large">Minuit version 2 library for ROOT</span>'
+Comment3='
+This package contains the MINUIT version 2 library for ROOT. This
+provides an fitting algorithm for ROOT.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>soci</b>'
+Comment='<span size="xx-large">The database access library for C++ programmers</span>'
+Comment3='
+soci is a C++ database access library that provides the
+illusion of embedding SQL in regular C++ code, staying entirely within
+the C++ standard.
+
+'
+License='Boost'
+Screenshot=''
+Url='http://soci.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>Frodo-gui</b>'
+Comment='<span size="xx-large">Preferences editor for Frodo</span>'
+Comment3='
+An enhanced Tcl/Tk preferences GUI for Frodo written by Gerard Decatrel
+'
+License='Distributable'
+Screenshot=''
+Url='http://frodo.cebix.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

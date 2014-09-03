@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ghc-crypto-api</b>'
+Comment='<span size="xx-large">A generic interface for cryptographic operations</span>'
+Comment3='
+A generic interface for cryptographic operations (hashes, ciphers, randomness).
+Maintainers of hash and cipher implementations are encouraged to add instances
+for the classes defined in Crypto.Classes.  Crypto users are similarly
+encouraged to use the interfaces defined in the Classes module.
+Any concepts or functions of general use to more than one cryptographic
+algorithm (eg padding) is within the scope of this package.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/crypto-api'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

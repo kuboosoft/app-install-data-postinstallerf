@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Business-Hours</b>'
+Comment='<span size="xx-large">Calculate business hours in a time period</span>'
+Comment3='
+A simple tool for calculating business hours in a time period. Over time,
+additional functionality will be added to make it easy to calculate the
+number of business hours between arbitrary dates.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Business-Hours/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

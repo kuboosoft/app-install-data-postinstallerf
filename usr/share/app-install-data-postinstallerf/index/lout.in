@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>lout</b>'
+Comment='<span size="xx-large">A document formatting system</span>'
+Comment3='
+Lout is a document formatting system designed and implemented by Jeffrey
+Kingston at the Basser Department of Computer Science, University of
+Sydney, Australia. The system reads a high-level description of a document
+similar in style to LaTeX and produces a PostScript file which can be
+printed on most laser printers and graphic display devices. Plain text
+output is also available, PDF output is limited but working (e.g. no
+graphics). Lout is inherently multilingual. Adding new languages is easy.
+'
+License='GPLv2+'
+Screenshot=''
+Url='ftp://ftp.cs.usyd.edu.au/jeff/lout/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

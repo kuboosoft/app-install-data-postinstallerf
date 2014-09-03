@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-PyGithub</b>'
+Comment='<span size="xx-large">Python library to work with the Github API</span>'
+Comment3='
+A Python library implementing the full Github API v3.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://vincent-jacques.net/PyGithub'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

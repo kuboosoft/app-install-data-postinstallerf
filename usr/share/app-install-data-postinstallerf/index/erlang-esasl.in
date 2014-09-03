@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-esasl</b>'
+Comment='<span size="xx-large">Simple Authentication and Security Layer (SASL) support for Erlang</span>'
+Comment3='
+Simple Authentication and Security Layer (SASL) support for Erlang.
+'
+License='BSD and LGPLv2+'
+Screenshot=''
+Url='http://wiki.github.com/mikma/esasl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

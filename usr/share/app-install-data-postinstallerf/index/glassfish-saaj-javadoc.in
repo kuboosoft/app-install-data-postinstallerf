@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-saaj-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for glassfish-saaj</span>'
+Comment3='
+This package contains the API documentation for glassfish-saaj.
+'
+License='CDDL and GPLv2 with exceptions'
+Screenshot=''
+Url='http://java.net/projects/saaj'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pgadmin3</b>'
+Comment='<span size="xx-large">Graphical client for PostgreSQL</span>'
+Comment3='
+pgAdmin III is a powerful administration and development
+platform for the PostgreSQL database, free for any use.
+It is designed to answer the needs of all users,
+from writing simple SQL queries to developing complex
+databases. The graphical interface supports all PostgreSQL
+features and makes administration easy.
+
+pgAdmin III is designed to answer the needs of all users,
+from writing simple SQL queries to developing complex databases.
+The graphical interface supports all PostgreSQL features and
+'
+License='PostgreSQL'
+Screenshot=''
+Url='http://www.pgadmin.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

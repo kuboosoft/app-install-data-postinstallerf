@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Verilog-Perl</b>'
+Comment='<span size="xx-large">Verilog parsing routines</span>'
+Comment3='
+This package provides functions to support writing utilities
+that use the Verilog language.
+'
+License='LGPLv3 or Artistic 2.0'
+Screenshot=''
+Url='http://www.veripool.org/wiki/verilog-perl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

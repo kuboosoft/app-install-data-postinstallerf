@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>klt</b>'
+Comment='<span size="xx-large">An implementation of the Kanade-Lucas-Tomasi feature tracker</span>'
+Comment3='
+
+KLT is an implementation, in the C programming language, of a
+feature tracker for the computer vision community.  The source
+code is in the public domain, available for both commercial and
+non-commercial use.
+The tracker is based on the early work of Lucas and Kanade,
+was developed fully by Tomasi and Kanade, and was explained clearly
+in the paper by Shi and Tomasi. Later, Tomasi proposed a slight
+modification which makes the computation symmetric with respect
+'
+License='Public Domain'
+Screenshot=''
+Url='http://www.ces.clemson.edu/~stb/klt/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

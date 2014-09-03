@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>wine-wow</b>'
+Comment='<span size="xx-large">Files for wine wow separation</span>'
+Comment3='
+Files for wine wow separation
+
+URL          http//www.winehq.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.winehq.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

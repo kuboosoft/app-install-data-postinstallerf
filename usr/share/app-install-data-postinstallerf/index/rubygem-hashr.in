@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-hashr</b>'
+Comment='<span size="xx-large">Simple Hash extension to make working with nested hashes</span>'
+Comment3='
+Simple Hash extension to make working with nested hashes (e.g. for
+configuration) easier and less error-prone.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/svenfuchs/hashr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

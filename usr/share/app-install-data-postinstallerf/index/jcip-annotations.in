@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>jcip-annotations</b>'
+Comment='<span size="xx-large">Java annotations for multithreaded software</span>'
+Comment3='
+This package provides class, field, and method level annotations for
+describing thread-safety policies.  These annotations are relatively
+unintrusive and are beneficial to both users and maintainers.  Users can see
+immediately whether a class is thread-safe, and maintainers can see
+immediately whether thread-safety guarantees must be preserved.  Annotations
+are also useful to a third constituency tools.  Static code-analysis tools
+may be able to verify that the code complies with the contract indicated by
+the annotation, such as verifying that a class annotated with @Immutable
+actually is immutable.
+'
+License='CC-BY'
+Screenshot=''
+Url='http://www.jcip.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

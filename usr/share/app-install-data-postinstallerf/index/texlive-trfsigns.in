@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-trfsigns</b>'
+Comment='<span size="xx-large">Typeset transform signs</span>'
+Comment3='
+A package for typesetting various transformation signs for
+Laplace transforms, Fourier transforms and others.
+
+date 2006-12-05 004724 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

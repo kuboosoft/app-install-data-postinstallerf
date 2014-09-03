@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-symfony-browserkit</b>'
+Comment='<span size="xx-large">Symfony BrowserKit Component</span>'
+Comment3='
+BrowserKit simulates the behavior of a web browser.
+
+The component only provide an abstract client and does not provide any
+"default" backend for the HTTP layer.
+'
+License='MIT'
+Screenshot=''
+Url='http://symfony.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

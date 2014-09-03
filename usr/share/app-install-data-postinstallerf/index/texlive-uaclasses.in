@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-uaclasses</b>'
+Comment='<span size="xx-large">University of Arizona thesis and dissertation format</span>'
+Comment3='
+This package provides a LaTeX2e document class named ua-
+thesis for typesetting theses and dissertations in the
+official format required by the University of Arizona.
+Moreover, there is a fully compatible alternative document
+class my-thesis for private nice copies of the
+dissertation, and the respective title pages are available as
+separate packages to work with any document class.
+
+date 2009-01-05 224604 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

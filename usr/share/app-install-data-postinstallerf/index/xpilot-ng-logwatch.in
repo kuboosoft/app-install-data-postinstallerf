@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xpilot-ng-logwatch</b>'
+Comment='<span size="xx-large">logwatch scripts for the xpilot game server</span>'
+Comment3='
+logwatch scripts for the Xpilot game server
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://xpilot.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

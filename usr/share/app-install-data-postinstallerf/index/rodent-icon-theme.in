@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rodent-icon-theme</b>'
+Comment='<span size="xx-large">SVG scalable icon theme by Rodent</span>'
+Comment3='
+Rodent-icon-theme (was xfce4-icon-theme) is a free-desktop
+compatible svg (scalable) icon theme which can work with
+most mayor Linux desktop environments.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/xffm/files/rodent-icon-theme/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

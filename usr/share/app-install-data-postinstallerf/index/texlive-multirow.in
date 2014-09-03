@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-multirow</b>'
+Comment='<span size="xx-large">Create tabular cells spanning multiple rows</span>'
+Comment3='
+The package has a lot of flexibility, including an option for
+specifying an entry at the "natural" width of its text. The
+package is distributed with the bigdelim and bigstrut packages,
+which can be used to advantage with \multirow cells.
+
+date 2010-02-27 220817 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

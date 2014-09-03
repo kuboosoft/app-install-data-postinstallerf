@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pyqtrailer</b>'
+Comment='<span size="xx-large">PyQt4 application to download trailers from apple.com</span>'
+Comment3='
+This application is able to download trailers from apple.com/trailers
+to your computer.
+
+It shows descriptions, posters, and other movie information.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://github.com/sochotnicky/pyqtrailer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

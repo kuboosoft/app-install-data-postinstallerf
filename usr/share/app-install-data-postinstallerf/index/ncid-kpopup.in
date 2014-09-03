@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ncid-kpopup</b>'
+Comment='<span size="xx-large">NCID kpopup module displays caller ID info in a KDE window</span>'
+Comment3='
+The NCID kpopup module displays caller ID information in a KDE popup window
+and optionally speaks the number via voice synthesis.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ncid.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

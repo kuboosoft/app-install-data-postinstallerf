@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>openlmi-providers</b>'
+Comment='<span size="xx-large">Set of basic CIM providers</span>'
+Comment3='
+openlmi-providers is set of (usually) small CMPI providers (agents) for basic
+monitoring and management of host system using Common Information
+Model (CIM).
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/openlmi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

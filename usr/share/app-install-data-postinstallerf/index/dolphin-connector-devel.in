@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dolphin-connector-devel</b>'
+Comment='<span size="xx-large">Development files for Dolphin Connector</span>'
+Comment3='
+Dolphin Connector development package.
+
+URL          https//github.com/poetinha/dolphin-connector
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/poetinha/dolphin-connector'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

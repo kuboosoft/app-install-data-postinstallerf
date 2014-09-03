@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>faad2-libs</b>'
+Comment='<span size="xx-large">Shared libraries of the FAAD 2 AAC decoder</span>'
+Comment3='
+FAAD 2 is a LC, MAIN and LTP profile, MPEG2 and MPEG-4 AAC decoder, completely
+written from scratch.
+
+This package contains libfaad.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.audiocoding.com/faad2.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

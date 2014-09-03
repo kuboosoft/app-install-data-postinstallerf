@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cdk-devel</b>'
+Comment='<span size="xx-large">Development files for cdk</span>'
+Comment3='
+This package contains libraries and header files for
+developing applications that use cdk.
+
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://invisible-island.net/cdk/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

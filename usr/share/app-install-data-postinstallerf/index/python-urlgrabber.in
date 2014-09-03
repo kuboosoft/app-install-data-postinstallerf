@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-urlgrabber</b>'
+Comment='<span size="xx-large">A high-level cross-protocol url-grabber</span>'
+Comment3='
+A high-level cross-protocol url-grabber for python supporting HTTP, FTP
+and file locations.  Features include keepalive, byte ranges, throttling,
+authentication, proxies and more.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://urlgrabber.baseurl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>Maelstrom</b>'
+Comment='<span size="xx-large">A space combat game</span>'
+Comment3='
+Maelstrom is a space combat game, originally ported from the Macintosh
+platform. Brave pilots get to dodge asteroids and fight off other ships
+at the same time.
+'
+License='GPLv2+ and CC-BY'
+Screenshot=''
+Url='http://www.devolution.com/~slouken/Maelstrom/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

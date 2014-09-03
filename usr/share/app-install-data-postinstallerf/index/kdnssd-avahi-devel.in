@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdnssd-avahi-devel</b>'
+Comment='<span size="xx-large">Development files for kdnssd-avahi</span>'
+Comment3='
+Development files for kdnssd-avahi
+
+URL          http//helios.et.put.poznan.pl/~jstachow/pub/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://helios.et.put.poznan.pl/~jstachow/pub/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

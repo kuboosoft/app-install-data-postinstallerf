@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>geos-php</b>'
+Comment='<span size="xx-large">PHP modules for GEOS</span>'
+Comment3='
+PHP module to build applications using GEOS and PHP
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://trac.osgeo.org/geos/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

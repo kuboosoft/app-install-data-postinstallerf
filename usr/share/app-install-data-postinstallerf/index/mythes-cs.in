@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mythes-cs</b>'
+Comment='<span size="xx-large">Czech thesaurus</span>'
+Comment3='
+Czech thesaurus.
+'
+License='MIT'
+Screenshot=''
+Url='http://wiki.services.openoffice.org/wiki/Dictionaries'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

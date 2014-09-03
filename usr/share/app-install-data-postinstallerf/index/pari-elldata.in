@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pari-elldata</b>'
+Comment='<span size="xx-large">PARI/GP Computer Algebra System elliptic curves</span>'
+Comment3='
+This package contains the optional PARI package elldata, which provides the
+Elliptic Curve Database of J. E. Cremona Elliptic, which can be queried by
+ellsearch and ellidentify.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pari.math.u-bordeaux.fr/packages.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

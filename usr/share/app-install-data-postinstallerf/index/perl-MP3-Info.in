@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-MP3-Info</b>'
+Comment='<span size="xx-large">Manipulate / fetch info from MP3 audio files</span>'
+Comment3='
+This module is used for getting info out of and into MP3 files.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MP3-Info'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

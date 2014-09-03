@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-keyczar</b>'
+Comment='<span size="xx-large">Toolkit for safe and simple cryptography</span>'
+Comment3='
+Keyczar is an open source cryptographic toolkit designed to make it easier and
+safer for developers to use cryptography in their applications. Keyczar
+supports authentication and encryption with both symmetric and asymmetric keys.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.keyczar.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

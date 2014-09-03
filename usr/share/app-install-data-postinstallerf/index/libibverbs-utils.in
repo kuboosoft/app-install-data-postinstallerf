@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libibverbs-utils</b>'
+Comment='<span size="xx-large">Examples for the libibverbs library</span>'
+Comment3='
+Useful libibverbs1 example programs such as ibv_devinfo, which
+displays information about RDMA devices.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

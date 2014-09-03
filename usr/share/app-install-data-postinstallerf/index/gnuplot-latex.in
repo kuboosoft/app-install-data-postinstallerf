@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnuplot-latex</b>'
+Comment='<span size="xx-large">Configuration for LaTeX typesetting using gnuplot</span>'
+Comment3='
+The gnuplot-latex package contains LaTeX configuration file related to gnuplot
+plotting tool.
+'
+License='gnuplot and MIT'
+Screenshot=''
+Url='http://www.gnuplot.info/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

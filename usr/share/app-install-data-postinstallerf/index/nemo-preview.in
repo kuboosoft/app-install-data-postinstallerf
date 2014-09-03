@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nemo-preview</b>'
+Comment='<span size="xx-large">A quick previewer for Nemo</span>'
+Comment3='
+Nemo Preview is a GtkClutter and Javascript-based quick previewer
+for Nemo.
+It is capable of previewing documents, PDFs, sound and video files,
+some text files, and possibly others in the future.
+
+To activate the preview, left-click the file and hit space.
+The preview can be closed by hitting space again, or escape.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://cinnamon.linuxmint.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

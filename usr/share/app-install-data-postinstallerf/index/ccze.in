@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ccze</b>'
+Comment='<span size="xx-large">A robust log colorizer</span>'
+Comment3='
+CCZE is a roboust and modular log colorizer, with plugins for apm,
+exim, fetchmail, httpd, postfix, procmail, squid, syslog, ulogd,
+vsftpd, xferlog and more.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bonehunter.rulez.org/CCZE.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

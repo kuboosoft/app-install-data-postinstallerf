@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>debconf-kde</b>'
+Comment='<span size="xx-large">KDE frontend for debconf</span>'
+Comment3='
+This package contains the KDE frontend for debconf.
+'
+License='BSD'
+Screenshot=''
+Url='http://packages.debian.org/sid/debconf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ArpON</b>'
+Comment='<span size="xx-large">ARP handler inspection</span>'
+Comment3='
+ArpON is a portable handler daemon
+It has a lot of features and it makes ARP a bit safer.
+It uses static ARP inspection and dynamic ARP inspection
+as two kinds of anti ARP poisoning techniques.
+'
+License='BSD'
+Screenshot=''
+Url='http://arpon.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

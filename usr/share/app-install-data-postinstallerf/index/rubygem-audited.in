@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-audited</b>'
+Comment='<span size="xx-large">Log all changes to your models</span>'
+Comment3='
+Log all changes to your models
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/collectiveidea/audited'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

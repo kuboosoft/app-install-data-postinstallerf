@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>collectd-memcachec</b>'
+Comment='<span size="xx-large">Memcachec plugin for collectd</span>'
+Comment3='
+This plugin connects to a memcached server, queries one or more
+given pages and parses the returned data according to user specification.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

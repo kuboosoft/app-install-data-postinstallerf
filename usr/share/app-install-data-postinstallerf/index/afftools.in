@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>afftools</b>'
+Comment='<span size="xx-large">Utilities for afflib</span>'
+Comment3='
+The afflib-utils package contains utilities for using afflib.
+'
+License='BSD with advertising'
+Screenshot=''
+Url='http://www.afflib.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

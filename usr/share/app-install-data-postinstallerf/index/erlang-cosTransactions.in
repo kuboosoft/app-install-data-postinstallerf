@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-cosTransactions</b>'
+Comment='<span size="xx-large">Orber OMG Transaction Service</span>'
+Comment3='
+Orber OMG Transaction Service.
+'
+License='ERPL'
+Screenshot=''
+Url='http://www.erlang.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

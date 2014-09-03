@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apcupsd-cgi</b>'
+Comment='<span size="xx-large">Web interface for apcupsd</span>'
+Comment3='
+A CGI interface to the APC UPS monitoring daemon.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.apcupsd.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

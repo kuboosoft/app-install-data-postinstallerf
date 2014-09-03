@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>which</b>'
+Comment='<span size="xx-large">Displays where a particular program in your path is located</span>'
+Comment3='
+The which command shows the full pathname of a specified program, if
+the specified program is in your PATH.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://www.xs4all.nl/~carlo17/which/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

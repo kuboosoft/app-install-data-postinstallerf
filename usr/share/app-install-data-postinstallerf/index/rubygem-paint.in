@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>rubygem-paint</b>'
+Comment='<span size="xx-large">Terminal painter</span>'
+Comment3='
+Paint manages terminal colors and effects for you. It combines the strengths
+of term-ansicolor, rainbow and other similar projects into a simple to use,
+however still flexible terminal colorization gem with no core extensions by
+default.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/janlelis/paint'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

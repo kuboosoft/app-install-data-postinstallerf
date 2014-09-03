@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>glassfish-policy-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for glassfish-policy</span>'
+Comment3='
+This package contains javadoc for glassfish-policy.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://policy.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

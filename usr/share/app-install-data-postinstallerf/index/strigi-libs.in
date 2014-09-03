@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>strigi-libs</b>'
+Comment='<span size="xx-large">Strigi libraries</span>'
+Comment3='
+Strigi search engine libraries
+
+URL          http//www.vandenoever.info/software/strigi/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.vandenoever.info/software/strigi/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>monotone-server</b>'
+Comment='<span size="xx-large">Standalone server setup for monotone</span>'
+Comment3='
+This package provides an easy-to-use standalone server setup for monotone.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://monotone.ca/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

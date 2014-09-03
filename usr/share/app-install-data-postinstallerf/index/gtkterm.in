@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gtkterm</b>'
+Comment='<span size="xx-large">Serial port terminal</span>'
+Comment3='
+Simple GUI terminal used to communicate with the serial port.
+Similar to minicom or hyperterminal.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/gtkterm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

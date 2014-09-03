@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>jaxodraw-latex</b>'
+Comment='<span size="xx-large">LaTeX style file axodraw4j.sty for documents generated with jaxodraw</span>'
+Comment3='
+This package contains the LaTeX style file that is needed for EPS export
+functionality in jaxodraw.
+
+You need this if you want the export to EPS function to work or if you want to
+compile LaTeX files generated with jaxodraw.
+'
+License='LPPL'
+Screenshot=''
+Url='http://jaxodraw.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lua-alt-getopt</b>'
+Comment='<span size="xx-large">Argument processing module for Lua</span>'
+Comment3='
+alt-getopt is a module for Lua programming language for processing
+applications arguments the same way BSD/GNU getopt_long(3) functions
+do. The main goal is compatibility with SUS "Utility Syntax
+Guidelines" guidelines 3-13.
+'
+License='MIT'
+Screenshot=''
+Url='http://sourceforge.net/projects/lua-alt-getopt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

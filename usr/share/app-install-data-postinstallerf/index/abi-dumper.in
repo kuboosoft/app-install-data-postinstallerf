@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>abi-dumper</b>'
+Comment='<span size="xx-large">Tool to dump ABI of an ELF object containing DWARF debug info</span>'
+Comment3='
+A tool to dump ABI of an ELF object containing DWARF debug info.
+
+The tool is intended to be used with ABI Compliance Checker tool for tracking
+ABI changes of a C/C++ library or kernel module.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://github.com/lvc/abi-dumper/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

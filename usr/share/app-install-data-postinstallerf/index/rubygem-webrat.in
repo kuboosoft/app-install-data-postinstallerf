@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rubygem-webrat</b>'
+Comment='<span size="xx-large">Ruby Acceptance Testing for Web applications</span>'
+Comment3='
+Webrat lets you quickly write expressive and robust acceptance tests
+for a Ruby web application. It supports simulating a browser inside
+a Ruby process to avoid the performance hit and browser dependency of
+Selenium or Watir, but the same API can also be used to drive real
+Selenium tests when necessary (eg. for testing AJAX interactions).
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/brynary/webrat'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-cancel</b>'
+Comment='<span size="xx-large">Place lines through maths formulae</span>'
+Comment3='
+A package to draw diagonal lines ("cancelling" a term) and
+arrows with limits (cancelling a term "to a value") through
+parts of maths formulae.
+
+date 2010-02-23 161611 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

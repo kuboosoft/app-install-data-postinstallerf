@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xcalc</b>'
+Comment='<span size="xx-large">Scientific Calculator X11 Client</span>'
+Comment3='
+xcalc is a scientific calculator X11 client.
+'
+License='MIT'
+Screenshot=''
+Url='http://xorg.freedesktop.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

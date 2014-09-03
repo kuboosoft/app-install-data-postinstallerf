@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>masscan</b>'
+Comment='<span size="xx-large">This is the fastest Internet port scanner</span>'
+Comment3='
+It is a faster port scan that produces results similar to nmap,
+the most famous port scanner. Internally, it operates more like
+scanrand, unicornscan, and ZMap, using asynchronous transmission.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/robertdavidgraham/masscan'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

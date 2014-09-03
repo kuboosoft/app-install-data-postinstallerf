@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>RdRand-devel</b>'
+Comment='<span size="xx-large">Development files for the RdRand</span>'
+Comment3='
+Headers and shared object symbolic links for the RdRand.
+
+URL          http//github.com/BroukPytlik/RdRand
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://github.com/BroukPytlik/RdRand'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

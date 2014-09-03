@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-humanize</b>'
+Comment='<span size="xx-large">Turns dates in to human readable format, e.g 3 minutes ago</span>'
+Comment3='
+This modest package contains various common humanization utilities, like turning
+a number into a fuzzy human readable duration (3 minutes ago) or into a human
+readable size or throughput.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/jmoiron/humanize'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

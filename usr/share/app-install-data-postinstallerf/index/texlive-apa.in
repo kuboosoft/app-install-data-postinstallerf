@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-apa</b>'
+Comment='<span size="xx-large">American Psychological Association format</span>'
+Comment3='
+A LaTeX class to format text according to the American
+Psychological Association Publication Manual (5th ed.)
+specifications for manuscripts or to the APA journal look found
+in journals like the Journal of Experimental Psychology etc. In
+addition, it provides regular LaTeX-like output with a few
+enhancements and APA-motivated changes.
+
+date 2008-12-23 162348 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

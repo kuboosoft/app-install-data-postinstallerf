@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-wtp-webservices</b>'
+Comment='<span size="xx-large">Tools for developing and interacting with Java Web services</span>'
+Comment3='
+The JST Web services component contains tools for developing and interacting
+with Java Web services.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/webtools/ws/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

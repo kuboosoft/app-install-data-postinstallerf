@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-cloudfiles</b>'
+Comment='<span size="xx-large">PHP API for the Cloud Files storage system</span>'
+Comment3='
+PHP bindings for the Rackspace Cloud Files RESTful API. Features
+
+  * Enable your application to upload files programmatically
+  * Enable Cloud Files CDN integration on any container for public distribution
+  * Create Containers programmatically
+  * Retrieve lists of containers and files
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rackspace/php-cloudfiles'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

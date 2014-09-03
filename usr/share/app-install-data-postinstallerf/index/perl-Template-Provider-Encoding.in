@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Template-Provider-Encoding</b>'
+Comment='<span size="xx-large">Explicitly declare encodings of your templates</span>'
+Comment3='
+TemplateProviderEncoding is a Template Provider subclass to decode
+template using its declaration. You have to declare encoding of the
+template in the 1st line of the template using the (fake) encoding TT
+plugin; otherwise the template is handled as utf-8.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Template-Provider-Encoding/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

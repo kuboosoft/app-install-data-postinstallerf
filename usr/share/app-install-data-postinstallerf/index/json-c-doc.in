@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>json-c-doc</b>'
+Comment='<span size="xx-large">Reference manual for json-c</span>'
+Comment3='
+This package contains the reference manual for json-c.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/json-c/json-c/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

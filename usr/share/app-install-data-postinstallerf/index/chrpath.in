@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>chrpath</b>'
+Comment='<span size="xx-large">Modify rpath of compiled programs</span>'
+Comment3='
+chrpath allows you to modify the dynamic library load path (rpath) of
+compiled programs.  Currently, only removing and modifying the rpath
+is supported.
+'
+License='GPL+'
+Screenshot=''
+Url='ftp://ftp.hungry.com/pub/hungry/chrpath/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

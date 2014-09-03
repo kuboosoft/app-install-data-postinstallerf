@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Test-Harness-Straps</b>'
+Comment='<span size="xx-large">Detailed analysis of test results</span>'
+Comment3='
+TestHarness is limited to printing out its results. This makes analysis
+of the test results difficult for anything but a human. To make it easier
+for programs to work with test results, we provide TestHarnessStraps.
+Instead of printing the results, straps provide them as raw data. You can
+also configure how the tests are to be run.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Test-Harness-Straps/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-pear-Mail</b>'
+Comment='<span size="xx-large">Class that provides multiple interfaces for sending emails</span>'
+Comment3='
+PEARs Mail package defines an interface for implementing mailers under the
+PEAR hierarchy.  It also provides supporting functions useful to multiple
+mailer backends.  Currently supported backends include PHPs native
+mail() function, sendmail, and SMTP.  This package also provides a RFC822
+email address list validation utility class.
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.php.net/package/Mail'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

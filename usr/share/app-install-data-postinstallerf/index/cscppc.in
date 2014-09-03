@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>cscppc</b>'
+Comment='<span size="xx-large">A compiler wrapper that runs cppcheck in background</span>'
+Comment3='
+This package contains the cscppc compiler wrapper that runs cppcheck in
+background fully transparently.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://git.fedorahosted.org/cgit/cscppc.git'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-bzip2-static</b>'
+Comment='<span size="xx-large">Static library for mingw64-bzip2 development</span>'
+Comment3='
+Static library for mingw64-bzip2 development.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.bzip.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-log4erl</b>'
+Comment='<span size="xx-large">A logger for erlang in the spirit of Log4J</span>'
+Comment3='
+A logger for erlang in the spirit of Log4J.
+'
+License='MPLv1.1 or BSD and ERPL'
+Screenshot=''
+Url='http://code.google.com/p/log4erl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

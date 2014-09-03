@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pymol-wxpython</b>'
+Comment='<span size="xx-large">wxpython interface for PyMOL</span>'
+Comment3='
+
+the pymol-wxpython includes the pmg_wx module for developers to access
+pymol via wxpython widgets.
+'
+License='MIT and BSD and ZPLv2.0 and Bitstream Vera and OFL'
+Screenshot=''
+Url='http://www.pymol.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

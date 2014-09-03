@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>muffin-devel</b>'
+Comment='<span size="xx-large">Development package for muffin</span>'
+Comment3='
+Header files and libraries for developing Muffin plugins. Also includes
+utilities for testing Metacity/Muffin themes.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://github.com/linuxmint/muffin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

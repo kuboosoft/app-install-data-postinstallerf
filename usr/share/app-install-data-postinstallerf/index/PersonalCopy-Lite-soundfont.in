@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>PersonalCopy-Lite-soundfont</b>'
+Comment='<span size="xx-large">Lite version of the PersonalCopy General Midi soundfont</span>'
+Comment3='
+Lite (smaller) version of the PersonalCopy General Midi soundfont in soundfont
+2.0 (.sf2) format.
+'
+License='Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.personalcopy.com/sfarkfonts1.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

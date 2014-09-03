@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>re2-devel</b>'
+Comment='<span size="xx-large">C++ header files and library symbolic links for re2</span>'
+Comment3='
+This package contains the C++ header files and symbolic links to the shared
+libraries for re2. If you would like to develop programs using re2,
+you will need to install re2-devel.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/re2/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

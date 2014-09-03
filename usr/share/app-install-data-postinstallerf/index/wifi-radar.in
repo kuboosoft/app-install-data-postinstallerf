@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>wifi-radar</b>'
+Comment='<span size="xx-large">A utility for managing WiFi profiles</span>'
+Comment3='
+WiFi Radar is a straightforward utility, which scans for available wireless
+networks, and manages their associated profiles.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://wifi-radar.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

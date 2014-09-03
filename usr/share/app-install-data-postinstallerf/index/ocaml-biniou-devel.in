@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-biniou-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-biniou</span>'
+Comment3='
+The ocaml-biniou-devel package contains libraries and signature files for
+developing applications that use ocaml-biniou.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://mjambon.com/biniou.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

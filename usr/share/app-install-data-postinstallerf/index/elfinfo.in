@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>elfinfo</b>'
+Comment='<span size="xx-large">ELF file parser a subset of eu-readelf</span>'
+Comment3='
+This Tool is essentially a subset of eu-readelf functionality.
+This package can work without libelf.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://code.google.com/p/elfinfo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

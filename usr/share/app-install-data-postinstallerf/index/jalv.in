@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>jalv</b>'
+Comment='<span size="xx-large">An LV2 Resource Description Framework Library</span>'
+Summary      An LV2 Resource Description Framework Library
+Source       jalv-1.4.4-1.fc20.src.rpm
+Comment3='
+jalv is a simple but fully featured LV2 host for Jack. It runs LV2 plugins
+and exposes their ports as Jack ports, essentially making any LV2 plugin
+function as a Jack application.
+'
+License='MIT'
+Screenshot=''
+Url='http://drobilla.net/software/jalv/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python3-websocket-client</b>'
+Comment='<span size="xx-large">WebSocket client for python</span>'
+Comment3='
+python-websocket-client module is WebSocket client for python. This
+provides the low level APIs for WebSocket. All APIs are the synchronous
+functions.
+
+python-websocket-client supports only hybi-13.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pypi.python.org/pypi/websocket-client'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

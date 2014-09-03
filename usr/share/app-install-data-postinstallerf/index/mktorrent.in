@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mktorrent</b>'
+Comment='<span size="xx-large">Command line utility to create BitTorrent metainfo files</span>'
+Comment3='
+Command line utility to create BitTorrent metainfo files.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://mktorrent.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

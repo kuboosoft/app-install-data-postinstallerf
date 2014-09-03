@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>exiv2-libs</b>'
+Comment='<span size="xx-large">Exif and Iptc metadata manipulation library</span>'
+Comment3='
+A C++ library to access image metadata, supporting full read and write access
+to the Exif and Iptc metadata, Exif MakerNote support, extract and delete
+methods for Exif thumbnails, classes to access Ifd and so on.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.exiv2.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Task-Kensho-Toolchain</b>'
+Comment='<span size="xx-large">Task::Kensho::Toolchain Perl module</span>'
+Comment3='
+Kensh? (??) (C. Wu) is a Japanese term for enlightenment
+experiences?most commonly used within the confines of Zen
+Buddhism?literally meaning "seeing ones nature"[1] or "true self."[2] It
+generally "refers to the realization of non-duality of subject and
+object."[3]
+
+TaskKensho is a first cut at building a list of recommended modules for
+Enlightened Perl development. CPAN is wonderful, but there are too many
+wheels and you have to pick and choose among the various competing
+technologies.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Task-Kensho-Toolchain/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

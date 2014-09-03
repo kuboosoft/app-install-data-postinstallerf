@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>drupal6-service_links</b>'
+Comment='<span size="xx-large">Enables admins to add links to a number of sites</span>'
+Comment3='
+The service links module enables admins to add links to a number of social
+bookmarking sites, blog search sites etc. Includes sites are del.icio.us,
+Digg, Reddit, ma.gnolia.com, Newsvine, Furl, Google, Yahoo, Technorati and
+IceRocket.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/service_links'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

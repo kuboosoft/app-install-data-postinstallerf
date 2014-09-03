@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xfce4-mount-plugin</b>'
+Comment='<span size="xx-large">Mount/unmount utility for the Xfce panel</span>'
+Comment3='
+Mount and unmount filesystems from the Xfce panel.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://goodies.xfce.org/projects/panel-plugins/xfce4-mount-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

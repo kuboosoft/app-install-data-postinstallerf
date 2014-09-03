@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gedit-cossa</b>'
+Comment='<span size="xx-large">gedit plugin for GTK+ themes previewing</span>'
+Comment3='
+gedit-cossa is a CSS previewer for GTK+ themes, integrating with gedit so the
+edited CSS is promptly visible in the various samples. gedit-cossa may be easily
+extended with more samples and allows zooming these to help get the tiny details
+right.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://projects.gnome.org/gedit'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

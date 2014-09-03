@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-MooseX-Iterator</b>'
+Comment='<span size="xx-large">Iterate over collections</span>'
+Comment3='
+This is an attempt to add smalltalk-like streams to Moose. It currently
+works with ArrayRefs and HashRefs.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/MooseX-Iterator/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

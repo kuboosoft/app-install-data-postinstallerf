@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-hsb</b>'
+Comment='<span size="xx-large">Upper Sorbian hunspell dictionaries</span>'
+Comment3='
+Upper Sorbian hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sorbzilla.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Cache-Mmap</b>'
+Comment='<span size="xx-large">Shared data cache using memory mapped files</span>'
+Comment3='
+This module implements a shared data cache, using memory mapped files. If
+routines are provided which interact with the underlying data, access to
+the cache is completely transparent, and the module handles all the details
+of refreshing cache contents, and updating underlying data, if necessary.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Cache-Mmap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

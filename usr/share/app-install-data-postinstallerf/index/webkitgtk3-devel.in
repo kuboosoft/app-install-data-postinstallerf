@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>webkitgtk3-devel</b>'
+Comment='<span size="xx-large">Development files for webkitgtk3</span>'
+Comment3='
+The webkitgtk3-devel package contains libraries, build data, and header
+files for developing applications that use webkitgtk3.
+
+'
+License='LGPLv2+ and BSD'
+Screenshot=''
+Url='http://www.webkitgtk.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

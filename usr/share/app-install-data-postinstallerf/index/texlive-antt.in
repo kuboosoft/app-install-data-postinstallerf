@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-antt</b>'
+Comment='<span size="xx-large">Antykwa Torunska: a Type 1 family of a Polish traditional type</span>'
+Comment3='
+Antykwa Torunska is a serif font designed by the late Polish
+typographer Zygfryd Gardzielewski, reconstructed and digitized
+as as Type 1.
+
+date 2007-08-24 103649 +0200
+'
+License='GFSL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

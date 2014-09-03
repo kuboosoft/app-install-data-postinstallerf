@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>revisor-unity</b>'
+Comment='<span size="xx-large">Fedora Unity Configuration and Scripts for Revisor</span>'
+Comment3='
+The configuration files and scripts Fedora Unity uses with
+Revisor to create Re-Spins and do testing.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://fedorahosted.org/revisor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

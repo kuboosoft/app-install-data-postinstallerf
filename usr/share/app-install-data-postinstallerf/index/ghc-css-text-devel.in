@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-css-text-devel</b>'
+Comment='<span size="xx-large">Haskell css-text library development files</span>'
+Comment3='
+This package provides the Haskell css-text library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/css-text'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

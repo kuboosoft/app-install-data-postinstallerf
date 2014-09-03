@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Config-IniHash</b>'
+Comment='<span size="xx-large">Perl extension for reading and writing INI files</span>'
+Comment3='
+This module reads and writes INI files.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Config-IniHash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

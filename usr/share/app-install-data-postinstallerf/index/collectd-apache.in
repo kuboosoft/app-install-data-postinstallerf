@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>collectd-apache</b>'
+Comment='<span size="xx-large">Apache plugin for collectd</span>'
+Comment3='
+This plugin collects data provided by Apaches mod_status.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

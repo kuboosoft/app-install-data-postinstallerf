@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>telepathy-qt4-devel</b>'
+Comment='<span size="xx-large">Development files for telepathy-qt4</span>'
+Comment3='
+Development files for telepathy-qt4.
+
+URL          http//telepathy.freedesktop.org/doc/telepathy-qt/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://telepathy.freedesktop.org/doc/telepathy-qt/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

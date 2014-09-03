@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-sqlite3dbm</b>'
+Comment='<span size="xx-large">SQLite-backed dictionary conforming to the dbm interface</span>'
+Comment3='
+This module provides a SQLite-backed dictionary conforming to the dbm
+interface, along with a shelve class that wraps the dict and provides
+serialization for it.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://github.com/Yelp/sqlite3dbm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

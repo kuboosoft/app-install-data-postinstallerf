@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-openid-teams</b>'
+Comment='<span size="xx-large">Teams extension for python-openid</span>'
+Comment3='
+Teams extension implementation for python-openid
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/puiterwijk/python-openid-teams'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

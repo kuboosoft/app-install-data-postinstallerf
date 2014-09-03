@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>totem-devel</b>'
+Comment='<span size="xx-large">Plugin writers documentation for totem</span>'
+Comment3='
+The totem-devel package contains API documentation for
+developing developing plugins for totem.
+
+'
+License='GPLv2+ with exceptions'
+Screenshot=''
+Url='http://projects.gnome.org/totem/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

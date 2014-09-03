@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-timecop-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-timecop</span>'
+Comment3='
+Documentation for rubygem-timecop
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/jtrupiano/timecop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-RT-Extension-CommandByMail</b>'
+Comment='<span size="xx-large">Change metadata of a RT ticket via email</span>'
+Comment3='
+This extension allows you to manage tickets via RTs email interface. You put
+commands into beginning of a mail and extension applies them. See the list
+of commands in the RTInterfaceEmailFilterTakeAction docs.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/RT-Extension-CommandByMail/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

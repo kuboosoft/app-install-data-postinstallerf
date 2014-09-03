@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>SLOF</b>'
+Comment='<span size="xx-large">Slimline Open Firmware</span>'
+Comment3='
+Slimline Open Firmware (SLOF) is initialization and boot source code
+based on the IEEE-1275 (Open Firmware) standard, developed by
+engineers of the IBM Corporation.
+
+The SLOF source code provides illustrates whats needed to initialize
+and boot Linux or a hypervisor on the industry Open Firmware boot
+standard.
+Note that you normally wouldnt need to install this package
+separately.  It is a dependency of qemu-system-ppc64.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openfirmware.info/SLOF'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-introspection-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-introspection</span>'
+Comment3='
+Documentation for rubygem-introspection
+'
+License='MIT'
+Screenshot=''
+Url='http://jamesmead.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openser-rls</b>'
+Comment='<span size="xx-large">Resource List Server</span>'
+Comment3='
+The modules is a Resource List Server implementation following the
+specification in RFC 4662 and RFC 4826.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

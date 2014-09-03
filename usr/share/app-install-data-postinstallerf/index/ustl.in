@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ustl</b>'
+Comment='<span size="xx-large">A size-optimized STL implementation</span>'
+Comment3='
+The C++ standard template library (STL) is a collection of common containers
+and algorithms in template form. Unfortunately its standard incarnation
+shipped with gcc is implemented without much concern for code size. Not only
+is the library itself large, the current version being over a megabyte in
+size, but with all the code you instantiate by using a vector for each of
+your containers, it is easy to become fearful and opt for using static
+arrays instead or, worse yet, abandon C++ altogether for C. This is
+especially painful to former DOS assembly programmers like myself, who fret
+endlessly when the size of the executable crosses the magic 64k boundary,
+forgetting that nobody cares about memory anymore.
+'
+License='MIT'
+Screenshot=''
+Url='http://msharov.github.io/ustl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libfreenect</b>'
+Comment='<span size="xx-large">Device driver for the Kinect</span>'
+Comment3='
+libfreenect is a free and open source library that provides access to the
+Kinect device.  Currently, the library supports the RGB webcam, the depth
+image, the LED, and the tilt motor.
+
+'
+License='GPLv2+ or ASL 2.0'
+Screenshot=''
+Url='http://www.openkinect.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

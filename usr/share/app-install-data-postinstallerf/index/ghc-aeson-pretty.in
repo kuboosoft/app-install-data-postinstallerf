@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>ghc-aeson-pretty</b>'
+Comment='<span size="xx-large">JSON pretty-printing library</span>'
+Comment3='
+A JSON pretty-printing library compatible with aeson as well as a command-line
+tool to improve readabilty of streams of JSON data.
+
+The library provides the function "encodePretty". It is a drop-in replacement
+for aesons "encode" function, producing JSON-ByteStrings for human readers.
+The command-line tool reads JSON from stdin and writes prettified JSON to
+stdout. It also offers a complementary "compact"-mode, essentially the opposite
+of pretty-printing.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/aeson-pretty'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

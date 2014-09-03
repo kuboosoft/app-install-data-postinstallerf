@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>mdsplib-devel</b>'
+Comment='<span size="xx-large">Development files for the METAR Decoder Software Package Library</span>'
+Comment3='
+METAR is a French acronym for Aviation Routine Weather Report. It is the
+standard format for reporting meteorological conditions. As a free service,
+the National Weather Service continually updates a server with METARs from all
+over the world.
+
+The MDSP Library provides a programmer with two functions, the major one
+being DcdMETAR, which decodes a METAR into structures provided by the
+library. Also prtDMETR, which prints out a decoded METAR structure.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://limulus.net/mdsplib/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

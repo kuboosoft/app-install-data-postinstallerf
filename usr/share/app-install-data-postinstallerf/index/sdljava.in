@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sdljava</b>'
+Comment='<span size="xx-large">Java binding to the SDL API</span>'
+Comment3='
+sdljava is a Java binding to the SDL API being developed by Ivan Ganza.
+
+sdljava provides the ability to write games and other applications
+from the java programming language. sdljava is designed to be fast,
+efficient and easy to use.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sdljava.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

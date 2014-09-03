@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ovirt-node-plugin-igor-slave</b>'
+Comment='<span size="xx-large">Igor slave plugin for oVirt Node</span>'
+Comment3='
+This package provides an igor service for oVirt Node. This service
+is responsible for running testcase offered by an igor server.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qt-creator-doc</b>'
+Comment='<span size="xx-large">User documentation for qt-creator</span>'
+Comment3='
+User documentation for qt-creator.
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qt.digia.com/Product/Qt-Core-Features-Functions/Developer-Tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

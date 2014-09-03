@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fontforge</b>'
+Comment='<span size="xx-large">Outline and bitmap font editor</span>'
+Comment3='
+FontForge (former PfaEdit) is a font editor for outline and bitmap
+fonts. It supports a range of font formats, including PostScript
+(ASCII and binary Type 1, some Type 3 and Type 0), TrueType, OpenType
+(Type2) and CID-keyed fonts.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://fontforge.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

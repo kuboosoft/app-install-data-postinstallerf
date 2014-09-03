@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>man-pages-pl</b>'
+Comment='<span size="xx-large">Polish man pages from the Linux Documentation Project</span>'
+Comment3='
+Manual pages from the Linux Documentation Project, translated into
+Polish.
+'
+License='GPL+ and BSD and MIT and GFDL'
+Screenshot=''
+Url='http://sourceforge.net/projects/manpages-pl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

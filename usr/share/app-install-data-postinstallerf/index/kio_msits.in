@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kio_msits</b>'
+Comment='<span size="xx-large">A kioslave for displaying WinHelp files</span>'
+Comment3='
+A kioslave for displaying WinHelp files.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegraphics/okular'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

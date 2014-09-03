@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ski-libs</b>'
+Comment='<span size="xx-large">Shared library for the ski simulator</span>'
+Comment3='
+Shared library for the ski simulator
+
+URL          http//ski.sourceforge.net
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ski.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

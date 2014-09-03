@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-epspdfconversion</b>'
+Comment='<span size="xx-large">On-the-fly conversion of EPS to PDF</span>'
+Comment3='
+The package calls the epstopdf package to convert EPS graphics
+to PDF, on the fly. It servs as a vehicle for passing
+conversion options (such as grayscale, prepress or pdfversion)
+to the epspdf converter.
+
+date 2010-06-02 103647 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

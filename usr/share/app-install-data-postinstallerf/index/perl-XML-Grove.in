@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-XML-Grove</b>'
+Comment='<span size="xx-large">Simple access to infoset of parsed XML, HTML, or SGML instances</span>'
+Comment3='
+XMLGrove is a tree-based object model for accessing the information
+set of parsed or stored XML, HTML, or SGML instances. XMLGrove
+objects are Perl hashes and arrays where you access the properties of
+the objects using normal Perl syntax.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/XML-Grove/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nebula</b>'
+Comment='<span size="xx-large">Intrusion signature generator</span>'
+Comment3='
+Nebula is an intrusion signature generator. It can help securing a
+network by automatically calculating filter rules from attack
+traces. In a common setup nebula runs as a daemon and receives attacks
+from honeypots.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://sourceforge.net/projects/nebula/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

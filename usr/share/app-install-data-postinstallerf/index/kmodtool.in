@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>kmodtool</b>'
+Comment='<span size="xx-large">Tool for building kmod packages</span>'
+Comment3='
+This package contains tools and list of recent kernels that get used when
+building kmod-packages.
+'
+License='MIT'
+Screenshot=''
+Url='http://rpmfusion.org/Packaging/KernelModules/Kmods2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

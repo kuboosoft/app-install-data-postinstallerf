@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mono-tools-devel</b>'
+Comment='<span size="xx-large">.pc file for mono-tools</span>'
+Comment3='
+Development file for mono-tools
+
+URL          http//www.mono-project.com/Main_Page
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-babel-albanian</b>'
+Comment='<span size="xx-large">Support for Albanian within babel</span>'
+Comment3='
+The package provides support for typesetting Albanian (as part
+of the babel system).
+
+date 2011-09-19 080509 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

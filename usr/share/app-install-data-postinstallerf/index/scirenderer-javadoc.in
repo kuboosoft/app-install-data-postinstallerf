@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>scirenderer-javadoc</b>'
+Comment='<span size="xx-large">API Documentation for scirenderer</span>'
+Comment3='
+This package contains the API documentation for scirenderer.
+'
+License='CeCILL'
+Screenshot=''
+Url='http://forge.scilab.org/index.php/p/scirenderer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

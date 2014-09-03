@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gela-asis</b>'
+Comment='<span size="xx-large">Implementation of ASIS</span>'
+Comment3='
+Platform/compiler independent implementation of Ada
+Semantic Interface Specification.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://gela.ada-ru.org/gela_asis'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

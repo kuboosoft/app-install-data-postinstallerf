@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gamin-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. to embed the Gamin library</span>'
+Comment3='
+This C library provides an API and ABI compatible file alteration
+monitor mechanism compatible with FAM but not dependent on a system wide
+daemon.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.gnome.org/~veillard/gamin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

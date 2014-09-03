@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>velocity-tools</b>'
+Comment='<span size="xx-large">Collection of useful tools for Velocity template engine</span>'
+Comment3='
+The VelocityTools project is a collection of useful Java classes (aka tools),
+as well as infrastructure to easily, automatically and transparently
+make these tools available to Velocity templates.
+
+Project include easy integration of Velocity into the view-layer of
+web applications (via the VelocityViewTag and
+VelocityViewServlet) and integration with Struts 1.x applications.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://velocity.apache.org/tools/releases/2.0/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

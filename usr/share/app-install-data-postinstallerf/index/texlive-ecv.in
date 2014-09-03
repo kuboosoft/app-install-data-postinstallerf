@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-ecv</b>'
+Comment='<span size="xx-large">A fancy Curriculum Vitae class</span>'
+Comment3='
+The class provides an environment for creating a fancily laid
+out tabular curriculum vitae inspired by the european
+curriculum vitae. The distribution comes with a German and an
+English template.
+
+date 2011-12-23 140237 +0100
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

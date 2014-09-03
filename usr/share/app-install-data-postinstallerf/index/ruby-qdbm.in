@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-qdbm</b>'
+Comment='<span size="xx-large">QDBM Database Library for Ruby</span>'
+Comment3='
+This package contains a Ruby interface for QDBM Database library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fallabs.com/qdbm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

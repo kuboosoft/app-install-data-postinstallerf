@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>qelectrotech-symbols</b>'
+Comment='<span size="xx-large">Elements collection for QElectroTech</span>'
+Comment3='
+Elements collection for QElectroTech.
+'
+License='CC-BY'
+Screenshot=''
+Url='http://qelectrotech.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

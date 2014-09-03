@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sssd-ldap</b>'
+Comment='<span size="xx-large">The LDAP back end of the SSSD</span>'
+Comment3='
+Provides the LDAP back end that the SSSD can utilize to fetch identity data
+from and authenticate against an LDAP server.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

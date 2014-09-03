@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-ranges</b>'
+Comment='<span size="xx-large">Ranges and various functions on them</span>'
+Comment3='
+Ranges and some functions allowing things like fast membership
+lookup on ranges with holes in them and so on.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/ranges'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

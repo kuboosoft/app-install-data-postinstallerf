@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ltsp-server</b>'
+Comment='<span size="xx-large">LTSP server</span>'
+Comment3='
+LTSP server package
+This package contains the scripts and services necessary to install and run
+a Linux Terminal Server.
+'
+License='GPLv2 and GPLv2+'
+Screenshot=''
+Url='http://www.ltsp.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

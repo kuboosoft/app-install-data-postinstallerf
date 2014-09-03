@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-yannisgr</b>'
+Comment='<span size="xx-large">Greek fonts by Yannis Haralambous</span>'
+Comment3='
+A family of 7-bit fonts with a code table designed for setting
+modern polytonic Greek. The fonts are provided as Metafont
+source; macros to produce a Greek variant of Plain TeX
+(including a hyphenation table adapted to the fonts code
+table) are provided.
+
+date 2011-05-22 003815 +0200
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

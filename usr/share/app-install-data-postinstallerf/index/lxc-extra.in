@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>lxc-extra</b>'
+Comment='<span size="xx-large">Extra tools for lxc</span>'
+Comment3='
+Linux Resource Containers provide process and resource isolation without the
+overhead of full virtualization.
+
+This package contains tools needing the Python3 bindings.
+'
+License='LGPLv2+ and GPLv2'
+Screenshot=''
+Url='http://lxc.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

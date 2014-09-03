@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>constantine-backgrounds-extras</b>'
+Comment='<span size="xx-large">Extra Constantine Backgrounds</span>'
+Comment3='
+This package contains aditional desktop backgrounds for the Constantine theme.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F12_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

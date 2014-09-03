@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>osm2pgsql</b>'
+Comment='<span size="xx-large">Imports map data from OpenStreetMap to a PostgreSQL database</span>'
+Comment3='
+Processes the planet file from the community mapping project at
+http//www.openstreetmap.org. The map data is converted from XML to a
+database stored in PostgreSQL with PostGIS geospatial extensions. This
+database may then be used to render maps with Mapnik or for other
+geospatial analysis.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://wiki.openstreetmap.org/wiki/Osm2pgsql'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

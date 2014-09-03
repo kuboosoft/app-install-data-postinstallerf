@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>qjson</b>'
+Comment='<span size="xx-large">A qt-based library that maps JSON data to QVariant objects</span>'
+Comment3='
+JSON is a lightweight data-interchange format. It can represents integer, real
+number, string, an ordered sequence of value, and a collection of
+name/value pairs.QJson is a qt-based library that maps JSON data to
+QVariant objects.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/qjson/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

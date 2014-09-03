@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>libexplain</b>'
+Comment='<span size="xx-large">Library functions to explain system call errors</span>'
+Comment3='
+The libexplain project provides a library which may be used to explain
+Unix and Linux system call errors. This will make your applications
+error messages much more informative to your users.  The library is
+not quite a drop-in replacement for strerror, but it comes close. Each
+system call has a dedicated libexplain function.
+
+The coverage for system calls is being improved all the time. Coverage
+includes 159 system calls and 444 ioctl requests.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://libexplain.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

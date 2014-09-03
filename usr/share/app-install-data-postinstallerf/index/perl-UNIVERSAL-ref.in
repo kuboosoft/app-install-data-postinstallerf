@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-UNIVERSAL-ref</b>'
+Comment='<span size="xx-large">Turns ref() into a multimethod</span>'
+Comment3='
+This module changes the behavior of the builtin function ref(). If
+ref() is called on an object that has requested an overloaded ref,
+the objects ->ref method will be called and its return value
+used instead.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/UNIVERSAL-ref'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>zhcon</b>'
+Comment='<span size="xx-large">A fast Linux Console Chinese System that supports framebuffer</span>'
+Comment3='
+Zhcon is a fast Linux Console Chinese System which supports
+framebuffer device.It can display Chinese, Japanese or Korean
+double byte characters. Supported language encodings include
+UTF8, GB2312, GBK, BIG5, JIS and KSC.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://zhcon.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

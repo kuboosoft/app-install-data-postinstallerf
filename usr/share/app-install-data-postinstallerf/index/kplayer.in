@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>kplayer</b>'
+Comment='<span size="xx-large">A media player based on MPlayer</span>'
+Comment3='
+KPlayer is a KDE media player based on MPlayer, www.mplayerhq.hu.
+With KPlayer you can easily play a wide variety of video and audio
+files and streams using a rich and friendly interface compliant with
+KDE standards.  Features include
+- video, audio and subtitle playback from file, URL, DVD, VCD,
+  audio CD, TV, DVB, etc., as well as KDE I/O Slaves;
+- volume, contrast, brightness, hue and saturation controls;
+- zooming, full screen and fixed aspect options;
+- status and progress display and seeking;
+- playlist;
+'
+License='GPLv3+ and GFDL'
+Screenshot=''
+Url='http://kplayer.sourceforge.net/'
+- video, audio and subtitle playback from file, URL, DVD, VCD,'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

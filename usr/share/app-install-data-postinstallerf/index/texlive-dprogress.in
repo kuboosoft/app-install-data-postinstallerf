@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-dprogress</b>'
+Comment='<span size="xx-large">LaTeX-relevant log information for debugging</span>'
+Comment3='
+The package logs LaTeXs progress through the file, making the
+LaTeX output more verbose. This helps to make LaTeX debugging
+easier, as it is simpler to find where exactly LaTeX failed.
+The package outputs the typesetting of section, subsection and
+subsubsection headers and (if amsmath is loaded) details of the
+align environment.
+
+date 2008-08-18 134916 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

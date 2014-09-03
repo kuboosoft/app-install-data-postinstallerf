@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>kdewebdev</b>'
+Comment='<span size="xx-large">Web development applications</span>'
+Comment3='
+Web development applications, including
+* kfilereplace batch search and replace tool
+* kimagemapeditor HTML image map editor
+* klinkstatus link checker
+* kommander visual dialog building tool
+* kxsldbg xslt Debugger
+* quanta+ web development
+'
+License='GPLv2'
+Screenshot=''
+Url='http://kdewebdev.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

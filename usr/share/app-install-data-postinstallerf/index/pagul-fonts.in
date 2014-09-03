@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pagul-fonts</b>'
+Comment='<span size="xx-large">Font for Saurashtra script</span>'
+Comment3='
+A TrueType Font, which allows you to read and write in Saurashtra Script.
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://sourceforge.net/projects/pagul/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

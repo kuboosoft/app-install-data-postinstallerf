@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-beamer-FUBerlin</b>'
+Comment='<span size="xx-large">Beamer, using the style of FU Berlin</span>'
+Comment3='
+The bundle provides a beamer-derived class and a theme style
+file for the corporate design of the Free University in Berlin.
+Users may use the class itself (FUbeamer) or use the theme in
+the usual way with \usetheme{BerlinFU}. Examples of using both
+the class and the theme are provided; the PDF is visually
+identical, so the catalogue only lists one; the sources of the
+examples do of course differ.
+
+date 2009-08-11 191950 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

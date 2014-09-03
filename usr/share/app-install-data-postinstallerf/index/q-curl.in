@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>q-curl</b>'
+Comment='<span size="xx-large">cURL module for Q</span>'
+Comment3='
+cURL module for Q.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://q-lang.sourceforge.net'
+Summary     : cURL module for Q'
+cURL module for Q.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

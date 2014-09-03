@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Shell</b>'
+Comment='<span size="xx-large">Run shell commands transparently within perl</span>'
+Comment3='
+This package is included as a show case, illustrating a few Perl features. It
+shouldnt be used for production programs. Although it does provide a simple
+interface for obtaining the standard output of arbitrary commands, there may be
+better ways of achieving what you need.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Shell'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

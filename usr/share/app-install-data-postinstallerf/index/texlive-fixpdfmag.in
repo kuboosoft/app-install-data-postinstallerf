@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-fixpdfmag</b>'
+Comment='<span size="xx-large">Fix magnification in PDFTeX</span>'
+Comment3='
+A recent change to PDFTeX has caused magnification to apply to
+page dimensions. This small package changes the values set in
+the page dimension variables from pt to truept, thus evading
+the effects of \mag.
+
+date 2009-09-17 211639 +0200
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

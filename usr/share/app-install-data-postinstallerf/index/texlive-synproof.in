@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-synproof</b>'
+Comment='<span size="xx-large">Easy drawing of syntactic proofs</span>'
+Comment3='
+The package provides a set of macros based on PSTricks that
+will enable you to draw syntactic proofs easily (inspired by
+the Gamut books). Very few commands are needed, however fine
+tuning of the various parameters (dimensions) can still be
+achieved through "key=value" pairs.
+
+date 2009-07-05 172222 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

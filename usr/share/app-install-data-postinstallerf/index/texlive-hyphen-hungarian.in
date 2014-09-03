@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-hungarian</b>'
+Comment='<span size="xx-large">Hungarian hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Hungarian in T1/EC and UTF-8
+encodings. From https//github.com/nagybence/huhyphn/.
+
+date 2012-06-19 223805 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

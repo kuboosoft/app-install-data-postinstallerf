@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>espresso-openmpi</b>'
+Comment='<span size="xx-large">Extensible Simulation Package for Research on Soft matter</span>'
+Comment3='
+ESPResSo can perform Molecular Dynamics simulations of bead-spring models
+in various ensembles ((N,V,E), (N,V,T), and (N,p,T)).
+ESPResSo contains a number of advanced algorithms, e.g.
+    * DPD thermostat (for hydrodynamics)
+    * P3M, MMM2D, MMM1D, ELC for electrostatic interactions
+    * Lattice-Boltzmann for hydrodynamics
+
+This package contains espresso compiled against Open MPI.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://espressomd.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

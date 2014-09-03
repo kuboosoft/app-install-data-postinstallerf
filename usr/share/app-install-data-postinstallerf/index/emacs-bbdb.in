@@ -1,0 +1,26 @@
+#!/bin/sh
+Name='<b>emacs-bbdb</b>'
+Comment='<span size="xx-large">A contact management utility for use with Emacs</span>'
+the Gnus Summary Buffer, and Gnus scoring can be configured based on
+Comment3='
+The Insidious Big Brother Database (BBDB) is a contact management
+utility created by Jamie Zawinski for use with Emacs. It is tightly
+integrated with several mail and news readers, allowing it to create
+database entries directly from mail and news messages. As is usual
+with applications for Emacs, this record creation can be configured in
+many ways, ranging from a boolean create/dont create setting to
+creation based on the result of a user-supplied function.
+
+Database records can be used to store many types of information, from
+name and address to URLs and X-Face images. This information can be
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bbdb.sourceforge.net/'
+name and address to URLs and X-Face images. This information can be'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

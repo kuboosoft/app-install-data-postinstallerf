@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Mozilla-CA</b>'
+Comment='<span size="xx-large">Mozillas CA cert bundle in PEM format</span>'
+Comment3='
+MozillaCA provides a path to ca-certificates copy of Mozillas bundle of
+certificate authority certificates in a form that can be consumed by modules
+and libraries based on OpenSSL.
+'
+License='MPLv1.1 or LGPLv2+ or GPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Mozilla-CA/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

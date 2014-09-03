@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Net-CIDR-Lite</b>'
+Comment='<span size="xx-large">Perl extension for merging IPv4 or IPv6 CIDR addresses</span>'
+Comment3='
+Faster alternative to NetCIDR when merging a large number of CIDR address
+ranges. Works for IPv4 and IPv6 addresses.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Net-CIDR-Lite/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

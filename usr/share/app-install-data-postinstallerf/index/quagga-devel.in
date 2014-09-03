@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>quagga-devel</b>'
+Comment='<span size="xx-large">Header and object files for quagga development</span>'
+Comment3='
+The quagga-devel package contains the header and object files necessary for
+developing OSPF-API and quagga applications.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.quagga.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

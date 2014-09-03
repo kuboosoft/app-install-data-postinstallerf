@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmthca</b>'
+Comment='<span size="xx-large">Mellanox InfiniBand HCA Userspace Driver</span>'
+Comment3='
+libmthca provides a device-specific userspace driver for Mellanox HCAs
+(MT23108 InfiniHost and MT25208 InfiniHost III Ex) for use with the
+libibverbs library.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

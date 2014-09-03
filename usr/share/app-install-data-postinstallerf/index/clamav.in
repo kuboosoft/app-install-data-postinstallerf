@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>clamav</b>'
+Comment='<span size="xx-large">End-user tools for the Clam Antivirus scanner</span>'
+Comment3='
+Clam AntiVirus is an anti-virus toolkit for UNIX. The main purpose of this
+software is the integration with mail servers (attachment scanning). The
+package provides a flexible and scalable multi-threaded daemon, a command
+line scanner, and a tool for automatic updating via Internet. The programs
+are based on a shared library distributed with the Clam AntiVirus package,
+which you can use with your own software. The virus database is based on
+the virus database from OpenAntiVirus, but contains additional signatures
+(including signatures for popular polymorphic viruses, too) and is KEPT UP
+TO DATE.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.clamav.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

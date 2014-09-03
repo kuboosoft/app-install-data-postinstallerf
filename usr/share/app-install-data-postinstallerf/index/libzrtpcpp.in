@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libzrtpcpp</b>'
+Comment='<span size="xx-large">ZRTP support library for the GNU ccRTP stack</span>'
+Comment3='
+This package provides a library that adds ZRTP support to the GNU
+ccRTP stack. Phil Zimmermann developed ZRTP to allow ad-hoc, easy to
+use key negotiation to setup Secure RTP (SRTP) sessions. GNU ZRTP
+together with GNU ccRTP (1.5.0 or later) provides a ZRTP
+implementation that can be directly embedded into client and server
+applications.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/wernerd/ZRTPCPP'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

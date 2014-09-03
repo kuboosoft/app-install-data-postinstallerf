@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libattr</b>'
+Comment='<span size="xx-large">Dynamic library for extended attribute support</span>'
+Comment3='
+This package contains the libattr.so dynamic library which contains
+the extended attribute system calls and library functions.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://acl.bestbits.at/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

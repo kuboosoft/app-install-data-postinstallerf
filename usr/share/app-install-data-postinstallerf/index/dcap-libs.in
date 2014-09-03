@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dcap-libs</b>'
+Comment='<span size="xx-large">Client Libraries for dCache</span>'
+Comment3='
+dCache is a distributed mass storage system.
+This package contains the client libraries.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.dcache.org/manuals/libdcap.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

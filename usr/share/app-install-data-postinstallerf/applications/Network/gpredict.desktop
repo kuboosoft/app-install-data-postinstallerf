@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=postinstaller -n gpredict
+Name=GNOME Predict
+Comment=Satellite tracker
+Icon=/usr/share/app-install-data-postinstallerf/icons/gpredict.png
+Terminal=false
+Type=Application
+Categories=Network;HamRadio;Education;Astronomy;Science;

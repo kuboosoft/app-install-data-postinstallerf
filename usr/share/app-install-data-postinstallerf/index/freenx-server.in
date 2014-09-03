@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>freenx-server</b>'
+Comment='<span size="xx-large">Free Software (GPL) Implementation of the NX Server</span>'
+Comment3='
+NX is an exciting new technology for remote display. It provides near
+local speed application responsiveness over high latency, low
+bandwidth links. The core libraries for NX are provided by NoMachine
+under the GPL. FreeNX-server is a GPL implementation of the NX Server.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://freenx.berlios.de/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

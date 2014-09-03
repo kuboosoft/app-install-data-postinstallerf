@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-l3experimental</b>'
+Comment='<span size="xx-large">Experimental LaTeX3 concepts</span>'
+Comment3='
+The l3experimental packages are a collection of experimental
+implementations for aspects of the LaTeX3 kernel, dealing with
+higher-level ideas such as the Designer Interface. Some of them
+work as stand alone packages, providing new functionality, and
+can be used on top of LaTeX2e with no changes to the existing
+kernel. The present release includes - xgalley, which controls
+boxes receiving text for typesetting. - l3dt kernel support
+for data tables; - l3regex kernel support for regular
+expression search and replace operations; - l3sort kernel
+support for sorting sequences, token lists or comma-lists,
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

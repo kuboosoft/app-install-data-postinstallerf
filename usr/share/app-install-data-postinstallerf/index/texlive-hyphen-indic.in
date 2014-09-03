@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-indic</b>'
+Comment='<span size="xx-large">Indic hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Assamese, Bengali, Gujarati, Hindi,
+Kannada, Malayalam, Marathi, Oriya, Panjabi, Tamil and Telugu
+for Unicode engines.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

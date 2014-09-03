@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-abstyles</b>'
+Comment='<span size="xx-large">Adaptable BibTeX styles</span>'
+Comment3='
+A family of modifications of the standard BibTeX styles whose
+behaviour may be changed by changing the user document, without
+change to the styles themselves. The package is largely used
+nowadays in its adaptation for working with Babel.
+
+date 2008-11-26 235856 +0100
+'
+License='Abstyles'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

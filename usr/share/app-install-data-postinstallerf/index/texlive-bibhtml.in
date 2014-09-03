@@ -1,0 +1,25 @@
+#!/bin/sh
+Name='<b>texlive-bibhtml</b>'
+Comment='<span size="xx-large">BibTeX support for HTML files</span>'
+Comment3='
+Bibhtml consists of a Perl script and a set of BibTeX style
+files, which together allow you to output a bibliography as a
+collection of HTML files. The references in the text are linked
+directly to the corresponding bibliography entry, and if a URL
+is defined in the entry within the BibTeX database file, then
+the generated bibliography entry is linked to this. The package
+provides three different style files derived from each of the
+standard plain.bst and alpha.bst, as well as two style files
+derived from abbrv.bst and unsrt.bst (i.e., eight in total).
+
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+directly to the corresponding bibliography entry, and if a URL'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

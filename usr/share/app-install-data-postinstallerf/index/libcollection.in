@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libcollection</b>'
+Comment='<span size="xx-large">Collection data-type for C</span>'
+Comment3='
+A data-type to collect data in a hierarchical structure for easy iteration
+and serialization
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

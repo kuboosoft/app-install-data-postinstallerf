@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>driconf</b>'
+Comment='<span size="xx-large">A configuration applet for the Direct Rendering Infrastructure</span>'
+Comment3='
+DRIconf is a configuration applet for the Direct Rendering Infrastructure.
+It allows customizing performance and visual quality settings of OpenGL
+drivers on a per-driver, per-screen and/or per-application level.
+
+The settings are stored in system wide and per-user XML configuration files,
+which are parsed by the OpenGL drivers on startup.
+DRIConf is written in Python with the python-gtk toolkit bindings.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dri.freedesktop.org/wiki/DriConf'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

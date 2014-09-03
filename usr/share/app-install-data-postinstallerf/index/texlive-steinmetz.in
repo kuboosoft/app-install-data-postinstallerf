@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-steinmetz</b>'
+Comment='<span size="xx-large">Print Steinmetz notation</span>'
+Comment3='
+The steinmetz package provides a command for typesetting
+complex numbers in the Steinmetz notation used in
+electrotechnics as <modulus><argument or phase inside an angle
+symbol> The package makes use of pict2e.
+
+date 2009-11-10 003052 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

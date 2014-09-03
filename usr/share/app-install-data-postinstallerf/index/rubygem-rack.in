@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-rack</b>'
+Comment='<span size="xx-large">Common API for connecting web frameworks, web servers and layers of software</span>'
+Comment3='
+Rack provides a common API for connecting web frameworks,
+web servers and layers of software in between
+'
+License='MIT'
+Screenshot=''
+Url='http://rubyforge.org/projects/rack/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

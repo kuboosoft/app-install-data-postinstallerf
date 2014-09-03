@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mod_security</b>'
+Comment='<span size="xx-large">Security module for the Apache HTTP Server</span>'
+Comment3='
+ModSecurity is an open source intrusion detection and prevention engine
+for web applications. It operates embedded into the web server, acting
+as a powerful umbrella - shielding web applications from attacks.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.modsecurity.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

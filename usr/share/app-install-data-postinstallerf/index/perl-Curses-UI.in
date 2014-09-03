@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-Curses-UI</b>'
+Comment='<span size="xx-large">Curses based OO user interface framework</span>'
+Comment3='
+CursesUI is an object-oriented user interface framework for Perl.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Curses-UI/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sat4j</b>'
+Comment='<span size="xx-large">A library of SAT solvers written in Java</span>'
+Comment3='
+The aim of the SAT4J library is to provide an efficient library of SAT
+solvers in Java. The SAT4J library targets first users of SAT "black
+boxes", those willing to embed SAT technologies into their application
+without worrying about the details.
+'
+License='EPL or LGPLv2'
+Screenshot=''
+Url='http://www.sat4j.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

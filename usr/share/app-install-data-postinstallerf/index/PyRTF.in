@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PyRTF</b>'
+Comment='<span size="xx-large">Rich Text Format (RTF) Document Generation in Python</span>'
+Comment3='
+PyRTF is a pure python module for the efficient generation of rich text form
+documents.  It has good support for tables and tries to maintain compatibility
+with as many RTF reader as possible.
+'
+License='LGPLv2+ or GPL+'
+Screenshot=''
+Url='http://pyrtf.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

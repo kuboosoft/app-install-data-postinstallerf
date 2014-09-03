@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-reststop</b>'
+Comment='<span size="xx-large">Convenient RESTfulness for all your Camping controller needs</span>'
+Comment3='
+Convenient RESTfulness for all your Camping controller needs
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://rubyforge.org/projects/reststop/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

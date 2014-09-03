@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Archive-Tar</b>'
+Comment='<span size="xx-large">A module for Perl manipulation of .tar files</span>'
+Comment3='
+ArchiveTar provides an object oriented mechanism for handling tar
+files.  It provides class methods for quick and easy files handling
+while also allowing for the creation of tar file objects for custom
+manipulation.  If you have the IOZlib module installed, ArchiveTar
+will also support compressed or gzipped tar files.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Archive-Tar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

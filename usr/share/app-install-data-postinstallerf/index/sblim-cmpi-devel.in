@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>sblim-cmpi-devel</b>'
+Comment='<span size="xx-large">SBLIM CMPI Provider Development Support</span>'
+Comment3='
+This packages provides the C and C++ CMPI header files needed by
+provider developers and can be used standalone. If used for
+C++ provider development it is also necessary to have
+tog-pegasus-devel installed.
+
+'
+License='EPL'
+Screenshot=''
+Url='http://sblim.wiki.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

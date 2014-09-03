@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libgtextutils-devel</b>'
+Comment='<span size="xx-large">Development files for libgtextutils</span>'
+Comment3='
+The libgtextutils-devel package contains libraries and header files for
+developing applications that use libgtextutils.
+
+'
+License='AGPLv3+'
+Screenshot=''
+Url='http://hannonlab.cshl.edu/fastx_toolkit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

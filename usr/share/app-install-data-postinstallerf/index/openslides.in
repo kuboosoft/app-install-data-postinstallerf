@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openslides</b>'
+Comment='<span size="xx-large">Presentation and assembly system</span>'
+Comment3='
+OpenSlides is a free web-based presentation and assembly system for
+displaying and controlling of agenda, motions and elections of an assembly.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/openslides/1.3'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ghc-warp</b>'
+Comment='<span size="xx-large">Fast light-weight web server for WAI applications</span>'
+Comment3='
+A fast, light-weight web server for WAI applications.
+Warp is the premier WAI handler.
+See http//steve.vinoski.net/blog/2011/05/01/warp-a-haskell-web-server/.
+'
+License='MIT'
+Screenshot=''
+Url='http://hackage.haskell.org/package/warp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

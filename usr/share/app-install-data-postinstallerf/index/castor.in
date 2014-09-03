@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>castor</b>'
+Comment='<span size="xx-large">An open source data binding framework for Java</span>'
+Comment3='
+Castor is an open source data binding framework for Java. Its basically
+the shortest path between Java objects, XML documents and SQL tables.
+Castor provides Java to XML binding, Java to SQL persistence, and more.
+'
+License='BSD and MPLv1.1 and W3C'
+Screenshot=''
+Url='http://castor.codehaus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

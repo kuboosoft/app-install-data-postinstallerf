@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nodejs-xml2js</b>'
+Comment='<span size="xx-large">Simple XML to JavaScript object converter</span>'
+Comment3='
+Ever had the urge to parse XML? And wanted to access the data in
+some sane, easy way? Dont want to compile a C parser, for whatever
+reason? Then xml2js is what youre looking for!
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/Leonidas-from-XIV/node-xml2js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

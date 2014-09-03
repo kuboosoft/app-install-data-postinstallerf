@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-outline</b>'
+Comment='<span size="xx-large">List environment for making outlines</span>'
+Comment3='
+The package defines an outline environment, which provides
+facilities similar to enumerate, but up to 6 levels deep.
+
+date 2010-05-19 182151 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

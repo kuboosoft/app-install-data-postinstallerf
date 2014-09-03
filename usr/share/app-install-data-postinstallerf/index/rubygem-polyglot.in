@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-polyglot</b>'
+Comment='<span size="xx-large">Allow hooking of language loaders for specified extensions into require</span>'
+Comment3='
+This Ruby GEM allows custom language loaders for specified file extensions
+to be hooked into require.
+'
+License='MIT'
+Screenshot=''
+Url='http://polyglot.rubyforge.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

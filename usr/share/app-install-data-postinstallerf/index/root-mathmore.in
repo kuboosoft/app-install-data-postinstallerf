@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>root-mathmore</b>'
+Comment='<span size="xx-large">GSL interface library for ROOT</span>'
+Comment3='
+This package contains the MathMore library for ROOT. This provides
+a partial GNU Scientific Library interface for ROOT.
+While the rest of root is licensed under LGPLv2+ this optional library
+is licensed under GPLv2+ due to its use of GSL.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://root.cern.ch/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

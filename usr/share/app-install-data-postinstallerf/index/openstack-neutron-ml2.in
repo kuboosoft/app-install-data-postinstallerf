@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>openstack-neutron-ml2</b>'
+Comment='<span size="xx-large">Neutron ML2 plugin</span>'
+Comment3='
+Neutron provides an API to dynamically request and configure virtual
+networks.
+
+This package contains a neutron plugin that allows the use of drivers
+to support separately extensible sets of network types and the mechanisms
+for accessing those types.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://launchpad.net/neutron/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

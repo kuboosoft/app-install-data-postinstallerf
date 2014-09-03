@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-Test-Perl-Critic-Policy</b>'
+Comment='<span size="xx-large">A framework for testing your custom Policies</span>'
+Comment3='
+This module provides a framework for function-testing your custom
+PerlCriticPolicy modules. Policy testing usually involves feeding it a
+string of Perl code and checking its behavior. In the old days, those strings
+of Perl code were mixed directly in the test script. That sucked.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Perl-Critic/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

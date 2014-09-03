@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ec2-metadata</b>'
+Comment='<span size="xx-large">EC2 instance metadata query tool</span>'
+Comment3='
+A simple bash script that uses curl to query the EC2 instance metadata from
+within an instance running in Amazon EC2 or another cloud provider with a
+compatible metadata service.
+'
+License='MIT'
+Screenshot=''
+Url='http://aws.amazon.com/code/1825'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

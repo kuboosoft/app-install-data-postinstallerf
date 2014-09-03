@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>calligra-braindump</b>'
+Comment='<span size="xx-large">Notes and idea gathering</span>'
+Comment3='
+Notes and idea gathering.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.calligra-suite.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

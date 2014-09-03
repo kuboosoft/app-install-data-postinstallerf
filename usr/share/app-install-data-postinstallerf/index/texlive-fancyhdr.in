@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-fancyhdr</b>'
+Comment='<span size="xx-large">Extensive control of page headers and footers in LaTeX2e</span>'
+Comment3='
+The package provides extensive facilities, both for
+constructing headers and footers, and for controlling their use
+(for example, at times when LaTeX would automatically change
+the heading style in use).
+
+date 2009-01-10 123634 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

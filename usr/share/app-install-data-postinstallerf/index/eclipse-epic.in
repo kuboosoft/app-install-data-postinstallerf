@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>eclipse-epic</b>'
+Comment='<span size="xx-large">Perl Eclipse plug-in</span>'
+Comment3='
+EPIC is an open source Perl IDE based on the Eclipse platform. Features
+supported are syntax highlighting, on-the-fly syntax check, content assist,
+perldoc support, source formatter, templating support, a regular expression
+view and a Perl debugger.
+'
+License='CPL'
+Screenshot=''
+Url='http://www.epic-ide.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

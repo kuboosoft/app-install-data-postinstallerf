@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cegui-irrlicht-renderer</b>'
+Comment='<span size="xx-large">Irrlicht renderer for CEGUI</span>'
+Comment3='
+Irrlicht renderer for CEGUI.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.cegui.org.uk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

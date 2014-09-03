@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libkomparediff2-devel</b>'
+Comment='<span size="xx-large">Developer files for libkomparediff2</span>'
+Comment3='
+The libkomparediff2-devel package contains libraries and header files for
+developing applications that use libkomparediff2.
+
+'
+License='GPLv2+ and BSD'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdesdk/libkomparediff2'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

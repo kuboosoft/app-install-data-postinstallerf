@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>readosm-devel</b>'
+Comment='<span size="xx-large">Development libraries and headers for readosm</span>'
+Comment3='
+The readosm-devel package contains libraries and header files for
+developing applications that use readosm.
+
+'
+License='MPLv1.1 or GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='https://www.gaia-gis.it/fossil/readosm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

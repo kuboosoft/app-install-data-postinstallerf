@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-rugged</b>'
+Comment='<span size="xx-large">Rugged is a Ruby binding to the libgit2 library</span>'
+Comment3='
+Rugged is a Ruby bindings to the libgit2W C Git library. This is
+for testing and using the libgit2 library in a language that is awesome.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/libgit2/rugged'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

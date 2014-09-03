@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sks</b>'
+Comment='<span size="xx-large">Synchronizing Key Server</span>'
+Comment3='
+SKS is a OpenPGP keyserver whose goal is to provide easy to
+deploy, decentralized, and highly reliable synchronization.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/sks-keyserver/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

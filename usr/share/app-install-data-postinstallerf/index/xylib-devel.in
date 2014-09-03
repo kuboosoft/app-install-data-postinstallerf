@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xylib-devel</b>'
+Comment='<span size="xx-large">Development files for xylib</span>'
+Comment3='
+Files needed for developing apps using xylib.
+xylib is a C++ library for reading files that contain x-y data from
+powder diffraction, spectroscopy or other experimental methods.
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://xylib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

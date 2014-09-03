@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ssdeep-libs</b>'
+Comment='<span size="xx-large">Runtime libfuzzy library</span>'
+Comment3='
+The ssdeep-libs package contains libraries needed by applications
+that use libfuzzy.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://ssdeep.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

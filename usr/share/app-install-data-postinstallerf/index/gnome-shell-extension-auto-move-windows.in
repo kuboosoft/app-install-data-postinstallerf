@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-shell-extension-auto-move-windows</b>'
+Comment='<span size="xx-large">Assign specific workspaces to applications in GNOME Shell</span>'
+Comment3='
+This GNOME Shell extension enables easy workspace management. A specific
+workspace can be assigned to each application as soon as it creates a window, in
+a manner configurable with a GSettings key.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/GnomeShell/Extensions'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

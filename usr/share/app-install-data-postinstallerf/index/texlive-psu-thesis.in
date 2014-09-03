@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-psu-thesis</b>'
+Comment='<span size="xx-large">Package for writing a thesis at Penn State University</span>'
+Comment3='
+The package provides proper page formatting according to the
+Penn State thesis office guidelines (as of 2004) and
+automatically formats the front and back matter, title page,
+and more. A BibTeX style file is also included for the
+bibliography.
+
+date 2008-09-20 133626 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

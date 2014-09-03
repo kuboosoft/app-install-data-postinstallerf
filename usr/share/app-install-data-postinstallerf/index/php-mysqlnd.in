@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>php-mysqlnd</b>'
+Comment='<span size="xx-large">A module for PHP applications that use MySQL databases</span>'
+Comment3='
+The php-mysqlnd package contains a dynamic shared object that will add
+MySQL database support to PHP. MySQL is an object-relational database
+management system. PHP is an HTML-embeddable scripting language. If
+you need MySQL support for PHP applications, you will need to install
+this package and the php package.
+
+This package use the MySQL Native Driver
+'
+License='PHP'
+Screenshot=''
+Url='http://www.php.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

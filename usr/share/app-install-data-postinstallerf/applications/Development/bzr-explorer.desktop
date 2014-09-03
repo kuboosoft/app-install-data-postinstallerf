@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=postinstaller -n bzr-explorer
+Type=Application
+Version=1.0
+Name=Bazaar Explorer
+GenericName=Version Control GUI
+Comment=GUI application for using Bazaar
+Icon=/usr/share/app-install-data-postinstallerf/icons/bzr-explorer.png
+Categories=Development;RevisionControl;

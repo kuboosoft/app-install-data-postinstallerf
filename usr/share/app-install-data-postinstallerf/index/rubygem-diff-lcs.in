@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>rubygem-diff-lcs</b>'
+Comment='<span size="xx-large">Provide a list of changes between two sequenced collections</span>'
+Comment3='
+DiffLCS is a port of AlgorithmDiff that uses the McIlroy-Hunt longest
+common subsequence (LCS) algorithm to compute intelligent differences between
+two sequenced enumerable containers. The implementation is based on Mario I.
+Wolczkos Smalltalk version (1.2, 1993) and Ned Konzs Perl version
+(AlgorithmDiff).
+'
+License='GPLv2+ or Ruby or Artistic'
+Screenshot=''
+Url='http://rubyforge.org/projects/ruwiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

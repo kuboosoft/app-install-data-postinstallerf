@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>rubygem-linecache19</b>'
+Comment='<span size="xx-large">Read file with caching</span>'
+Comment3='
+The LineCache module allows one to get any line from any file, caching
+the lines and file information on first access to the file. Although
+the file may be any file, the common use is when the file is a Ruby
+script since parsing of the file is done to figure out where the
+statement boundaries are.
+
+The routines here may be is useful when a small random sets of lines
+are read from a single file, in particular in a debugger to show
+source lines.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://rubyforge.org/projects/ruby-debug19'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

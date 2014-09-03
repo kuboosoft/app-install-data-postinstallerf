@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>mod_intercept_form_submit</b>'
+Comment='<span size="xx-large">Apache module to intercept login form submission and run PAM authentication</span>'
+Comment3='
+mod_intercept_form_submit can intercept submission of application login
+forms. It retrieves the login and password information from the POST
+HTTP request, runs PAM authentication with those credentials, and sets
+the REMOTE_USER environment variable if the authentication passes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.adelton.com/apache/mod_intercept_form_submit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

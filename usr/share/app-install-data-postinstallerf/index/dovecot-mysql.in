@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dovecot-mysql</b>'
+Comment='<span size="xx-large">MySQL back end for dovecot</span>'
+Comment3='
+This package provides the MySQL back end for dovecot-auth etc.
+'
+License='MIT and LGPLv2'
+Screenshot=''
+Url='http://www.dovecot.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

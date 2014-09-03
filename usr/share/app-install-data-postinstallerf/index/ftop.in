@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ftop</b>'
+Comment='<span size="xx-large">Utility that shows shows progress of open files and file systems</span>'
+Comment3='
+Ftop is to files what top is to processes. The progress of all open files
+file systems can be monitored.
+The selection of which files to display is possible through
+a wide assortment of options. As with top, the items are displayed in
+order from most to least active.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/ftop/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

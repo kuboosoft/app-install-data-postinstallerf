@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>apacheds-shared-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for apacheds-shared</span>'
+Comment3='
+This package contains javadoc for apacheds-shared.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://directory.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

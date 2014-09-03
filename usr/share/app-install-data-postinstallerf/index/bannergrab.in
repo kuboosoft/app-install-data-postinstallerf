@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>bannergrab</b>'
+Comment='<span size="xx-large">A banner grabbing tool</span>'
+Comment3='
+Bannergrab is a simple tool, designed to collect information from network
+services. It can do this using two different methods; grab the connection
+banners and send triggers and collect the responses. Bannergrab defaults to
+sending triggers.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://sourceforge.net/projects/bannergrab'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

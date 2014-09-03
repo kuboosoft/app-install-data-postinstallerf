@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libcmpiutil-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. to use the CMPI utility library</span>'
+Comment3='
+Includes and documentations for the CMPI utility library
+The goal is to reduce the amount of repetitive work done in
+most CMPI providers by encapsulating common procedures with more
+"normal" APIs.  This extends from operations like getting typed
+instance properties to standardizing method dispatch and argument checking.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libvirt.org/CIM/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

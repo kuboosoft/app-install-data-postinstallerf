@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>faust-osclib</b>'
+Comment='<span size="xx-large">OSCLib Library</span>'
+Comment3='
+Faust AUdio STreams is a functional programming language for real-time audio
+signal processing. This package provides osclib.
+
+'
+License='GPLv2+ and MIT'
+Screenshot=''
+Url='http://faust.grame.fr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

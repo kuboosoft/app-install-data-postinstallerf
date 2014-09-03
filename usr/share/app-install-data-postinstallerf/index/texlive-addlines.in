@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-addlines</b>'
+Comment='<span size="xx-large">A user-friendly wrapper around \enlargethispage</span>'
+Comment3='
+This small package provides the command \addlines for adding or
+removing space in the textblock of the page its used on. E.g.,
+adding an extra line of text to the page so that a section fits
+better on the next page. It will also add space to the facing
+page in a two-sided document.
+
+date 2009-04-24 133642 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

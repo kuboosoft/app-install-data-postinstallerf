@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>rwall</b>'
+Comment='<span size="xx-large">Client for sending messages to a hosts logged in users</span>'
+Comment3='
+The rwall command sends a message to all of the users logged into a
+specified host.  Actually, your machines rwall client sends the
+message to the rwall daemon running on the specified host, and the
+rwall daemon relays the message to all of the users logged in to that
+host.
+
+Install rwall if youd like the ability to send messages to users
+logged in to a specified host machine.
+'
+License='BSD'
+Screenshot=''
+Url='ftp://ftp.linux.org.uk/pub/linux/Networking/netkit/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

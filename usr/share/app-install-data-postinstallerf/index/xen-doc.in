@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>xen-doc</b>'
+Comment='<span size="xx-large">Xen documentation</span>'
+Comment3='
+This package contains the Xen documentation.
+'
+License='GPLv2+ and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://xen.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

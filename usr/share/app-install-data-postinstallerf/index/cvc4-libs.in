@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cvc4-libs</b>'
+Comment='<span size="xx-large">Library containing an automatic theorem prover for SMT problems</span>'
+Comment3='
+Library containing the core of the cvc4 automatic theorem prover for
+SMT problems.
+
+'
+License='MIT and BSD and Boost'
+Screenshot=''
+Url='http://cvc4.cs.nyu.edu/web/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

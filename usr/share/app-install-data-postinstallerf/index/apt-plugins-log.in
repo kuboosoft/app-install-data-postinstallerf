@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>apt-plugins-log</b>'
+Comment='<span size="xx-large">Log the changes being introduced by the transaction</span>'
+Comment3='
+This script will log the changes being introduced by
+the transaction which is going to be run, and is based
+on an idea of Panu Matilainen.
+
+When some transaction is run, it will dump information
+about it in /var/log/apt.log, or in the configured file.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://apt-rpm.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

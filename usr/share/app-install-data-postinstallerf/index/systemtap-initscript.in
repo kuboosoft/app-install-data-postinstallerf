@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>systemtap-initscript</b>'
+Comment='<span size="xx-large">Systemtap Initscripts</span>'
+Comment3='
+This package includes a SysVinit script to launch selected systemtap
+scripts at system startup, along with a dracut module for early
+boot-time probing if supported.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sourceware.org/systemtap/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

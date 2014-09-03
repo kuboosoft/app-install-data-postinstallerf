@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-showdown</b>'
+Comment='<span size="xx-large">A JavaScript port of the original Perl version of Markdown</span>'
+Comment3='
+A JavaScript port of the original Perl version of Markdown.
+'
+License='BSD'
+Screenshot=''
+Url='https://github.com/coreyti/showdown'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>atlas-3dnow</b>'
+Comment='<span size="xx-large">ATLAS libraries for 3DNow extensions</span>'
+Comment3='
+This package contains the ATLAS (Automatically Tuned Linear Algebra
+Software) libraries compiled with optimizations for the 3DNow extension
+to the ix86 architecture. Fedora also produces ATLAS build with SSE, SSE2
+and SSE3 extensions.
+'
+License='BSD'
+Screenshot=''
+Url='http://math-atlas.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-grib_api</b>'
+Comment='<span size="xx-large">GRIB API python interface</span>'
+Comment3='
+GRIB API python interface.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://software.ecmwf.int/wiki/display/GRIB/Home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

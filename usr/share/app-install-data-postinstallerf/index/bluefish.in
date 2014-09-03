@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>bluefish</b>'
+Comment='<span size="xx-large">GTK2 web development application for experienced users</span>'
+Comment3='
+Bluefish is a powerful editor for experienced web designers and programmers.
+Bluefish supports many programming and markup languages, but it focuses on
+editing dynamic and interactive websites.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://bluefish.openoffice.nl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

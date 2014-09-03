@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gettext-devel</b>'
+Comment='<span size="xx-large">Development files for gettext</span>'
+Comment3='
+This package contains all development related files necessary for
+developing or compiling applications/libraries that needs
+internationalization capability. You also need this package if you
+want to add gettext support for your project.
+
+'
+License='LGPLv2+ and GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/gettext/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>paraview-data</b>'
+Comment='<span size="xx-large">Data files for ParaView</span>'
+Comment3='
+Data files for ParaView.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.paraview.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

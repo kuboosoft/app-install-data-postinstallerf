@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>naim</b>'
+Comment='<span size="xx-large">An ncurses-based console AIM, ICQ, IRC, and Lily client</span>'
+Comment3='
+naim is a console client for AOL Instant Messenger (AIM), AOL I Seek You (ICQ),
+Internet Relay Chat (IRC), and The lily CMC.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://naim.n.ml.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

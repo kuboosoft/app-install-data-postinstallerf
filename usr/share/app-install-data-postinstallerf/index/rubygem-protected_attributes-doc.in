@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-protected_attributes-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-protected_attributes</span>'
+Comment3='
+Documentation for rubygem-protected_attributes.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/rails/protected_attributes'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

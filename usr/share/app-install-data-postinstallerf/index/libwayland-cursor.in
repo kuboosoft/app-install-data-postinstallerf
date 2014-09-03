@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwayland-cursor</b>'
+Comment='<span size="xx-large">Wayland cursor library</span>'
+Comment3='
+Wayland cursor library
+
+URL          http//wayland.freedesktop.org/
+'
+License='MIT'
+Screenshot=''
+Url='http://wayland.freedesktop.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

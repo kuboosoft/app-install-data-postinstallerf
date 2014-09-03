@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-chngcntr</b>'
+Comment='<span size="xx-large">Change the resetting of counters</span>'
+Comment3='
+Defines commands \counterwithin (which sets up a counter to be
+reset when another is incremented) and \counterwithout (which
+unsets such a relationship).
+
+date 2010-03-09 125442 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

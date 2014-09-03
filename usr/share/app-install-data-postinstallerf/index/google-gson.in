@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>google-gson</b>'
+Comment='<span size="xx-large">Java lib for conversion of Java objects into JSON representation</span>'
+Comment3='
+Gson is a Java library that can be used to convert a Java object into its
+JSON representation. It can also be used to convert a JSON string into an
+equivalent Java object. Gson can work with arbitrary Java objects including
+pre-existing objects that you do not have source-code of.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/google-gson'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

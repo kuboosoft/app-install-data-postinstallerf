@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>mlmmj</b>'
+Comment='<span size="xx-large">A simple and slim mailing list manager inspired by ezmlm</span>'
+Comment3='
+Mlmmj(Mailing List Management Made Joyful) is a simple and slim mailing list
+manager (MLM) inspired by ezmlm. It works with many different Mail Transport
+Agents (MTAs) and is simple for a system adminstrator to install, configure
+and integrate with other software. As it uses very few resources, and requires
+no daemons, it is ideal for installation on systems where resources are
+limited, such as Virtual Private Servers (VPSes).
+
+Although it doesnt aim to include every feature possible, but focuses on
+staying mean and lean, and doing what it does do well, it does have a great
+set of features, including
+'
+License='MIT'
+Screenshot=''
+Url='http://mlmmj.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

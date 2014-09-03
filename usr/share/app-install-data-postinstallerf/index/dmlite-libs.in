@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>dmlite-libs</b>'
+Comment='<span size="xx-large">Common libraries for all dmlite packages</span>'
+Comment3='
+This package provides the libraries used by dmlite components.
+
+URL          https//svnweb.cern.ch/trac/lcgdm/wiki/Dpm/Dev/Dmlite
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://svnweb.cern.ch/trac/lcgdm/wiki/Dpm/Dev/Dmlite'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

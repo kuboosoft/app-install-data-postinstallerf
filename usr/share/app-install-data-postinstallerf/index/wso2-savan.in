@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>wso2-savan</b>'
+Comment='<span size="xx-large">A C implementation of the WS-Eventing specification</span>'
+Comment3='
+Apache Savan/C is a C implementation of the WS-Eventing specification which is
+built on top of Axis2/C.  Savan/C adds WS-Eventing capability to Web services
+hosted using Axis2/C.
+
+This package is a modified version of Apache Savan/C provided by the
+developers of WSO2
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://wso2.org/library/wsf/cpp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

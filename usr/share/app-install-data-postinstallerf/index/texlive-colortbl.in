@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-colortbl</b>'
+Comment='<span size="xx-large">Add colour to LaTeX tables</span>'
+Comment3='
+The package allows rows and columns to be coloured, and even
+individual cells.
+
+date 2012-02-14 105636 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

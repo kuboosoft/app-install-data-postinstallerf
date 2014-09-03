@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>poster</b>'
+Comment='<span size="xx-large">Scales PostScript images to span multiple pages</span>'
+Comment3='
+Poster scales PostScript images to a larger size, and prints them on
+larger media and/or tiles them to print on multiple sheets.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://printing.kde.org/downloads/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

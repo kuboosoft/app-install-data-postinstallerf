@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>nitrogen</b>'
+Comment='<span size="xx-large">Background browser and setter for X windows</span>'
+Comment3='
+A background browser and setter for X windows that can be used in two
+modes browser and recall. It features Multihead and Xinerama awareness,
+a recall mode to be used in start up scripts, uses the freedesktop.org
+standard for thumbnails, can set the GNOME background, command line set
+modes for use in scripts, inotify monitoring of browse directory, lazy
+loading of thumbnails to conserve memory and an automatic set mode
+which determines the best mode to set an image based on its size.
+'
+License='GPLv2+ and zlib and CC-BY-SA'
+Screenshot=''
+Url='http://projects.l3ib.org/nitrogen/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

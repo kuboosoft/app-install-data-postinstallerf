@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-passenger-native</b>'
+Comment='<span size="xx-large">Phusion Passenger native extensions</span>'
+Comment3='
+This package contains the native code extensions for Apache & Nginx
+Phusion Passenger? bindings.
+'
+License='Boost and BSD and BSD with advertising and MIT and zlib'
+Screenshot=''
+Url='http://www.modrails.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

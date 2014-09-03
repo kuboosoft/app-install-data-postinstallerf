@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>jimtcl</b>'
+Comment='<span size="xx-large">A small embeddable Tcl interpreter</span>'
+Comment3='
+Jim is an opensource small-footprint implementation of the Tcl programming
+language. It implements a large subset of Tcl and adds new features like
+references with garbage collection, closures, built-in Object Oriented
+Programming system, Functional Programming commands, first-class arrays and
+UTF-8 support.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://jim.tcl.tk'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-chembst</b>'
+Comment='<span size="xx-large">A collection of BibTeX files for chemistry journals</span>'
+Comment3='
+The package offers a collection of advanced BibTeX style files
+suitable for publications in chemistry journals. Currently,
+style files for journals published by the American Chemical
+Society, Wiley-VCH and The Royal Society of Chemistry are
+available. The style files support advanced features such as
+automatic formatting of errata or creating an appropriate entry
+for publications in Angewandte Chemie where both English and
+German should be cited simultaneously.
+
+date 2008-09-20 133626 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

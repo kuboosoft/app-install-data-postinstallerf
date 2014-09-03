@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gdl-common</b>'
+Comment='<span size="xx-large">Common files for GDL</span>'
+Comment3='
+Common files for GDL
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gnudatalanguage.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

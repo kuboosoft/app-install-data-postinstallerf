@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>rubygem-rake-compiler</b>'
+Comment='<span size="xx-large">Rake-based Ruby C Extension task generator</span>'
+Comment3='
+rake-compiler aims to help Gem developers while dealing with
+Ruby C extensions, simplifiying the code and reducing the duplication.
+
+It follows *convention over configuration* and set an standarized
+structure to build and package C extensions in your gems.
+This is the result of expriences dealing with several Gems
+that required native extensions across platforms and different
+user configurations where details like portability and
+clarity of code were lacking.
+'
+License='MIT'
+Screenshot=''
+Url='http://rake-compiler.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

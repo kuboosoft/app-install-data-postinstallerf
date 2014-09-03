@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>msr-tools</b>'
+Comment='<span size="xx-large">Collection of tools for reading/writing CPU model specific registers.</span>'
+Comment3='
+This is a small collection of tools to allow reading and writing
+of CPU model specific registers
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kernel.org/pub/linux/utils/cpu/msr-tools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

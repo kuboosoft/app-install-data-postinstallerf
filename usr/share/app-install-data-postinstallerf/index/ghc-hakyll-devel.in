@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-hakyll-devel</b>'
+Comment='<span size="xx-large">Haskell hakyll library development files</span>'
+Comment3='
+This package provides the Haskell hakyll library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/hakyll'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>tiresias-info-z-fonts</b>'
+Comment='<span size="xx-large">Specialized fonts for info terminals for the visually impaired</span>'
+Comment3='
+
+The Tiresias family of fonts has been designed for use in multiple environments
+to help improve legibility, especially for individuals with visual impairment.
+It includes specialized fonts for information labels, control labels (for key
+tops), large print publications, computer systems, television subtitling, and
+signs.
+The Infofont Z family is specialized for use in informational labels on public
+terminals such as ATMs using large characters. The only difference between the
+Infofont Z and the Infofont families is whether the zero is crossed out or not.
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://www.tiresias.org/fonts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

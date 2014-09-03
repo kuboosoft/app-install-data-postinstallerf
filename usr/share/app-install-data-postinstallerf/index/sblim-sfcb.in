@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>sblim-sfcb</b>'
+Comment='<span size="xx-large">Small Footprint CIM Broker</span>'
+Comment3='
+Small Footprint CIM Broker (sfcb) is a CIM server conforming to the
+CIM Operations over HTTP protocol.
+It is robust, with low resource consumption and therefore specifically
+suited for embedded and resource constrained environments.
+sfcb supports providers written against the Common Manageability
+Programming Interface (CMPI).
+'
+License='EPL'
+Screenshot=''
+Url='http://sblim.wiki.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

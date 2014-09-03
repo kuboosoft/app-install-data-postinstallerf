@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-slop-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-slop</span>'
+Comment3='
+Documentation for rubygem-slop
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/injekt/slop'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

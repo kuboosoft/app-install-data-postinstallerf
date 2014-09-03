@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-ia</b>'
+Comment='<span size="xx-large">Interlingua hyphenation rules</span>'
+Comment3='
+Interlingua hyphenation rules.
+'
+License='LPPL'
+Screenshot=''
+Url='http://www.ctan.org/tex-archive/help/Catalogue/entries/iahyphen.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>qt-assistant-adp-devel</b>'
+Comment='<span size="xx-large">Development files for the compatibility QAssistantClient</span>'
+Comment3='
+This package contains the files necessary to build applications using the
+deprecated QAssistantClient class (in the deprecated QtAssistantClient library),
+which is used together with the legacy Assistant Document Profile (.adp) version
+of Qt Assistant.
+
+This class is obsolete. It is provided to keep old source code working. We
+strongly advise against using it in new code. New code should use the Qt Help
+Framework introduced in Qt 4.4 and/or the version of Qt Assistant based on it
+(also introduced in Qt 4.4) instead.
+'
+License='LGPLv2 with exceptions or GPLv3 with exceptions'
+Screenshot=''
+Url='http://qt.nokia.com/doc/4.6/qassistantclient.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

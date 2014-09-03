@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dlm</b>'
+Comment='<span size="xx-large">dlm control daemon and tool</span>'
+Comment3='
+The kernel dlm requires a user daemon to control membership.
+'
+License='GPLv2 and GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/cluster'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

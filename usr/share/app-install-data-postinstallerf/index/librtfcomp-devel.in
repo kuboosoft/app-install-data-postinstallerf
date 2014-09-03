@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>librtfcomp-devel</b>'
+Comment='<span size="xx-large">Development files for librtfcomp</span>'
+Comment3='
+The librtfcomp-devel package contains libraries and header files for
+developing applications that use librtfcomp.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.synce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

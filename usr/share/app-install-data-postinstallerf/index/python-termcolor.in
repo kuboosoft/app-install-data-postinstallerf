@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-termcolor</b>'
+Comment='<span size="xx-large">ANSII Color formatting for output in terminal</span>'
+Comment3='
+ANSII Color formatting for output in terminal.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/termcolor/1.1.0'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

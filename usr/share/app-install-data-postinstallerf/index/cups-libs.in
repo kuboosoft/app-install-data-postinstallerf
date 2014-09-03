@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>cups-libs</b>'
+Comment='<span size="xx-large">CUPS printing system - libraries</span>'
+Comment3='
+CUPS printing system provides a portable printing layer for
+UNIX? operating systems. It has been developed by Apple Inc.
+to promote a standard printing solution for all UNIX vendors and users.
+CUPS provides the System V and Berkeley command-line interfaces.
+The cups-libs package provides libraries used by applications to use CUPS
+natively, without needing the lp/lpr commands.
+
+'
+License='LGPLv2 and zlib'
+Screenshot=''
+Url='http://www.cups.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

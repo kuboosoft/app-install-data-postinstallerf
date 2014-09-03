@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Package-DeprecationManager</b>'
+Comment='<span size="xx-large">Manage deprecation warnings for your distribution</span>'
+Comment3='
+This module allows you to manage a set of deprecations for one or more modules.
+
+When you import PackageDeprecationManager, you must provide a set of
+-deprecations as a hash ref. The keys are "feature" names, and the values are
+the version when that feature was deprecated.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://search.cpan.org/dist/Package-DeprecationManager/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

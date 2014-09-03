@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Locale-Maketext-Simple</b>'
+Comment='<span size="xx-large">Simple interface to Locale::Maketext::Lexicon</span>'
+Comment3='
+This module is a simple wrapper around LocaleMaketextLexicon, designed
+to alleviate the need of creating Language Classes for module authors.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.perl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

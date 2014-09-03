@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>seam-conversation-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for seam-conversation</span>'
+Comment3='
+This package contains javadoc for seam-conversation.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.seamframework.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>community-mysql-test</b>'
+Comment='<span size="xx-large">The test suite distributed with MySQL</span>'
+Comment3='
+MySQL is a multi-user, multi-threaded SQL database server. This
+package contains the regression test suite distributed with
+the MySQL sources.
+'
+License='GPLv2 with exceptions and LGPLv2 and BSD'
+Screenshot=''
+Url='http://www.mysql.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

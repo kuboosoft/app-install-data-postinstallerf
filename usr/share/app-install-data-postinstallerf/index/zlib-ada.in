@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>zlib-ada</b>'
+Comment='<span size="xx-large">Zlib for Ada</span>'
+Comment3='
+Zlib-Ada is a thick Ada binding to the popular compression/decompression
+library Zlib.
+
+'
+License='GPLv3+ with exceptions'
+Screenshot=''
+Url='http://zlib-ada.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

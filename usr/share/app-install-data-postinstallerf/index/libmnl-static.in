@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmnl-static</b>'
+Comment='<span size="xx-large">Static development files for libmnl</span>'
+Comment3='
+The libmnl-static package contains static libraries for devleoping applications that use libmnl.
+
+URL          http//netfilter.org/projects/libmnl
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://netfilter.org/projects/libmnl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>ocaml-pa-do</b>'
+Comment='<span size="xx-large">OCaml syntax extension for delimited overloading</span>'
+Comment3='
+A syntax extension to ease the writing of efficient arithmetic
+expressions in OCaml.
+
+This package contains three syntax extensions.
+- pa_infix
+- pa_do (includes Delimited_overloading, Macros)
+- pa_do_nums
+'
+License='LGPLv2+ with exceptions'
+Screenshot=''
+Url='http://forge.ocamlcore.org/projects/pa-do/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

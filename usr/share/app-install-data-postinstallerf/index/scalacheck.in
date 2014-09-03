@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>scalacheck</b>'
+Comment='<span size="xx-large">property-based testing for Scala</span>'
+Comment3='
+
+ScalaCheck is a library written in Scala and used for automated
+property-based testing of Scala or Java programs. ScalaCheck was
+originally inspired by the Haskell library QuickCheck, but has also
+ventured into its own.
+ScalaCheck has no external dependencies other than the Scala runtime,
+and works great with sbt, the Scala build tool. It is also fully
+integrated in the test frameworks ScalaTest and specs2. You can of
+course also use ScalaCheck completely standalone, with its built-in
+'
+License='BSD'
+Screenshot=''
+Url='http://www.scalacheck.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nagios-common</b>'
+Comment='<span size="xx-large">Provides common directories, uid and gid among nagios-related packages</span>'
+Comment3='
+Provides common directories, uid and gid among nagios-related packages.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nagios.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

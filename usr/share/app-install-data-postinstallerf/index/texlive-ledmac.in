@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-ledmac</b>'
+Comment='<span size="xx-large">Typeset scholarly editions</span>'
+Comment3='
+A macro package for typesetting scholarly critical editions.
+The ledmac package is a LaTeX port of the plain TeX EDMAC
+macros. It supports indexing by page and line number and simple
+tabular- and array-style environments. The package is
+distributed with the related ledpar and ledarab packages. The
+package is now superseded by eledmac.
+
+date 2013-06-15 005755 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

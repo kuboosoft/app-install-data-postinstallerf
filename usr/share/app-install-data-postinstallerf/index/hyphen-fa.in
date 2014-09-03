@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hyphen-fa</b>'
+Comment='<span size="xx-large">Farsi hyphenation rules</span>'
+Comment3='
+Farsi hyphenation rules.
+'
+License='LPPL'
+Screenshot=''
+Url='http://www.ctan.org/tex-archive/language/hyphenation/fahyph'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

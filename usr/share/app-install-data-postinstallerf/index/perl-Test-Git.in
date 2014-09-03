@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Test-Git</b>'
+Comment='<span size="xx-large">Helper functions for test scripts using Git</span>'
+Comment3='
+TestGit provides a number of helpful functions when running test scripts that
+require the creation and management of a Git repository.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Git-Repository/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

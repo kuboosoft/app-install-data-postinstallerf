@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python3-zc-customdoctests</b>'
+Comment='<span size="xx-large">Use doctest with other languages</span>'
+Comment3='
+doctest (and recently manuel) provide hooks for using custom doctest
+parsers.  `zc.customdoctests` helps to leverage this to support other
+languages, such as JavaScript
+
+js> function double (x) { ...     return x*2; ... } js> double(2) 4
+And with manuel, it facilitates doctests that mix multiple languages,
+such as Python, JavaScript, and sh.
+'
+License='ZPLv2.1'
+Screenshot=''
+Url='http://pypi.python.org/pypi/zc.customdoctests'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>polkit-qt</b>'
+Comment='<span size="xx-large">Qt bindings for PolicyKit</span>'
+Comment3='
+Polkit-qt is a library that lets developers use the PolicyKit API
+through a nice Qt-styled API.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kdesupport/polkit-qt-1'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

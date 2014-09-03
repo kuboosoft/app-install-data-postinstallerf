@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>log4net</b>'
+Comment='<span size="xx-large">A .NET framework for logging</span>'
+Comment3='
+log4net is a tool to help the programmer output log statements to a
+variety of output targets. log4net is a port of the excellent log4j
+framework to the .NET runtime
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://logging.apache.org/log4net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

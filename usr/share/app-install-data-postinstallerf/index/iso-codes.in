@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>iso-codes</b>'
+Comment='<span size="xx-large">ISO code lists and translations</span>'
+Comment3='
+This package provides the ISO 639 Language code list, the ISO 4217
+Currency code list, the ISO 3166 Territory code list, and ISO 3166-2
+sub-territory lists, and all their translations in gettext format.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://alioth.debian.org/projects/pkg-isocodes/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

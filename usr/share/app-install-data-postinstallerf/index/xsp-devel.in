@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xsp-devel</b>'
+Comment='<span size="xx-large">Development files for xsp</span>'
+Comment3='
+Development files for xsp
+
+URL          http//www.mono-project.com/Main_Page
+'
+License='MIT'
+Screenshot=''
+Url='http://www.mono-project.com/Main_Page'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

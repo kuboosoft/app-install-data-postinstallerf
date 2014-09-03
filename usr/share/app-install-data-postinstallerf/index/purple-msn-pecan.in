@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>purple-msn-pecan</b>'
+Comment='<span size="xx-large">Alternative MSN protocol plug-in for lib-purple</span>'
+Comment3='
+The project aims to have a much faster development process, low barrier for
+contributions, and close contact with the user-base.
+
+Compared to Pidgins official MSN plug-in
+	* Faster log-in
+	* Fewer connection issues
+	* Fewer crashes
+	* Experimental direct connection support (fast file transfers)
+	* Server-side storage for display names (private alias)
+	* Support for handwritten messages (read-only)
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/msn-pecan/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

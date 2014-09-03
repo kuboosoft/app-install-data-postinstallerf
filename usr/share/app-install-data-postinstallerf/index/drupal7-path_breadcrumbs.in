@@ -1,0 +1,26 @@
+#!/bin/sh
+Name='<b>drupal7-path_breadcrumbs</b>'
+Comment='<span size="xx-large">Allows creation of custom breadcrumbs for any page using contexts</span>'
+Comment3='
+Path breadcrumbs module helps you to create breadcrumbs for any page with any
+selection rules and load any entity from the URL.
+
+Features
+* Breadcrumbs navigation may be added to any kind of page static
+  (example node/1) or dynamic (example node/NID).
+* You can load contexts from URL and use it like tokens for breadcrumb path or
+  title.
+* You can use selection rules for every breadcrumbs navigation.
+* Supports ALL tokens from Entity tokens module (part of Entity module).
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/path_breadcrumbs'
+selection rules and load any entity from the URL.'
+* You can load contexts from URL and use it like tokens for breadcrumb path or'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

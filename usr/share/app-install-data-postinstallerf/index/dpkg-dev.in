@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>dpkg-dev</b>'
+Comment='<span size="xx-large">Debian package development tools</span>'
+Comment3='
+This package provides the development tools (including dpkg-source).
+Required to unpack, build and upload Debian source packages
+'
+License='GPLv2 and GPLv2+ and LGPLv2+ and Public Domain and BSD'
+Screenshot=''
+Url='http://packages.debian.org/unstable/admin/dpkg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

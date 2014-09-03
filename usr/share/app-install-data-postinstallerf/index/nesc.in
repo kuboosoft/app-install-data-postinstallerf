@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nesc</b>'
+Comment='<span size="xx-large">Compiler used by TinyOS</span>'
+Comment3='
+The nesC language was designed to support the TinyOS project.
+nesC provides several advantages over C a component model based
+on bi-directional interfaces, whole-program compilation for
+performance and a simple concurrency model for embedded systems.
+'
+License='GPLv2 and (GPLv2 or BSD)'
+Screenshot=''
+Url='http://nescc.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-optparse-applicative-devel</b>'
+Comment='<span size="xx-large">Haskell optparse-applicative library development files</span>'
+Comment3='
+This package provides the Haskell optparse-applicative library development
+files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/optparse-applicative'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

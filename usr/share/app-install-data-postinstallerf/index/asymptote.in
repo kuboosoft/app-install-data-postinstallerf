@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>asymptote</b>'
+Comment='<span size="xx-large">Descriptive vector graphics language</span>'
+Comment3='
+Asymptote is a powerful descriptive vector graphics language for technical
+drawings, inspired by MetaPost but with an improved C++-like syntax.
+Asymptote provides for figures the same high-quality level of typesetting
+that LaTeX does for scientific text.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://asymptote.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

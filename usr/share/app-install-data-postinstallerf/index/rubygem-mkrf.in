@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rubygem-mkrf</b>'
+Comment='<span size="xx-large">Making C extensions for Ruby a bit easier</span>'
+Comment3='
+mkrf is a library for generating Rakefiles to build Ruby
+extension modules written in C. It is intended as a replacement for
+mkmf. The major difference between the two is that mkrf
+builds you a Rakefile instead of a Makefile.
+
+This proposed replacement to mkmf generates Rakefiles to build C Extensions.
+'
+License='MIT'
+Screenshot=''
+Url='http://mkrf.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

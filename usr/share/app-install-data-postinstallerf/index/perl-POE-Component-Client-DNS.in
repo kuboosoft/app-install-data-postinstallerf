@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-POE-Component-Client-DNS</b>'
+Comment='<span size="xx-large">Non-blocking/concurrent DNS queries using Net::DNS and POE</span>'
+Comment3='
+POEComponentClientDNS provides a facility for non-blocking, concurrent
+DNS requests. Using POE, it allows other tasks to run while waiting for name
+servers to respond.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/POE-Component-Client-DNS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

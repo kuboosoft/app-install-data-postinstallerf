@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>php-ZendFramework-Search-Lucene</b>'
+Comment='<span size="xx-large">Apache Lucene engine PHP port</span>'
+Comment3='
+The Apache Lucene engine is a powerful, feature-rich Java search engine that is
+flexible about document storage and supports many complex query
+types. Zend_Search_Lucene is a port of this engine written entirely in PHP 5.
+
+* allows PHP-powered websites to leverage powerful search capabilities without
+  the need for web services or Java
+* provides binary compatibility with Apache Lucene
+* matches Apache Lucene in performance
+'
+License='BSD'
+Screenshot=''
+Url='http://framework.zend.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

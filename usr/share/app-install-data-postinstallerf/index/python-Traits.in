@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-Traits</b>'
+Comment='<span size="xx-large">Explicitly typed attributes for Python</span>'
+Comment3='
+The traits package developed by Enthought provides a special type
+definition called a trait. Although they can be used as normal Python object
+attributes, traits also have several additional characteristics
+
+* Initialization A trait can be assigned a default value.
+* Validation A trait attributes type can be explicitly declared.
+* Delegation The value of a trait attribute can be contained either
+  in another object.
+* Notification Setting the value of a trait attribute can trigger
+  notification of other parts of the program.
+'
+License='BSD and EPL and LGPLv2 and GPLv2+'
+Screenshot=''
+Url='http://code.enthought.com/projects/traits/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ocaml-xml-light</b>'
+Comment='<span size="xx-large">Minimal XML parser and printer for OCaml</span>'
+Comment3='
+Xml-Light is a minimal XML parser & printer for OCaml. It provides
+functions to parse an XML document into an OCaml data structure, work
+with it, and print it back to an XML document. It support also DTD
+parsing and checking, and is entirely written in OCaml, hence it does
+not require additional C library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://tech.motion-twin.com/xmllight.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>valabind</b>'
+Comment='<span size="xx-large">Transform vala or vapi files into swig, C++, NodeJS-ffi, or GIR</span>'
+Comment3='
+Valabind is a tool to parse vala[1] or vapi files to transform them
+into swig[2] interface files, C++, NodeJS-ffi or GIR.  With swig, you
+can create language bindings for any API written in vala or C with a
+vapi interface.  It can also generate bindings for C++.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/radare/valabind'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

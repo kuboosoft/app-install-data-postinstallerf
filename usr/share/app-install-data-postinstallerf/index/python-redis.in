@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-redis</b>'
+Comment='<span size="xx-large">Python 2 client for redis</span>'
+Comment3='
+This is a Python 2 interface to the Redis key-value store.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/andymccurdy/redis-py'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

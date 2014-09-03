@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>ghc-cautious-file</b>'
+Comment='<span size="xx-large">Write files cautiously</span>'
+Comment3='
+Ways to write a file cautiously, to reduce the chances of problems
+such as data loss due to crashes or power failures. If the posix flag
+is enabled, posix-specific functions are used to reduce the chance of
+data loss further.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/cautious-file'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

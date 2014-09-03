@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rep-gtk</b>'
+Comment='<span size="xx-large">GTK+ binding for librep Lisp environment</span>'
+Comment3='
+This is a binding of GTK+ for the librep Lisp interpreter. It is based
+on Marius Vollmers guile-gtk package (initially version 0.15, updated
+to 0.17), with a new glue-code generator.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://sawfish.wikia.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

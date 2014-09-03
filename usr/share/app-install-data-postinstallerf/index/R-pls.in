@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>R-pls</b>'
+Comment='<span size="xx-large">Multivariate regression by PLSR and PCR</span>'
+Comment3='
+Multivariate regression by partial least squares regression (PLSR)
+and principal component regression (PCR)
+'
+License='GPLv2'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/pls/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

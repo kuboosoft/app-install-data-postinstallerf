@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>python-fedora-turbogears2</b>'
+Comment='<span size="xx-large">Python modules for TurboGears applications in Fedora Infrastructure</span>'
+Comment3='
+Python modules that help with building Fedora Services.  This package includes
+middleware for protecting against CSRF attacks, repoze.who authenticators for
+logging in to TurboGears2 services based on account information lp build
+CSRF-protected login forms, and miscellaneous other helper functions for
+TurboGears2 applications.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://fedorahosted.org/python-fedora/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

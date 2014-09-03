@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-zipstream</b>'
+Comment='<span size="xx-large">Streaming dynamic zip from PHP without writing to the disk</span>'
+Comment3='
+ZipStream is a library for dynamically streaming dynamic zip files from PHP
+without writing to the disk at all on the server.
+'
+License='MIT'
+Screenshot=''
+Url='http://pablotron.org/software/zipstream-php/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

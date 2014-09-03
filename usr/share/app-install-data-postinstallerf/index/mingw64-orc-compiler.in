@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-orc-compiler</b>'
+Comment='<span size="xx-large">Orc compiler</span>'
+Comment3='
+The Orc compiler, to produce optimized code.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.entropywave.com/projects/orc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

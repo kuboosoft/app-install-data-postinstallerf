@@ -1,0 +1,14 @@
+[Desktop Entry]
+Exec=postinstaller -n qasconfig
+Type=Application
+Name=QasConfig
+GenericName=ALSA configuration
+GenericName[de]=ALSA-Konfiguration
+Icon=/usr/share/app-install-data-postinstallerf/icons/qasconfig.png
+StartupNotify=false
+Terminal=false
+Categories=AudioVideo;Audio;Mixer
+Comment=ALSA configuration browser
+Comment[cs]=Prohlížeč nastavení ALSA
+Comment[de]=ALSA-Konfigurationsbetrachter
+Comment[ru]=Просмотрщик конфигурации звуковой системы ALSA

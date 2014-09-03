@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xorg-x11-glamor-devel</b>'
+Comment='<span size="xx-large">X.org glamor renderer development package</span>'
+Comment3='
+X.org glamor development package
+
+URL          http//www.freedesktop.org/wiki/Software/Glamor
+'
+License='MIT'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Software/Glamor'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

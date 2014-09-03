@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>geronimo-jpa</b>'
+Comment='<span size="xx-large">Java persistence API implementation</span>'
+Comment3='
+The Java Persistence API is a new programming model under EJB 3.0
+specification (JSR220) for the management of persistence and
+object/relational mapping with Java EE and Java SE. Geronimo JPA is
+one implementation of this specification.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://geronimo.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

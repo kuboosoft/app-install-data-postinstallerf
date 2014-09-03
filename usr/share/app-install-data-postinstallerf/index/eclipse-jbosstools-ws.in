@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>eclipse-jbosstools-ws</b>'
+Comment='<span size="xx-large">JBoss WebServices Tools and JBoss JAX-RS Tools</span>'
+Comment3='
+JBoss WebServices Tools provides wizards for working with webservices
+and a webservice tester view to test out both SOAP and REST services.
+
+JBoss JAX-RS Tools provides a common navigator to browse and introspect
+your JAX-RS endpoints and provide validation for JAX-RS annotations, such
+as checking that parameters referenced by name actually also are declared.
+'
+License='EPL and LGPLv2+ and ASL 2.0'
+Screenshot=''
+Url='http://www.jboss.org/tools.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

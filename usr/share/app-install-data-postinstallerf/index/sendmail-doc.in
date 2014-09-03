@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>sendmail-doc</b>'
+Comment='<span size="xx-large">Documentation about the Sendmail Mail Transport Agent program</span>'
+Comment3='
+This package contains the Sendmail Installation and Operation Guide (PDF),
+text files containing configuration documentation, plus a number of
+contributed scripts and tools for use with Sendmail.
+'
+License='Sendmail'
+Screenshot=''
+Url='http://www.sendmail.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

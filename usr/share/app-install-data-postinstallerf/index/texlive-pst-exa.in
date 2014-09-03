@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pst-exa</b>'
+Comment='<span size="xx-large">Typeset PSTricks examples, with code</span>'
+Comment3='
+The (PSTricks-related) package provides an environment
+PSTexample to put code and output side by side or one above the
+other.
+
+date 2011-04-14 195522 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>voms-doc</b>'
+Comment='<span size="xx-large">Virtual Organization Membership Service Documentation</span>'
+Comment3='
+Documentation for the Virtual Organization Membership Service.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://wiki.italiangrid.it/VOMS'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

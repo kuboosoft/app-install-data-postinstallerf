@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-cookie-signature</b>'
+Comment='<span size="xx-large">Node.js module to sign and unsign cookies</span>'
+Comment3='
+Node.js module to sign and unsign cookies.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/visionmedia/node-cookie-signature'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>packstack-modules-puppet</b>'
+Comment='<span size="xx-large">Set of Puppet modules for OpenStack</span>'
+Comment3='
+Set of Puppet modules used by Packstack to install OpenStack
+'
+License='ASL 2.0 and GPLv2'
+Screenshot=''
+Url='https://github.com/stackforge/packstack'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

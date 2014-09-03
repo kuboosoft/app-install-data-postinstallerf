@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>axiom</b>'
+Comment='<span size="xx-large">Axis Object Model</span>'
+Comment3='
+AXIOM stands for AXis Object Model (also known as OM - Object Model)
+and refers to the XML info-set model that was initially developed for
+Apache Axis2.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://ws.apache.org/commons/axiom/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

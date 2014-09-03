@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygem-io-console</b>'
+Comment='<span size="xx-large">IO/Console is a simple console utilizing library</span>'
+Comment3='
+IO/Console provides very simple and portable access to console. It doesnt
+provide higher layer features, such like curses and readline.
+'
+License='(Ruby or BSD) and Public Domain'
+Screenshot=''
+Url='http://ruby-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

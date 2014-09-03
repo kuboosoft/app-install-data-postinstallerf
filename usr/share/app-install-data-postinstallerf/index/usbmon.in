@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>usbmon</b>'
+Comment='<span size="xx-large">A basic front-end to usbmon</span>'
+Comment3='
+The usbmon program collects and prints a trace of USB transactions as they
+occur between the USB core and HCDs. Analyzing the trace helps to debug the
+kernel USB stack, device firmware, and applications.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://people.redhat.com/zaitcev/linux/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

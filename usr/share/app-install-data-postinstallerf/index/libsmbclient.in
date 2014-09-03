@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libsmbclient</b>'
+Comment='<span size="xx-large">The SMB client library</span>'
+Comment3='
+The libsmbclient contains the SMB client library from the Samba suite.
+
+URL          http//www.samba.org/
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nagios-plugins-ldap</b>'
+Comment='<span size="xx-large">Nagios Plugin - check_ldap</span>'
+Comment3='
+Provides check_ldap support for Nagios.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://nagiosplug.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

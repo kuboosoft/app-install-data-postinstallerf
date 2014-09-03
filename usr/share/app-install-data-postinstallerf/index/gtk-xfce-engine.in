@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gtk-xfce-engine</b>'
+Comment='<span size="xx-large">Xfce GTK theme engine</span>'
+Comment3='
+This package includes the Xfce GTK theme engine with various different themes.
+
+URL          http//www.xfce.org/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.xfce.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

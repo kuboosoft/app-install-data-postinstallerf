@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libquadmath-devel</b>'
+Comment='<span size="xx-large">GCC __float128 support</span>'
+Comment3='
+This package contains headers for building Fortran programs using
+REAL*16 and programs using __float128 math.
+
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>im-chooser-xfce</b>'
+Comment='<span size="xx-large">XFCE settings panel for im-chooser</span>'
+Comment3='
+im-chooser is a GUI configuration tool to choose the Input Method
+to be used or disable Input Method usage on the desktop.
+
+This package contains the XFCE settings panel for im-chooser.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/im-chooser/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

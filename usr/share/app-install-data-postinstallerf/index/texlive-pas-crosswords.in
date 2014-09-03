@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-pas-crosswords</b>'
+Comment='<span size="xx-large">Creating crossword grids, using TikZ</span>'
+Comment3='
+The package produces crossword grids, using a wide variety of
+colours and decorations of the grids and the text in them. The
+package uses TikZ for its graphical output.
+
+date 2013-12-03 152855 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

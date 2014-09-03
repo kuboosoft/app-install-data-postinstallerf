@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gscan2pdf</b>'
+Comment='<span size="xx-large">GUI for producing a multipage PDF from a scan</span>'
+Comment3='
+A GUI to ease the process of producing a multipage PDF from a scan.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://gscan2pdf.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

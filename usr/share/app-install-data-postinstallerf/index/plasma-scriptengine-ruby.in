@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>plasma-scriptengine-ruby</b>'
+Comment='<span size="xx-large">Plasma scriptengine for ruby</span>'
+Comment3='
+Plasma scriptengine for ruby.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kde-workspace'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

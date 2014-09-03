@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>tofrodos</b>'
+Comment='<span size="xx-large">Converts text files between MSDOS and Unix file formats</span>'
+Comment3='
+Tofrodos is a text file conversion utility that converts ASCII and Unicode
+UTF-8 files between the MSDOS (or Windows) format, which traditionally have
+CR/LF (carriage return/line feed) pairs as their new line delimiters, and
+the Unix format, which usually have LFs (line feeds) to terminate each line.
+
+It is a useful utility to have around when you have to convert files between
+MSDOS (or Windows) and Unix/Linux/BSD (and her clones and variants). It comes
+standard with a number of systems and is often found on the system as "todos",
+"fromdos", "dos2unix" and "unix2dos".
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.thefreecountry.com/tofrodos/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

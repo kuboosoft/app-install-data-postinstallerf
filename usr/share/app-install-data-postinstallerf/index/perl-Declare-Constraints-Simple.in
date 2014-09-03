@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Declare-Constraints-Simple</b>'
+Comment='<span size="xx-large">Declarative Validation of Data Structures</span>'
+Comment3='
+The main purpose of this module is to provide an easy way to build a
+profile to validate a data structure. It does this by giving you a set of
+declarative keywords in the importing namespace.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Declare-Constraints-Simple/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

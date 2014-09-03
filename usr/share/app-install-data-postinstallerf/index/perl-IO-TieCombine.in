@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-IO-TieCombine</b>'
+Comment='<span size="xx-large">Produce tied (and other) separate but combined variables</span>'
+Comment3='
+This package allows you to tie separate variables into a combined whole, using
+ties and other magic.  This can be very useful when, say, you want a unified
+output from various different things that return data in different ways
+(STDIN/ERR, scalars, handles, etc).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/IO-TieCombine'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

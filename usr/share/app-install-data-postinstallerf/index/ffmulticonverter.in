@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>ffmulticonverter</b>'
+Comment='<span size="xx-large">GUI File Format Converter</span>'
+Comment3='
+Graphical application which enables you to convert audio, video, image and
+document files between all popular formats using ffmpeg, unoconv, and
+ImageMagick.
+
+Features
+ - Conversions for several file formats.
+ - Very easy to use interface.
+ - Access to common conversion options.
+ - Audio/video ffmpeg-presets management.
+ - Options for saving and naming files.
+'
+License='GPLv3'
+Screenshot=''
+Url='https://sites.google.com/site/ffmulticonverter/home'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

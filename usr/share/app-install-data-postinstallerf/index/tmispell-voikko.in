@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>tmispell-voikko</b>'
+Comment='<span size="xx-large">An Ispell compatible front-end for spell-checking modules</span>'
+Comment3='
+Tmispell is an Ispell compatible front-end for spell-checking
+modules. To do the actual spell-checking for Finnish language it uses
+the spell-checking system Voikko.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://voikko.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

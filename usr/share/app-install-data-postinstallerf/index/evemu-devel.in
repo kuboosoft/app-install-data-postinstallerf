@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>evemu-devel</b>'
+Comment='<span size="xx-large">Event Device Query and Emulation Program Development Package</span>'
+Comment3='
+evemu development files.
+
+URL          http//www.freedesktop.org/wiki/Evemu
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.freedesktop.org/wiki/Evemu'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>miglayout</b>'
+Comment='<span size="xx-large">Versatile and flexible Swing and SWT layout manager</span>'
+Comment3='
+MiGLayout is a versatile SWT/Swing layout manager.  It uses String or
+API type-checked constraints to format the layout. MiGLayout can
+produce flowing, grid based, absolute (with links), grouped and
+docking layouts. MiGLayout is created to be to manually coded layouts
+what Matisse/GroupLayout is to IDE supported visual layouts.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.miglayout.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

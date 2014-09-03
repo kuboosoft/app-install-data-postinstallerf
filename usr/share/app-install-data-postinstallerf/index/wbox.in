@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>wbox</b>'
+Comment='<span size="xx-large">HTTP testing tool and configuration-less HTTP server</span>'
+Comment3='
+Wbox aims to help you having fun while testing HTTP related stuff.
+You can use it to perform many tasks, including the following.
+ * Benchmarking how much time it takes to generate content
+   for your web application.
+ * Web server and web application stressing.
+ * Testing virtual domains configuration without the need to alter
+   your local resolver.
+ * Check if your redirects are working correctly emitting
+   the right HTTP code.
+ * Test if the HTTP compression is working and if it is actually
+'
+License='BSD'
+Screenshot=''
+Url='http://www.hping.org/wbox/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

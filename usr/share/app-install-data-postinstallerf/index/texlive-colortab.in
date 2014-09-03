@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-colortab</b>'
+Comment='<span size="xx-large">Shade cells of tables and halign</span>'
+Comment3='
+Lets you shade or colour the cells in the alignment
+environments such as \halign and LaTeXs tabular and array
+environments. The colortbl or package is to be preferred today
+with LaTeX (it assures compatibility with the longtable
+package, which is no longer true with colortab); another modern
+option is the table-colouring option of the xcolor. However,
+colortab remains an adequate solution for use with Plain TeX.
+
+date 2010-09-08 112601 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

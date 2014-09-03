@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-mathexam</b>'
+Comment='<span size="xx-large">Package for typesetting exams</span>'
+Comment3='
+The package can help you typeset exams (mostly in mathematics
+and related disciplines where students are required to show
+their calculations followed by one or more short answers). It
+provides commands for inclusion of space for calculations, as
+well as commands for automatic creation of "answer spaces". In
+addition, the package will automatically create page headers
+and footers, and will let you include instructions and space
+for students to put their name.
+
+date 2008-08-22 151959 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

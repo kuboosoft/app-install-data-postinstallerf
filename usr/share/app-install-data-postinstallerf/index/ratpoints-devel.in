@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ratpoints-devel</b>'
+Comment='<span size="xx-large">Development files for ratpoints</span>'
+Comment3='
+Header and library for development with ratpoints.
+
+URL          http//www.mathe2.uni-bayreuth.de/stoll/programs/
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.mathe2.uni-bayreuth.de/stoll/programs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

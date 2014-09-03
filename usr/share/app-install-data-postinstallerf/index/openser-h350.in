@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openser-h350</b>'
+Comment='<span size="xx-large">H350 implementation</span>'
+Comment3='
+The OpenSER H350 module enables an OpenSER SIP proxy server to access SIP
+account data stored in an LDAP [RFC4510] directory  containing H.350 [H.350]
+commObjects.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.kamailio.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

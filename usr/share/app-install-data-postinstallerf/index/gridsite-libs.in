@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gridsite-libs</b>'
+Comment='<span size="xx-large">Run time libraries for mod_gridsite and gridsite-clients</span>'
+Comment3='
+GridSite was originally a web application developed for managing and formatting
+the content of the http//www.gridpp.ac.uk/ website. Over the past years it
+has grown into a set of extensions to the Apache web server and a toolkit for
+Grid credentials, GACL access control lists and HTTP(S) protocol operations.
+
+This package contains the runtime libraries.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://www.gridsite.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

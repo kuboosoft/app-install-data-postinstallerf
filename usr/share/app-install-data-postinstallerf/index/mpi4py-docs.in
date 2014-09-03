@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mpi4py-docs</b>'
+Comment='<span size="xx-large">Documentation for mpi4py</span>'
+Comment3='
+This package contains the documentation and examples for mpi4py.
+'
+License='BSD'
+Screenshot=''
+Url='http://mpi4py.scipy.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

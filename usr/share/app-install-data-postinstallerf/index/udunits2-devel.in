@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>udunits2-devel</b>'
+Comment='<span size="xx-large">Headers and libraries for udunits2</span>'
+Comment3='
+This package contains the files needed for compiling programs using
+the udunits2 library.
+
+'
+License='MIT'
+Screenshot=''
+Url='http://www.unidata.ucar.edu/software/udunits/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

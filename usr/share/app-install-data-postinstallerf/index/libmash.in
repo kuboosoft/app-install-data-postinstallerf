@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libmash</b>'
+Comment='<span size="xx-large">A library for using real 3D models within a Clutter scene</span>'
+Comment3='
+Mash is a small library for using real 3D models within a Clutter
+scene. Models can be exported from Blender or other 3D modeling
+software as PLY files and then used as actors. It also supports a
+lighting model with animatable lights.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://clutter-project.github.com/mash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

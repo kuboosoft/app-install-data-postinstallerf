@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-hyphen-interlingua</b>'
+Comment='<span size="xx-large">Interlingua hyphenation patterns</span>'
+Comment3='
+Hyphenation patterns for Interlingua in ASCII encoding.
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-autopdf</b>'
+Comment='<span size="xx-large">Conversion of graphics to pdfLaTeX-compatible formats</span>'
+Comment3='
+The package facilitates the on-the-fly conversion of various
+graphics formats to formats supported by pdfLaTeX (e.g. PDF).
+It uses a range of external programs, and therefore requires
+that the LaTeX run starts with write18 enabled.
+
+date 2013-12-10 195636 +0100
+'
+License='LPPL 1.2'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

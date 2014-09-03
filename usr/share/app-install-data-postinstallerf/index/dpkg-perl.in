@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>dpkg-perl</b>'
+Comment='<span size="xx-large">Dpkg perl modules</span>'
+Comment3='
+This package provides the perl modules used by the scripts
+in dpkg-dev. They cover a wide range of functionalities. Among them
+there are the following modules
+  - DpkgArch manipulate Debian architecture information
+  - DpkgBuildOptions parse and manipulate DEB_BUILD_OPTIONS
+  - DpkgChangelog parse Debian changelogs
+  - DpkgChecksums generate and parse checksums
+  - DpkgCompressionProcess wrapper around compression tools
+  - DpkgCompressionFileHandle transparently (de)compress files
+  - DpkgControl parse and manipulate Debian control information
+'
+License='GPLv2 and GPLv2+ and LGPLv2+ and Public Domain and BSD'
+Screenshot=''
+Url='http://packages.debian.org/unstable/admin/dpkg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

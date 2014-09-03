@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>libtevent</b>'
+Comment='<span size="xx-large">The tevent library</span>'
+Comment3='
+Tevent is an event system based on the talloc memory management library.
+Tevent has support for many event types, including timers, signals, and
+the classic file descriptor events.
+Tevent also provide helpers to deal with asynchronous code providing the
+tevent_req (Tevent Request) functions.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://tevent.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

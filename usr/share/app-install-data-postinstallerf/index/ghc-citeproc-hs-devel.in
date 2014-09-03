@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-citeproc-hs-devel</b>'
+Comment='<span size="xx-large">Haskell citeproc-hs library development files</span>'
+Comment3='
+This package provides the Haskell citeproc-hs library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/citeproc-hs'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

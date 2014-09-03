@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pypar-common</b>'
+Comment='<span size="xx-large">Common files for pypar packages</span>'
+Comment3='
+This package contains common files shared by all MPI flavors of pypar
+the license, the documentation and the examples.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/pypar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

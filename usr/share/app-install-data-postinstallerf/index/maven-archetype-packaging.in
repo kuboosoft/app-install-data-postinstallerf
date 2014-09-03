@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>maven-archetype-packaging</b>'
+Comment='<span size="xx-large">Maven Archetype packaging configuration for archetypes</span>'
+Comment3='
+Maven Archetype packaging configuration for archetypes.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://maven.apache.org/archetype/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

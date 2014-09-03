@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>oflb-notcouriersans-fonts</b>'
+Comment='<span size="xx-large">NotCourier Sans is a re-interpretation of Nimbus Mono</span>'
+Comment3='
+This is a new release of the NotCourier-sans, with its bold.
+
+NotCourier-sans is a re-interpretation of Nimbus Mono and was designed \
+in Wroclaw at the occasion of Linux Graphics Meeting (LGM 2008).For more\
+ detailed information ospublish.constantvzw.org
+'
+License='GPLv2'
+Screenshot=''
+Url='http://openfontlibrary.org/media/files/OSP/411'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

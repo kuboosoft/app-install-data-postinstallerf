@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ibus-kkc</b>'
+Comment='<span size="xx-large">Japanese Kana Kanji input method for ibus</span>'
+Comment3='
+A Japanese Kana Kanji Input Method Engine for ibus.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://bitbucket.org/libkkc'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

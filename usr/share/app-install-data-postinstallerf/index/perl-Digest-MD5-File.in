@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Digest-MD5-File</b>'
+Comment='<span size="xx-large">Perl extension for getting MD5 sums for files and URLs</span>'
+Comment3='
+Get MD5 sums for files of a given path or content of a given URL.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Digest-MD4/'
+Summary     : Perl extension for getting MD5 sums for files and URLs'
+Get MD5 sums for files of a given path or content of a given URL.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

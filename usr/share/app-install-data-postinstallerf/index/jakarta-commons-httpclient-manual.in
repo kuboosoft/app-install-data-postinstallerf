@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jakarta-commons-httpclient-manual</b>'
+Comment='<span size="xx-large">Manual for jakarta-commons-httpclient</span>'
+Comment3='
+Manual for jakarta-commons-httpclient.
+'
+License='ASL 2.0 and (ASL 2.0 or LGPLv2+)'
+Screenshot=''
+Url='http://jakarta.apache.org/commons/httpclient/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

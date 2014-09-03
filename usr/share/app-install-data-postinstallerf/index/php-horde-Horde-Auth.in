@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Auth</b>'
+Comment='<span size="xx-large">Horde Authentication API</span>'
+Comment3='
+The Horde_Auth package provides a common interface into the various
+backends for the Horde authentication system.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

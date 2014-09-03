@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gnome-shell-extension-remove-bluetooth-icon</b>'
+Comment='<span size="xx-large">A gnome-shell extension for removing the bluetooth icon</span>'
+Comment3='
+This simple extension does nothing more than to remove the bluetooth
+icon from the GNOME panel.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.affolter-engineering.ch/index.php?page=remove-bluetooth-icon'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

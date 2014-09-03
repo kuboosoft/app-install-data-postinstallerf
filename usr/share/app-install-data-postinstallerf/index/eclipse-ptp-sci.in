@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-ptp-sci</b>'
+Comment='<span size="xx-large">PTP Scalable Communication Infrastructure (SCI)</span>'
+Comment3='
+Parallel Tools Platform components that implements the Scalable Communication
+Infrastructure (SCI).
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/ptp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

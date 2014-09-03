@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libesedb</b>'
+Comment='<span size="xx-large">Library to access the Extensible Storage Engine (ESE) Database File (EDB) format</span>'
+Comment3='
+Library and tools to access the Extensible Storage Engine (ESE) Database File
+(EDB) format. ESEDB is used in may different applications like Windows Search,
+Windows Mail, Exchange, Active Directory, etc.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://code.google.com/p/libesedb/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

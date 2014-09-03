@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>minisat2-libs</b>'
+Comment='<span size="xx-large">Minimalistic SAT solver library</span>'
+Comment3='
+The MiniSat library.
+
+URL          http//minisat.se/
+'
+License='MIT'
+Screenshot=''
+Url='http://minisat.se/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>emma</b>'
+Comment='<span size="xx-large">Code Coverage Tool</span>'
+Comment3='
+EMMA is an open-source toolkit for measuring and reporting Java
+code coverage. EMMA distinguishes itself from other tools by going
+after a unique feature combination support for large-scale
+enterprise software development while keeping individual developers
+work fast and iterative.
+'
+License='CPL'
+Screenshot=''
+Url='http://emma.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

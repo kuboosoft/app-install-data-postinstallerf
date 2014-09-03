@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>hotssh</b>'
+Comment='<span size="xx-large">Secure Shell Client</span>'
+Comment3='
+HotSSH is an interface to Secure Shell, for
+GNOME and OpenSSH. It intends to be a better
+experience than simply invoking "ssh" from an
+existing terminal window.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.gnome.org/projects/hotssh'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

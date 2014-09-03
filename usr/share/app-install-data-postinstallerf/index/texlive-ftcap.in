@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-ftcap</b>'
+Comment='<span size="xx-large">Allows \caption at the beginning of a table-environment</span>'
+Comment3='
+For several reasons a \caption may be desirable at the top of a
+table environment. This package changes the table environment
+such that \abovecaptionskip and \belowcaptionskip are swapped.
+The package should also work with a non-standard table
+environment.
+
+date 2010-03-09 130551 +0100
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

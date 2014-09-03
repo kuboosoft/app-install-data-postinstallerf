@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nginx</b>'
+Comment='<span size="xx-large">A high performance web server and reverse proxy server</span>'
+Comment3='
+Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and
+IMAP protocols, with a strong focus on high concurrency, performance and low
+memory usage.
+'
+License='BSD'
+Screenshot=''
+Url='http://nginx.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

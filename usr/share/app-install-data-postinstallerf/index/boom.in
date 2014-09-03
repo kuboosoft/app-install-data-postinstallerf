@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>boom</b>'
+Comment='<span size="xx-large">Simple HTTP Load tester</span>'
+Comment3='
+Boom! is a simple command line tool to send some load to a web app.
+
+It is a script you can use to quickly smoke-test your web app
+deployment.  Boom! was specifically written to replace my Apache
+Bench usage, because I was annoyed by some bugs and some stupid
+behaviors.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/boom'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-biglm</b>'
+Comment='<span size="xx-large">Bounded memory linear and generalized linear models</span>'
+Comment3='
+Regression for data too large to fit in memory.
+'
+License='GPL+'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/biglm/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

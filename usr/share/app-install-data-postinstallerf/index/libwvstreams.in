@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libwvstreams</b>'
+Comment='<span size="xx-large">WvStreams is a network programming library written in C++</span>'
+Comment3='
+WvStreams aims to be an efficient, secure, and easy-to-use library for
+doing network applications development.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='https://code.google.com/p/wvstreams/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

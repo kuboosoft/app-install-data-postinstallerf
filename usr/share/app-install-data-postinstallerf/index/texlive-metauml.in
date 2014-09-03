@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-metauml</b>'
+Comment='<span size="xx-large">MetaPost library for typesetting UML diagrams</span>'
+Comment3='
+MetaUML is a MetaPost library for typesetting UML diagrams,
+which provides a usable, human-friendly textual notation for
+UML, offering now support for class, package, activity, state,
+and use case diagrams.
+
+date 2010-07-30 131418 +0200
+'
+License='GPL+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

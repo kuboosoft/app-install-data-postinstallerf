@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-levy</b>'
+Comment='<span size="xx-large">Fonts for typesetting classical greek</span>'
+Comment3='
+These fonts are derivatives of Kunths CM fonts. Macros for use
+with Plain TeX are included in the package; for use with LaTeX,
+see lgreek (with English documentation) or levy (with German
+documentation).
+
+date 2011-03-16 120455 +0100
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>plank</b>'
+Comment='<span size="xx-large">A port of docky to Vala</span>'
+Comment3='
+A very simple dock written in Vala.
+
+URL          http//wiki.go-docky.com/index.php?title=PlankIntroduction
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.go-docky.com/index.php?title=Plank:Introduction'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

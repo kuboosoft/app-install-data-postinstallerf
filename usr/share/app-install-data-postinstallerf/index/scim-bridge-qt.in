@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>scim-bridge-qt</b>'
+Comment='<span size="xx-large">SCIM Bridge Qt IM module</span>'
+Comment3='
+This package provides the SCIM Bridge Qt input method module.
+
+URL          http//www.scim-im.org/projects/scim_bridge
+'
+License='GPLv2+ or LGPLv2+'
+Screenshot=''
+Url='http://www.scim-im.org/projects/scim_bridge'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libcdio</b>'
+Comment='<span size="xx-large">CD-ROM input and control library</span>'
+Comment3='
+This library provides an interface for CD-ROM access. It can be used
+by applications that need OS- and device-independent access to CD-ROM
+devices.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/libcdio/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

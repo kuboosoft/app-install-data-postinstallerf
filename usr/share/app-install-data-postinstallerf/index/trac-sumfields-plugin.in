@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>trac-sumfields-plugin</b>'
+Comment='<span size="xx-large">Sums specified fields in custom queries</span>'
+Comment3='
+A trac plugin that allows you to sum fields in Trac custom queries.
+'
+License='BSD'
+Screenshot=''
+Url='http://trac-hacks.org/wiki/SumFieldsPlugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

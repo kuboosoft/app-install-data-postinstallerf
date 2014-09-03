@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>rubygem-loofah</b>'
+Comment='<span size="xx-large">Manipulate and transform HTML/XML documents and fragments</span>'
+Comment3='
+Loofah is a general library for manipulating and transforming HTML/XML
+documents and fragments. Its built on top of Nokogiri and libxml2, so
+its fast and has a nice API.
+Loofah excels at HTML sanitization (XSS prevention). It includes some
+nice HTML sanitizers, which are based on HTML5libs whitelist, so it
+most likely wont make your codes less secure.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/flavorjones/loofah'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

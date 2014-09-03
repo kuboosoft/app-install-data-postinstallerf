@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-gnomevfs</b>'
+Comment='<span size="xx-large">Ruby binding of GnomeVFS-2.0.x</span>'
+Comment3='
+Ruby/GnomeVFS is a Ruby binding of GnomeVFS-2.0.x.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

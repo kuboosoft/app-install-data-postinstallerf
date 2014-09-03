@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ImageMagick-djvu</b>'
+Comment='<span size="xx-large">DjVu plugin for ImageMagick</span>'
+Comment3='
+This packages contains a plugin for ImageMagick which makes it possible to
+save and load DjvU files from ImageMagick and libMagickCore using applications.
+'
+License='ImageMagick'
+Screenshot=''
+Url='http://www.imagemagick.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

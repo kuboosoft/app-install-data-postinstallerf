@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>php-pecl-event</b>'
+Comment='<span size="xx-large">Provides interface to libevent library</span>'
+Comment3='
+This is an extension to efficiently schedule I/O, time and signal based
+events using the best I/O notification mechanism available for specific
+platform. This is a port of libevent to the PHP infrastructure.
+
+* new OO API breaking backwards compatibility
+* support of libevent 2+ including HTTP, DNS, OpenSSL and the event listener.
+'
+License='PHP'
+Screenshot=''
+Url='http://pecl.php.net/package/event'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

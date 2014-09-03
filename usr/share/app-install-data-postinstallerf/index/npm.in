@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>npm</b>'
+Comment='<span size="xx-large">Node.js Package Manager</span>'
+Comment3='
+npm is a package manager for node.js. You can use it to install and publish your
+node programs. It manages dependencies and does other cool stuff.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://npmjs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

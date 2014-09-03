@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>msv-demo</b>'
+Comment='<span size="xx-large">Samples for Multi-Schema Validator</span>'
+Comment3='
+Samples for Multi-Schema Validator.
+'
+License='BSD'
+Screenshot=''
+Url='http://msv.java.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>python-pebl</b>'
+Comment='<span size="xx-large">PEBL: Python Environment for Bayesian Learning</span>'
+Comment3='
+Pebl is a python library and command line application for learning the
+structure of a Bayesian network given prior knowledge and observations.
+Pebl includes the following features
+- can learn with observational and interventional data
+- handles missing values and hidden variables using exact and heuristic methods
+- provides several learning algorithms; makes creating new ones simple
+- has facilities for transparent parallel execution using several cluster/grid
+resources
+- calculates edge marginals and consensus networks
+- presents results in a variety of formats
+'
+License='MIT'
+Screenshot=''
+Url='http://code.google.com/p/pebl-project/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

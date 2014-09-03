@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ghc-data-inttrie-devel</b>'
+Comment='<span size="xx-large">Haskell data-inttrie library development files</span>'
+Comment3='
+This package provides the Haskell data-inttrie library development files.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/data-inttrie'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

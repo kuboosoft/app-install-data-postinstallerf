@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-bhcexam</b>'
+Comment='<span size="xx-large">A LaTeX document class specially designed for High School Math Teachers in China</span>'
+Comment3='
+A LaTeX document class based on the exam class, which is
+specially designed for High School Math Teachers in China.
+
+date 2011-07-31 153723 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

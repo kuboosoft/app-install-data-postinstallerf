@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>cglib-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for cglib</span>'
+Comment3='
+Documentation for the cglib code generation library.
+'
+License='ASL 2.0 and BSD'
+Screenshot=''
+Url='http://cglib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

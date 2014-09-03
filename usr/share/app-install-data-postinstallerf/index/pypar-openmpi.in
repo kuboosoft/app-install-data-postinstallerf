@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>pypar-openmpi</b>'
+Comment='<span size="xx-large">Parallel programming with Python, Open MPI version</span>'
+Comment3='
+Pypar is an efficient but easy-to-use module that allows programs written in
+Python to run in parallel on multiple processors and communicate using message
+passing. Pypar provides bindings to a subset of the message passing interface
+standard MPI.
+
+This package contains pypar compiled against Open MPI.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/pypar/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

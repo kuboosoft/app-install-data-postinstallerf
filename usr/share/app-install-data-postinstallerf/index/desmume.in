@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>desmume</b>'
+Comment='<span size="xx-large">A Nintendo DS emulator</span>'
+Comment3='
+DeSmuME is a Nintendo DS emulator running homebrew demos and commercial games.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://desmume.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

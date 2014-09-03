@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>python-repoze-who-testutil</b>'
+Comment='<span size="xx-large">Test utilities for repoze.who-powered applications</span>'
+Comment3='
+repoze.who-testutil is a repoze.who plugin which modifies repoze.who?s
+original middleware to make it easier to forge authentication, without
+bypassing identification (this is, running the metadata providers).
+It?s been created in order to ease testing of repoze.who-powered
+applications, in a way independent of the identifiers, authenticators
+and challengers used originally by your application, so that you won?t have
+to update your test suite as your application grows and the authentication
+method changes.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.gustavonarea.net/repoze.who-testutil/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

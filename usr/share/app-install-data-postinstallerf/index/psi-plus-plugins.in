@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>psi-plus-plugins</b>'
+Comment='<span size="xx-large">Plugins pack for Psi+</span>'
+Comment3='
+Psi+ - Psi IM Mod by psi-dev@conference.jabber.ru
+
+ * Attention Plugin
+This plugin is designed to send and receive special messages such as
+Attentions.
+ * Autoreply Plugin
+This plugin acts as an auto-answering machine.
+ * Birthday Reminder Plugin
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/psi-dev/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

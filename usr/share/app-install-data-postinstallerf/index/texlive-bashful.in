@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-bashful</b>'
+Comment='<span size="xx-large">Invoke bash commands from within LaTeX</span>'
+Comment3='
+The package makes it possible to execute Unix bash shell
+scripts from within LaTeX. The main application is in writing
+computer-science texts, in which you want to make sure the
+programs listed in the document are executed directly from the
+input. The package may use other Unix shells than bash, but
+does not work without modification in a Windows environment.
+The package requires the -shell-escape flag when LaTeX is
+processing your document.
+
+date 2011-06-17 143858 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

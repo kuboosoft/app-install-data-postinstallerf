@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>pkcs11-helper</b>'
+Comment='<span size="xx-large">A library for using PKCS#11 providers</span>'
+Comment3='
+pkcs11-helper is a library that simplifies the interaction with PKCS#11
+providers for end-user applications using a simple API and optional OpenSSL
+engine. The library allows using multiple PKCS#11 providers at the same time,
+enumerating available token certificates, or selecting a certificate directly
+by serialized id, handling card removal and card insert events, handling card
+re-insert to a different slot, supporting session expiration and much more all
+using a simple API.
+
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.opensc-project.org/opensc/wiki/pkcs11-helper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

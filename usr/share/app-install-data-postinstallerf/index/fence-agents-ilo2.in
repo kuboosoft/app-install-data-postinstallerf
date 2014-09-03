@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fence-agents-ilo2</b>'
+Comment='<span size="xx-large">Fence agent for HP iLO2 devices</span>'
+Comment3='
+The fence-agents-ilo2 package contains a fence agent for HP iLO2 devices that are accessed via the HTTP(s) protocol.
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://sourceware.org/cluster/wiki/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

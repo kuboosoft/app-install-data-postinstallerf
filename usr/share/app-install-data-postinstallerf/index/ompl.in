@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ompl</b>'
+Comment='<span size="xx-large">The Open Motion Planning Library</span>'
+Comment3='
+The Open Motion Planning Library (OMPL) consists of many state-of-the-art
+sampling-based motion planning algorithms. OMPL itself does not contain
+any code related to, e.g., collision checking or visualization. This is
+a deliberate design choice, so that OMPL is not tied to a particular
+collision checker or visualization front end.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://ompl.kavrakilab.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-ocr-b</b>'
+Comment='<span size="xx-large">Fonts for OCR-B</span>'
+Comment3='
+MetaFont programs for OCR-B at several sizes.
+
+date 2010-12-24 152532 +0100
+'
+License='Copyright only'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

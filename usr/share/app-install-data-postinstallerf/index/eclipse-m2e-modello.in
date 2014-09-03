@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>eclipse-m2e-modello</b>'
+Comment='<span size="xx-large">M2E Modello connector</span>'
+Comment3='
+This package provides Modello connector for Eclipse M2E.
+'
+License='EPL'
+Screenshot=''
+Url='https://github.com/tesla/m2eclipse-modello/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

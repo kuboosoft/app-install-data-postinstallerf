@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opensaml-java-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for opensaml-java</span>'
+Comment3='
+This package contains the API documentation for opensaml-java.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.opensaml.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-storebox</b>'
+Comment='<span size="xx-large">Storing information for reuse</span>'
+Comment3='
+The package provides "store boxes" whose user interface matches
+that of normal LaTeX "save boxes", except that the content of a
+store box appears at most once in the output PDF file, however
+often it is used. The present version of the package supports
+pdfLaTeX and LuaLaTeX; when DVI is output, store boxes behave
+the same as save boxes.
+
+date 2011-12-21 112633 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

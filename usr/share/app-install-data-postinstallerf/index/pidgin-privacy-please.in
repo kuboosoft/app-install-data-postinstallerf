@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>pidgin-privacy-please</b>'
+Comment='<span size="xx-large">Security and Privacy plugin for Pidgin</span>'
+Comment3='
+pidgin-privacy-please is a Pidgin plugin to stop spammers from annoying you.
+It offers the following features
+  - Block individual users
+  - Auto-reply to blocked messages
+  - Block messages from people who are not on your contact list (with an
+optional auto-reply)
+  - Block messages using regular expressions, either against the message
+sender, the message content, or both
+  - Suppress repeated/all authorization requests
+  - Suppress OSCAR (ICQ/AIM) authorization requests
+'
+License='GPLv3'
+Screenshot=''
+Url='http://code.google.com/p/pidgin-privacy-please/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

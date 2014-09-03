@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmwaw-devel</b>'
+Comment='<span size="xx-large">Development files for libmwaw</span>'
+Comment3='
+The libmwaw-devel package contains libraries and header files for
+developing applications that use libmwaw.
+
+'
+License='LGPLv2+ or MPLv2.0'
+Screenshot=''
+Url='http://sourceforge.net/projects/libmwaw/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

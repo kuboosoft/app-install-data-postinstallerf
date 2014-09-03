@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>nodejs-node-expat</b>'
+Comment='<span size="xx-large">Fast libexpat XML SAX parser binding for Node.js</span>'
+Comment3='
+Fast libexpat XML SAX parser binding for Node.js.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/astro/node-expat'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

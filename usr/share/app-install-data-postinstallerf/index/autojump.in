@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>autojump</b>'
+Comment='<span size="xx-large">A fast way to navigate your filesystem from the command line</span>'
+Comment3='
+autojump is a faster way to navigate your filesystem. It works by maintaining
+a database of the directories you use the most from the command line.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://wiki.github.com/joelthelion/autojump'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

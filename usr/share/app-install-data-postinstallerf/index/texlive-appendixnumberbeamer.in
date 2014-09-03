@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-appendixnumberbeamer</b>'
+Comment='<span size="xx-large">Manage frame numbering in appendixes in beamer</span>'
+Comment3='
+The package arranges that an appendix in a beamer presentation
+is not counted in the frame count of the presentation;
+appendixes are numbered starting from one.
+
+date 2012-03-29 084419 +0200
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

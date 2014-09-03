@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n udav
+Name=Udav
+GenericName=Universal Data Arrays Visualization
+Comment=data visualization based on MathGL
+Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_udav.png
+Type=Application
+Categories=Education;Science;Math;
+StartupNotify=false
+Terminal=false

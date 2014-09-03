@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Text-Wrapper</b>'
+Comment='<span size="xx-large">Simple word wrapping perl module</span>'
+Comment3='
+This module provides simple word wrapping.  It breaks long lines, but does
+not alter spacing or remove existing line breaks.  If youre looking for
+more sophisticated text formatting, try the TextFormat module.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Text-Wrapper/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

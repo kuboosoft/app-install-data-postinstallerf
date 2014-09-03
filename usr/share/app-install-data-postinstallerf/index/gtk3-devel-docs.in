@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gtk3-devel-docs</b>'
+Comment='<span size="xx-large">Developer documentation for GTK+</span>'
+Comment3='
+This package contains developer documentation for version 3 of the GTK+
+widget toolkit.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.gtk.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>eclipse-ptp-pldt-upc</b>'
+Comment='<span size="xx-large">PTP Parallel Language Development Tools UPC Support</span>'
+Comment3='
+Adds a range of static analysis and programming assistance tools for UPC.
+Note this is separated from the rest of PLDT since it requires the UPC
+feature of CDT, which is sometimes not installed with CDT.
+'
+License='EPL'
+Screenshot=''
+Url='http://www.eclipse.org/ptp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

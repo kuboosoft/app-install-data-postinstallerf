@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gearbox</b>'
+Comment='<span size="xx-large">A collection of usable peer-reviewed robotics-related libraries</span>'
+Comment3='
+Gearbox provides a collection of usable peer-reviewed robotics-related
+libraries. Gearbox is not an integration framework. It provides a set
+of implementations, without insisting on a standard API, for use by
+any number of existing frameworks.  Gearbox includes cross-platform
+libraries to communicate over TCP, UDP, and serial, and implements the
+communication protocols of many popular sensors.
+
+'
+License='LGPLv2+ and GPLv2+'
+Screenshot=''
+Url='http://gearbox.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python3-tkinter</b>'
+Comment='<span size="xx-large">A GUI toolkit for Python 3</span>'
+Comment3='
+The Tkinter (Tk interface) program is an graphical user interface for
+the Python scripting language.
+
+'
+License='Python'
+Screenshot=''
+Url='http://www.python.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

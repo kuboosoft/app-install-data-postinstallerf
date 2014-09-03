@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>yourls</b>'
+Comment='<span size="xx-large">Your Own URL Shortener</span>'
+Comment3='
+YOURLS is a small set of PHP scripts that will allow you to run your own URL
+shortening service (a la TinyURL). You can make it private or public,
+you can pick custom keyword URLs, it comes with its own API.
+'
+License='GPL+ and LGPLv2+ and (MIT or GPLv2)'
+Screenshot=''
+Url='http://yourls.org'
+Summary     : Your Own URL Shortener'
+YOURLS is a small set of PHP scripts that will allow you to run your own URL'
+shortening service (a la TinyURL). You can make it private or public,'
+you can pick custom keyword URLs, it comes with its own API.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

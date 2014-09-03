@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>kmahjongg</b>'
+Comment='<span size="xx-large">A tile matching game</span>'
+Comment3='
+KMahjongg is a tile matching game for one or two players, a variation
+usually known as Mahjong Solitaire.  In KMahjongg the tiles are scrambled
+and stacked on top of each other to resemble a certain shape. The player
+is then expected to remove all the tiles off the game board by locating
+each tiles matching pair.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdegames/kmahjongg'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

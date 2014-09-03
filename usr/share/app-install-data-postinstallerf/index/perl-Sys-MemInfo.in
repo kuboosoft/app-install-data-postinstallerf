@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Sys-MemInfo</b>'
+Comment='<span size="xx-large">Memory information as Perl module</span>'
+Comment3='
+SysMemInfo returns the total amount of free and used physical memory in
+bytes in totalmem and freemem variables.
+'
+License='(GPLv1+ or Artistic) and LGPLv2+'
+Screenshot=''
+Url='http://search.cpan.org/dist/Sys-MemInfo/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

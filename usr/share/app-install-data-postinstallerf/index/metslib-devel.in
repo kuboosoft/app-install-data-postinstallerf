@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>metslib-devel</b>'
+Comment='<span size="xx-large">Metaheuristic modeling framework and optimization toolkit in modern C++</span>'
+Comment3='
+METSlib is a metaheuristic modeling framework and optimization toolkit in
+modern C++ released as Free/Libre/Open Source Software.
+
+Model and algorithms are modular any search algorithm can be applied to the
+same model. On the other hand no assumption is made on the model, you can
+work on any problem type timetabling, assignment problems, vehicle routing,
+bin-packing and so on.
+Once you have implemented your model in the problem framework, the library
+makes easy testing different Tabu Search strategies or even different
+'
+License='GPLv3+ or CPL'
+Screenshot=''
+Url='https://projects.coin-or.org/metslib'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

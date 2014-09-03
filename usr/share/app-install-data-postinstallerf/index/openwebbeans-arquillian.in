@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>openwebbeans-arquillian</b>'
+Comment='<span size="xx-large">OpenWebBeans-Standalone Arquillian connector</span>'
+Comment3='
+Arquillian container for Apache OpenWebBeans standalone.
+This is intended for running in unit tests.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://openwebbeans.apache.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>sitecopy</b>'
+Comment='<span size="xx-large">Tool for easily maintaining remote web sites</span>'
+Comment3='
+sitecopy allows you to easily maintain remote Web sites.  The program
+will upload files to the server which have changed locally, and delete
+files from the server which have been removed locally, to keep the
+remote site synchronized with the local site, with a single
+command. sitecopy will also optionally try to spot files you move
+locally, and move them remotely.  FTP and WebDAV servers are
+supported.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.manyfish.co.uk/sitecopy'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

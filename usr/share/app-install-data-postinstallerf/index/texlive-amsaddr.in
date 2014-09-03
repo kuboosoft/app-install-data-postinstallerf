@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-amsaddr</b>'
+Comment='<span size="xx-large">Alter the position of affiliations in amsart</span>'
+Comment3='
+The package is to be used with the amsart documentclass. It
+lets you move the authors affiliations either just below the
+authors names on the front page or as footnotes on the first
+page. The email addresses are always listed as a footnote on
+the front page.
+
+date 2013-04-03 113241 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

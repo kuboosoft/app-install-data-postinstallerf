@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>halberd</b>'
+Comment='<span size="xx-large">Tool to discover HTTP load balancers</span>'
+Comment3='
+Halberd discovers HTTP load balancers. It is useful for web application
+security auditing and for load balancer configuration testing.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://halberd.superadditive.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

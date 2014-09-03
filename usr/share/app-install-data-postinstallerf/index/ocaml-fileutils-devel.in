@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ocaml-fileutils-devel</b>'
+Comment='<span size="xx-large">Development files for ocaml-fileutils</span>'
+Comment3='
+The ocaml-fileutils-devel package contains libraries and signature files for
+developing applications that use ocaml-fileutils.
+
+'
+License='LGPLv2 with exceptions'
+Screenshot=''
+Url='https://forge.ocamlcore.org/projects/ocaml-fileutils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

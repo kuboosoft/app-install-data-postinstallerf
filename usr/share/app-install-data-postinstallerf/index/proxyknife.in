@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>proxyknife</b>'
+Comment='<span size="xx-large">Customizable multithreaded proxy hunter</span>'
+Comment3='
+Proxyknife is a customizable multithread proxy hunter. It can help users
+behind strict firewall find suitable free proxies.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/proxyknife/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

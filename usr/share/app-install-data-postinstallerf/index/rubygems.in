@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>rubygems</b>'
+Comment='<span size="xx-large">The Ruby standard for packaging ruby libraries</span>'
+Comment3='
+RubyGems is the Ruby standard for publishing and managing third party
+libraries.
+'
+License='Ruby or MIT'
+Screenshot=''
+Url='https://rubygems.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

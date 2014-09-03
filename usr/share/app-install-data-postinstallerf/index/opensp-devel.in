@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opensp-devel</b>'
+Comment='<span size="xx-large">Files for developing applications that use OpenSP</span>'
+Comment3='
+Header files and libtool library for developing applications that use OpenSP.
+
+URL          http//openjade.sourceforge.net/
+'
+License='MIT'
+Screenshot=''
+Url='http://openjade.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

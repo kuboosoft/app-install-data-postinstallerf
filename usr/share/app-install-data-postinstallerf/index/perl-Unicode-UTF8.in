@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Unicode-UTF8</b>'
+Comment='<span size="xx-large">Encoding and decoding of UTF-8 encoding form</span>'
+Comment3='
+This module provides functions to encode and decode UTF-8 encoding form as
+specified by Unicode and ISO/IEC 106462011.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Unicode-UTF8/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

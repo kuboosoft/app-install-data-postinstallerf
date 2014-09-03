@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>google-crosextra-caladea-fonts</b>'
+Comment='<span size="xx-large">Serif font metric-compatible with Cambria font</span>'
+Comment3='
+Caladea is metric-compatible with Cambria font. This font is a serif
+typeface family based on Lato.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/chromium/issues/detail?id=168879'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

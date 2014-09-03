@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gnome-search-tool</b>'
+Comment='<span size="xx-large">Utility for finding files for GNOME</span>'
+Comment3='
+GNOME Search Tool is a utility for finding files on your system. To perform a
+basic search, you can type a filename or a partial filename, with or without
+wildcards. To refine your search, you can apply additional search options.
+
+GNOME Search Tool uses the find, grep, and locate UNIX commands. Since the
+find, grep, and locate commands support the -i option, all searches are
+case-insensitive.
+'
+License='GPLv2+ and GFDL'
+Screenshot=''
+Url='http://www.gnome.org/gnome-3/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

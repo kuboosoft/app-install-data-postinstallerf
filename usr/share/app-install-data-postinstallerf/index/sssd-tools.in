@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>sssd-tools</b>'
+Comment='<span size="xx-large">Userspace tools for use with the SSSD</span>'
+Comment3='
+Provides userspace tools for manipulating users, groups, and nested groups in
+SSSD when using id_provider = local in /etc/sssd/sssd.conf.
+
+Also provides several other administrative tools
+    * sss_debuglevel to change the debug level on the fly
+    * sss_seed which pre-creates a user entry for use in kickstarts
+    * sss_obfuscate for generating an obfuscated LDAP password
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://fedorahosted.org/sssd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

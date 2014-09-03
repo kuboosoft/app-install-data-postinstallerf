@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-fancynum</b>'
+Comment='<span size="xx-large">Typeset numbers</span>'
+Comment3='
+A LaTeX package for typesetting numbers, in particular floating
+point numbers, such as you find in program output.
+
+date 2008-04-19 231103 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

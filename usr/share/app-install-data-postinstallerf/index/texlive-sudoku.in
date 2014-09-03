@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-sudoku</b>'
+Comment='<span size="xx-large">Create sudoku grids</span>'
+Comment3='
+The sudoku package provides an environment for typesetting
+sudoku grids. A sudoku puzzle is a 9x9 grid where some of the
+squares in the grid contain numbers. The rules are simple
+every column can only contain the digits 1 to 9, every row can
+only contain the digits 1 to 9 and every 3x3 box can only
+contain the digits 1 to 9. More information, including help and
+example puzzles, can be found at sudoku.org.uk. This site also
+has blank sudoku grids (or worksheets), but you will not need
+to print them from there if you have this package installed.
+
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-pax</b>'
+Comment='<span size="xx-large">Extract and reinsert PDF annotations with pdfTeX</span>'
+Comment3='
+If PDF files are included using pdfTeX, PDF annotations are
+stripped. The pax project offers a solution without altering
+pdfTeX. A Java program (pax.jar) parses the PDF file that will
+later be included. The program then writes the data of the
+annotations into a file that can be read by TeX. The LaTeX
+package pax extends the graphics package to support the scheme
+if a PDF file is included, the package looks for the file with
+the annotation data, reads them and puts the annotations in the
+right place. Project status experimental
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

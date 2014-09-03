@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>drobo-utils-gui</b>'
+Comment='<span size="xx-large">GUI utilities for managing Drobo storage systems</span>'
+Comment3='
+Drobo-utils is a set of Linux tools to query and manage Data Robotics Drobo
+storage systems (Drobos).  This package provides a graphical utility.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://drobo-utils.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

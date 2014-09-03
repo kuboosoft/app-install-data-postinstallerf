@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>libmatroska-devel</b>'
+Comment='<span size="xx-large">Matroska container format library development files</span>'
+Comment3='
+Matroska is an extensible open standard Audio/Video container.  It
+aims to become THE standard of multimedia container formats.  Matroska
+is usually found as .mkv files (matroska video) and .mka files
+(matroska audio).
+
+This package contains the files required to rebuild applications which
+will use the Matroska container format.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.matroska.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

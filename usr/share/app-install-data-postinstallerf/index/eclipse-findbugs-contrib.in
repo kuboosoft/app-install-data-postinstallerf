@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>eclipse-findbugs-contrib</b>'
+Comment='<span size="xx-large">Eclipse plugin for findbugs-contrib</span>'
+Comment3='
+This package integrates the findbugs-contrib detectors into Eclipse, in
+addition to the base findbugs detectors.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://fb-contrib.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

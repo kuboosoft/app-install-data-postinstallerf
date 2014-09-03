@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-epsdice</b>'
+Comment='<span size="xx-large">A scalable dice "font"</span>'
+Comment3='
+The epsdice package defines a single command \epsdice that
+takes a numeric argument (in the range 1-6), and selects a face
+image from a file that contains each of the 6 possible die
+faces. The graphic file is provided in both Encapsulated
+PostScript and PDF formats.
+
+date 2007-02-15 140803 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

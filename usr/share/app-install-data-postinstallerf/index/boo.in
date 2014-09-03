@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>boo</b>'
+Comment='<span size="xx-large">An OO statically typed language for CLI</span>'
+Comment3='
+Boo is a new object oriented statically typed programming language for the
+Common Language Infrastructure with a python inspired syntax and a special
+focus on language and compiler extensibility.
+'
+License='MIT'
+Screenshot=''
+Url='http://boo.codehaus.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

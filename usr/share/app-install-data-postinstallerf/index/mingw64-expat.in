@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mingw64-expat</b>'
+Comment='<span size="xx-large">MinGW Windows port of expat XML parser library</span>'
+Comment3='
+This is expat, the C library for parsing XML, written by James Clark. Expat
+is a stream oriented XML parser. This means that you register handlers with
+the parser prior to starting the parse. These handlers are called when the
+parser discovers the associated structures in the document being parsed. A
+start tag is an example of the kind of structures for which you may
+register handlers.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.libexpat.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

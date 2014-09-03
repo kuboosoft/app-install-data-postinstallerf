@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>csound-gui</b>'
+Comment='<span size="xx-large">A FLTK-based GUI for Csound</span>'
+Comment3='
+Contains a FLTK-based GUI for Csound
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://csound.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

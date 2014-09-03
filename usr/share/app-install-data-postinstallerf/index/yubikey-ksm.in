@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>yubikey-ksm</b>'
+Comment='<span size="xx-large">The YubiKey Key Storage Module</span>'
+Comment3='
+The YubiKey Key Storage Module (YK-KSM) provides a AES key storage facility for
+use with a YubiKey validation server.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/yubikey-ksm/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

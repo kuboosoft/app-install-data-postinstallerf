@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vdradmin-am</b>'
+Comment='<span size="xx-large">Web interface for VDR</span>'
+Comment3='
+VDRAdmin-AM is a web interface for managing VDR.  You will need access
+to a local or remote VDR install to use this package.
+'
+License='GPLv2+ and GPLv2 and LGPLv2+'
+Screenshot=''
+Url='http://andreas.vdr-developer.org/en/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

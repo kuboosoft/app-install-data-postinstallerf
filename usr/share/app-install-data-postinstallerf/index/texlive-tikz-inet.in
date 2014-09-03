@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>texlive-tikz-inet</b>'
+Comment='<span size="xx-large">Draw interaction nets with TikZ</span>'
+Comment3='
+The package extends TikZ with macros to draw interaction nets.
+
+date 2008-08-24 144348 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

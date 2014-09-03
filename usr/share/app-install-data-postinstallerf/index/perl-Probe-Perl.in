@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Probe-Perl</b>'
+Comment='<span size="xx-large">Information about the currently running perl</span>'
+Comment3='
+This module provides methods for obtaining information about the currently
+running perl interpreter. It originally began life as code in the
+ModuleBuild project, but has been externalized here for general use.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Probe-Perl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

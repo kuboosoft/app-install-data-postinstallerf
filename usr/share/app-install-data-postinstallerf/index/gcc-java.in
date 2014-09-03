@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>gcc-java</b>'
+Comment='<span size="xx-large">Java support for GCC</span>'
+Comment3='
+This package adds support for compiling Java(tm) programs and
+bytecode into native code.
+'
+License='GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD'
+Screenshot=''
+Url='http://gcc.gnu.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

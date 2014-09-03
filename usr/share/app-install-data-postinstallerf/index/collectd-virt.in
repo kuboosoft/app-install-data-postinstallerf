@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>collectd-virt</b>'
+Comment='<span size="xx-large">Libvirt plugin for collectd</span>'
+Comment3='
+This plugin collects information from virtualized guests.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://collectd.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

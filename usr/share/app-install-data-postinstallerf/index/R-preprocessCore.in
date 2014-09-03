@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>R-preprocessCore</b>'
+Comment='<span size="xx-large">A collection of pre-processing functions</span>'
+Comment3='
+A library of core preprocessing routines
+
+URL          http//bioconductor.org/packages/release/bioc/html/preprocessCore.html
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/preprocessCore.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

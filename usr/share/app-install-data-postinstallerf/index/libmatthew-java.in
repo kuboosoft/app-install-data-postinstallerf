@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>libmatthew-java</b>'
+Comment='<span size="xx-large">A few useful Java libraries</span>'
+Comment3='
+A colleciton of Java libraries
+- Unix Sockets Library
+  This is a collection of classes and native code to allow you to read
+  and write Unix sockets in Java.
+
+- Debug Library
+  This is a comprehensive logging and debugging solution.
+- CGI Library
+  This is a collection of classes and native code to allow you to write
+'
+License='MIT'
+Screenshot=''
+Url='http://matthew.ath.cx/projects/java/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

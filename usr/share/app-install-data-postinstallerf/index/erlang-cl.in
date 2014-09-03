@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>erlang-cl</b>'
+Comment='<span size="xx-large">OpenCL binding for Erlang</span>'
+Comment3='
+OpenCL binding for Erlang.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/tonyrog/cl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

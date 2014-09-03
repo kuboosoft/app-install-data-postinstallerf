@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aqemu</b>'
+Comment='<span size="xx-large">A QT graphical interface to QEMU and KVM</span>'
+Comment3='
+AQEMU is a graphical user interface to QEMU and KVM, written in Qt4. The
+program has a user-friendly interface and allows user to set the
+majority of QEMU and KVM options on their virtual machines.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://aqemu.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

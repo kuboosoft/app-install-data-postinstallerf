@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libguestfs-zfs</b>'
+Comment='<span size="xx-large">ZFS support for libguestfs</span>'
+Comment3='
+This adds ZFS support to libguestfs.  Install it if you want to process
+disk images containing ZFS.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libguestfs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

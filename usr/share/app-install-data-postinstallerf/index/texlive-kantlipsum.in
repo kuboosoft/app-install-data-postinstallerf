@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-kantlipsum</b>'
+Comment='<span size="xx-large">Generate sentences in Kants style</span>'
+Comment3='
+The package spits out sentences in Kantian style; the text is
+provided by the Kant generator for Python by Mark Pilgrim,
+described in the book "Dive into Python". The package is
+modelled on lipsum, and may be used for similar purposes.
+
+date 2012-03-12 203051 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

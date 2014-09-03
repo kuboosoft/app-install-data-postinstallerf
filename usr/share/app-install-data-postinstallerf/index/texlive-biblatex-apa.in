@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-biblatex-apa</b>'
+Comment='<span size="xx-large">Biblatex citation and reference style for APA</span>'
+Comment3='
+This is a fairly complete biblatex style (citations and
+references) for APA (American Psychological Association)
+publications. It implements and automates most of the
+guidelines in the APA 6th edition style guide for citations and
+references with a few (documented) exceptions (which are mainly
+currently impossible to automate in principle for any BibTeX-
+backed system). An example document is also given which
+typesets every citation and reference example in the APA 6th
+edition style guide. This version of the package requires use
+of biblatex v2.0 and biber v1.0 (at least).
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>mingw32-enchant</b>'
+Comment='<span size="xx-large">MinGW Windows Enchanting Spell Checking Library</span>'
+Comment3='
+A library that wraps other spell checking backends.
+
+This is the MinGW build of enchant
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.abisource.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

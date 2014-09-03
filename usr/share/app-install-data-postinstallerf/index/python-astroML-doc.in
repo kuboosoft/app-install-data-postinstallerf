@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-astroML-doc</b>'
+Comment='<span size="xx-large">Examples for the astroML package</span>'
+Comment3='
+Documentation and examples for astroML.
+'
+License='BSD'
+Screenshot=''
+Url='http://www.astroml.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

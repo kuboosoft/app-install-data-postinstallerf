@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-gtksourceview2-devel</b>'
+Comment='<span size="xx-large">Ruby/GtkSourceView2 development environment</span>'
+Comment3='
+Header files and libraries for building a extension library for the
+rubygem-gtksourceview2
+
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://ruby-gnome2.sourceforge.jp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

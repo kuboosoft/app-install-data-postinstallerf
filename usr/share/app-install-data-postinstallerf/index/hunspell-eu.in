@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-eu</b>'
+Comment='<span size="xx-large">Basque hunspell dictionaries</span>'
+Comment3='
+Basque hunspell dictionaries.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.euskara.euskadi.net/r59-20660/eu/contenidos/informacion/euskarazko_softwarea/eu_9567/xuxen.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

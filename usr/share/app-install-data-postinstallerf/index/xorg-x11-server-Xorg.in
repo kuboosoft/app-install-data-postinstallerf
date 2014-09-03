@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>xorg-x11-server-Xorg</b>'
+Comment='<span size="xx-large">Xorg X server</span>'
+Comment3='
+X.org X11 is an open source implementation of the X Window System.  It
+provides the basic low level functionality which full fledged
+graphical user interfaces (GUIs) such as GNOME and KDE are designed
+upon.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.x.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

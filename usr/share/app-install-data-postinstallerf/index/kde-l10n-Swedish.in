@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-l10n-Swedish</b>'
+Comment='<span size="xx-large">Swedish language support for KDE</span>'
+Comment3='
+Swedish language support for KDE.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://www.kde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

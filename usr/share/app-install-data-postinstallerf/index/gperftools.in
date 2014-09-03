@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gperftools</b>'
+Comment='<span size="xx-large">Very fast malloc and performance analysis tools</span>'
+Comment3='
+Perf Tools is a collection of performance analysis tools, including a
+high-performance multi-threaded malloc() implementation that works
+particularly well with threads and STL, a thread-friendly heap-checker,
+a heap profiler, and a cpu-profiler.
+
+This is a metapackage which pulls in all of the gperftools (and pprof)
+binaries, libraries, and development headers, so that you can use them.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/gperftools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

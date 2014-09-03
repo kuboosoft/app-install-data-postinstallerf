@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kanagram</b>'
+Comment='<span size="xx-large">Letter Order Game</span>'
+Comment3='
+Letter Order Game.
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://projects.kde.org/projects/kde/kdeedu/kanagram'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

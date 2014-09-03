@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aggregate</b>'
+Comment='<span size="xx-large">IPv4 CIDR prefix aggregator</span>'
+Comment3='
+aggregate takes a list of prefixes in conventional format on stdin,
+and performs two optimizations to attempt to reduce the length of
+the prefix list.
+'
+License='ISC'
+Screenshot=''
+Url='http://ftp.isc.org/isc/aggregate/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

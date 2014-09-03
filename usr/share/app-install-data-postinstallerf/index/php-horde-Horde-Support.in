@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>php-horde-Horde-Support</b>'
+Comment='<span size="xx-large">Horde support package</span>'
+Comment3='
+Support classes not tied to Horde but is used by it. These classes can be
+used outside of Horde as well.
+
+Optional dependencies
+- uuid-php or php-pecl-uuid
+'
+License='BSD'
+Screenshot=''
+Url='http://pear.horde.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-pdf14</b>'
+Comment='<span size="xx-large">Restore PDF 1.4 to a TeX live 2010 format</span>'
+Comment3='
+Starting with TeX Live 2010, the various formats that directly
+generate PDF will default to generating PDF 1.5. This is
+generally a good thing, but it can lead to compatibility issues
+with some older PDF viewers. This package changes the version
+of PDF generated with formats (based on pdfTeX or LuaTeX in PDF
+mode), back to 1.4 for documents that need to achieve maximal
+compatibility with old viewers.
+
+date 2010-03-31 123609 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

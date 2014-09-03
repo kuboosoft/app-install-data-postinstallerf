@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hunspell-uz</b>'
+Comment='<span size="xx-large">Uzbek hunspell dictionaries</span>'
+Comment3='
+Uzbek hunspell dictionaries.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www-user.uni-bremen.de/~kmashrab/uzbek-word-list'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

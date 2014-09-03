@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>pyrrd</b>'
+Comment='<span size="xx-large">A Pure Python Wrapper for RRDTool</span>'
+Comment3='
+PyRRD is an wrapper for the RRDTool (round-robin database tool). The idea
+is to make RRDTool insanely easy to use and to be aesthically pleasing for
+python programmers. Below is an example of what you have to do if want to
+use the python bindings that come with RRDTool.
+'
+License='BSD'
+Screenshot=''
+Url='http://code.google.com/p/pyrrd/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

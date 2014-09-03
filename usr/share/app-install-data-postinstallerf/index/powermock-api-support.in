@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>powermock-api-support</b>'
+Comment='<span size="xx-large">PowerMock API support module</span>'
+Comment3='
+
+PowerMock is a framework that extend other mock libraries
+such as EasyMock with more powerful capabilities. PowerMock uses a
+custom classloader and bytecode manipulation to enable mocking of
+static methods, constructors, final classes and methods, private
+methods, removal of static initializers and more.
+This package contains support code for the PowerMock API extensions.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://code.google.com/p/powermock/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

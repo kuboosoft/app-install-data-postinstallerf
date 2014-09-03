@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>themonospot-base</b>'
+Comment='<span size="xx-large">Base component for themonospot system, parser/editor and content descriptor</span>'
+Comment3='
+themonospot-base is core package for themonospot system. It install
+    - themonospot-base mono assembly (use from other gui applications)
+    - themonospot-plugin-interface (use to write plugins)
+    - themonospot-plugin-manager (use to load plugins at runtime)
+    - xml language files
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.integrazioneweb.com/themonospot'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

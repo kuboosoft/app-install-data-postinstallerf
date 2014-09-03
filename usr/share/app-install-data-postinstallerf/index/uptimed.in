@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>uptimed</b>'
+Comment='<span size="xx-large">A daemon to record and keep track of system up times</span>'
+Comment3='
+Uptimed is an up time record daemon keeping track of the highest
+up times the system ever had.
+
+Uptimed has the ability to inform you of records and milestones
+though syslog and e-mail, and comes with a console front end to
+parse the records, which can also easily be used to show your
+records on your Web page
+'
+License='GPLv2'
+Screenshot=''
+Url='http://podgorny.cz/moin/Uptimed'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

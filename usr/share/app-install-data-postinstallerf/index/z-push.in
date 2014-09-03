@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>z-push</b>'
+Comment='<span size="xx-large">ActiveSync over-the-air implementation for mobile syncing</span>'
+Comment3='
+Z-Push is an implementation of the ActiveSync protocol which is used
+over-the-air for multi platform ActiveSync devices, including Windows
+Mobile, Android, iPhone, Sony Ericsson and Nokia mobile devices. With
+Z-Push any groupware can be connected and synced with these devices.
+'
+License='AGPLv3 with exceptions'
+Screenshot=''
+Url='http://www.z-push.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

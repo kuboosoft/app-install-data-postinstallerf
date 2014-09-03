@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-channel-bartlett</b>'
+Comment='<span size="xx-large">Adds bartlett channel to PEAR</span>'
+Comment3='
+This package adds the bartlett channel which allows PEAR packages
+from this channel to be installed.
+'
+License='BSD'
+Screenshot=''
+Url='http://bartlett.laurent-laville.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

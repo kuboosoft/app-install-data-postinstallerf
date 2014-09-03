@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>hazelcast-javadoc</b>'
+Comment='<span size="xx-large">Javadoc for hazelcast</span>'
+Comment3='
+This package contains javadoc for hazelcast.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.hazelcast.com/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

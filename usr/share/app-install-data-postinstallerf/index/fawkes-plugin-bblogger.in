@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-bblogger</b>'
+Comment='<span size="xx-large">Fawkes plugin to log data from blackboard</span>'
+Comment3='
+This package contains a Fawkes plugin to log data written to the blackboard.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

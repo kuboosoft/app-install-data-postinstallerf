@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>texlive-biblatex-mla</b>'
+Comment='<span size="xx-large">MLA style files for biblatex</span>'
+Comment3='
+The package provides biblatex support for citations in the
+format specified by the MLA handbook.
+
+date 2012-02-25 102930 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

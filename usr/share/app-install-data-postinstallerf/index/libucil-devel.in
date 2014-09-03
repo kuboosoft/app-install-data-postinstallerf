@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libucil-devel</b>'
+Comment='<span size="xx-large">Development files for the ucil library</span>'
+Comment3='
+The libucil-devel package includes header files and libraries necessary
+for developing programs which use the ucil library. It contains the API
+documentation of the library, too.
+
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.unicap-imaging.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

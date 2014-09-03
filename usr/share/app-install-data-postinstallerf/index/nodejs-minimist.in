@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nodejs-minimist</b>'
+Comment='<span size="xx-large">Parse argument options in Node.js</span>'
+Comment3='
+Parse argument options in Node.js.
+
+This module is the guts of nodejs-optimists argument parser without all the
+fanciful decoration.
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/substack/minimist'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

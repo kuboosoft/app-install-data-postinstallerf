@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-carddav</b>'
+Comment='<span size="xx-large">Python CardDAV client compatible with mutt</span>'
+Comment3='
+Python library and front-end for syncing CardDAV
+'
+License='MIT'
+Screenshot=''
+Url='http://lostpackets.de/pycarddav/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

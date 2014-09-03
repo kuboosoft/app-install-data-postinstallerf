@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>perl-CDDB</b>'
+Comment='<span size="xx-large">CDDB Perl module</span>'
+Comment3='
+CDDB protocol (cddbp) servers provide compact disc information for
+programs that need it. This allows such programs to display disc and track
+titles automatically, and it provides extended information like liner
+notes and lyrics.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/CDDB/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

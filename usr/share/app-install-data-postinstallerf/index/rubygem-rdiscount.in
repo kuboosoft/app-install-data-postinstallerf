@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>rubygem-rdiscount</b>'
+Comment='<span size="xx-large">Fast Implementation of Grubers Markdown in C</span>'
+Comment3='
+Description Discount is an implementation of John Grubers Markdown markup
+language in C. It implements all of the language described in the markdown
+syntax document and passes the Markdown 1.0 test suite.
+'
+License='ASL 1.1'
+Screenshot=''
+Url='http://github.com/rtomayko/rdiscount'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

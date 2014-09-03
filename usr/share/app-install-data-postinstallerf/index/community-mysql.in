@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>community-mysql</b>'
+Comment='<span size="xx-large">MySQL client programs and shared libraries</span>'
+Comment3='
+MySQL is a multi-user, multi-threaded SQL database server. MySQL is a
+client/server implementation consisting of a server daemon (mysqld)
+and many different client programs and libraries. The base package
+contains the standard MySQL client programs and generic MySQL files.
+
+'
+License='GPLv2 with exceptions and LGPLv2 and BSD'
+Screenshot=''
+Url='http://www.mysql.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

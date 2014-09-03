@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>gnash</b>'
+Comment='<span size="xx-large">GNU flash movie player</span>'
+Comment3='
+Gnash is capable of reading up to SWF v9 files and op-codes, but primarily
+supports SWF v7, with better SWF v8 and v9 support under heavy development.
+Gnash includes initial parser support for SWF v8 and v9. Not all
+ActionScript 2 classes are implemented yet, but all of the most heavily
+used ones are. Many ActionScript 2 classes are partially implemented;
+there is support for all of the commonly used methods of each
+class.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.gnu.org/software/gnash/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

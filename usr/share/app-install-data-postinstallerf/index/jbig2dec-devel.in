@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>jbig2dec-devel</b>'
+Comment='<span size="xx-large">Static library and header files for development with jbig2dec</span>'
+Comment3='
+jbig2dec is a decoder implementation of the JBIG2 image compression format.
+JBIG2 is designed for lossy or lossless encoding of bilevel (1-bit
+monochrome) images at moderately high resolution, and in particular scanned
+paper documents. In this domain it is very efficient, offering compression
+ratios on the order of 1001.
+
+This package is only needed if you plan to develop or compile applications
+which requires the jbig2dec library.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://jbig2dec.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

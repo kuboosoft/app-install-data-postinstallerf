@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pvm</b>'
+Comment='<span size="xx-large">Libraries for distributed computing.</span>'
+Comment3='
+PVM3 (Parallel Virtual Machine) is a library and daemon that allows
+distributed processing environments to be constructed on heterogeneous
+machines and architectures.
+'
+License='MIT and GPLv2+'
+Screenshot=''
+Url='http://www.csm.ornl.gov/pvm/pvm_home.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

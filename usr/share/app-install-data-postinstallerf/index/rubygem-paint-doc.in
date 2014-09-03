@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-paint-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-paint</span>'
+Comment3='
+Documentation for rubygem-paint.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/janlelis/paint'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

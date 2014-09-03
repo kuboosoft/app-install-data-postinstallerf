@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-prettyref</b>'
+Comment='<span size="xx-large">Make label references "self-identify"</span>'
+Comment3='
+Prettyref provides a command \newrefformat, which specifies the
+way in which a reference is typeset, according to a label
+"identification". The identification is set in the \label
+command, by using prefixed label names; so instead of
+\label{mysection}, one uses \label{secmysection}, and
+prettyref interprets the "sec" part. The package is compatible
+with hyperref and with other packages.
+
+date 2008-11-06 092654 +0100
+'
+License='Public Domain'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

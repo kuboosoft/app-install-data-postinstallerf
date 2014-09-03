@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>notification-daemon-engine-nodoka</b>'
+Comment='<span size="xx-large">The Nodoka theme engine for the notification daemon</span>'
+Comment3='
+The Nodoka theme engine for the notification daemon.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://nodoka.fedorahosted.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

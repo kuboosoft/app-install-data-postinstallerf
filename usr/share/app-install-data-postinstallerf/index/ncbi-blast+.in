@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ncbi-blast+</b>'
+Comment='<span size="xx-large">NCBI BLAST+ finds regions of similarity between biological sequences</span>'
+Comment3='
+The NCBI Basic Local Alignment Search Tool (BLAST) finds regions of
+local similarity between sequences. The program compares nucleotide or
+protein sequences to sequence databases and calculates the statistical
+significance of matches. BLAST can be used to infer functional and
+evolutionary relationships between sequences as well as help identify
+members of gene families.
+'
+License='Public Domain and MIT'
+Screenshot=''
+Url='http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

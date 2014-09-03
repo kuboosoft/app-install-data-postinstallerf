@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>json-c</b>'
+Comment='<span size="xx-large">A JSON implementation in C</span>'
+Comment3='
+JSON-C implements a reference counting object model that allows you to easily
+construct JSON objects in C, output them as JSON formatted strings and parse
+JSON formatted strings back into the C representation of JSON objects.
+
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/json-c/json-c/wiki'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

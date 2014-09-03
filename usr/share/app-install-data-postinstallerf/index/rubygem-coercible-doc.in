@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-coercible-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-coercible</span>'
+Comment3='
+Documentation for rubygem-coercible
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/solnic/coercible'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

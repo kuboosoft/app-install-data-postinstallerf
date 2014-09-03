@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-okaara</b>'
+Comment='<span size="xx-large">Python command line utilities</span>'
+Comment3='
+Python library to facilitate the creation of command-line interfaces.
+'
+License='GPLv2'
+Screenshot=''
+Url='https://github.com/jdob/okaara'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

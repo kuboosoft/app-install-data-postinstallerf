@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-ExtUtils-Install</b>'
+Comment='<span size="xx-large">Install files from here to there</span>'
+Comment3='
+Handles the installing and uninstalling of perl modules, scripts, man
+pages, etc.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://www.perl.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

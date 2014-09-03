@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vdsm</b>'
+Comment='<span size="xx-large">Virtual Desktop Server Manager</span>'
+Comment3='
+The VDSM service is required by a Virtualization Manager to manage the
+Linux hosts. VDSM manages and monitors the hosts storage, memory and
+networks as well as virtual machine creation, other host administration
+tasks, statistics gathering, and log collection.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.ovirt.org/wiki/Vdsm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

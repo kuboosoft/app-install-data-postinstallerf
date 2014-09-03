@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>exempi-devel</b>'
+Comment='<span size="xx-large">Headers for developing programs that will use exempi</span>'
+Comment3='
+This package contains the libraries and header files needed for
+developing with exempi.
+
+'
+License='BSD'
+Screenshot=''
+Url='http://libopenraw.freedesktop.org/wiki/Exempi'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

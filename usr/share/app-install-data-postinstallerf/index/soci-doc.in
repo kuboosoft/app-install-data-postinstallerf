@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>soci-doc</b>'
+Comment='<span size="xx-large">HTML documentation for the soci library</span>'
+Comment3='
+This package contains the documentation in the HTML format of the soci
+library. The documentation is the same as at the soci web page.
+'
+License='Boost'
+Screenshot=''
+Url='http://soci.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

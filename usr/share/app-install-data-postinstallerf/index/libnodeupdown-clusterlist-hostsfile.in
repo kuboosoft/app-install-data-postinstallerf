@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>libnodeupdown-clusterlist-hostsfile</b>'
+Comment='<span size="xx-large">Hostsfile clusterlist module for libnodeupdown</span>'
+Comment3='
+Hostsfile clusterlist module for libnodeupdown
+'
+License='GPLv2+'
+Screenshot=''
+Url='https://computing.llnl.gov/linux/whatsup.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

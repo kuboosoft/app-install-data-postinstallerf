@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>nurbs++</b>'
+Comment='<span size="xx-large">Non Uniform Rational Basis Spline (NURBS) library for C++</span>'
+Comment3='
+A C++ library to manipulate and create NURBS curves and surfaces. Also
+featuring vector, matrix, and OpenGL support classes.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sourceforge.net/projects/libnurbs/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

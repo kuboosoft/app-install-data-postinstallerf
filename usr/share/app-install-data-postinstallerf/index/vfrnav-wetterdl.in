@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>vfrnav-wetterdl</b>'
+Comment='<span size="xx-large">VFR Navigation Weather Downloader</span>'
+Comment3='
+This package contains a downloader application for weather
+pictures from flugwetter.de and other sources.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://www.baycom.org/~tom/vfrnav'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

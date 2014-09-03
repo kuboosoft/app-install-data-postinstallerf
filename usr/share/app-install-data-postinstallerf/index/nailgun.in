@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>nailgun</b>'
+Comment='<span size="xx-large">Framework for running Java from the cli without the JVM startup overhead</span>'
+Comment3='
+Nailgun is a client, protocol, and server for running Java programs from the
+command line without incurring the JVM startup overhead. Programs run in the
+server (which is implemented in Java), and are triggered by the client
+(written in C), which handles all I/O.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://martiansoftware.com/nailgun/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

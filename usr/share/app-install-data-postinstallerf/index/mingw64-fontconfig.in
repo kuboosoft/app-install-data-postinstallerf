@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-fontconfig</b>'
+Comment='<span size="xx-large">MinGW Windows Fontconfig library</span>'
+Comment3='
+MinGW Windows Fontconfig library.
+'
+License='MIT'
+Screenshot=''
+Url='http://fontconfig.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

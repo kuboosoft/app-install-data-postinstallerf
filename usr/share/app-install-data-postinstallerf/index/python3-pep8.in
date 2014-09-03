@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>python3-pep8</b>'
+Comment='<span size="xx-large">Python style guide checker</span>'
+Comment3='
+pep8 is a tool to check your Python code against some of the style
+conventions in PEP 8. It has a plugin architecture, making new checks
+easy, and its output is parseable, making it easy to jump to an error
+location in your editor.
+
+This is a version for Python 3.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/pep8'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

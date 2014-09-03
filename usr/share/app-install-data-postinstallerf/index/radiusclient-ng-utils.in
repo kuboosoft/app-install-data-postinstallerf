@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>radiusclient-ng-utils</b>'
+Comment='<span size="xx-large">Utility programs for radiusclient-ng</span>'
+Comment3='
+Utility programs for radiusclient-ng.
+'
+License='BSD'
+Screenshot=''
+Url='http://developer.berlios.de/projects/radiusclient-ng/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

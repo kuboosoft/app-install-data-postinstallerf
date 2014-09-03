@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>nodejs-chrono</b>'
+Comment='<span size="xx-large">Format dates in JavaScript</span>'
+Comment3='
+Allows formatting of time in a `strftime` style, but with syntax taken
+from PHPs date function. It implements pretty much all of the tokens
+from PHPs date function, except for B (Swatch internet time) and
+e (Content/City timezone identifier). You can escape characters with
+a `\` (remember to encode the `\` in a string as well). All other
+characters will be printed as they appear in the format string.
+'
+License='MIT'
+Screenshot=''
+Url='https://github.com/kkaefer/chrono.js'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

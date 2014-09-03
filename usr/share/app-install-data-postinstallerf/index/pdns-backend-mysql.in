@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pdns-backend-mysql</b>'
+Comment='<span size="xx-large">MySQL backend for pdns</span>'
+Comment3='
+This package contains the gmysql backend for pdns
+'
+License='GPLv2'
+Screenshot=''
+Url='http://powerdns.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

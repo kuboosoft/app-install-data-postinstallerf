@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>python-ngram</b>'
+Comment='<span size="xx-large">Set-based subclass providing fuzzy search based on N-grams</span>'
+Comment3='
+
+The NGram class extends the Python set class with efficient fuzzy
+search for members by means of an N-gram similarity measure.  It
+also has static methods to compare a pair of strings.
+The N-grams are character based not word-based, and the class does
+not implement a language model, merely searching for members by
+string similarity.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='https://github.com/gpoulter/python-ngram'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

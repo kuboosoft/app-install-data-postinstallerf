@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>texlive-othelloboard</b>'
+Comment='<span size="xx-large">Typeset Othello (Reversi) diagrams of any size, with annotations</span>'
+Comment3='
+The package enables the user to generate high-quality Othello
+(also known as Reversi) board diagrams of any size. The
+diagrams support annotations, including full game transcripts.
+Automated board or transcript creation, from plain text formats
+standard to WZebra (and other programs) is also supported.
+
+date 2011-08-19 083526 +0200
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

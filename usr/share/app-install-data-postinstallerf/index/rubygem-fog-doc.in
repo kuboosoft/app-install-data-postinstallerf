@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-fog-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-fog</span>'
+Comment3='
+Documentation for rubygem-fog
+'
+License='MIT'
+Screenshot=''
+Url='http://github.com/geemus/fog'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

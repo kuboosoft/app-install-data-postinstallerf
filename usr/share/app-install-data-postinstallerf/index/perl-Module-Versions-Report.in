@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>perl-Module-Versions-Report</b>'
+Comment='<span size="xx-large">Report versions of all modules in memory</span>'
+Comment3='
+If you add "use ModuleVersionsReport;" to a program (especially
+handy if your program is one that demonstrates a bug in some module),
+then when the program has finished running, you well get a report
+detailing the all modules in memory, and noting the version of each
+(for modules that defined a $VERSION, at least).
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Module-Versions-Report/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

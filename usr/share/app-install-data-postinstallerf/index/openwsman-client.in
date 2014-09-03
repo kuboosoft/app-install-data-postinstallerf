@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>openwsman-client</b>'
+Comment='<span size="xx-large">Openwsman Client libraries</span>'
+Comment3='
+Openwsman Client libraries
+
+URL          http//www.openwsman.org/
+'
+License='BSD'
+Screenshot=''
+Url='http://www.openwsman.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

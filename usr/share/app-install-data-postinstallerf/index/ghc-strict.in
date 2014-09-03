@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>ghc-strict</b>'
+Comment='<span size="xx-large">Strict data types and String IO</span>'
+Comment3='
+This package provides strict versions of some standard Haskell data types
+(pairs, Maybe and Either). It also contains strict IO operations.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/strict'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

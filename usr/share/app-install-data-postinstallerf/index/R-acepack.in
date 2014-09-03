@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>R-acepack</b>'
+Comment='<span size="xx-large">ACE and AVAS methods for choosing regression transformations</span>'
+Comment3='
+ACE and AVAS (additivity and variance stabilization) are used to estimate
+transformations for regression.
+'
+License='Public Domain and MIT'
+Screenshot=''
+Url='http://cran.r-project.org/web/packages/acepack/index.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

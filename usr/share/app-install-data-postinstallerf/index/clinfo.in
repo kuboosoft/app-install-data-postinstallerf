@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>clinfo</b>'
+Comment='<span size="xx-large">Enumerate OpenCL platforms and devices</span>'
+Comment3='
+A simple OpenCL application that enumerates all possible platform and
+device properties. Inspired by AMDs program of the same name, it is
+coded in pure C99 and it tries to output all possible information,
+including that provided by platform-specific extensions, and not to
+crash on platform-unsupported properties (e.g. 1.2 properties on 1.1
+platforms).
+'
+License='Public Domain'
+Screenshot=''
+Url='https://github.com/Oblomov/clinfo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

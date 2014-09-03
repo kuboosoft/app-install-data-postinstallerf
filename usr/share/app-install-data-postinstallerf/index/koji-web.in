@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>koji-web</b>'
+Comment='<span size="xx-large">Koji Web UI</span>'
+Comment3='
+koji-web is a web UI to the Koji system.
+'
+License='LGPLv2 and GPLv2+'
+Screenshot=''
+Url='http://fedorahosted.org/koji'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

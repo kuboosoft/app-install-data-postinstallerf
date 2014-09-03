@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>BEDTools</b>'
+Comment='<span size="xx-large">A flexible suite of utilities for comparing genomic features</span>'
+Comment3='
+
+The BEDTools utilities allow one to address common genomics tasks such
+as finding feature overlaps and computing coverage. The utilities are
+largely based on four widely-used file formats BED, GFF/GTF, VCF, and
+SAM/BAM. Using BEDTools, one can develop sophisticated pipelines that
+answer complicated research questions by "streaming" several BEDTools
+together.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://code.google.com/p/bedtools/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

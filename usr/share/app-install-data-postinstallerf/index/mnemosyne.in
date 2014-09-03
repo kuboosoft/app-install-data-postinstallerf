@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>mnemosyne</b>'
+Comment='<span size="xx-large">Flash-card learning tool</span>'
+Comment3='
+Mnemosyne resembles a traditional flash-card program but with an
+important twist it uses a sophisticated algorithm to schedule the best
+time for a card to come up for review.
+
+Optional dependencies
+* latex enables entering formulas using latex syntax.
+'
+License='AGPLv3'
+Screenshot=''
+Url='http://www.mnemosyne-proj.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

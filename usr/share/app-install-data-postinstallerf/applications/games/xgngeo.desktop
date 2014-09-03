@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=postinstaller -n xgngeo
+Type=Application
+Version=1.0
+Name=XGNgeo
+Comment=A frontend for gngeo in Python and GTK
+Icon=/usr/share/app-install-data-postinstallerf/icons/xgngeo.png
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;ArcadeGame

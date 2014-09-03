@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>texlive-vdmlisting</b>'
+Comment='<span size="xx-large">Typesetting VDM in ASCII syntax</span>'
+Comment3='
+The package is an extension for the listings package that
+provides a source code printer for LaTeX. This package defines
+new language definitions and listing environments for the three
+language dialects of the Vienna Development Method VDM-SL,
+VDM-PP and VDM-RT. If one wants to typeset VDM with a
+mathematical syntax instead of the ASCII syntax used here one
+should use the vdm pacakge instead
+
+date 2013-04-16 113034 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

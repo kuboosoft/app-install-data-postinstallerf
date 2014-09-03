@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>lmms</b>'
+Comment='<span size="xx-large">Linux MultiMedia Studio</span>'
+Comment3='
+LMMS aims to be a free alternative to popular (but commercial and
+closed- source) programs like FruityLoops/FL Studio, Cubase and Logic
+allowing you to produce music with your computer. This includes
+creation of loops, synthesizing and mixing sounds, arranging samples,
+having fun with your MIDI-keyboard and much more...
+
+LMMS combines the features of a tracker-/sequencer-program and those
+of powerful synthesizers, samplers, effects etc. in a modern,
+user-friendly and easy to use graphical user-interface.
+'
+License='GPLv2+ and GPLv2 and (GPLv2+ or MIT) and GPLv3+ and MIT and LGPLv2+ and (LGPLv2+ with exceptions) and Copyright only'
+Screenshot=''
+Url='http://lmms.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

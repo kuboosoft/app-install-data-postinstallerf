@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>cowpatty</b>'
+Comment='<span size="xx-large">WPA password cracker</span>'
+Comment3='
+Cowpatty is designed to audit the pre-shared key (PSK) selection for WPA
+networks based on the TKIP protocol. It can perform both dictionary and
+computed rainbow table attacks.
+'
+License='GPLv2 and BSD'
+Screenshot=''
+Url='http://wirelessdefence.org/Contents/coWPAttyMain.htm'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

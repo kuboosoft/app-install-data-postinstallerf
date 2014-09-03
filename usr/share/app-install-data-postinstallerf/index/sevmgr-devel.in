@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>sevmgr-devel</b>'
+Comment='<span size="xx-large">Header files, libraries and development helper tools for sevmgr</span>'
+Comment3='
+This package contains the header files, shared libraries and
+development helper tools for sevmgr. If you would like to develop
+programs using sevmgr, you will need to install sevmgr-devel.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://sevmgr.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

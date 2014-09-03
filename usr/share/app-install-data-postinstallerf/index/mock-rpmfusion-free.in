@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mock-rpmfusion-free</b>'
+Comment='<span size="xx-large">Mock config files for the RPM Fusion Free Repository</span>'
+Comment3='
+Mock config files for the RPM Fusion Free Repository
+'
+License='BSD'
+Screenshot=''
+Url='http://rpmfusion.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

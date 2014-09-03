@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>fawkes-plugin-map-lasergen</b>'
+Comment='<span size="xx-large">Fawkes plugin to generate fake laser data</span>'
+Comment3='
+This package contains a Fawkes plugin that takes a map and generates a
+laser scan that the robot would perceive when being at a given
+location in the map. It can optionally add gaussian noise. Useful for
+testing localization under idealized conditions or just having a fake
+localization.
+'
+License='GPLv2+ and GPLv2+ with exceptions'
+Screenshot=''
+Url='http://www.fawkesrobotics.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

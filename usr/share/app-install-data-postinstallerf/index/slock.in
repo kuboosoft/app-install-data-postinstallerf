@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>slock</b>'
+Comment='<span size="xx-large">Simple X display locker</span>'
+Comment3='
+This is the simplest X screen locker we are aware of.  It is stable and
+quite a lot people in this community are using it every day when they
+are out with friends or fetching some food from the local pub.
+'
+License='MIT'
+Screenshot=''
+Url='http://tools.suckless.org/slock'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

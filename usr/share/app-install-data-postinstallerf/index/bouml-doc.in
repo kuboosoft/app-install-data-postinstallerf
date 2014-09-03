@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>bouml-doc</b>'
+Comment='<span size="xx-large">Documentation for the BOUML tool</span>'
+Comment3='
+Documentation for the BOUML tool provided in HTML and PDF formats.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bouml.free.fr'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

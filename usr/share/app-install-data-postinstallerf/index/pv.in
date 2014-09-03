@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>pv</b>'
+Comment='<span size="xx-large">A tool for monitoring the progress of data through a pipeline</span>'
+Comment3='
+PV ("Pipe Viewer") is a tool for monitoring the progress of data through a
+pipeline.  It can be inserted into any normal pipeline between two processes
+to give a visual indication of how quickly data is passing through, how long
+it has taken, how near to completion it is, and an estimate of how long it
+will be until completion.
+'
+License='Artistic 2.0'
+Screenshot=''
+Url='http://www.ivarch.com/programs/pv.shtml'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>xml-security-c-devel</b>'
+Comment='<span size="xx-large">Development files for xml-security-c</span>'
+Comment3='
+This package provides development files for xml-security-c, a C++ library for
+XML Digital Signatures.
+
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://santuario.apache.org/c/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

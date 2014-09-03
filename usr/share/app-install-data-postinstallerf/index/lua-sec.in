@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>lua-sec</b>'
+Comment='<span size="xx-large">Lua binding for OpenSSL library</span>'
+Comment3='
+Lua binding for OpenSSL library to provide TLS/SSL communication.
+It takes an already established TCP connection and creates a secure
+session between the peers.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.inf.puc-rio.br/~brunoos/luasec/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

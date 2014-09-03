@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-bson</b>'
+Comment='<span size="xx-large">Python bson library</span>'
+Comment3='
+BSON is a binary-encoded serialization of JSON-like documents. BSON is designed
+to be lightweight, traversable, and efficient. BSON, like JSON, supports the
+embedding of objects and arrays within other objects and arrays.
+'
+License='ASL 2.0 and MIT'
+Screenshot=''
+Url='http://api.mongodb.org/python'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

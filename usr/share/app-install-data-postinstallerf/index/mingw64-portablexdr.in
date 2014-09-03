@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>mingw64-portablexdr</b>'
+Comment='<span size="xx-large">MinGW Windows PortableXDR / RPC Library</span>'
+Comment3='
+MinGW Windows PortableXDR XDR / RPC library.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://et.redhat.com/~rjones/portablexdr/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

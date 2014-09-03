@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>svncpp-devel</b>'
+Comment='<span size="xx-large">Development resources for the svncpp library</span>'
+Comment3='
+Development resources for the svncpp C++ client library for Subversion.
+Install this package if you need to compile an application that requires the
+svncpp library.
+
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.rapidsvn.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>perl-Devel-EnforceEncapsulation</b>'
+Comment='<span size="xx-large">Find access violations to blessed objects</span>'
+Comment3='
+Encapsulation is the practice of creating subroutines to access the properties
+of a class instead of accessing those properties directly. The advantage of
+good encapsulation is that the author is permitted to change the internal
+implementation of a class without breaking its usage.
+
+Object-oriented programming in Perl is most commonly implemented via blessed
+hashes. This practice makes it easy for users of a class to violate
+encapsulation by simply accessing the hash values directly. Although less
+common, the same applies to classes implemented via blessed arrays, scalars,
+filehandles, etc.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Devel-EnforceEncapsulation/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

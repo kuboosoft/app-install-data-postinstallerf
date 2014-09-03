@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>v4l-utils</b>'
+Comment='<span size="xx-large">Utilities for video4linux and DVB devices</span>'
+Comment3='
+v4l-utils is a collection of various video4linux (V4L) and DVB utilities. The
+main v4l-utils package contains cx18-ctl, ir-keytable, ivtv-ctl, v4l2-ctl and
+v4l2-sysfs-path.
+'
+License='GPLv2+ and GPLv2'
+Screenshot=''
+Url='http://www.linuxtv.org/downloads/v4l-utils/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

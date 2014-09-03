@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>samba-winbind-krb5-locator</b>'
+Comment='<span size="xx-large">Samba winbind krb5 locator</span>'
+Comment3='
+The winbind krb5 locator is a plugin for the system kerberos library to allow
+the local kerberos library to use the same KDC as samba and winbind use
+'
+License='GPLv3+ and LGPLv3+'
+Screenshot=''
+Url='http://www.samba.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

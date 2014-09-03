@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libcmis-tools</b>'
+Comment='<span size="xx-large">Command line tool to access CMIS</span>'
+Comment3='
+The libcmis-tools package contains a tool for accessing CMIS from the
+command line.
+'
+License='GPLv2+ or LGPLv2+ or MPLv1.1'
+Screenshot=''
+Url='http://sourceforge.net/projects/libcmis/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>libosinfo-devel</b>'
+Comment='<span size="xx-large">Libraries, includes, etc. to compile with the libosinfo library</span>'
+Comment3='
+libosinfo is a library that allows virtualization provisioning tools to
+determine the optimal device settings for a hypervisor/operating system
+combination.
+
+Libraries, includes, etc. to compile with the libosinfo library
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://libosinfo.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

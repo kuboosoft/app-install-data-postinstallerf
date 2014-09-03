@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-skb</b>'
+Comment='<span size="xx-large">Tools for a repository of long-living documents</span>'
+Comment3='
+The package provides macros that help to build a document
+repository for long living documents. It focuses on structure
+and re-use of text, code, figures etc. The basic concept is
+first to separate structure from content (i.e., text about a
+topic from the structure it is presented by) and then
+separating the content from the actual published document, thus
+enabling easy re-use of text blocks in different publications
+(i.e., text about a protocol in a short article about this
+protocol as well as in a book about many protocols); all
+without constantly copying or changing text. As a side effect,
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-HTTP-Request-Params</b>'
+Comment='<span size="xx-large">Retrieve GET/POST Parameters from HTTP Requests</span>'
+Comment3='
+This software does all the dirty work of parsing HTTP Requests to find
+incoming query parameters.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/HTTP-Request-Params/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

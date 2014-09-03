@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>embryo-devel</b>'
+Comment='<span size="xx-large">Development files for embryo</span>'
+Comment3='
+Headers, test programs and documentation for embryo
+
+URL          http//www.enlightenment.org
+'
+License='BSD and GPLv2+'
+Screenshot=''
+Url='http://www.enlightenment.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

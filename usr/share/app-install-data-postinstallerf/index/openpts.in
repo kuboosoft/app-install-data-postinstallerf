@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>openpts</b>'
+Comment='<span size="xx-large">TCG Platform Trust Service (PTS)</span>'
+Comment3='
+OpenPTS is an open-source package of Platform Trust Service (PTS)
+'
+License='CPL'
+Screenshot=''
+Url='http://sourceforge.jp/projects/openpts/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gnome-themes-standard</b>'
+Comment='<span size="xx-large">Standard themes for GNOME applications</span>'
+Comment3='
+The gnome-themes-standard package contains the standard theme for the GNOME
+desktop, which provides default appearance for cursors, desktop background,
+window borders and GTK+ applications.
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://git.gnome.org/browse/gnome-themes-standard'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

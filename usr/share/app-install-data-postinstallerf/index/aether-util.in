@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>aether-util</b>'
+Comment='<span size="xx-large">Aether utilities</span>'
+Comment3='
+Aether is a standalone library to resolve, install and deploy
+artifacts the Maven way.  This package provides a collection of
+utility classes to ease usage of Aether repository system.
+'
+License='EPL'
+Screenshot=''
+Url='http://eclipse.org/aether'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

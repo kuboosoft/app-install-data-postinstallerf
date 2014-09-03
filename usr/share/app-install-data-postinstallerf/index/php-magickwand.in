@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>php-magickwand</b>'
+Comment='<span size="xx-large">PHP API for ImageMagick</span>'
+Comment3='
+MagickWand for PHP is a native PHP interface to the new
+ImageMagick MagickWand API. It is an almost complete port
+of the ImageMagick C API, excluding some X-Server related
+functionality and progress monitoring.
+'
+License='ImageMagick'
+Screenshot=''
+Url='http://www.magickwand.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

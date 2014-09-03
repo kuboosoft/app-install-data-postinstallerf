@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>texlive-fcltxdoc</b>'
+Comment='<span size="xx-large">Macros for use in the authors documentation</span>'
+Comment3='
+The package is not advertised for public use, but is necessary
+for the support of others of the authors packages (which are
+compiled under the ltxdoc class).
+
+date 2011-11-03 083049 +0100
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

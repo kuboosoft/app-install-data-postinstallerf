@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-sysv_ipc-examples</b>'
+Comment='<span size="xx-large">Examples for Python sysv_ipc module</span>'
+Comment3='
+This module comes with two demonstration apps. The first (in the directory
+demo) shows how to use shared memory and semaphores. The second (in the
+directory demo2) shows how to use message queues.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://semanchuk.com/philip/sysv_ipc/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

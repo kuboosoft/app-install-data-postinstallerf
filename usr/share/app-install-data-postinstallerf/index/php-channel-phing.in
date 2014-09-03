@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>php-channel-phing</b>'
+Comment='<span size="xx-large">Adds phing channel to PEAR</span>'
+Comment3='
+This package adds the phing channel which allows
+PEAR packages from this channel to be installed.
+'
+License='LGPLv2'
+Screenshot=''
+Url='http://phing.info/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

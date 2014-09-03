@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>leonidas-backgrounds-common</b>'
+Comment='<span size="xx-large">Leonidas desktop backgrounds shared between GNOME and KDE</span>'
+Comment3='
+This package includes the common files used by both GNOME and KDE.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/F11_Artwork'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

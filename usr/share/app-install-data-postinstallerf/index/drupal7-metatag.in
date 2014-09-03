@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>drupal7-metatag</b>'
+Comment='<span size="xx-large">Adds support and an API to implement meta tags</span>'
+Comment3='
+The Metatag module allows you to automatically provide structured metadata,
+aka "meta tags", about your website. In the context of search engine
+optimization, when people refer to meta tags they are usually referring to
+the meta description tag and the meta keywords tag that may help improve
+the rankings and display of your site in search engine results.
+
+Meta tags have additional uses like the Open Graph Protocol used by Facebook,
+specifying the canonical location [2] of content across multiple URLs or
+domains.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drupal.org/project/metatag'
+specifying the canonical location [2] of content across multiple URLs or'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

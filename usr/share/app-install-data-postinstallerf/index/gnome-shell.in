@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gnome-shell</b>'
+Comment='<span size="xx-large">Window management and application launching for GNOME</span>'
+Comment3='
+GNOME Shell provides core user interface functions for the GNOME 3 desktop,
+like switching to windows and launching applications. GNOME Shell takes
+advantage of the capabilities of modern graphics hardware and introduces
+innovative user interface concepts to provide a visually attractive and
+easy to use experience.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://live.gnome.org/GnomeShell'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

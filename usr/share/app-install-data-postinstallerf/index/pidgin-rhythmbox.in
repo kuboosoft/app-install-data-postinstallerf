@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>pidgin-rhythmbox</b>'
+Comment='<span size="xx-large">Rhythmbox plugin for Pidgin</span>'
+Comment3='
+The Pidgin-Rhythmbox plugin will automatically update your Pidgin user and
+status info with the currently playing music in Rhythmbox.
+
+If the artist and title are known, it will also attempt to create a link to
+the songs lyrics by using Googles "Im Feeling Lucky" feature.
+Pidgin-Rhythmbox will replace %rb in your user info and status message with
+the song information.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://jon.oberheide.org/projects/pidgin-rhythmbox/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

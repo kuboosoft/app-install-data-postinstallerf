@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>linux-firmware</b>'
+Comment='<span size="xx-large">Firmware files used by the Linux kernel</span>'
+Comment3='
+This package includes firmware files required for some devices to
+operate.
+'
+License='GPL+ and GPLv2+ and MIT and Redistributable, no modification permitted'
+Screenshot=''
+Url='http://www.kernel.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

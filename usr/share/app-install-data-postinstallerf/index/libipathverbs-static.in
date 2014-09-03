@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>libipathverbs-static</b>'
+Comment='<span size="xx-large">Static version of the libipathverbs driver</span>'
+Comment3='
+Static version of libipathverbs that may be linked directly to an
+application.
+'
+License='GPLv2 or BSD'
+Screenshot=''
+Url='http://www.openfabrics.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gnome-shell-extension-gpaste</b>'
+Comment='<span size="xx-large">GNOME Shell extension for GPaste</span>'
+Comment3='
+GNOME Shell extension for GPaste.
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://github.com/Keruspe/GPaste'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

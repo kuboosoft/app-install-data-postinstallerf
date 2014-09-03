@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>prison-devel</b>'
+Comment='<span size="xx-large">Development files for prison</span>'
+Comment3='
+Development files for prison
+
+URL          https//projects.kde.org/projects/kdesupport/prison
+'
+License='MIT'
+Screenshot=''
+Url='https://projects.kde.org/projects/kdesupport/prison'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

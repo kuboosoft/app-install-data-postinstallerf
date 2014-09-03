@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>gds2pov</b>'
+Comment='<span size="xx-large">GDS2 layout file to POV-Ray conversion</span>'
+Comment3='
+GDS2POV is a program to take a GDS2 layout file
+and output a POV-Ray scene description file of
+the GDS2 data. This allows the creation of
+attractive 3D pictures of a layout.
+
+GDS2POV is mostly used by VLSI designers.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.atchoo.org/gds2pov/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

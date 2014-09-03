@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>maven-changes-plugin</b>'
+Comment='<span size="xx-large">Plugin to support reporting of changes between releases</span>'
+Comment3='
+This plugin is used to inform your users of the changes that have
+occurred between different releases of your project. The plugin can
+extract these changes, either from a changes.xml file or from the JIRA
+issue management system, and present them as a report. You also have
+the option of creating a release announcement and even sending this
+via email to your users.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://maven.apache.org/plugins/maven-changes-plugin'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

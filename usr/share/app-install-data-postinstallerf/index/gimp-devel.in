@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>gimp-devel</b>'
+Comment='<span size="xx-large">GIMP plugin and extension development kit</span>'
+Comment3='
+The gimp-devel package contains the static libraries and header files
+for writing GNU Image Manipulation Program (GIMP) plug-ins and
+extensions.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.gimp.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

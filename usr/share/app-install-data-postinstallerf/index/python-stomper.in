@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-stomper</b>'
+Comment='<span size="xx-large">A python client implementation of the STOMP protocol</span>'
+Comment3='
+This is a python client implementation of the STOMP protocol. The client is
+attempting to be transport layer neutral. This module provides functions to
+create and parse STOMP messages in a programatic fashion.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='https://pypi.python.org/pypi/stomper'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

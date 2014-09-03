@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>perl-Math-FFT</b>'
+Comment='<span size="xx-large">Perl module to calculate Fast Fourier Transforms</span>'
+Comment3='
+This module implements some algorithms for calculating Fast Fourier
+Transforms for one-dimensional data sets of size 2^n.
+'
+License='(GPL+ or Artistic) and Public Domain'
+Screenshot=''
+Url='http://search.cpan.org/dist/Math-FFT/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

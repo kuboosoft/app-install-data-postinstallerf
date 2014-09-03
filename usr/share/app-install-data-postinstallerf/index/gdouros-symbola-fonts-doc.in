@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gdouros-symbola-fonts-doc</b>'
+Comment='<span size="xx-large">Glyph table for gdouros-symbola font</span>'
+Comment3='
+Glyph table for gdouros-symbola font.
+'
+License='Copyright only'
+Screenshot=''
+Url='http://users.teilar.gr/~g1951d/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>perl-Config-GitLike</b>'
+Comment='<span size="xx-large">Git-compatible config file parsing</span>'
+Comment3='
+This module handles interaction with configuration files of the style used
+by the version control system Git. It can both parse and modify these
+files, as well as create entirely new ones.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/Config-GitLike/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

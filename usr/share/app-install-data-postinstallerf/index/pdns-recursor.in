@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>pdns-recursor</b>'
+Comment='<span size="xx-large">Modern, advanced and high performance recursing/non authoritative name server</span>'
+Comment3='
+PowerDNS Recursor is a non authoritative/recursing DNS server. Use this
+package if you need a dns cache for your network.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://powerdns.com'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

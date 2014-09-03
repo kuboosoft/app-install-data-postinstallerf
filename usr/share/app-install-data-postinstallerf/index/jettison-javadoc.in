@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jettison-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for jettison</span>'
+Comment3='
+This package contains the API documentation for jettison.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://jettison.codehaus.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>pyjamas-doc</b>'
+Comment='<span size="xx-large">Documentation files for pyjamas</span>'
+Comment3='
+This package includes the documentation files that ship with pyjamas.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pyjs.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

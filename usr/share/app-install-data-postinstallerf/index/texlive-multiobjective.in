@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-multiobjective</b>'
+Comment='<span size="xx-large">Symbols for multibojective optimisation etc</span>'
+Comment3='
+The package provides a series of operators commonly used in
+papers related to multiobjective optimisation, multiobjective
+evolutionary algorithms, multicriteria decision making and
+similar fields.
+
+date 2008-09-09 112707 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

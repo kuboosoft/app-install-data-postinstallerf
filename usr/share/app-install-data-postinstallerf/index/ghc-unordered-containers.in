@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>ghc-unordered-containers</b>'
+Comment='<span size="xx-large">Efficient hashing-based container types</span>'
+Comment3='
+Efficient hashing-based container types.  The containers have been
+optimized for performance critical use, both in terms of large data
+quantities and high speed.
+
+The declared cost of each operation is either worst-case or
+amortized, but remains valid even if structures are shared.
+'
+License='BSD'
+Screenshot=''
+Url='http://hackage.haskell.org/package/unordered-containers'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

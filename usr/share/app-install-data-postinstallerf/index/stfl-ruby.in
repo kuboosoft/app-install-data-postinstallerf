@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>stfl-ruby</b>'
+Comment='<span size="xx-large">Ruby binding for STFL</span>'
+Comment3='
+Ruby binding for STFL.
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.clifford.at/stfl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

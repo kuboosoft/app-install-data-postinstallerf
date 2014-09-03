@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>argtable</b>'
+Comment='<span size="xx-large">Cross platform C library for parsing GNU style command line arguments</span>'
+Comment3='
+Argtable is an ANSI C library for parsing GNU style command line
+arguments. It enables a programs command line syntax to be defined in
+the source code as an array of argtable structs. The command line is
+then parsed according to that specification and the resulting values
+are returned in those same structs where they are accessible to the main
+are supported, as are multiple instances of each argument.
+Syntax error handling is automatic.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://argtable.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

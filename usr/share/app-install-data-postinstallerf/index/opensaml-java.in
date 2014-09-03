@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>opensaml-java</b>'
+Comment='<span size="xx-large">Java OpenSAML library</span>'
+Comment3='
+OpenSAML is a set of open source C++ & Java libraries meant to support
+developers working with the Security Assertion Markup Language (SAML).
+OpenSAML 2, the current version, supports SAML 1.0, 1.1, and 2.0.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://www.opensaml.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

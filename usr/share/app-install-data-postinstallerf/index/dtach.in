@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>dtach</b>'
+Comment='<span size="xx-large">A simple program that emulates the detach feature of screen</span>'
+Comment3='
+
+dtach is a program that emulates the detach feature of screen, with
+less overhead.  It is designed to be transparent and un-intrusive; it
+avoids interpreting the input and output between attached terminals
+and the program under its control. Consequently, it works best with
+full-screen applications such as emacs.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://dtach.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

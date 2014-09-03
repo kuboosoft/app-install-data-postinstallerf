@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>jsonp</b>'
+Comment='<span size="xx-large">JSR 353 (JSON Processing) RI</span>'
+Comment3='
+JSR 353 Java API for Processing JSON RI.
+'
+License='CDDL or GPLv2 with exceptions'
+Screenshot=''
+Url='http://java.net/projects/jsonp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

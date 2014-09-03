@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>csdp-octave</b>'
+Comment='<span size="xx-large">Octave interface to CSDP</span>'
+Comment3='
+This package contains an Octave interface to the C library for
+SemiDefinite Programming.
+'
+License='CPL'
+Screenshot=''
+Url='https://projects.coin-or.org/Csdp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>gcube</b>'
+Comment='<span size="xx-large">Nintendo Gamecube emulator</span>'
+Comment3='
+A Nintendo Gamecube emulator which uses SDL
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://gcube.exemu.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

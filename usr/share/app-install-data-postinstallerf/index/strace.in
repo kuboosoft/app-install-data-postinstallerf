@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>strace</b>'
+Comment='<span size="xx-large">Tracks and displays system calls associated with a running process</span>'
+Comment3='
+The strace program intercepts and records the system calls called and
+received by a running process.  Strace can print a record of each
+system call, its arguments and its return value.  Strace is useful for
+diagnosing problems and debugging, as well as for instructional
+purposes.
+
+Install strace if you need a tool to track the system calls made and
+received by a process.
+'
+License='BSD'
+Screenshot=''
+Url='http://sourceforge.net/projects/strace/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

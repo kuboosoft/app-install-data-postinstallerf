@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>gcc-python-plugin-c-api</b>'
+Comment='<span size="xx-large">Shared library to make it easier to write GCC plugins</span>'
+Comment3='
+Shared library to make it easier to write GCC plugins
+
+Requires gcc = 4.8.2-1.fc20
+'
+License='GPLv3+'
+Screenshot=''
+Url='https://fedorahosted.org/gcc-python-plugin/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

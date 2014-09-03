@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>ruby-RMagick-doc</b>'
+Comment='<span size="xx-large">Documentation for ruby-RMagick</span>'
+Comment3='
+This package contains documentaton files for ruby-RMagick.
+'
+License='MIT'
+Screenshot=''
+Url='http://rmagick.rubyforge.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

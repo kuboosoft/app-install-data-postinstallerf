@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>dbus-sharp-glib</b>'
+Comment='<span size="xx-large">C# bindings for D-Bus glib main loop integration</span>'
+Comment3='
+C# bindings for D-Bus glib main loop integration
+'
+License='MIT'
+Screenshot=''
+Url='http://mono.github.com/dbus-sharp/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

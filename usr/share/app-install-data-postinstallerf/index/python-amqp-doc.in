@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>python-amqp-doc</b>'
+Comment='<span size="xx-large">Documentation for python-amqp</span>'
+Comment3='
+Documentation for python-amqp
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://pypi.python.org/pypi/amqp'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

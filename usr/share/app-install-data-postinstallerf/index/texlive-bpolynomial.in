@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>texlive-bpolynomial</b>'
+Comment='<span size="xx-large">Drawing polynomial functions of up to order 3</span>'
+Comment3='
+This MetaPost package helps plotting polynomial and root
+functions up to order three. The package provides macros to
+calculate Bezier curves exactly matching a given constant,
+linear, quadratic or cubic polynomial, or square or cubic root
+function. In addition, tangents on all functions and
+derivatives of polynomials can be calculated.
+
+date 2008-08-17 010050 +0200
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

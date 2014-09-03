@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>gucharmap</b>'
+Comment='<span size="xx-large">Unicode character picker and font browser</span>'
+Comment3='
+This program allows you to browse through all the available Unicode
+characters and categories for the installed fonts, and to examine their
+detailed properties. It is an easy way to find the character you might
+only know by its Unicode name or code point.
+
+'
+License='GPLv3+ and GFDL and MIT'
+Screenshot=''
+Url='http://live.gnome.org/Gucharmap'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

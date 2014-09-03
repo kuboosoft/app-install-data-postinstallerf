@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-six</b>'
+Comment='<span size="xx-large">Python 2 and 3 compatibility utilities</span>'
+Comment3='
+python-six provides simple utilities for wrapping over differences between
+Python 2 and Python 3.
+
+This is the Python 2 build of the module.
+'
+License='MIT'
+Screenshot=''
+Url='http://pypi.python.org/pypi/six/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

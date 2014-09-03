@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>pytrailer</b>'
+Comment='<span size="xx-large">Python module to simplify access to movie trailers on apple.com</span>'
+Comment3='
+Pytrailer is very simple python module using JSON and few simple
+regular expressions to simplify access to trailer information on
+www.apple.com/trailers.
+'
+License='LGPLv3'
+Screenshot=''
+Url='http://github.com/sochotnicky/pytrailer'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

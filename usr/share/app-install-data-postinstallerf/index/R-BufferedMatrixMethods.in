@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>R-BufferedMatrixMethods</b>'
+Comment='<span size="xx-large">Microarray Data related methods that utlize BufferedMatrix</span>'
+Comment3='
+Microarray analysis methods that use BufferedMatrix objects
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://bioconductor.org/packages/release/bioc/html/BufferedMatrixMethods.html'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

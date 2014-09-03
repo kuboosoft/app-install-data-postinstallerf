@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>opensaml-java-xmltooling-javadoc</b>'
+Comment='<span size="xx-large">Javadocs for opensaml-java-xmltooling</span>'
+Comment3='
+This package contains the API documentation for opensaml-java-xmltooling.
+'
+License='ASL 2.0 and W3C'
+Screenshot=''
+Url='http://www.opensaml.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>aws-tools</b>'
+Comment='<span size="xx-large">Tools for aws</span>'
+Comment3='
+Tools for aws
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://libre.adacore.com/tools/aws'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

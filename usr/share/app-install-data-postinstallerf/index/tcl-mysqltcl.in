@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>tcl-mysqltcl</b>'
+Comment='<span size="xx-large">MySQL interface for Tcl</span>'
+Comment3='
+Mysqltcl is an extension to the Tool Command Language (Tcl) that
+provides high-level access to a MySQL database server.
+'
+License='MIT'
+Screenshot=''
+Url='http://www.xdobry.de/mysqltcl'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

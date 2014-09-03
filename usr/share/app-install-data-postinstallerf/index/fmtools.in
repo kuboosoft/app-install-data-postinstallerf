@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>fmtools</b>'
+Comment='<span size="xx-large">Simple Video for Linux radio card programs</span>'
+Comment3='
+This is a pair of hopefully useful control programs for Video for Linux
+(v4l2) radio card drivers.  The focus is on control, so you may find these
+programs a bit unfriendly.  Users are encouraged to investigate the source
+and create wrappers or new programs based on this design.
+
+fm      - a simple tuner
+fmscan  - a simple band scanner
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://benpfaff.org/fmtools'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>ppl-docs</b>'
+Comment='<span size="xx-large">Documentation for the Parma Polyhedra Library</span>'
+Comment3='
+This package contains all the documentations required by programmers
+using the Parma Polyhedra Library (PPL).
+Install this package if you want to program with the PPL.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.cs.unipr.it/ppl/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

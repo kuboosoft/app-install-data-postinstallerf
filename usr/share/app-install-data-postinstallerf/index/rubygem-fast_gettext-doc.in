@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>rubygem-fast_gettext-doc</b>'
+Comment='<span size="xx-large">Documentation for rubygem-fast_gettext</span>'
+Comment3='
+Documentation for rubygem-fast_gettext
+'
+License='MIT and (GPLv2+ or Ruby)'
+Screenshot=''
+Url='http://github.com/grosser/fast_gettext'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

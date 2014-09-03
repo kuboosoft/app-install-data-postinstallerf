@@ -1,0 +1,21 @@
+#!/bin/sh
+Name='<b>qtsinglecoreapplication</b>'
+Comment='<span size="xx-large">Qt library to start applications only once per user</span>'
+Comment3='
+For some applications it is useful or even critical that they are started
+only once by any user. Future attempts to start the application should
+activate any already running instance, and possibly perform requested
+actions, e.g. loading a file, in that instance.
+
+For console (non-GUI) applications, the QtSingleCoreApplication variant
+is provided, which avoids dependency on QtGui.
+'
+License='GPLv3 or LGPLv2 with exceptions'
+Screenshot=''
+Url='http://qt.nokia.com/products/appdev/add-on-products/catalog/4/Utilities/qtsingleapplication'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

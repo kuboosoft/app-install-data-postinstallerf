@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>postgresql-pgpool-II-devel</b>'
+Comment='<span size="xx-large">The development files for pgpool-II</span>'
+Comment3='
+Development headers and libraries for pgpool-II.
+
+URL          http//pgpool.net
+'
+License='BSD'
+Screenshot=''
+Url='http://pgpool.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

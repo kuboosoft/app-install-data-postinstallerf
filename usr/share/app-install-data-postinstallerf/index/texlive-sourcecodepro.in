@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-sourcecodepro</b>'
+Comment='<span size="xx-large">Use SourceCodePro with TeX(-alike) systems</span>'
+Comment3='
+The font is an open-source Monospaced development from Adobe.
+The package provides fonts (in both Adobe Type 1 and OpenType
+formats) and macros supporting their use in LaTeX (Type 1) and
+XeLaTeX/LuaLaTeX (OTF).
+
+date 2013-10-24 203416 +0200
+'
+License='OFL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

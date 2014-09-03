@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>python-django-authopenid</b>'
+Comment='<span size="xx-large">OpenID authentication application for Django</span>'
+Comment3='
+Django authentication application with openid using django auth
+contrib. This application allows a user to connect to you website
+with a legacy account (user name/password) or an openid URL.
+'
+License='ASL 2.0'
+Screenshot=''
+Url='http://pypi.python.org/pypi/django-authopenid/'
+with a legacy account (user name/password) or an openid URL.'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

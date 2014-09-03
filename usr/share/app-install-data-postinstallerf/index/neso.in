@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>neso</b>'
+Comment='<span size="xx-large">Standalone Client/Server for the Tryton Application Platform</span>'
+Comment3='
+The client/server of the Tryton application platform.
+A three-tiers  high-level general purpose application platform
+written in Python and use SQLite as database engine.
+It is the core base of an Open Source ERP.
+It provides modularity, scalability and security.
+'
+License='GPLv3+'
+Screenshot=''
+Url='http://www.tryton.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

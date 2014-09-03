@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>kdepimlibs-akonadi</b>'
+Comment='<span size="xx-large">Akonadi runtime support for kdepimlibs</span>'
+Comment3='
+Akonadi runtime support for kdepimlibs.
+
+URL          http//www.kde.org/
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.kde.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

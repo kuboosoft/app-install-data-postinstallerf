@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>solar-backgrounds-extras</b>'
+Comment='<span size="xx-large">Solar HD desktop backgrounds</span>'
+Comment3='
+This package includes more resolutions for the Solar theme desktop backgrounds.
+'
+License='CC-BY-SA'
+Screenshot=''
+Url='https://fedoraproject.org/wiki/Artwork/F10Themes/Solar'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>vollkorn-fonts</b>'
+Comment='<span size="xx-large">A serif Latin font with good readability</span>'
+Comment3='
+Serif Latin font by Friedrich Althausen with focus on good readability.
+Because of this it is relatively dark and strong and has emphasized serifs.
+Vollkorn will especially work well in body type sizes with its familiar and
+smooth overall picture.
+'
+License='OFL'
+Screenshot=''
+Url='http://friedrichalthausen.de/?page_id=411'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>libmtcp-devel</b>'
+Comment='<span size="xx-large">MTCP developer package</span>'
+Comment3='
+This package provides files for developing applications that need to
+interact with MTCP as opposed to DMTCP.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://dmtcp.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,24 @@
+#!/bin/sh
+Name='<b>texlive-toptesi</b>'
+Comment='<span size="xx-large">Bundle of files for typsetting theses</span>'
+Comment3='
+This bundle contains everything is needed for typesetting a
+bachelor, master or PhD thesis in Italian (or in any other
+language supported by LaTeX the bundle is constructed to
+support multilingual use). The infix strings may be selected
+and specified at will by means of a configuration file, so as
+to customize the layout of the front page to the requirements
+of a specific university. Thanks to its language management,
+the bundle is suited for multilanguage theses that are becoming
+more and more frequent thanks to the double degree programs of
+the European Community Socrates programs. Toptesi is designed
+'
+License='LPPL 1.3'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

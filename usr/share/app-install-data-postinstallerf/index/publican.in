@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>publican</b>'
+Comment='<span size="xx-large">Common files and scripts for publishing with DocBook XML</span>'
+Comment3='
+Publican is a DocBook publication system, not just a DocBook processing tool.
+As well as ensuring your DocBook XML is valid, publican works to ensure
+your XML is up to publishable standard.
+'
+License='(GPLv2+ or Artistic) and CC0'
+Screenshot=''
+Url='https://publican.fedorahosted.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

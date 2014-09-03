@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>python-cssselect</b>'
+Comment='<span size="xx-large">Parses CSS3 Selectors and translates them to XPath 1.0</span>'
+Comment3='
+Cssselect parses CSS3 Selectors and translates them to XPath 1.0 expressions.
+Such expressions can be used in lxml or another XPath engine to find the
+matching elements in an XML or HTML document.
+'
+License='BSD'
+Screenshot=''
+Url='http://packages.python.org/cssselect/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

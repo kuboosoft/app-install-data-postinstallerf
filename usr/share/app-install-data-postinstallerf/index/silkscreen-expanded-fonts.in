@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>silkscreen-expanded-fonts</b>'
+Comment='<span size="xx-large">Expanded Silkscreen font family</span>'
+Comment3='
+
+Silkscreen is a four member type family for your Web graphics created by Jason
+Kottke. Silkscreen is best used in places where extremely small graphical
+display type is needed. The primary use is for navigational items (nav bars,
+menus, etc), but it works well wherever small type is needed. In order to
+preserve the proper spacing and letterforms, Silkscreen should be used at 8pt.
+multiples (8pt., 16pt., 24pt., etc.) with anti-aliasing turned off.
+This font family has a slightly expanded spacing between the letters in
+comparison to the normal Silkscreen font family.
+'
+License='OFL'
+Screenshot=''
+Url='http://www.kottke.org/plus/type/silkscreen/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,22 @@
+#!/bin/sh
+Name='<b>netembryo</b>'
+Comment='<span size="xx-large">Network abstraction library</span>'
+Comment3='
+Netembryo is a network abstraction library (originated from our old wrapper
+socket) plus some misc utility functions used as foundation for feng,
+libnemesi, felix.
+
+It provides an uniform access to the following protocols
+    * UDP
+    * TCP
+    * SCTP
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.lscube.org/projects/netembryo'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url
