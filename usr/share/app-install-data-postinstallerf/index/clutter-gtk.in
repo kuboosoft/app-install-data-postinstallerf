@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>clutter-gtk</b>'
+Comment='<span size="xx-large">A basic GTK clutter widget</span>'
+Comment3='
+clutter-gtk is a library which allows the embedding of a Clutter
+canvas (or "stage") into a GTK+ application, as well as embedding
+GTK+ widgets inside the stage.
+
+'
+License='LGPLv2+'
+Screenshot=''
+Url='http://www.clutter-project.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

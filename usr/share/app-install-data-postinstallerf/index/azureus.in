@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>azureus</b>'
+Comment='<span size="xx-large">A BitTorrent Client</span>'
+Comment3='
+Azureus (now Vuze) implements the BitTorrent protocol using java
+and comes bundled with many invaluable features for both beginners and
+advanced users.
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://azureus.sourceforge.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

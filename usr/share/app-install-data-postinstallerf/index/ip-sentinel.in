@@ -1,0 +1,19 @@
+#!/bin/sh
+Name='<b>ip-sentinel</b>'
+Comment='<span size="xx-large">Tool to prevent unauthorized usage of IP addresses</span>'
+Comment3='
+IP Sentinel is a tool that tries to prevent unauthorized usage of
+IP addresses within an ethernet broadcast domain by answering ARP
+requests. After receiving faked replies, requesting parties store
+the MAC in their ARP tables and will send future packets to this
+invalid MAC, rendering the IP unreachable.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.nongnu.org/ip-sentinel/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

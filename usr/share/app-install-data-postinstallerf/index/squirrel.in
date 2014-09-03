@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>squirrel</b>'
+Comment='<span size="xx-large">High level imperative/OO programming language</span>'
+Comment3='
+Squirrel is a high level imperative/OO programming language, designed
+to be a powerful scripting tool that fits in the size, memory bandwidth,
+and real-time requirements of applications like games.
+'
+License='zlib'
+Screenshot=''
+Url='http://squirrel-lang.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

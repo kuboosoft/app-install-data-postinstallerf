@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>kde-plasma-ihatethecashew</b>'
+Comment='<span size="xx-large">Removes the KDE Plasma Cashew From the Corner of the Display</span>'
+Comment3='
+Removes the KDE Plasma Cashew From the Corner of the Display.
+'
+License='GPLv2'
+Screenshot=''
+Url='http://www.kde-look.org/content/show.php/I+HATE+the+Cashew?content=91009'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

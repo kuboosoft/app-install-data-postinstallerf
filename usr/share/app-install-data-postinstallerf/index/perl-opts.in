@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>perl-opts</b>'
+Comment='<span size="xx-large">Simple command line option parser</span>'
+Comment3='
+opts is a DSL for quickly and easily handling command line options.
+'
+License='GPL+ or Artistic'
+Screenshot=''
+Url='http://search.cpan.org/dist/opts'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

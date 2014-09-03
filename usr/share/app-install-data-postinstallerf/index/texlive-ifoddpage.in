@@ -1,0 +1,15 @@
+#!/bin/sh
+Name='<b>texlive-ifoddpage</b>'
+Comment='<span size="xx-large">ifoddpage package</span>'
+Comment3='
+ifoddpage package
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

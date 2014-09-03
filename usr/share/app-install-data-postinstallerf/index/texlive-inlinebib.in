@@ -1,0 +1,20 @@
+#!/bin/sh
+Name='<b>texlive-inlinebib</b>'
+Comment='<span size="xx-large">Citations in footnotes</span>'
+Comment3='
+A BibTeX style and a LaTeX package that allow for a full
+bibliography at the end of the document as well as citation
+details in footnotes. The footnote details include "op. cit."
+and "ibid." contractions.
+
+date 2006-12-12 002931 +0100
+'
+License='LPPL'
+Screenshot=''
+Url='http://tug.org/texlive/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

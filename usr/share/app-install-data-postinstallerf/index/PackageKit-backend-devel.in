@@ -1,0 +1,17 @@
+#!/bin/sh
+Name='<b>PackageKit-backend-devel</b>'
+Comment='<span size="xx-large">Headers to compile out of tree PackageKit backends</span>'
+Comment3='
+Headers to compile out of tree PackageKit backends.
+
+URL          http//www.packagekit.org
+'
+License='GPLv2+ and LGPLv2+'
+Screenshot=''
+Url='http://www.packagekit.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

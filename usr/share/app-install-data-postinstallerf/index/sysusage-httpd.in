@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>sysusage-httpd</b>'
+Comment='<span size="xx-large">Apache configuration for sysusage</span>'
+Comment3='
+This package provides the Apache configuration for
+applications using an Alias to sysusage.
+'
+License='GPLv3'
+Screenshot=''
+Url='http://sysusage.darold.net'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

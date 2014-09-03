@@ -1,0 +1,23 @@
+#!/bin/sh
+Name='<b>pki-tps-tomcat</b>'
+Comment='<span size="xx-large">Certificate System - Token Processing Service</span>'
+Comment3='
+The Token Processing System (TPS) is an optional PKI subsystem that acts
+as a Registration Authority (RA) for authenticating and processing
+enrollment requests, PIN reset requests, and formatting requests from
+the Enterprise Security Client (ESC).
+
+TPS is designed to communicate with tokens that conform to
+Global Platforms Open Platform Specification.
+TPS communicates over SSL with various PKI backend subsystems (including
+the Certificate Authority (CA), the Data Recovery Manager (DRM), and the
+'
+License='GPLv2'
+Screenshot=''
+Url='http://pki.fedoraproject.org/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

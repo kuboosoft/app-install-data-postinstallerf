@@ -1,0 +1,18 @@
+#!/bin/sh
+Name='<b>libkolabxml</b>'
+Comment='<span size="xx-large">Kolab XML format collection parser library</span>'
+Comment3='
+The libkolabxml parsing library interprets Kolab XML formats (xCal, xCard)
+with bindings for Python, PHP and other languages. The language bindings
+are available through sub-packages.
+
+'
+License='LGPLv3+'
+Screenshot=''
+Url='http://www.kolab.org'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url

@@ -1,0 +1,16 @@
+#!/bin/sh
+Name='<b>disktype</b>'
+Comment='<span size="xx-large">Detect the content format of a disk or disk image</span>'
+Comment3='
+The purpose of disktype is to detect the content format of a disk or disk
+image. It knows about common file systems, partition tables, and boot codes.
+'
+License='MIT'
+Screenshot=''
+Url='http://disktype.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url
