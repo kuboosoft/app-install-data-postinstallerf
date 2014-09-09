@@ -1,0 +1,27 @@
+#!/bin/sh
+Name='<b>drawpile</b>'
+Comment='<span size="xx-large">A collaborative drawing program</span>'
+Comment3='
+DrawPile is a sketching oriented drawing program with a twist:
+you can share your drawing live with other users.
+There are no restrictions on who may draw where; every user has
+full access to the whole picture simultaneously.
+
+Feature highlights:
+    * Antialiased drawing and multiple blending modes
+    * Layers
+    * Text annotations
+    * Tablet pressure sensitivity
+    * Image may be rotated freely while drawing
+    * Built-in server for hosting shared sessions
+    * Chat
+'
+License='GPLv2+'
+Screenshot=''
+Url='http://drawpile.sourceforge.net/'
+export Comment
+export Name
+export Comment3
+export License
+export Screenshot
+export Url
