@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=/usr/bin/postinstallerf/skype-installer
+Name=Skype Installer
+Comment=Skype Internet Telephony
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/skype.png
+Categories=Network;Application;
+StartupNotify=true

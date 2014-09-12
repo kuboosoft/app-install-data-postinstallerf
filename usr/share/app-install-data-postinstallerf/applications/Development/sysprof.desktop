@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sysprof
-Version=1.0
-Name=Sysprof Profiler
-Comment=A system-wide linux profiler
-Icon=/usr/share/app-install-data-postinstallerf/icons/sysprof.png
-Type=Application
-Categories=Profiling;Development;

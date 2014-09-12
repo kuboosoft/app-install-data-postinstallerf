@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tuxcmd
-Name=Tux Commander
-Comment=A two panel file manager
-Icon=/usr/share/app-install-data-postinstallerf/icons/tuxcmd.png
-Terminal=false
-Type=Application
-Categories=GTK;Utility;
-StartupNotify=true

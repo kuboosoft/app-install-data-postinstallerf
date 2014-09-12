@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n stormbaancoureur
-Name=Stormbaan Coureur
-Comment=simulated obstacle course for automobiles
-Icon=/usr/share/app-install-data-postinstallerf/icons/stormbaancoureur.png
-Terminal=false
-Type=Application
-Categories=Game;ActionGame;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n nagstamon
-Type=Application
-Name=nagstamon
-Comment=Nagios status monitor 
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_nagstamon_Nagstamon_resources_nagstamon.png
-Terminal=false
-Categories=System;Monitor;GTK;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n hybrid-encoder
-Name=Hybrid
-Comment=Qt based frontend for a bunch of other tools which can convert nearly every input to x264/Xvid/VP8 + ac3/ogg/mp3/aac/flac inside an mp4/m2ts/mkv/webm/mov/avi container, a Blu-ray or an AVCHD structure.
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/hybrid.png
-Categories=GNOME;GTK;AudioVideo;

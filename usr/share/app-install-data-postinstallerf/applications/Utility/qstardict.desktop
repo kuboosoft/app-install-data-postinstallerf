@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qstardict
-Version=1.0
-Comment=QStarDict is Qt version of StarDict
-GenericName=Dictionary
-Icon=/usr/share/app-install-data-postinstallerf/icons/qstardict.png
-Name=QStarDict
-Type=Application
-Categories=Qt;Dictionary;Utility

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gcolor2
-Name=Gcolor2
-GenericName=Gcolor2
-Comment=Simple GTK2 color selector and picker
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_gcolor2_gcolor2.png
-Terminal=false
-Type=Application
-Categories=Application;Graphics;

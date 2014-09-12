@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pychess
-Type=Application
-Name=PyChess
-Comment=PyChess is a fully featured, nice looking, easy to use chess client for the Gnome desktop
-GenericName=Chess Game
-Icon=/usr/share/app-install-data-postinstallerf/icons/pychess.png
-Terminal=false
-Categories=Game;BoardGame;

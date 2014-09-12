@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n crack-attack
-Name=Crack Attack
-Comment=Puzzle game similar to Tetris Attack
-Icon=/usr/share/app-install-data-postinstallerf/icons/crack-attack.png
-Terminal=false
-Type=Application
-Categories=Application;Game;BlocksGame;
-StartupNotify=false

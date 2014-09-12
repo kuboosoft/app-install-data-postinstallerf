@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sparkleshare
-Type=Application
-Name=SparkleShare
-Icon=/usr/share/app-install-data-postinstallerf/icons/folder-sparkleshare.png
-Terminal=false
-Categories=Network;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n lordsawar
-Name=LordsAWar
-GenericName=Turn-based strategy game
-Comment=Play a clone of Warlords II
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/lordsawar.png
-Terminal=false
-Categories=Game;StrategyGame;

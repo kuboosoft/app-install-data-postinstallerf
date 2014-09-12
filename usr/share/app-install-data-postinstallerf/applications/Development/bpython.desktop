@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bpython
-Icon=/usr/share/app-install-data-postinstallerf/icons/bpython.png
-Name=bpython
-Comment=A fancy interface to the python interpreter!
-Terminal=false
-Type=Application
-Categories=Development;Utility;ConsoleOnly;
-StartupNotify=true

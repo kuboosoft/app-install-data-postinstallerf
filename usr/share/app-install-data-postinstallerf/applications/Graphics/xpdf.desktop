@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xpdf
-Name=xpdf
-GenericName=PDF viewer
-Comment=View PDF files
-Icon=/usr/share/app-install-data-postinstallerf/icons/xpdf.png
-Terminal=false
-Type=Application
-Categories=Viewer;Graphics;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gjots2
-Name=Gjots2 Jotter
-Comment=Store and organise your random notes
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/gjots.png
-Categories=GNOME;Application;Utility;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n hotwire
-Name=Hotwire Shell
-GenericName=Command prompt
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/hotwire.png
-Categories=GNOME;GTK;Utility;TerminalEmulator;System;
-StartupNotify=true

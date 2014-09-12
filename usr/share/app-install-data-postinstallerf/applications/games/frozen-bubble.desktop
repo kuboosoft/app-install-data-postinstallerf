@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n frozen-bubble
-Name=Frozen-Bubble
-Comment=Pop out the bubbles!
-Icon=/usr/share/app-install-data-postinstallerf/icons/frozen-bubble.png
-Terminal=false
-Type=Application
-Categories=Game;ArcadeGame;

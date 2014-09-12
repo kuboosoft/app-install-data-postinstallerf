@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n basket
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/basket.png
-Comment=A multi-purpose note-taking application that makes it easy to write down ideas as you think, and quickly find them later
-Terminal=false
-Name=Basket
-Categories=Qt;KDE;Utility;

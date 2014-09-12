@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n vodovod
-Type=Application
-Name=vodovod
-GenericName=
-Comment=
-Icon=/usr/share/app-install-data-postinstallerf/icons/vodovod.png
-Terminal=false
-Categories=Game;ArcadeGame;

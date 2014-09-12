@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n flowblade
-Name=Flowblade
-Comment=Multitrack non-linear video editor for Linux
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/flowblade.png
-Categories=GNOME;GTK;AudioVideo;

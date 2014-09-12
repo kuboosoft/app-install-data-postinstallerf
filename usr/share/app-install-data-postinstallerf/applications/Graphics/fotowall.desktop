@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fotowall
-Name=Fotowall
-GenericName=Fotowall
-Comment=Photo collection creativity tool
-Icon=/usr/share/app-install-data-postinstallerf/icons/fotowall.png
-Terminal=false
-Type=Application
-Categories=Graphics;Publishing;

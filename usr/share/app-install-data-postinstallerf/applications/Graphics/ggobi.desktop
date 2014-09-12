@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ggobi
-Version=1.0
-Type=Application
-Name=GGobi
-GenericName=Data Analysis Tool
-Comment=Multivariate interactive graphics for exploratory data analysis
-Icon=/usr/share/app-install-data-postinstallerf/icons/ggobi.png
-Categories=Graphics;2DGraphics

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n lmarbles
-Version=1.0
-Type=Application
-Name=LMarbles
-GenericName=Puzzle game
-Comment=Build figures out of colored marbles
-Icon=/usr/share/app-install-data-postinstallerf/icons/lmarbles.png
-Categories=Game;LogicGame

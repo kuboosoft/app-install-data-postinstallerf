@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n cheat
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
-Comment=Create and view interactive cheatsheets on the command-line
-Terminal=false
-Name=Cheat
-Categories=Qt;KDE;Utility;

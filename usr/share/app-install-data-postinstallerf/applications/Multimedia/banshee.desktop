@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n banshee
-Name=Banshee
-Comment=Play and organize your media collection
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/banshee.png
-Categories=GNOME;GTK;AudioVideo;

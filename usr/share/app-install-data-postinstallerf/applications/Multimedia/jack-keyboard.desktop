@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n jack-keyboard
-Name=JACK Keyboard
-Comment=Virtual keyboard for JACK MIDI
-Icon=/usr/share/app-install-data-postinstallerf/icons/jack-keyboard.png
-Categories=AudioVideo;Audio;Midi;
-Terminal=false
-Type=Application

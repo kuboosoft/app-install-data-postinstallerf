@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n x2goclient
-Version=3.99.2.0
-Type=Application
-Name=X2Go Client
-Icon=/usr/share/app-install-data-postinstallerf/icons/x2goclient.png
-StartupWMClass=x2goclient
-Terminal=false
-Categories=Qt;KDE;Network

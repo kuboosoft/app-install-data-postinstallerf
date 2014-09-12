@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sigram
-Name=Sigram
-Comment=A different Telegram client from Sialan.labs
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
-Categories=TextEditor;Network;
-StartupNotify=true

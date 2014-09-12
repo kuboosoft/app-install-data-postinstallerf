@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n teeworlds
-Type=Application
-Name=Teeworlds
-GenericName=Platform Game
-Comment=An online multi-player platform 2D shooter
-Icon=/usr/share/app-install-data-postinstallerf/icons/teeworlds.png
-Categories=Game;ArcadeGame;

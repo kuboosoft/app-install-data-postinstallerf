@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pithos
-Name=Pithos
-Comment=Play music from Pandora Radio
-Categories=GNOME;AudioVideo;Player;
-Icon=/usr/share/app-install-data-postinstallerf/icons/pithos.png
-Terminal=false
-Type=Application

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mmc
-Name=Mobile Media Converter
-Comment=Converts mp3, wma, ogg, wav audio files to AMR files and vice-versa.
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/mmc.png
-Categories=GNOME;GTK;AudioVideo;

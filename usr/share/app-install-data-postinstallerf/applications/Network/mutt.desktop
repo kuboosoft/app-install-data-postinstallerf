@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mutt
-Categories=Office;Network;Email
-Comment=Simple text-based Mail User Agent
-Icon=/usr/share/app-install-data-postinstallerf/icons/mutt.png
-Name=mutt
-Terminal=true
-Type=Application

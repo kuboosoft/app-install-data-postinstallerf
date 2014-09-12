@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n wink
-Name=Wink
-Comment=Tutorial and Presentation creation software, primarily aimed at creating tutorials on how to use software
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/wink.png
-Categories=GNOME;GTK;AudioVideo;

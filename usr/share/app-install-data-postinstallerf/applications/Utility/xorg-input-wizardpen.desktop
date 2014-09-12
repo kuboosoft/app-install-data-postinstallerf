@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xorg-input-wizardpen
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
-Comment=Xorg driver for Genius tablets
-Terminal=false
-Name=Wizardpen
-Categories=Qt;KDE;Utility;

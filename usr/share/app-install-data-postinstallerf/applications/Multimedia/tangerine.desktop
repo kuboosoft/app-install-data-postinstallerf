@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tangerine
-Name=Tangerine
-Comment=Video slow motion effect via interpolation
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/tangerine.png
-Categories=GNOME;GTK;AudioVideo;

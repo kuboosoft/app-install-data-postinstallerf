@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tecnoballz
-Type=Application
-Name=TecnoballZ
-GenericName=tecnoballz
-Comment=Play an Arkanoid-like game
-Icon=/usr/share/app-install-data-postinstallerf/icons/tecnoballz.png
-Terminal=false
-Categories=Game;ArcadeGame;

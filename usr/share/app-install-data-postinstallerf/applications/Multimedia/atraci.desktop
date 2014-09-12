@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n atraci
-Name=Atraci
-Comment=Open Source Youtube player that lets you listen instantly to more than 60 million songs
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/atraci.png
-Categories=GNOME;GTK;AudioVideo;

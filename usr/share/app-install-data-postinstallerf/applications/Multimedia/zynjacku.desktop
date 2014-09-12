@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n zynjacku
-Type=Application
-Name=Zynjacku
-GenericName=LV2 synths host
-Comment=LV2 synths host for JACK
-Icon=/usr/share/app-install-data-postinstallerf/icons/zynjacku32x32.png
-Terminal=false
-Categories=AudioVideo;Audio;

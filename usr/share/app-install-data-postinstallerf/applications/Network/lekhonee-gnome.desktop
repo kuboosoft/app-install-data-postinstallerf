@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n lekhonee-gnome
-Type=Application
-Name=Lekhonee Gnome
-GenericName=A Wordpress blog client
-Comment=A Wordpress blog client
-Icon=/usr/share/app-install-data-postinstallerf/icons/lekhonee-gnome.png
-Terminal=false
-Categories=Application;Network;

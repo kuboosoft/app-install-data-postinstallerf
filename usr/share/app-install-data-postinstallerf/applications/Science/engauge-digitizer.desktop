@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n engauge-digitizer
-Name=Engauge-digitizer
-Type=Application
-Comment=Extract data from graphs
-Categories=Education;Science;DataVisualization
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_engauge-digitizer.png

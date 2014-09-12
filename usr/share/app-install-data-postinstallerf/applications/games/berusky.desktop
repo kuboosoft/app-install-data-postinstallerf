@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n berusky
-Name=Berusky
-Comment=Logic game based on Sokoban(TM)
-Comment[de]=Auf Sokoban(TM) basierendes Logikspiel
-Icon=/usr/share/app-install-data-postinstallerf/icons/berusky.png
-Terminal=false
-Type=Application
-Categories=Game;LogicGame;

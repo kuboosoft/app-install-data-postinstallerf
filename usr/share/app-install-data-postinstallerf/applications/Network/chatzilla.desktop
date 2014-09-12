@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n iceape-chatzilla
-Name=Chatzilla
-GenericName=IRC Chat
-Terminal=false
-Type=Application
-Categories=GTK;Network;IRCClient;
-Icon=/usr/share/app-install-data-postinstallerf/icons/chatzilla.png

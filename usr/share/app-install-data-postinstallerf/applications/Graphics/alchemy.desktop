@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n alchemy
-Version=1.0
-Type=Application
-Name=Alchemy
-Comment=Sketch, draw, and create on computers in new ways
-Icon=/usr/share/app-install-data-postinstallerf/icons/alchemy.png
-Categories=Graphics;2DGraphics

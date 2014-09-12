@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ardour
-Version=1.0
-Name=Ardour Digital Audio Workstation
-Comment=Record, mix and master multi-track audio
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_ardour2_icons_ardour_icon_22px.png
-Categories=AudioVideo;Audio;

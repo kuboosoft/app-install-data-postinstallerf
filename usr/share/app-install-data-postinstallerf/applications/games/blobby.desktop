@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n blobby
-Type=Application
-Version=1.0
-Name=Blobby Volley 2
-GenericName=Volleyball Game
-Icon=/usr/share/app-install-data-postinstallerf/icons/blobby.png
-Terminal=false
-Categories=Game;ArcadeGame;

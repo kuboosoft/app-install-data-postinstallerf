@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n lightspark
-Name=Lightspark
-Comment=An alternative flash player
-Icon=/usr/share/app-install-data-postinstallerf/icons/lightspark.png
-Type=Application
-Categories=GNOME;GTK;AudioVideo;Video;Player;
-StartupNotify=true

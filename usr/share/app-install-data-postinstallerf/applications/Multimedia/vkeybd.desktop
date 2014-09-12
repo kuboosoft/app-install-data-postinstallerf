@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n vkeybd
-Name=Virtual MIDI Keyboard
-Comment=MIDI Virtual Keyboard
-Icon=/usr/share/app-install-data-postinstallerf/icons/vkeybd.png
-Type=Application
-Categories=AudioVideo;Audio;
-Terminal=false

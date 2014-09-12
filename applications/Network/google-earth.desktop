@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=/usr/bin/postinstallerf/google-earth-installer
+Name=Google Earth installer
+Comment=Explore, search and discover the planet
+Terminal=false
+Type=Application
+Icon=/usr/share/app-install-data-postinstallerf/icons/google_earth.png
+Categories=Application;Network
+StartupNotify=true

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n aeskulap
-Name=Aeskulap Viewer
-Comment=Medical image viewer and DICOM network client
-Icon=/usr/share/app-install-data-postinstallerf/icons/aeskulap.png
-Terminal=false
-Type=Application
-Categories=Viewer;MedicalSoftware;Graphics;
-StartupNotify=true

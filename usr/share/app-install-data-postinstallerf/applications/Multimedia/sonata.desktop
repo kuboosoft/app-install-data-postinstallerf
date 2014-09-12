@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sonata
-Name=Sonata
-Comment=An elegant GTK+ MPD client
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/sonata.png
-Categories=GTK;AudioVideo;Player;
-StartupNotify=true

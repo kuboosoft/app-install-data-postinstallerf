@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n solaar
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
-Comment=Solaar is a Linux device manager for Logitech’s Unifying Receiver peripherals
-Terminal=false
-Name=Solaar
-Categories=Qt;KDE;Utility;

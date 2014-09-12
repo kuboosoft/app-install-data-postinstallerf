@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n flamerobin
-Name=FlameRobin
-GenericName=Database administration tool
-Comment=Administration Tool for Firebird DBMS
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_flamerobin.png
-Type=Application
-Terminal=false
-Categories=Development;Database;GTK

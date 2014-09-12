@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n frostwire
-Name=Frostwire
-Comment=Open source P2P BitTorrent file sharing application & cloud file downloader in one
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/frostwire.png
-Categories=GNOME;GTK;AudioVideo;

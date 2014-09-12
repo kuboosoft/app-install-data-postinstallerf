@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fillets-ng
-Name=Fish Fillets
-Comment=Puzzle game about witty fish saving the world sokoban-style
-Comment[ro]=Un puzzle cu un pește inteligent care salvează lumea în stil sokoban
-Icon=/usr/share/app-install-data-postinstallerf/icons/fillets-ng.png
-Terminal=false
-Type=Application
-Categories=Game;LogicGame;

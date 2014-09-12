@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n librecad
-Version=1.0
-Type=Application
-Name=LibreCAD
-Comment=A professional CAD System
-Comment[es]=Un sistema CAD profesional
-Icon=/usr/share/app-install-data-postinstallerf/icons/librecad.png
-Categories=Graphics;Engineering;

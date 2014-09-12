@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n spotify-client
-Name=Spotify client
-Comment=A proprietary peer-to-peer music streaming service
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
-Categories=GNOME;GTK;AudioVideo;

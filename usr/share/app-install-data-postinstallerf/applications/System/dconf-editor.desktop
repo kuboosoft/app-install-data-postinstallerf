@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n dconf-tools
-Name=dconf Editor
-Comment=Directly edit your entire configuration database
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/dconf-editor.png
-StartupNotify=true
-Categories=GNOME;GTK;System;

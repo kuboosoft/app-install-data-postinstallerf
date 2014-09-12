@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n dockbarx
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
-Comment=A TaskBar with grouping and group manipulation
-Terminal=false
-Name=dockbarx
-Categories=Qt;KDE;Utility;

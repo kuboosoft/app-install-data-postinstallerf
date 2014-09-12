@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n synfigstudio
-Name=Synfig Studio
-Comment=Create and edit 2D animations and compositions
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/synfig_icon.png
-Categories=GTK;Graphics;2DGraphics;VectorGraphics;
-StartupNotify=true

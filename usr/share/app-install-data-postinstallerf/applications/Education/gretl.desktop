@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gretl
-Name=gretl
-Comment=Econometrics program
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_gretl.png
-Terminal=0
-Type=Application
-Categories=Application;Science;Education;Econometrics;

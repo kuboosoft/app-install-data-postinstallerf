@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n dreampie
-Name=DreamPie
-Comment=An interactive Python shell
-Icon=/usr/share/app-install-data-postinstallerf/icons/dreampie.png
-Terminal=false
-Type=Application
-Categories=GTK;Development;
-StartupNotify=true

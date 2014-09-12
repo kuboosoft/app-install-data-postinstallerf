@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fluid
-Name=FLUID
-Comment=FLTK GUI Designer
-Icon=/usr/share/app-install-data-postinstallerf/icons/fluid.png
-Terminal=false
-Type=Application
-Categories=Development;GUIDesigner;

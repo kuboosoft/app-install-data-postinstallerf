@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gnujump
-Version=1.0
-Name=GNUjump
-Comment=Jump up the tower to survive
-Icon=/usr/share/app-install-data-postinstallerf/icons/gnujump.png
-Terminal=false
-Type=Application
-Categories=Game;ArcadeGame

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n openscad
-Type=Application
-Version=1.0
-Name=OpenSCAD
-Icon=/usr/share/app-install-data-postinstallerf/icons/openscad.png
-Categories=Graphics;3DGraphics;Engineering;

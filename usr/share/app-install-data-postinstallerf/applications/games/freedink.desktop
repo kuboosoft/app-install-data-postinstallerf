@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n freedink-engine
-Version=1.0
-Type=Application
-Name=FreeDink
-Comment=Humorous zelda-like isometric adventure/RPG
-Icon=/usr/share/app-install-data-postinstallerf/icons/freedink.png
-Categories=Game;AdventureGame;

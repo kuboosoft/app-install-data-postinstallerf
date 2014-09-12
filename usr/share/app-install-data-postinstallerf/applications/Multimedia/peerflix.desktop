@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n peerflix
-Name=Peerflix
-Comment=Streaming torrent client for node.js
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/generic.png
-Categories=GNOME;GTK;AudioVideo;

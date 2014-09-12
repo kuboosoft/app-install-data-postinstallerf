@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n focuswriter
-Type=Application
-Name=FocusWriter
-GenericName=Fullscreen Word Processor
-Comment=Write without distractions
-Icon=/usr/share/app-install-data-postinstallerf/icons/focuswriter.png
-Terminal=false
-Categories=Qt;Office;WordProcessor;

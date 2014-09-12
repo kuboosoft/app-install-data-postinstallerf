@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qrq
-Name=qrq
-GenericName=qrq
-Comment=High speed Morse telegraphy trainer
-Icon=/usr/share/app-install-data-postinstallerf/icons/qrq.png
-Terminal=true
-Type=Application
-Categories=Audio;HamRadio;

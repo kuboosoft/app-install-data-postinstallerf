@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sopwith
-Name=Sopwith
-Comment=WW1 Dogfighting Game
-Icon=/usr/share/app-install-data-postinstallerf/icons/sopwith.png
-StartupNotify=false
-Terminal=false
-Type=Application
-Categories=Game;ArcadeGame;
