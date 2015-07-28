@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n therion-viewer
-Version=1.0
-Name=Therion loch viewer
-GenericName=Therion Cave Survey Viewer
-Comment=View therion surveys in 3D
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/therion.png
-Categories=Education;Geology;Science;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n elki
-Version=1.0
-Type=Application
-Categories=Development;Education;GTK;Science;ArtificialIntelligence;ComputerScience;DataVisualization
-Name=ELKI
-Comment=Data mining algorithm development framework
-Icon=/usr/share/app-install-data-postinstallerf/icons/elki-icon.png

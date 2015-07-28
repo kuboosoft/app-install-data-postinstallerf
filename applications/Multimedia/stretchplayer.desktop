@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n stretchplayer
-Name=StretchPlayer
-Comment=Audio file player with time stretch
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_stretchplayer_icons_stretchplayer-icon-48x48.png
-Terminal=false
-Type=Application

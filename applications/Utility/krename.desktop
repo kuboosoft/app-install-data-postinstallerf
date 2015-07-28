@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n krename
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/krename.png.png
-Comment=A batch renamer
-Comment[de]=Ein Batch Umbenenner
-Terminal=false
-Name=KRename
-Categories=Qt;KDE;Utility;

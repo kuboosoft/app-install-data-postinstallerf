@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pixelize
-Version=1.0
-Name=Pixelize
-Comment=Create an image consisting of many small images
-Icon=/usr/share/app-install-data-postinstallerf/icons/pixelize.png
-Type=Application
-Categories=Graphics;

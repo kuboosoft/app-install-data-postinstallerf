@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fraqtive
-Type=Application
-Name=Fraqtive
-GenericName=Fractal Generator
-Comment=Mandelbrot family fractal generator
-Icon=/usr/share/app-install-data-postinstallerf/icons/fraqtive.png
-Categories=Qt;Education;Science;Math;

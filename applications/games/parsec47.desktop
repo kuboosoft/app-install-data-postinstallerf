@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n parsec47
-Type=Application
-Name=PARSEC47
-GenericName=
-Comment=Kenta Cho s PARSEC47
-Icon=/usr/share/app-install-data-postinstallerf/icons/parsec47.png
-Terminal=false
-Categories=Game;ArcadeGame;

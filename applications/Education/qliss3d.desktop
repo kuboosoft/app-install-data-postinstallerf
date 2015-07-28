@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qliss3d
-Name=Qliss3D
-Comment=demonstration tool for Lissajous physiques
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_qliss3d.png
-Terminal=false
-StartupNotify=true
-Type=Application
-Categories=Qt;KDE;Education;Math;

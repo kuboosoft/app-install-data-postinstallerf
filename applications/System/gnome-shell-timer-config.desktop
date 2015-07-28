@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gnome-shell-timer
-Name=gnome-shell-timer Preference
-Name[de_DE]=gnome-shell-timer Einstellungen
-GenericName=Preference Editor for gnome-shell-timer
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/gnome-shell-timer-config.png
-Categories=GNOME;System;

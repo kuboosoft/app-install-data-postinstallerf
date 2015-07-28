@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pybootchartgui
-Name=pyBootchartGUI
-GenericName=Bootchart2 data viewer
-GenericName[it]=Visualizzatore dati Bootchart2
-Terminal=false
-Type=Application
-Categories=System;Monitor;

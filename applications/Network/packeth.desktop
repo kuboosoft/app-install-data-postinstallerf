@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n packeth
-Name=PackETH
-GenericName=Packet Generator
-Type=Application
-Categories=Network;
-StartupNotify=false
-Terminal=false

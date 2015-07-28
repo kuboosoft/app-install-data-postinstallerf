@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n battery-stats
-Name=Battery Charge Graph
-Type=Application
-Comment=Battery Charge Graph
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/battery-graph/pixmaps/battery-stats.xpm.png
-Terminal=false
-Categories=Utility

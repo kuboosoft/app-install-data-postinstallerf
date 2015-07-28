@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n swac-explore
-Type=Application
-Name=Swac Explore
-StartupNotify=false
-Terminal=false
-Categories=Education
-Comment=audio collections of words (SWAC) explorer
-Comment[fr]=explorateur de collections audio de mots (SWAC)

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mysql-workbench
-Name=MySQL Workbench
-Comment=MySQL Database Design, Administration and Development Tool
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/mysql-workbench.png
-Categories=GTK;Database;Development;

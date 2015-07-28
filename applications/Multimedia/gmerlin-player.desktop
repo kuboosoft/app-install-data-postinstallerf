@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gmerlin
-Name=Gmerlin player
-Name[de]=Gmerlin player
-Comment=Multiformat mediaplayer
-Comment[de]=Multiformat mediaplayer
-Icon=/usr/share/app-install-data-postinstallerf/icons/gmerlin-player.png
-Type=Application
-Categories=AudioVideo;Player;

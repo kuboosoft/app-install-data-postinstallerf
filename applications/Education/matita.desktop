@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n matita
-Name=Matita
-Comment=Interactive theorem prover
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_matita_icons_matita.png
-Terminal=false
-Type=Application
-Categories=Education;Science;Math

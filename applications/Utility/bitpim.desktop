@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bitpim
-Name=BitPim
-Comment=CDMA Mobile Phone Tool
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_bitpim_resources_bitpim.png
-Terminal=false
-Type=Application
-Categories=Utility;Calendar;ContactManagement;

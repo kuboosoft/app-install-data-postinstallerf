@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n carmetal
-Name=CaRMetal
-Comment=CaRMetal interactive geometry
-Icon=/usr/share/app-install-data-postinstallerf/icons/CaRMetal.png.png
-Terminal=false
-StartupNotify=true
-Type=Application
-Categories=Application;Education;Math;

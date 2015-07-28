@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xbill
-Type=Application
-Name=XBill
-Comment=Get rid of those Wingdows Viruses!
-Comment[it]=Fai piazza pulita dai virus Wingdows!
-Icon=/usr/share/app-install-data-postinstallerf/icons/xbill.png
-Terminal=false
-Categories=Game;ArcadeGame;

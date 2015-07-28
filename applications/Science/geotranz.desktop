@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n geotranz
-Name=Geotranz
-Comment=Geographic coordinates translator
-Icon=/usr/share/app-install-data-postinstallerf/icons/geotrans.png
-Terminal=false
-Type=Application
-Categories=Education;Science;Geography;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n oolite
-Name=Oolite
-Comment=An OpenGL Elite-like space game
-Icon=/usr/share/app-install-data-postinstallerf/icons/oolite-icon.png
-Terminal=false
-Type=Application
-Categories=Game;Simulation;

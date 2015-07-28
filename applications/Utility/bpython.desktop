@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bpython
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/pixmaps/python.xpm.png
-Name=bpython
-Comment=A fancy interface to the python interpreter!
-Terminal=true
-Type=Application
-Categories=Development;Utility;ConsoleOnly;
-StartupNotify=true

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gmerlin
-Name=Gmerlin visualizer
-Name[de]=Gmerlin visualisierer
-Comment=Run visualization plugins
-Comment[de]=Visualisierungs Plugins laufen lassen
-Icon=/usr/share/app-install-data-postinstallerf/icons/gmerlin-visualizer.png
-Type=Application
-Categories=Application;AudioVideo;

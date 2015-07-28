@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n diffpdf
-Version=1.0
-Name=DiffPDF
-Comment=Compare two PDF files
-Icon=/usr/share/app-install-data-postinstallerf/icons/diffpdf.png
-Terminal=false
-Type=Application
-Categories=Utility;Qt;

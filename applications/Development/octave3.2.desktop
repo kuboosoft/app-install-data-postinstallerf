@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n octave3.2
-Name=GNU Octave
-Comment=Scientific Computing using GNU Octave
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/octave/3.2.4/imagelib/octave-sombrero.png.png
-Terminal=true
-Type=Application
-Categories=Development;Math;Science;
-StartupNotify=false

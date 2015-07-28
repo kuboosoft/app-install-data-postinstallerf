@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tetzle
-Type=Application
-Name=Tetzle
-GenericName=Jigsaw Puzzle Game
-Comment=Jigsaw puzzle with tetromino pieces
-Icon=/usr/share/app-install-data-postinstallerf/icons/tetzle.png
-Terminal=false
-Categories=Qt;Game;LogicGame

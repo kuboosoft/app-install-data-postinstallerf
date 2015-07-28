@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fccexam
-Name=fccexam
-GenericName=fccexam
-Comment=FCC Radio Examination trainer
-Icon=/usr/share/app-install-data-postinstallerf/icons/fccexam.png
-Terminal=true
-Type=Application
-Categories=Education;HamRadio;

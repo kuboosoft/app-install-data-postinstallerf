@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n atanks
-Name=Atomic Tanks
-Comment=Destroy your opponents  tanks.
-Comment[es]=Destruye los tanques de tus oponentes.
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/atanks.png.png
-Categories=Game;ArcadeGame;
-Terminal=false

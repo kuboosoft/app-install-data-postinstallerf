@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n entagged
-Name=Entagged
-Comment=Tag Editor
-Comment[fr]=Editeur de Tags
-Icon=/usr/share/app-install-data-postinstallerf/icons/entagged.png.png
-Terminal=0
-Type=Application
-Categories=AudioVideo;

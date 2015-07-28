@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gsoko
-Name=Sokoban
-Comment=Clone of the Sokoban game
-Icon=/usr/share/app-install-data-postinstallerf/icons/gsoko.png.png
-Terminal=false
-Type=Application
-Categories=Game;LogicGame

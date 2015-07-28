@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qgit
-Name=qgit
-GenericName=git GUI viewer
-Icon=/usr/share/app-install-data-postinstallerf/icons/qgit.png
-Type=Application
-Comment=git GUI viewer
-Terminal=false
-Categories=Qt;Development;RevisionControl;

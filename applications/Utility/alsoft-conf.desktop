@@ -1,6 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n alsoft-conf
-Version=1.0
-Type=Application
-Name=OpenAL-Soft Configuration Utility
-Categories=Settings;

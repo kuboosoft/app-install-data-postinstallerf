@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sofa-apps
-GenericName=SOFA
-Name=SOFA
-Comment=Open Source Framework for Medical Simulation
-Icon=/usr/share/app-install-data-postinstallerf/icons/sofa.png
-Terminal=false
-Type=Application
-Categories=Education;Science;

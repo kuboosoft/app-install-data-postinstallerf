@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n flight-of-the-amazon-queen
-Version=1.0
-Name=Flight of the Amazon Queen
-GenericName=Game
-Comment=Embark on a quest to rescue a kidnapped princess and in the process, discover the true sinister intentions of a suspiciously located Lederhosen company
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/flight-of-the-amazon-queen.png
-Categories=AdventureGame;Game;RolePlaying;

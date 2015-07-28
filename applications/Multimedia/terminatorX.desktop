@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n terminatorx
-Name=terminatorX
-GenericName=Virtual Turntable
-Comment=Scratch and mix audio
-Terminal=false
-Type=Application
-Categories=AudioVideo;
-StartupNotify=true

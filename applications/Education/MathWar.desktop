@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mathwar
-Name=MathWar
-Comment=A simple math game for kids
-Icon=/usr/share/app-install-data-postinstallerf/icons/mathwar.png
-Terminal=false
-Type=Application
-Categories=Education;Math;

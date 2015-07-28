@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n titanion
-Type=Application
-Name=Titanion
-GenericName=
-Comment=Kenta Cho s Titanion
-Icon=/usr/share/app-install-data-postinstallerf/icons/titanion.png
-Terminal=false
-Categories=Game;ArcadeGame;

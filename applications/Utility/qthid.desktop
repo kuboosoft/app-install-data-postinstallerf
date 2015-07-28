@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qthid-fcd-controller
-Name=qthid
-GenericName=FUNcube Dongle Radio Receiver Controller
-Comment=full support for the Funcube Dongle API available with firmware 18f or later
-Icon=/usr/share/app-install-data-postinstallerf/icons/qthid.png
-Terminal=false
-Type=Application
-Categories=Utility;HamRadio;Tuner

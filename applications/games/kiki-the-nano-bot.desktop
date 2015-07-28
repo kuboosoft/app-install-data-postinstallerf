@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n kiki-the-nano-bot
-Type=Application
-Name=Kiki the nano bot
-Icon=/usr/share/app-install-data-postinstallerf/icons/kiki-the-nano-bot.png
-Terminal=false
-Categories=Game;LogicGame;
-StartupNotify=false

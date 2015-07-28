@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bauble
-Name=Bauble
-Version=0.9.7  # :bump
-Comment=An application for managing botanical collections
-Terminal=False
-Icon=/usr/share/app-install-data-postinstallerf/icons/bauble.png
-Type=Application
-Categories=Education;

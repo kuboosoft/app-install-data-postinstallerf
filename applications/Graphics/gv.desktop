@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gv
-Name=gv
-GenericName=PS and PDF viewer
-Comment=View PS and/or PDF files
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_gv_icon.png
-Terminal=false
-Type=Application
-Categories=Viewer;Graphics;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n hamexam
-Name=hamexam
-GenericName=hamexam
-Comment=Ham Radio Examination trainer
-Icon=/usr/share/app-install-data-postinstallerf/icons/hamexam.png
-Terminal=true
-Type=Application
-Categories=Education;HamRadio;

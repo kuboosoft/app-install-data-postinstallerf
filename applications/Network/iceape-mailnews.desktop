@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n iceape
-Name=Iceape Mail & Newsgroups
-Terminal=false
-Type=Application
-Categories=GTK;Email;Network;
-Icon=/usr/share/app-install-data-postinstallerf/icons/iceape-mailnews.png

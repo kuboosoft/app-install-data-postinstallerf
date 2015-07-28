@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ncbi-tools-x11
-Version=1.0
-Name=OneD Biological Sequence Viewer
-GenericName=Sequence Viewer
-Comment=View single biological sequences
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/ncbilogo.png
-Categories=Education;Science;Biology;

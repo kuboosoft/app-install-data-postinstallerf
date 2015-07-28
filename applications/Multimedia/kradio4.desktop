@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n kradio4
-Type=Application
-Name=kradio4
-Icon=/usr/share/app-install-data-postinstallerf/icons/kradio4.png
-Comment=V4L/V4L2-Radio Application for KDE4
-Terminal=false
-Categories=Qt;KDE;AudioVideo;

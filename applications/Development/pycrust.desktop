@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n python-wxtools
-Name=PyCrust
-Comment=GUI Python Shell with Filling
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/pixmaps/pycrust.png
-Terminal=false
-Type=Application
-Categories=Development;
-StartupNotify=true

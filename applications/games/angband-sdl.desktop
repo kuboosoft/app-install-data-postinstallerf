@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n angband
-Name=Angband (SDL)
-Type=Application
-Comment=A roguelike dungeon exploration game based on the books of J.R.R.Tolkien
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/angband/xtra/icon/att-32.png.png
-Categories=Game;RolePlaying;

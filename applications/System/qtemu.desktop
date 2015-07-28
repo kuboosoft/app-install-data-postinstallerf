@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qtemu
-Name=QtEmu
-GenericName=Virtual machine manager
-Icon=/usr/share/app-install-data-postinstallerf/icons/qtemu.png
-Type=Application
-Terminal=false
-Comment=Front end to QEMU virtual machine monitor
-Categories=Qt;System;Emulator;

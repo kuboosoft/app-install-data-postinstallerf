@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mgm
-Version=1.0
-Name=MGM System Monitor
-GenericName=System Monitor
-Comment=A highly configurable, very gaudy system load meter
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_mgm.png
-Type=Application
-Categories=Monitor;System;Utility;

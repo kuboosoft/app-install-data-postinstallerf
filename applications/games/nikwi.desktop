@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n nikwi
-Type=Application
-Name=Nikwi Deluxe
-GenericName=nikwi
-Comment=Platform game where your goal is to collect candies
-Icon=/usr/share/app-install-data-postinstallerf/icons/nikwi.png
-Terminal=false
-Categories=Game;ArcadeGame;

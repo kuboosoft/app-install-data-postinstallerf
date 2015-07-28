@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n cryptkeeper
-Name=Cryptkeeper
-Icon=/usr/share/app-install-data-postinstallerf/icons/cryptkeeper.png
-Categories=System;GTK;Security
-Terminal=false
-Type=Application
-StartupNotify=false

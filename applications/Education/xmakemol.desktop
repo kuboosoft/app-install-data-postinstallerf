@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xmakemol
-Version=1.0
-Name=XMakemol
-GenericName=Molecule Viewer
-Comment=View and manipulate atomic and other chemical systems
-Type=Application
-Categories=Chemistry;Education;Science;

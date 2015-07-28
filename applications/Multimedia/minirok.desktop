@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n minirok
-Type=Application
-Name=Minirok
-Icon=/usr/share/app-install-data-postinstallerf/icons/minirok.png
-Terminal=false
-Categories=Qt;KDE;AudioVideo;Audio;Player;

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bibledit-xiphos
-Name=Bibledit-Xiphos
-Comment=Bibledit Xiphos Interface
-Icon=/usr/share/app-install-data-postinstallerf/icons/bibledit-xiphos.png
-Type=Application
-Categories=Office;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n lbreakout2
-Name=LBreakout2
-Version=2.6
-Comment=A ball-and-paddle game with nice graphics.
-Icon=/usr/share/app-install-data-postinstallerf/icons/lbreakout2.xpm.png
-Type=Application
-Categories=Application;Game;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n yorick-cubeview
-Categories=Science;Astronomy;DataVisualization;Graphics;3DGraphics;Viewer;GTK;
-Type=Application
-Comment=3D FITS data viewer for spectro-imaging
-Icon=/usr/share/app-install-data-postinstallerf/icons/cubeview48.png
-Name=Cubeview
-GenericName=3D FITS Spectro-Imaging Data Viewer
-Terminal=false

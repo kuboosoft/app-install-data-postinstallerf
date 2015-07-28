@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n autorenamer
-Type=Application
-Name=AutoRenamer
-GenericName=Reorder files by renaming
-Comment=Automatically rename files have them sort in given order
-Terminal=false
-Categories=GNOME;GTK;Utility;FileTools;FileManager;

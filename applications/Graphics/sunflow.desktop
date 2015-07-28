@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sunflow
-Type=Application
-Name=Sunflow
-Comment=Photorealistic Rendering Engine
-Icon=/usr/share/app-install-data-postinstallerf/icons/sunflow.png.png
-Categories=Graphics;3DGraphics

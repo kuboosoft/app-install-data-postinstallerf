@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n boa-constructor
-Name=Boa Constructor
-Comment=RAD Tool for Python and WxWindows
-Icon=/usr/share/app-install-data-postinstallerf/icons/boa-constructor.png
-Terminal=false
-Type=Application
-Categories=Development;Debugger;GUIDesigner;
-StartupNotify=true

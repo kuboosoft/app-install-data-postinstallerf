@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n asylum
-Type=Application
-Name=Asylum
-Comment=surreal platform shooting game
-Icon=/usr/share/app-install-data-postinstallerf/icons/asylum.png
-Terminal=false
-Categories=Game;ActionGame;
-StartupNotify=false

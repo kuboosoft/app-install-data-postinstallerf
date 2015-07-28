@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n slashem-gtk
-Type=Application
-Name=GTK Slash EM
-GenericName=GTK Slash EM
-Comment=Super Lotsa Added Stuff Hack - Extended Magic (GTK)
-Icon=/usr/share/app-install-data-postinstallerf/icons/slashem.png
-Terminal=false
-Categories=Game;AdventureGame;

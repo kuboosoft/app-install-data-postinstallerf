@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fltk1.1-games
-Name=FLTK Sudoku
-Comment=Suduku Number Game
-Icon=/usr/share/app-install-data-postinstallerf/icons/flsudoku.png
-Terminal=false
-Type=Application
-Categories=Game;LogicGame;

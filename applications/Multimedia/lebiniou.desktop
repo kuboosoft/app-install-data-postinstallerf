@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n lebiniou
-Name=Le Biniou
-GenericName=Le Biniou
-Comment=Displays images that evolve with sound
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_lebiniou.png
-Categories=AudioVideo
-Terminal=true
-Type=Application

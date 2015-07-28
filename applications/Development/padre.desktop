@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n padre
-Version=1.0
-Type=Application
-Name=Padre
-Comment=Perl Application Development and Refactoring Environment
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_padre.png
-Categories=Development;IDE;TextTools;

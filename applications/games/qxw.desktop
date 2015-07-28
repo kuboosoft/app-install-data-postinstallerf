@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qxw
-Version=1.0
-Type=Application
-Name=Qxw
-GenericName=Crossword editor
-Comment=Construct crossword puzzles
-Terminal=false
-Categories=Game;LogicGame;

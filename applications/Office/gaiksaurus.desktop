@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gaiksaurus
-Version=1.0
-Name=GTK Aiksaurus
-GenericName=Thesaurus
-Comment=Find Synonyms and Homonyms
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/gaiksaurus.png
-Categories=GNOME;Office;

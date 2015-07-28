@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pcp-gui
-Name=PCP Charts
-Comment=Strip Chart tool for plotting Performance Co-Pilot metrics.
-Icon=/usr/share/app-install-data-postinstallerf/icons/pmchart.png.png
-Terminal=false
-Type=Application
-Categories=System;Utility;

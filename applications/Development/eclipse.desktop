@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n eclipse-platform
-Type=Application
-Name=Eclipse
-Comment=Eclipse Integrated Development Environment
-Icon=/usr/share/app-install-data-postinstallerf/icons/eclipse.png
-Terminal=false
-Categories=Development;IDE;Java;

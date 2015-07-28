@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gupnp-tools
-Name=UPnP AV Control Point
-Categories=GTK;Development;
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_gupnp-tools_pixmaps_av-cp.png
-Terminal=false
-Type=Application
-StartupNotify=true

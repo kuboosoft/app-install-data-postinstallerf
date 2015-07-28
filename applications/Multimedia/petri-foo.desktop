@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n petri-foo
-Type=Application
-Name=Petri-foo
-GenericName=Petri-foo
-Comment=Sound Sampler
-Icon=/usr/share/app-install-data-postinstallerf/icons/petri-foo_32x32.png
-Terminal=false
-Categories=AudioVideo;AudioVideoEditing;Music;

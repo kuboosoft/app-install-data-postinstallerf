@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n prelude-notify
-Name=prelude-notify
-Comment=Graphical notification applet for prelude
-Icon=/usr/share/app-install-data-postinstallerf/icons/utilities-system-monitor.png
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=System;Security;

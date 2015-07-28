@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tictactoe-ng
-Name=Tic Tac Toe
-Type=Application
-Comment=Simple, fun tic tac toe game for GNOME
-Icon=/usr/share/app-install-data-postinstallerf/icons/tictactoe.png
-Terminal=False
-Categories=GNOME;GTK;Game;

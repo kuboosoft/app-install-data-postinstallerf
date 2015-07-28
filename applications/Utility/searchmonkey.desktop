@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n searchmonkey
-Name=Searchmonkey
-Comment=Regular expression power search utilty
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_searchmonkey_searchmonkey-32x32.png
-Type=Application
-StartupNotify=false
-Terminal=false
-Categories=TextTools;Utility

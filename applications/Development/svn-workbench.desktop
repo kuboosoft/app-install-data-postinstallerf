@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n svn-workbench
-Version=1.0
-Name=SVN Workbench
-Comment=A Workbench for Subversion
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_svn-workbench_wb.png
-Type=Application
-Terminal=false
-Categories=Development;

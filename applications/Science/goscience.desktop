@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n goplay
-Type=Application
-Name=GoScience!
-GenericName=goscience
-Comment=Science packages browser
-Icon=/usr/share/app-install-data-postinstallerf/icons/goscience.png
-Terminal=false
-Categories=Utility;

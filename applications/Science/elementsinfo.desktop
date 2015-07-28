@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pymca
-Version=1.0
-Name=Elementsinfo
-Name[en_GB]=Elementsinfo
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_pymca.png
-Terminal=false
-Categories=Science;Education;Physics;

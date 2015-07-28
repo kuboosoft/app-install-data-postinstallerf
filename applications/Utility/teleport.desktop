@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n teleport
-Name=Teleport
-Comment=Move applications between displays
-Type=PanelApp
-Icon=/usr/share/app-install-data-postinstallerf/icons/teleport.png.png
-Categories=Panel;Utility;GPE

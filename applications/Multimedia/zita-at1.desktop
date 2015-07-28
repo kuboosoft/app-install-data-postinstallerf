@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n zita-at1
-Name=AT1
-GenericName=JACK autotuner
-Comment=Correct the pitch of a voice singing out of tune
-Icon=/usr/share/app-install-data-postinstallerf/icons/.png
-Categories=AudioVideo;Audio;
-Terminal=false

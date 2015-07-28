@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n timemon.app
-Type=Application
-Version=0.94
-Categories=System;Monitor;
-Name=TimeMon
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/TimeMon.app/Resources/icon.png.png

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n cynthiune.app
-Type=Application
-Categories=AudioVideo;Audio;Player;
-Name=Cynthiune
-Comment=A free and romantic music player
-Comment[bg]=Свободна романтична програма за слушане на музика
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Cynthiune.app/Resources/Cynthiune.tiff.png

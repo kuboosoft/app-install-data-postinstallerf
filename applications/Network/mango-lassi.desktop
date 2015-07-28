@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mango-lassi
-Name=Input Device Sharing
-Name[de]=Gemeinsame Eingabegeräte
-Comment=Share mouse and pointer with other Computers
-Comment[de]=Maus und Tastatur mit anderen Computern teilen
-Icon=/usr/share/app-install-data-postinstallerf/icons/mango-lassi.png
-Type=Application
-Categories=Network;

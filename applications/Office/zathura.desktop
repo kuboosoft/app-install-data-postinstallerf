@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n zathura
-Version=1.0
-Type=Application
-Name=Zathura
-Comment=A minimalistic document viewer
-Comment[de]=Ein minimalistischer Dokumenten-Betrachter
-Terminal=false
-Categories=Office;Viewer;

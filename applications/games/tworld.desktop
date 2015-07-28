@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tworld
-Version=1.0
-Type=Application
-Name=Tile World
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_tworld.png
-Categories=Game;LogicGame;

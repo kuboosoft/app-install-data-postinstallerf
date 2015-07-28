@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n l2tp-ipsec-vpn
-Type=Application
-Terminal=false
-Name=L2TP Ipsec VPN Applet
-Comment=Control your L2TP IPsec VPN connections
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_L2tpIPsecVpn_logo.png
-Categories=Network;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n referencer
-Name=Referencer
-Comment=Document organiser
-Icon=/usr/share/app-install-data-postinstallerf/icons/referencer.png
-Terminal=false
-Type=Application
-Categories=GNOME;Application;Office;
-StartupNotify=true

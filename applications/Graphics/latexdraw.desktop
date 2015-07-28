@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n latexdraw
-Name=LaTeXDraw
-Comment=Graphical editor for PSTricks
-GenericName=Vector graphics editor for PSTricks
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_latexdraw32.png
-Terminal=false
-Type=Application
-Categories=Graphics;VectorGraphics;

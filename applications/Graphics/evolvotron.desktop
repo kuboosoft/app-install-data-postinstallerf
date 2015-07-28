@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n evolvotron
-Type=Application
-Version=0.4.0
-Name=Evolvotron
-Terminal=false
-Categories=Graphics;2DGraphics;
-Comment=Interactive image generator

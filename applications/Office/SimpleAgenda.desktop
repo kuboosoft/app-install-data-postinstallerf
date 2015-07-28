@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n agenda.app
-Name=SimpleAgenda
-Name[bg]=Календар (SimpleAgenda)
-Comment=Simple agenda and calendar application for GNUstep
-Comment[bg]=Програма за срещи и календари за GNUstep
-Type=Application
-Categories=Office;Calendar;
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/SimpleAgenda.app/Resources/Calendar.tiff.png

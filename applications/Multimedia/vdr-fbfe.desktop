@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xineliboutput-fbfe
-Version=1.0
-Name=VDR FrameBuffer Frontend
-Comment=VDR Xineliboutput Client - FrameBuffer Frontend
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/icons/vdr_xineliboutput-fbfe.svg.png
-Terminal=false
-Type=Application
-Categories=AudioVideo;Video;Player;TV;

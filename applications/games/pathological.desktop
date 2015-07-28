@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pathological
-Type=Application
-Name=Pathological
-GenericName=pathological
-Icon=/usr/share/app-install-data-postinstallerf/icons/pathological.png
-Comment=Solve puzzles involving paths and marbles
-Categories=Game;LogicGame;

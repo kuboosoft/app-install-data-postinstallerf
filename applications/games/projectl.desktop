@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n projectl
-Type=Application
-Name=ProjectL
-GenericName=
-Comment=HIZ s ProjectL
-Icon=/usr/share/app-install-data-postinstallerf/icons/projectl.png
-Terminal=false
-Categories=Game;ArcadeGame;

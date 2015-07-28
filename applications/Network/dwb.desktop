@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n dwb
-Name=dwb
-Comment=Small and fast webkit browser 
-Icon=/usr/share/app-install-data-postinstallerf/icons/dwb.png
-Terminal=false
-Type=Application
-Categories=Network;WebBrowser;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tatan
-Type=Application
-Name=Tatan
-GenericName=
-Comment=HIZ s Tatan
-Icon=/usr/share/app-install-data-postinstallerf/icons/tatan.png
-Terminal=false
-Categories=Game;ArcadeGame;

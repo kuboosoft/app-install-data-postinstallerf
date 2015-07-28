@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n musetup-gtk
-Name=Musetup-gtk
-Icon=/usr/share/app-install-data-postinstallerf/icons/musetup-gtk.png
-Type=Application
-Terminal=false
-Comment=Museek daemon configuration tool
-Categories=GTK;Network;

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xineliboutput-sxfe
-Version=1.0
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_icons_xineliboutput-sxfe.png
-Terminal=false
-Type=Application
-Categories=AudioVideo;Video;Player;TV;

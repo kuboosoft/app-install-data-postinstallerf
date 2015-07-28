@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n idle-python3.2
-Name=IDLE (using Python-3.2)
-Comment=Integrated Development Environment for Python (using Python-3.2)
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_python3.2.png
-Terminal=false
-Type=Application
-Categories=Application;Development;
-StartupNotify=true

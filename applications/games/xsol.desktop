@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xsol
-GenericName=Klondike Solitaire
-Icon=/usr/share/app-install-data-postinstallerf/icons/xsol.png
-Name=X Solitaire
-Terminal=false
-Type=Application
-Categories=Game;CardGame;

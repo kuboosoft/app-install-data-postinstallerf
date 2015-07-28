@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qwo
-Name=qwo
-Comment=An input method for touchscreens
-Version=0.5
-Type=Application
-Terminal=false
-Categories=Utility;Keyboard
-Icon=/usr/share/app-install-data-postinstallerf/icons/qwo.png

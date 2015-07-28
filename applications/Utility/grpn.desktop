@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n grpn
-Version=1.0
-Name=Grpn Calculator
-GenericName=Calculator
-Comment=A reverse polish notation calculator
-Icon=/usr/share/app-install-data-postinstallerf/icons/grpn.png
-Type=Application
-Categories=Calculator;Utility;

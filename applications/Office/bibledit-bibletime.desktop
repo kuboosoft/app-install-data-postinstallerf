@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bibledit-bibletime
-Name=Bibledit-BibleTime
-Comment=Bibledit BibleTime Interface
-Icon=/usr/share/app-install-data-postinstallerf/icons/bibledit-bibletime.png
-Type=Application
-Categories=Office;

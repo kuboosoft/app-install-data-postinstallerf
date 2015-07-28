@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n balder2d
-Name=Balder2D
-Comment=2D overhead shooter in Zero G
-Icon=/usr/share/app-install-data-postinstallerf/icons/balder2d.xpm.png
-Type=Application
-Categories=Game;ArcadeGame;

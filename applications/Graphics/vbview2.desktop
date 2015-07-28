@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n voxbo
-GenericName=VoxBo Image Viewer
-Name=VBView2
-Type=Application
-Terminal=false
-Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;Qt;Viewer;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n hocr-gtk
-Name=hocr-gtk
-Name[he]=hocr-gtk
-Icon=/usr/share/app-install-data-postinstallerf/icons/hocr1-48.png
-Terminal=false
-Type=Application
-Categories=GTK;Office;OCR;
-StartupNotify=true

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n plotdrop
-Name=PlotDrop
-Comment=Drag and Drop graph plotting
-Icon=/usr/share/app-install-data-postinstallerf/icons/plotdrop.png.png
-Terminal=false
-Type=Application
-Categories=GNOME;Application;Graphics;
-StartupNotify=true

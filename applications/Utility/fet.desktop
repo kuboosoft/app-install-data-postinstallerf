@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fet
-Type=Application
-Name=Timetable Generator
-GenericName=
-Comment=Generate timetables for educational institutions
-Icon=/usr/share/app-install-data-postinstallerf/icons/fet.png
-Terminal=false
-Categories=Utility;

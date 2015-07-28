@@ -1,6 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n viewpdf.app
-Type=Application
-Categories=Office;Viewer;
-Name=ViewPDF
-Comment=PDF Reader for GNUstep

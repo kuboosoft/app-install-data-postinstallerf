@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pegsolitaire
-Name=Peg Solitaire
-GenericName=pegsolitaire
-Comment=Play an educational puzzle game similar to Hi-Q
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/pegsolitaire-icon.png
-Terminal=false
-Categories=Game;LogicGame;

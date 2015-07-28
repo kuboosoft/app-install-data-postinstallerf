@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n netrek-client-cow
-Name=Netrek
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_netrek-client-cow_icon.png
-StartupNotify=false
-Terminal=false
-Type=Application
-Categories=Game;StrategyGame;

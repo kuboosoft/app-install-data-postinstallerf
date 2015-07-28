@@ -1,9 +1,0 @@
-# $XTermId: uxvile.desktop,v 1.4 2010/03/05 09:47:50 tom Exp $
-[Desktop Entry]
-Exec=postinstaller -n xvile
-Name=UXVile
-Comment=VI Like Emacs
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/vile.png
-Categories=Application;Utility;TextEditor;

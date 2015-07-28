@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tunapie
-Type=Application
-Name=Tunapie
-Comment=Lists audio and video streams from shoutcast and icecast
-Icon=/usr/share/app-install-data-postinstallerf/icons/tplogo.xpm.png
-Categories=AudioVideo

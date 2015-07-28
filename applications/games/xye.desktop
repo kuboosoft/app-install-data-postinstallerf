@@ -1,6 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xye
-Name=Xye
-Type=Application
-Comment=Get all the gems in the room
-Categories=Game;LogicGame;

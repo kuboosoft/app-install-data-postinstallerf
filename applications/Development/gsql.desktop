@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gsql
-Name=gsql
-Comment=Integrated Database Development Environment for GNOME
-Icon=/usr/share/app-install-data-postinstallerf/icons/gsql.png
-Terminal=false
-Type=Application
-Categories=GNOME;GTK;Database;Development;

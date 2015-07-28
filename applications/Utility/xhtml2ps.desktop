@@ -1,5 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xhtml2ps
-Type=Application
-Name=xhtml2ps
-Categories=Utility;TextTools;

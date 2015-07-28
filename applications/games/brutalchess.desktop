@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n brutalchess
-Name=Brutal Chess
-Comment=Play 3d chess with reflection of the chessmen
-Icon=/usr/share/app-install-data-postinstallerf/icons/brutalchess.png
-StartupNotify=false
-Terminal=false
-Type=Application
-Categories=Game;BoardGame;

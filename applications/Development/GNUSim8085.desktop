@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gnusim8085
-Name=GNUSim8085
-Comment=Intel 8085 microprocessor simulator
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_icons_hicolor_scalable_apps_gnusim8085.png
-Terminal=false
-Type=Application
-Categories=GNOME;GTK;Development;

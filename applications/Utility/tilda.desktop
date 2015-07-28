@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tilda
-Name=Tilda
-Icon=/usr/share/app-install-data-postinstallerf/icons/tilda.png.png
-Terminal=false
-Type=Application
-Categories=GTK;Utility;TerminalEmulator

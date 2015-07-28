@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sysinfo
-Name=Sysinfo
-Comment=Display detailed computer/system information
-Icon=/usr/share/app-install-data-postinstallerf/icons/computer.png
-Terminal=false
-Type=Application
-Categories=GNOME;Utility;System;

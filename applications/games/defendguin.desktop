@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n defendguin
-Name=Defendguin
-Comment=Save the Penguins
-Type=Application
-Categories=Application;ArcadeGame;Game;
-Icon=/usr/share/app-install-data-postinstallerf/icons/defendguin-icon.png
-Terminal=false

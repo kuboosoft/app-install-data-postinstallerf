@@ -1,6 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gdigi
-Version=1.0
-Type=Application
-Name=gdigi
-Categories=GNOME;Audio;AudioVideo;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gkdebconf
-Name=GkDebconf
-Type=Application
-Categories=System;
-Comment=Helper to reconfigure packages
-Comment[pt_BR]=Interface para reconfigurar pacotes
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_gkdebconf-icon.png
-Terminal=false

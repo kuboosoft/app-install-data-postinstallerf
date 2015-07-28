@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n speedcrunch
-Name=SpeedCrunch
-Comment=High precision calculator
-Icon=/usr/share/app-install-data-postinstallerf/icons/speedcrunch.png
-GenericName=Calculator
-Terminal=false
-Type=Application
-Categories=Qt;Utility;Calculator;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n aranym
-Name=ARAnyM
-Comment=Virtual Machine for Atari 32-bit applications
-Icon=/usr/share/app-install-data-postinstallerf/icons/aranym.png
-Terminal=false
-Type=Application
-Categories=System;Emulator;

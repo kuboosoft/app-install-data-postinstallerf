@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sigviewer
-Name=SigViewer
-Version=1.0
-Comment=Viewer for biosignals such as EEG, EMG, and ECG. http://sigviewer.sf.net
-Icon=/usr/share/app-install-data-postinstallerf/icons/sigviewer128.png.png
-Type=Application
-Categories=Education;Science;

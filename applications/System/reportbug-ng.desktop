@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n reportbug-ng
-Type=Application
-Name=Reportbug-NG
-Comment=Report bugs to Debian s BTS
-Comment[cs]=Hlásí chyby vývojářům Debianu
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_debian-logo.png
-Categories=System;

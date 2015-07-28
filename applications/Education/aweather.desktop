@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n aweather
-Type=Application
-Name=AWeather
-Comment=Advanced weather reporting program
-Terminal=false
-Icon=/usr/share/app-install-data-postinstallerf/icons/aweather.png
-Categories=Education;Science;Geoscience

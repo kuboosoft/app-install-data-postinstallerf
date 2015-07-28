@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gpointing-device-settings
-Name=Pointing devices
-Comment=Set your mouse and touchpad preferences
-Icon=/usr/share/app-install-data-postinstallerf/icons/input-mouse.png
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=GNOME;GTK;Settings;HardwareSettings;

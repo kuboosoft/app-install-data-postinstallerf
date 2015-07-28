@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xwelltris
-Type=Application
-Name=XWelltris
-Comment=Play a 3D Tetris like game
-Icon=/usr/share/app-install-data-postinstallerf/icons/xwelltris.png
-Terminal=false
-Categories=Game;ArcadeGame;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n jajuk
-Name=Jajuk
-Comment=Jajuk Advanced Jukebox
-Icon=/usr/share/app-install-data-postinstallerf/icons/jajuk.png.png
-Terminal=false
-Type=Application
-Categories=AudioVideo

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n insanity-tools
-Name=Insanity testing system
-Comment=Run automated tests
-StartupNotify=true
-## Icon=
-Type=Application
-Categories=GTK;Development

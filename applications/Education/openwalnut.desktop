@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n openwalnut-qt4
-Categories=Education;Science;
-Name=OpenWalnut
-Icon=/usr/share/app-install-data-postinstallerf/icons/openwalnut.png.png
-Terminal=false
-Type=Application

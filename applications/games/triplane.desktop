@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n triplane
-Name=Triplane Classic
-Comment=side-scrolling dogfighting game
-Icon=/usr/share/app-install-data-postinstallerf/icons/triplane.png.png
-StartupNotify=false
-Terminal=false
-Type=Application
-Categories=Game;ArcadeGame;

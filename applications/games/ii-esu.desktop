@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ii-esu
-Type=Application
-Name=ii-esu
-GenericName=ii-esu
-Comment=HIZ s ES
-Icon=/usr/share/app-install-data-postinstallerf/icons/ii-esu.png
-Terminal=false
-Categories=Game;ArcadeGame;

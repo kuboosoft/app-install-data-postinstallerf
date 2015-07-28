@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n python-guiqwt
-Version=1.0
-Type=Application
-Name=guiqwt-tests
-GenericName=guiqwt test application
-Comment=you can use this applications to test all guiqwt features.
-Categories=Education;Science;Physics;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n phlipple
-Version=1.0
-Type=Application
-Name=Phlipple
-Comment=Phlipping squares will never be the same again
-Categories=Game;LogicGame;
-Icon=/usr/share/app-install-data-postinstallerf/icons/phlipple.png

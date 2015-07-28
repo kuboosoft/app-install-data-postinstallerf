@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ghkl
-Version=1.0
-Type=Application
-Name=ghkl
-GenericName=Diffractometer Calculation
-Comment=hkl library graphical interface.
-Categories=Education;Science;Physics;GTK

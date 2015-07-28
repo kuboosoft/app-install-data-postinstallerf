@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gcx
-Type=Application
-Version=1.0
-Name=GCX Astro-Image Processor
-GenericName=Image Processor
-Comment=Process astronomical images and control CCDs
-Icon=/usr/share/app-install-data-postinstallerf/icons/gcx.png
-Categories=Education;Science;Astronomy;

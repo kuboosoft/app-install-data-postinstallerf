@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n powermanga
-Type=Application
-Name=Powermanga
-GenericName=PowerManga
-Comment=Play a vertical shoot  em up game
-Icon=/usr/share/app-install-data-postinstallerf/icons/powermanga.png
-Terminal=false
-Categories=Game;ArcadeGame;

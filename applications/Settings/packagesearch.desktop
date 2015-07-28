@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n packagesearch
-Version=1.0
-Name=Debian Package Search
-Comment=Search for packages and view package information
-Icon=/usr/share/app-install-data-postinstallerf/icons/packagesearch.png
-Type=Application
-Categories=PackageManager;System;Settings;Qt;

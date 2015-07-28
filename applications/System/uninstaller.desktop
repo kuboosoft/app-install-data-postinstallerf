@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n wine-bin
-Type=Application
-Name=Wine Uninstaller
-Comment=Uninstall Windows programs
-Comment[ca]=Desinstaŀla programes de Windows
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/share/pixmaps/wine.xpm.png
-Terminal=false
-Categories=Application;System;

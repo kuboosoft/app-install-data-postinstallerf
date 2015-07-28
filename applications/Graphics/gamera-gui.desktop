@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gamera-gui
-Version=1.0
-Type=Application
-Name=gamera-gui
-Icon=/usr/share/app-install-data-postinstallerf/icons/gamera-gui.png
-GenericName=GUI for the Gamera framework
-Terminal=false
-Categories=Graphics;OCR;

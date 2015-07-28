@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gworkspace.app
-Type=Application
-Version=0.94
-Categories=System;FileTools;FileManager;
-Name=GWorkspace
-Comment=GNUstep Workspace Manager
-Icon=/usr/share/app-install-data-postinstallerf/icons/FileManager.tiff.png

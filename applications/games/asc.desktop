@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n asc
-Name=Advanced Strategic Command
-GenericName=asc
-Comment=Defend your Command
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/asc.png
-Terminal=false
-Categories=Game;StrategyGame;

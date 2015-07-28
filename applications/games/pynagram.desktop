@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pynagram
-Type=Application
-Name=Pynagram
-GenericName=Anagram game
-Comment=Unjumble letters
-Icon=/usr/share/app-install-data-postinstallerf/icons/pynagram.png
-Terminal=false
-Categories=Qt;Game;LogicGame;

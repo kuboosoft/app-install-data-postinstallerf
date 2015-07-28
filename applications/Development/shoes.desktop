@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n shoes
-Type=Application
-Name=Shoes
-Comment=Interpreter for Shoes programs
-Terminal=false
-Icon=/usr/share/app-install-data-postinstallerf/icons/shoes.png
-Categories=GTK;Development;Building;

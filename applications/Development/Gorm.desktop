@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gorm.app
-Type=Application
-Version=0.94
-Categories=Development;GUIDesigner;Building;
-Name=Gorm
-Comment=[GNUstep | Graphical] Object Relationship Modeller
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_lib_GNUstep_Applications_Gorm.app_Resources_Gorm.png

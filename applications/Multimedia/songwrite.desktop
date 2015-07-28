@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n songwrite
-Name=Songwrite
-GenericName=Tablature editor
-Type=Application
-Categories=Application;AudioVideo;Audio;Music;AudioVideoEditing;Player;
-Terminal=false
-Comment=guitar tablature editor and player
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_songwrite_data_songwrite_32x32.png

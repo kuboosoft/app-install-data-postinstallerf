@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ncbi-tools-x11
-Version=1.0
-Name=Entrez NCBI Database Querying Tool
-GenericName=Database Querying Tool
-Comment=Query NCBI databases and retrieve documents
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/ncbilogo.png
-Categories=Education;Science;Biology;

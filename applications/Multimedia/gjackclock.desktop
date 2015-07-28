@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gjacktransport
-Type=Application
-Name=G. JACK Clock
-GenericName=JACK transport Big Clock
-Comment=Display JACK transport timecode
-Icon=/usr/share/app-install-data-postinstallerf/icons/gjackclock.png
-Terminal=false
-Categories=AudioVideo;Utility;

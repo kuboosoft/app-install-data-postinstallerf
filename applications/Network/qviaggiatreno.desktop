@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qviaggiatreno
-Name=QViaggiaTreno
-Comment=Interfaccia grafica per ViaggiaTreno
-Terminal=false
-Type=Application
-GenericName=Informazioni in tempo reale sulla circolazione ferroviaria
-Categories=Qt;Network;
-StartupNotify=true

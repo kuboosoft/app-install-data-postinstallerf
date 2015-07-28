@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ardentryst
-Name=Ardentryst
-Categories=Game;RolePlaying
-Comment=Fantasy sidescroller game
-Terminal=false
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_ardentryst.png
-Type=Application

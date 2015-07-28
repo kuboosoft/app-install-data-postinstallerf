@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bibledit-gtk
-Name=Bibledit-Gtk
-Comment=Bible Editor
-Icon=/usr/share/app-install-data-postinstallerf/icons/bibledit.png
-Type=Application
-Categories=Office;
-StartupNotify=true

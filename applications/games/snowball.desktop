@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n snowballz
-Type=Application
-Name=SnowballZ
-GenericName=snowballz
-Comment=Command your army of penguins
-Icon=/usr/share/app-install-data-postinstallerf/icons/snowballz.png
-Terminal=false
-Categories=Game;StrategyGame;

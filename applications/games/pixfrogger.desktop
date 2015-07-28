@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pixfrogger
-Type=Application
-Name=PIX Frogger
-GenericName=pixfrogger
-Comment=Help the frog cross the street
-Icon=/usr/share/app-install-data-postinstallerf/icons/pixfrogger.png
-Terminal=false
-Categories=Game;ArcadeGame;

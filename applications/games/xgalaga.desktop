@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xgalaga
-Version=1.0
-Name=Galaga
-Comment=Play Galaga Game
-Icon=/usr/share/app-install-data-postinstallerf/icons/xgalaga-icon.png
-Terminal=false
-Type=Application
-Categories=Game;ArcadeGame;

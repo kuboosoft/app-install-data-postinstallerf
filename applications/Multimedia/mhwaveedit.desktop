@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mhwaveedit
-Type=Application
-Name=mhWaveEdit
-GenericName=Sound file editor
-Comment=Record, play, edit and convert sound files
-Icon=/usr/share/app-install-data-postinstallerf/icons/mhwaveedit.png
-Terminal=false
-Categories=AudioVideo;Audio;AudioVideoEditing;Recorder;

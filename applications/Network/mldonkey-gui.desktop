@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mldonkey-gui
-Version=1.0
-Type=Application
-Name=MLDonkey
-Comment=Graphical frontend for MLDonkey
-Comment[fr]=Interface graphique pour MLDonkey
-Icon=/usr/share/app-install-data-postinstallerf/icons/mlgui.xpm.png
-Categories=Network;FileTransfer;GTK;

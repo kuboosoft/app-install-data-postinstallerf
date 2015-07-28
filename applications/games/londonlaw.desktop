@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n londonlaw
-Name=London Law
-Comment=London Law board game with network support
-Comment[de]=Scotland Yard Brettspiel mit Netzwerkunterstützung
-Icon=/usr/share/app-install-data-postinstallerf/icons/londonlaw.png
-Terminal=false
-Type=Application
-Categories=BoardGame;Game;

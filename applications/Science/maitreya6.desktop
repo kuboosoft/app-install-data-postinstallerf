@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n maitreya
-Name=Maitreya6
-Comment=Astrology Software
-Icon=/usr/share/app-install-data-postinstallerf/icons/maitreya.png
-GenericName=Maitreya
-Terminal=false
-Type=Application
-Categories=Education;Science;Astronomy;

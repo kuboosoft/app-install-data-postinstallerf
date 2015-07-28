@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n literki
-Name=Literki
-Comment=Hacker s keyboard
-Icon=/usr/share/app-install-data-postinstallerf/icons/literki.png
-Terminal=false
-Type=Application
-Categories=Application;Utility
-StartupNotify=true

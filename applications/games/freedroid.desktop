@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n freedroid
-Name=Freedroid
-Comment=Clear a spaceship from all droids
-Icon=/usr/share/app-install-data-postinstallerf/icons/freedroid.png
-Type=Application
-Categories=Game;
-Terminal=false

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gjacktransport
-Type=Application
-Name=G. JACK Transport
-GenericName=JACK transport control tool
-Comment=Access JACK transport mechanism via a dynamic graphical slider. 
-Icon=/usr/share/app-install-data-postinstallerf/icons/gjacktransport.png
-Terminal=false
-Categories=AudioVideo;

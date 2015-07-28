@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n 3dchess
-Type=Application
-Version=1.0
-Name=3D Chess
-Comment=3D chess for X11
-Terminal=false
-Categories=Game;BoardGame;

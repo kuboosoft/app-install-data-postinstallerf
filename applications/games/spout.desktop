@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n spout
-Type=Application
-Name=Spout
-GenericName=
-Comment=
-Icon=/usr/share/app-install-data-postinstallerf/icons/spout.xpm.png
-Terminal=false
-Categories:Application:Game:ArcadeGame

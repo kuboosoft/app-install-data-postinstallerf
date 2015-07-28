@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n blocks-of-the-undead
-Name=Blocks Of The Undead
-Comment=Tetris Attack clone with spooky undertones
-Terminal=false
-Type=Application
-Categories=Game;LogicGame;

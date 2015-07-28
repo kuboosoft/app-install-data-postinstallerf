@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bmon
-Version=1.0
-Name=bmon
-Comment=Bandwidth monitor
-Comment[en]=Bandbreiten-Monitor
-Terminal=true
-Type=Application
-Categories=Application;Network;

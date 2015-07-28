@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mu-cade
-Type=Application
-Name=Mu-cade
-GenericName=
-Comment=Kenta Cho s Mu-cade
-Icon=/usr/share/app-install-data-postinstallerf/icons/mu-cade.png
-Terminal=false
-Categories=Game;ArcadeGame;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qprogram-starter
-Name=qprogram-starter
-Name[de_DE]=qprogram-starter
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/qprogram-starter.png
-Categories=Utility;

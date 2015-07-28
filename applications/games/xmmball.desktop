@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xmpuzzles
-Name=xmmball
-GenericName=mball game
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_xmball.m.png
-Terminal=false
-Type=Application
-Categories=Game;

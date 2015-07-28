@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n structure-synth
-Name=Structure Synth
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/structure-synth.png.png
-Comment=Application for creating 3D structures
-Comment[es]=Aplicación para crear estructuras tridimensionales
-Terminal=false
-Categories=Application;3DGraphics;

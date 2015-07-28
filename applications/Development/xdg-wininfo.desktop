@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n wininfo
-Comment=A window information utility for X
-Name=X Window Information
-GenericName=X Debugging Tool
-Terminal=false
-Type=Application
-Categories=Application;Development;

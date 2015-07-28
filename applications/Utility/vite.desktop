@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n vite
-Name=ViTE
-Comment=A visual trace explorer
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_vite.png
-Type=Application
-Categories=Utility;Application;

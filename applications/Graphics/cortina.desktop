@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n cortina
-Name=Cortina
-Comment=Manage your desktop wallpapers
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/cortina.png
-StartupNotify=true
-Categories=Graphics

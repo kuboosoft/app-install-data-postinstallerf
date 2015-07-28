@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n oneisenough
-Type=Application
-Name=One Is Enough
-GenericName=oneisenough
-Comment=2D platform game about communist and capitalist balls
-Icon=/usr/share/app-install-data-postinstallerf/icons/oneisenough.png
-Terminal=false
-Categories=Game;ArcadeGame;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mediatomb
-Name=MediaTomb
-Comment=MediaTomb UPnP MediaServer web user interface.
-Icon=/usr/share/app-install-data-postinstallerf/icons/mediatomb.png.png
-Terminal=false
-Type=Application
-Categories=AudioVideo;

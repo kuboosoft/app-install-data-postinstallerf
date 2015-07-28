@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n grub-choose-default
-Name=Choose next default for grub
-Comment=Control grub default through a GUI
-Terminal=false
-Type=Application
-Categories=System;

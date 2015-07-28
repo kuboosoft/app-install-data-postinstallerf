@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tanglet
-Name=Tanglet
-GenericName=Word Finding Game
-Comment=Single player variant of Boggle
-Icon=/usr/share/app-install-data-postinstallerf/icons/tanglet.png
-Terminal=false
-Type=Application
-Categories=Qt;Game;

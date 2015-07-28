@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n aws-status
-Version=1.0
-Type=Application
-Name=AWS Status
-Category=Network
-StartupNotify=false
-Icon=/usr/share/app-install-data-postinstallerf/icons/stock_weather-cloudy.png
-Comment=Shows Status of EC2 instances running on given account.

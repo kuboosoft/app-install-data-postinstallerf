@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n freevial
-Type=Application
-Name=Freevial
-Comment=Play a trivia-like game for community events
-Comment[ca]=Jugeu a un joc de preguntes i respostes pensat per a actes comunitaris
-Icon=/usr/share/app-install-data-postinstallerf/icons/freevial.png
-Terminal=false
-Categories=Game;

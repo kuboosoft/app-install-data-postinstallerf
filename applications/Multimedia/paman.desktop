@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n paman
-Name=PulseAudio Manager
-Comment=Manager your PulseAudio sound server.
-Icon=/usr/share/app-install-data-postinstallerf/icons/audio-card.png
-StartupNotify=true
-Type=Application
-Categories=AudioVideo;Audio;

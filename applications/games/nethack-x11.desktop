@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n nethack-x11
-Type=Application
-Name=X NetHack
-GenericName=NetHack (X interface)
-Comment=
-Icon=/usr/share/app-install-data-postinstallerf/icons/nethack.png
-Terminal=false
-Categories=Application;Game;AdventureGame;

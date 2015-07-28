@@ -1,4 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pypibrowser
-Name=PyPI Browser
-Categories=Development;PackageManager;Qt

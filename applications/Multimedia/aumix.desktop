@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n aumix
-Name=aumix
-GenericName=Audio Mixer
-Comment=Simple text-based mixer control program
-Icon=/usr/share/app-install-data-postinstallerf/icons/aumix.png
-Categories=AudioVideo;Audio;Player;
-Terminal=true
-Type=Application

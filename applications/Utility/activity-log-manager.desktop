@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n activity-log-manager
-Type=Application
-Name=Activity Log Manager
-GenericName=Activity Log Manager
-Comment=Configure what gets logged in your Zeitgeist activity log
-Icon=/usr/share/app-install-data-postinstallerf/icons/activity-log-manager.png
-Categories=GTK;Utility;

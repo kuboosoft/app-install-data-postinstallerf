@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n linthesia
-Type=Application
-Version=0.3
-Name=Linthesia
-GenericName=Piano game
-Icon=/usr/share/app-install-data-postinstallerf/icons/linthesia.xpm.png
-Categories=Game;Music;Education

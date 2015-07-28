@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n grcm
-Name=Grcm
-GenericName=Grcm
-Comment=Manage machine connections
-Icon=/usr/share/app-install-data-postinstallerf/icons/gcrm.png.png
-Terminal=false
-Type=Application
-Categories=Application;GTK;GNOME;Network;

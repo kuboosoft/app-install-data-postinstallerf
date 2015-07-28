@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xflr5
-Type=Application
-Version=1.0
-Name=XFLR5
-Comment=analysis tool for airfoils
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_xflr5.png
-Terminal=false
-Categories=Qt;Education;Science;Physics;Engineering;

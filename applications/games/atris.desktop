@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n atris
-Version=1.0.7
-Type=Application
-Name=Atris
-Comment=Tetris-like game
-Categories=Game;BlocksGame;

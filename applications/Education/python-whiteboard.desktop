@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n python-whiteboard
-Version=1.0
-Type=Application
-Name=python-whiteboard
-Icon=/usr/share/app-install-data-postinstallerf/icons/pywb_pixmap.xpm.png
-Categories=Application;Education

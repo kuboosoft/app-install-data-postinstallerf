@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n black-box
-Name=Black-Box
-GenericName=Laser puzzle
-Comment=Find the crystals
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/black-box.png
-Terminal=false
-Categories=Game;LogicGame

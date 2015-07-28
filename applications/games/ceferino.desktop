@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ceferino
-Name=Ceferino
-GenericName=ceferino
-Comment=Save the cows!
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/ceferino.png
-Terminal=false
-Categories=Game;ActionGame;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fldiff
-Name=fldiff
-Comment=A graphical diff program
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_fldiff.png
-Terminal=false
-Type=Application
-Categories=Utility;Development

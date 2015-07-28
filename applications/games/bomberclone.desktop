@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bomberclone
-Type=Application
-Name=Bomberclone
-Comment=Play a Bomberman like game
-Icon=/usr/share/app-install-data-postinstallerf/icons/bomberclone.png
-Terminal=false
-Categories=Game;

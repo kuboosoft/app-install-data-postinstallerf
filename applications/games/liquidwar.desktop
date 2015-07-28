@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n liquidwar
-Type=Application
-Version=1.0
-Name=Liquid War
-Comment=A unique multiplayer wargame
-Categories=Game;ArcadeGame;
-Icon=/usr/share/app-install-data-postinstallerf/icons/liquidwar.png
-Terminal=false

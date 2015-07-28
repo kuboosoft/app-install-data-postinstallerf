@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n intone
-Name=Intone
-Comment=e Media Player
-Icon=/usr/share/app-install-data-postinstallerf/icons/intone.png
-Terminal=false
-Type=Application
-Categories=Application;Utility;

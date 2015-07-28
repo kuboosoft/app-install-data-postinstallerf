@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n showq
-Type=Application
-Name=ShowQ
-GenericName=ShowQ
-Comment=MIDI controllable audio player
-Icon=/usr/share/app-install-data-postinstallerf/icons/showq_32x32.png
-Terminal=false
-Categories=AudioVideo;AudioVideoEditing;Music;

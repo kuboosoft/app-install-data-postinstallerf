@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mah-jong
-Name=Mah-Jong
-GenericName=Classic Mahjong game
-Comment=Play classic Mahjong puzzle game
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/mah-jong.png
-Terminal=false
-Categories=Game;BoardGame;

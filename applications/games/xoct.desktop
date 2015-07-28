@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xpuzzles
-Name=xoct
-GenericName=oct game
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_xoct.m.png
-Terminal=false
-Type=Application
-Categories=Game;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n altos
-Type=Application
-Name=AltOS UI
-GenericName=Altus Metrum Ground Station
-Comment=View and log downlink data from Altus Metrum products
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_altusmetrum.png
-Terminal=false
-Categories=Education;Electronics;Science;

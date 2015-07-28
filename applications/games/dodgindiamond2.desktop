@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n dodgindiamond2
-Type=Application
-Name=Dodgin Diamond 2
-GenericName=dodgindiamond2
-Terminal=false
-Categories=Game;ArcadeGame;
-Comment=Shoot  em up

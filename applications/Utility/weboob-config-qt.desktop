@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n weboob-qt
-Name=Weboob backends configuration
-Comment=Configure Weboob backends
-Icon=/usr/share/app-install-data-postinstallerf/icons/weboob-config-qt.png
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=Utility;Qt;

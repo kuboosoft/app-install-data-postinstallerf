@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sineshaper
-Type=Application
-Name=Sineshaper
-GenericName=Sineshaper
-Comment=Monophonic synth plugin with two oscillators and waveshapers
-Icon=/usr/share/app-install-data-postinstallerf/icons/sineshaper32x32.png
-Terminal=false
-Categories=GNOME;AudioVideo;Audio;

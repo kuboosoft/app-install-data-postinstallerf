@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n projectcenter.app
-Type=Application
-Categories=Development;IDE;
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_ProjectCenter.png
-Name=ProjectCenter
-Name[bg]=Среда за разработка (ProjectCenter)
-Comment=The Official GNUstep IDE
-Comment[bg]=Официалната интегрирана среда за разработка за GNUstep

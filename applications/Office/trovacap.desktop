@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n trovacap
-Version=1.0
-Name=TrovaCAP
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_trovacap.png
-Comment=Computes Italian ZIP codes
-Categories=Utility;Office;
-Terminal=false
-Type=Application

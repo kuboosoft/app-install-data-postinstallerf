@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n neobio
-Version=1.0
-Name=Sequence alignments neobio
-Terminal=false
-Type=Application
-Categories=Education;Science;Chemistry;
-GenericName=neobio 
-Comment=

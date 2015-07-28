@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mmass
-Version=1.0
-Name=mMass
-Comment=Mass spectrum viewer and data analysis proteomics tool
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/mmass.png
-Categories=Education;Science;Chemistry;

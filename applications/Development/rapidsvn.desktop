@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n rapidsvn
-Version=1.0
-Name=RapidSVN
-GenericName=Subversion Client
-Comment=A GUI Client for Subversion
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/rapidsvn.png
-Categories=Development;

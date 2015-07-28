@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n survex-aven
-Version=1.0
-Name=Aven Cave Surveying Tool
-GenericName=Cave Surveying Tool
-Comment=Visualise cave surveys
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/aven.png
-Categories=Education;Geology;Science;

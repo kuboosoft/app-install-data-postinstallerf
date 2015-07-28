@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n alsa-tools-gui
-Type=Application
-Name=HDSPConf
-GenericName=
-Comment=Control the Hammerfall HDSP ALSA settings
-Icon=/usr/share/app-install-data-postinstallerf/icons/alsa-tools.png
-Terminal=false
-Categories=AudioVideo;Audio;

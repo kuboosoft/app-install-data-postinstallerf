@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n puddletag
-Version=1.0
-Type=Application
-Name=puddletag
-Icon=/usr/share/app-install-data-postinstallerf/icons/puddletag.png
-GenericName=Audio Tag Editor
-Categories=AudioVideo;Qt;

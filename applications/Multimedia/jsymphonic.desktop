@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n jsymphonic
-Name=JSymphonic
-Comment=File manager for Sony MP3 players
-Icon=/usr/share/app-install-data-postinstallerf/icons/jsymphonic.png
-Terminal=false
-Type=Application
-Categories=Java;Audio;Utility

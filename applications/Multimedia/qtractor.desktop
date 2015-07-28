@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qtractor
-Name=Qtractor
-Version=1.0
-GenericName=Multi-track Sequencer
-Comment=Qtractor is an Audio/MIDI multi-track sequencer application
-Icon=/usr/share/app-install-data-postinstallerf/icons/qtractor.png
-Terminal=false
-Type=Application

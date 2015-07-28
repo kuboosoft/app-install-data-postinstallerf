@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mdbtools-gmdb
-Name=MDB Viewer
-Comment=View and export Microsoft Access databases
-Icon=/usr/share/app-install-data-postinstallerf/icons/gmdb2.png
-Terminal=false
-Type=Application
-Categories=Office;
-StartupNotify=true

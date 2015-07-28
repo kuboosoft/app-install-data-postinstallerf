@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n freetennis
-Name=FreeTennis
-Comment=Free Tennis - a free tennis simulation
-Icon=/usr/share/app-install-data-postinstallerf/icons/freetennis.png
-Terminal=false
-Type=Application
-Categories=Game;SportsGame;
-StartupNotify=false

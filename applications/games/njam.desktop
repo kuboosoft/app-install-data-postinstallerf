@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n njam
-Name=Njam
-Comment=pacman-like game with multiplayer support
-Icon=/usr/share/app-install-data-postinstallerf/icons/njamicon.png.png
-Terminal=false
-Type=Application
-Categories=Game;ArcadeGame;

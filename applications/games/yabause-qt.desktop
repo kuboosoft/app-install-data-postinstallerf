@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n yabause-qt
-Type=Application
-Name=Yabause (Qt port)
-Comment=Sega Saturn emulator
-Icon=/usr/share/app-install-data-postinstallerf/icons/yabause.png
-Categories=KDE;Qt;Game;

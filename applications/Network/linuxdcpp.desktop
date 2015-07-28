@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n linuxdcpp
-Name=LinuxDC++
-GenericName=Direct Connect Client
-Comment=A file-sharing client for the Direct Connect network
-Icon=/usr/share/app-install-data-postinstallerf/icons/linuxdcpp.png
-Terminal=false
-Type=Application
-Categories=Network;P2P;FileTransfer;GTK

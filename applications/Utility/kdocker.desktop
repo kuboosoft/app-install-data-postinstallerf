@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n kdocker
-Name=KDocker
-GenericName=Docking utility
-Comment=Docks any application into system tray
-Icon=/usr/share/app-install-data-postinstallerf/icons/kdocker.png
-Terminal=false
-Type=Application
-Categories=Utility;

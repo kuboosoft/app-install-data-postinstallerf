@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gravitywars
-Name=Gravity Wars
-GenericName=gravitywars
-Comment=Test your skills against gravity
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/gravitywars.png
-Terminal=false
-Categories=Game;ArcadeGame;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tuxfootball
-Type=Application
-Name=Tuxfootball
-Comment=2D Football Game
-# Icon=grisbi.png
-Terminal=false
-Categories=Application;Game;

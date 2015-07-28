@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n transfermii-gui
-Name=Transfermii
-GenericName=Transfer miis from a wiimote
-GenericName[fr]=Copier les miis d une wiimote.
-Icon=/usr/share/app-install-data-postinstallerf/icons/transfermii_gui.xpm.png
-Terminal=false
-Type=Application
-Categories=Utility;HardwareSettings

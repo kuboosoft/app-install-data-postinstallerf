@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fuse-emulator-gtk
-Version=1.0
-Type=Application
-Categories=Game;Emulator;GNOME;GTK;Application;
-Name=Fuse Spectrum Emulator (GTK+ version)
-Icon=/usr/share/app-install-data-postinstallerf/icons/fuse.png

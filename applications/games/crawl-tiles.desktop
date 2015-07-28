@@ -1,6 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n crawl-tiles
-Type=Application
-Name=Dungeon Crawl
-Icon=/usr/share/app-install-data-postinstallerf/icons/crawl.png
-Categories=Game;AdventureGame;

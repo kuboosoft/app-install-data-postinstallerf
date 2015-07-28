@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n granule
-Name=Granule
-Comment=Flashcards Program
-Icon=/usr/share/app-install-data-postinstallerf/icons/granule.png.png
-Terminal=false
-Type=Application
-Categories=GNOME;Application;Utility;

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xenwatch
-Name=xenwatch
-Comment=watch xen domains
-Terminal=false
-Type=Application
-Categories=GTK;System;Utility;

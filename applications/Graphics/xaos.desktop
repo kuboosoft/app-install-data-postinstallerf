@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xaos
-Name=Xaos - Fractal Zoomer
-Comment=Fractal Generator
-Icon=/usr/share/app-install-data-postinstallerf/icons/xaos.png.png
-Terminal=false
-Type=Application
-Categories=Application;Graphics;
-StartupNotify=true

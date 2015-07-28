@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n sdlbasic
-Type=Application
-Name=sdlBasic
-GenericName=sdlBasic
-Comment=Multiplatform basic interpreter for the development of videogames
-Icon=/usr/share/app-install-data-postinstallerf/icons/sdlbasic.png
-Categories=Development;
-Terminal=false

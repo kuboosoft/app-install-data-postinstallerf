@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gnome-pie
-Type=Application
-Name=Gnome-Pie
-Comment=Cakes don t lie.
-Icon=/usr/share/app-install-data-postinstallerf/icons/gnome-pie.png
-Categories=GNOME;Utility;

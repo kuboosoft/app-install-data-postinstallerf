@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gambas3-ide
-Name=Gambas3
-Comment=Gambas3 Integrated Development Environment
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/gambas3.png
-Categories=Development;

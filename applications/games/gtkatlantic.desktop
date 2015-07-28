@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gtkatlantic
-Type=Application
-Name=GtkAtlantic
-GenericName=Monopd network client
-Comment=Connect to a Monopd server
-Icon=/usr/share/app-install-data-postinstallerf/icons/gtkatlantic.png
-Categories=Game;BoardGame;

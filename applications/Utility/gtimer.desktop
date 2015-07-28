@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gtimer
-Version=1.0
-Type=Application
-Name=GTimer
-Comment=GTK-based X11 task timer
-Icon=/usr/share/app-install-data-postinstallerf/icons/gtimer.png
-Categories=Utility;Clock;GTK;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n confclerk
-Version=1.0
-Type=Application
-Name=ConfClerk
-GenericName=Offline conference schedule application
-Icon=/usr/share/app-install-data-postinstallerf/icons/confclerk.png
-Categories=Office;Calendar;

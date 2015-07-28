@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n colorname
-Version=1.0
-Type=Application
-Name=colorname
-Categories=Graphics;Utility;GTK
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_colorname.png

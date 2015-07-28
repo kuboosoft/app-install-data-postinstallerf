@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n dfo
-Name=Desktop Flickr Organizer
-Comment=Desktop Flickr Organizer for Gnome
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_dfo_icons_FontBookSquareThumbnail.png
-StartupNotify=true
-Terminal=false
-Type=Application
-Categories=GNOME;GTK;Graphics;

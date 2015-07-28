@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gpsk31
-Name=gpsk31
-Comment=psk31 program for hamradio operators
-Comment[nl]=psk31 programma voor zendamateurs
-Icon=/usr/share/app-install-data-postinstallerf/icons/gpsk31.png.png
-Terminal=false
-Type=Application
-Categories=Network;HamRadio

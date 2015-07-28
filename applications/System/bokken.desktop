@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bokken
-Type=Application
-Name=Bokken
-Comment=Reverse engineering suite
-GenericName=Reverse engineering suite
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pyshared_bokken_ui_data_bokken.png
-Categories=System;Security;

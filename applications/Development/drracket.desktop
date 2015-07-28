@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n racket
-Name=DrRacket
-Comment=IDE for Racket
-Terminal=false
-Type=Application
-Categories=Development;
-Icon=/usr/share/app-install-data-postinstallerf/icons/plt.png
-StartupNotify=true

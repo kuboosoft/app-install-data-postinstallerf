@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qtcreator
-Icon=/usr/share/app-install-data-postinstallerf/icons/qtcreator.png
-Type=Application
-Terminal=false
-Name=Qt Creator
-GenericName=Integrated Development Environment
-Categories=Qt;Development;IDE;

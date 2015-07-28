@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gmysqlcc
-Name=GMySQLcc
-Comment=Gtk+ MySQL Control Center
-Icon=/usr/share/app-install-data-postinstallerf/icons/gmysqlcc-32.png.png
-StartupNotify=false
-Terminal=false
-Type=Application
-Categories=GTK;Development;Database

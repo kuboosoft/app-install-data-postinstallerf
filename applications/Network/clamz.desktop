@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n clamz
-Name=Clamz MP3 Downloader (command-line)
-Comment=Download MP3 files from AmazonMP3.com
-Terminal=true
-Type=Application
-Categories=Network;

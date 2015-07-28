@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gomoku.app
-Type=Application
-Version=0.94
-Categories=Game;BoardGame;
-Name=Gomoku.app
-Comment=GNUstep Gomoku Game

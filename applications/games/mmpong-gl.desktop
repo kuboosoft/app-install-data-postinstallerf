@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mmpong-gl
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/mmpong-gl.png
-Categories=Game;ArcadeGame
-Name=mmpong-gl
-Comment=massively multiplayer pong game

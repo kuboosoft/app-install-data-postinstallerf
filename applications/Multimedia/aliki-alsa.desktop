@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n aliki
-Type=Application
-Name=Aliki (with ALSA support)
-GenericName=Aliki
-Comment=Measurement tool for Impulse Responses
-Icon=/usr/share/app-install-data-postinstallerf/icons/aliki_32x32.png
-Terminal=false
-Categories=AudioVideo;AudioVideoEditing;Music;

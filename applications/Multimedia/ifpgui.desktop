@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ifpgui
-Type=Application
-Name=ifpgui
-GenericName=
-Comment=KDE-style GUI for iRiver iFP flash players 
-Icon=/usr/share/app-install-data-postinstallerf/icons/.png
-Terminal=false
-Categories=Application;KDE;AudioVideo

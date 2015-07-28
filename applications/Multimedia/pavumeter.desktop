@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pavumeter
-Name=PulseAudio Volume Meter (Playback)
-Comment=Monitor the output volume
-Icon=/usr/share/app-install-data-postinstallerf/icons/audio-input-microphone.png
-StartupNotify=true
-Type=Application
-Categories=AudioVideo;Audio;

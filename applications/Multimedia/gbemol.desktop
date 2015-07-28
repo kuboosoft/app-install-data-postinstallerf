@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gbemol
-Name=gbemol
-Comment=MPD client
-Icon=/usr/share/app-install-data-postinstallerf/icons/gbemol.png
-Terminal=false
-Type=Application
-Categories=AudioVideo;Player;

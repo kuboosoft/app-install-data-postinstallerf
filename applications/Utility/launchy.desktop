@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n launchy
-Version=1.0
-Name=Launchy
-Comment=Keystroke Launcher
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/launchy_icon.png
-Categories=Utility;

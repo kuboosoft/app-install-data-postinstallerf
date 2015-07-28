@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fceu
-Type=Application
-Version=1.0
-Name=FCE Ultra
-Comment=Play NES ROMs
-Terminal=false
-Categories=Game

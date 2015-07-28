@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n price.app
-Type=Application
-Version=0.94
-Categories=Graphics;2DGraphics;RasterGraphics;
-Name=PRICE
-Comment=Precision Raster Image Convolution Engine
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_lib_GNUstep_Applications_PRICE.app_Resources_price-icon-os.png

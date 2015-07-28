@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ettercap-graphical
-Type=Application
-Name=ettercap
-GenericName=Ettercap
-Comment=Multipurpose sniffer/interceptor/logger
-Icon=/usr/share/app-install-data-postinstallerf/icons/ettercap.png
-Terminal=false
-Categories=Network;System;Security;GTK;

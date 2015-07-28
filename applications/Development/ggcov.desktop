@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ggcov
-Name=GGcov
-Comment=Source code coverage browser
-Icon=/usr/share/app-install-data-postinstallerf/icons/ggcov64.png.png
-Terminal=false
-Type=Application
-Categories=Application;Development;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pixbros
-Type=Application
-Name=PIX Bros
-GenericName=pixbros
-Comment=2D game inspired in Bubble Bobble, Snow Bros and Tumble Pop
-Icon=/usr/share/app-install-data-postinstallerf/icons/pixbros.png
-Terminal=false
-Categories=Game;ArcadeGame;

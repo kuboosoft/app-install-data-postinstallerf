@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n nautilus-pastebin
-Name=Nautilus Pastebin Configurator
-Type=Application
-GenericName=Nautilus Pastebin configuration panel
-GenericName[it]=Pannello di configurazione per Nautilus Pastebin
-Icon=/usr/share/app-install-data-postinstallerf/icons/nautilus-pastebin.png
-Categories=Settings;

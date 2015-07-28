@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n git-cola
-Name=Cola Git GUI
-Comment=A highly caffeinated git GUI
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_git-cola_icons_git.png
-StartupNotify=true
-Terminal=false
-Type=Application
-Categories=Development;RevisionControl;

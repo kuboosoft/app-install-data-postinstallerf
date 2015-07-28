@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n filler
-Name=Filler
-Comment=Filler in Java Game
-Comment[pl]=Filler w Javie
-Icon=/usr/share/app-install-data-postinstallerf/icons/filler.png.png
-Terminal=0
-Type=Application

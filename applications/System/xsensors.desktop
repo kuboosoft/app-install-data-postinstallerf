@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xsensors
-Type=Application
-Name=XSensors
-GenericName=Hardware Monitor
-Comment=View hardware health
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_xsensors_default.png
-Terminal=false
-Categories=System;

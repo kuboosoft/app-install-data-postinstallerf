@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xenwatch
-Name=xenlog
-Comment=xenstore activity logger
-Terminal=true
-Type=Application
-Categories=GTK;System;Utility;

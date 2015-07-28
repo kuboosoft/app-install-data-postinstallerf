@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ll-scope
-Name=Oscilloscope
-Comment=An oscilloscope DSSI plugin
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_lib_dssi_ll-scope_icon.png
-Terminal=false
-Type=Application
-Categories=GNOME;AudioVideo;Audio;

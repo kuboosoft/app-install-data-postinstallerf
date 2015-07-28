@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n freedoom
-Name=Freedoom
-GenericName=Clone of the legendary first person shooter Doom
-Comment=First Person Shooter Game
-Icon=/usr/share/app-install-data-postinstallerf/icons/freedoom.png
-Terminal=false
-Type=Application
-Categories=Game;ActionGame;

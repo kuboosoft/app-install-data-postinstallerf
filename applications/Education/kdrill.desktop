@@ -1,6 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n kdrill
-Name=KDrill
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_kdrill.png
-Categories=Education;Languages;

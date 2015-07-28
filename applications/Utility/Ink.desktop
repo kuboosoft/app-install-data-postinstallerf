@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gnustep-examples
-Name=Ink Text Editor
-Name[bg]=Текстов редактор (Ink)
-Comment=Example text editor for GNUstep
-Comment[bg]=Примерен текстов редактор за GNUstep
-Type=Application
-Categories=Utility;TextEditor;
-Icon=/usr/share/app-install-data-postinstallerf/icons//usr/lib/GNUstep/Applications/Ink.app/Resources/Ink_app.tiff.png

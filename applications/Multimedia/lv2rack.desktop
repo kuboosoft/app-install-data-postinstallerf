@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n zynjacku
-Type=Application
-Name=Lv2rack
-GenericName=LV2 plugins host
-Comment=LV2 plugins host for JACK
-Icon=/usr/share/app-install-data-postinstallerf/icons/lv2rack32x32.png
-Terminal=false
-Categories=AudioVideo;Audio;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n yarssr
-Version=1.0
-Type=Application
-Name=Yarssr
-Comment=RSS reader for the notification area
-Icon=/usr/share/app-install-data-postinstallerf/icons/paper_green.png
-Categories=Network;News;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n kiki
-Name=Kiki
-Comment=Regular expression testing
-Icon=/usr/share/app-install-data-postinstallerf/icons/kiki.png
-Terminal=false
-Type=Application
-Categories=Development;

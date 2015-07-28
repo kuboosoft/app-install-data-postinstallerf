@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gosa-desktop
-GenericName=GOsa²
-Icon=/usr/share/app-install-data-postinstallerf/icons/gosa.png
-Type=Application
-Terminal=false
-Name=GOsa
-Categories=Qt;KDE;Utility;System;

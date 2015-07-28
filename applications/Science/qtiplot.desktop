@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n qtiplot
-Name=QtiPlot
-Comment=Analyze and plot scientific data
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/qtiplot.png
-Categories=Education;Science;Math;Qt;
-StartupNotify=true

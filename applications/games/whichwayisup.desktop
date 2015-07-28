@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n whichwayisup
-Type=Application
-Name=Which Way is Up
-GenericName=whichwayisup
-Comment=2D platform game with a slight rotational twist
-Icon=/usr/share/app-install-data-postinstallerf/icons/whichwayisup.png
-Terminal=false
-Categories=Game;ArcadeGame;

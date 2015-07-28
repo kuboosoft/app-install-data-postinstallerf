@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n aeolus
-Name=Aeolus
-Comment=Organ Emulator
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/audio-x-generic.png
-Categories=AudioVideo;Audio;

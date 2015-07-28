@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n caret
-GenericName=Cortical Surface Reconstruction and Visualization
-Name=Caret
-Type=Application
-Terminal=false
-Icon=/usr/share/app-install-data-postinstallerf/icons/caret5.png
-Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;Qt;Viewer;

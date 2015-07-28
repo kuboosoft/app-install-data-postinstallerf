@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gstm
-Name=gSTM
-GenericName=gSTM
-Comment=Manage SSH tunnel connections
-Icon=/usr/share/app-install-data-postinstallerf/icons/gSTM.png.png
-Terminal=false
-Type=Application
-Categories=Application;GTK;GNOME;Network;

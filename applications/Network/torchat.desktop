@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n torchat
-Type=Application
-Name=TorChat
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_torchat_icons_torchat.png
-GenericName=TorChat
-Comment=Decentralized instant messenger built on top of the Tor Network
-Terminal=false
-Categories=Network;InstantMessaging;Chat;FileTransfer;Security

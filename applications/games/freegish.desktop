@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n freegish
-Version=1.0
-Name=FreeGish
-Comment=A physics based arcade game
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/freegish.png
-Terminal=false
-Categories=Game;ArcadeGame;

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n madbomber
-Name=Mad Bomber
-Comment=Catch the Bombs
-Type=Application
-Categories=Application;ArcadeGame;Game;
-Icon=/usr/share/app-install-data-postinstallerf/icons/madbomber-icon.png
-Terminal=false

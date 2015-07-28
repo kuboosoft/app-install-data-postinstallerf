@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n stackapplet
-Name=StackApplet
-Comment=Launch the StackApplet indicator
-Icon=/usr/share/app-install-data-postinstallerf/icons/stackapplet.png
-Type=Application
-Categories=GNOME;GTK;Utility;

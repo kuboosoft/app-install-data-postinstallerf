@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xmms2tray
-Version=1.0
-Name=XMMS2tray
-GenericName=XMMS2 tray icon
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_xmms2tray_data_xmms2_24.png
-Categories=Application;AudioVideo;Audio;Player;GTK;TrayIcon

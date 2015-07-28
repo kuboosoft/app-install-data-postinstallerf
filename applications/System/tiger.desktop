@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tiger
-Name=Tiger UNIX security tool
-Comment=Tiger UNIX security tool (root)
-Terminal=true
-Type=Application
-Categories=System;
-StartupNotify=true

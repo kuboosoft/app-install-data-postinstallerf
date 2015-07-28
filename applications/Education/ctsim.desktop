@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ctsim
-Version=1.0
-Name=CTSim Computed Tomography Simulator
-GenericName=Computed Tomography Simulator
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/ctsim.png
-Categories=Education;Science;MedicalSoftware

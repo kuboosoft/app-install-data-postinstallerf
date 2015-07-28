@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n bygfoot
-Version=1.0
-Type=Application
-Name=bygfoot
-Comment= A soccer manager game
-Categories=Application;Game;
-Icon=/usr/share/app-install-data-postinstallerf/icons/bygfoot.xpm.png

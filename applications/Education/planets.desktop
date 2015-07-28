@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n planets
-Name=Planets
-Comment=A simple interactive program for playing with simulations of planetary systems
-Comment[da]=Et simpelt interaktivt program til at lege med simulering af planetsystemer
-Icon=/usr/share/app-install-data-postinstallerf/icons/planets.png
-Terminal=false
-Type=Application
-Categories=Application;Education;Science;Astronomy;Physics;

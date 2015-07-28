@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n faustworks
-Type=Application
-Name=FaustWorks
-GenericName=IDE for Faust
-Comment=IDE for Faust dsp programming language
-Icon=/usr/share/app-install-data-postinstallerf/icons/faustworks.png
-Terminal=false
-Categories=Development;Audio;

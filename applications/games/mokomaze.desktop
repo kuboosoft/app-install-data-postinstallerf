@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mokomaze
-Name=Mokomaze
-Comment=Ball-in-the-labyrinth game
-Version=0.5
-Type=Application
-Terminal=false
-Categories=Game;
-Icon=/usr/share/app-install-data-postinstallerf/icons/mokomaze.png

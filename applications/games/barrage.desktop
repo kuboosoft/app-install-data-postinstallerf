@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n barrage
-Name=Barrage
-Comment=A rather destructive action game.
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_icons_barrage48.png
-Type=Application
-Categories=Game;

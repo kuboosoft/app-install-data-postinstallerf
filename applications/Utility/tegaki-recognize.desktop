@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n tegaki-recognize
-Name=Tegaki Recognize
-GenericName=Handwriting Recognition
-Comment=Handwriting Recognition
-Terminal=false
-Type=Application
-Categories=Utility;
-Icon=/usr/share/app-install-data-postinstallerf/icons/tegaki-recognize.png

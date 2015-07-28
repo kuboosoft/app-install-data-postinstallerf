@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n fgrun
-Type=Application
-Version=1.4
-Name=FlightGear Launch Control
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_flightgear.png
-Terminal=false
-Categories=Game;Simulation;
-Comment=Launch FlightGear via FGRun

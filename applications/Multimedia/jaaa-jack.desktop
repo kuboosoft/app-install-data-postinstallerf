@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n jaaa
-Version=1.0
-Name=Jaaa (with JACK support)
-Comment=Analyse or generate an Audio signal through JACK
-Icon=/usr/share/app-install-data-postinstallerf/icons/jaaa.png
-Terminal=false
-Type=Application
-Categories=AudioVideo;Audio;

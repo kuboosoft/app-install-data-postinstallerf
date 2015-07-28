@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ovito
-Name=OVITO
-Comment=Scientific visualization and analysis software for atomistic simulation data.
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_ovito_ovito_icon.png
-Terminal=false
-Type=Application
-Categories=Graphics;Science;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xmlcopyeditor
-Type=Application
-Name=XML Copy Editor
-GenericName=XML Editor
-Comment=Edit XML documents
-Icon=/usr/share/app-install-data-postinstallerf/icons/xmlcopyeditor.png.png
-Terminal=false
-Categories=Application;Development;TextEditor;

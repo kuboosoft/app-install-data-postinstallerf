@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xshogi
-Type=Application
-Name=Xshogi
-Comment=Play Shogi Game
-Icon=/usr/share/app-install-data-postinstallerf/icons/grisbi.png.png
-Terminal=false
-Categories=Application;Game;

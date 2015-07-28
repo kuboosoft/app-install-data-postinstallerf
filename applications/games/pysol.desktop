@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n pysolfc
-Name=PySol Fan Club Edition
-Terminal=false
-Type=Application
-Categories=Game;CardGame;
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_icons_pysol01.png

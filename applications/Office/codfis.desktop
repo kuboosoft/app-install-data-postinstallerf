@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n codfis
-Version=1.0
-Name=CodFis
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_share_pixmaps_codfis.png
-Comment=Computes Italian Fiscal codes
-Categories=Utility;Office;
-Terminal=false
-Type=Application

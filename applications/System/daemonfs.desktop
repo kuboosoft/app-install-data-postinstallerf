@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n daemonfs
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/daemonfs.png
-Comment=Real time monitoring software
-Name=DaemonFS
-Categories=System;Filesystem;
-StartupNotify=true

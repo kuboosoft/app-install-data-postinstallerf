@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n xosview
-Name=Xosview
-Comment=X based system monitor
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/xosview.xpm.png
-Categories=Application;System;

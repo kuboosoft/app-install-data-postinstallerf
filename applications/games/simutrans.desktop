@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n simutrans
-Name=Simutrans
-Comment=Transportation simulator
-Icon=/usr/share/app-install-data-postinstallerf/icons/simutrans.xpm.png
-Terminal=false
-Type=Application
-Categories=Game;Simulation;

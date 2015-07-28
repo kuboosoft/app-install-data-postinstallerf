@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n gtk-vector-screenshot
-Name=Take Vector Screenshot
-Comment=Save vector images of application windows
-Terminal=false
-Type=Application
-Icon=/usr/share/app-install-data-postinstallerf/icons/camera.png
-# StartupNotify=true
-Categories=GTK;GNOME;Utility;

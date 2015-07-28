@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n ballz
-Version=1.0
-Name=B.A.L.L.Z.
-Comment=Platform game with some puzzle elements
-Icon=/usr/share/app-install-data-postinstallerf/icons/ballz.png
-Terminal=false
-Type=Application
-Categories=Game;ActionGame;

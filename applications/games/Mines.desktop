@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n mines.app
-Type=Application
-Version=0.94
-Categories=Game;LogicGame;
-Name=Mines
-Comment=GNUstep minesweeper game
-Icon=/usr/share/app-install-data-postinstallerf/icons/_usr_lib_GNUstep_Applications_Mines.app_Resources_Mines.png

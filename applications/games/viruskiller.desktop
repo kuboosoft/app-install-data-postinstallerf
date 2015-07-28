@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=postinstaller -n viruskiller
-Categories=Game;ArcadeGame;
-Name=Virus Killer
-Icon=/usr/share/app-install-data-postinstallerf/icons/viruskiller.png
-Terminal=false
-Type=Application
